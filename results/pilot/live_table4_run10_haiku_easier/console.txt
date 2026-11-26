@@ -1,0 +1,25 @@
+[   11s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Priya -> everyone: Okay, let's do a fish. Big, simple outline, tail on this side. I'll sketch it quick. We start the run at the tail and go round, so the whole thing stays connected.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   21s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Yes, fish works for me. Priya, is the tail the spot you're pointing at, on the left? If so, we start the run there and go round. I can take the top half once the nose is set, so we're not all starting
+    (Tom held a thought)
+    (Leo held a thought)
+[   33s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Yes, that spot on the left is the tail. I'm sketching the outline now: tail tip, then the body top and bottom meeting at the nose. We start the run at the tail and split at the nose, so Maya takes the
+    (Tom held a thought)
+    (Leo held a thought)
+[   46s] 0:45 asked Maya,Tom,Leo | dominoes 0 | calls 13
+    Maya -> everyone: Okay, I've got the sketch. So we start at the tail tip, run into this mouth point here, then split: I take the top edge over to the nose, Leo takes the bottom. Priya, is that the split you meant? Once
+    (Tom held a thought)
+    (Leo held a thought)
+[   58s] 1:00 asked Tom,Priya,Leo | dominoes 0 | calls 16
+    Priya -> everyone: Yes, that's it. Tail tip, run into the mouth point, then split: Maya takes the top to the nose, Leo the bottom. I'm starting the run at the tail now and carrying it up to the mouth. Maya, take the pad
+    (Tom held a thought)
+    (Leo held a thought)
+[   72s] 1:15 asked Maya,Tom,Leo | dominoes 2 | calls 19
+    Maya -> everyone: Got the pad, thanks Priya. I'm starting the top edge from the mouth point now and arcing up over to the nose. If my first domino isn't quite on your run yet, I'll line it up as it arrives. Leo, you've
+    (Tom held a thought)
+    (Leo held a thought)

@@ -1,4 +1,4 @@
-# AI pilot (real-time) · table of 4
+# AI pilot (real-time, larger model) · table of 4
 
 *4 people, 20 minutes, one brief: make a picture of an animal out of dominoes.*
 
@@ -11,7 +11,7 @@
 
 ## In short
 
-You've hit your 5-hour limit · resets 12:50pm (UTC)
+Priya sketched a fish on the scratch pad, head on the left and tail on the right, then split the work: Maya took the top edge, Tom the bottom, Leo the forked tail, and Priya the eye and mouth. Early on, she spotted that the nose did not hand off to both lines, so she added a new start behind it. Tom rolled the belly round, and Leo laid the tail. Maya carried the top line over the back, then found a jam by the back of the head. Tom bridged a dip with loose strays and lifted a stray domino to round off a sharp turn. Late in the game, Leo's inspection revealed the problem: the belly and tail were not connected to the start. Maya tried a connect, but it did not take. When the clock ran out, only 65 of 130 had fallen. The blind judges guessed a snake, worm, or squiggle, not a fish.
 
 ## What happened
 
@@ -291,4 +291,4 @@ Someone flicks the start domino. 65 of the 130 standing dominoes fall (50%).
 
 Asked afterwards what the picture was meant to be: Maya: **; Tom: **; Priya: **; Leo: **.
 
-The judges, seeing only what fell, guessed: **; **; **.
+The judges, seeing only what fell, guessed: *a snake or worm drawn as a single wavy line, a river or winding road seen on a map, a cursive loop or handwritten squiggle*; *hand-drawn wavy line or squiggle, snake or worm shape, loop-tailed scribble or handwritten stroke*; *hand-drawn cursive scribble, snake or worm outline, rope or cable lying loosely*.

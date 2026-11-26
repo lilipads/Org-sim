@@ -18,16 +18,28 @@
     "Priya": "",
     "Leo": ""
   },
-  "team_intent": "",
+  "team_intent": "fish (from conversation)",
   "recognition": 0.0,
-  "recognition_if_all_fell": 0.0,
+  "recognition_if_all_fell": 0.667,
   "pad_holders": [
     "Priya"
   ],
   "judge_guesses": [
-    [],
-    [],
-    []
+    [
+      "a snake or worm drawn as a single wavy line",
+      "a river or winding road seen on a map",
+      "a cursive loop or handwritten squiggle"
+    ],
+    [
+      "hand-drawn wavy line or squiggle",
+      "snake or worm shape",
+      "loop-tailed scribble or handwritten stroke"
+    ],
+    [
+      "hand-drawn cursive scribble",
+      "snake or worm outline",
+      "rope or cable lying loosely"
+    ]
   ],
   "placed": 130,
   "fell": 65,

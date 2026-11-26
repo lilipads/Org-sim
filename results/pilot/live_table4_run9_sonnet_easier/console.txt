@@ -1,0 +1,20 @@
+[   15s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Priya -> everyone: Okay, idea to kick us off: a fish. Big body, forked tail, one eye. It's one closed outline, so the push starts at the nose and splits round the top and bottom. Quick sketch on the pad. Shoot it down i
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[   27s] 0:15 asked Maya,Tom,Leo | dominoes 1 | calls 7
+    Maya -> everyone: Ha, I was literally about to say fish too! Love it. I'll put the start down at the nose and do the top curve, if somebody wants to take the bottom one?
+    (Tom held a thought)
+    (Leo held a thought)
+[   40s] 0:30 asked Priya,Leo | dominoes 6 | calls 9
+    Priya -> everyone: Great, Maya, you take the top from the nose and I'll take the bottom. Tom, can you do the forked tail on the right? That start domino by you is a leftover, so Maya's nose becomes the real start. Leo, 
+    (Leo held a thought)
+[   58s] 0:45 asked Maya,Tom,Leo | dominoes 4 | calls 12
+    Leo -> everyone: Got it, I'll take the eye. I'm dropping the bottom arc I started, since that's Priya's. I'll hold off until Maya's top line is up, then branch the eye off it so it actually falls.
+    (Tom held a thought)
+    (Maya held a thought)
+[   69s] 1:00 asked Maya,Tom,Priya | dominoes 6 | calls 15
+    Maya -> everyone: Got it, I'm on the top curve from the nose. Just finishing these first few, then I'll arc it up and over toward the tail.
+    (Tom held a thought)
+    (Priya held a thought)
