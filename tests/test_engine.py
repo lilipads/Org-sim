@@ -181,3 +181,18 @@ def test_walking_is_free():
     g = Game(room, [a], GameConfig(round_no=2, turns=1, shared_pool="shared"), start_region=start)
     g.run()
     assert len(room.dominoes) == 1 and g.location["A"] == "gap 1-2"
+
+
+def test_a_line_laid_backwards_still_falls():
+    from orgsim.dominoes import Physics
+    from orgsim.game import table_world
+    w = table_world(phys=Physics(pos_sigma=0.0, angle_sigma=0.0, bump_chance=0.0))
+    fwd = [{"type": "domino", "x": 5 + 0.5 * i, "y": 5, "angle": 0} for i in range(6)]
+    back = [{"type": "domino", "x": 8 + 0.5 * i, "y": 5, "angle": 180} for i in range(6)]
+    import random
+    w.place([(d["x"], d["y"], d["angle"]) for d in fwd + back], "t", 0, "table",
+            list(w.supply), random.Random(0), max_n=99)
+    first = min(w.dominoes.values(), key=lambda d: d.x)
+    first.start = True
+    assert len(w.reachable_from_start()) == 12
+    assert len(w.topple([first.id])) == 12

@@ -1,0 +1,96 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Hana": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Jack": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 473.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "a fish with a forked tail",
+      "a boat or canoe with a raised bow",
+      "a leaf or seed pod on a stem"
+    ],
+    [
+      "a fish with a forked tail and open mouth",
+      "an eye with lashes or a closed eyelid",
+      "a leaf or boat hull with trailing lines"
+    ],
+    [
+      "fish",
+      "leaf",
+      "canoe or boat"
+    ]
+  ],
+  "placed": 141,
+  "fell": 100,
+  "completion": 0.709,
+  "team_score": 0.709,
+  "first_domino_at": "1:00",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Jack": 7,
+    "Omar": 16,
+    "Hana": 15
+  },
+  "held_thoughts": 61,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 740799,
+    "cache_read_tokens": 402622,
+    "output_tokens": 139862,
+    "seconds": 1176.3,
+    "api_equivalent_usd": 0.2221,
+    "cached": 0
+  }
+}

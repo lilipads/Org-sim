@@ -7,7 +7,9 @@ Coordinates: x to the right, y downwards (screen convention). Angles in degrees,
 A falling domino A knocks over a standing domino B when B is
   * reach_min..reach_max ahead of A along A's falling direction,
   * within side_tol of A's falling line, and
-  * facing within max_turn degrees of A.
+  * lined up within max_turn degrees of A's fall (either way round: a standing
+    domino falls whichever way it is pushed, so a line laid "backwards" still
+    carries the fall, now running the other way).
 Splits and merges need no special pieces: one domino can satisfy the rule for
 two neighbours, and two lines can feed one domino.
 """
@@ -209,15 +211,23 @@ class World:
         return out
 
     # ---- physics -------------------------------------------------------
-    def hit(self, a: Domino, b: Domino) -> tuple:
-        """(ok, reason). Reason explains the nearest failure, for Inspect."""
+    @staticmethod
+    def fall_dir(a_dir: float, b: Domino) -> float:
+        """Which way b falls when pushed by something falling towards a_dir."""
+        return b.angle if abs(angle_diff(b.angle, a_dir)) <= 90 else angle_diff(b.angle + 180.0, 0.0)
+
+    def hit(self, a: Domino, b: Domino, a_dir: float | None = None) -> tuple:
+        """(ok, reason). Reason explains the nearest failure, for Inspect.
+        a_dir is the way a falls (default: the way it faces)."""
         p = self.phys
-        rad = math.radians(a.angle)
+        if a_dir is None:
+            a_dir = a.angle
+        rad = math.radians(a_dir)
         ux, uy = math.cos(rad), math.sin(rad)
         dx, dy = b.x - a.x, b.y - a.y
         ahead = dx * ux + dy * uy
         side = -dx * uy + dy * ux
-        turn = angle_diff(b.angle, a.angle)
+        turn = angle_diff(self.fall_dir(a_dir, b), a_dir)
         if ahead < p.reach_min:
             return False, f"too close ({ahead:.2f} ahead)"
         if ahead > p.reach_max:
@@ -228,43 +238,46 @@ class World:
             return False, f"turn too sharp ({abs(turn):.0f} deg, max {p.max_turn:.0f})"
         return True, "ok"
 
-    def successors(self, a: Domino) -> list:
+    def successors(self, a: Domino, a_dir: float | None = None) -> list:
         reach = math.hypot(self.phys.reach_max, self.phys.side_tol) + 0.01   # far corner of the hit zone
         return [b for b in self.near(a.x, a.y, reach)
-                if b.id != a.id and b.state == "up" and self.hit(a, b)[0]]
+                if b.id != a.id and b.state == "up" and self.hit(a, b, a_dir)[0]]
 
     def topple(self, start_ids: list, cause: str = "push") -> dict:
         """Knock over the given dominoes and everything they reach. Returns
         {id: time in seconds}. Mutates state to 'down'."""
         times: dict = {}
-        heap = [(0.0, i) for i in start_ids
+        heap = [(0.0, i, self.dominoes[i].angle) for i in start_ids
                 if i in self.dominoes and self.dominoes[i].state == "up"]
         heapq.heapify(heap)
         while heap:
-            t, i = heapq.heappop(heap)
+            t, i, a_dir = heapq.heappop(heap)
             if i in times:
                 continue
             d = self.dominoes[i]
             if d.state != "up":
                 continue
             times[i] = t
-            d.state, d.down_cause = "down", cause
-            for b in self.successors(d):
+            nxt = self.successors(d, a_dir)
+            d.state, d.down_cause, d.angle = "down", cause, a_dir      # lies the way it fell
+            for b in nxt:
                 if b.id not in times:
-                    heapq.heappush(heap, (t + self.phys.fall_time, b.id))
+                    heapq.heappush(heap, (t + self.phys.fall_time, b.id, self.fall_dir(a_dir, b)))
         return times
 
     def reachable_from_start(self, region: str | None = None) -> set:
         """Ideal check without mutating: which standing dominoes the push would reach."""
         starts = [d.id for d in self.dominoes.values() if d.start and d.state == "up"
                   and (region is None or d.region == region)]
-        seen, stack = set(starts), list(starts)
+        seen = set(starts)
+        stack = [(i, self.dominoes[i].angle) for i in starts]
         while stack:
-            d = self.dominoes[stack.pop()]
-            for b in self.successors(d):
+            i, a_dir = stack.pop()
+            d = self.dominoes[i]
+            for b in self.successors(d, a_dir):
                 if b.id not in seen:
                     seen.add(b.id)
-                    stack.append(b.id)
+                    stack.append((b.id, self.fall_dir(a_dir, b)))
         return seen
 
     # ---- inspection ----------------------------------------------------

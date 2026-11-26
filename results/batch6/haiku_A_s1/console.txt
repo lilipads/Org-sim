@@ -4,3 +4,221 @@
     (Leo held a thought)
     (Priya held a thought)
     (Tom held a thought)
+[   30s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Nice, a fish works well from an outline. Just make sure the start sits right at the tail end so the fall runs into the body. Once the body's on the pad, I can take the fins and the fork.
+    (Leo held a thought)
+    (Priya held a thought)
+[   46s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Tom, good catch on the start. If it sits at the tail, the body runs left and the fork runs right, so they can't connect. I'm moving it to the nose so both body lines leave going right, and the fork br
+    (Leo held a thought)
+    (Priya held a thought)
+[   58s] 0:45 asked Tom,Priya,Leo | dominoes 7 | calls 13
+    Leo -> everyone: Good call on the nose, Maya. I'll take the top edge from here back to the tail, since it carries the start. Priya, could you take the bottom edge once the top is going?
+    (Tom held a thought)
+    (Priya held a thought)
+[   72s] 1:00 asked Maya,Priya,Leo | dominoes 9 | calls 16
+    Leo -> Tom: Tom, you've already got the top edge going from the nose, so I won't retrace it. I'll carry it on from the end of your run toward the middle, and we can check the joint once it's down.
+    Priya -> everyone: Got it, Leo. I'm taking the bottom edge, stroke 2, from the nose. Once the top's going I'll take the tail fork off the back end, so just say when stroke 1 is down.
+    (Maya held a thought)
+[   80s] 1:15 asked Tom,Leo | dominoes 19 | calls 18
+    Leo -> Priya: Priya, I'll call it when the top edge reaches the middle, then you can run the tail fork off the back.
+    Tom -> everyone: Top body's going from the nose now. Leo, carry on from the end of my run once it's down, and Priya, the bottom edge is yours. I'll shout when stroke 1 is laid, then I'll take the fins.
+[   88s] 1:30 asked Priya,Leo | dominoes 33 | calls 20
+    Priya -> everyone: Bottom edge is going from the nose, about a third of the way along. I'll take the tail fork once the top is down.
+[   88s] 1:45 asked - | dominoes 45 | calls 20
+[   99s] 2:00 asked Leo | dominoes 57 | calls 21
+    Leo -> everyone: Top edge is at the middle now. Tom's carrying it on toward the tail. Priya, the bottom edge is yours, and the tail fork can start off the back once the top reaches the tail.
+[  110s] 2:15 asked Tom,Priya,Leo | dominoes 62 | calls 24
+    Tom -> everyone: Top's nearly down, two more dominoes and it reaches the middle. Leo, carry on from there. Priya, you've got the fork, so I'll stay on the top and then do the eye.
+    (Leo held a thought)
+    (Priya held a thought)
+[  123s] 2:30 asked Tom,Priya,Leo | dominoes 71 | calls 27
+    Tom -> everyone: Top body's down, all the way to the tail junction. Leo, you're free. Priya, the fork's yours. I'm taking the eye now, stroke 5, up by the nose.
+    (Priya held a thought)
+    (Leo held a thought)
+[  134s] 2:45 asked Priya,Leo | dominoes 78 | calls 29
+    Priya -> everyone: Got it, Tom. Top's down to the tail, so the fork can start off the back. I've still got about fifteen on the bottom edge. Leo, you're free, so could you take the fork off the tail junction? I'll finis
+    (Leo held a thought)
+[  145s] 3:00 asked Maya,Tom,Leo | dominoes 87 | calls 32
+    Maya -> everyone: Top fork's one domino from done. Leo, once it's down, can you take the bottom fork, stroke 4, off the tail junction? I'll check the tail join when the bottom body gets there.
+    (Leo held a thought)
+[  153s] 3:15 asked Maya,Leo | dominoes 92 | calls 34
+    Leo -> everyone: Maya, I've got the bottom fork, stroke 4, already going off the tail junction. Four are down, six to go. You've got the top arm, stroke 3.
+    (Maya held a thought)
+[  162s] 3:30 asked Maya | dominoes 100 | calls 35
+    Maya -> everyone: Top fork's down, Leo, so carry on with the bottom fork. I'm checking the tail join now, once Priya's bottom body gets there.
+[  174s] 3:45 asked Maya,Priya,Leo | dominoes 103 | calls 38
+    Leo -> everyone: Bottom fork's down, and I think it's joined at the junction. Priya, I'm free now. Want me to take the last stretch of the bottom edge into the tail, or would you rather keep it?
+    (Priya held a thought)
+[  183s] 4:00 asked Maya,Priya,Leo | dominoes 103 | calls 41
+    Leo -> everyone: Bottom fork's down and it looks joined at the junction. Priya, keep the last stretch of the bottom body, since you're already on it. When you're through I'll go over the tail join with an inspect.
+    (Priya held a thought)
+    (Maya held a thought)
+[  192s] 4:15 asked Maya,Priya | dominoes 103 | calls 43
+    Maya -> everyone: Nice work on the forks, Leo. Priya, keep the bottom body going. I'll check the tail join once it gets there. I'm also smoothing that sharp turn right at the junction.
+    (Priya held a thought)
+[  200s] 4:30 asked Maya,Priya,Leo | dominoes 103 | calls 46
+    Leo -> Maya: Maya, before you smooth that junction, I'm going to look at it closely so we know where the real break is.
+    Maya -> everyone: I'm going to look over the tail junction before I touch that turn. Priya, let me know when the bottom body gets close.
+    (Priya held a thought)
+[  212s] 4:45 asked Maya,Priya,Leo | dominoes 103 | calls 49
+    Priya -> Maya: Will do, Maya. About ten more on the bottom edge. I'll shout when it reaches the junction.
+    Maya -> everyone: Heads up, Leo, I just looked at the junction. The lower fork isn't connected. It's pale, so the start won't reach it. The bottom body stops just short of the fork's base. Priya, once your body gets to
+    (Leo held a thought)
+[  226s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 53
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: On it, Maya. I'm joining the end of the bottom body across to the base of the lower fork now. Shout if it looks wrong.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  234s] 5:15 asked Maya,Leo | dominoes 107 | calls 55
+    Leo -> Priya: Go for it, Priya, you're already on the join, so I'll leave it with you. I'm looking at the junction now and will check the join once it's down.
+    Maya -> everyone: Go for it, Priya. Shout when it's across. Leo, let's leave that sharp turn alone until we've looked at the join.
+[  241s] 5:30 asked Priya,Leo | dominoes 110 | calls 57
+[  241s] 5:45 asked - | dominoes 114 | calls 57
+[  241s] 6:00 asked - | dominoes 117 | calls 57
+[  248s] 6:15 asked Maya | dominoes 121 | calls 58
+[  255s] 6:30 asked Leo | dominoes 123 | calls 59
+[  264s] 6:45 asked Priya | dominoes 123 | calls 60
+    Priya -> everyone: Join's mostly across, but two spots near the base wouldn't take dominoes. Checking it now before I say it's through.
+[  272s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 123 | calls 64
+    Priya -> Maya: Maya, the join's got two tight spots right at the fork's base. I'm nudging them closed now, then I'll look again.
+    Leo -> Priya: Priya, I'm looking at the junction now. If one of those two spots is easier for you to leave to me, say which and I'll take it.
+    Maya -> everyone: Priya, I'm looking at the join from here too. Tell me which two spots won't take, and I'll help close them so the lower fork gets picked up.
+    (Tom held a thought)
+[  283s] 7:15 asked Maya,Priya,Leo | dominoes 123 | calls 67
+    Leo -> everyone: Priya, when you name the two spots, I'll take whichever one you want. Also, the top arm of the fork looks pale to me. It's not connected to the start, and I think its base at the hub is the problem. M
+    (Priya held a thought)
+    (Maya held a thought)
+[  292s] 7:30 asked Maya,Priya | dominoes 123 | calls 69
+    Maya -> everyone: Priya, I looked too. The bad spot is right where the body meets the fork base, with one domino sitting off to the side. Tell me which of the two you want and I'll take it. I'll check the top arm's bas
+    (Priya held a thought)
+[  299s] 7:45 asked Maya,Priya,Leo | dominoes 123 | calls 72
+    Maya -> everyone: Priya, I'm taking the off-side domino at the fork base now. You keep the two tight spots. I'll check the top arm's hub base after that.
+    (Priya held a thought)
+[  309s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 123 | calls 76
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> Maya: Maya, I'm keeping my hands off the hub so you and Priya aren't crowding the same joint. I'm looking at the top arm's base now, and I'll tell you what I see.
+    Priya -> everyone: Got it, Maya, you take the off-side one. I'm closing the two tight spots at the fork's base now, then I'll look at the join again.
+    (Maya held a thought)
+    (Tom held a thought)
+[  319s] 8:15 asked Maya,Priya,Leo | dominoes 123 | calls 79
+    Leo -> Maya: Maya, the top arm is still pale at the hub. I'm looking at the base now and will tell you which domino is off.
+    Maya -> everyone: Two minutes. I've got the off-side domino at the fork base. Priya, shout when your two spots are through. I'll look at the top arm's hub right after.
+    (Priya held a thought)
+[  332s] 8:30 asked Maya,Priya,Leo | dominoes 123 | calls 82
+    Leo -> Maya: Maya, I've looked at the hub. The top arm is pale right at its base. Its lowest domino is standing, but the domino that should knock into it is off to one side, so the fall never reaches it. Closing t
+    Priya -> everyone: Got it, Maya. Closing those two tight spots at the fork base now. I'll look at the join again as soon as they're in.
+    (Maya held a thought)
+[  340s] 8:45 asked Maya,Priya,Leo | dominoes 123 | calls 85
+    Maya -> everyone: Got it, Leo. I'm closing the off-side domino at the top arm's base now.
+    Priya -> everyone: Closing those two tight spots at the fork base now. Inspecting the join right after.
+[  353s] 9:00 asked Maya,Priya,Leo | dominoes 123 | calls 88
+    Maya -> everyone: Got it, Priya. I'm nudging that off-side domino at the top arm's base into line right now.
+    Priya -> everyone: Two tight spots at the fork base are closed, I think. Inspecting the join now, and I'll shout if it's not through.
+    (Leo held a thought)
+[  363s] 9:15 asked Maya,Priya,Leo | dominoes 123 | calls 91
+    Priya -> everyone: Inspection says the lower fork is still pale at its base, so the join isn't carrying through yet. I'm doing one quick fix right at the base now.
+    (Maya held a thought)
+    (Leo held a thought)
+[  374s] 9:30 asked Maya,Priya,Leo | dominoes 123 | calls 94
+    Maya -> everyone: Inspection's back. The nudge at the top arm's base didn't take. Both forks are still pale, so only the body is connected. Priya, you're on the lower base. Leo, can you look at the top arm's lowest dom
+    (Priya held a thought)
+    (Leo held a thought)
+[  380s] 9:45 asked Priya,Leo | dominoes 123 | calls 96
+    Leo -> Maya: Maya, I'm looking at the top arm's lowest domino now. I'll tell you exactly which one is off once the inspection's back.
+    Priya -> everyone: Quick fix at the base of the lower fork now. Maya's on the top arm. Shout if it still looks pale when the push comes.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.13,
+      "error": 0.99
+    },
+    "Tom": {
+      "speed": 1.59,
+      "error": 1.02
+    },
+    "Priya": {
+      "speed": 0.7,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 0.73,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 435.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish",
+      "leaf",
+      "eye"
+    ],
+    [
+      "fish outline, pointed nose with a forked tail",
+      "leaf with a stem",
+      "closed eye with lashes"
+    ],
+    [
+      "fish outline with tail and open mouth",
+      "leaf or lens-shaped outline",
+      "eye-shaped or almond outline"
+    ]
+  ],
+  "placed": 123,
+  "fell": 95,
+  "completion": 0.772,
+  "team_score": 0.772,
+  "first_domino_at": "0:45",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 15,
+    "Tom": 4,
+    "Leo": 15,
+    "Priya": 13
+  },
+  "held_thoughts": 40,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 113,
+    "failed": 0,
+    "input_tokens": 238,
+    "cache_creation_tokens": 547878,
+    "cache_read_tokens": 336430,
+    "output_tokens": 111062,
+    "seconds": 958.8,
+    "api_equivalent_usd": 0.1685,
+    "cached": 0
+  }
+}

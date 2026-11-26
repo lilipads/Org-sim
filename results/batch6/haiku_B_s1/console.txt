@@ -1,0 +1,249 @@
+[   25s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, let's do a fish! The forked tail makes it easy to recognise. I'm sketching it on the pad now, starting at the nose, and then we can trace it.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[   35s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Jack -> everyone: Love it, Sofia. Fish with a forked tail is a great pick. Nose first works: the fall runs back along the top toward the tail. Once the body's down, I'll take the tail fork so we don't end up in each ot
+    (Omar held a thought)
+    (Hana held a thought)
+[   45s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 10
+    Hana -> everyone: Fish works for me. Keep stroke 1 as one run from the nose, over the top, round the forked tail and back along the belly. I'll trace stroke 1 as soon as it's on the pad, so the run goes out from the no
+    (Sofia held a thought)
+    (Omar held a thought)
+[   58s] 0:45 asked Sofia,Omar,Jack | dominoes 0 | calls 13
+    Sofia -> everyone: Okay, my sketch didn't stick, so I'm picking the pad back up to redraw the fish. Nose is the start, and everything runs back from it. Hana, stroke 1 is the top body from the nose to the tail base, so 
+    (Omar held a thought)
+    (Jack held a thought)
+[   68s] 1:00 asked Omar,Hana,Jack | dominoes 0 | calls 16
+    Omar -> everyone: Fish works for me. Sofia, keep sketching. Once the body and the forked tail are on the pad, I'll take the fins while Jack does the tail. Jack, shout if you'd rather I take the tail fork. Let's watch w
+    (Hana held a thought)
+    (Jack held a thought)
+[   78s] 1:15 asked Sofia,Hana,Jack | dominoes 0 | calls 19
+    Sofia -> everyone: Redrawing the fish now. Nose is the start, and everything runs back from it. Hana, stroke 1 is the top body to the tail base, so that's yours. I'll do the belly once it's on the pad.
+    (Jack held a thought)
+    (Hana held a thought)
+[   86s] 1:30 asked Omar,Hana,Jack | dominoes 1 | calls 22
+    Hana -> everyone: Got it, Sofia. Stroke 1 is the top body, nose to tail base. I'm laying it now, starting from the nose.
+    (Jack held a thought)
+[   95s] 1:45 asked Sofia,Omar,Jack | dominoes 6 | calls 25
+    Omar -> Sofia: Sofia, once the belly's on the pad, give me the fin stroke numbers and I'll take the fins. I'll keep my hands off until then.
+    Sofia -> everyone: Hana, I'm laying the belly, stroke 2, right alongside your top body from the nose. I'll keep the pad until it's down.
+    (Jack held a thought)
+[  104s] 2:00 asked Sofia,Omar,Hana,Jack | dominoes 12 | calls 29
+    Sofia -> Omar: Omar, the belly's stroke 2 and it's going down from the nose now. There aren't any fins on the pad yet, so once the tail's traced I'll give you the pad to sketch them.
+    Jack -> everyone: Sounds good, Hana. I'm laying the forked tail, stroke 3, from the tail base as your top run gets there. Sofia, the sketch looks right to me.
+    (Hana held a thought)
+[  113s] 2:15 asked Sofia,Omar,Hana | dominoes 20 | calls 32
+    Omar -> Sofia: Sounds good, Sofia. Give me the pad once the tail's traced and I'll sketch the fins. I'll keep my hands off until then.
+    Hana -> everyone: Sounds good, Sofia. I'm tracing the top body from the nose now. Let's keep the top and belly a clear hand's width apart at the nose so the two lines don't cross.
+[  120s] 2:30 asked Sofia,Omar | dominoes 29 | calls 34
+[  120s] 2:45 asked - | dominoes 38 | calls 34
+[  129s] 3:00 asked Sofia,Jack | dominoes 42 | calls 36
+    Sofia -> everyone: Belly's down, nice work all. Omar, the pad's yours for the fins. Draw them as new strokes branching off the body lines, not starting fresh in the open, and tell me the stroke numbers. Jack's tail is a
+    (Jack held a thought)
+[  141s] 3:15 asked Omar,Jack | dominoes 44 | calls 38
+    Omar -> everyone: Got the pad, thanks Sofia. Fins are stroke 4, the dorsal fin off the top body, and stroke 5, the belly fin. Both branch off the body lines, nothing starts in the open. I'm tracing them now and they'll
+    (Jack held a thought)
+[  156s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 50 | calls 42
+    Omar -> everyone: Heads up, the pad already has the two fins as strokes 6 and 7, with the dorsal fin label beside them. I won't add duplicates. I'm tracing 6 and 7 now and they'll wait for the body to reach them.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  168s] 3:45 asked Sofia,Hana | dominoes 61 | calls 44
+    Sofia -> everyone: Nice, Omar. Fins branching off the body is the right call. Hana, Jack, once your pieces meet at the tail base, let's check that joint before the push. I'm looking at it now.
+    (Hana held a thought)
+[  182s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 65 | calls 48
+    Hana -> everyone: Nose looks joined, and the start reaches everything standing, so the body's connected. Jack, the tail base is yours, and I'll keep my hands off it. Once the tail's down I'll check the joint for gaps b
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  191s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 68 | calls 52
+    Sofia -> everyone: Nice work on the nose, Hana. The tail base is still open, though. The belly's end and the top run's far end aren't meeting the tail yet. Jack, start stroke 3 from the belly end so it carries on from t
+    (Omar held a thought)
+    (Jack held a thought)
+[  202s] 4:30 asked Omar,Hana,Jack | dominoes 74 | calls 55
+    Hana -> everyone: Sounds right, Sofia. I'm carrying the top run on from its far end toward the tail's upper corner now. Jack, I'm leaving the tail and the belly end to you.
+    (Omar held a thought)
+    (Jack held a thought)
+[  212s] 4:45 asked Sofia,Omar,Jack | dominoes 76 | calls 58
+    Omar -> everyone: Quick look at the tail joint, and the belly's end, just here, has nothing ahead of it yet. The top run's still short of the tail's upper corner too. Jack's got the belly end and Hana's carrying the to
+    (Sofia held a thought)
+    (Jack held a thought)
+[  224s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 76 | calls 62
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: On it, Omar, thanks. Carrying the tail on from the belly end now, and I'll check the joint with Hana's run once it reaches the base.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  234s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 66
+    Sofia -> everyone: Quick repeat from me, since my earlier line got cut off. Jack, start the forked tail from the belly's end. Hana, bring the top run round to the tail's upper corner. I'm keeping my hands off the tail a
+    (Hana held a thought)
+    (Jack held a thought)
+[  244s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 71 | calls 70
+    Hana -> everyone: Right, I'm bringing the top run round to the tail's upper corner now. Jack, tell me when the tail's down and I'll check the joint with you.
+    (Jack held a thought)
+[  252s] 5:45 asked Sofia,Omar,Jack | dominoes 70 | calls 73
+    Jack -> everyone: Got it, Hana. Tail's still coming off the belly end. I'll shout when it's down so we can check the joint together.
+[  262s] 6:00 asked Sofia,Omar,Hana | dominoes 67 | calls 76
+    Hana -> everyone: My top run should have reached the tail's upper corner. I'm having a look at that joint now, Jack. Shout when the tail's standing and we'll check the meeting point together.
+[  273s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 64 | calls 80
+    Omar -> Hana: Hana, I'm having a look at the tail's upper corner with you. I'll hold off on any building until we know whether it meets.
+    Hana -> everyone: My top run stops just short of the tail's upper corner. I'm carrying it on two more dominoes toward the corner now. Jack, when your tail's standing, that's where we meet. I'll check the joint with you
+    (Jack held a thought)
+[  284s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 62 | calls 84
+    Omar -> Hana: Hana, I'll take another look at the tail's upper corner now. Shout when your two dominoes are down and Jack's tail is standing.
+    Jack -> everyone: Hana, not down yet. The fork still has about twenty dominoes to go. I'll shout the moment it's standing so we can check the joint together.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  294s] 6:45 asked Sofia,Omar,Hana | dominoes 60 | calls 87
+    Hana -> everyone: Omar, Jack, my top run stops just short of the tail's upper corner, with nothing ahead of its end. I'm adding two dominoes toward the corner now. I'm not touching the tail. Jack, when your fork is sta
+    (Sofia held a thought)
+    (Omar held a thought)
+[  304s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 64 | calls 91
+    Hana -> everyone: Top run's end is at the tail's upper corner now, facing up-left, with nothing ahead of it. I've stopped building and I'm not touching the tail. Jack, with three minutes left, how far is the fork? If i
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  314s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 68 | calls 95
+    Hana -> everyone: Jack, honest count please: how many dominoes left on the fork, and can it be standing in about two minutes? If not, let's decide now whether to shorten the tail so we don't push with a half-built fork
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  325s] 7:30 asked Sofia,Omar,Jack | dominoes 70 | calls 98
+    Jack -> everyone: Honest count, Hana: about nine dominoes left on the fork, and my hands have five to lay on this build. I can have it standing in about two minutes if I keep my hands moving. I'll shout the moment it's
+    (Sofia held a thought)
+    (Omar held a thought)
+[  338s] 7:45 asked Sofia,Omar,Hana | dominoes 73 | calls 101
+    Sofia -> everyone: Thanks, Jack, that honest count helps. Fork's yours, and nobody else touches the tail. Here's the rule: if it isn't standing with one minute left, we shorten the fork so the belly end and the top run 
+    (Omar held a thought)
+    (Hana held a thought)
+[  347s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 105
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Jack, quick status on the fork? If it isn't standing at the one-minute mark we cut it short, like we agreed. Hana, Omar, I'm checking the tail's upper corner now, hands off.
+    (Hana held a thought)
+    (Jack held a thought)
+[  356s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 69 | calls 109
+    Sofia -> everyone: Jack, the fork's the open question. How many dominoes are still to go, and can it be standing before the one-minute mark? If not, we shorten it now so the belly end and the top run meet cleanly. Omar,
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  365s] 8:30 asked Omar,Hana,Jack | dominoes 66 | calls 112
+    Hana -> everyone: Agreed, Sofia. I'm staying off the tail. My top run ends at the upper corner with nothing ahead of it. Jack, shout when the fork is down and we'll check that joint. If it isn't standing at the one-min
+    (Jack held a thought)
+    (Omar held a thought)
+[  376s] 8:45 asked Sofia,Omar,Jack | dominoes 64 | calls 115
+    Jack -> everyone: Honest status: the fork is about five in, with about four left after this build. I'm still laying it now, and I'll shout the moment it's down. If it isn't standing at the one-minute mark, we shorten t
+    (Omar held a thought)
+    (Sofia held a thought)
+[  388s] 9:00 asked Sofia,Omar,Hana | dominoes 60 | calls 118
+    Sofia -> everyone: Agreed, Hana. Jack, it's one minute, so we cut the fork now: stop laying it and pull its far end back to the bend so the belly end and top run meet. Omar, check that joint at the tail's upper corner. 
+    (Hana held a thought)
+    (Omar held a thought)
+[  398s] 9:15 asked Omar,Hana,Jack | dominoes 60 | calls 121
+    Hana -> everyone: One minute. Jack, the fork isn't standing, so stop laying it where it is and leave it there. Then we push. Omar, check the joint at the tail's upper corner once the fork's down, and we'll go with what
+    (Jack held a thought)
+    (Omar held a thought)
+[  410s] 9:30 asked Sofia,Omar,Jack | dominoes 60 | calls 124
+    Omar -> everyone: Joint's checked. The top run stops at the tail's upper corner, facing up-left, with nothing ahead, and the fork isn't standing to meet it, so they won't join there. The body is all connected to the st
+    (Sofia held a thought)
+    (Jack held a thought)
+[  419s] 9:45 asked Sofia,Hana,Jack | dominoes 60 | calls 127
+    Sofia -> everyone: Agreed, Omar. Nobody touches anything, and we push as it is.
+    Jack -> everyone: Thanks, Omar, that check was what we needed. Agreed: my fork stopped where it is, hands off. Let's push.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.13,
+      "error": 0.99
+    },
+    "Omar": {
+      "speed": 1.59,
+      "error": 1.02
+    },
+    "Hana": {
+      "speed": 0.7,
+      "error": 1.1
+    },
+    "Jack": {
+      "speed": 0.73,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 454.0,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Sofia",
+    "Sofia",
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a boat or canoe with a curved bow line",
+      "a leaf or seed pod with a stem",
+      "a fish with a small dorsal fin"
+    ],
+    [
+      "fish with a tail",
+      "boat or canoe on water",
+      "leaf or seed shape"
+    ],
+    [
+      "fish with a tail",
+      "leaf on a stem",
+      "canoe or boat"
+    ]
+  ],
+  "placed": 60,
+  "fell": 60,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "1:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 14,
+    "Jack": 8,
+    "Hana": 13,
+    "Omar": 9
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 144,
+    "failed": 0,
+    "input_tokens": 282,
+    "cache_creation_tokens": 727406,
+    "cache_read_tokens": 430143,
+    "output_tokens": 139952,
+    "seconds": 1193.3,
+    "api_equivalent_usd": 0.2198,
+    "cached": 6
+  }
+}

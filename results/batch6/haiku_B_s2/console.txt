@@ -1,0 +1,255 @@
+[   20s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish! Side view, facing right, with a forked tail on the left. I've got the pad and I'm sketching it now. The run starts at the top of the tail, so that's where we begin.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   29s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Jack -> everyone: Yes, a fish, I'm in! Sofia, the forked tail is the big giveaway, so let's make sure the fin points are sharp. Once you've got the outline on the pad, I'll take the belly line to trace and Omar or Hana
+    (Hana held a thought)
+    (Omar held a thought)
+[   42s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 10
+    Sofia -> everyone: Yes, fish! I'm drawing it now. The run starts at the top tip of the tail and goes along the back to the nose. Jack, you take the belly once it's on the pad, and Omar or Hana can do the eye and fins.
+    (Omar held a thought)
+    (Hana held a thought)
+[   53s] 0:45 asked Omar,Hana,Jack | dominoes 0 | calls 13
+    Omar -> everyone: Sounds good, Sofia and Jack. Jack takes the belly. I'll do the tail fin and the eye once the top line's on the pad, so we're not on the same stroke.
+    (Jack held a thought)
+    (Hana held a thought)
+[   63s] 1:00 asked Sofia,Hana,Jack | dominoes 1 | calls 16
+    Sofia -> everyone: Sounds good, Omar. I'm tracing the top line now from the tail tip. Jack, the belly joins onto the back once it's standing. Omar, the fin comes after that.
+    (Jack held a thought)
+    (Hana held a thought)
+[   74s] 1:15 asked Omar,Hana,Jack | dominoes 10 | calls 19
+    Hana -> everyone: Sofia, quick check before the top line goes down: is the start at the very tip of the tail, not partway along? Once stroke 1 is on the table I'll check where the loop closes.
+    (Omar held a thought)
+    (Jack held a thought)
+[   81s] 1:30 asked Sofia | dominoes 19 | calls 20
+    Sofia -> everyone: Yes, Hana, START is right at the top tip of the tail, the very end. Stroke one runs from there along the back to the nose. I'm laying it now.
+[   89s] 1:45 asked Hana | dominoes 31 | calls 21
+[   89s] 2:00 asked - | dominoes 45 | calls 21
+[   89s] 2:15 asked - | dominoes 56 | calls 21
+[  102s] 2:30 asked Omar | dominoes 63 | calls 22
+    Omar -> everyone: Fin's down, Sofia. It branches off the top line by the tail, so it should be joined once your line gets there. I'll do the eye once your line's through to the head. Shout when it's past the eye spot.
+[  111s] 2:45 asked Sofia,Hana | dominoes 68 | calls 24
+    Sofia -> everyone: Got it, Omar. I'll shout when the top line's past the eye spot.
+    (Hana held a thought)
+[  121s] 3:00 asked Omar,Hana | dominoes 76 | calls 26
+    Hana -> everyone: Sofia, keep going along the back past the fin. I'm checking the start and the tail join now. Once the belly's down, I'll want the pad for a pectoral fin.
+    (Omar held a thought)
+[  132s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 83 | calls 30
+    Omar -> Hana: Hana, I'll look over the tail join with you. Fin and eye are both down, so I'm not touching the start.
+    Hana -> everyone: Quick heads-up: the lower corner of the tail fin is off to the side and will break the fall there. I'm nudging it into line now, and Sofia, keep the back going past the fin.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  141s] 3:30 asked Sofia,Omar,Hana | dominoes 88 | calls 33
+    Omar -> Hana: Go for it, Hana, the tail corner's yours. I'll stay off it and check the start gaps once you're done.
+    Hana -> Omar: Sure, Omar. I'm closing the lower fin corner now. Once it's standing, let's look at the join by the tail tip together. You take the top side and I'll check the bottom.
+    Sofia -> everyone: Hana, I'm carrying the back on past the fin now. I'll shout when we're through the eye spot, Omar.
+[  150s] 3:45 asked Omar,Hana | dominoes 95 | calls 35
+    Omar -> Hana: Holding off the tail corner, Hana. Shout when it's standing and I'll look at the start gaps with you.
+    Hana -> Omar: Thanks, Omar. The fix at the lower corner is landing now. Once it's standing, I'll check the bottom of the tail join while you look at the top.
+[  159s] 4:00 asked Omar,Hana | dominoes 101 | calls 37
+    Omar -> Hana: Sounds good, Hana. I'll look at the top side of the tail join and the start now. Shout when the corner's standing and we'll go over the bottom together.
+    Hana -> Omar: Fix is landing at the lower corner now. Omar, I'll shout when it's standing, then we look at the tail join together.
+[  168s] 4:15 asked Omar,Hana,Jack | dominoes 102 | calls 40
+    Omar -> Hana: Got it, Hana. I'm looking over the top of the tail join and the start while you close the corner. Shout when it's standing and we'll go over the bottom together.
+    Hana -> Omar: Nearly there, Omar. I'll shout once the corner's standing.
+    Jack -> everyone: Belly's down, Sofia, from where it meets the back all the way to the nose. I'm going to check that join by the middle of the back now. Hana, the pectoral's yours once Sofia's done with the pad.
+[  183s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 102 | calls 44
+    Omar -> Hana: Sounds good, Hana. I'm watching the top of the tail join and the start while you finish. Shout when the corner's standing.
+    Jack -> Omar: Omar, I missed your chat with Hana. Can you run the fin and eye plan past me again? If you want, I can take the eye join once Sofia's back line is through.
+    Sofia -> everyone: We're past the eye spot now, Omar, so the eye's yours. Hana, the pad's next for the pectoral once I've checked the whole chain.
+[  193s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 102 | calls 48
+    Jack -> Omar,Sofia: Omar, no need to repeat it, I'm happy to leave the fin and eye with you. I'll inspect the chain now and shout if the back join or the tail needs anything.
+    Sofia -> everyone: Hana, the pad's yours for the pectoral. I'm going to fix the nose where the back and belly meet, there's a jammed domino and one sitting off to the side. Omar, the eye's all yours.
+    (Hana held a thought)
+    (Omar held a thought)
+[  207s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 103 | calls 52
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Thanks, Sofia, I've got the pad. I'm sketching the pectoral fin low on the belly, near the gill. Omar, I'm still checking the lower corner. It looks close, but I'll look properly before I call it stan
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  224s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 111 | calls 56
+    Hana -> everyone: Omar, the lower corner isn't standing yet, so I'm not calling it. The belly's down by the pectoral spot, so I'm tracing the fin onto it now. Then let's look at the corner and the tail join together, y
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  231s] 5:30 asked Sofia,Omar,Jack | dominoes 114 | calls 59
+    Omar -> Hana: Got it, Hana. I'm not touching the tail corner. I'm checking the top of the join and the start now, and I'll shout if I see a gap.
+    Sofia -> everyone: Nose is nearly done, one more nudge. After that I'll walk the whole chain from the tail to the nose before the push, so shout if anything looks cut off.
+    (Jack held a thought)
+[  244s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 63
+    Hana -> Omar: Got it, Omar. The corner's still not standing. I've got three dominoes left on the pectoral, then I'll shout and we'll look at the join together, you on top and me on the bottom.
+    Omar -> everyone: Sofia, the back's past the eye, so I'm taking the eye now, joining off the back line near where the lone domino is. Hana, I'm not touching the tail corner. Shout if the start or the top join looks cut
+    (Jack held a thought)
+    (Sofia held a thought)
+[  253s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 123 | calls 67
+    Omar -> Hana: Got it, Hana. I'm staying off the tail corner and finishing the eye. Shout when the corner's standing and we'll look at the join together.
+    Sofia -> everyone: Got it, Omar, the eye's all yours. The start and top join look solid from here. I'm taking the off-line belly domino in the middle so Hana can stay on the tail corner. I'll walk the whole chain before
+    (Hana held a thought)
+    (Jack held a thought)
+[  266s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 130 | calls 71
+    Jack -> everyone: Nice work on the back, Sofia, that line's really clean. Omar, the eye pieces up by the back still aren't joined. Want me to take the far end of that join, or will you close it? Your call, I'm happy to
+    (Hana held a thought)
+    (Sofia held a thought)
+[  277s] 6:30 asked Sofia,Omar,Hana | dominoes 137 | calls 74
+    Hana -> everyone: Honest update: the lower tail corner still isn't standing. The next domino is sitting off to the side, so I'm redoing that fix now instead of calling it. Pectoral's done and the pad's down. Once the c
+    (Omar held a thought)
+    (Sofia held a thought)
+[  290s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 141 | calls 78
+    Hana -> everyone: Honest call: the lower fin corner still isn't setting, and nudging it isn't working. I'm stopping the fix and retracing the lower fin from the pad so it's laid fresh. Omar, please keep your hands off 
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  299s] 7:00 asked Sofia,Omar,Jack | dominoes 144 | calls 81
+    Jack -> Omar: Omar, I'm just having a quick look at the eye join from the back. I won't touch it unless you say so.
+    Sofia -> everyone: Thanks, Hana, the honest call on the corner helps. Retrace it and I'll keep clear of the start. Omar, you're on the eye join, and Jack, thanks for the back. I'm checking the nose now and then walking 
+    (Omar held a thought)
+[  311s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 142 | calls 85
+    Hana -> everyone: Retracing the lower fin from the pad now. Omar, please keep your hands off the start. I'll shout when it's laid.
+    (Omar held a thought)
+    (Jack held a thought)
+[  320s] 7:30 asked Sofia,Omar,Jack | dominoes 139 | calls 88
+    Sofia -> everyone: Nose is my last check, so I'm looking at it now. Hana, I'll wait for your shout on the lower fin before I walk the chain from the tail. Omar, shout if the eye join looks cut.
+    (Omar held a thought)
+    (Jack held a thought)
+[  331s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 138 | calls 92
+    Jack -> Omar: Omar, the eye's yours and I'm staying off it. I'm just re-checking the back join from here, and I'll shout if it needs anything.
+    Omar -> everyone: Sofia, the eye's cut where it meets the back, right up by the top edge. I'm bridging it now. I'm keeping off the start and the tail corner, Hana.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  339s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 142 | calls 96
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Omar, I'm inspecting the eye join now, so shout if the bridge isn't closed yet. Hana, I'm staying off the tail and the start while you retrace the lower fin.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  350s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 145 | calls 100
+    Sofia -> everyone: Inspection's back. The belly has a domino sitting off to the side just here, and the nose end has nothing ahead of it. I'm nudging that now. Omar, is the eye bridge closed? Shout if it isn't, and I'll
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  359s] 8:30 asked Sofia,Omar,Jack | dominoes 141 | calls 103
+    Omar -> everyone: Sofia, I think the bridge is in up by the top edge, but I'm checking it now. I'll shout if there's a gap. Hana, I'm still keeping off the start and the tail.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  368s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 138 | calls 107
+    Omar -> everyone: Sofia, inspection says the eye join turns too sharply right up by the top edge, so it's not clean yet. I'm patching that spot now. Hana, I'm still off the start and the tail.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  376s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 137 | calls 111
+    Sofia -> Omar,Hana: Omar, is the eye bridge closed up by the top edge? If it's still cut or too sharp there, shout now and I'll look at it with you. Hana, I'm staying off the start while you retrace the fin.
+    Hana -> everyone: Honest call: the lower fin retrace won't be laid in the minute we've got, about seventeen dominoes short. I'll keep laying it, but I'm not counting on it. Omar, please keep your hands off the start an
+    (Jack held a thought)
+[  390s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 135 | calls 115
+    Sofia -> Omar,Hana: Omar, I'm inspecting the eye join right now. Tell me if it's closed or still cut. Hana, I'm staying off the start and the tail.
+    Omar -> Sofia,Hana: Sofia, not clean yet. The turn up by the top edge is too sharp. I'm patching it now and I'll look again straight after. Hands off the start and tail.
+    Hana -> everyone: Sofia, Omar's on the eye bridge, so that one's his. I'm still laying the lower fin from the pad. It won't be finished before the push, so don't count on it, but I'll keep going so it isn't left half-l
+    (Jack held a thought)
+[  400s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 138 | calls 119
+    Omar -> everyone: Sofia, I'm on the bridge now, just finishing the sharp turn up by the top edge. I'll look again as soon as it's through, and I'm staying off the start and the tail.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  408s] 9:45 asked Sofia,Jack | dominoes 141 | calls 121
+    Sofia -> everyone: Omar, I'm inspecting the eye join right now. Shout when your patch is in and I'll confirm it before the push. Hana, I'm staying off the start.
+    (Jack held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Hana": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Jack": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 473.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "a fish with a forked tail",
+      "a boat or canoe with a raised bow",
+      "a leaf or seed pod on a stem"
+    ],
+    [
+      "a fish with a forked tail and open mouth",
+      "an eye with lashes or a closed eyelid",
+      "a leaf or boat hull with trailing lines"
+    ],
+    [
+      "fish",
+      "leaf",
+      "canoe or boat"
+    ]
+  ],
+  "placed": 141,
+  "fell": 100,
+  "completion": 0.709,
+  "team_score": 0.709,
+  "first_domino_at": "1:00",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Jack": 7,
+    "Omar": 16,
+    "Hana": 15
+  },
+  "held_thoughts": 61,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 740799,
+    "cache_read_tokens": 402622,
+    "output_tokens": 139862,
+    "seconds": 1176.3,
+    "api_equivalent_usd": 0.2221,
+    "cached": 0
+  }
+}

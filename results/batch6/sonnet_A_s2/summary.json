@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 717.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a line of fallen dominoes curving across the page",
+      "a coastline or landmass outline",
+      "a river or road drawn as a winding curve"
+    ],
+    [
+      "line of fallen dominoes from above",
+      "winding road or river on a map",
+      "coastline or shoreline outline"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "river or coastline outline",
+      "hand-drawn road or trail"
+    ]
+  ],
+  "placed": 177,
+  "fell": 89,
+  "completion": 0.503,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 54,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 15,
+    "Maya": 12,
+    "Leo": 10,
+    "Tom": 14
+  },
+  "held_thoughts": 42,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 120,
+    "failed": 1,
+    "input_tokens": 250,
+    "cache_creation_tokens": 566472,
+    "cache_read_tokens": 344214,
+    "output_tokens": 59146,
+    "seconds": 1172.2,
+    "api_equivalent_usd": 2.7613,
+    "cached": 0
+  }
+}

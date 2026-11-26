@@ -1,0 +1,97 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 468.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya",
+    "Leo",
+    "Leo",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "bird in side view",
+      "boat or canoe",
+      "hat or cap"
+    ],
+    [
+      "bird in side view",
+      "fish with open mouth",
+      "boat hull with rope"
+    ],
+    [
+      "bird (duck or swan) in profile",
+      "fish",
+      "boat or canoe"
+    ]
+  ],
+  "placed": 95,
+  "fell": 95,
+  "completion": 1.0,
+  "team_score": 0.333,
+  "first_domino_at": "0:45",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Priya": 10,
+    "Tom": 15,
+    "Leo": 8
+  },
+  "held_thoughts": 38,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 139,
+    "failed": 0,
+    "input_tokens": 272,
+    "cache_creation_tokens": 700226,
+    "cache_read_tokens": 393669,
+    "output_tokens": 127856,
+    "seconds": 1138.2,
+    "api_equivalent_usd": 0.2079,
+    "cached": 6
+  }
+}

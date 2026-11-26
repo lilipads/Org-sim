@@ -1,0 +1,230 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Hey all! Quick idea: a fish. The outline is easy and the tail fin says 'fish' on its own. I'll sketch it on the pad. Shout if you'd rather do something else, otherwise Maya, can you trace the top of t
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   29s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Fish works for me, that's what I was about to say too. I'm on the top of the body. Priya, maybe start the line at the nose and split there, top and bottom going back to the tail, so it all stays conne
+    (Tom held a thought)
+    (Leo held a thought)
+[   42s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Good call, Maya. Splitting at the nose it is. The sketch is going on the pad now: stroke 1 is the top of the body, so Maya, start it from the nose. Tom, you're on stroke 2, the bottom. Leo, the tail s
+    (Leo held a thought)
+    (Tom held a thought)
+[   62s] 0:45 asked Maya,Tom,Leo | dominoes 3 | calls 14
+    Maya -> everyone: Looks good! Start's at the tail, so Leo, get stroke 3 down first and make that the start. I'm tracing the top of the body now. It'll pick up where your line meets the body.
+    (Tom held a thought)
+    (Leo held a thought)
+[   71s] 1:00 asked Priya,Leo | dominoes 6 | calls 16
+    Priya -> everyone: Sounds good, Maya. Leo's got the start and the upper tail going. I'll take the tail edge and the lower fin so Leo doesn't have to do all three.
+    (Leo held a thought)
+[   80s] 1:15 asked Maya,Priya,Leo | dominoes 8 | calls 19
+    Leo -> everyone: Got it, laying the tail now. Top of the tail is the start, and the body lines pick up at the joint. Thanks Priya, take the lower fin if you like and I'll finish the top and edge.
+    (Priya held a thought)
+    (Maya held a thought)
+[   87s] 1:30 asked Priya | dominoes 11 | calls 20
+    Priya -> everyone: Sounds good Leo, you keep the top and the edge, and I've got the lower fin. I'll start it as soon as your line gets down there.
+[   93s] 1:45 asked Leo | dominoes 15 | calls 21
+    Leo -> Priya: Thanks Priya. The top line is nearly at the body joint, so you can start the lower fin soon.
+[   99s] 2:00 asked Priya | dominoes 27 | calls 22
+    Priya -> Leo: Great, thanks Leo. I'm queued up on the lower fin and it'll kick in as soon as your line gets there.
+[  103s] 2:15 asked Leo | dominoes 43 | calls 23
+[  103s] 2:30 asked - | dominoes 56 | calls 23
+[  109s] 2:45 asked Tom | dominoes 65 | calls 24
+    Tom -> everyone: Fish works for me! I've got the bottom of the body, almost done with it.
+[  109s] 3:00 asked - | dominoes 81 | calls 24
+[  120s] 3:15 asked Maya,Priya | dominoes 95 | calls 26
+    Priya -> everyone: Leo, my lower fin is down but it's waiting on your edge line to reach the bottom. I'll check the tail joints while you finish.
+    (Maya held a thought)
+[  134s] 3:30 asked Priya,Leo | dominoes 102 | calls 28
+    Leo -> Priya: Almost there, Priya. Five more dominoes and the edge reaches the bottom of the tail. Then your fin should connect.
+    Priya -> everyone: Leo, my lower fin was facing the wrong way, so I'm laying it again. Just bring your edge line down to the bottom corner and it'll pick up from there.
+[  142s] 3:45 asked Priya,Leo | dominoes 106 | calls 30
+    Priya -> Leo: Thanks Leo, I'm still laying the fin. Shout when the edge reaches the bottom corner.
+    Leo -> Priya: Three more and the edge hits the bottom corner, Priya.
+[  153s] 4:00 asked Tom,Priya,Leo | dominoes 108 | calls 33
+    Tom -> everyone: Bottom of the body's done. It's pale, so it's waiting on the lower fin. I'll check the joints near the tail and stay out of your hands.
+[  167s] 4:15 asked Tom,Leo | dominoes 113 | calls 36
+    Tom -> everyone: There's a little gap in the tail edge, low down on the right side. I'll nudge that closed. Priya, I'll leave your fin alone.
+[  179s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 116 | calls 40
+    Maya -> everyone: Top of the body's done. The bottom's still pale, so I think the nose joint is the break. I'm closing that now.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  486s] 4:45 asked Maya,Tom,Leo | dominoes 122 | calls 44
+    Tom -> everyone: Priya, I looked closely at the lower fin. Down by the bottom of the edge line, the dominoes are jammed together, and the line just stops past that with nothing ahead. Further up, around the middle of 
+    (Maya held a thought)
+    (Leo held a thought)
+[  497s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 48
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Priya, I'm going to re-lay the lower fin from the bottom corner in one go, since the edge is all down now. Could you hold off on it for a minute so we don't trip over each other? Then we'll check that
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  504s] 5:15 asked Tom,Priya,Leo | dominoes 128 | calls 51
+    Priya -> everyone: Sure Leo, I'll keep my hands off it. I just finished laying it, so look at where it starts from the edge corner. I'll check the joints from the start while you go.
+    (Leo held a thought)
+    (Tom held a thought)
+[  513s] 5:30 asked Tom,Priya,Leo | dominoes 124 | calls 54
+    Tom -> everyone: Sounds good Leo, I'll keep clear. Once the fin's down, shout and I'll take the part up by the bottom of the body if it needs a nudge.
+    (Leo held a thought)
+    (Priya held a thought)
+[  521s] 5:45 asked Tom,Priya,Leo | dominoes 123 | calls 57
+    Priya -> everyone: Leo, it's all yours. I'll just watch where the fin meets the bottom of the body and shout if I see a gap. One domino near there sits a bit off to the side.
+    (Leo held a thought)
+[  526s] 6:00 asked Tom,Leo | dominoes 126 | calls 59
+    Leo -> everyone: Thanks Priya. Fin's about half down, I'll shout when it's done so Tom can check the joint by the bottom of the body.
+[  533s] 6:15 asked Tom,Priya | dominoes 133 | calls 61
+    Tom -> everyone: Sounds good Leo, shout when it's down and I'll check the joint by the bottom of the body.
+    (Priya held a thought)
+[  546s] 6:30 asked Priya,Leo | dominoes 139 | calls 63
+    Priya -> everyone: Maya, that little run at the bottom left looks like it's heading away from the fish. The belly line should branch off right at the nose, just under where the top line bends. Does that join the belly t
+[  555s] 6:45 asked Maya,Tom | dominoes 141 | calls 65
+    Maya -> everyone: Yep, that's what I'm doing, Priya. I'm bridging the top line into the belly right at the nose, just three dominoes left. Shout if the bottom still looks pale after.
+    (Tom held a thought)
+[  566s] 7:00 asked Tom,Priya,Leo | dominoes 136 | calls 68
+    Tom -> everyone: Leo, Maya, I'm just closing the little gap low on the tail edge, on the right. It's one or two dominoes, so I won't touch the fin.
+    (Priya held a thought)
+    (Leo held a thought)
+[  575s] 7:15 asked Maya,Tom,Leo | dominoes 133 | calls 71
+    Leo -> everyone: Tom, you keep the gap higher up on the edge. I'm joining the bottom corner into the fin now.
+    (Tom held a thought)
+    (Maya held a thought)
+[  582s] 7:30 asked Maya,Tom,Priya | dominoes 138 | calls 74
+    Maya -> everyone: Nose joint still has a gap, so I'm bridging it right now. Belly should light up after that.
+    Priya -> everyone: Stray run's gone. I'm taking a look at the nose joint to see if the belly lights up.
+    (Tom held a thought)
+[  592s] 7:45 asked Maya,Tom,Priya | dominoes 141 | calls 77
+    Maya -> everyone: Placed the bridge at the nose. Checking now whether the belly lights up.
+    Tom -> everyone: Tail edge gap is closed. I'm looking at where the fin meets the belly, and I'll stay off Leo's corner.
+    (Priya held a thought)
+[  610s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 145 | calls 81
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Nose still has one domino off to the side, so I'm nudging it into line right now. Tom, can you check the belly lights up after?
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  622s] 8:15 asked Maya,Tom,Priya | dominoes 149 | calls 84
+    Maya -> everyone: Nudging didn't do it, so I'm bridging straight from the top line into the first belly domino. Tom, check the belly after?
+    Tom -> everyone: On it, Maya. I'm checking the belly now. Leo, shout if the fin corner needs a hand.
+    (Priya held a thought)
+[  633s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 154 | calls 88
+    Leo -> Tom: Tom, still laying the last of the fin from the corner. Once it's down, check the joint by the belly.
+    Tom -> everyone: Maya, the belly's still pale. The domino right at the nose sits off to the side, and there's a stray one at the very top pointing up. Your bridge into the first belly domino is the right move. I'll ke
+    (Priya held a thought)
+    (Maya held a thought)
+[  640s] 8:45 asked Maya,Tom,Priya | dominoes 160 | calls 91
+    Tom -> everyone: Maya, I'm bridging the nose into the first belly domino right now. You can leave that spot to me.
+    Maya -> everyone: Thanks Tom. The bridge is going in now, so stay clear of the nose for a few seconds.
+    (Priya held a thought)
+[  647s] 9:00 asked Maya,Tom,Priya | dominoes 165 | calls 94
+    Maya -> Tom: Tom, we're both on the nose. I'll finish this bridge, so you could check the belly right after.
+    Priya -> everyone: About a minute left. Maya's bridge is going in, so Tom, step back from the nose so nothing gets bumped. Leo, shout when the fin's joined.
+    (Tom held a thought)
+[  654s] 9:15 asked Maya,Tom,Leo | dominoes 170 | calls 97
+    Maya -> Tom: Tom, I've got the bridge, stay off the nose a few seconds. Then look at the belly.
+    Tom -> everyone: Okay Maya, the nose is yours, I'm backing off. I'll nudge the joint where the fin meets the belly.
+    Leo -> everyone: Almost there, five dominoes left on the fin joint. Keep clear of the corner please.
+[  660s] 9:30 asked Maya,Tom,Priya | dominoes 173 | calls 100
+    Maya -> Tom: Got it, Tom, thanks. Bridge is nearly in, keep clear.
+    Priya -> everyone: Hands off everyone, let the nose and fin settle. Nice work, whatever falls falls!
+    Tom -> everyone: Fin and belly joint is in. I'm staying off the nose and the corner, you two finish up.
+[  666s] 9:45 asked Tom,Priya,Leo | dominoes 177 | calls 103
+    Leo -> everyone: Fin's joined. Hands off everyone, let it fall.
+    Priya -> everyone: Fingers crossed, it's a fish either way. Great teamwork, you three!
+    Tom -> everyone: Hands off from me. Fingers crossed, fish or not, it was fun!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 717.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a line of fallen dominoes curving across the page",
+      "a coastline or landmass outline",
+      "a river or road drawn as a winding curve"
+    ],
+    [
+      "line of fallen dominoes from above",
+      "winding road or river on a map",
+      "coastline or shoreline outline"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "river or coastline outline",
+      "hand-drawn road or trail"
+    ]
+  ],
+  "placed": 177,
+  "fell": 89,
+  "completion": 0.503,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 54,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 15,
+    "Maya": 12,
+    "Leo": 10,
+    "Tom": 14
+  },
+  "held_thoughts": 42,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 120,
+    "failed": 1,
+    "input_tokens": 250,
+    "cache_creation_tokens": 566472,
+    "cache_read_tokens": 344214,
+    "output_tokens": 59146,
+    "seconds": 1172.2,
+    "api_equivalent_usd": 2.7613,
+    "cached": 0
+  }
+}

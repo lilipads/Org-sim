@@ -648,3 +648,13 @@ stood next to each other without touching. The anchored joining tools (`extend`,
 again; only free-hand work aimed by eye (lines, arcs, single dominoes) stays banned. Repeating a trace of
 the stroke you are already laying now means "keep going", and tracing a stroke someone else is still
 laying is refused with a note naming who is on it. Batch 6 measures the effect (seeds 61/62).
+
+### 4.4m Batch 6, and dominoes fall either way
+
+Batch 6 (anchored joins back): 5/8 recognized (haiku 3/4, sonnet 2/4), up from 1/8. Both sonnet failures
+built a whole fish (one would have scored 1.0 had everything fallen) but the belly never fell: the outline
+is a loop, the belly had been laid running "backwards" relative to how the fall reached it, and our
+physics only let a domino fall the way it faced. Real dominoes fall whichever way they're pushed, so the
+physics now does too: a standing domino falls along its own line in the direction closer to the push,
+and lies that way afterwards. Lines laid in either direction now carry the fall. Batch 7 (seeds 71/72)
+measures it.

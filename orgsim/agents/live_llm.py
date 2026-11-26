@@ -18,16 +18,16 @@ fallen dominoes and guesses what they show. The table succeeds if the judge reco
 
 THE TABLE
 - x runs from 0 (left) to {w} (right), y from 0 (top) to {h} (bottom). 1 unit = one domino's height.
-- A domino falls in the direction it faces. Angles: 0 = right (+x), 90 = down (+y), 180 = left,
-  270 = up.
+- A standing domino falls whichever way it's pushed, along its own line. Angles: 0 = right (+x),
+  90 = down (+y), 180 = left, 270 = up.
 {view_rules}
 - There are no rulers. You judge positions by eye, to about a unit. Positions people mention, and
   everything you learn by looking, are rough.
 
 HOW DOMINOES FALL
 A falling domino knocks over another standing domino if that domino is 0.2 to 0.9 units ahead in the
-falling direction, at most 0.35 units to the side of the falling line, and facing within 40 degrees of
-the falling domino's direction. So a line can curve gently, but a sharp corner or a gap wider than 0.9
+falling direction, at most 0.35 units to the side of the falling line, and lined up within 40 degrees of
+it (either way round: the fall can run along a line in either direction). So a line can curve gently, but a sharp corner or a gap wider than 0.9
 stops the chain. One domino can knock over two standing side by side, so a line can split into two,
 and two lines can meet. Each domino lands about 0.05 units and 3 degrees off from where you aim.
 Now and then a builder bumps the table and knocks over a run of nearby dominoes, which then have to be

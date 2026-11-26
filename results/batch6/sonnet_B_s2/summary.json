@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Hana": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Jack": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 876.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a curved line",
+      "curved road or river on a map",
+      "hand-drawn wavy brush stroke"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "winding river or road on a map",
+      "hand-drawn brush or pen stroke"
+    ],
+    [
+      "curved line of toppled dominoes",
+      "winding river or road from above",
+      "arc-shaped brushstroke or pen stroke"
+    ]
+  ],
+  "placed": 220,
+  "fell": 63,
+  "completion": 0.286,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Jack": 9,
+    "Hana": 16,
+    "Omar": 3
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 131,
+    "failed": 1,
+    "input_tokens": 274,
+    "cache_creation_tokens": 686276,
+    "cache_read_tokens": 380889,
+    "output_tokens": 70677,
+    "seconds": 1379.6,
+    "api_equivalent_usd": 3.3483,
+    "cached": 0
+  }
+}

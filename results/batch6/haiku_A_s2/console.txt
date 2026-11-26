@@ -4,3 +4,220 @@
     (Leo held a thought)
     (Priya held a thought)
     (Tom held a thought)
+[   28s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Yes, a fish, I'm in. Same idea I had: start at the tail pinch on the left so the run heads toward the nose. Maya, once you've sketched the top and bottom edges, I'll take the tail fin and trace it.
+    (Leo held a thought)
+    (Tom held a thought)
+[   45s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Tom -> everyone: Fish works for me. The forked tail is what'll make it read as a fish from the outline alone. Maya, once the body's on the pad, I'll take the tail and trace it.
+    (Maya held a thought)
+    (Leo held a thought)
+[   57s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 1 | calls 14
+    Maya -> everyone: Okay, here's the plan. We start at the tail pinch and both body edges leave to the right. I'm laying the top edge with the dorsal fin now, then the bottom. Priya and Tom, you two sort out who takes th
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   69s] 1:00 asked Tom,Priya,Leo | dominoes 5 | calls 17
+    Leo -> everyone: Agreed, a fish with a forked tail reads well. Maya, the top and bottom edges look right from START. Stroke 1 should begin at the tail pinch and run up over the top so everything grows from there. I'll
+    (Priya held a thought)
+    (Tom held a thought)
+[   79s] 1:15 asked Maya,Tom,Priya | dominoes 9 | calls 20
+    Tom -> everyone: I'll take the bottom edge, stroke 2, off the start. Priya has the tail, Maya's on the top. I'll come back for the pectoral fin and eye once the pad's free.
+    (Priya held a thought)
+    (Maya held a thought)
+[   96s] 1:30 asked Maya,Priya,Leo | dominoes 17 | calls 23
+    Maya -> everyone: Sounds good. Tom takes the bottom edge, stroke 2, branching off the tail pinch. Priya has the tail fin. I'm on the top edge and dorsal fin. Tom, I'll hand you the pad once stroke 1 is down.
+    (Priya held a thought)
+    (Leo held a thought)
+[  106s] 1:45 asked Tom,Priya,Leo | dominoes 28 | calls 26
+    Priya -> everyone: Maya, when you get a sec, could you sketch the tail fin as stroke 3, starting right at the pinch? I'll trace it as soon as it's on the pad. Leo, once that's done, could you take the pectoral fin or th
+    (Leo held a thought)
+    (Tom held a thought)
+[  119s] 2:00 asked Maya,Leo | dominoes 34 | calls 28
+    Maya -> everyone: Sketching the tail fin as stroke 3 from the pinch now. Priya, it's on the pad as soon as I put it down. Tom, you can grab the pad after that for the bottom edge.
+    (Leo held a thought)
+[  130s] 2:15 asked Tom,Priya,Leo | dominoes 41 | calls 31
+    Tom -> Maya: Bottom edge is running off the pinch and about halfway there. Maya, I'll take the pad for the pectoral fin and eye once the tail's down.
+    Priya -> everyone: Got it, Maya. I'll trace the tail as soon as it's on the pad.
+[  139s] 2:30 asked Maya,Leo | dominoes 49 | calls 33
+    Maya -> everyone: Pad's down, Priya, go ahead and trace the tail fin off the pinch. I'm still on the top edge, so I'll keep building.
+[  151s] 2:45 asked Priya,Leo | dominoes 60 | calls 35
+    Leo -> everyone: Pad's free, so I'm taking it to sketch the pectoral fin off the lower edge. Priya, go ahead with the tail.
+    Priya -> everyone: On it, Maya. Tracing the tail fin off the pinch now.
+[  164s] 3:00 asked Maya,Priya,Leo | dominoes 64 | calls 38
+    Priya -> everyone: Leo, I can't see a stroke 3 on the pad, only the body and that 'Tail (3)' label. Could you sketch the forked tail fin off the pinch first? I'll trace it the moment it's down, then you can take the pec
+    (Leo held a thought)
+[  186s] 3:15 asked Tom,Priya,Leo | dominoes 68 | calls 41
+    Leo -> everyone: Priya, you're right, there's no tail shape yet. I've got the pad and I'm sketching the forked tail off the pinch as stroke 3 now. I'll put it down as soon as it's on, then pectoral.
+    (Tom held a thought)
+[  195s] 3:30 asked Tom,Priya | dominoes 72 | calls 43
+    Tom -> everyone: Leo, Priya's right, there's only the label so far. Sketch the forked tail off the pinch as stroke 3. Once it's down, I'll take the pad for the eye.
+    (Priya held a thought)
+[  212s] 3:45 asked Priya,Leo | dominoes 75 | calls 45
+    Leo -> everyone: Forked tail's on the pad now as stroke 3, two prongs fanning out from the pinch. I'm putting the pad down so Priya can trace it. Then I'm on the pectoral fin.
+    (Priya held a thought)
+[  222s] 4:00 asked Tom,Priya | dominoes 78 | calls 47
+    Priya -> everyone: Thanks, Leo. Tracing the forked tail off the pinch now.
+    Tom -> everyone: Sounds good, Leo. Pectoral's yours. I'll grab the pad for the eye once you've put it down and the bottom edge is finished.
+[  233s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 83 | calls 51
+    Maya -> everyone: Top edge is up, but it stops short of the nose. I'm carrying it on to the tip now, so Tom's bottom edge has something to meet.
+    (Tom held a thought)
+    (Leo held a thought)
+[  242s] 4:30 asked Tom,Priya | dominoes 89 | calls 53
+    Tom -> everyone: Good, Maya, that top edge will meet the bottom at the nose. I'm checking where my bottom edge joins the pinch now. Leo, when the pectoral's down, I'll take the pad for the eye.
+    (Priya held a thought)
+[  255s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 57
+    Leo -> everyone: Pectoral fin's one domino from done. I'm not holding the pad, so Tom, it's yours for the eye as soon as I'm finished.
+    (Tom held a thought)
+    (Priya held a thought)
+[  263s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 61
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Nose extension is down and facing right. Tom, your bottom edge needs to meet right here at the tip. I'm checking that join now.
+    (Tom held a thought)
+    (Priya held a thought)
+[  275s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 65
+    Maya -> Tom: Tom, from the picture your bottom edge looks like it lands right on the nose tip. Can you check that join before you take the pad for the eye? If there's a gap, a quick fix there will close it.
+    Tom -> everyone: Maya, I'll look at the tip with you. My bottom edge is connected back to the pinch, so once your nose extension is down I'll check that it meets right there. Leo, you're still on the pectoral, so I wo
+    (Priya held a thought)
+[  287s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 69
+    Maya -> Tom: Tom, I'm checking the nose tip now. From the picture the bottom edge looks like it lands right on the tip, but I'll confirm it and call out if there's a gap. You take the pad for the eye after that.
+    Tom -> Maya: Maya, I'm looking at the tip now. Once I can see both edges meeting, I'll tell you. I'm not taking the pad until Leo's done with the pectoral.
+    Leo -> Tom: Pectoral's one domino from done. I'll finish it and then I'm off the pad, Tom.
+    Priya -> everyone: Nice work, Maya. The top edge is clean and the tail's connected back to the start. Tom, the tip is the join to watch. I'll check it with you, and if it's just a domino or two short I can fix it.
+[  299s] 5:45 asked Maya,Tom,Leo | dominoes 92 | calls 72
+    Maya -> everyone: Checked the nose tip. The top edge ends right there and the start chain carries through everything standing, so Tom's bottom edge is joined. Tom, once Leo's pectoral is down, the pad's yours for the e
+    (Tom held a thought)
+[  309s] 6:00 asked Tom,Priya,Leo | dominoes 92 | calls 75
+    Leo -> everyone: Pectoral's done, so the pad's free, Tom. It's all yours for the eye. I'm going to look over the nose join once more while you pick it up.
+    (Tom held a thought)
+    (Priya held a thought)
+[  323s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 79
+    Tom -> everyone: Thanks, Leo, I've got the pad now for the eye. Maya, my inspection agrees: the start chain reaches every standing domino, nose tip included, so the join holds.
+    (Priya held a thought)
+[  333s] 6:30 asked Maya,Priya,Leo | dominoes 92 | calls 82
+    Maya -> everyone: Checked the pinch and the tail area: the start chain carries through to the forked tail, so it's connected. Tom, the eye's all yours. I'll stay off the dominoes so nothing gets bumped.
+    (Priya held a thought)
+[  346s] 6:45 asked Tom,Priya,Leo | dominoes 92 | calls 85
+    Tom -> everyone: Eye's going on the pad now as a small loop just under the top edge. Tracing it as soon as it's down.
+    (Priya held a thought)
+[  355s] 7:00 asked Maya,Priya,Leo | dominoes 92 | calls 88
+    Priya -> everyone: Thanks, Maya and Leo, nice work on the top edge and the pectoral. The join at the nose checks out. Tom, go ahead with the eye, I'm keeping my hands off.
+[  362s] 7:15 asked Maya,Tom,Leo | dominoes 95 | calls 91
+    Tom -> everyone: Tracing the eye now, branching off the top edge. Pad goes down once it's on.
+[  373s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 95
+    Tom -> everyone: Eye's laid and the pad's down. I'm checking the loop joins the top edge now. Leo, Maya, Priya, please keep your hands off this patch.
+[  381s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 99
+[  389s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Inspection's clean. The eye loop is joined to the top edge and the start chain reaches every standing domino. I'm stopping here, so please keep your hands off the eye and the nose join.
+    (Priya held a thought)
+[  397s] 8:15 asked Maya,Priya,Leo | dominoes 95 | calls 106
+    Priya -> everyone: Tom, my inspection of the eye patch is clean too. The loop is joined to the top edge and everything's connected back to the start. I'm stopping here and keeping my hands off, so the push should carry 
+[  405s] 8:30 asked Maya,Tom,Leo | dominoes 95 | calls 109
+    Tom -> everyone: Thanks, Priya. Agreed, the eye's joined and everything's connected back to the start. I'm keeping my hands off. Fingers crossed for the push.
+[  413s] 8:45 asked Maya,Priya,Leo | dominoes 95 | calls 112
+    Leo -> everyone: Agreed, Tom. Everything I built is connected and I'm keeping my hands off too. Good luck with the push.
+[  422s] 9:00 asked Maya,Tom,Priya | dominoes 95 | calls 115
+    Maya -> everyone: Nice work, all. Everything I built is joined back to the start, so I'm keeping my hands off. Good luck.
+    Priya -> everyone: Thanks, Leo. Good luck, everyone.
+[  430s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 119
+    Tom -> everyone: Thanks, everyone. Good work on the fish. Hands off, let's see the push.
+[  436s] 9:30 asked Maya,Priya,Leo | dominoes 95 | calls 122
+[  436s] 9:45 asked - | dominoes 95 | calls 122
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.72,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.31,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.64,
+      "error": 1.19
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 468.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya",
+    "Leo",
+    "Leo",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "bird in side view",
+      "boat or canoe",
+      "hat or cap"
+    ],
+    [
+      "bird in side view",
+      "fish with open mouth",
+      "boat hull with rope"
+    ],
+    [
+      "bird (duck or swan) in profile",
+      "fish",
+      "boat or canoe"
+    ]
+  ],
+  "placed": 95,
+  "fell": 95,
+  "completion": 1.0,
+  "team_score": 0.333,
+  "first_domino_at": "0:45",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Priya": 10,
+    "Tom": 15,
+    "Leo": 8
+  },
+  "held_thoughts": 38,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 139,
+    "failed": 0,
+    "input_tokens": 272,
+    "cache_creation_tokens": 700226,
+    "cache_read_tokens": 393669,
+    "output_tokens": 127856,
+    "seconds": 1138.2,
+    "api_equivalent_usd": 0.2079,
+    "cached": 6
+  }
+}
