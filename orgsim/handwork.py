@@ -560,7 +560,8 @@ def sketch_flow(strokes: list, points_of) -> tuple:
 
 
 def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
-                drift: float = 0.1, lead: tuple | None = None, taken: set | None = None) -> tuple:
+                drift: float = 0.1, lead: tuple | None = None, taken: set | None = None,
+                exclude: set = frozenset()) -> tuple:
     """Copy a sketch stroke (already oriented the way the run flows) onto the table,
     the way people copy a drawing. Where it begins on an existing line heading the same
     way, it carries on from that line's end (or branches off its side), lined up by hand.
@@ -573,7 +574,7 @@ def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
                                     pts[min(2, len(pts) - 1)][0] - pts[0][0]))
     note = "tracing the sketch"
     anchor = None
-    cands = [d for d in world.near(pts[0][0], pts[0][1], 1.8) if d.state == "up"]
+    cands = [d for d in world.near(pts[0][0], pts[0][1], 1.8) if d.state == "up" and d.id not in exclude]
     taken = taken if taken is not None else set()
     ends = [d for d in cands if not world.successors(d) and d.id not in taken
             and abs(angle_diff(d.angle, head0)) <= 60]
@@ -607,7 +608,7 @@ def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
         x, y = pts[0]
         h = head0
     path = follow(world, x, y, h, pts, max_steps=max_n, clearance=0.28, max_turn=18.0,
-                  ignore={anchor.id} if anchor else frozenset())   # lines may cross close by
+                  ignore=({anchor.id} if anchor else set()) | set(exclude))   # lines may cross close by
     return (prefix + [(px_, py_, a) for px_, py_, a in path])[:max_n], note
 
 

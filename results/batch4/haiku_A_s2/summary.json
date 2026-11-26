@@ -1,0 +1,100 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.85,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.54,
+      "error": 1.83
+    },
+    "Priya": {
+      "speed": 1.09,
+      "error": 2.0
+    },
+    "Leo": {
+      "speed": 1.36,
+      "error": 1.22
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 559.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya",
+    "Maya",
+    "Maya",
+    "Tom",
+    "Tom",
+    "Tom",
+    "Tom",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of dominoes forming a hook or loop",
+      "a bird's neck and head in profile",
+      "a domino chain drawn as a cursive letter or question-mark shape"
+    ],
+    [
+      "fallen dominoes in a curved loop chain",
+      "a hook or fishhook shape made of dominoes",
+      "a bird or swan outline made of dominoes"
+    ],
+    [
+      "a curved line of fallen dominoes forming a loop",
+      "a hook or question-mark shape",
+      "a swan neck or stylized bird outline"
+    ]
+  ],
+  "placed": 85,
+  "fell": 75,
+  "completion": 0.882,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 9,
+    "Tom": 20,
+    "Maya": 17,
+    "Leo": 6
+  },
+  "held_thoughts": 52,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 130,
+    "failed": 0,
+    "input_tokens": 272,
+    "cache_creation_tokens": 666591,
+    "cache_read_tokens": 377404,
+    "output_tokens": 152627,
+    "seconds": 1272.3,
+    "api_equivalent_usd": 0.2134
+  }
+}

@@ -246,3 +246,14 @@ def test_people_differ_in_speed_and_accuracy():
     assert len(mine["Fast"]) > 2 * len(mine["Slow"])
     spread = {n: sum(abs(d.y - lines[n]) for d in ds) / len(ds) for n, ds in mine.items()}
     assert spread["Fast"] > 2 * spread["Slow"]
+
+
+def test_re_issuing_a_trace_of_stroke_1_does_not_deadlock():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    tr = {"type": "trace", "stroke": 1}
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[tr]), Decision(do="build", strokes=[tr]), Decision(do="continue")])
+    g = LiveGame(table_world(phys=EXACT), [a], LiveConfig(duration=300, idle_quiet=15, max_quiet=15,
+                                                           announce_at=(), scratchpad_until=300, seconds_per_domino=3))
+    res = g.run()
+    assert res["per_table"]["table"]["placed"] > 10 and res["per_table"]["table"]["completion"] > 0.9

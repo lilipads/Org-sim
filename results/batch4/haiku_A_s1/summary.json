@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.04,
+      "error": 1.18
+    },
+    "Tom": {
+      "speed": 0.61,
+      "error": 1.66
+    },
+    "Priya": {
+      "speed": 0.81,
+      "error": 0.62
+    },
+    "Leo": {
+      "speed": 0.99,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 509.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "bird with a long pointed beak facing right",
+      "fish or sea creature with a pointed snout",
+      "boat or canoe seen from the side"
+    ],
+    [
+      "fish with pointed snout and tail outline",
+      "bird in flight or a beak-shaped profile",
+      "boat or canoe hull with pointed bow"
+    ],
+    [
+      "fish outline facing left",
+      "bird head with long beak",
+      "arrow or spear pointing right"
+    ]
+  ],
+  "placed": 112,
+  "fell": 93,
+  "completion": 0.83,
+  "team_score": 0.691,
+  "first_domino_at": "0:45",
+  "messages": 72,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 20,
+    "Maya": 18,
+    "Leo": 19,
+    "Tom": 12
+  },
+  "held_thoughts": 36,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 144,
+    "failed": 0,
+    "input_tokens": 300,
+    "cache_creation_tokens": 777445,
+    "cache_read_tokens": 402932,
+    "output_tokens": 143746,
+    "seconds": 1283.5,
+    "api_equivalent_usd": 0.2314
+  }
+}

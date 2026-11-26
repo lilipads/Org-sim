@@ -1,0 +1,79 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.04,
+      "error": 1.18
+    },
+    "Omar": {
+      "speed": 0.61,
+      "error": 1.66
+    },
+    "Hana": {
+      "speed": 0.81,
+      "error": 0.62
+    },
+    "Jack": {
+      "speed": 0.99,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 672.1,
+  "intents": {
+    "Sofia": "",
+    "Omar": "",
+    "Hana": "",
+    "Jack": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 74,
+  "fell": 74,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 6,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 2,
+    "Hana": 1
+  },
+  "held_thoughts": 6,
+  "parse_failures": {
+    "Sofia": 8,
+    "Omar": 9,
+    "Hana": 9,
+    "Jack": 11
+  },
+  "usage": {
+    "calls": 96,
+    "failed": 87,
+    "input_tokens": 18,
+    "cache_creation_tokens": 34181,
+    "cache_read_tokens": 23025,
+    "output_tokens": 6624,
+    "seconds": 1112.0,
+    "api_equivalent_usd": 0.2053
+  }
+}

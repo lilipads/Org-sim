@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.04,
+      "error": 1.18
+    },
+    "Tom": {
+      "speed": 0.61,
+      "error": 1.66
+    },
+    "Priya": {
+      "speed": 0.81,
+      "error": 0.62
+    },
+    "Leo": {
+      "speed": 0.99,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 471.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of toppled dominoes",
+      "winding river or stream",
+      "wavy road or path"
+    ],
+    [
+      "line of fallen dominoes seen from above",
+      "wavy river or road on a map",
+      "curved neck and beak of a bird or swan"
+    ],
+    [
+      "curved wave or hook shape",
+      "swan neck or bird silhouette",
+      "river or road winding path"
+    ]
+  ],
+  "placed": 145,
+  "fell": 70,
+  "completion": 0.483,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 11,
+    "Priya": 10,
+    "Tom": 13,
+    "Leo": 14
+  },
+  "held_thoughts": 36,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 112,
+    "failed": 0,
+    "input_tokens": 236,
+    "cache_creation_tokens": 527018,
+    "cache_read_tokens": 307881,
+    "output_tokens": 62808,
+    "seconds": 939.9,
+    "api_equivalent_usd": 2.6291
+  }
+}

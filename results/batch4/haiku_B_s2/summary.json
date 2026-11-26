@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.85,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.54,
+      "error": 1.83
+    },
+    "Hana": {
+      "speed": 1.09,
+      "error": 2.0
+    },
+    "Jack": {
+      "speed": 1.36,
+      "error": 1.22
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 521.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of dominoes seen from above, toppled in a chain",
+      "a single bent dark stroke or arc, like a hand-drawn curve",
+      "a road or track curving over a hill, drawn in simple lines"
+    ],
+    [
+      "a curved row of toppled dominoes seen from above",
+      "a single dark arc or bent curved stroke",
+      "a curved road or river outline on a blank background"
+    ],
+    [
+      "a curved line of fallen dominoes",
+      "a dark arc or wave-shaped stroke",
+      "a bent road or railway track"
+    ]
+  ],
+  "placed": 63,
+  "fell": 40,
+  "completion": 0.635,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 16,
+    "Hana": 19,
+    "Jack": 14,
+    "Omar": 5
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 152,
+    "failed": 0,
+    "input_tokens": 316,
+    "cache_creation_tokens": 847023,
+    "cache_read_tokens": 424328,
+    "output_tokens": 159648,
+    "seconds": 1394.7,
+    "api_equivalent_usd": 0.2535
+  }
+}

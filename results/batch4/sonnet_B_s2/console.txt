@@ -1,0 +1,168 @@
+[   36s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Morning all! How about a fish? Big body, and a tail fin so the judge can't miss it. I'm sketching it now, so grab a stroke each and trace it!
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[   47s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 8
+    Omar -> everyone: Fish it is. I've got the pad and just drew it. I'm taking the top line from the nose. Can someone grab the bottom line and someone the tail?
+    (Hana held a thought)
+    (Sofia held a thought)
+[   55s] 0:30 asked Sofia,Hana,Jack | dominoes 15 | calls 11
+    Hana -> everyone: Sketch looks good, Omar. I'll take the bottom line, stroke 2. Sofia or Jack, can one of you grab the tail fin? It'll wait until our lines reach the join.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  360s] 0:45 asked Sofia,Omar,Jack | dominoes 29 | calls 15
+    Jack -> everyone: Ha, Hana, I think we both jumped on the bottom line, I'm already a few dominoes down it! Can you swap to the tail fin, stroke 3? Sorry, my fault for not saying so sooner. I'll keep going on the bottom
+    (Sofia held a thought)
+    (Omar held a thought)
+[  367s] 1:00 asked Hana | dominoes 44 | calls 16
+    Hana -> everyone: No worries Jack, switching. I've got the tail fin, stroke 3. It'll wait for the lines to reach the join. Jack, you keep the bottom line.
+[  372s] 1:15 asked Jack | dominoes 54 | calls 17
+    Jack -> everyone: Thanks Hana, you're a star! I'll keep going on the bottom line. Omar, nice work on the top, it's looking like a fish already.
+[  378s] 1:30 asked Omar,Hana | dominoes 65 | calls 19
+    Omar -> everyone: All good, Hana's on the tail, Jack's on the bottom. I'll finish the top line.
+[  384s] 1:45 asked Hana,Jack | dominoes 72 | calls 21
+    Jack -> everyone: Sounds good Omar! Almost done with my bottom line, just a few more to go. Then I'll check the joins at the tail.
+    (Hana held a thought)
+[  392s] 2:00 asked Omar,Hana | dominoes 79 | calls 23
+    Hana -> everyone: Tail only got one domino down at the join. I'm taking a look at what's going on there.
+    Omar -> everyone: Top line's done. I'll take a look at the join by the tail to make sure both lines meet there.
+[  407s] 2:15 asked Omar,Hana,Jack | dominoes 83 | calls 27
+    Hana -> Sofia: Sofia, are you laying the tail fin right now? I only got one domino down at the join. If you've got it, I'll stay out of your way. If not, I'll re-trace stroke 3.
+    Jack -> everyone: Bottom line's done! Both body lines look like they meet at the tail join. I'll inspect that spot too and see why the tail's not taking off. Sofia, thanks for working over there!
+    (Omar held a thought)
+[  418s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 85 | calls 31
+    Sofia -> everyone: Yes, I've got the tail, stroke 3! Eight dominoes down, a few more to go. Hana, please don't re-trace it, I'll finish it. Once I'm done we can all check it's connected.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  425s] 2:45 asked Omar,Hana,Jack | dominoes 86 | calls 34
+    Hana -> everyone: Got it Sofia, I'll stay out of your way. One thing I saw: right at the join, a domino looks jammed too close, so shout if the fin doesn't take off and we'll fix just that spot.
+    (Jack held a thought)
+    (Omar held a thought)
+[  436s] 3:00 asked Sofia,Omar,Jack | dominoes 83 | calls 37
+    Sofia -> everyone: Okay, my tail came out wrong. It's a curled hook, not the pointy fin from the sketch. I'm re-tracing stroke 3 now, so please keep clear of that corner. Then we'll check the whole run from the start.
+    (Jack held a thought)
+    (Omar held a thought)
+[  443s] 3:15 asked Omar,Hana,Jack | dominoes 79 | calls 40
+    Jack -> everyone: Thanks Sofia, you're a star! I'll keep my elbows out of your way. Just watching the join for now, shout if you want me to redo anything.
+    (Omar held a thought)
+[  449s] 3:30 asked Sofia,Omar,Hana | dominoes 75 | calls 43
+    Omar -> everyone: Take your time, Sofia, I'll stay clear of the tail. Once it's down I'll check the join isn't jammed and the fin actually catches.
+    (Sofia held a thought)
+[  457s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 47
+    Sofia -> everyone: Almost there, two more dominoes on the fin and it should be pointy this time. Keep clear a little longer, then let's all check the run from the start.
+    (Jack held a thought)
+[  468s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 51
+    Sofia -> everyone: Sorry, the fin didn't take. Only one domino went down at the join, so my 'almost there' was wrong. I'm taking a close look at the tail now. Omar, Hana, Jack, if you spot why it's jamming, shout.
+    (Jack held a thought)
+[  770s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 56
+    Hana -> everyone: Sofia, I think I see it. Our two body lines come into the join slanting, and the fin lines then peel off at a really sharp angle, so the fall can't turn that far. What if we put a short straight stem 
+    (Jack held a thought)
+    (Sofia held a thought)
+[  773s] 4:30 asked Sofia,Omar,Jack | dominoes 75 | calls 62
+[  773s] 4:45 asked - | dominoes 75 | calls 62
+[  776s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  776s] 5:15 asked - | dominoes 75 | calls 70
+[  776s] 5:30 asked - | dominoes 75 | calls 70
+[  776s] 5:45 asked - | dominoes 75 | calls 70
+[  779s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 78
+[  779s] 6:15 asked - | dominoes 75 | calls 78
+[  779s] 6:30 asked - | dominoes 75 | calls 78
+[  779s] 6:45 asked - | dominoes 75 | calls 78
+[  782s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 86
+[  782s] 7:15 asked - | dominoes 75 | calls 86
+[  782s] 7:30 asked - | dominoes 75 | calls 86
+[  782s] 7:45 asked - | dominoes 75 | calls 86
+[  785s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 94
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  785s] 8:15 asked - | dominoes 75 | calls 94
+[  785s] 8:30 asked - | dominoes 75 | calls 94
+[  785s] 8:45 asked - | dominoes 75 | calls 94
+[  788s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 102
+[  788s] 9:15 asked - | dominoes 75 | calls 102
+[  788s] 9:30 asked - | dominoes 75 | calls 102
+[  788s] 9:45 asked - | dominoes 75 | calls 102
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.85,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.54,
+      "error": 1.83
+    },
+    "Hana": {
+      "speed": 1.09,
+      "error": 2.0
+    },
+    "Jack": {
+      "speed": 1.36,
+      "error": 1.22
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 793.8,
+  "intents": {
+    "Sofia": "",
+    "Omar": "",
+    "Hana": "",
+    "Jack": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Omar"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 75,
+  "fell": 75,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 23,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 6,
+    "Omar": 4,
+    "Hana": 6,
+    "Sofia": 4
+  },
+  "held_thoughts": 24,
+  "parse_failures": {
+    "Sofia": 6,
+    "Omar": 7,
+    "Hana": 5,
+    "Jack": 6
+  },
+  "usage": {
+    "calls": 113,
+    "failed": 60,
+    "input_tokens": 106,
+    "cache_creation_tokens": 225940,
+    "cache_read_tokens": 160463,
+    "output_tokens": 26388,
+    "seconds": 1121.8,
+    "api_equivalent_usd": 1.1839
+  }
+}

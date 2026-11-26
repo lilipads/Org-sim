@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.04,
+      "error": 1.18
+    },
+    "Omar": {
+      "speed": 0.61,
+      "error": 1.66
+    },
+    "Hana": {
+      "speed": 0.81,
+      "error": 0.62
+    },
+    "Jack": {
+      "speed": 0.99,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 355.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "faint or near-invisible lines too light to see",
+      "empty placeholder image with no dominoes shown"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty background; any domino lines are too faint to see",
+      "image failed to render or is a placeholder"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or background image",
+      "very faint or near-invisible marks on a plain background"
+    ]
+  ],
+  "placed": 0,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": null,
+  "messages": 36,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 11,
+    "Omar": 5,
+    "Hana": 11,
+    "Jack": 6
+  },
+  "held_thoughts": 26,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 82,
+    "failed": 0,
+    "input_tokens": 176,
+    "cache_creation_tokens": 341800,
+    "cache_read_tokens": 228337,
+    "output_tokens": 75000,
+    "seconds": 697.5,
+    "api_equivalent_usd": 0.1082
+  }
+}

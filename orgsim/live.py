@@ -397,6 +397,15 @@ class LiveGame:
                     self.inbox[n].append(f"{self.pad_holder} has the scratch pad; ask them for it.")
         return sketched
 
+    def _someone_laying_start(self, name: str) -> bool:
+        """Is anyone else, right now, about to lay this table's start domino?"""
+        for o, t in self.task.items():
+            if o == name or not t or t.get("kind") != "build" or not t.get("start"):
+                continue
+            if t["queue"] and not t["placed"] and self.location[o] == self.location[name]:
+                return True
+        return False
+
     def start_status(self, name: str) -> str:
         loc = self.location[name]
         starts = [d for d in self.world.dominoes.values() if d.start and d.region == loc]
@@ -512,8 +521,11 @@ class LiveGame:
                         segs = flow.get(k) or [sketch_points(drawn[k - 1])]
                         pts_src = segs[0]
                         err = self.cfg.skills.get(n, {}).get("error", 1.0)
+                        # tracing a stroke again: its old dominoes are lifted first, so plan as if gone
+                        old = set(i for i in self.traced.get(k, ()) if i in self.world.dominoes)
                         has_start = any(x.start for x in self.world.dominoes.values()
-                                        if x.region == self.location[n]) or self._start_claimed
+                                        if x.region == self.location[n] and x.id not in old) \
+                            or self._someone_laying_start(n)
                         lead = None
                         at_origin = origin is not None and math.hypot(pts_src[0][0] - origin[0],
                                                                       pts_src[0][1] - origin[1]) <= 1.0
@@ -527,14 +539,14 @@ class LiveGame:
                             lead = (origin[0] - SPACING_ * math.cos(math.radians(bis)),
                                     origin[1] - SPACING_ * math.sin(math.radians(bis)), bis % 360)
                             trace_start = True
-                            self._start_claimed = True
+                            self._start_claimed = True   # (kept for old logs; see _someone_laying_start)
                         # Does this stroke begin where another line has to arrive first?
                         begin = pts_src[0]
                         feeds_in = lead is None and (
                             at_origin or any(math.hypot(p[-1][0] - begin[0], p[-1][1] - begin[1]) <= 1.6
                                              for kk, ps in flow.items() for p in ps if p is not pts_src))
                         if feeds_in and not specs and not any(
-                                x.state == "up" for x in self.world.near(begin[0], begin[1], 1.4)):
+                                x.state == "up" and x.id not in old for x in self.world.near(begin[0], begin[1], 1.4)):
                             pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin,
                                        "more": segs[1:]}
                             trace_k = k
@@ -542,15 +554,11 @@ class LiveGame:
                             continue
                         pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
                                                 drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead,
-                                                taken=self._taken)
-                        old = [i for i in self.traced.get(k, ()) if i in self.world.dominoes]
+                                                taken=self._taken, exclude=old)
                         if old:                # tracing a stroke again: lift what's there first
                             specs = [("remove", i) for i in old] + specs
                             self.traced[k] = set()
                             notes.append(f"lifting the old stroke {k} and laying it again")
-                            pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
-                                                    drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead,
-                                                    taken=self._taken | set(old))
                         notes.append(f"{note} (stroke {k})")
                         specs += [("place", sp) for sp in pts]
                         trace_k = k

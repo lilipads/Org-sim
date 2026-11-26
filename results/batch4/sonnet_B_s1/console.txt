@@ -1,0 +1,131 @@
+[  312s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 6
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, I'll grab the pad! How about a fish? Big body, forked tail, easy to read from the outline alone. I'm sketching it now, shout if you'd rather do something else.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  323s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 9
+    Hana -> everyone: Fish sounds good, Sofia. I've got the pad already, so I'm drawing it now. Nose on the left is the start. I'll build the top line, Sofia can you take the bottom line, Omar the tail, Jack help wherever 
+    (Jack held a thought)
+    (Omar held a thought)
+[  624s] 0:30 asked Sofia,Omar,Jack | dominoes 4 | calls 13
+    Sofia -> everyone: Love it, Hana! I'm on the bottom line, stroke 2. Omar, tail's yours, and Jack, jump in wherever it's thin!
+    (Omar held a thought)
+[  627s] 0:45 asked Omar,Hana,Jack | dominoes 13 | calls 19
+[  627s] 1:00 asked - | dominoes 22 | calls 19
+[  627s] 1:15 asked - | dominoes 31 | calls 19
+[  627s] 1:30 asked - | dominoes 40 | calls 19
+[  630s] 1:45 asked Jack | dominoes 50 | calls 21
+[  630s] 2:00 asked - | dominoes 59 | calls 21
+[  630s] 2:15 asked - | dominoes 69 | calls 21
+[  632s] 2:30 asked Sofia,Omar | dominoes 73 | calls 25
+[  635s] 2:45 asked Hana,Jack | dominoes 74 | calls 29
+[  638s] 3:00 asked Hana | dominoes 74 | calls 31
+[  638s] 3:15 asked - | dominoes 74 | calls 31
+[  640s] 3:30 asked Sofia,Omar | dominoes 74 | calls 35
+[  643s] 3:45 asked Jack | dominoes 74 | calls 37
+[  645s] 4:00 asked Hana | dominoes 74 | calls 39
+[  645s] 4:15 asked - | dominoes 74 | calls 39
+[  648s] 4:30 asked Sofia,Omar | dominoes 74 | calls 43
+[  651s] 4:45 asked Jack | dominoes 74 | calls 45
+[  654s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 53
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  654s] 5:15 asked - | dominoes 74 | calls 53
+[  654s] 5:30 asked - | dominoes 74 | calls 53
+[  654s] 5:45 asked - | dominoes 74 | calls 53
+[  657s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 61
+[  657s] 6:15 asked - | dominoes 74 | calls 61
+[  657s] 6:30 asked - | dominoes 74 | calls 61
+[  657s] 6:45 asked - | dominoes 74 | calls 61
+[  660s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 69
+[  660s] 7:15 asked - | dominoes 74 | calls 69
+[  660s] 7:30 asked - | dominoes 74 | calls 69
+[  660s] 7:45 asked - | dominoes 74 | calls 69
+[  663s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 77
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  663s] 8:15 asked - | dominoes 74 | calls 77
+[  663s] 8:30 asked - | dominoes 74 | calls 77
+[  663s] 8:45 asked - | dominoes 74 | calls 77
+[  666s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 85
+[  666s] 9:15 asked - | dominoes 74 | calls 85
+[  666s] 9:30 asked - | dominoes 74 | calls 85
+[  666s] 9:45 asked - | dominoes 74 | calls 85
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.04,
+      "error": 1.18
+    },
+    "Omar": {
+      "speed": 0.61,
+      "error": 1.66
+    },
+    "Hana": {
+      "speed": 0.81,
+      "error": 0.62
+    },
+    "Jack": {
+      "speed": 0.99,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 672.1,
+  "intents": {
+    "Sofia": "",
+    "Omar": "",
+    "Hana": "",
+    "Jack": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 74,
+  "fell": 74,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 6,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 2,
+    "Hana": 1
+  },
+  "held_thoughts": 6,
+  "parse_failures": {
+    "Sofia": 8,
+    "Omar": 9,
+    "Hana": 9,
+    "Jack": 11
+  },
+  "usage": {
+    "calls": 96,
+    "failed": 87,
+    "input_tokens": 18,
+    "cache_creation_tokens": 34181,
+    "cache_read_tokens": 23025,
+    "output_tokens": 6624,
+    "seconds": 1112.0,
+    "api_equivalent_usd": 0.2053
+  }
+}

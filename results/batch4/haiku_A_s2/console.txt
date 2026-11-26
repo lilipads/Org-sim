@@ -1,0 +1,247 @@
+[   27s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Okay, let's do a fish! It's got a clear outline and a big tail, so the judge should get it. I'm sketching it on the pad now. Start the run at the tail, not the nose?
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   36s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Tail start works for me. Run the top of the tail, then along the back to the nose, around the belly, and back to the tail base. The forked fin can branch off that top-of-tail point. I can take the bod
+    (Maya held a thought)
+    (Leo held a thought)
+[   48s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Nice, Tom, that matches what I had. I'm sketching the body and tail on the pad now, starting at the top of the tail. Once it's up, Tom, you could take the fork fin, and Maya or Leo could take the body
+    (Maya held a thought)
+    (Leo held a thought)
+[   58s] 0:45 asked Maya,Tom,Leo | dominoes 0 | calls 13
+    Maya -> everyone: Yes, tail start works for me too. Priya, keep the fish facing right with the tail on the left, so the back runs from the tail up to the nose and the belly comes back underneath. Tom, you take the back
+    (Tom held a thought)
+    (Leo held a thought)
+[   71s] 1:00 asked Tom,Priya,Leo | dominoes 7 | calls 16
+    Priya -> everyone: Sounds good, Maya. I'll lay the start and the back from the top of the tail now. Tom, pick up the belly where it curves back under. Maya, the forked fin comes off that top point. I'm putting the pad d
+    (Tom held a thought)
+    (Leo held a thought)
+[   83s] 1:15 asked Maya,Tom,Leo | dominoes 11 | calls 19
+    Tom -> everyone: Sounds good. I've got the start and the line running along the back, and I'll take the belly once it reaches the nose and curves back under. Maya, the fork comes off where the belly meets the tail bas
+    (Maya held a thought)
+    (Leo held a thought)
+[  103s] 1:30 asked Maya,Leo | dominoes 19 | calls 21
+    Maya -> everyone: Tom, I'm taking the pad to draw the fork. It comes off the tail base, where the belly meets it, and I'll trace it once it's on the pad.
+    (Leo held a thought)
+[  115s] 1:45 asked Maya,Tom,Leo | dominoes 23 | calls 24
+    Tom -> Maya: Got it, Maya. I'll bring the belly back to the tail base and leave a clear spot there for your fork.
+    Maya -> everyone: Fork's going on the pad now, off the tail base where the belly meets it. I'll trace both prongs once they're drawn, then join them to the belly.
+    (Leo held a thought)
+[  127s] 2:00 asked Maya,Leo | dominoes 30 | calls 26
+    Maya -> everyone: Fork's drawn. I'm tracing both prongs now off the tail base. They'll hold until the belly comes back to that spot, Tom, so leave the joint clear.
+    (Leo held a thought)
+[  135s] 2:15 asked Tom,Leo | dominoes 34 | calls 28
+    Tom -> Maya: Got it, Maya. I'll keep the belly clear of that joint so your prongs can meet it.
+    Leo -> everyone: I'll take the tail fan once the back is standing. I'll keep its join tight to the body so it doesn't come loose. Maya, when you've traced the prongs, could I have the pad for a minute to sketch it?
+[  147s] 2:30 asked Maya | dominoes 40 | calls 29
+    Maya -> everyone: Leo, take the pad. The fork's staying on it, so please don't clear the sheet. Sketch the tail fan off the back's tail end. Tom, keep the joint clear where the belly meets the tail base for my prongs.
+[  162s] 2:45 asked Tom,Leo | dominoes 40 | calls 31
+    Tom -> Maya: Maya, the belly's standing back to about here. I'll check where it stops, then carry it the last stretch to your joint and leave that spot open.
+    Leo -> everyone: Got the pad, Maya, and the fork's still on it. I'm drawing the tail fan now, two spokes fanning out from the start where the back begins. I'll trace them once the back is standing there, and keep the 
+[  178s] 3:00 asked Maya,Tom,Priya | dominoes 40 | calls 34
+    Tom -> Maya: Belly's standing back to about here. I'm carrying it on toward the tail base now and leaving the joint open for your prongs, Maya.
+    Priya -> everyone: Nice, the belly's really coming together, Tom. The tail base is going to be busy: my lower fin starts there, Maya's prongs come off it, and the belly has to meet it too. Could we keep that joint open 
+    (Maya held a thought)
+[  190s] 3:15 asked Maya,Tom,Leo | dominoes 45 | calls 37
+    Maya -> everyone: Leo, the tail fan from the start sounds right, and I'll leave the fork as it is. Tom, when the belly reaches the joint, shout and I'll lay the prongs onto it.
+    (Tom held a thought)
+    (Leo held a thought)
+[  203s] 3:30 asked Tom,Leo | dominoes 49 | calls 39
+    Tom -> everyone: Got it, Maya, I'll shout when the belly reaches your joint. Leo, could I borrow the pad for a sec? I only need to sketch the last stretch of belly back to the tail base, and I won't touch your fan.
+    (Leo held a thought)
+[  216s] 3:45 asked Maya,Leo | dominoes 49 | calls 41
+    Maya -> Tom,Leo: Tom, Leo's got the pad for the fan, so pass it on once he's done with it. I'm laying the fork prongs now. They'll wait at the tail base for your belly, so shout when it gets there.
+    Leo -> everyone: Tom, the pad's right there, go ahead. Just don't wipe the sheet, because the fork and my fan are both on it. Priya, Maya, my fan is up at the start, joined tight to the back and well clear of the tail
+[  230s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 45
+    Priya -> Maya: Maya, I'll angle my lower fin down and away from your prongs so they don't cross at the joint. Could you spread the prongs up and out a bit? Then I'll lay my fin once the belly gets there.
+    Tom -> everyone: Thanks, Leo, I've got the pad. I'm drawing the last stretch of belly from where it stops back to the tail base, and I won't touch your fan or Maya's prongs.
+    (Maya held a thought)
+[  241s] 4:15 asked Maya,Leo | dominoes 55 | calls 47
+    Maya -> Priya,Tom: Priya, I'll open the prongs up and out a touch so your lower fin has room. Tom, shout when the belly reaches the joint and I'll lay the prongs onto it.
+[  250s] 4:30 asked Tom,Priya,Leo | dominoes 55 | calls 50
+    Priya -> Maya: Sounds good, Maya. I'll keep my lower fin angled down and away, and I'll lay it once the belly reaches the tail base.
+    Tom -> everyone: Belly's standing back to here. I'm putting the pad down and carrying the last stretch over to your joint now, Maya. Shout if you need it held open.
+    (Leo held a thought)
+[  268s] 4:45 asked Maya,Tom,Leo | dominoes 55 | calls 53
+    Tom -> everyone: Wait, stroke 8 isn't on the pad, so I can't trace it. I'm grabbing the pad back to redraw the last stretch from where the belly stops to Maya's joint. Maya, I'll shout once it's traced and standing.
+    (Leo held a thought)
+    (Maya held a thought)
+[  279s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 57
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> Tom: Tom, sorry for talking over you earlier. I'm fixing my fan's two dominoes by the start now. Keep the pad, I won't touch it.
+    Tom -> everyone: Belly's standing back to about here, and I've sketched the last stretch down to Maya's joint. I'm putting the pad down and tracing it now. Maya, I'll shout when it's standing so you can lay the prongs
+    (Maya held a thought)
+    (Priya held a thought)
+[  290s] 5:15 asked Maya,Tom,Leo | dominoes 55 | calls 60
+    Tom -> everyone: Belly's standing back to about here. I'm tracing the last stretch over to your joint now, Maya. Shout if it needs holding open.
+    (Maya held a thought)
+[  305s] 5:30 asked Maya,Tom,Leo | dominoes 48 | calls 63
+    Maya -> everyone: Tom, go ahead and trace the belly to the joint and shout once it's standing there. I'm leaving my prongs where they are. Priya, there's plenty of room below them for your lower fin.
+    (Leo held a thought)
+    (Tom held a thought)
+[  316s] 5:45 asked Tom,Priya | dominoes 42 | calls 65
+    Priya -> Tom,Maya: Sounds good, Tom. Once the belly's standing at the joint, shout and I'll lay my lower fin off it, angled down and away from Maya's prongs.
+    Tom -> everyone: On it, Maya. Laying the last stretch from the belly end over to your joint now. I'll shout when it's standing.
+[  327s] 6:00 asked Maya,Tom | dominoes 44 | calls 67
+    Tom -> everyone: Belly's standing back to about here. Laying the last stretch over to your joint now, Maya. I'll shout when it's standing.
+[  341s] 6:15 asked Maya,Tom | dominoes 45 | calls 69
+    Tom -> everyone: Pad's back in my hands. The belly stops just short of the joint, so I'm drawing that last piece as its own stroke and laying it now. Maya, I'll shout once it's standing.
+[  351s] 6:30 asked Maya,Tom | dominoes 52 | calls 71
+    Tom -> everyone: Tracing the last belly piece now, down to Maya's joint. I'll shout when it's standing.
+[  362s] 6:45 asked Maya,Tom | dominoes 56 | calls 73
+    Maya -> Leo: Leo, three of the fan pieces right by the start aren't connected yet. Can you join them to the back? Keep the fan clear of the tail base.
+    Tom -> everyone: Tracing the last belly piece now, down to Maya's joint. I'll shout when it's standing.
+[  374s] 7:00 asked Maya,Tom,Leo | dominoes 56 | calls 76
+    Tom -> everyone: Honest update: the belly's still short of your joint, so that last piece didn't take. I'm retracing it now, Maya. I'll shout once it's standing.
+    (Leo held a thought)
+[  391s] 7:15 asked Maya,Tom,Leo | dominoes 56 | calls 79
+    Maya -> everyone: Tom, stop retracing, you're chasing the same piece. I've got the pad and I'm laying a bridge straight from the end of your belly to my prong joint. Keep your hands off that gap. Leo, stay on the loose
+    (Tom held a thought)
+    (Leo held a thought)
+[  403s] 7:30 asked Maya,Tom,Leo | dominoes 56 | calls 82
+    Maya -> everyone: I'm laying the bridge from the belly end straight up to my prong joint now. Tom, keep your hands off that gap.
+    (Leo held a thought)
+    (Tom held a thought)
+[  414s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 57 | calls 86
+    Maya -> everyone: Bridge going down now, from the belly end straight to my prong joint. Tom, keep your hands off that gap. Once it's standing I'll shout so Priya can lay her fin.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  431s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 60 | calls 90
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Maya's bridge is the priority, so I'm holding my fin until it's standing. Tom, keep your hands off that gap like Maya said. I'll lay the fin off the joint as soon as the bridge is up.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  439s] 8:15 asked Maya,Tom,Leo | dominoes 63 | calls 93
+    Leo -> everyone: Maya, on it. I'm re-laying my fan spoke by the start so it joins the back, and I'm keeping clear of the tail base and your gap.
+    (Maya held a thought)
+    (Tom held a thought)
+[  449s] 8:30 asked Maya,Tom,Priya | dominoes 63 | calls 96
+    Tom -> Maya: Got it, Maya. I'm stopping my retrace and keeping my hands off that gap. I'll stay put and watch the joint. Shout if you want the belly end held.
+    Maya -> everyone: Bridge is standing from the belly end to my prong joint. Tom, hands off that gap. Priya, lay your lower fin off the joint now, angled down and away from my prongs. I'm checking the joint.
+    (Priya held a thought)
+[  461s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 65 | calls 100
+    Priya -> everyone: Got it, Maya, the bridge is up. I'm laying my lower fin off the joint now, angled down and away from your prongs.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  470s] 9:00 asked Maya,Tom,Leo | dominoes 71 | calls 103
+    Maya -> everyone: Bridge is up, Priya, go ahead with your lower fin off the joint. Leo, keep the fan clear of the tail base and join it back to the run. I'm checking the prongs by the start now.
+    (Tom held a thought)
+    (Leo held a thought)
+[  482s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 75 | calls 107
+    Leo -> everyone: Maya, my fan isn't joined to the back. The retrace placed nothing because it's too crowded against the start, so I've stopped rather than risk bumping it. Three pieces by the start are still loose. I'
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  493s] 9:30 asked Maya,Tom | dominoes 80 | calls 109
+    Tom -> Maya: Maya, before the push, the joint's still open. There's a domino knocked off the line at the prong end, and one end is facing left into nothing. Want me to nudge it in with a fix now, or will you? I'm 
+    Maya -> everyone: Thanks, Leo, that's the right call. Leave those three loose pieces where they are and don't retrace anything else near the start. Priya, once your lower fin is down, check it isn't touching my prongs.
+[  503s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 85 | calls 113
+    Maya -> everyone: Tom, yes, nudge it in now with a fix at the prong end, and then stop. Nobody else touch that joint. I'm holding the pad and watching the fin.
+    (Priya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.85,
+      "error": 1.03
+    },
+    "Tom": {
+      "speed": 1.54,
+      "error": 1.83
+    },
+    "Priya": {
+      "speed": 1.09,
+      "error": 2.0
+    },
+    "Leo": {
+      "speed": 1.36,
+      "error": 1.22
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 559.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya",
+    "Maya",
+    "Maya",
+    "Tom",
+    "Tom",
+    "Tom",
+    "Tom",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of dominoes forming a hook or loop",
+      "a bird's neck and head in profile",
+      "a domino chain drawn as a cursive letter or question-mark shape"
+    ],
+    [
+      "fallen dominoes in a curved loop chain",
+      "a hook or fishhook shape made of dominoes",
+      "a bird or swan outline made of dominoes"
+    ],
+    [
+      "a curved line of fallen dominoes forming a loop",
+      "a hook or question-mark shape",
+      "a swan neck or stylized bird outline"
+    ]
+  ],
+  "placed": 85,
+  "fell": 75,
+  "completion": 0.882,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 9,
+    "Tom": 20,
+    "Maya": 17,
+    "Leo": 6
+  },
+  "held_thoughts": 52,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 130,
+    "failed": 0,
+    "input_tokens": 272,
+    "cache_creation_tokens": 666591,
+    "cache_read_tokens": 377404,
+    "output_tokens": 152627,
+    "seconds": 1272.3,
+    "api_equivalent_usd": 0.2134
+  }
+}

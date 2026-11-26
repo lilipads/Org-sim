@@ -1,0 +1,236 @@
+[   26s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Right, let's do a fish! The tail fin will make it obvious. I've got the pad and I'm sketching it now: nose on this side, tail on the other. Shout if you'd rather do something else.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   36s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Yes, a fish is a good pick, and the forked tail will make it readable. Sofia, can you start the pad at the tail tip, on the left, so every line runs away from the start? And let's make sure the fork j
+    (Omar held a thought)
+    (Jack held a thought)
+[   50s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Jack -> everyone: Quick check before the pad goes further: Sofia's got the nose on the left, but Hana's asking for the tail tip on the left. I'd go with Sofia's, since she's already drawing it, and put the start at the
+    (Sofia held a thought)
+    (Omar held a thought)
+[   61s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 7 | calls 14
+    Sofia -> everyone: Jack's right, let's keep the nose on the left with the start there. Hana, both edges leave the start the same way, and the fin sits at the far end where the lines finish. I'll make the tail join wide.
+    (Hana held a thought)
+    (Omar held a thought)
+[   75s] 1:00 asked Sofia,Hana,Jack | dominoes 15 | calls 17
+    Hana -> everyone: Agreed, Jack. Nose on the left, start at the nose, fall runs right into the fin. Sofia, keep going on the pad. Omar, is what you're laying near the bottom edge stroke 3? If it is, I'll leave it alone 
+    (Sofia held a thought)
+    (Jack held a thought)
+[   90s] 1:15 asked Sofia,Omar,Jack | dominoes 23 | calls 20
+    Sofia -> everyone: Sorry, the pad's missing stroke 1, so I'm redrawing it with clean numbers. Stroke 1 is the top edge from the nose, 2 is the bottom edge (Hana's), 3 is the fin, 4 is the eye. Laying the top edge from t
+    (Omar held a thought)
+    (Jack held a thought)
+[  103s] 1:30 asked Sofia,Hana,Jack | dominoes 30 | calls 23
+    Sofia -> everyone: Pad's redrawn with clean numbers now: 1 is the top edge from the nose, 2 is the bottom edge (Hana's), 3 is the fin (Jack's), 4 is the eye. I'm laying the top edge from the start at the nose now.
+    (Hana held a thought)
+    (Jack held a thought)
+[  114s] 1:45 asked Hana,Jack | dominoes 46 | calls 25
+    Hana -> everyone: Omar, the pad's been renumbered. Bottom edge is stroke 2 now, not 3. Is what you're laying stroke 2? If so, I'll leave it to you and take the last stretch into the fork once you get there. Sofia, the 
+    (Jack held a thought)
+[  128s] 2:00 asked Sofia,Omar | dominoes 57 | calls 27
+    Omar -> everyone: Yep, that's the bottom edge, stroke 2 now. I've traced it up to the fork at the tail end, so Hana, the last stretch into the fork is yours. The eye's still open. I'll wait until Sofia's top edge is do
+    (Sofia held a thought)
+[  138s] 2:15 asked Sofia,Hana | dominoes 68 | calls 29
+    Hana -> everyone: Got it, Omar, thanks. I'll take the last stretch into the fork. I'm checking the joint there first so I don't double up on your line.
+    (Sofia held a thought)
+[  159s] 2:30 asked Omar,Hana | dominoes 80 | calls 31
+    Hana -> everyone: Checked the fork: Omar's bottom edge lands on it cleanly, so I'm leaving it alone. Jack, the fin on the pad is a triangle: fork out to the top tip, down the far edge, and back to the fork. Your line i
+    (Omar held a thought)
+[  169s] 2:45 asked Sofia,Omar,Jack | dominoes 77 | calls 34
+    Omar -> everyone: Heads up, the bottom edge at the nose isn't connected to the start. The start faces up-right, so it only knocks the top edge. My hands are free, so I'm bridging it now. Sofia, keep going on the top ed
+    (Jack held a thought)
+    (Sofia held a thought)
+[  180s] 3:00 asked Sofia,Omar,Hana | dominoes 73 | calls 37
+    Hana -> Jack: Jack, your fin's still looping past the top tip. If you'd rather not redo it, I can take stroke 3 once you've stopped. Shout and it's mine.
+    Sofia -> everyone: Thanks Omar, good catch on the nose. I'm still on the top edge from the start. Numbering's clean now: 1 is the top edge, 2 is the bottom edge, 3 is the fin, 4 is the eye.
+    (Omar held a thought)
+[  190s] 3:15 asked Omar,Hana,Jack | dominoes 73 | calls 40
+    Hana -> Jack: Jack, I'm not touching the fin while you're on it. Say the word and I'll take stroke 3 from the fork.
+    Jack -> everyone: Thanks, Hana, you're right, mine was curling past the top tip. I'm laying stroke 3 again from the fork so it runs straight out to the tip and back, so no need to take it. Sofia, nice call on the nose 
+[  206s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 72 | calls 44
+    Sofia -> Omar: I'm about halfway down the top edge, 17 of 34. Omar, once it's down the eye's yours to branch off it.
+    Hana -> Omar: Thanks, Jack. Omar, the eye's still open. Want me to take it once Sofia's top edge reaches the fork? That way you can stay on the fin check.
+    Omar -> everyone: Top edge is past the middle now, so I'm taking the eye, stroke 4, branching off it near the head. Jack, shout if the fin needs a hand.
+    (Jack held a thought)
+[  217s] 3:45 asked Omar,Hana,Jack | dominoes 75 | calls 47
+    Hana -> Sofia: Sofia, my hands are free. Do you want me to take the last stretch of the top edge into the fork, from where you stop? Tell me where to pick up and I'll go.
+    Jack -> everyone: Thanks Omar, I've got the fin. I'm laying it again from the fork, straight out to the top tip and back, so it shouldn't loop. Omar, the eye's all yours. Hana, thanks for standing by. Sofia, keep going
+[  229s] 4:00 asked Sofia,Omar,Hana | dominoes 68 | calls 50
+    Sofia -> Hana: Thanks Hana, I'll keep the top edge going myself since it's flowing well. Could you check the tail join where it meets Omar's bottom edge? Keep it wide so the fall doesn't stall there.
+    Omar -> everyone: Eye's down and branched off the top edge. I'm checking the nose and start join now, then I'll stand by.
+[  241s] 4:15 asked Sofia,Omar,Hana | dominoes 62 | calls 53
+    Hana -> Sofia: On it, Sofia. I'm looking at the join now and will keep it wide if it's tight.
+    Omar -> everyone: Nose and start look connected to me, the dark chain runs right from the start. The fin's cut off only because the top edge hasn't reached the fork yet. Sofia, shout if you want a hand on the top edge.
+[  252s] 4:30 asked Sofia,Hana,Jack | dominoes 63 | calls 56
+    Hana -> Sofia: Sofia, the top edge comes into the fork at a sharp turn, and that's where the fall could stall. Let the last few points curve in more gently, or tell me where to pick up and I'll lay the final stretch
+    Sofia -> everyone: Top edge is nearly down to the fork, and the nose and start look connected to me too. Hana, shout if the fork join is tight and I'll widen it. Jack, once the top edge meets the fork, your fin should j
+    (Jack held a thought)
+[  263s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 60
+    Sofia -> Hana: Good catch, Hana. I'll ease the last few points into the fork so it's a gentle curve, not a sharp turn. I'll shout when it's down so you can check the join.
+    Jack -> everyone: Yep, I'm laying the fin again from the fork, straight out to the top tip and back. Sofia, I'll join it up once your top edge gets to the fork. Shout if that join looks thin.
+    (Hana held a thought)
+[  272s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Right, I'm laying the fin again from the fork, straight out to the top tip and back. Sofia, once your top edge reaches the fork I'll make sure the join is tight.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  282s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 68
+    Sofia -> everyone: Still easing the last few points into the fork. I'll shout when it's down so Hana can check the join.
+    Hana -> everyone: Still watching the fork join, Sofia. I'll shout if it's tight, otherwise I'll stay off your line.
+    (Jack held a thought)
+[  293s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 72
+    Sofia -> everyone: Top edge is down to the fork now. Hana, could you check the join there? If it's tight I'll widen the last few points.
+    (Jack held a thought)
+[  302s] 5:45 asked Omar,Hana,Jack | dominoes 63 | calls 75
+    Hana -> everyone: On it, Sofia. I'm inspecting the fork join now and will shout if it's tight.
+    (Jack held a thought)
+    (Omar held a thought)
+[  317s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 79
+    Hana -> everyone: Inspected the fork. Sofia's top edge ends pointing down-right with nothing ahead of it, so the fin isn't joined yet. Jack, lay your fin's first domino right off that last top-edge domino, close enough
+    (Jack held a thought)
+    (Omar held a thought)
+[  328s] 6:15 asked Sofia,Omar,Jack | dominoes 63 | calls 82
+    Sofia -> everyone: Good catch, Hana. My top edge ends at the fork with nothing ahead of it. I'm closing that joint now. Jack, lay your fin's first domino right off my last top-edge domino so it knocks it.
+    (Jack held a thought)
+    (Omar held a thought)
+[  339s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 86
+    Jack -> everyone: Thanks, Hana, good catch. I'm laying the fin again now, starting right off Sofia's last top-edge domino so it knocks that one over. Sofia, nice work getting the top edge down to the fork.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  348s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 90
+    Sofia -> everyone: I'm closing the fork joint now. Jack, lay your fin's first domino right off my last top-edge domino as planned.
+    Jack -> everyone: Laying the fin again now, starting off Sofia's last top-edge domino. I'll shout if the join looks thin.
+    (Hana held a thought)
+[  359s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 94
+    Jack -> everyone: Sofia, I'm starting the fin right off your last top-edge domino so it knocks that one over. Hana, shout if the join looks thin and I'll tighten it.
+    (Hana held a thought)
+[  369s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 98
+    Hana -> everyone: Sofia, Jack, I'm keeping my hands off the fin. Jack, shout when the first fin domino is down and I'll check that join with you. Sofia, shout when the fork joint is closed.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  379s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 102
+    Sofia -> everyone: Go for it, Jack. My last top-edge domino is set and facing down-right, with clear space in front of it. I'll look at the join once your first fin domino is down.
+    (Jack held a thought)
+[  388s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 106
+    Jack -> everyone: Laying the fin now, starting right off Sofia's last top-edge domino so it knocks that one over. Hana, I'll shout when the first one's down.
+[  398s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 110
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Sofia, your top edge is right there, so I'm starting the fin off that last domino now. Hana, I'll shout the moment the first one's down so you can check the join with me.
+[  406s] 8:15 asked Sofia,Omar,Hana | dominoes 63 | calls 113
+    Sofia -> Jack: Go for it, Jack. Shout when that first fin domino's down and I'll check the join with Hana.
+    Hana -> everyone: Got it, Jack. I'm watching the fork. Shout when the first fin domino is down and I'll check that join with you.
+[  416s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 117
+    Jack -> everyone: Starting the fin now, right off Sofia's last top-edge domino. Hana, I'll shout the moment the first one's down.
+[  426s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 121
+    Jack -> everyone: Still laying the fin off Sofia's last domino, Hana. I'll shout as soon as that first one's down so you can check the join.
+    (Sofia held a thought)
+[  435s] 9:00 asked Sofia,Omar,Hana | dominoes 63 | calls 124
+    Hana -> Jack: Jack, has the first fin domino gone down off Sofia's last one? Shout as soon as it has and I'll check the join with you.
+    Sofia -> everyone: Go for it, Jack. Shout when that first fin domino is down and Hana and I will check the join.
+[  445s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 128
+    Jack -> everyone: I think it's down, Hana. The dark ones at the fork look joined to Sofia's edge to me, but I'm not certain. I'm still laying the fin, so please check the join with me.
+[  455s] 9:30 asked Sofia,Omar,Hana | dominoes 63 | calls 131
+    Hana -> everyone: Jack, the fin still looks pale to me, so it isn't connected to the fork yet. I'm bridging that joint now. Don't lay anything else there.
+    (Sofia held a thought)
+[  464s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 135
+    Hana -> everyone: Bridging the fork gap now. Jack, your fin still looks pale to me, so I'm closing the joint myself. Nobody lay anything else there.
+    Jack -> everyone: Thanks, Hana, you've got the joint. I'm keeping my hands off the fork now.
+    (Sofia held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.85,
+      "error": 1.03
+    },
+    "Omar": {
+      "speed": 1.54,
+      "error": 1.83
+    },
+    "Hana": {
+      "speed": 1.09,
+      "error": 2.0
+    },
+    "Jack": {
+      "speed": 1.36,
+      "error": 1.22
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 521.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of dominoes seen from above, toppled in a chain",
+      "a single bent dark stroke or arc, like a hand-drawn curve",
+      "a road or track curving over a hill, drawn in simple lines"
+    ],
+    [
+      "a curved row of toppled dominoes seen from above",
+      "a single dark arc or bent curved stroke",
+      "a curved road or river outline on a blank background"
+    ],
+    [
+      "a curved line of fallen dominoes",
+      "a dark arc or wave-shaped stroke",
+      "a bent road or railway track"
+    ]
+  ],
+  "placed": 63,
+  "fell": 40,
+  "completion": 0.635,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 16,
+    "Hana": 19,
+    "Jack": 14,
+    "Omar": 5
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 152,
+    "failed": 0,
+    "input_tokens": 316,
+    "cache_creation_tokens": 847023,
+    "cache_read_tokens": 424328,
+    "output_tokens": 159648,
+    "seconds": 1394.7,
+    "api_equivalent_usd": 0.2535
+  }
+}
