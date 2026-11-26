@@ -188,3 +188,7 @@
     Chloe -> everyone: Dev, the arc gap is going to take more than a minute, so I'm putting the (37.9,17.7) domino down now. I'll call it the moment it's standing, then I'm back on the gap at (33,14). Thanks, Ava, the kink'
     (Ben held a thought)
     (Ava held a thought)
+[  649s] 16:00 asked Ava,Chloe,Dev | dominoes 172 | calls 159
+    Dev -> Chloe: Chloe, I'm holding for your call on the (37.9,17.7) domino. If the top edge hasn't started by about two minutes left, I'll drop it rather than rush.
+    Chloe -> everyone: Dev, the last domino at (37.9,17.7) is standing and facing down-right toward your first top-edge domino at (38.5,18). Check the join when you're ready. I'm back on the arc gap at (33,14) now.
+    (Ava held a thought)
