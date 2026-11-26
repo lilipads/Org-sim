@@ -29,3 +29,316 @@
     (Tom held a thought)
     (Leo held a thought)
     (Maya held a thought)
+[  112s] 0:45 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 12 | calls 37
+    Sam -> Sofia,Omar: Sofia, your version's fine: the split's just behind the start and both edges run back the same way. Before you trace it, the tail: going from the top tip into the notch and out to the bottom tip is a 
+    Leo -> everyone: Agreed, Sofia. The short nose stub splitting into both edges works, and both edges run back the same way. Once the top is down, Omar takes the bottom. I'll take the forked tail and the eye when you're
+    (Priya held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+[  136s] 1:00 asked Tom,Priya,Sofia,Omar,Hana,Jack,Sam | dominoes 23 | calls 44
+    Tom -> everyone: Sofia, the nose start works for me. I'll lay the start and trace stroke one now, and Omar can take the bottom once the top's down. The tail V is a sharp reversal, though, so the fall can't go from the
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  158s] 1:15 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 35 | calls 51
+    Hana -> everyone: Before anyone traces: Tom's right about the tail. The top edge arrives at the tip and the fin leaves it at a sharp turn, so the fall won't carry through. Could the fins branch off the body edges a bit
+    (Leo held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[  173s] 1:30 asked Tom,Priya,Leo,Sofia,Omar,Jack,Sam | dominoes 50 | calls 58
+    Leo -> everyone: Hana's right, and that's the same fix Tom suggested. Each fin should be its own spur, branching off its body edge a little ahead of the tip and running out to it, with nothing joining back at the notc
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+[  199s] 1:45 asked Tom,Priya,Sofia,Omar,Hana,Jack,Sam | dominoes 62 | calls 65
+    Sofia -> everyone: On it, Leo. I'm redrawing the fins as separate spurs off the body edges, with nothing joining at the notch, and flattening the first stretch off the nose. Grace, the top edge on the pad now sweeps out
+    (Tom held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  213s] 2:00 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 69 | calls 74
+    Sofia -> everyone: Grace's top edge looks clean where it meets the body, no overlap I can see. I'm running a full check of the whole fish from the start now, and I'll call out any gaps.
+    (Tom held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+[  238s] 2:15 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 74 | calls 83
+    Grace -> Sofia: Sofia, the top edge is down to the tail tip, and the first stretch off the nose is flatter now, as you asked. Nothing crosses the bottom edge, so you're clear to check it. I'll add the dorsal fin off 
+    Sofia -> everyone: Inspection's clean, everything's connected back to the start. I've redrawn the fins on the pad as two separate spurs, each branching off its body edge ahead of the tip, with a gap at the notch. Leo, t
+    (Hana held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+[  255s] 2:30 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 82 | calls 92
+    Priya -> Leo,Sofia: Leo, you've got the tail and eye, so I'll take the bottom fin as its own spur, ahead of the tip with the gap at the notch. You take the top one. Shout if you'd rather keep both.
+    Omar -> Maya,Hana,Sofia: Hana, agreed on flattening the bottom edge near the nose. Maya, you're already past the middle of that edge, so keep going to the tail and I'll stay off the bottom. I'll hold off on tracing until Sofi
+    Grace -> Sofia: Sofia, the pad doesn't have the dorsal fin yet. Could you sketch a short spur off the top edge, about halfway along, angled up and back? Once it's on the pad I'll trace it after stroke one reaches tha
+    Leo -> everyone: Sofia, I'm reading the fins on the pad as 6 and 7 now, with 4 and 5 the old overlapping pair. I'm tracing 6 and 7 as separate spurs with the gap at the notch. Maya, you're on the bottom edge, so I'll 
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+[  277s] 2:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 91 | calls 102
+    Maya -> Omar,Sofia: Got it, Omar. I'm on the bottom edge with three dominoes to go, and I'll carry it on to the tail. Sofia, Leo, I'll flag it when it's down.
+    Priya -> Leo: Fair enough, Leo, you've got both fins. I'll stand by with empty hands. If the bottom edge needs a hand, or the eye needs fixing, shout.
+    Sofia -> everyone: Grace, please hold off on the dorsal fin. It isn't on the pad, and it would blur the outline. Leo's on fin 6 now. Priya, take fin 7, the bottom one, once Maya's bottom edge reaches it. Leo, ignore 4 a
+    (Leo held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+[  299s] 3:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 96 | calls 112
+    Maya -> Sofia: One domino left on the bottom edge, then it should reach the tail tip. I'll flag it once it's down and check the notch stays open.
+    Leo -> Priya,Sofia,Omar: Sofia, I'm keeping both fins, since I'm already partway through 6 and 7. Priya, could you trace stroke 3 from the middle toward Maya's end? That's what's holding up fin 7. Omar, shout if you're alread
+    Sam -> Sofia,Omar,Maya: Sofia, strokes 4 and 5 are still on the pad next to the new fins. Could they come off before anyone traces more? Also, who has stroke 3, the bottom edge: Omar or Maya? I'm staying off the notch, and I
+    Grace -> Sofia: Got it, Sofia, no dorsal fin. I'll leave it off the outline. The top edge is clear to the tail, and I'll keep an eye on the nose junction while Omar and Maya bring the bottom in.
+    Hana -> everyone: Thanks, Sofia, the fins look right. Grace, are you on the top edge? If you are, I'll leave it to you. If not, I'll retrace the old top line to match stroke 2 once Tom's stroke 1 is down.
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+[  314s] 3:15 asked Maya,Tom,Priya,Sofia,Omar,Jack,Sam,Grace | dominoes 97 | calls 120
+    Maya -> Sam,Sofia: Sam, it's me on stroke 3, the bottom edge. One domino to go, then I'll check the notch stays open.
+    Omar -> Sam,Leo,Maya: I'm not on stroke 3. Maya has the bottom edge, and I'm staying off it. I'll check the nose split once the top's confirmed, and I'll keep my hands off until then.
+    Sofia -> everyone: Quick split so we don't double up. Tom, can you confirm stroke 1 runs down from the nose? Leo, fin 6 is yours, the top tail spur. Priya, fin 7 is the bottom spur, so take it once Maya's bottom edge re
+    (Priya held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+[  333s] 3:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 99 | calls 130
+    Priya -> Leo,Omar,Maya: Leo, got it. I'm tracing stroke 3 now, working from the middle toward Maya's end. Omar, shout if you're already on it. Maya, I'll work up to your run and leave your standing dominoes alone.
+    Sam -> Maya,Sofia: Thanks, Maya. Stroke 3 is yours, so I'll keep off it. Sofia, strokes 4 and 5 are still on the pad next to 6 and 7. Could you clear them now, before more gets traced? Once the top edge is down I'll che
+    Sofia -> everyone: Quick check before the last pieces go in. Stroke 1 and the top edge are connected all the way back to the start, so good work. Maya, flag me when the last bottom-edge domino is down and the notch is s
+    (Tom held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+[  351s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 99 | calls 140
+    Maya -> Priya: Priya, stroke 3 is mine. I'm one domino from the tail tip, so please don't retrace it. I'll flag you when it's down, and then fin 7 is yours.
+    Tom -> Priya: Priya, are you free for fin 7? If you're busy on the start end, I'll take it once Maya's bottom edge reaches the tail.
+    Priya -> Leo,Sofia: Leo, Sofia: I'm staying on stroke 3, the bottom edge, and working up to Maya's run. Leo, you've got both fins, so I'll leave 7 with you unless you hand it over.
+    Leo -> Priya: Priya, when stroke 3 reaches the tail tip, shout and I'll start fin 7.
+    Sofia -> Sam,Leo,Priya,Maya: Sam, I'm not going to redraw while Leo's on fin 6, because it would shift the numbering. Nobody traces 4 or 5. I'll wipe them off the pad as soon as 6 and 7 are down. I'm checking the tail area now.
+    Hana -> Grace: Grace, are you on the top edge? If you are, I'll leave it with you. If not, tell me and I'll retrace stroke 2 once Tom's stroke 1 is down.
+    Sam -> Sofia,Maya: Sofia, I'd still like 4 and 5 off the pad before more gets traced. They overlap the tail where the fins branch, and the notch is the one place I don't want a second line. I'm inspecting the nose split
+    Grace -> everyone: Hana, yes, I'm on the top edge. It's finished from the nose to the tail tip, so please don't retrace it. My hands are free now. Omar, Maya, the bottom run still has a gap between its end and the nose 
+    (Jack held a thought)
+    (Omar held a thought)
+[  366s] 4:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 99 | calls 150
+    Maya -> Sofia,Priya: Sofia, Priya, one domino left on the bottom edge, then it reaches the tail tip. I'll check the notch stays open and flag you when it's down.
+    Priya -> Maya,Leo: Maya, I'm keeping clear of your last domino and I'll flag you once stroke 3 meets it. Leo, fin 7 stays with you unless you want to hand it over.
+    Grace -> Omar,Maya: Omar, Maya, before I touch anything: is either of you on the joint between the pale run's end and the nose junction? If not, I'll close that gap now and leave the rest of the bottom edge to you.
+    Tom -> everyone: Priya, I'm free, so I'll take fin 7, the bottom spur. If you already have it, shout and I'll stop. I'll wait for Maya's bottom edge to reach the tail before I put anything down.
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  387s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 96 | calls 160
+    Tom -> Leo,Priya: Leo, are you already laying seven? Priya, are you on it? If one of you has it, I'll leave it alone and stay on standby.
+    Omar -> Grace,Maya: Not me, Grace, I'm not on that joint. I'm checking the stretch between the bottom run's end and the nose junction now. If it's open, go ahead and close it. I'll keep my hands off until I've looked.
+    Jack -> Maya,Omar: Maya, Omar, my hands are free. If the gap between the nose and the middle of the bottom edge is still open, I can take that stretch. Tell me if you'd rather keep it.
+    Sam -> everyone: Nose split inspected: clean, nothing I'd call a gap. Sofia, 4 and 5 are still sitting on the tail where the fins branch. Could they come off before 6 and 7 go down? I'm keeping my hands off until they
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  405s] 4:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Grace | dominoes 97 | calls 168
+    Maya -> Grace,Omar: Grace, I'm not on that joint, so go ahead and close it. I'm still on the last bottom-edge domino, and I'll flag you both when it's down.
+    Priya -> Tom,Leo: Tom, Leo still has fin 7, and I'm on stroke 3 up to Maya's last domino. Leo, if you want to hand 7 to Tom, that's your call. I'm not touching it.
+    Leo -> Tom,Priya: Tom, I'm not on seven. I'm still finishing six, so seven's yours. Hold until Priya shouts that stroke three reaches the tail tip, then trace it. Some dominoes near the notch end didn't fit, so check t
+    Jack -> Maya,Omar,Grace: Maya, Omar, I'll hold off on the bottom gap unless you tell me it's still open. Grace, you offered too, so let's pick one of us. I'm having a look at that stretch now.
+    Grace -> Omar,Maya: Omar, Maya, I'm closing the gap between the pale run's end and the nose junction now. Shout if either of you is already on it.
+    Sofia -> everyone: Sam, I hear you. I'm not clearing 4 and 5 yet, because wiping now renumbers 6 and 7 while Leo and Tom are tracing them. They come off as soon as both fins are down. Tom, you take fin 7, the bottom spu
+    (Omar held a thought)
+    (Tom held a thought)
+[  421s] 4:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 98 | calls 177
+    Maya -> Sofia,Priya: Still one domino from the tail tip. I'll flag Sofia and Priya the moment it's down and the notch is open.
+    Jack -> Maya,Omar: Maya, Omar, I've had a look. The bottom edge is open from about the middle back toward the nose, and the little run Hana's near isn't joined to the start yet. It's your stretch, so tell me if you want
+    Sam -> Maya,Sofia: Maya, Grace flagged a gap on the bottom edge between your end and the nose junction. I'm inspecting that stretch now, so if it's clean you can carry on without stopping.
+    Grace -> Omar,Maya: Hold on, Omar and Maya. I can't see anything standing at that spot to connect from, so I'm not closing it yet. Where exactly is the end of the bottom run? I'm checking the nose junction now.
+    Omar -> everyone: Grace, you're already on the stretch from the pale run's end up to the nose junction, so keep that one. Jack, take the bit from the nose junction down to the middle of the bottom edge and build toward
+    (Tom held a thought)
+    (Sofia held a thought)
+[  442s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 101 | calls 187
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Maya,Tom: Maya, still on stroke 3 with about nine to go. I'll stop one short of your last domino and flag you when we meet. Tom, you'll have the tail once that join holds.
+    Jack -> Omar,Maya: Got it, Omar. I'm taking the bit from the nose junction down to the middle of the bottom edge, and I'll build toward Priya's end so it joins her run. Maya, keep going to the tail and flag us when it's
+    Sam -> Sofia,Maya: Sofia, 4 and 5 are still on the tail. With five minutes left, could you clear them now? I'm not touching the notch. I'm checking the bottom-edge gap Grace flagged, so tell me if Jack's piece has alrea
+    Grace -> Omar,Maya: Omar, Maya, I'm not closing anything yet. Where does the bottom run actually end? I'm looking at that stretch now and will hold until one of you names the exact domino.
+    Sofia -> everyone: Sam, you're right about 4 and 5. They come off the moment fins 6 and 7 are down, and I won't redraw in the meantime. Maya, flag me when that last bottom-edge domino is in. Tom, take fin 7 once her lin
+    (Maya held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+[  459s] 5:15 asked Maya,Tom,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 107 | calls 195
+    Tom -> Leo,Priya: Got it, Leo, seven's mine. I'm holding until Priya shouts that three reaches the tail tip, then I'll trace it. Checking the notch spot now.
+    Sam -> Jack,Priya: Jack, Priya, the line end near the nose junction still has nothing ahead of it. Is one of you closing that onto Priya's run? If neither of you is, tell me and I'll connect it.
+    Grace -> everyone: Omar, Maya, the pale run's right end is here, and nothing stands between it and the nose junction. I'm extending from that end toward the junction now. Shout if either of you is already on it.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+[  482s] 5:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 104 | calls 204
+    Priya -> Maya: Maya, my run on stroke 3 is down and stops one domino short of your last one. Go ahead and place yours, then flag me. I'll look at the join once it's in.
+    Jack -> Grace,Omar: Grace, my stretch from the nose ends down by (18.5,12) and runs down-left. Your pale run's right end faces right, so a fall from my side would come in against it. Can you check which way those dominoe
+    Sam -> Jack,Priya: Jack, Priya, the bottom-edge end here still has nothing ahead of it. If one of you has it, say so now. If I don't hear back shortly, I'll close it onto Priya's run.
+    Hana -> everyone: Hana here. I'm staying off the bottom edge. Grace, the gap from the pale run's end up to the nose junction is yours, and nothing's ahead of that end yet. Jack, your stretch from the nose down is still
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  506s] 5:45 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 105 | calls 213
+    Omar -> Grace,Jack: Grace, Jack's right to check. Your pale run's end faces right, but Jack's coming down from the nose. Look at which way the last few dominoes lean before you extend, and if they need turning, bridge fr
+    Grace -> everyone: Jack's right, and I've got it backwards. My eight face right, but the fall comes from the nose going left. I'm lifting them now and will lay them leftward from your end to the pale run. Jack, hold you
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  529s] 6:00 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Grace | dominoes 121 | calls 221
+    Jack -> Grace,Omar: Thanks, Grace, that works. I'm holding my end where it is and carrying on down toward the middle of the bottom edge. I'll bridge to your run from my side once it's laid.
+    Grace -> Jack,Omar: Jack, I'm laying my stretch leftward from your end now, so the fall from the nose carries straight into the pale run. Hold your end where it is.
+    Hana -> everyone: Time check, four minutes. Fin 7 still isn't settled. Priya, are you on it? If not, say so and Tom takes it. Tom, once you've got fin 7 or handed it off, please confirm stroke 1 is laid from the nose, 
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  543s] 6:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 128 | calls 230
+    Priya -> everyone: Hana, Tom: Tom has fin 7, and I'm not on it. My bottom-edge run is down and stops one domino short of Maya's last one at the tail. Maya, place yours and I'll check the join. Sam, nothing's mine at the
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  559s] 6:30 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 129 | calls 238
+    Hana -> everyone: Tom, you have fin 7, good. Please confirm stroke 1 is laid from the nose to the start, because the push depends on it. Maya, place your last tail domino so Priya can check the join. I'm looking over t
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[  577s] 6:45 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam | dominoes 136 | calls 246
+    Hana -> Tom: Tom, when you get a moment, just a yes on stroke 1 being laid from the nose to the start. Nothing else needed.
+    Jack -> Grace: Grace, my end is the one facing left near the bottom of the pale run's curve. Lay yours from there up to the pale run, and I'll check the join before I bridge anything.
+    Sam -> everyone: Hana, my connect is in: the bottom edge end onto the lone domino past the middle. Jack, I've left your stretch alone. I'm checking that joint and the kink past the middle now, and I'll call out any br
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[  591s] 7:00 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 146 | calls 255
+    Tom -> Hana: Hana, yes, stroke 1 is laid from the nose all the way back to the start, and it's down. I've got fin 7 and I'm holding until Maya places her last tail domino and Priya checks the join.
+    Priya -> Maya,Sam: Maya, go ahead with your last tail domino. I'll check the join as soon as it's in. Sam's got the kink, so I'm leaving that one alone.
+    Omar -> Sam,Hana: Sam, I've looked at that kink. The line turns too sharply right there, so the fall stops at that spot. Your connect may not be enough on its own, so it might need a re-lay of that stretch rather than 
+    Grace -> Jack: Jack, got it. I'm laying mine from your left-facing end up into the pale run now. Hold your end, and I'll check the join once it's down.
+    Sofia -> everyone: Thanks, Sam, the nose junction is looking good. Maya, flag me the moment that last tail domino is down. Tom, can you confirm stroke 1 runs from the nose to the start? I'm checking the little gap by th
+    (Maya held a thought)
+    (Hana held a thought)
+[  610s] 7:15 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam | dominoes 148 | calls 263
+    Sam -> Omar,Hana: Omar, you're right about the kink. A bridge won't hold that turn. Could you re-lay the stretch from the lone domino past the middle into a gentler curve? I'll stay off the bottom edge so Maya and Priy
+    Sofia -> everyone: Okay, the tail gap is the one thing I'm watching. Maya, place that last tail domino and flag me. Priya, check the join once it's down. Leo, carry on with fin 6. Tom, fin 7 starts once Maya's line reac
+    (Maya held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+[  628s] 7:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 148 | calls 272
+    Maya -> Sofia,Priya: Sofia, Priya, Maya here. Tom has fin 7, so I'm not on it. My last tail domino is going in now. I'll flag you both once it's down and the notch is still open.
+    Leo -> Sofia,Maya: Sofia, Maya: fin 6 stops about a domino short of the tail gap. I'm not placing near it, so Maya, go ahead with your last tail domino. I'm just checking the join from here, and I'll call out what it ne
+    Sam -> Hana: Hana, from where I'm sitting stroke 1 looks connected from the start all the way round to the nose. I'll check the bottom-edge joint once Omar's re-lay is down.
+    Omar -> everyone: Tom, I've got stroke 1 from the nose back to the start. I'm inspecting it now, so you stay on fin 7. Sam, I'll re-lay that kink as soon as I've confirmed the start line.
+    (Tom held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+[  644s] 7:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 143 | calls 282
+    Leo -> Sofia,Maya: Holding off the gap. Maya, once your last tail domino is down and Priya's checked the join, I can bridge fin 6's end to it if the gap's still open. Sofia, say the word.
+    Jack -> Grace: Grace, I'm checking the join between your run and mine now. I'll only bridge if there's a real gap.
+    Sam -> Omar: Omar, go ahead with the re-lay. I'm keeping off the bottom edge. Shout when it's down and I'll check the kink and the join straight away.
+    Omar -> everyone: Tom, stroke 1 is clean from the nose to the start, so the push is covered. Sam, I'm lifting the kink by the lone domino past the middle now and laying a gentler curve from the stretch before it. Maya 
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+[  660s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 148 | calls 292
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Grace -> Jack,Omar: Jack, Omar, I'm carrying on with my eight leftward from Jack's end. The domino at the bend by the pale run sits off to the side, so I'll set that one straight as I go. Jack, hold your end.
+    Sofia -> everyone: Quick final check, two minutes. Maya, flag me the moment that last tail domino is down. Leo, hold fin 6 until that gap is closed. Tom, please confirm stroke 1 runs from the nose to the start. I'm not 
+    (Omar held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+[  672s] 8:15 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 149 | calls 301
+    Omar -> Sam: Sam, the kink's lifted and the gentler curve is one domino from done. I'll call you the moment it's down.
+    Jack -> Grace,Omar: Grace, Omar, my stretch is holding. I'm checking the join into Grace's run now and will only bridge if there's a real gap. Omar, the kink by the lone domino is yours, so I'm keeping my hands off it.
+    Grace -> Jack,Omar: Jack, Omar, I'm straightening the off-side domino at the bend by the pale run, then I'm holding. Jack, keep your end where it is.
+    Hana -> everyone: Sofia, stroke 1 is already confirmed: Tom at 7:00, then Omar and Sam both checked it from the nose back to the start. Start and nose look clean from my side. I'm keeping my hands off the tail and the 
+    (Tom held a thought)
+[  686s] 8:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 150 | calls 310
+    Maya -> Sofia,Priya: Sofia, Priya, my last tail domino is going in now. Priya, check the join when it's down. I'm leaving the notch and the tail gap alone.
+    Omar -> Sam: Sam, one domino left on the gentler curve. Placing it now, and I'll call you the second it's down.
+    Jack -> Grace: Grace, that bend looks straight now, nice work. I'm checking our join and I'll only bridge if there's a real gap.
+    Sam -> Omar: Omar, I'm holding off until you say the kink is down. I'll check the joint straight away.
+    Sofia -> everyone: Hana's confirmed stroke 1 from the nose to the start, so Tom, you're clear on that. Maya, flag me when the last tail domino is down. Leo, hold fin 6 until the gap is closed. I'm not clearing 4 and 5 w
+    (Tom held a thought)
+[  700s] 8:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 150 | calls 320
+    Omar -> Sam: Sam, the gentler curve past the kink is down. Go ahead and check the kink and the join.
+    Sofia -> everyone: Leo, I'm closing the tail gap myself now, so keep your hands off it. Maya, once your last domino is down, Priya checks the join. Nobody else place near the tail.
+    (Hana held a thought)
+    (Tom held a thought)
+[  716s] 9:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 150 | calls 330
+    Maya -> Sofia,Priya: Sofia, Priya, still placing the last tail domino. I'll flag you the moment it's down.
+    Priya -> Maya: Maya, I'm not touching the tail. Flag me when that last domino is down and I'll check the join.
+    Leo -> Sofia: Got it, Sofia. I'm off the tail gap and leaving fin 6 as it is.
+    Sam -> Omar: Omar, thanks. Checking the kink and join now.
+    Grace -> Jack,Omar: Jack, Omar, the inspection shows an open end facing right near the top of the pale run, with nothing ahead of it. If that's where my stretch meets the nose, I'll leave it. I'm not placing anything wit
+    Sofia -> everyone: Tail gap is mine, I'm bridging it now. Leo, Maya, Priya, hands off that spot. Maya, flag me when your last domino is down.
+    (Hana held a thought)
+    (Jack held a thought)
+[  729s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 153 | calls 340
+    Maya -> Sofia,Priya: Sofia, Priya, last tail domino's going in now. I'll flag you both the second it's down.
+    Jack -> Grace,Omar: Grace, nice work on that bend. My stretch is holding, and I'm keeping my hands off the kink and the tail. If your end's open at the top, I'll leave it since you're on it.
+    Sam -> Omar: Omar, the domino just past the kink is off line and would stop the fall. I'm nudging it into line now. Keep your hands off that spot.
+    Tom -> everyone: Time's nearly up, so I'm laying fin 7 now. I'll start from the bottom spur and leave the tail gap to Sofia.
+    Sofia -> everyone: Bridging the tail gap now. Leo, Maya, Priya, hands off that spot, please.
+    (Hana held a thought)
+[  741s] 9:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 158 | calls 349
+    Priya -> Maya,Tom: Maya, Tom, I'm checking the join at the tail now. Maya, if your last domino is down, flag me and I'll confirm the join so Tom knows where stroke 3 ends.
+    Sam -> Omar,Hana: Omar, I'm nudging the domino just past the kink into line now. Keep your hands off that one and I'll call you when it's down.
+    Grace -> Jack,Omar: Jack, Omar, I'm inspecting the join at the top of the pale run now. I won't place anything.
+    Hana -> everyone: Omar, Sam, the kink by the lone domino past the middle isn't confirmed down yet. Once Omar's re-lay is in, could one of you check it? There's also a bottom-edge domino jammed too close to the next one
+[  751s] 9:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 161 | calls 359
+    Maya -> Sofia,Priya: Sofia, Priya, last tail domino's going in now. I'll flag you both the second it's down.
+    Tom -> Priya: Priya, fin 7 is 8 of 12 down, four to go. I'm finishing it now and staying off the tail.
+    Priya -> Maya,Tom: Maya, Tom, stroke 3 is down and stops one domino short of Maya's last one at the tail. Maya, flag me the second yours is in and I'll check the join. Tom, don't count the tail join as done until I've l
+    Hana -> Sam,Omar: Sam, I'm not touching anything. Once Omar's re-lay is down, I'll look at the kink and the jammed bottom-edge domino.
+    Jack -> Grace: Grace, thanks for sorting that bend. My end's holding, and I'm keeping my hands off the join while you check it.
+    Sam -> everyone: Hana, I'm checking the kink by the lone domino past the middle now. Omar, keep your hands off until I call it.
+    (Grace held a thought)

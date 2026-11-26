@@ -1,0 +1,95 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 2.0
+    },
+    "Tom": {
+      "speed": 0.96,
+      "error": 0.76
+    },
+    "Priya": {
+      "speed": 1.56,
+      "error": 1.44
+    },
+    "Leo": {
+      "speed": 0.75,
+      "error": 1.92
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 547.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish viewed from the side",
+      "leaf with curled stem tips",
+      "eye with lashes"
+    ],
+    [
+      "fish seen from the side, with fins curling off the head end",
+      "leaf or seed pod with curled tendrils at the stem end",
+      "boat hull or canoe with a raised bow and stern"
+    ],
+    [
+      "fish with fins and forked tail",
+      "leaf or seed pod with stem",
+      "eye or lens shape with curled lashes"
+    ]
+  ],
+  "placed": 84,
+  "fell": 84,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 54,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Leo": 11,
+    "Priya": 14,
+    "Tom": 12
+  },
+  "held_thoughts": 28,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 133,
+    "failed": 0,
+    "input_tokens": 260,
+    "cache_creation_tokens": 692640,
+    "cache_read_tokens": 377752,
+    "output_tokens": 110850,
+    "seconds": 1457.2,
+    "api_equivalent_usd": 0.1978,
+    "cached": 6
+  }
+}

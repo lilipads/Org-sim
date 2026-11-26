@@ -39,3 +39,86 @@
     Priya -> everyone: Three more on the bottom, then I'll check where it meets the nose. Nobody's free for the eye, so we're skipping it.
 [  106s] 7:45 asked Priya | dominoes 31 | calls 8
     Priya -> everyone: Bottom's down. Checking the nose join and the tail base now, then I'll stop building with about a minute to spare.
+[  118s] 8:00 asked Priya | dominoes 31 | calls 9
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Checking the nose join now. If it's a small gap I'll nudge it, otherwise I'll leave it.
+[  134s] 8:15 asked Priya | dominoes 31 | calls 10
+    Priya -> everyone: Nose is the problem: that little group up top isn't joined. Nudging the join now. After this I'm not touching anything else before the push.
+[  142s] 8:30 asked Priya | dominoes 31 | calls 11
+[  157s] 8:45 asked Priya | dominoes 31 | calls 12
+    Priya -> everyone: Heads up, the nose end is still pale, so it's not joined to the start. I'm taking a quick look at the body before the push so we know what's actually connected.
+[  170s] 9:00 asked Priya | dominoes 31 | calls 13
+    Priya -> everyone: Heads up, the nose isn't joined up, so the head will probably drop off the fall. I'm leaving everything alone now. Let's see what the start brings down.
+[  170s] 9:15 asked - | dominoes 31 | calls 13
+[  170s] 9:30 asked - | dominoes 31 | calls 13
+[  170s] 9:45 asked - | dominoes 31 | calls 13
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Priya"
+  ],
+  "skills": {
+    "Priya": {
+      "speed": 1.0,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 256.9,
+  "intents": {
+    "Priya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "chevron or arrow pointing right, drawn as a bent line",
+      "chain of fallen dominoes bending at a corner, seen from above",
+      "hand-drawn angle bracket or greater-than sign"
+    ],
+    [
+      "a line of fallen dominoes bent into a sharp v or chevron",
+      "a right-pointing arrow or chevron drawn with dark segments",
+      "a bent path or boomerang-shaped line of dominoes"
+    ],
+    [
+      "right-pointing chevron or arrowhead",
+      "bent line of fallen dominoes in a v shape",
+      "boomerang or angled wall outline"
+    ]
+  ],
+  "placed": 31,
+  "fell": 25,
+  "completion": 0.806,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 14,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 11
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Priya": 0
+  },
+  "usage": {
+    "calls": 27,
+    "failed": 0,
+    "input_tokens": 66,
+    "cache_creation_tokens": 81297,
+    "cache_read_tokens": 66701,
+    "output_tokens": 21210,
+    "seconds": 282.0,
+    "api_equivalent_usd": 0.0275,
+    "cached": 0
+  }
+}

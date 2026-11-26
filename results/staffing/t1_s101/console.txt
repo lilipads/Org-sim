@@ -37,3 +37,87 @@
 [  108s] 7:00 asked - | dominoes 50 | calls 7
 [  108s] 7:15 asked - | dominoes 45 | calls 7
 [  108s] 7:30 asked - | dominoes 40 | calls 7
+[  118s] 7:45 asked Maya | dominoes 38 | calls 8
+    Maya -> everyone: Fin's nearly closed, four more to go. Belly bridge is next.
+[  130s] 8:00 asked Maya | dominoes 38 | calls 9
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Two more fin dominoes and it closes back to START. Nobody's laid the start yet, so if anyone's free, can you trace stroke 1 now? We've got about two minutes.
+[  139s] 8:15 asked Maya | dominoes 40 | calls 10
+    Maya -> everyone: Nobody's free, so I'm laying stroke 1 from the start now. Then I'll close the last two fin dominoes.
+[  139s] 8:30 asked - | dominoes 45 | calls 10
+[  139s] 8:45 asked - | dominoes 50 | calls 10
+[  139s] 9:00 asked - | dominoes 55 | calls 10
+[  139s] 9:15 asked - | dominoes 59 | calls 10
+[  139s] 9:30 asked - | dominoes 63 | calls 10
+[  148s] 9:45 asked Maya | dominoes 63 | calls 11
+    Maya -> everyone: Stroke 1's down from the start. Closing the last fin gap now, don't push until I say.
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 2.0
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 231.2,
+  "intents": {
+    "Maya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "single line of dominoes curving to the right",
+      "dominoes arranged in a long bent chain",
+      "fallen dominoes forming a hooked line"
+    ],
+    [
+      "curved line of toppled dominoes",
+      "hand-drawn pen stroke",
+      "winding road or river on a map"
+    ],
+    [
+      "curved line of fallen dominoes seen from above",
+      "winding river or road on a map",
+      "hand-drawn stroke or signature in dark ink"
+    ]
+  ],
+  "placed": 63,
+  "fell": 37,
+  "completion": 0.587,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 13,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 10
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Maya": 0
+  },
+  "usage": {
+    "calls": 25,
+    "failed": 0,
+    "input_tokens": 62,
+    "cache_creation_tokens": 72016,
+    "cache_read_tokens": 60520,
+    "output_tokens": 19686,
+    "seconds": 255.3,
+    "api_equivalent_usd": 0.0249,
+    "cached": 0
+  }
+}

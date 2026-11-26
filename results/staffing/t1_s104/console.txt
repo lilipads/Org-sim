@@ -34,3 +34,93 @@
 [  109s] 6:30 asked Hana | dominoes 83 | calls 6
     Hana -> everyone: Closing the last gap on the top edge at the nose now. Then I'll check the bottom edge joins the start.
 [  109s] 6:45 asked - | dominoes 86 | calls 6
+[  122s] 7:00 asked Hana | dominoes 88 | calls 7
+    Hana -> everyone: Bottom edge is short of the nose, so I'm carrying it out from where it ends now. Could someone check the join back at the tail? It looked pale there.
+[  122s] 7:15 asked - | dominoes 92 | calls 7
+[  131s] 7:30 asked Hana | dominoes 92 | calls 8
+    Hana -> everyone: I'm checking the join back at the tail now, since the bottom edge looks pale there. I'll also close the small gap at the nose on the top edge.
+[  143s] 7:45 asked Hana | dominoes 93 | calls 9
+    Hana -> everyone: Bottom edge isn't joined to the start yet. I'm bridging it from the start now, then closing the tip gap.
+[  154s] 8:00 asked Hana | dominoes 93 | calls 10
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Start bridge to the bottom edge is in. Closing the tip gap at the nose now, then I'll check the bottom join back to the start.
+[  166s] 8:15 asked Hana | dominoes 93 | calls 11
+    Hana -> everyone: Build's done on my side. I'm checking the whole chain now. The bottom edge still stops short of the nose, so I'll tell you what's connected to the start.
+[  176s] 8:30 asked Hana | dominoes 96 | calls 12
+    Hana -> everyone: Good news: the whole outline is connected back to the start, all 93. The bottom edge still stops short of the nose, so I'm carrying it on to meet the top now. Please don't touch the top edge.
+[  176s] 8:45 asked - | dominoes 99 | calls 12
+[  184s] 9:00 asked Hana | dominoes 99 | calls 13
+    Hana -> everyone: One minute. Top edge is closed, so please leave it alone. I'm finishing the bottom edge out to the nose now, and I'll say if it doesn't reach.
+[  184s] 9:15 asked - | dominoes 99 | calls 13
+[  184s] 9:30 asked - | dominoes 99 | calls 13
+[  184s] 9:45 asked - | dominoes 99 | calls 13
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Hana"
+  ],
+  "skills": {
+    "Hana": {
+      "speed": 0.85,
+      "error": 1.92
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 236.7,
+  "intents": {
+    "Hana": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "dominoes lined up in a closed lens-shaped loop",
+      "a leaf or eye outline drawn with dashed strokes",
+      "a pointed oval, like a vesica or lens shape"
+    ],
+    [
+      "leaf or almond-shaped outline",
+      "closed loop of dominoes forming an eye or lens shape",
+      "lens or vesica shape traced by dominoes"
+    ],
+    [
+      "leaf outline (lens shape)",
+      "closed eye or almond shape",
+      "fish body outline"
+    ]
+  ],
+  "placed": 99,
+  "fell": 99,
+  "completion": 1.0,
+  "team_score": 0.167,
+  "first_domino_at": "1:15",
+  "messages": 16,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 13
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Hana": 0
+  },
+  "usage": {
+    "calls": 27,
+    "failed": 0,
+    "input_tokens": 48,
+    "cache_creation_tokens": 72591,
+    "cache_read_tokens": 53670,
+    "output_tokens": 22843,
+    "seconds": 241.1,
+    "api_equivalent_usd": 0.0265,
+    "cached": 6
+  }
+}

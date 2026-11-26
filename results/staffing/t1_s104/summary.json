@@ -1,0 +1,70 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Hana"
+  ],
+  "skills": {
+    "Hana": {
+      "speed": 0.85,
+      "error": 1.92
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 236.7,
+  "intents": {
+    "Hana": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "dominoes lined up in a closed lens-shaped loop",
+      "a leaf or eye outline drawn with dashed strokes",
+      "a pointed oval, like a vesica or lens shape"
+    ],
+    [
+      "leaf or almond-shaped outline",
+      "closed loop of dominoes forming an eye or lens shape",
+      "lens or vesica shape traced by dominoes"
+    ],
+    [
+      "leaf outline (lens shape)",
+      "closed eye or almond shape",
+      "fish body outline"
+    ]
+  ],
+  "placed": 99,
+  "fell": 99,
+  "completion": 1.0,
+  "team_score": 0.167,
+  "first_domino_at": "1:15",
+  "messages": 16,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 13
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Hana": 0
+  },
+  "usage": {
+    "calls": 27,
+    "failed": 0,
+    "input_tokens": 48,
+    "cache_creation_tokens": 72591,
+    "cache_read_tokens": 53670,
+    "output_tokens": 22843,
+    "seconds": 241.1,
+    "api_equivalent_usd": 0.0265,
+    "cached": 6
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 2.0
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 231.2,
+  "intents": {
+    "Maya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "single line of dominoes curving to the right",
+      "dominoes arranged in a long bent chain",
+      "fallen dominoes forming a hooked line"
+    ],
+    [
+      "curved line of toppled dominoes",
+      "hand-drawn pen stroke",
+      "winding road or river on a map"
+    ],
+    [
+      "curved line of fallen dominoes seen from above",
+      "winding river or road on a map",
+      "hand-drawn stroke or signature in dark ink"
+    ]
+  ],
+  "placed": 63,
+  "fell": 37,
+  "completion": 0.587,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 13,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 10
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Maya": 0
+  },
+  "usage": {
+    "calls": 25,
+    "failed": 0,
+    "input_tokens": 62,
+    "cache_creation_tokens": 72016,
+    "cache_read_tokens": 60520,
+    "output_tokens": 19686,
+    "seconds": 255.3,
+    "api_equivalent_usd": 0.0249,
+    "cached": 0
+  }
+}

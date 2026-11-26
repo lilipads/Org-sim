@@ -50,3 +50,464 @@
     (Grace held a thought)
     (Jack held a thought)
     (Leo held a thought)
+[  122s] 1:15 asked Maya,Priya,Leo,Sofia,Jack,Sam,Grace | dominoes 17 | calls 53
+    Leo -> everyone: Hana, yes, it already starts at the top of the tail and runs over the back to the nose. I'm laying that now. Once it's standing, could you take the belly from the nose back to the tail base? Leave the
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+[  142s] 1:30 asked Maya,Priya,Sofia,Hana,Jack,Sam,Grace | dominoes 25 | calls 60
+    Hana -> Leo: Got it, Leo. I'll trace the belly now. It'll wait at the nose until the back gets there, and I'll leave the tail end open.
+    Maya -> everyone: Agreed, Hana. Leo's top line first, then I'll take the bottom edge, stroke 2, and check the join at the tail. I'll queue it now and it'll wait until the top reaches the nose.
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+[  162s] 1:45 asked Maya,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 32 | calls 68
+    Priya -> Omar: Agreed with the plan. Omar, could you stop your tail edge right at the tail point? I'll start the inner V from there once the back's standing and the join looks good.
+    Leo -> Maya,Hana: Maya, Hana has the belly, stroke 2. Could you take the join at the tail base and check it once the fin is down?
+    Sofia -> everyone: Good catch, Hana. Leo, the back runs from the top of the tail to the nose, so START works. Maya, I think stroke 2 is the belly, so I'll take stroke 3, the bottom of the tail fin, once Leo's back is st
+    (Hana held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+[  178s] 2:00 asked Maya,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 37 | calls 76
+    Maya -> Omar: Omar, that vertical up by the tail base is hanging loose at its top, so let's tie it into the start run before we push. I'm checking the join now.
+    Priya -> Omar: Omar, stop your tail edge right at the point. I'm queuing my inner V off it now, so it'll wait for your line to get there.
+    Omar -> Priya: Got it, Priya. I'll stop right at the tail point and leave the end clean for your V.
+    Jack -> Maya: Sounds good, Maya. I'm on the nose joint. Once the top reaches it, I'll check it's closed before Tom's belly comes in, so we don't get a gap there.
+    Grace -> everyone: Grace here. I'm taking the belly, stroke 2, from the nose back toward the tail, and I'll queue it so it waits for Leo's back to reach the nose. Maya, could you take the tail join and the fin edges ins
+    (Sam held a thought)
+    (Hana held a thought)
+[  197s] 2:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 50 | calls 85
+    Maya -> Omar: Omar, I've got the top of your vertical. I'm tying it into the start run now, so don't touch that end.
+    Omar -> Maya,Priya: On it, Maya. One domino to go. I'll stop right at the tail point for Priya, then check the top joins the start run.
+    Jack -> Maya,Grace: Sounds good. I'll stay off the belly. Grace has stroke 2 and Maya has the tail join. Once the top reaches the nose, I'll check that joint and fix any gap before the belly comes in.
+    Sam -> everyone: Grace, belly as stroke 2 is right, that's what's on the pad. Maya, take the tail join and the fin edges, not stroke 2, so we don't double up. Sofia, I've got the dorsal fin and the eye. I'll stay off 
+    (Hana held a thought)
+    (Leo held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+[  214s] 2:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 63 | calls 93
+    Priya -> Omar: Thanks, Omar. Once that last one's down at the point, my V joins straight on. I'm carrying on with it now.
+    Omar -> Priya,Maya: Tail base is down and stopped right at the point, Priya. Your inner V is clear to start off that end. Maya, I'm leaving the top to you for the join.
+    Grace -> Jack,Sam: Jack, I'll take the nose join once Leo's back reaches it, and you can check the tail end of the back. Sam, the dorsal fin can go on the pad after the back is standing.
+    Sofia -> everyone: Sam, that works for me. I'll take the eye and the dorsal fin, and I'll leave the back and tail to you. Leo, once the back is standing up to the nose, could you pass Sam the pad so the dorsal fin gets 
+    (Leo held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+[  238s] 2:45 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 72 | calls 102
+    Omar -> Sofia,Priya: Sofia, Priya, if nobody's on the bottom fin, stroke 3, I can take it now. Tell me if you'd rather keep it.
+    Jack -> Grace: Got it, Grace. I'm checking the nose joint now, then the tail end by START, before your belly goes in.
+    Sam -> Leo: Leo, when the back's standing, could I have the pad for a minute? The dorsal fin isn't on there yet. I'll keep my hands off the back.
+    Hana -> everyone: Quick check before anyone lays more. Tom, are you laying the belly, stroke 2, right now? If you are, I'll stay off it, and Grace takes the tail join and fin edges with Maya like Sam suggested. If you'
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  261s] 3:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 81 | calls 111
+    Omar -> Priya,Sofia: Priya, Sofia, if nobody's got the bottom fin, stroke 3, I'll take it. Just shout if you'd rather keep it.
+    Jack -> Hana,Grace: Hana, Grace, the nose joint looks closed to me from here. I'll recheck it once Leo's back reaches it, then look at the tail end by START before the belly goes in.
+    Sofia -> everyone: Omar, yes, take stroke 3, the bottom fin. Priya has the top fin, so that's covered. Sam, you keep the dorsal fin since you asked for the pad. I'll stick to the eye label and stay off the back and tail
+    (Grace held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  287s] 3:15 asked Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 81 | calls 118
+    Hana -> Tom,Grace: Tom, Grace, one of you is on the belly, stroke 2, right? Tom, yes or no? I'm staying off it until I hear back.
+    Sam -> Leo: Leo, when the back's standing up to the nose, could I have the pad for a minute? I'll sketch the dorsal fin and then hand it straight back.
+    Priya -> everyone: Heads up, my inner V is finished, from the tail point up to the notch. Omar has the bottom fin per Sofia, so that's covered. The joint right at START is loose where the next domino sits too far off. M
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  305s] 3:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 80 | calls 128
+    Hana -> Tom,Grace: Tom, Grace, I still need an answer on the belly, stroke 2. If neither of you has it, I'll start it from the nose as soon as Leo's back reaches there. Tom, are you on it? Yes or no?
+    Grace -> Hana,Tom: Hana, I'm not on the belly. Tom has stroke 2, and I've stepped off it. Tom, I'm free for the nose join once Leo's back reaches the nose, so just say if you want a second pair of hands there.
+    Tom -> everyone: Yes, Hana, I've got stroke 2, the belly from the nose to the tail join. It's queued and will wait for Leo's back to reach the nose. Grace and Maya, please take the tail join and fin edges so nobody do
+    (Leo held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  322s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 77 | calls 137
+    Maya -> Omar,Priya: Omar, the top of your vertical is tied into the start run now, so don't touch that end. Priya has the joint at START, so I'm keeping off it. I'll check the bottom end against the bottom fin once that'
+    Leo -> everyone: Tom has the belly, stroke 2, so Hana and Grace, please leave that one and take the tail join and fin edges with Maya. I'm running the last stretch of the back down to the nose now. Sam, the pad's your
+    (Grace held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+[  338s] 4:00 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 81 | calls 146
+    Jack -> Priya: Priya, I'm staying off the START joint, since you're bridging it. I'm watching the nose joint and will shout if anything's open before the belly goes in.
+    Sam -> Leo: Thanks, Leo. I'll wait till the nose is down, then I'll take the pad for the dorsal fin.
+    Grace -> everyone: Thanks, Tom, I'll stay off the belly. I'm on the nose join once Leo's back reaches it. I'm also checking the back's middle-left for a gap first, so nobody pushes early.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[  356s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 87 | calls 155
+    Leo -> Sam: Sam, the nose is about a minute away. I'll pass you the pad as soon as it's standing.
+    Hana -> Priya,Omar: Priya, Omar, the line running straight down from START is still grey, so it isn't joined to the start yet. Priya, once your bridge at START is in, could you check the top of that run? Omar, is stroke 
+    Sofia -> everyone: Thanks, Priya, for bridging that joint at START. Everyone, let's keep to the plan: the belly and fins wait until Leo's back reaches the nose and START is joined on. Omar, stroke 3 is yours.
+    (Priya held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+[  371s] 4:30 asked Maya,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 97 | calls 163
+    Hana -> Priya,Omar: Priya, Omar, I'm checking the START joint and the drop line now. I'll tell you what's still cut off before anyone touches it.
+    Maya -> everyone: Heads up, the lower half of the vertical at the tail is still pale, so it's not connected to START. I'm checking the top section now for the gap. Omar, leave the bottom fin where it is; it looks like 
+    (Jack held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[  389s] 4:45 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 108 | calls 172
+    Priya -> Hana,Maya: Hana, Maya, I've got the bridge at the start joint, but I'm holding off until Hana tells me what's still open. I'm having a look at the area first, so nobody's hands cross.
+    Omar -> Hana,Priya: Hana, stroke 4 grows down from START to the tail point, and it's already standing. Maya's tying the top into the start run. I'm finishing the bottom fin, stroke 3, and I'll stop right at the point for
+    Hana -> Maya,Priya: Maya, Priya, I've looked at the START joint. The break is between the start domino and the first grey one under it. Once that's bridged, the whole drop line should come on. Maya, you've got the top se
+    Jack -> Leo: Leo, the next domino past the nose is sitting a little off to the side of the line. Could you nudge it into line before Tom's belly comes in? Maya's on the tail vertical, so I'll stay off that.
+    Sam -> Leo: Leo, whenever the nose is standing, I'll take the pad for the dorsal fin and hand it straight back.
+    Grace -> everyone: Grace again: the back's middle-left is solid, so nobody needs to re-lay it. Jack, I'm not sure the nose is closed yet. Leo, once your line reaches the nose, I'll take that join and check it myself bef
+    (Maya held a thought)
+[  411s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 115 | calls 182
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Hana,Maya: Hana, Maya, I've got the START joint. The break is between the start domino and the first grey one under it, so I'm bridging that gap now. Maya, please stay on the top section. Hana, shout if it's sti
+    Omar -> Priya,Maya: Bottom fin's down, Priya. Your inner V can join at the tail point. I'm checking that join now and I'll stay off the START end.
+    Hana -> Maya,Priya: Maya, Priya, I'm inspecting the START joint and the top of the drop line for about 15 seconds. Keep your hands where they are, and I'll call out what's still cut off.
+    Jack -> Grace,Leo: Grace, I'm inspecting the nose now, so I'll tell you exactly what's open before anyone pushes.
+    Maya -> everyone: Found it: the top of the vertical is tied in, but the next domino down is off-line, so everything below it is cut off. I'm closing that gap now. Please keep off that stretch until I say it's joined.
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+[  426s] 5:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 123 | calls 191
+    Priya -> Maya,Hana: Maya, I'm only on the bridge right at START, the first two dominoes under it. You take the stretch below that. Hana, recheck once both are down.
+    Omar -> Priya,Maya,Tom: Bottom fin's down and stops right at the tail point, Priya, so your inner V can join there. Its top end is open where the belly comes in. Tom, your belly can tie into it there. I'm keeping off the STA
+    Hana -> Priya,Maya: Priya, Maya, I've looked at the START area. Priya's bridge holds at the start domino, but the drop line is still cut just below the top, so everything under it is pale. Maya, that's your gap. Shout wh
+    Grace -> everyone: Grace here. I'm checking the nose join myself, and I can see a jammed domino at the bottom of the nose. I'm nudging it into line now. Jack, Tom, no need to recheck it, I've got it.
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+[  439s] 5:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 134 | calls 201
+    Tom -> Omar,Priya,Maya: Got it, Omar. I'll bring the belly down to the top end of your bottom fin at the tail point so it ties in there. I'm staying off START and Maya's gap.
+    Leo -> Jack,Grace: Jack, good catch on that domino past the nose. Grace has it now, so I'll stay off it. Once the nose is standing I'll pass the pad to Sam for the dorsal fin.
+    Maya -> everyone: Closing the gap just under the top of the vertical now. Priya's got the two at START, so I'm keeping off those. Hana, recheck the vertical once I say it's done.
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+[  453s] 5:45 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 144 | calls 210
+    Maya -> Tom: Got it, Tom. Your belly ties into Omar's fin at the tail point, and I'm staying off that. I'm closing the gap under the top of the vertical now.
+    Priya -> Hana,Maya: Still on the two dominoes right under START. Maya has everything below that. Hana, I'll call out as soon as they're down so you can recheck.
+    Leo -> Sam: Sam, the pad's yours now. I'm not sketching, and the dorsal fin doesn't depend on the nose. Hand it back when you're done.
+    Hana -> Maya,Tom: Thanks, Maya. I'll recheck the drop line as soon as you say it's joined. Tom, the belly will show up once it reaches the tail join, so no need to rush it.
+    Jack -> Grace,Priya: Got it, Grace. You have the nose, and I'm staying off it. I'm going to look over the START joint and the top of the tail, and I'll shout if anything's open.
+    Sam -> Leo: Leo, whenever you can pass me the pad, I'll sketch the dorsal fin and hand it straight back. If it's not in my hands by about two minutes left, I'll drop it and leave the table alone.
+    Grace -> everyone: Nudge is in at the bottom of the nose. I'm inspecting the nose join now and will call out anything still open before we push.
+    (Sofia held a thought)
+[  470s] 6:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 152 | calls 220
+    Priya -> Jack,Hana: Jack, thanks for watching the START end. I'm still on the two dominoes right under it. Hana, I'll call out as soon as they're down so you can recheck.
+    Hana -> Priya,Maya: Priya, Maya, got it. I'm keeping my hands off the drop line until one of you says it's joined, then I'll recheck from START. Once that's in, I want to look at where the bottom fin meets the belly. The
+    Grace -> everyone: Grace again: the inspection still shows the bottom of the nose open. The domino I nudged is still sitting off-line. I'm fixing it now. Nobody push until I call the nose closed.
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+[  489s] 6:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 162 | calls 230
+    Priya -> Hana,Maya: Still on the two under START, about four to go. Hana, I'll call it as soon as they're down so you can recheck.
+    Sam -> everyone: Got the pad, thanks Leo. The dorsal fin is stroke 6 on the pad, not 5. I'm laying it now as a short branch off the back, and nobody else needs that stretch. Handing the pad back to Leo.
+    (Grace held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  502s] 6:30 asked Maya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 175 | calls 237
+    Leo -> Sam: Got it, thanks Sam. I've got the pad back and I'm staying off the back and the tail.
+    Omar -> Tom: Tom, heads up: the top end of my bottom fin has a domino jammed a bit too close right where your belly comes in. I'm not touching it, so you can tie the belly onto it cleanly. Shout if you want me to 
+    Hana -> Priya,Maya: Priya, Maya, I'm keeping off the drop line until you call it joined. Meanwhile I'm checking the tail junction where the bottom fin meets the belly, since that end is facing up with nothing ahead of it
+    Grace -> everyone: Grace again, and this matters: my earlier 'closed' call on the nose was premature. The bottom of the nose is still open, and the domino I nudged is still off-line. I'm fixing it now and will re-inspec
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  517s] 6:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 247
+    Tom -> Omar: Thanks, Omar. I'll leave that jammed one alone and tie the belly onto it. Shout if it still needs a nudge once I'm done.
+    Hana -> Tom,Omar: Tom, Omar, the bottom fin stops at the tail point and its end faces up with nothing ahead of it. When the belly reaches there, it needs to come in from the nose side and land right on that end. Tom, c
+    Maya -> everyone: Gap under the top of the vertical should be closed now. Hana, can you recheck the drop line from START? I'm looking at the vertical too, and I'm staying off the START end.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+[  530s] 7:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 257
+    Priya -> Hana,Maya: Hana, Maya, still on the last few under START, about four to go. I'll call it as soon as they're down so you can recheck.
+    Grace -> everyone: Grace again: I've re-seated the domino at the bottom of the nose. I'm inspecting that join now, and I'll only call it closed if the check comes back clean. Please nobody push until I say so.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+[  553s] 7:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 267
+    Tom -> Hana,Omar: Hana, Omar, the belly's down and tied into the top of Omar's bottom fin at the tail point. I'm checking that joint now and I'll leave Omar's jammed one alone. I'm keeping off START and Maya's gap, and
+    Omar -> Tom: Tom, I'm free if you want a hand with the last stretch of the belly. Otherwise I'll stay off it.
+    Hana -> everyone: Hana here, with under three minutes left. Status: the back, the drop line and the START end are connected. Still cut off: the top fin, which needs Priya's last two dominoes under START; the belly, whi
+    (Grace held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  565s] 7:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 277
+    Omar -> Tom,Hana: Tom, I'll inspect the tail junction now, where your belly ties into my bottom fin. Hana, I'll tell you if it's clean. I'm staying off the nose and START.
+    Grace -> everyone: Grace again, and Hana's right: the nose isn't closed. The domino just past it is still sitting off to the side, so the fall would stop there. I'm fixing it now and will only call it closed after a cle
+    (Maya held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+[  586s] 7:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 287
+    Omar -> Tom,Hana: Tom, Hana, my check on the tail junction isn't clean. The domino right where the belly ties into my bottom fin is sitting off to the side, so the fall would stop there. Tom, want me to nudge it with a
+    Hana -> everyone: Hana here. My look at the tail junction is back, and it's still open. The belly isn't tied into the end of Omar's bottom fin. That end faces up with nothing ahead of it, and the next dominoes sit off 
+    (Jack held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+[  600s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 297
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Hana,Maya: Hana, Maya, still on the last three under START. I'm not leaving that spot. I'll call the moment they're down so you can recheck from START. Nobody else touch the start end.
+    Tom -> everyone: Hana, Omar, I hear you. The belly isn't tied into the end of the bottom fin, so I'm closing that junction now with a quick fix. Omar, stay off it. Grace still has the nose, so nobody pushes until she 
+    (Hana held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+[  614s] 8:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 307
+    Priya -> Hana,Maya: Still three under START, hands on them. I'll call it the second they're down, Hana.
+    Omar -> Tom: Tom, that's yours, I'm staying off the tail junction. Shout if you want a second pair of hands on anything else.
+    Hana -> everyone: Hana here, under two minutes. Tom, one quick fix at the tail junction, and only if it's done within a minute. If it isn't, we drop the bottom fin and belly and push the rest. Grace, the nose has to be
+    (Grace held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+[  628s] 8:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 317
+    Hana -> everyone: Hana here, about a minute and a half left. Nobody pushes until Grace calls the nose clear and Priya calls START joined. I'm inspecting the whole table now and will tell you exactly what's still cut of
+    (Tom held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+[  643s] 8:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 327
+    Priya -> Hana,Maya: Hana, I'm on the last one or two under START. I'll call it the second they're down so you can recheck from the start. Nobody else touch that end.
+    Jack -> everyone: Jack here, quick status. The top fin still isn't tied into START, so Priya, call me when those last two are down. Grace, nobody pushes until your nose check is clean. Tom and Omar, if the bottom fin's
+    (Hana held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+[  654s] 9:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 176 | calls 336
+    Priya -> Hana,Maya: Still on the last one or two under START, hands on them. I'll call it the second they're down, Hana.
+    Grace -> everyone: Grace here, re-inspecting the nose now. The domino just past the nose is still off to the side, so I'm re-seating it. Nobody push until I call the nose clear one way or the other.
+    (Hana held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  666s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 346
+    Priya -> Hana,Maya: Still on the last one under START, hands on it. I'll call it the second it's down, Hana.
+    Tom -> everyone: Tom here. Quick fix going in at the tail junction now, about a minute. Nobody touch that spot. Hana, Omar, re-inspect it as soon as I say it's done.
+    (Grace held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  678s] 9:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 356
+    Priya -> Hana,Maya: Hana, Maya, last one under START, placing it now. I'll call it the second it's down.
+    Grace -> everyone: Grace here, and my earlier calls were wrong. The nose is NOT closed. The domino just past it is still off to the side, so the fall stops there. I'm nudging it in now. Nobody push on my say-so. I'll on
+    (Tom held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+[  692s] 9:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 176 | calls 366
+    Grace -> everyone: Grace again: the nose is NOT closed. My earlier calls were wrong. The domino just past it is still off to the side, so the fall stops there. I'm re-seating it now. Hana, please check the nose yourself
+    (Hana held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.33,
+      "error": 0.7
+    },
+    "Tom": {
+      "speed": 1.29,
+      "error": 1.83
+    },
+    "Priya": {
+      "speed": 1.37,
+      "error": 1.12
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.68
+    },
+    "Sofia": {
+      "speed": 0.89,
+      "error": 1.51
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 1.43
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.95
+    },
+    "Jack": {
+      "speed": 1.1,
+      "error": 1.84
+    },
+    "Sam": {
+      "speed": 1.4,
+      "error": 1.76
+    },
+    "Grace": {
+      "speed": 0.86,
+      "error": 0.68
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 761.4,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Maya",
+    "Maya",
+    "Leo",
+    "Sam"
+  ],
+  "judge_guesses": [
+    [
+      "a swan or bird with a curved neck and head",
+      "a hand-drawn cursive letter or squiggle stroke",
+      "a fishhook or curved hook shape"
+    ],
+    [
+      "swan or bird neck and head",
+      "fishhook or curved hook",
+      "stylized wave or ribbon"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "swan or bird neck shape",
+      "hook-shaped path of tiles"
+    ]
+  ],
+  "placed": 176,
+  "fell": 97,
+  "completion": 0.551,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 111,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 8,
+    "Sofia": 5,
+    "Maya": 10,
+    "Priya": 18,
+    "Hana": 18,
+    "Omar": 13,
+    "Jack": 9,
+    "Grace": 14,
+    "Sam": 7,
+    "Tom": 6
+  },
+  "held_thoughts": 217,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 389,
+    "failed": 0,
+    "input_tokens": 790,
+    "cache_creation_tokens": 2518525,
+    "cache_read_tokens": 1196670,
+    "output_tokens": 440435,
+    "seconds": 4868.1,
+    "api_equivalent_usd": 0.736,
+    "cached": 0
+  }
+}

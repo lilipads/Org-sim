@@ -1,0 +1,143 @@
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.85,
+      "error": 1.92
+    },
+    "Tom": {
+      "speed": 0.7,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.92,
+      "error": 1.95
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 1.99
+    },
+    "Sofia": {
+      "speed": 0.92,
+      "error": 0.78
+    },
+    "Omar": {
+      "speed": 0.81,
+      "error": 0.99
+    },
+    "Hana": {
+      "speed": 0.71,
+      "error": 0.63
+    },
+    "Jack": {
+      "speed": 0.97,
+      "error": 0.91
+    },
+    "Sam": {
+      "speed": 1.04,
+      "error": 1.58
+    },
+    "Grace": {
+      "speed": 0.69,
+      "error": 0.91
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 779.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Hana",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "leaf with veins and stem",
+      "fish with forked tail",
+      "boat or canoe"
+    ],
+    [
+      "leaf with veins and stem",
+      "fish with fins",
+      "boat hull"
+    ],
+    [
+      "leaf with veins",
+      "fish body with fin",
+      "eye outline"
+    ]
+  ],
+  "placed": 162,
+  "fell": 111,
+  "completion": 0.685,
+  "team_score": 0.343,
+  "first_domino_at": "0:30",
+  "messages": 159,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 13,
+    "Maya": 16,
+    "Sofia": 19,
+    "Omar": 14,
+    "Sam": 28,
+    "Grace": 21,
+    "Priya": 20,
+    "Tom": 6,
+    "Jack": 13,
+    "Leo": 6
+  },
+  "held_thoughts": 115,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 400,
+    "failed": 0,
+    "input_tokens": 812,
+    "cache_creation_tokens": 2599532,
+    "cache_read_tokens": 1242270,
+    "output_tokens": 417294,
+    "seconds": 4837.1,
+    "api_equivalent_usd": 0.7411,
+    "cached": 0
+  }
+}

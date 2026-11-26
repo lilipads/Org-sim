@@ -1,0 +1,70 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Priya"
+  ],
+  "skills": {
+    "Priya": {
+      "speed": 1.0,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 256.9,
+  "intents": {
+    "Priya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "chevron or arrow pointing right, drawn as a bent line",
+      "chain of fallen dominoes bending at a corner, seen from above",
+      "hand-drawn angle bracket or greater-than sign"
+    ],
+    [
+      "a line of fallen dominoes bent into a sharp v or chevron",
+      "a right-pointing arrow or chevron drawn with dark segments",
+      "a bent path or boomerang-shaped line of dominoes"
+    ],
+    [
+      "right-pointing chevron or arrowhead",
+      "bent line of fallen dominoes in a v shape",
+      "boomerang or angled wall outline"
+    ]
+  ],
+  "placed": 31,
+  "fell": 25,
+  "completion": 0.806,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 14,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 11
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Priya": 0
+  },
+  "usage": {
+    "calls": 27,
+    "failed": 0,
+    "input_tokens": 66,
+    "cache_creation_tokens": 81297,
+    "cache_read_tokens": 66701,
+    "output_tokens": 21210,
+    "seconds": 282.0,
+    "api_equivalent_usd": 0.0275,
+    "cached": 0
+  }
+}

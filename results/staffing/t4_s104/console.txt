@@ -24,3 +24,224 @@
     Jack -> everyone: Good call, Hana, and thanks, Sofia. Omar's got the belly, so I'll take the top fin, stroke 3, once the body's joined up. Shout when the redrawn sketch is up.
     (Sofia held a thought)
     (Omar held a thought)
+[  116s] 1:30 asked Sofia,Omar,Hana | dominoes 21 | calls 22
+    Omar -> everyone: Just to catch up: the belly's going down from the nose now, and I'll wait for Sofia's top to reach the nose before it joins up.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  132s] 1:45 asked Sofia,Hana,Jack | dominoes 25 | calls 25
+    Hana -> everyone: Sounds good, Jack, the top fin is yours. I'll take the bottom fin, stroke 4, once Sofia's redraw is up and the body's joined. Both fins branch off the body, not the nose.
+    (Sofia held a thought)
+[  145s] 2:00 asked Sofia,Hana,Jack | dominoes 32 | calls 28
+    Sofia -> everyone: Hana, agreed, we hold the fins. I'm laying the top of the body from the start now. The pad's redrawn: both fins branch off the body and flow right from START. Omar, the belly runs from the nose back t
+    (Jack held a thought)
+    (Hana held a thought)
+[  157s] 2:15 asked Omar,Hana,Jack | dominoes 44 | calls 31
+    Jack -> everyone: Sketch looks right now, START at the nose with the fins branching off the body. Hana, good catch. I'm starting the top fin off the body here, so it follows on from Sofia's top line.
+    (Hana held a thought)
+    (Omar held a thought)
+[  173s] 2:30 asked Sofia,Hana,Jack | dominoes 54 | calls 34
+    Jack -> Sofia: Sofia, two dominoes went over near the right end of your top body line when you bumped the table. Don't worry, I'll stand them back up once my fin is down, unless you get there first.
+    Sofia -> everyone: Heads up, a bump knocked two over near the nose end of the top. I'm standing them back up while I keep tracing. Jack, the top fin looks like it leaves the body a little further along than the pad show
+    (Hana held a thought)
+[  188s] 2:45 asked Sofia,Jack | dominoes 67 | calls 36
+    Jack -> everyone: On it, Sofia. Yes, my fin leaves the body a bit further along than the pad shows. I'm checking the join now and I'll set my last fin domino so it meets your top line cleanly. I'm leaving the two bumpe
+[  204s] 3:00 asked Sofia,Hana,Jack | dominoes 74 | calls 39
+    Hana -> everyone: Bottom fin's down, and it looks joined to the belly where it leaves near here. I'm going to check that join. Sofia, I'm leaving the two bumped ones by the top to you.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  218s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 74 | calls 43
+    Omar -> everyone: Belly's down from the start to the nose. Sofia, I'll close the join at the nose once your top gets there. I'm having a look at that end now so we don't miss a gap.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  232s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 72 | calls 47
+    Sofia -> everyone: Got them, Hana. I'm restanding the two by the top near the nose end now, then finishing the top body. Shout if the fin join needs a nudge.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  243s] 3:45 asked Omar,Hana,Jack | dominoes 67 | calls 50
+    Hana -> everyone: Bottom fin's down and I think it's joined to the belly where it leaves. Omar, Sofia, I'll take the tail join at the back end once your top and belly get close to it. Keeping my hands off until then, b
+    (Omar held a thought)
+    (Jack held a thought)
+[  261s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 63 | calls 54
+    Hana -> everyone: Omar, Sofia, the top and belly are nearly at the tail, so I'm taking the tail join now. I'm fixing the jammed domino right at the tip first. Shout when your ends are down and I'll bring them together.
+    (Omar held a thought)
+    (Jack held a thought)
+[  278s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 59 | calls 58
+    Hana -> everyone: Omar, Sofia, I'm clearing the jammed domino at the tip now. Shout when your ends are down and I'll join top and belly.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  296s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 57 | calls 62
+    Sofia -> everyone: Got it, Hana. The top body has about five more to go, and I'll shout as soon as it reaches the end. The two bumped ones by the top are standing again.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  308s] 4:45 asked Omar,Hana,Jack | dominoes 56 | calls 65
+    Hana -> everyone: Tip's clear now. I've checked the tail area for gaps, so when your ends are down, shout and I'll join the top and the belly there. Sofia, I'm not touching the top body while you finish it.
+    (Omar held a thought)
+    (Jack held a thought)
+[  320s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 57 | calls 69
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Got it, Hana, you've got the tail join. Sofia, shout when the top reaches the tail and I'll check the belly end is clean there.
+    (Jack held a thought)
+[  331s] 5:15 asked Sofia,Hana | dominoes 60 | calls 71
+    Sofia -> everyone: Got it, Omar. About five more on the top body. I'll shout when it reaches Hana's end, then we can check the join.
+    (Hana held a thought)
+[  341s] 5:30 asked Omar,Hana | dominoes 67 | calls 73
+    Hana -> everyone: Sofia, shout when the top reaches the tail and I'll bring it together with the belly. Omar, when you've checked the belly end, tell me if anything's loose there. I'm having one more look at the tail m
+[  353s] 5:45 asked Sofia,Omar,Hana | dominoes 76 | calls 76
+    Omar -> everyone: Hana, I'm having a close look at the belly end now. I'll tell you straight away if anything's loose.
+[  366s] 6:00 asked Omar,Hana | dominoes 82 | calls 78
+    Omar -> Hana: Hana, I've checked the belly end. It's clean, nothing loose, and it runs straight into the tail with nothing ahead of it. It's ready for your join whenever you are.
+    Hana -> everyone: Thanks, Omar. Tell me as soon as the belly end is clean or if anything's loose. I'll keep the tail area as it is until your ends are down.
+[  376s] 6:15 asked Omar,Hana | dominoes 88 | calls 80
+    Hana -> everyone: Thanks, Omar, that's great. Belly end's clean, so I'm holding. Sofia, shout as soon as the top reaches the tail and I'll bring it together with the belly.
+[  390s] 6:30 asked Sofia,Omar,Jack | dominoes 94 | calls 83
+    Jack -> everyone: My last two fin dominoes are going in now, joining onto your top line near the middle, Sofia. I'm leaving the two bumped ones by the top to you. Hana, I'm staying off the tail end. Omar, the belly loo
+    (Sofia held a thought)
+[  415s] 6:45 asked Sofia,Omar,Hana | dominoes 104 | calls 86
+    Hana -> everyone: Quick check before the push: the belly looks pale right at the nose end, so it isn't joined to START yet. I'm closing that gap now. Omar, shout if you already have a piece there. Sofia, the top's stil
+    (Sofia held a thought)
+[  431s] 7:00 asked Sofia,Omar,Hana | dominoes 114 | calls 89
+    Hana -> everyone: Sofia, with three minutes left the top's still a fair way from the tail. If it can't get there in about a minute, shout and I'll join at the nearest point instead. Omar, I'm checking the nose end now 
+    (Omar held a thought)
+    (Sofia held a thought)
+[  449s] 7:15 asked Sofia,Omar,Hana | dominoes 123 | calls 92
+    Hana -> everyone: Nose end checks out, the belly's joined to START. Sofia, how far is the top from the tail? If it won't get there in about a minute, I'll join at the nearest point instead.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  466s] 7:30 asked Sofia,Omar | dominoes 126 | calls 94
+    Sofia -> everyone: Hana, about five dominoes left on the top, so under a minute. I'll shout the moment it reaches your end.
+    (Omar held a thought)
+[  485s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 126 | calls 98
+    Sofia -> everyone: Hana, Omar, the top body's down to the tail now, right at your end. Hana, go ahead and join it to the belly. I'm checking the top body for gaps.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  499s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 131 | calls 102
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Jack, your top fin still looks pale up by the middle, not joined to Sofia's top line. Could you check that join right now? Hana, go ahead with the tail join. I'm staying off the fin and the tail unles
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  508s] 8:15 asked Sofia,Hana,Jack | dominoes 136 | calls 105
+    Sofia -> everyone: Top body's down to the tail, Hana, so go ahead and join it to the belly. I'm checking the top body for gaps now, and I'll look at that red bit by the nose too.
+    (Jack held a thought)
+    (Hana held a thought)
+[  524s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 140 | calls 109
+    Omar -> Jack: Jack, if you're still on the fin, that's fine. If you'd rather I join it to Sofia's top line, just say so and I'll do it now.
+    Sofia -> everyone: Top's at the tail, Hana, go ahead and join it. I'm nudging the jammed one by the nose now, then we're set.
+    (Hana held a thought)
+    (Jack held a thought)
+[  534s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 142 | calls 113
+    Hana -> everyone: Going now: joining the top to the belly at the tail. Sofia, Omar, please keep your hands off that end. Sofia, the nose nudge is fine as long as it stays away from the tail.
+    (Jack held a thought)
+[  546s] 9:00 asked Sofia,Omar,Jack | dominoes 147 | calls 116
+    Sofia -> everyone: Go for it, Hana. I'm keeping off the tail. I'm checking the top body for gaps now, and Jack, shout if your fin join isn't made.
+    (Jack held a thought)
+[  561s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 152 | calls 120
+    Omar -> Jack: Jack, your fin still looks pale up by the middle. Are you joining it, or do you want me to?
+    Sofia -> everyone: Hana, I'm keeping off the tail, so the join is yours. Jack, the fin join by the middle is the one still unconfirmed, so shout once it's made. I'm just looking over the jammed domino by the nose.
+    (Jack held a thought)
+[  573s] 9:30 asked Omar,Hana,Jack | dominoes 156 | calls 123
+    Jack -> everyone: Omar, thanks for the catch. I'm on the fin join at the middle right now and will shout as soon as it's made. Sofia, I'm keeping off the top body and the tail.
+    (Hana held a thought)
+[  583s] 9:45 asked Sofia,Omar,Jack | dominoes 161 | calls 126
+    Sofia -> Jack: Got it, Jack. I'm keeping off the fin and the tail, so you've got the join. Shout if you need a hand.
+    Omar -> Jack: Thanks, Jack. Shout if you need a hand with the fin join.
+    Jack -> everyone: On it, Omar. Closing the fin join here now, and I'll shout once it's connected.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.85,
+      "error": 1.92
+    },
+    "Omar": {
+      "speed": 0.7,
+      "error": 1.74
+    },
+    "Hana": {
+      "speed": 0.92,
+      "error": 1.95
+    },
+    "Jack": {
+      "speed": 0.98,
+      "error": 1.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 649.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "hand-drawn bird or swan outline",
+      "winding river or road sketch",
+      "tree branch or vine with stems"
+    ],
+    [
+      "fallen dominoes in a curved chain",
+      "dominoes toppled in a branching line",
+      "dominoes knocked over along a forked path"
+    ],
+    [
+      "chain of fallen dominoes",
+      "tangled rope or wire",
+      "branching river or road map"
+    ]
+  ],
+  "placed": 161,
+  "fell": 81,
+  "completion": 0.509,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 14,
+    "Hana": 15,
+    "Omar": 10,
+    "Jack": 7
+  },
+  "held_thoughts": 64,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 0,
+    "input_tokens": 298,
+    "cache_creation_tokens": 727267,
+    "cache_read_tokens": 437662,
+    "output_tokens": 140836,
+    "seconds": 1613.1,
+    "api_equivalent_usd": 0.2203,
+    "cached": 0
+  }
+}

@@ -24,3 +24,177 @@
     Maya -> everyone: Quick one before I hit the start end: Leo, Priya, please don't close the fin back to the tip. Keep the fork open at the body joint. That split is what reads as a fish tail. A closed loop looks like a 
     (Priya held a thought)
     (Tom held a thought)
+[  113s] 1:30 asked Tom,Priya,Leo | dominoes 12 | calls 22
+    Leo -> everyone: Got it, Maya. No stroke four, and the fork stays open at the body joint. I'll take the belly once your top line gets down to the joint, and I'll call out before I touch the start end. Priya, lower fin
+    (Priya held a thought)
+    (Tom held a thought)
+[  125s] 1:45 asked Maya,Tom,Priya | dominoes 17 | calls 25
+    Priya -> everyone: Got it, Leo. Lower fin is mine as stroke three, with no closing back to the tip. I'll branch it off Maya's junction once her top line gets there, so shout when it's down.
+    (Maya held a thought)
+    (Tom held a thought)
+[  138s] 2:00 asked Maya,Tom,Leo | dominoes 22 | calls 28
+    Leo -> everyone: Top line's past the joint, so I'm taking the belly now, stroke two, from the tail base. I'm not touching the start end, so the tip stays clear.
+    (Maya held a thought)
+    (Tom held a thought)
+[  149s] 2:15 asked Tom,Priya | dominoes 34 | calls 30
+    Tom -> everyone: Just to back that up, Leo: three strokes, fork open at the body joint, no closing back to the tip. I'm keeping off the start end, and I'll check the fork and belly joint once the belly's on.
+[  157s] 2:30 asked Priya,Leo | dominoes 41 | calls 32
+    Priya -> everyone: Sounds good. Lower fin's mine as stroke three, no closing to the tip. I'm holding until Maya calls the junction and the belly's joined.
+[  168s] 2:45 asked Maya,Tom | dominoes 48 | calls 34
+    Maya -> everyone: Got it, Priya: lower fin is yours as stroke three, branching off the body joint, no closing to the tip. Leo, the joint's clear, so carry on with the belly.
+[  180s] 3:00 asked Tom,Priya,Leo | dominoes 50 | calls 37
+    Tom -> everyone: Sounds good, Leo. Give a shout when the belly reaches the body joint and I'll check the fork from there.
+    Leo -> everyone: Carrying on with the belly, stroke two. I'll shout before I go near the start end.
+[  195s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 60 | calls 41
+    Leo -> everyone: Belly's nearly at the joint, two more dominoes to go. I'll shout when it's on so you can check the fork.
+[  202s] 3:30 asked Maya,Tom | dominoes 72 | calls 43
+    Maya -> everyone: Thanks, Leo. I'll check the fork as soon as the belly's on.
+    Tom -> everyone: Thanks, Leo. Shout when it's on and I'll look at the fork.
+[  220s] 3:45 asked Maya,Tom,Leo | dominoes 72 | calls 46
+    Leo -> everyone: Belly's on, nose to tail base, all the way down to the body joint. Tom, Maya, you can check the fork now. I'm keeping my hands off until you've looked.
+[  231s] 4:00 asked Maya,Tom,Priya | dominoes 72 | calls 49
+    Tom -> everyone: Thanks, Leo. I'm looking at the fork and the joint now. Maya, tell me if the tail looks off from where you're sitting.
+    Maya -> everyone: Nice, Leo. I'll look at the fork as soon as my top line reaches the joint.
+    (Priya held a thought)
+[  244s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 53
+    Maya -> Tom: Tail looks right from here, Tom. I'll check the fork once my top line gets to the joint.
+    Tom -> everyone: Fork looks good from here. The belly's joined at the body and the two lines split cleanly at the joint, no closed loop. Maya, once your top line reaches that joint, Priya can branch the fin. I'm stayi
+    (Priya held a thought)
+[  260s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 57
+    Priya -> everyone: Belly's on, thanks Leo. Lower fin is branching off the joint now, and I'm keeping clear of the start.
+    (Maya held a thought)
+[  276s] 4:45 asked Maya,Tom,Leo | dominoes 72 | calls 60
+    Maya -> everyone: Thanks, Tom. Fork's good from here too. My top line's on its way to the joint, and I'll call it when it's there.
+[  292s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  304s] 5:15 asked Tom,Leo | dominoes 72 | calls 66
+    Tom -> everyone: Nice work so far, all. Priya, shout when the fin's on and I'll check the joint where it meets the body. I'm keeping my hands off the chain until then.
+[  311s] 5:30 asked Maya,Priya,Leo | dominoes 72 | calls 69
+    Priya -> everyone: Lower fin's still going on from the joint, a few more to go. I'll shout when it's down, Tom.
+[  321s] 5:45 asked Maya,Tom,Leo | dominoes 72 | calls 72
+[  321s] 6:00 asked - | dominoes 72 | calls 72
+[  321s] 6:15 asked - | dominoes 72 | calls 72
+[  330s] 6:30 asked Priya | dominoes 72 | calls 73
+[  340s] 6:45 asked Maya,Tom,Leo | dominoes 72 | calls 76
+[  340s] 7:00 asked - | dominoes 72 | calls 76
+[  340s] 7:15 asked - | dominoes 72 | calls 76
+[  356s] 7:30 asked Priya | dominoes 72 | calls 77
+    Priya -> everyone: Lower fin's on, Tom, from the joint down to the tip. Can you check where it meets the body? I'm keeping my hands off.
+[  365s] 7:45 asked Maya,Tom,Leo | dominoes 72 | calls 80
+    Tom -> everyone: On it, Priya. Looking at where the fin meets the body now.
+    Leo -> everyone: Lower fin's on, Priya. I'm taking a look at the joint where it meets the body now. Tom, you can keep your hands off while I do.
+[  377s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 84
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Inspect's back. The fin joins the body cleanly at the joint, and the whole chain runs from the start right through to the fin tip, nothing broken. Leo, you don't need to check it. I'm keeping my hands
+    (Leo held a thought)
+[  390s] 8:15 asked Maya,Priya,Leo | dominoes 72 | calls 87
+    Maya -> everyone: Thanks, Tom, good to hear it's connected through to the fin. I'm still on my top line, about two-thirds down. I'll call when it reaches the joint, then fix the little gap at the nose.
+    (Leo held a thought)
+[  408s] 8:30 asked Tom,Priya,Leo | dominoes 72 | calls 90
+    Leo -> everyone: Agreed, Tom. I'm happy with the joint and the chain from the start through the fin. I'm staying off the start and the pad. Maya, call it when your top line reaches the joint.
+    (Priya held a thought)
+[  417s] 8:45 asked Maya,Tom,Priya | dominoes 72 | calls 93
+    Priya -> everyone: Sounds good, Maya. Shout when your top line reaches the joint, and I'll look at the nose gap with you.
+    Maya -> everyone: Thanks, Leo. Still on the top line, I'll call it at the joint.
+[  433s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 97
+    Maya -> everyone: Thanks, Priya. Still on the top line, about two-thirds down. I'll call it at the joint, then we can look at the nose gap.
+    (Priya held a thought)
+[  444s] 9:15 asked Tom,Priya,Leo | dominoes 72 | calls 100
+    Priya -> Maya: Got it, Maya. Shout when you reach the joint and I'll come look at the nose gap with you.
+[  452s] 9:30 asked Maya | dominoes 72 | calls 101
+    Maya -> Priya: Still on the top line, Priya. I'll shout when it hits the joint.
+[  460s] 9:45 asked Priya | dominoes 72 | calls 102
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.0,
+      "error": 1.21
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.94
+    },
+    "Priya": {
+      "speed": 1.24,
+      "error": 0.79
+    },
+    "Leo": {
+      "speed": 1.4,
+      "error": 0.71
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 550.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "eggplant or aubergine outline",
+      "balloon with a string",
+      "teardrop or closed loop shape"
+    ],
+    [
+      "balloon with a string",
+      "leaf or lemon outline with a stem",
+      "tadpole or teardrop shape"
+    ],
+    [
+      "leaf with a stem, drawn as a closed outline",
+      "eggplant or teardrop-shaped outline",
+      "balloon or bag with a string tied at the top"
+    ]
+  ],
+  "placed": 72,
+  "fell": 64,
+  "completion": 0.889,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Tom": 9,
+    "Priya": 8,
+    "Leo": 8
+  },
+  "held_thoughts": 26,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 119,
+    "failed": 0,
+    "input_tokens": 250,
+    "cache_creation_tokens": 540701,
+    "cache_read_tokens": 363133,
+    "output_tokens": 95344,
+    "seconds": 1312.5,
+    "api_equivalent_usd": 0.1595,
+    "cached": 0
+  }
+}

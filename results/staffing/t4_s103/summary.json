@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.0,
+      "error": 1.21
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.94
+    },
+    "Priya": {
+      "speed": 1.24,
+      "error": 0.79
+    },
+    "Leo": {
+      "speed": 1.4,
+      "error": 0.71
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 550.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "eggplant or aubergine outline",
+      "balloon with a string",
+      "teardrop or closed loop shape"
+    ],
+    [
+      "balloon with a string",
+      "leaf or lemon outline with a stem",
+      "tadpole or teardrop shape"
+    ],
+    [
+      "leaf with a stem, drawn as a closed outline",
+      "eggplant or teardrop-shaped outline",
+      "balloon or bag with a string tied at the top"
+    ]
+  ],
+  "placed": 72,
+  "fell": 64,
+  "completion": 0.889,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Tom": 9,
+    "Priya": 8,
+    "Leo": 8
+  },
+  "held_thoughts": 26,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 119,
+    "failed": 0,
+    "input_tokens": 250,
+    "cache_creation_tokens": 540701,
+    "cache_read_tokens": 363133,
+    "output_tokens": 95344,
+    "seconds": 1312.5,
+    "api_equivalent_usd": 0.1595,
+    "cached": 0
+  }
+}
