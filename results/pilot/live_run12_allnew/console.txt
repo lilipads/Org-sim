@@ -103,3 +103,8 @@
     (Sofia held a thought)
     (Jack held a thought)
     (Hana held a thought)
+[  379s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 81
+    Sofia -> everyone: Omar, I'm taking a close look at the little eye stub by the brow, since a few dominoes there are still pale. Could you keep clear of that spot for a minute? Then I'll re-check the whole chain with you
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
