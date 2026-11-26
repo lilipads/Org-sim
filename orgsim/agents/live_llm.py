@@ -133,34 +133,16 @@ OUTPUT_FORMAT = """Reply with one JSON object and nothing else. Leave out fields
   "notes": "your private notes for later: they replace the old ones. Keep what you need to remember."
 }"""
 
-# Version 5 (current): personality only. No job titles or roles (v3 tied traits to jobs; v4 still
-# named jobs). Each person is a few plain sentences about how they are with other people and with
-# things, with some specific details and tendencies that pull against each other. Nobody is written
-# as a leader, builder, designer or checker. Hand speed and accuracy are set separately (skills).
-PERSONAS_V2 = {
-    "Maya": ("You coach your daughter's football team and you're in a pub quiz league. In a group you're "
-             "usually relaxed and happy to go along, but once an idea grabs you, you can dig in. You say what "
-             "you think, sometimes a beat too quickly."),
-    "Tom": ("You took up pottery last year and love making things with your hands. With people you don't know "
-            "well you're quiet at first, then you warm up and get funny. You lose track of time easily."),
-    "Priya": ("You stay calm when things go wrong and you notice when someone's struggling, but with several good "
-              "options in front of you, you can go back and forth. You laugh easily, including at yourself."),
-    "Leo": ("You're a keen birdwatcher and patient with fiddly things. In a new group you'd rather listen than "
-            "talk, and you're harder on yourself than on anyone else."),
-    "Sofia": ("You love board games and get properly into the rules. You're upbeat and quick to suggest things, and "
-              "sometimes you start before everyone has agreed."),
-    "Omar": ("You played bass in a band for years. You're easy-going and a bit absent-minded, and you have a good "
-             "eye for how things look."),
-    "Hana": ("You keep lists and like to know the plan before you start, and you're usually the first to say out "
-             "loud when something isn't working."),
-    "Jack": ("You're friendly, chatty and slightly clumsy, you enjoy a bit of friendly competition, and you hand "
-             "out credit freely."),
-    "Sam": ("You've been to a lot of these team days and you're a little sceptical of them, but you can't stand "
-            "seeing a job done badly. You're dry and to the point."),
-    "Grace": ("You're at ease with drawings and space, and unsure how much to speak up in front of people you've "
-              "only just met. You notice small things and mostly keep them to yourself."),
-}
-TABLE_OF_4_V2 = ["Maya", "Tom", "Priya", "Leo"]
+# Version 6 (current): personality only, described positively, kept in personas.json so it is
+# fixed text that never needs regenerating. (v3 tied traits to jobs; v4 named jobs; v5 added
+# hobbies and life details.)
+import json as _json
+import os as _os
+
+with open(_os.path.join(_os.path.dirname(__file__), "personas.json")) as _f:
+    _P = _json.load(_f)
+PERSONAS_V2 = _P["personas"]
+TABLE_OF_4_V2 = _P["table_of_4"]
 
 VIEW_RULES = {
     "text": ("- The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked\n"
@@ -187,6 +169,7 @@ class LiveLLMAgent(LiveAgentBase):
         super().__init__(name, home, persona)
         self.model, self.log = model, log
         self.system = (f"You are {name}.\n{persona}\n\n{rules}\n\nHOW YOU'RE EVALUATED\n{evaluation}")
+        self.cache_salt = ""            # set to the run's seed: same seed replays, new seed samples afresh
         self.failures = 0
 
     def situation(self, obs: dict) -> str:
@@ -233,7 +216,7 @@ class LiveLLMAgent(LiveAgentBase):
         prompt = self.situation(obs) + "\n\nWhat do you say and do now?\n" + OUTPUT_FORMAT
         for _ in range(2):
             text = call_model(self.system, prompt, self.log, f"{self.name}/{obs['clock']}", self.model,
-                              image=self._image(obs))
+                              image=self._image(obs), cache_salt=f"{self.cache_salt}/try{_}")
             d = parse_json(text)
             if isinstance(d, dict):
                 return self.to_decision(d)
@@ -275,5 +258,5 @@ class LiveLLMAgent(LiveAgentBase):
         prompt = (self.situation(obs) + "\n\nTime is up. In one or two words: which animal is your "
                   "table's picture meant to be? Reply with JSON only: {\"animal\": \"...\"}")
         d = parse_json(call_model(self.system, prompt, self.log, f"{self.name}/intent", self.model,
-                                  image=self._image(obs))) or {}
+                                  image=self._image(obs), cache_salt=self.cache_salt)) or {}
         return str(d.get("animal") or "").strip().lower()

@@ -92,6 +92,7 @@ def main():
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
         extra = {"model": args.model} if args.model else {}
         agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls, **extra))
+        agents[-1].cache_salt = f"seed{args.seed}"
     game = LiveGame(world, agents, cfg)
     t0 = time.time()
 
@@ -133,7 +134,7 @@ def main():
     title = f"AI pilot (real-time) · table of {args.size}"
     write_replay(game.log, os.path.join(args.out, "replay.html"), title)
     recap = call_model("You write short, vivid recaps for a blog about teamwork.", recap_prompt(game.log),
-                       calls, "recap")
+                       calls, "recap", cache_salt=f"seed{args.seed}")
     game.log["recap"] = recap
     game.save(os.path.join(args.out, "log.json"))
     with open(os.path.join(args.out, "transcript_detailed.md"), "w") as f:

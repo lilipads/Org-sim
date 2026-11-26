@@ -139,15 +139,72 @@ class CallLog:
             t["seconds"] += c.get("seconds", 0.0)
             t["api_equivalent_usd"] += c.get("cost_usd") or 0.0
         t["api_equivalent_usd"] = round(t["api_equivalent_usd"], 4)
+        t["cached"] = sum(1 for c in self.calls if c.get("cached"))
         t["seconds"] = round(t["seconds"], 1)
         return t
 
 
+CACHE_DIR = os.environ.get("ORGSIM_CACHE_DIR",
+                           os.path.join(os.path.dirname(__file__), "..", "..", "cache", "llm"))
+CACHE_ON = os.environ.get("ORGSIM_CACHE", "1") != "0"
+
+
+def _cache_key(model, system, prompt, tools, images, salt, extra) -> str:
+    import hashlib
+    h = hashlib.sha256()
+    for part in (model, system, prompt, tools, salt or "", extra or ""):
+        h.update(str(part).encode())
+        h.update(b"\x00")
+    for path in images:
+        with open(path, "rb") as f:
+            h.update(hashlib.sha256(f.read()).digest())
+    return h.hexdigest()
+
+
+def _cache_path(key: str) -> str:
+    return os.path.join(CACHE_DIR, key[:2], key + ".json")
+
+
 def call_model(system: str, prompt: str, log: CallLog | None = None, tag: str = "",
                model: str = MODEL, tools: str = "", cwd: str | None = None,
-               image: str | list | None = None) -> str:
+               image: str | list | None = None, cache_salt: str | None = "",
+               cache_extra: str = "") -> str:
     """One stateless call through Claude Code's non-interactive mode. Returns the text.
-    With `image` (a PNG path, or a list of them), the pictures are attached to the message."""
+    With `image` (a PNG path, or a list of them), the pictures are attached to the message.
+
+    Cached on disk: an identical call (same model, system prompt, prompt, tools, images,
+    salt and extra) returns the saved answer instead of calling the model again. Agents
+    use the run's seed as the salt, so different seeds sample independently while a rerun
+    of the same seed replays for free. cache_salt=None turns caching off for the call."""
+    images = [] if not image else ([image] if isinstance(image, str) else list(image))
+    key = None
+    if CACHE_ON and cache_salt is not None:
+        key = _cache_key(model, system, prompt, tools, images, cache_salt, cache_extra)
+        path = _cache_path(key)
+        if os.path.exists(path):
+            try:
+                with open(path) as f:
+                    text = json.load(f)["result"]
+                if log:
+                    log.add({"tag": tag, "model": model, "ok": True, "cached": True, "seconds": 0.0,
+                             "result": text[:4000]})
+                return text
+            except (OSError, ValueError, KeyError):
+                pass
+    text = _call_model_uncached(system, prompt, log, tag, model, tools, cwd, images)
+    if key and text:
+        path = _cache_path(key)
+        try:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w") as f:
+                json.dump({"model": model, "tag": tag, "result": text}, f)
+        except OSError:
+            pass
+    return text
+
+
+def _call_model_uncached(system: str, prompt: str, log: CallLog | None, tag: str, model: str,
+                         tools: str, cwd: str | None, image: list) -> str:
     cmd = ["claude", "-p", "--model", model, "--system-prompt", system,
            "--tools", tools, "--no-session-persistence", "--strict-mcp-config", "--setting-sources", ""]
     if image:

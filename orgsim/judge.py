@@ -25,7 +25,11 @@ def judge_once(png_path: str, log: CallLog | None, tag: str) -> list:
     d = tempfile.mkdtemp(prefix="judge_")
     try:
         shutil.copy(png_path, os.path.join(d, "picture.png"))
-        text = call_model(JUDGE_SYSTEM, JUDGE_PROMPT, log, tag, tools="Read", cwd=d)
+        import hashlib
+        with open(png_path, "rb") as f:
+            digest = hashlib.sha256(f.read()).hexdigest()
+        text = call_model(JUDGE_SYSTEM, JUDGE_PROMPT, log, tag, tools="Read", cwd=d,
+                          cache_salt=tag, cache_extra=digest)   # one cached answer per judge per picture
         out = parse_json(text) or {}
         g = out.get("guesses") or []
         return [str(x).strip().lower() for x in g][:3]

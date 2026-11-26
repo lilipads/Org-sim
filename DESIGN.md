@@ -327,6 +327,18 @@ Scripted check after these fixes (20 games each, free hands repair breaks): typi
   sketches, how the work is split, waiting on dependencies and repairs all remain; the free-hand
   failure route is gone.
 
+### 4.4k Personas v6 and the model-call cache
+
+- **Personas v6: personality only, described positively.** No jobs, hobbies, family, age or tenure:
+  just how each person talks, decides and works with others, framed as strengths. They live in
+  `orgsim/agents/personas.json`, fixed text that never needs generating.
+- **Model-call cache** (`cache/llm/`, committed so later sessions reuse it). An identical call (same
+  model, system prompt, prompt, tools and images) returns the saved answer instead of calling the
+  model. Agent calls are salted with the run's seed: a rerun of the same seed replays for free (resume
+  after a usage limit, regenerate a report), while a new seed samples afresh, so runs stay independent.
+  Judging is cached per judge per picture, and the recap and "what animal" answers per seed.
+  `ORGSIM_CACHE=0` turns it off.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:
