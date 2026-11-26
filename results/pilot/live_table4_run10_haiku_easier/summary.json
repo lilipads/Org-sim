@@ -1,0 +1,75 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "default (small)",
+  "wall_seconds": 845.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "arc of dark blocks on a cream background",
+      "bent stroke or hand-drawn curve"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "arc of dominoes in a chain",
+      "bent dark stroke or hook"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "arc of dominoes toppling along a curve",
+      "thick dark curved stroke on a light background"
+    ]
+  ],
+  "placed": 62,
+  "fell": 27,
+  "completion": 0.435,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 121,
+  "messages_by_speaker": {
+    "Priya": 64,
+    "Maya": 15,
+    "Tom": 19,
+    "Leo": 19,
+    "Facilitator": 4
+  },
+  "held_thoughts": 77,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 285,
+    "failed": 0,
+    "input_tokens": 582,
+    "cache_creation_tokens": 1627376,
+    "cache_read_tokens": 812008,
+    "output_tokens": 247172,
+    "seconds": 2337.0,
+    "api_equivalent_usd": 0.4572
+  }
+}

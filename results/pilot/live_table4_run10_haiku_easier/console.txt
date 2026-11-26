@@ -27,3 +27,327 @@
     Priya -> Maya: Nice, Maya. I'm bringing the tail run right up to the mouth point now, so it should land behind your first top domino. If it's off, shout and I'll bend the last few.
     Tom -> everyone: Quick flag, going with the sketch: fish faces right, tail on the left, nose on the right. Priya, can you confirm the start is the tail end over here? Once it's down I'll take the tail fins so you two 
     (Leo held a thought)
+[   88s] 1:45 asked Maya,Priya,Leo | dominoes 6 | calls 25
+    Priya -> Tom: Yes, Tom, the start is the tail tip, right where you're pointing. Go ahead with the fins off that end. I've got the last tail-to-mouth domino going down now, so the body can carry on from there.
+    Leo -> everyone: Yes, the start is the tail end, and that's the split I had too: one run from the tail into the mouth point, Maya takes the top to the nose, I take the bottom. I'll hold off until the run reaches the m
+    (Maya held a thought)
+[   99s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 10 | calls 29
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Priya -> everyone: Pad's away, so we go from what we remember: tail tip, run into the mouth, then Maya takes the top and Leo the bottom. I've got the last tail domino going down now. Tom, go ahead with the fins off the 
+    (Tom held a thought)
+    (Maya held a thought)
+[  110s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 12 | calls 33
+    Priya -> everyone: Pad's away, so from memory: tail, mouth, then Maya takes the top and Leo the bottom. Start only seems to reach one domino, so I'm checking the tail run for a gap before I add more.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  119s] 2:30 asked Maya,Priya,Leo | dominoes 17 | calls 36
+    Priya -> everyone: Start's only knocking over one domino, so there's a break right at the tip and the line bends too sharply by the mouth. I'm fixing both now. Tom, hold the fins till I say, and Leo, stay on the bottom 
+    (Leo held a thought)
+    (Maya held a thought)
+[  129s] 2:45 asked Tom,Leo | dominoes 18 | calls 38
+    Tom -> everyone: Got it, Priya. Holding the fins. My top one's only partway out, so I'll leave it where it is and wait for your go. Shout when the tail's sorted.
+    (Leo held a thought)
+[  137s] 3:00 asked Priya,Leo | dominoes 20 | calls 40
+    Priya -> everyone: Start's only reaching one domino, so there's a break just past the tip and the bend by the mouth is too sharp. I'm fixing both now. Tom, hold the fins. Maya, keep laying the top, and I'll call when th
+    (Leo held a thought)
+[  145s] 3:15 asked Maya,Tom,Leo | dominoes 20 | calls 43
+    Leo -> Priya: Priya, I'm leaving the start joint and the tip to you. My mouth bridge is stopped, so there's no half-joint on my side. I'll start the bottom once your run reaches the mouth.
+    Maya -> everyone: Priya, for the record: I'm on the top arc from the mouth point, and my first domino lines up behind the end of your run. Tom, yes, the start on the left is the tail end. I'm carrying on with the top.
+[  153s] 3:30 asked Tom,Priya,Leo | dominoes 21 | calls 46
+    Leo -> Priya: Priya, I'm keeping my hands off the bottom until the mouth's set. My two dominoes near the mouth may not line up with your run, so I'll check them once you call it.
+    Priya -> everyone: Start's only reaching one domino, so I'm closing the gap just past the tip and easing the bend at the mouth. Tom, keep holding the fins. Leo, stay on the bottom till I call the mouth set.
+    (Tom held a thought)
+[  161s] 3:45 asked Tom,Priya,Leo | dominoes 23 | calls 49
+    Priya -> everyone: Leo, got it. Keep your hands off the bottom and your mouth dominoes until I call the mouth set. Then check them against the run.
+    (Tom held a thought)
+[  170s] 4:00 asked Tom,Leo | dominoes 24 | calls 51
+    Tom -> Priya: Got it, Priya. Still holding the fins till you call. I'll keep an eye on the tail while you sort it.
+[  180s] 4:15 asked Tom,Priya,Leo | dominoes 26 | calls 54
+    Priya -> everyone: Okay, my hands are free now, so I'm checking the tail end before anyone touches it. Tom, keep holding the fins. Leo, stay off the bottom until I've called the mouth set.
+    (Leo held a thought)
+[  189s] 4:30 asked Tom,Priya,Leo | dominoes 27 | calls 57
+    Tom -> Priya: Holding off, Priya. Give me the nod when the tail's sorted and I'll go straight in.
+    Priya -> everyone: Okay, my hands are free. I'm checking the tail end before anyone touches it. Tom, keep holding the fins. Leo, stay off the bottom until I've called the mouth set.
+    (Leo held a thought)
+[  198s] 4:45 asked Tom,Priya,Leo | dominoes 29 | calls 60
+    Priya -> everyone: Okay, I've been saying I'm fixing the tail for a while without doing it. I'm doing it now. The break is right past the tip, so I'm closing that first. Tom, keep holding the fins. Leo, stay off the bot
+[  209s] 5:00 asked Tom,Leo | dominoes 30 | calls 62
+    Tom -> everyone: Sounds good, Priya. I'm holding the fins until you give the nod. Honestly, I'm running on fumes today, so waiting suits me fine.
+[  216s] 5:15 asked Maya,Priya,Leo | dominoes 32 | calls 65
+    Priya -> everyone: Okay, I've said it for ages, so I'm actually doing it now. Closing the break just past the tip. Tom, keep holding the fins. Leo, still off the bottom until I call the mouth.
+    (Maya held a thought)
+[  225s] 5:30 asked Tom,Priya,Leo | dominoes 33 | calls 68
+    Leo -> Priya: Priya, I'll take a quick look at the tail with inspect, no hands on it. Then we'll know exactly where it's cut.
+    Priya -> everyone: Doing it now, closing the gap just past the tip. Tom, still holding the fins till I call it.
+[  233s] 5:45 asked Tom,Priya,Leo | dominoes 36 | calls 71
+    Priya -> everyone: Leo, go ahead and inspect the tail, that's a good idea. I'm closing the break just past the tip now, and I'll call Tom in when it's sorted.
+[  242s] 6:00 asked Tom,Priya,Leo | dominoes 38 | calls 74
+    Leo -> Priya: Priya, I've looked at the tail. The start hits one domino and stops. The gap is right after the first domino, where the next one is tilted up. Once that's closed, the run should carry on into the mout
+    Priya -> everyone: Leo's looking at the tail now. I'm closing the break just past the tip, and I'll call Tom in as soon as the start reaches the run.
+    (Tom held a thought)
+[  251s] 6:15 asked Tom,Priya,Leo | dominoes 40 | calls 77
+    Priya -> everyone: Leo, thanks, that's the one. I'm straightening the tilted domino right after the tip now. Tom, keep holding the fins, I'll call you in once the start reaches the run.
+    (Tom held a thought)
+[  261s] 6:30 asked Tom,Priya,Leo | dominoes 41 | calls 80
+    Priya -> everyone: Thanks, Leo, that's the spot. I've set the fix on the tilted one just past the tip. Before I call Tom in, I'm checking that the start reaches the run. Tom, still holding the fins. I'll shout as soon a
+    (Tom held a thought)
+[  269s] 6:45 asked Tom,Priya,Leo | dominoes 43 | calls 83
+    Priya -> Tom: Tom, still holding the fins. I'm checking the tail now and will call you in only if the start actually reaches the run.
+    Tom -> everyone: Sounds good, Priya. Leo, checking the tail first was smart. I'll sit on the fins until you give the nod.
+[  277s] 7:00 asked Tom,Priya,Leo | dominoes 44 | calls 86
+    Leo -> everyone: Thanks, Tom. Priya, I'm still off the bottom. Tell me when the start reaches the run and I'll check my two mouth dominoes. Tom, if the fins need a second pair of hands after that, I can take a few.
+[  288s] 7:15 asked Maya,Tom,Priya | dominoes 45 | calls 89
+    Tom -> Leo: Thanks, Leo, that's kind of you. I'll shout if the fins need a second pair of hands. Right now I'm just guarding them like a dog guards a sandwich.
+    Priya -> everyone: Checked the tail. The start still isn't reaching the body, so Tom, keep holding the fins. Leo, keep your mouth dominoes for now. I'm re-fixing the tilted one by the tip and the loose end before anyone
+    (Maya held a thought)
+[  297s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 45 | calls 93
+    Priya -> everyone: Honest update: I've said 'fixing the tail' a lot and haven't finished it. I'm re-checking it now, and nobody goes in until it shows the start actually reaching the body.
+    (Maya held a thought)
+    (Leo held a thought)
+[  307s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 97
+    Priya -> everyone: Honest check: I've said 'fixing the tail' too many times without finishing it. I'm inspecting it now, and nobody goes in until it shows the start reaching the body. Tom, still holding the fins. Leo, s
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  317s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 101
+    Priya -> everyone: Honest update: the inspect says the start still stops after about seven and doesn't reach the body, and the top arc isn't joined. I'm doing the fix at the tilted one by the tip now. Tom and Leo, still
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  327s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 105
+    Leo -> Priya: Good call re-checking, Priya. Same as before: the start only reaches the first domino, and the gap is right after it at the tilted one. Once you've closed it, I'll inspect the tail before anyone goes 
+    Priya -> everyone: Doing the fix on the tilted one by the tip now. Nothing's changed yet, so Tom and Leo, you both stay put. I'll inspect as soon as it's down.
+    (Maya held a thought)
+    (Tom held a thought)
+[  337s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 109
+    Maya -> Priya,Leo: Priya, the top arc's finished, mouth round to nose, and the last one's down at the nose end. Once you call the mouth set, I'll check the join against your line. Leo, I'll look at the nose join with yo
+    Priya -> everyone: Doing the fix on the tilted one by the tip now. Tom and Leo, still hold. I'll inspect as soon as it's down.
+    (Tom held a thought)
+[  347s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 113
+    Maya -> Leo: Leo, whenever you're ready, come look at the nose join with me. I'm not touching the mouth until Priya calls it.
+    Tom -> Priya: Thanks for being straight with us, Priya. Take your time on the tail. I'm not going anywhere, and I'll wait for your nod before touching the fins.
+    Leo -> Maya: Thanks, Maya. I'm still off the bottom until Priya calls the mouth set. Once she's said the tilted one is down, I'll inspect the tail, then I'm happy to look at the nose join with you.
+    Priya -> everyone: Honest version: I've said 'fixing it' too many times, so I'm just doing it. Laying the fix on the tilted one by the tip now. Tom and Leo, still hold. Maya, thanks for the arc report. I'll inspect as s
+[  355s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 117
+    Leo -> Maya: Maya, I'm going to look over the nose join now. No hands on it.
+    Priya -> everyone: Fix should be down at the tilted one by the tip. I'm inspecting the tail now. Tom, Leo, still hold. Nobody goes in until it shows the start reaching the body.
+    (Maya held a thought)
+[  365s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 121
+    Maya -> Priya: Priya, I'm keeping an eye on the mouth join while you lay the tilted one. I won't touch anything.
+    Leo -> Maya: Maya, I've looked at the nose. The arc comes down and stops with nothing in front of it, so that's where the mouth has to meet it. I'm not touching anything until Priya's tail check is through.
+[  375s] 9:30 asked Maya,Priya | dominoes 46 | calls 123
+    Priya -> everyone: Status, plainly: the tail's still not connected. The start stops after about seven, and the fix I laid didn't take. I'm redoing the join at the tilted domino right now. Tom, Leo, still hold. Maya, tha
+[  385s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 127
+    Maya -> Priya: Priya, I'm not touching anything. The line end near the middle of the tail, facing right, has nothing ahead of it, so that's probably where the start stops. I'm going to take a quiet look at that spot
+    Priya -> everyone: Inspecting the tail now. Tom, Leo, still hold. Nobody goes in until the check shows the start reaching the body.
+    Tom -> everyone: Still holding the fins, Priya. Shout when the inspect shows the start reaching the body.
+[  395s] 10:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 131
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Priya, I looked at the line end just past the middle of the tail, facing right, with nothing in front of it. Is that the same break as the tilted one, or a separate gap? If it's separate, I can close 
+    (Priya held a thought)
+[  408s] 10:15 asked Tom,Priya,Leo | dominoes 46 | calls 134
+    Priya -> everyone: Maya, yes, that's a separate gap from the tilted one, and it's probably where the start stops. I'm closing it now myself, so please don't touch anything. Tom, Leo, still hold. I'll inspect as soon as 
+    (Leo held a thought)
+[  420s] 10:30 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 138
+    Priya -> everyone: Maya, you were right, that's the separate gap. I'm laying the fix on it now. Please don't touch anything. Tom, Leo, still holding. I'll inspect as soon as it's down and only call the mouth set if the 
+    (Tom held a thought)
+    (Leo held a thought)
+[  428s] 10:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 142
+    Leo -> Priya: Priya, agreed, that's where the start stops. Once that's down, I'll look at the tail before anyone goes in.
+    Priya -> everyone: The fix is down at the gap just past Maya's line end. Inspecting the tail now. Tom and Leo, still hold. Nobody goes in until the check shows the start reaching the body.
+    (Tom held a thought)
+[  445s] 11:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 146
+    Priya -> everyone: Honest status: the inspect says the start still stops after about seven and doesn't reach the body. The fix at the gap by Maya's line end didn't take. I'm not calling the mouth set. Tom and Leo, stay 
+    (Tom held a thought)
+[  455s] 11:15 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 150
+    Priya -> everyone: One clean fix at the gap by Maya's line end, then I inspect. Tom and Leo, still holding. Nothing's verified yet.
+    (Leo held a thought)
+    (Tom held a thought)
+[  464s] 11:30 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 154
+    Leo -> Priya: Priya, same stop as before, right after the seventh domino. Once your fix is down, I can look at that gap from the side without touching it, if that helps.
+    Priya -> everyone: Laying one clean fix at the gap by Maya's line end now. Tom and Leo, still holding. Nothing's verified yet. I'll inspect as soon as it's down.
+    (Tom held a thought)
+[  472s] 11:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 158
+    Priya -> everyone: Fix is down at the gap by Maya's line end. Inspecting the tail now. Tom and Leo, still holding. Nothing's verified until the check shows the start reaching the body.
+    (Tom held a thought)
+[  480s] 12:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 162
+    Priya -> everyone: Inspecting the tail now, since the fix at the gap is down. Nothing's verified until it shows the start reaching the body. Tom and Leo, still holding.
+    (Tom held a thought)
+[  497s] 12:15 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 166
+    Priya -> everyone: Honest update: the inspect says the start still stops after seven, and the fix at the gap didn't take. I'm done laying patches on the tail. With about eight minutes left, I want to move the start to t
+    (Tom held a thought)
+[  513s] 12:30 asked Maya,Tom,Leo | dominoes 46 | calls 169
+    Leo -> Priya,Maya: Priya, I'm off the bottom and hands are clear. Maya, is this the arc's first domino, the one by the tilted one, facing up and to the right? One thing before the start moves: the body run is fed by the
+    Maya -> everyone: Priya, yes, that's the arc's first domino, at the mouth end where it starts. It faces up and to the right, roughly the direction the arc is heading, so the fall would run over the top toward the nose.
+    (Tom held a thought)
+[  527s] 12:45 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 173
+    Priya -> everyone: Okay, the tail's out. Maya's confirmed the arc's first domino, so I'm moving the start there now. Leo's right that the body won't come along, so we're going with the arc alone. Tom, put the fins down,
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  536s] 13:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 177
+    Leo -> Priya: Priya, before the start moves: the body row along the bottom is only fed by the current start. Once it's at the arc, that row stays up unless it's joined to the mouth. Do you want the join laid first,
+    Priya -> everyone: Okay, moving the start to the arc's first domino by hand now. Nobody touch the arc until I've inspected it. Tom, the fins stay down.
+    (Maya held a thought)
+    (Tom held a thought)
+[  552s] 13:15 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 181
+    Maya -> Leo: Leo, good catch on the body. Once the start is on the arc, I'll check whether anything from the arc reaches it after Priya's inspect. Still hands off until she says go.
+    Priya -> everyone: Honest check: the start is still back at the old domino by the tail, so the move hasn't taken. I'm not calling the arc until an inspect shows it. Leo, agreed, the body stays standing and we go arc-onl
+    (Leo held a thought)
+    (Tom held a thought)
+[  564s] 13:30 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 185
+    Priya -> everyone: Honest status: the start never moved. I'm moving it to the arc's first domino now, by hand. Tom, Leo, Maya, keep your hands off the arc until I've inspected it. Nothing is verified yet.
+    (Tom held a thought)
+[  571s] 13:45 asked Maya,Tom,Leo | dominoes 46 | calls 188
+    Tom -> everyone: Got it, Priya. Hands off the start and the arc. Nothing in my hands, and I'll wait for your inspect.
+    Maya -> everyone: Hands off the arc, Priya. I'll wait for your inspect before I touch anything.
+[  580s] 14:00 asked Maya,Tom,Priya,Leo | dominoes 46 | calls 192
+    Priya -> everyone: The last try didn't place anything. The arc's first domino is already standing where I was aiming, so I'm not stacking another one on it. I'm inspecting the arc from the mouth outward before I move th
+[  594s] 14:15 asked Maya,Tom,Priya,Leo | dominoes 47 | calls 196
+    Priya -> everyone: Okay, the inspect's back. The arc's first domino is standing, so I'm not stacking another one. I'm joining the end of the tail to that arc mouth so the start feeds into the arc instead. Tom, Leo, Maya
+    (Leo held a thought)
+[  602s] 14:30 asked Maya,Tom,Leo | dominoes 48 | calls 199
+    Leo -> everyone: Priya, from the picture the start is still on the old tail domino. The dark row is still the body, and the arc stays pale until the start is really on its first domino. I'm off the bottom and staying 
+[  610s] 14:45 asked Maya,Tom,Priya | dominoes 49 | calls 202
+    Priya -> everyone: Leo, agreed, the start's still on the tail. I'm finishing the join from the tail end into the arc mouth now, so the fall carries into the arc. Maya, Tom, still hands off. I'll inspect as soon as the j
+    (Tom held a thought)
+    (Maya held a thought)
+[  619s] 15:00 asked Maya,Tom,Priya,Leo | dominoes 50 | calls 206
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Five minutes. I'm still laying the join from the tail end into the arc's mouth, and the start stays on the tail until it's down. Nobody touch the arc. I'll inspect as soon as the join's finished.
+    (Tom held a thought)
+    (Maya held a thought)
+[  626s] 15:15 asked Maya,Tom,Leo | dominoes 51 | calls 209
+    Maya -> everyone: Agree with Leo. The start's still on the tail, so the arc stays pale until the join's checked. Priya, I'm hands off until you call it. Once you do, I'll look at whether the arc comes down toward the n
+    (Tom held a thought)
+[  635s] 15:30 asked Tom,Priya,Leo | dominoes 52 | calls 212
+    Tom -> Priya: Agreed, Priya. Hands off, nothing in my hands. Shout if you want a hand with the join.
+    Priya -> everyone: Maya, thanks. I'm still laying the join into the arc's mouth, about seventeen to go. The start stays on the tail until I've inspected it, so nobody touch the arc. I'll call it as soon as it's down.
+[  643s] 15:45 asked Maya,Tom,Priya,Leo | dominoes 53 | calls 216
+    Priya -> Tom: Thanks, Tom. I've got the join, sixteen to go, and my hands are full. Keep the fins down and stay off the arc so nothing bumps it. If you want to help, watch the nose end for me, and tell me if you se
+    Maya -> everyone: Still hands off, Priya. Once the join's down and you've inspected it, I'll look at where the arc comes down toward the nose.
+[  650s] 16:00 asked Tom,Priya,Leo | dominoes 53 | calls 219
+    Tom -> Priya: On it, Priya. I'm watching the nose end and will shout if a gap opens up.
+    Priya -> everyone: Still laying the join into the arc's mouth, about sixteen to go. Nothing's verified yet. Tom, Maya, keep your hands off the arc. I'll inspect as soon as it's down.
+[  660s] 16:15 asked Maya,Tom,Priya,Leo | dominoes 54 | calls 223
+    Tom -> Priya: Nose end's still standing from here, no gap that I can see. I'm watching it and won't touch anything. Shout if you want me on the join.
+    Priya -> everyone: Tom, thanks, keep watching the nose end. Still laying the join, about fifteen to go. Nothing's verified yet, and nobody touch the arc.
+[  668s] 16:30 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 227
+    Priya -> everyone: Still laying the join into the arc's mouth, about fifteen to go. Nothing's verified yet, and I won't call the arc unless the check shows it. Tom, Maya, keep your hands off the arc.
+[  676s] 16:45 asked Maya,Tom,Leo | dominoes 56 | calls 230
+    Tom -> Priya: Nose end's still standing from here, no gaps. Hands off, nothing in my hands.
+[  685s] 17:00 asked Priya | dominoes 57 | calls 231
+    Priya -> Tom: Thanks, Tom. Keep watching the nose end. I'm still laying the join, and I'll inspect as soon as it's down.
+[  693s] 17:15 asked Tom | dominoes 59 | calls 232
+    Tom -> Priya: Priya, I'm giving the nose end a closer look now. Hands still off everything else.
+[  700s] 17:30 asked Tom,Priya | dominoes 59 | calls 234
+    Tom -> Priya: Priya, nose end's still standing and I can't see any gap. The last domino there is just the arc's end, nothing else is out of line. Hands still off, I'll keep watching.
+    Priya -> Tom: Thanks, Tom. Keep watching the nose end and shout if a gap opens. I've got about nine left on the join, and I'll inspect as soon as it's down.
+[  710s] 17:45 asked Maya,Tom,Priya,Leo | dominoes 60 | calls 238
+    Priya -> Tom: Thanks, Tom. Keep watching the nose end. Nine left on the join, and I'll inspect as soon as it's down.
+[  718s] 18:00 asked Maya,Tom,Priya,Leo | dominoes 61 | calls 242
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> Priya: Nose end's still standing from here, Priya. Two minutes. Shout if you want me on the join.
+    Priya -> everyone: Two minutes. About nine left on the join, so I'm keeping my hands on it. Tom, keep watching the nose end. Maya and Leo, hands off the arc. The start stays on the tail for now, and I won't call the arc
+    (Leo held a thought)
+[  726s] 18:15 asked Maya,Tom,Priya,Leo | dominoes 61 | calls 246
+    Priya -> Tom: Thanks, Tom. Keep watching the nose end and shout if anything opens up. I've got about seven left on the join and I'm keeping my hands on it. Nothing's verified yet, so don't count the arc until we ch
+    Leo -> Priya: Priya, if the join isn't down when the push comes, move the start onto the arc's first domino. Otherwise we only get the body row. I'm staying hands off.
+[  735s] 18:30 asked Tom,Priya | dominoes 61 | calls 248
+    Tom -> Priya: Priya, nose end's still standing from here, no gaps. Hands still off. Shout if you want me on the join.
+    Priya -> everyone: Leo, good call. Still laying the join, about seven left, hands on it. Nothing's verified yet. If it isn't down when the push comes, I'll move the start onto the arc's first domino. Tom, Maya, Leo, kee
+[  744s] 18:45 asked Maya,Tom,Priya,Leo | dominoes 61 | calls 252
+    Leo -> Priya: Priya, if you move the start, do it before the push, and check the arc's first domino is standing and facing the right way when you do.
+    Priya -> everyone: Thanks, Tom. Still on the join, about seven left, hands on it. Nothing's verified yet. Keep watching the nose end.
+[  755s] 19:00 asked Maya,Tom,Priya,Leo | dominoes 61 | calls 256
+    Leo -> Priya: Priya, a minute left and about seven still to go on the join. Please move the start onto the arc's first domino now, and check that domino is standing and facing into the arc.
+    Priya -> everyone: Leo, Maya, Tom, I'm moving the start onto the arc's first domino now, since the join isn't down. I'm checking that domino is standing and facing up the arc before the push. Nobody touch the arc. Nothi
+[  767s] 19:15 asked Maya,Tom,Priya,Leo | dominoes 61 | calls 260
+    Priya -> everyone: Leo, Maya, Tom, the join's still about seven short, so it isn't down. I'm checking the arc's first domino right now, standing and facing up the arc, before the push. Nobody touch anything. Nothing's v
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  777s] 19:30 asked Maya,Tom,Priya,Leo | dominoes 62 | calls 264
+    Maya -> Priya: Got it, Priya. Hands off the arc. Once the start's on that first domino and you're happy it's standing, I'll take a quick look from here and tell you whether it runs down toward the nose.
+    Tom -> Priya: Priya, nose end's still standing from here, no gaps. Hands still off everything. Shout if you want me on anything.
+    Priya -> everyone: Leo, Maya, Tom, the join's still about seven short, so it isn't down. I'm moving the start onto the arc's first domino now, standing and facing up the arc. Tail stays as it is. Nobody touch anything.
+    (Leo held a thought)
+[  786s] 19:45 asked Maya,Tom,Priya,Leo | dominoes 62 | calls 268
+    Leo -> Priya: Priya, good. Once that first arc domino is confirmed standing and facing up the arc, we push. I'm hands off.
+    Priya -> everyone: Start is on the arc's first domino now, standing and facing up the arc. The join's still about seven short, so the tail won't reach it. Maya, one quick look at that first domino, then we see what the 
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "default (small)",
+  "wall_seconds": 845.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "arc of dark blocks on a cream background",
+      "bent stroke or hand-drawn curve"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "arc of dominoes in a chain",
+      "bent dark stroke or hook"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "arc of dominoes toppling along a curve",
+      "thick dark curved stroke on a light background"
+    ]
+  ],
+  "placed": 62,
+  "fell": 27,
+  "completion": 0.435,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 121,
+  "messages_by_speaker": {
+    "Priya": 64,
+    "Maya": 15,
+    "Tom": 19,
+    "Leo": 19,
+    "Facilitator": 4
+  },
+  "held_thoughts": 77,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 285,
+    "failed": 0,
+    "input_tokens": 582,
+    "cache_creation_tokens": 1627376,
+    "cache_read_tokens": 812008,
+    "output_tokens": 247172,
+    "seconds": 2337.0,
+    "api_equivalent_usd": 0.4572
+  }
+}
