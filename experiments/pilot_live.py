@@ -47,7 +47,7 @@ def main():
 
     from orgsim.dominoes import Physics
     if args.big:
-        W, H, supply = 30, 20, 130
+        W, H, supply = 30, 20, 180
         phys = Physics(pos_sigma=0.025, bump_radius=3.0)
         freehand = 0.15
     else:
@@ -59,7 +59,7 @@ def main():
     import tempfile
     cfg = LiveConfig(duration=args.minutes * 60, seed=args.seed, view=args.view,
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
-                     freehand_sigma=freehand,
+                     freehand_sigma=freehand, show_reach=(args.view == "image"),
                      view_dir=tempfile.mkdtemp(prefix="views_") if args.view == "image" else None)
     agents = []
     for n in names:

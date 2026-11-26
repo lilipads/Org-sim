@@ -236,6 +236,21 @@ A paper scratch pad lies on the table at the start. **Nobody holds it**, and any
   bent so it runs into it (up to three lifted and re-laid). In tests, two separately built pieces join
   into one chain 18 times in 20.
 
+### 4.4e Why the task was so hard, and what changed (after run 8)
+
+Across eight pilot runs, tables built **5–11 separate pieces**, but the rules need **one connected
+chain from one start**. Any broken joint hides everything after it, so a mostly good table showed
+8–50%. (With three starts, most runs would have revealed 70–100%. We considered it and rejected it:
+real domino runs have one start, and connecting is the point.) So the changes make connecting
+natural rather than removing it:
+- **Builder know-how in the rulebook.** Builders grow the run outward from the start, adding each
+  stretch onto what's standing, so it stays connected. For a closed outline, the run comes to one
+  point and splits into two lines around each side.
+- **Seeing what will fall.** In the picture view, dominoes the start would knock over are drawn dark
+  and unconnected ones pale, the way people trace a run by eye. The start-domino status line also
+  says roughly how much it would knock over.
+- **180 dominoes** with the bigger pieces. 130 ran out by minute 8 in run 8.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

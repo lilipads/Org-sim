@@ -42,6 +42,14 @@ TIME AND HANDS
 - The table has one start domino: set "start": true on a build and its first domino becomes the start.
   Setting it again later moves the start.
 
+HOW DOMINO BUILDERS USUALLY WORK
+- They grow the run outward from the start, adding each new stretch onto the end of what's already
+  standing (or branching off its side), so everything stays connected as it grows. Pieces built
+  separately have to be joined into the run later, and every joint is a place it can break.
+- To draw a closed outline, the run comes from the start to one point of the shape and splits there
+  into two lines that go round each side.
+- They keep an eye on what the start would actually knock over.
+
 TALKING
 - Say things to the whole table, or to specific people. Everyone at the table hears what's said to the
   table. When you speak to specific people, only they hear the words; the others just notice.
@@ -157,7 +165,10 @@ TABLE_OF_4_V2 = ["Maya", "Tom", "Priya", "Leo"]
 VIEW_RULES = {
     "text": ("- The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked\n"
              "  over, . = empty, and a lower-case letter where someone is pointing right now (their initial)."),
-    "image": ("- Each time you decide, you see the table: a picture comes with every message. Standing dominoes are dark bars\n"
+    "image": ("- Each time you decide, you see the table: a picture comes with every message. Standing dominoes are bars\n"
+              "  with an orange tick on the side they'll fall toward. Dark ones are those the start would knock over if\n"
+              "  it were pushed now (you can trace that by eye); pale ones aren't connected to it yet."),
+    "image_plain": ("- Each time you decide, you see the table: a picture comes with every message. Standing dominoes are dark bars\n"
               "  with an orange tick on the side they'll fall toward. Knocked-over ones lie flat in red. The start\n"
               "  domino is ringed in green. A purple circle shows where someone is pointing, and a blue label shows\n"
               "  where someone's hands are working. Grid lines are 1 unit apart, labelled every 5."),

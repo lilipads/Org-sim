@@ -62,6 +62,7 @@ class LiveConfig:
     scratchpad_until: float | None = 120.0  # a scratch pad lies on the table until then (None: no pad)
     freehand_sigma: float = 0.3      # how far off a stroke aimed by eye lands (units)
     snap: bool = True                # line new dominoes up with a line end / close a small gap by hand
+    show_reach: bool = False         # draw what the start dominoes would knock over darker than the rest
 
 
 @dataclass
@@ -225,7 +226,8 @@ class LiveGame:
                 elif t and t["kind"] in ("take_down", "inspect"):
                     a0, b0, a1, b1 = t["area"]
                     hands[o] = ((a0 + a1) / 2, (b0 + b1) / 2)
-            agent_view_png(self.world, loc, os.path.join(folder, "table.png"), markers, hands)
+            agent_view_png(self.world, loc, os.path.join(folder, "table.png"), markers, hands,
+                           show_reach=self.cfg.show_reach)
             obs["view_dir"] = folder
             if self.pad_exists and self.pad_strokes and self.location[name] == loc.name:
                 sketch_png(self.pad_strokes, os.path.join(folder, "pad.png"), (loc.x1 - loc.x0, loc.y1 - loc.y0),
@@ -395,7 +397,12 @@ class LiveGame:
         d = starts[0]
         if d.state != "up":
             return f"The start domino near {where(d.x, d.y)} has been knocked over; it needs standing back up."
-        return f"The start domino is near {where(d.x, d.y)}, facing {direction(d.angle)}."
+        status = f"The start domino is near {where(d.x, d.y)}, facing {direction(d.angle)}."
+        if self.cfg.show_reach:
+            reach = len(self.world.reachable_from_start(loc))
+            standing = sum(1 for x in self.world.dominoes.values() if x.region == loc and x.state == "up")
+            status += f" Tracing it by eye, it would knock over about {reach} of the {standing} standing dominoes."
+        return status
 
     def _speech(self, decisions: dict, rec: dict) -> set:
         """Resolve who gets the floor. Returns the set of agents who spoke."""

@@ -104,7 +104,7 @@ def topple_gif(world: World, times: dict, path: str, scale: int = 10, fps: int =
 
 
 def agent_view_png(world: World, region, path: str, markers: dict | None = None,
-                   hands: dict | None = None, scale: int | None = None) -> str:
+                   hands: dict | None = None, scale: int | None = None, show_reach: bool = False) -> str:
     """What a person standing at the table sees, as an image for an agent.
 
     Standing dominoes are dark bars across their line of fall with an orange tick
@@ -147,6 +147,7 @@ def agent_view_png(world: World, region, path: str, markers: dict | None = None,
         if gy % 5 == 0:
             dr.text((4, px(x0, gy)[1] - 7), str(gy), fill=(110, 100, 85), font=font)
             dr.text((W - pad + 4, px(x0, gy)[1] - 7), str(gy), fill=(110, 100, 85), font=font)
+    reached = world.reachable_from_start(region.name) if show_reach else None
     for d in world.dominoes.values():
         if not region.contains(d.x, d.y):
             continue
@@ -156,8 +157,10 @@ def agent_view_png(world: World, region, path: str, markers: dict | None = None,
             dr.line([px(d.x, d.y), px(d.x + 0.9 * ux, d.y + 0.9 * uy)], fill=(200, 60, 50), width=max(2, scale // 5))
             continue
         hx, hy = -uy * 0.25, ux * 0.25
-        dr.line([px(d.x - hx, d.y - hy), px(d.x + hx, d.y + hy)], fill=(40, 40, 46), width=max(2, scale // 6))
-        dr.line([px(d.x, d.y), px(d.x + 0.32 * ux, d.y + 0.32 * uy)], fill=(214, 120, 30), width=max(2, scale // 8))
+        body = (40, 40, 46) if reached is None or d.id in reached else (165, 160, 170)
+        tick = (214, 120, 30) if reached is None or d.id in reached else (232, 190, 150)
+        dr.line([px(d.x - hx, d.y - hy), px(d.x + hx, d.y + hy)], fill=body, width=max(2, scale // 6))
+        dr.line([px(d.x, d.y), px(d.x + 0.32 * ux, d.y + 0.32 * uy)], fill=tick, width=max(2, scale // 8))
         if d.start:
             cx, cy = px(d.x, d.y)
             r = 0.7 * scale
