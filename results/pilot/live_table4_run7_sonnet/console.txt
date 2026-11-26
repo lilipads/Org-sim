@@ -3,3 +3,65 @@
     (Leo held a thought)
     (Tom held a thought)
     (Maya held a thought)
+[   25s] 0:15 asked Maya,Tom,Leo | dominoes 1 | calls 7
+    Maya -> everyone: Fish works for me, Priya, that was what I was about to say! Go ahead and sketch it. Once we see where the head and tail sit, I'll grab the top edge of the body, and someone else can take the bottom an
+    (Leo held a thought)
+    (Tom held a thought)
+[   38s] 0:30 asked Priya,Leo | dominoes 3 | calls 9
+    Priya -> everyone: Okay, here's the fish. Head on the left, tail on the right. Let's start at the nose so the line splits along the top and bottom of the body, then both meet at the tail fork. Maya, take the top edge li
+    (Leo held a thought)
+[  230s] 0:45 asked Maya,Tom,Leo | dominoes 2 | calls 13
+    Tom -> everyone: Ha, sorry, I had the fish facing the wrong way round in my sleepy head. Fish for the bottom edge, got it. I'll pull my strays out of the corner and start at the nose, like you said, Priya.
+    (Leo held a thought)
+    (Maya held a thought)
+[  253s] 1:00 asked Tom,Priya | dominoes 6 | calls 16
+    Priya -> everyone: Maya, you're already at the nose, so make that first domino the start and split top and bottom from there. Tom, bottom edge goes from the same spot. I'll leave the eye until your lines are down, then 
+    (Tom held a thought)
+[  267s] 1:15 asked Maya,Tom | dominoes 9 | calls 18
+    Tom -> everyone: Right, bottom edge from the nose, round the belly toward the tail. Maya, you've got the start domino, yeah? Nothing's ringed green yet. I'll try not to elbow you, we're sharing the nose.
+    (Maya held a thought)
+[  277s] 1:30 asked Maya,Priya | dominoes 13 | calls 20
+    Maya -> everyone: Yep Tom, the start's right there at the nose, I can see it ringed. I'm carrying on from my little up-right line over the back toward the tail, and you take the belly underneath. I'll try not to elbow 
+    (Priya held a thought)
+[  288s] 1:45 asked Tom,Priya | dominoes 17 | calls 22
+    Priya -> everyone: Quick heads-up, you two: the green-ringed start looks like it leads down into Tom's belly line, and Maya's top line starts just above it. I'm not sure the nose actually hands off to both. Maya, can yo
+    (Tom held a thought)
+[  305s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 22 | calls 26
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Priya -> everyone: Okay, the nose wasn't handing off to both lines. I'm adding a new start just behind it and linking it into Maya's top line first. Maya, keep going, you're fine. Tom, hold your belly line and I'll tie 
+    (Maya held a thought)
+    (Tom held a thought)
+[  312s] 2:15 asked Maya,Tom | dominoes 27 | calls 28
+    Tom -> everyone: Thanks Priya, you sort the join, I'll keep rolling round the belly. Shout if it comes out too skinny, I did skip breakfast.
+    (Maya held a thought)
+[  322s] 2:30 asked Priya | dominoes 34 | calls 29
+    Priya -> everyone: Tying the nose into Tom's belly line now. Tom, keep going, don't touch the first few next to the start.
+[  328s] 2:45 asked Tom | dominoes 37 | calls 30
+    Tom -> everyone: Got it, Priya, I'll stay well clear of the first few. Belly's rolling along. If it ends up a bit plump, I'll call it a well-fed fish.
+[  332s] 3:00 asked Priya | dominoes 45 | calls 31
+[  332s] 3:15 asked - | dominoes 49 | calls 31
+[  332s] 3:30 asked - | dominoes 56 | calls 31
+[  339s] 3:45 asked Maya | dominoes 60 | calls 32
+    Maya -> everyone: Top line's over the back now. I'm joining it up to the start of Leo's tail piece, so nobody go near the gap.
+[  349s] 4:00 asked Leo | dominoes 66 | calls 33
+    Leo -> Maya: Got it, Maya. I'll keep clear of the gap and finish the top half of the tail.
+[  353s] 4:15 asked Maya | dominoes 71 | calls 34
+[  353s] 4:30 asked - | dominoes 78 | calls 34
+[  379s] 4:45 asked Tom,Leo | dominoes 83 | calls 37
+    Leo -> everyone: Starting the lower half of the tail now. Tom, your belly line will need to run on over to the start of it.
+    (Tom held a thought)
+[  387s] 5:00 asked Tom,Priya | dominoes 87 | calls 39
+    Tom -> everyone: Got it, Leo. Belly's nearly round, I'll run it over to your piece as soon as this bit's done. Try not to move that first domino of yours, I'm aiming right at it!
+    (Priya held a thought)
+[  393s] 5:15 asked Leo | dominoes 93 | calls 40
+    Leo -> Tom: Won't touch it, Tom. I'll keep going from there.
+[  399s] 5:30 asked Tom | dominoes 97 | calls 41
+    Tom -> Leo: Cheers Leo. Seven more to go, then I'll run it across to yours.
+[  405s] 5:45 asked Leo | dominoes 104 | calls 42
+[  413s] 6:00 asked Maya | dominoes 108 | calls 43
+    Maya -> everyone: Top line's joined up to the tail now. I'm going to have a look over the whole chain from the nose and see where it stops, so shout if you're about to put something down.
+[  423s] 6:15 asked Maya | dominoes 113 | calls 44
+    Maya -> everyone: Heads up, the chain only gets about halfway from the nose, so there's a jam right at the start. I'm going to fix that first bit by the nose. Tom, a few spots in your belly look nudged off line too, so
+[  429s] 6:30 asked Tom,Priya | dominoes 116 | calls 46
+    Priya -> everyone: Maya, I'm still finishing the join right at the nose, nine or so left. Give me a minute there so we don't bump, and take the top line past the head first. Then I'll inspect the whole chain.
+    (Tom held a thought)
