@@ -1,0 +1,282 @@
+[   10s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Tom -> everyone: Right, I was up late so bear with me, but how about a fish? Long body lying across the table, tail on this end. It's an easy shape for a judge to get from a distance. I'll sketch the outline so we're 
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[   21s] 0:15 asked Maya,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Fish works, and it reads well from across the room. I'll take Tom's end as the tail and sketch the outline now, so we're all looking at the same shape. Once it's on the pad, we can split the top and b
+    (Leo held a thought)
+    (Maya held a thought)
+[   33s] 0:30 asked Maya,Tom,Leo | dominoes 1 | calls 10
+    Leo -> everyone: Fish works for me. A long body is what survives a chain best. Tom, is the tail the end nearest this spot? Priya, the outline looks right. Before anyone places anything, can I look at where the tail li
+    (Tom held a thought)
+    (Maya held a thought)
+[   43s] 0:45 asked Maya,Tom,Priya | dominoes 2 | calls 13
+    Tom -> everyone: Yep, tail's the right-hand end, over by that spot. Leo, go ahead and check the fork, that's a good call. Priya, the outline's great. I'm starting the top edge from the nose and running it toward the t
+    (Priya held a thought)
+    (Maya held a thought)
+[   55s] 1:00 asked Maya,Priya,Leo | dominoes 3 | calls 16
+    Maya -> everyone: Tail's the right-hand end, where Leo's pointing. Tom, I'll take the bottom edge from the nose along the lower curve to the tail crossing, and the lower fin after that. I'll wait for Leo's check at the
+    (Priya held a thought)
+    (Leo held a thought)
+[   63s] 1:15 asked Tom,Priya,Leo | dominoes 5 | calls 19
+    Leo -> everyone: Crossing's clean. Nothing standing there to break the fork, and the start chain runs through all of it. Maya, go ahead with the bottom edge. I'll take the upper fin near the tail once Tom's top edge i
+    (Priya held a thought)
+    (Tom held a thought)
+[   74s] 1:30 asked Maya,Tom,Priya | dominoes 6 | calls 22
+    Maya -> Tom: Tom, where exactly is your first domino off the nose? I'm starting the bottom edge just below the start, so I'll line up with yours.
+    Tom -> everyone: Sounds good, Maya. Bottom edge from the nose, and I've got the top. Leo, take your time at the fork. I'm running a bit slow this morning, so if my line wobbles, shout.
+    (Priya held a thought)
+[   85s] 1:45 asked Maya,Tom,Priya,Leo | dominoes 8 | calls 26
+    Maya -> Tom: Tom, bottom edge is going in from just under your start domino now. Shout if it drifts.
+    Leo -> Tom: Will do, Tom. Your top edge is only near the nose so far, so I'll wait until it's past the middle before I start the fin. I'll keep an eye on it.
+    Priya -> everyone: Leo, you've got the upper fin, so I'll stay off the tail. Tom, keep your top edge clean into the junction. I'll stand by for continuity checks and fixes.
+[   94s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 10 | calls 30
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Maya -> Tom: Tom, my bottom edge's first domino is sitting just under your start. I'll join it to your chain once this segment's down.
+    Tom -> Maya,Leo: Top edge is rolling, Maya, I'll shout if it drifts. Leo, I'll call it when I'm past the middle.
+    Priya -> everyone: Tom, I'm going to look over the top edge from the start up to where your hands are. Keep going, I'll shout if anything's off.
+[  102s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 12 | calls 34
+    Maya -> Tom: Tom, bottom edge is still going in under your start. I'll join it into your chain once this run is down.
+    Tom -> Maya: Sounds good, Maya. Shout if my top edge drifts near the start.
+    Priya -> Maya: Maya, the first couple of dominoes on your bottom edge, right by the nose, aren't joined to the start chain. Want me to close that gap, or will you fix it while you're placing?
+[  113s] 2:30 asked Maya,Tom,Leo | dominoes 12 | calls 37
+    Tom -> Maya,Leo: Thanks, Maya. Bottom edge looks fine from here. Leo, I'm not past the middle yet, so hold the fin a bit longer.
+    Leo -> Maya: Maya, the three by the start end, just under the start domino, aren't tied into the chain yet. Do you want to connect them, or shall I?
+    Maya -> everyone: Good catch, Priya. I'll close that gap at the nose now, then carry on along the lower curve.
+[  119s] 2:45 asked Maya,Priya,Leo | dominoes 16 | calls 40
+[  125s] 3:00 asked Priya | dominoes 18 | calls 41
+    Priya -> Maya: Thanks, Maya. Ping me when that nose gap is closed and I'll check the chain from the start.
+[  131s] 3:15 asked Maya | dominoes 21 | calls 42
+    Maya -> Priya: On it, Priya. Three dominoes left on the bridge at the nose. I'll ping you the moment it's closed.
+[  137s] 3:30 asked Priya | dominoes 23 | calls 43
+[  144s] 3:45 asked Maya,Priya,Leo | dominoes 25 | calls 46
+    Maya -> Priya: Bridge at the nose is down, five dominoes. A couple wouldn't fit up by Tom's top edge, so I'm checking it now. Priya, can you look at the join from the start?
+[  155s] 4:00 asked Maya,Priya,Leo | dominoes 26 | calls 49
+    Maya -> Priya: Priya, the nose bridge is down, but the inspection still shows a gap right where it meets the start. I'm closing that now, then I'll ping you to check the join.
+    Priya -> Maya: On it, Maya. Looking at the join from the start to the nose now.
+    Leo -> everyone: Inspection's done. The join out at the end of your top edge is clean, Tom, it's just still growing. Maya's closing the loose ones by the nose. I'm holding the fin until you call the middle.
+[  163s] 4:15 asked Maya,Tom,Priya | dominoes 28 | calls 52
+    Maya -> Priya: Priya, I'm closing the nose gap now. I'll ping you as soon as it's tied in to the start.
+    Priya -> Maya: Maya, go ahead and close that join. Ping me when it's done and I'll check it from the start before anyone else goes near the nose.
+    Tom -> everyone: I'm past the middle now, Leo. Go ahead with the upper fin. I'll keep the top edge running to the fork.
+[  174s] 4:30 asked Maya,Priya,Leo | dominoes 32 | calls 55
+    Leo -> everyone: Tom's past the middle, so I'm starting the upper fin now. It comes off the top edge just ahead of where you're growing, and rises up and back toward the tail. Tom, keep your edge running to the fork a
+[  181s] 4:45 asked Tom,Priya | dominoes 34 | calls 57
+    Tom -> Leo: Got it, Leo. Three more and I'm at the fork.
+    Priya -> Maya: Maya, while you tie the nose in, the turn right where your bridge meets the start chain is too sharp. Ease it over a domino or two so the fall doesn't stall there. Ping me when it's joined and I'll ch
+[  189s] 5:00 asked Maya,Leo | dominoes 37 | calls 59
+    Maya -> Priya: Got it, Priya. I'm easing that turn over a domino or two now, and I'll ping you as soon as it's tied in to the start.
+    Leo -> Tom: Got it, Tom. Fin's going up from just behind your growing end. I'll stay off the line and watch the join when you reach the fork.
+[  196s] 5:15 asked Tom,Priya | dominoes 39 | calls 61
+[  205s] 5:30 asked Tom | dominoes 44 | calls 62
+    Tom -> everyone: I'm running the top edge on to the fork now, Leo. Your fin's clear to come off behind me. I'll call it when I hit the tail.
+[  213s] 5:45 asked Priya,Leo | dominoes 48 | calls 64
+[  221s] 6:00 asked Leo | dominoes 52 | calls 65
+    Leo -> everyone: Tom's clear of the fin, so I'm putting the last domino on the tip now. I'll stay off the tail and call it once it's standing.
+[  229s] 6:15 asked Tom,Priya,Leo | dominoes 55 | calls 68
+    Leo -> everyone: Tip's standing, facing up-right. That's the fin done. I'm off the tail now. Tom, call me when you reach the fork and I'll connect the fin to your end.
+    (Tom held a thought)
+[  236s] 6:30 asked Tom,Priya | dominoes 57 | calls 70
+    Tom -> everyone: Four to go, and I'm running on fumes, so bear with me. Leo, I'll shout when I'm at the tail.
+    Priya -> everyone: Nice, Leo, that tip's standing. I'm holding off the nose until Maya pings me that the join's tied in.
+[  243s] 6:45 asked Maya,Priya,Leo | dominoes 60 | calls 73
+    Maya -> Priya: Still tying the nose in and easing that turn, Priya. I'll ping you the moment it's joined so you can check from the start.
+    Leo -> everyone: Fin's standing, so I'm off the tail. Tom, take your time. Shout when you're at the tail and I'll tie the fin in.
+[  254s] 7:00 asked Tom,Priya,Leo | dominoes 61 | calls 76
+    Tom -> Leo: Leo, I'm at the fork now. Give me a minute to get the last few down, then I'll shout for the tail.
+    Leo -> everyone: Tom, take your time. If anything changes the plan, say it to the table so we all hear it.
+[  261s] 7:15 asked Tom,Priya,Leo | dominoes 63 | calls 79
+    Tom -> everyone: I'm at the fork now. Two or three more down the tail arm, then I'll shout. Leo, your fin stays put until then.
+[  269s] 7:30 asked Priya,Leo | dominoes 64 | calls 81
+    Priya -> Tom: Thanks, Tom. Take your time down the tail, and shout when you're there.
+[  277s] 7:45 asked Tom,Priya,Leo | dominoes 66 | calls 84
+    Tom -> Priya,Leo: Still two or three to go down the tail, Priya. I'll shout the second it's done, Leo.
+    Leo -> everyone: Heads up, all. There's a domino on the top edge, just past the middle, sitting off to one side. It'll stop the chain before the fork. I'm nudging it into line now. I won't go near the tail, Tom.
+[  284s] 8:00 asked Tom,Priya,Leo | dominoes 67 | calls 87
+    Tom -> Leo: Cheers, Leo. Two or three left on the tail, I'll shout when it's down.
+    Leo -> Tom: Got it, Tom. I'm staying off the tail and will tie the fin in when you shout.
+[  291s] 8:15 asked Tom,Priya,Leo | dominoes 69 | calls 90
+    Tom -> Leo: Cheers, Leo. Two or three left on the tail, and I'll shout the moment it's down.
+[  298s] 8:30 asked Priya,Leo | dominoes 70 | calls 92
+    Leo -> Tom: Got it, Tom. I'll tie the fin in when you shout.
+[  305s] 8:45 asked Maya,Tom,Priya | dominoes 72 | calls 95
+    Maya -> Priya: Priya, seven to go on the join, and the turn's easing as I go. I'll ping you the moment it's tied in.
+    Tom -> Leo: Cheers, Leo. Sorry, I've been saying 'two or three' for ages. My hands are free now, so I'm laying the last few down the tail myself and I'll shout the second it's standing.
+[  313s] 9:00 asked Priya,Leo | dominoes 74 | calls 97
+    Leo -> Tom: No bother, Tom. Take your time. I'm just closing up that one domino on the top edge, then I'll keep my hands off until you shout.
+[  320s] 9:15 asked Tom,Priya | dominoes 77 | calls 99
+    Tom -> Leo: Thanks, Leo. One more on the tail, then I'll shout.
+[  328s] 9:30 asked Tom,Leo | dominoes 78 | calls 101
+    Tom -> everyone: Tail's standing, everyone. That's the last one, ending just there at the corner. Leo, you're clear to tie the fin in. I'm stopping here.
+    (Leo held a thought)
+[  338s] 9:45 asked Priya,Leo | dominoes 81 | calls 103
+    Leo -> everyone: Tail's standing, Tom, thanks. Tying the fin in at the fork now. Nobody touch that spot until I'm done.
+    (Priya held a thought)
+[  350s] 10:00 asked Maya,Tom,Priya,Leo | dominoes 82 | calls 107
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Priya: Priya, bridge is up and I'm tying the join into the nose now. About seven to go, and I'll ping you the moment it's connected.
+    Leo -> everyone: Tying the fin in at the fork now. Hands off that spot until I'm done.
+    (Priya held a thought)
+[  361s] 10:15 asked Tom,Priya | dominoes 83 | calls 109
+    Tom -> Maya: Maya, that bottom run's sharp turn down by the right end looks like it's what's cutting it off from the start. Want me to take that bit, or are you on it?
+    Priya -> Tom: Thanks, Tom. That tail's done, so take a breather.
+[  369s] 10:30 asked Maya,Tom | dominoes 86 | calls 111
+    Maya -> everyone: Tom, I'm still in the middle of the nose join, about seven to go, so I can't get to that turn. If you want it, go for it. Just shout before you touch anything near the nose at the left end, so we don'
+[  378s] 10:45 asked Tom,Priya | dominoes 88 | calls 113
+    Tom -> everyone: Maya, I'm taking the sharp turn at the right end and the dip just before it. I'll keep off the nose at the left end, so shout if you need me there.
+[  385s] 11:00 asked Maya,Priya | dominoes 93 | calls 115
+    Priya -> everyone: Leo, the domino on the top edge just before the fork still looks off to one side in my view. Did your nudge take? Once you've tied the fin in, I'll do a quick continuity check along the top and fix an
+[  392s] 11:15 asked Maya,Tom,Leo | dominoes 97 | calls 118
+    Leo -> everyone: Honestly, I haven't confirmed it yet, Priya. I nudged it but didn't check. I'm still mid-join on the fin, so please do the continuity check along the top. If it's still off, tell me and I'll fix it on
+    (Tom held a thought)
+[  399s] 11:30 asked Priya | dominoes 101 | calls 119
+    Priya -> everyone: Leo, no rush. I'm looking along the top now and I'll tell you exactly what's off once you've tied the fin in. Keeping my hands off the fork.
+[  406s] 11:45 asked Priya,Leo | dominoes 106 | calls 121
+    Priya -> everyone: Leo, the continuity check along the top is done. Everything runs clean from the start up to just before the fork, except that one domino sitting off to the side right there. It's the only break I can 
+[  412s] 12:00 asked Leo | dominoes 109 | calls 122
+    Leo -> everyone: Thanks, Priya, that's exactly what I needed. I'll finish tying the fin in, then nudge that domino into line or bridge it if it won't sit. Still keeping off the tail and the nose.
+[  418s] 12:15 asked Priya | dominoes 114 | calls 123
+[  418s] 12:30 asked - | dominoes 118 | calls 123
+[  418s] 12:45 asked - | dominoes 123 | calls 123
+[  418s] 13:00 asked - | dominoes 127 | calls 123
+[  426s] 13:15 asked Maya,Tom,Priya | dominoes 130 | calls 126
+    Maya -> everyone: Heads up, everyone, we're nearly out of spare dominoes. I still need a handful for the nose join and the turn, so please don't use any on extras. Tom, Leo, if you're short, tell me before you take any
+    (Tom held a thought)
+[  436s] 13:30 asked Tom,Priya,Leo | dominoes 130 | calls 129
+    Leo -> Maya: Maya, I'm not taking any spares. I'm working off what's already down on the fin. Shout if you need me to hand anything over.
+    Tom -> everyone: Cheers, Priya. Heads up, everyone: only three dominoes are left. Maya, I'm just closing this sharp turn and the dip with a quick fix, then I'm done and not taking any more. The nose gets first call.
+[  443s] 13:45 asked Maya,Priya | dominoes 130 | calls 131
+    Maya -> everyone: Thanks, Tom. Nose gets the last three, so please leave those for me. I'm carrying on with the join and will ping Priya once it's tied in.
+    (Priya held a thought)
+[  453s] 14:00 asked Tom,Priya | dominoes 130 | calls 133
+    Tom -> everyone: Maya, I'll finish this turn and dip with the fix I've already started, and I'll stop there. If it needs any of the last three, I'll tell you first, so the nose keeps its dominoes.
+    (Priya held a thought)
+[  461s] 14:15 asked Maya,Priya | dominoes 130 | calls 135
+    Priya -> everyone: Sounds good, Tom. Maya gets the last three for the nose, and I'm not touching any dominoes. I'll keep an eye on the top until Leo confirms his fix.
+[  470s] 14:30 asked Maya,Tom,Leo | dominoes 130 | calls 138
+    Tom -> everyone: Fix at the turn is going in now. Once it's done I'm stopping, Maya, so the nose is all yours.
+    Maya -> everyone: Thanks, Priya. The nose has the last three, and I'll ping you as soon as the join is tied in.
+    (Leo held a thought)
+[  478s] 14:45 asked Maya,Priya | dominoes 130 | calls 140
+    Maya -> everyone: Thanks, Tom, that's the turn sorted. I've got the nose from here and I'll ping Priya as soon as it's tied in.
+[  485s] 15:00 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 144
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Turn's sorted, so I'm stopping here. Maya, the nose is all yours, and I'm keeping my hands off everything. Shout if you need a spare pair of hands for anything else.
+    (Leo held a thought)
+[  492s] 15:15 asked Maya,Priya | dominoes 130 | calls 146
+    Maya -> everyone: Thanks, Tom, that's a relief. I've got the nose from here.
+[  498s] 15:30 asked Tom,Priya | dominoes 130 | calls 148
+[  505s] 15:45 asked Leo | dominoes 130 | calls 149
+    Leo -> everyone: Priya, I'm done with the fin, so I'm nudging that side-off domino at the fork into line now. I'm not bridging, because I've got no spares. Still keeping off the tail and the nose.
+[  513s] 16:00 asked Maya,Tom,Priya | dominoes 130 | calls 152
+    Maya -> everyone: Quick look at the nose before I place the last three, so they don't go in the wrong gap. Priya, I'll ping you once it's tied in.
+    (Priya held a thought)
+    (Tom held a thought)
+[  523s] 16:15 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 156
+    Maya -> everyone: Checked the nose. The break is that sharp turn just below the start, and the lower curve isn't connected to it. I'm closing it with my last three now. Priya, I'll ping you once it's tied in.
+    (Leo held a thought)
+    (Priya held a thought)
+[  532s] 16:30 asked Tom,Priya,Leo | dominoes 130 | calls 159
+    Tom -> Leo: Nice one, Leo. I've got no spares either, so I'm staying out of the way. Shout if you want a steady pair of hands.
+    Leo -> everyone: Priya, I've nudged the side-off domino at the fork into line, no bridge, since I've got no spares. Could you check whether the fall carries on past it? I'm having a look at it too.
+    (Priya held a thought)
+[  538s] 16:45 asked Tom,Priya,Leo | dominoes 130 | calls 162
+    Leo -> Tom: Thanks, Tom. I've got no spares to hand over, so I'm checking the fork myself now. If the fall doesn't carry past it, I'll tell Priya rather than bridge.
+    Priya -> everyone: Thanks, Leo. Good, go ahead and finish the nudge. I'm checking the fall through the fork now, and I'm not touching anything else. Maya, the nose is all yours.
+[  553s] 17:00 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 166
+    Maya -> Priya: Still on the join at the turn under the start, Priya. I'll ping you once it's tied in.
+    Leo -> Priya: Priya, I've just looked at the fork myself. The next domino past it still sits off to one side, so I don't think the fall carries through. I haven't touched it and I'm not bridging, since I've got not
+    Priya -> everyone: Leo, I've looked through the fork. The fall doesn't carry on past your nudge: the next domino is still sitting off to the side of its path. Can you give it one more small push so it's square with the 
+[  561s] 17:15 asked Tom,Priya,Leo | dominoes 130 | calls 169
+    Priya -> everyone: Leo, my hands are free, so I'll do the fork nudge myself. You keep off it so we don't both push. I'll check the fall once it's in.
+    (Leo held a thought)
+[  567s] 17:30 asked Tom,Leo | dominoes 130 | calls 171
+    Leo -> everyone: Fine by me, Priya, it's yours. I'm keeping my hands off the fork and the nose.
+[  574s] 17:45 asked Tom,Priya | dominoes 130 | calls 173
+    Priya -> everyone: Leo, thanks, I've got the fork. I'm squaring up the next domino now, and I'll check the fall once it's in.
+[  581s] 18:00 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 177
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Leo, I've got the fork. I'm squaring that domino now, no bridge. Maya, the nose is yours.
+[  587s] 18:15 asked Maya,Tom,Leo | dominoes 130 | calls 180
+[  594s] 18:30 asked Priya | dominoes 130 | calls 181
+    Priya -> everyone: Leo, I've got the fork, so I'm squaring that domino now with no bridge. Maya, the nose is still yours.
+[  601s] 18:45 asked Maya,Tom,Leo | dominoes 130 | calls 184
+[  601s] 19:00 asked - | dominoes 130 | calls 184
+[  601s] 19:15 asked - | dominoes 130 | calls 184
+[  605s] 19:30 asked Priya | dominoes 130 | calls 185
+[  611s] 19:45 asked Tom,Priya,Leo | dominoes 130 | calls 188
+    Priya -> everyone: I'm squaring the fork domino now, no bridge. I'll check the fall once it's in.
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "wall_seconds": 657.2,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a bent line",
+      "domino chain turning at a corner",
+      "dominoes knocked over with a small side piece"
+    ],
+    [
+      "row of fallen dominoes in a chain, viewed from above",
+      "dominoes toppled in a line with a bend to the right",
+      "single long dark stroke or crack on a light background"
+    ],
+    [
+      "line of fallen dominoes bending at a corner",
+      "single freehand pen stroke with a kink",
+      "road or path with a sharp turn"
+    ]
+  ],
+  "placed": 130,
+  "fell": 36,
+  "completion": 0.277,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 99,
+  "messages_by_speaker": {
+    "Tom": 25,
+    "Priya": 22,
+    "Leo": 25,
+    "Maya": 23,
+    "Facilitator": 4
+  },
+  "held_thoughts": 30,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 205,
+    "failed": 0,
+    "input_tokens": 422,
+    "cache_creation_tokens": 1007804,
+    "cache_read_tokens": 553352,
+    "output_tokens": 179815,
+    "seconds": 1422.1,
+    "api_equivalent_usd": 0.297
+  }
+}
