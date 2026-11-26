@@ -5,7 +5,7 @@
 This spec describes a simulation of organizational health using AI agents. It was inspired by an
 offsite exercise in which tables of 10 people built ball runs from cardboard and straws, first per table,
 then joined across tables. The simulation replaces the physical task with **Domino Art**. That task is
-easy to picture, open-ended, and needs real collaboration.
+easy to picture, open-ended, and needs real collaboration. Teams draw an **animal**.
 
 Numbers marked *(tune)* are starting values. The pilot (§10) adjusts them.
 
@@ -39,21 +39,29 @@ not significance tests.
 
 ### 3.1 Brief
 
-> *"Using dominoes, make a picture of **an animal or a logo** for your team. When the time is up, your
+> *"Using dominoes, make a picture of **an animal**. When the time is up, your
 > first domino is pushed. The picture is made of the dominoes that fall."*
 
-The brief is open-ended. Teams choose what to draw and keep it secret. At the end, each team states what
-it intended to draw, and the judge never sees that statement.
+The brief is open-ended: any animal, drawn any way. Teams choose what to draw. At the end, each team
+states which animal it intended, and the judge never sees that statement.
 
 ### 3.2 Rules (the whole rulebook, as the agents see it)
 
-1. The table is a grid of **40 × 28 cells** *(tune)*. You stand a domino in a cell, facing one of 8
-   directions (→ ↘ ↓ ↙ ← ↖ ↑ ↗).
-2. A falling domino knocks over **the domino in the cell it faces**. A domino falls correctly only if it
-   faces **within 45°** of the domino that hit it, so a line can bend by at most 45° per domino.
-   A sharper bend stops the chain.
-3. **Splitters** hit the two cells diagonally ahead, so one line becomes two. Each table has
-   **4 splitters** *(tune)*.
+Positions and angles are **continuous numbers**, not grid cells or a fixed set of directions. Distances
+are measured in **domino heights**: a standing domino is 1 unit tall, so it reaches 1 unit when it falls.
+
+1. The table is **60 × 40 units** *(tune)*. You stand a domino at any position (x, y), facing any angle
+   (0–360°). It falls in the direction it faces.
+2. A falling domino knocks over **any standing domino in its path** *(all limits tune)*:
+   - the other domino is **0.2–0.9 units ahead** of it, measured along its falling direction;
+   - it is **no more than 0.35 units to either side** of that falling line;
+   - it faces **within 40°** of the falling domino's direction.
+
+   The domino it knocks over then falls in *its own* direction, so a line can curve gradually. A sharper
+   turn, or a gap that is too wide, stops the chain.
+3. **Splitting and merging come for free.** A falling domino can knock over two dominoes standing side by
+   side, so one line becomes two. A domino can also be knocked over by two different lines. There are no
+   special pieces.
 4. Each table has **250 dominoes** *(tune)*. The supply is the same whatever the team size.
 5. At the end of the round, **one push** knocks over the team's marked start domino.
 6. **Only dominoes knocked over by the push show in the picture.** Standing dominoes are invisible.
@@ -61,17 +69,20 @@ it intended to draw, and the judge never sees that statement.
    but they break the chain at that point.
 7. The round has a **time limit**: 10 turns of 2 game-minutes each *(tune)*.
 
-### 3.3 Physical realism: errors and bumps
+### 3.3 Physical realism: placement error and bumps
 
 These are the main sources of risk. They make overstaffing hurt physically, not just
 conversationally.
 
-- **Misplacement.** Each domino placed has a small chance (**3%** *(tune)*) of standing slightly off,
-  which leaves a gap. Inspecting finds misplaced dominoes.
-- **Bumping.** Each builder has a chance of bumping for each *other* builder working within 3 cells that
+- **Placement error.** No hand is perfectly steady. Every domino ends up slightly off from where it
+  was intended: about **0.05 units** in position and **3°** in angle (standard deviation) *(tune)*.
+  Spacing in the middle of the allowed range is safe. Spacing or turns near the limits are faster, use
+  fewer dominoes and allow tighter curves, but they sometimes leave a gap that nobody notices without
+  inspecting. Risk is a matter of degree, not a coin flip.
+- **Bumping.** Each builder has a chance of bumping for each *other* builder working within 3 units that
   turn (**6%** each *(tune)*). A bump knocks over a nearby standing domino. It falls forward along its
-  line and keeps going until the line reaches a gap. The fallen dominoes must be stood back up. The
-  risk grows with crowding, which is the overstaffing effect.
+  line, using the same physics, and keeps going until the line reaches a gap. The fallen dominoes must be
+  stood back up. The risk grows with crowding, which is the overstaffing effect.
 - **Safety gaps** (a technique bet). Builders may leave deliberate gaps so that a bump only knocks down
   one segment. Every safety gap must be closed before the push. A gap someone forgets leaves the rest of
   the line standing, so that part of the picture doesn't show.
@@ -80,13 +91,13 @@ conversationally.
 
 Teams **are not told about round 2** until round 1 is over.
 
-- **Rows of 3 tables** are placed left to right, with a **6-column gap strip** between neighboring
+- **Rows of 3 tables** are placed left to right, with a **6-unit-wide gap strip** between neighboring
   tables. The tables are scaled down from the offsite's 5 to keep the number of model calls
   manageable. The gap strips **belong to nobody**.
-- **Goal:** **one push** at table 1 must reveal **all three pictures**, in sequence, **within 300 beats**
-  *(tune)*. A domino falls in one beat. The limit is set so that chaining naively from the end of each
-  picture to the next table's start usually takes too long. Teams have to branch off mid-picture with
-  splitters or take shortcuts, and every table's choices affect the time left for the others.
+- **Goal:** **one push** at table 1 must reveal **all three pictures**, in sequence, **within 30 seconds**
+  *(tune)*. Each domino takes about 0.1 seconds to fall into the next. The limit is set so that chaining naively from the end of each
+  picture to the next table's start usually takes too long. Teams have to branch off mid-picture or take
+  shortcuts, and every table's choices affect the time left for the others.
 - Round-1 pictures stay where they are. Teams may change or take down any part of them, but nothing
   forces them to.
 - **Supply:** each table keeps its leftover dominoes, plus a **shared pool of 60 connector dominoes**
@@ -97,9 +108,10 @@ Teams **are not told about round 2** until round 1 is over.
 
 ### 3.5 Judging (blind)
 
-- The final board is rendered as an image showing **only the fallen dominoes**, drawn as short strokes.
+- The final board is rendered as an image showing **only the fallen dominoes**, each drawn lying flat in
+  the direction it fell.
 - **3 independent judge calls** each see only the image: "What does this picture show? Give your top 3
-  guesses." They see no brief, no intent and no transcript.
+  guesses." They aren't told it's an animal, and they see no brief, no intent and no transcript.
 - **Recognition score:** 1 if the first guess matches the team's stated intent, 0.5 if it appears in the
   top 3, and 0 otherwise. The three judges are averaged. A separate small-model call decides whether a
   guess matches the intent ("fox" vs. "red fox" counts as a match).
@@ -142,9 +154,10 @@ has to be maintained while building.
 
 - The rules, its persona, and its **evaluation condition** (§6).
 - The clock (turn number and turns left) and the remaining supply.
-- **Its own table, in full**, as an ASCII grid of standing dominoes with arrows, plus marks for dominoes
-  fallen from bumps and splitters. Everyone can see the table, but they can't tell who built what unless
-  someone says so.
+- **Its own table, in full**, as an ASCII map with one character per unit, coordinate rulers, an arrow
+  showing roughly which way each domino faces, and marks for dominoes knocked over by bumps. The map is
+  approximate. **Inspect** gives exact positions and angles. Everyone can see the table, but they can't
+  tell who built what unless someone says so.
 - In round 2: a **coarse view** of the other tables, and the detailed view only when visiting.
 - Everything said in conversations it took part in last turn.
 - **Notices** about other activity: "Agent 3 and Agent 7 are talking," "a bump knocked down 9 dominoes
@@ -157,9 +170,9 @@ has to be maintained while building.
 |---|---|---|
 | **Talk** | audience: `everyone` or named agents; message | Starts or joins a conversation. **Everyone addressed is pulled in and spends the turn in it, even if they meant to build.** |
 | **Listen** | — | Joins the table-wide conversation without speaking |
-| **Build** | up to **8 dominoes** *(tune)*: cell, direction, optional splitter or start mark | Places or re-stands dominoes; subject to misplacement and bump rolls |
-| **Take down** | an area or list of cells | Removes up to **12 dominoes**, whoever built them; they return to the supply |
-| **Inspect** | an area | Reports misplaced dominoes, unclosed gaps and chain breaks in that area |
+| **Build** | up to **8 dominoes** *(tune)*, described as strokes: a single domino (x, y, angle); a straight line (from, to, spacing); or an arc (centre, radius, start and end angle, spacing). Optional start mark | Places or re-stands dominoes. Dominoes in a line or arc face along the stroke automatically. Each one gets placement error, and the builder may bump others |
+| **Take down** | an area (rectangle or circle) | Removes up to **12 dominoes**, whoever built them; they return to the supply |
+| **Inspect** | an area | Lists exact positions and angles there, and flags pairs that wouldn't knock each other over: gaps, sharp turns, safety gaps not yet closed |
 | **Visit** (round 2) | another table or a gap strip | The agent spends the turn there: it sees it in detail and can talk or build there |
 | **Wait** | — | Nothing |
 
@@ -171,7 +184,7 @@ has to be maintained while building.
    **up to 2 exchanges**. In the first exchange, speakers' messages are shown in random order. Then
    every member, including those pulled in, gets one reply call. People outside a conversation see only
    that it happened.
-3. **Take downs**, then **builds** (rolling for misplacement and bumps), then **inspections**.
+3. **Take downs**, then **builds** (applying placement error and rolling for bumps), then **inspections**.
 4. **Notices** are generated, and everything is logged with who did what.
 
 ---
@@ -204,7 +217,7 @@ bonus this cycle. You care about your career."*
 
 **True contribution** is used to check whether reviews are accurate. The simulator knows it exactly:
 - **Built:** dominoes the agent placed that fell in the final push.
-- **Unlocked:** dominoes downstream of gaps, misplacements or safety gaps that the agent fixed, if
+- **Unlocked:** dominoes downstream of gaps or safety gaps that the agent fixed, if
   they fell in the final push.
 - **Connectors:** connector dominoes the agent built in round 2.
 
@@ -212,7 +225,7 @@ bonus this cycle. You care about your career."*
 
 ## 7. Experiments, mapped to blog posts
 
-Each cell has 5 runs *(tune)*. Runs are reused across experiments wherever the conditions match; for
+Each combination has 5 runs *(tune)*. Runs are reused across experiments wherever the conditions match; for
 example, E1's 4- and 10-person no-evaluation runs are the baselines for E3 and E5.
 
 | # | Experiment | Conditions | Blog post |
@@ -229,7 +242,7 @@ A first post, *The offsite*, introduces the exercise and the setup and needs no 
 
 **Outcome**
 - Completion, recognition and team score (round 1).
-- In round 2: row success, pictures revealed, and beats used.
+- In round 2: row success, pictures revealed, and seconds used.
 
 **Time use**
 - Share of agent-turns spent on each action.
@@ -247,7 +260,7 @@ A first post, *The offsite*, introduces the exercise and the setup and needs no 
 - Dominoes knocked down by bumps.
 - Dominoes taken down (own work vs. others').
 - Duplicate work: dominoes built but never revealed.
-- Edit wars: the same cells built and taken down repeatedly.
+- Edit wars: the same spot built and taken down repeatedly.
 
 **Glue work.** The share of turns spent on:
 - inspecting;
@@ -296,7 +309,7 @@ makes clear which charts come from which source.
 
 1. **Engine and scripted agents.** Build the domino physics, rendering, turn resolution and logging, and
    test them with simple scripted agents (no AI).
-2. **Calibration with scripted agents.** Tune the grid size, supply, dominoes per build and bump rate so
+2. **Calibration with scripted agents.** Tune the table size, hit limits, placement error, supply, dominoes per build and bump rate so
    that one person can finish only a simple picture, four people can finish a good one, and ten people
    can finish it in principle but face real crowding.
 3. **One real run of 4 agents.** Measure calls, time, and Pro-plan usage per run. Check that agents
@@ -332,7 +345,7 @@ makes clear which charts come from which source.
 
 ```
 orgsim/
-  dominoes.py     grid, physics, bumps, misplacement, push and topple, timing
+  dominoes.py     continuous positions and angles, hit physics, placement error, bumps, push and topple, timing
   render.py       ASCII board views (for agents), images and animations (for judges and the blog)
   game.py         turn loop, conversations, action resolution, round 1 and 2, logging
   agents/
@@ -352,10 +365,11 @@ The existing MarbleGrid prototype (`orgsim/marble.py`, `orgsim/solver.py`) will 
 
 ## 14. Defaults I chose (please confirm or change)
 
-- Grid 40 × 28, 250 dominoes, 4 splitters, 8 dominoes per build, 3% misplacement, 6% bump chance per
-  nearby builder.
-- Round 1: 10 turns of 2 game-minutes. Round 2: 6 turns, a 300-beat limit, 60 shared connector
-  dominoes, a 6-column gap strip.
+- Table 60 × 40 units (1 unit = 1 domino height); a domino knocks over others 0.2–0.9 units ahead,
+  within 0.35 units to the side and 40° of its angle; placement error 0.05 units and 3°.
+- 250 dominoes, 8 dominoes per build, 6% bump chance per nearby builder.
+- Round 1: 10 turns of 2 game-minutes. Round 2: 6 turns, a 30-second limit, 60 shared connector
+  dominoes, a 6-unit-wide gap strip.
 - Rows of 3 tables in round 2 (scaled down from 5).
 - 5 runs per condition.
 - Up to 2 exchanges per conversation per turn.
