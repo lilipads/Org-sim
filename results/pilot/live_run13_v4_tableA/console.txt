@@ -89,3 +89,7 @@
 [  393s] 9:45 asked Maya,Leo | dominoes 156 | calls 64
     Maya -> Leo: Thanks Leo. I'll finish the nose, then look at the lower row and the arms at the tail.
     Leo -> everyone: Maya, Tom, I'm staying out of your way. Once the nose and the belly are both hooked in, shout and I'll check what still doesn't fall. The little loose line under the mouth is the one I'd look at next.
+[  400s] 10:00 asked Maya,Tom,Priya,Leo | dominoes 160 | calls 68
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Top curve's standing again, I'm just finishing the hookup into the top line. Then I'll inspect the whole run from the start.
+    (Leo held a thought)
