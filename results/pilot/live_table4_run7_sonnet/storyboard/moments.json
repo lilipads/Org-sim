@@ -1,0 +1,700 @@
+[
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment01.png",
+  "from": 0,
+  "to": 120.0,
+  "clock": "1:45",
+  "said": [
+   {
+    "clock": "0:00",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Okay, quick idea so we don't drift: something with a really distinctive outline. A fish? Big body, forked tail, one eye. Easy to chain in one loop. I'll sketch it, and shout if you'd rather do something else.",
+    "pointing": false
+   },
+   {
+    "clock": "0:15",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Fish works for me, Priya, that was what I was about to say! Go ahead and sketch it. Once we see where the head and tail sit, I'll grab the top edge of the body, and someone else can take the bottom and the tail.",
+    "pointing": false
+   },
+   {
+    "clock": "0:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Okay, here's the fish. Head on the left, tail on the right. Let's start at the nose so the line splits along the top and bottom of the body, then both meet at the tail fork. Maya, take the top edge like you said. Tom, you're nearest the head, so take the bottom edge. Leo, the forked tail. I'll do the eye and mouth. Shout if the shape looks off.",
+    "pointing": true
+   },
+   {
+    "clock": "0:45",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Ha, sorry, I had the fish facing the wrong way round in my sleepy head. Fish for the bottom edge, got it. I'll pull my strays out of the corner and start at the nose, like you said, Priya.",
+    "pointing": true
+   },
+   {
+    "clock": "1:00",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Maya, you're already at the nose, so make that first domino the start and split top and bottom from there. Tom, bottom edge goes from the same spot. I'll leave the eye until your lines are down, then branch it off the top line.",
+    "pointing": true
+   },
+   {
+    "clock": "1:15",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Right, bottom edge from the nose, round the belly toward the tail. Maya, you've got the start domino, yeah? Nothing's ringed green yet. I'll try not to elbow you, we're sharing the nose.",
+    "pointing": false
+   },
+   {
+    "clock": "1:30",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Yep Tom, the start's right there at the nose, I can see it ringed. I'm carrying on from my little up-right line over the back toward the tail, and you take the belly underneath. I'll try not to elbow you either!",
+    "pointing": true
+   },
+   {
+    "clock": "1:45",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Quick heads-up, you two: the green-ringed start looks like it leads down into Tom's belly line, and Maya's top line starts just above it. I'm not sure the nose actually hands off to both. Maya, can you keep going? I'll check the join right now and fix it if it's broken. Keep a bit of distance after the first few so nobody gets bumped.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Tom": 7,
+   "Maya": 6,
+   "Leo": 7
+  },
+  "took_down": {
+   "Tom": 3
+  },
+  "bumps": 0,
+  "dominoes_standing": 17,
+  "hands": {
+   "Maya": [
+    7.6,
+    7.7
+   ],
+   "Leo": [
+    22.0,
+    7.0
+   ],
+   "Tom": [
+    7.0,
+    11.8
+   ],
+   "Priya": [
+    7.0,
+    9.8
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment02.png",
+  "from": 119.999999999,
+  "to": 240.0,
+  "clock": "3:45",
+  "said": [
+   {
+    "clock": "2:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.",
+    "pointing": false
+   },
+   {
+    "clock": "2:00",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Okay, the nose wasn't handing off to both lines. I'm adding a new start just behind it and linking it into Maya's top line first. Maya, keep going, you're fine. Tom, hold your belly line and I'll tie it in right after.",
+    "pointing": true
+   },
+   {
+    "clock": "2:15",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Thanks Priya, you sort the join, I'll keep rolling round the belly. Shout if it comes out too skinny, I did skip breakfast.",
+    "pointing": false
+   },
+   {
+    "clock": "2:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Tying the nose into Tom's belly line now. Tom, keep going, don't touch the first few next to the start.",
+    "pointing": true
+   },
+   {
+    "clock": "2:45",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Got it, Priya, I'll stay well clear of the first few. Belly's rolling along. If it ends up a bit plump, I'll call it a well-fed fish.",
+    "pointing": false
+   },
+   {
+    "clock": "3:45",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Top line's over the back now. I'm joining it up to the start of Leo's tail piece, so nobody go near the gap.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Maya": 11,
+   "Tom": 10,
+   "Leo": 12,
+   "Priya": 10
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 60,
+  "hands": {
+   "Maya": [
+    13.3,
+    6.0
+   ],
+   "Tom": [
+    11.2,
+    13.3
+   ],
+   "Priya": [
+    9.6,
+    9.2
+   ],
+   "Leo": [
+    25.1,
+    8.3
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment03.png",
+  "from": 239.999999999,
+  "to": 360.0,
+  "clock": "5:45",
+  "said": [
+   {
+    "clock": "4:00",
+    "speaker": "Leo",
+    "to": [
+     "Maya"
+    ],
+    "text": "Got it, Maya. I'll keep clear of the gap and finish the top half of the tail.",
+    "pointing": false
+   },
+   {
+    "clock": "4:45",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Starting the lower half of the tail now. Tom, your belly line will need to run on over to the start of it.",
+    "pointing": true
+   },
+   {
+    "clock": "5:00",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Got it, Leo. Belly's nearly round, I'll run it over to your piece as soon as this bit's done. Try not to move that first domino of yours, I'm aiming right at it!",
+    "pointing": true
+   },
+   {
+    "clock": "5:15",
+    "speaker": "Leo",
+    "to": [
+     "Tom"
+    ],
+    "text": "Won't touch it, Tom. I'll keep going from there.",
+    "pointing": false
+   },
+   {
+    "clock": "5:30",
+    "speaker": "Tom",
+    "to": [
+     "Leo"
+    ],
+    "text": "Cheers Leo. Seven more to go, then I'll run it across to yours.",
+    "pointing": false
+   }
+  ],
+  "built": {
+   "Maya": 12,
+   "Tom": 11,
+   "Priya": 11,
+   "Leo": 10
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 104,
+  "hands": {
+   "Maya": [
+    18.5,
+    9.1
+   ],
+   "Tom": [
+    16.2,
+    13.3
+   ],
+   "Priya": [
+    10.0,
+    5.9
+   ],
+   "Leo": [
+    21.2,
+    12.8
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment04.png",
+  "from": 359.999999999,
+  "to": 480.0,
+  "clock": "7:45",
+  "said": [
+   {
+    "clock": "6:00",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Top line's joined up to the tail now. I'm going to have a look over the whole chain from the nose and see where it stops, so shout if you're about to put something down.",
+    "pointing": false
+   },
+   {
+    "clock": "6:15",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Heads up, the chain only gets about halfway from the nose, so there's a jam right at the start. I'm going to fix that first bit by the nose. Tom, a few spots in your belly look nudged off line too, so give it a once-over. Priya, the top line near the head looks squashed in a couple of places.",
+    "pointing": true
+   },
+   {
+    "clock": "6:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Maya, I'm still finishing the join right at the nose, nine or so left. Give me a minute there so we don't bump, and take the top line past the head first. Then I'll inspect the whole chain.",
+    "pointing": true
+   },
+   {
+    "clock": "6:45",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Okay Priya, I'll leave the nose to you. I'm going to look at the top line past the head, up by the back of the head, and see where it stops.",
+    "pointing": true
+   },
+   {
+    "clock": "7:00",
+    "speaker": "Priya",
+    "to": [
+     "Maya"
+    ],
+    "text": "Thanks Maya, I'll stay on the nose. Shout if the top line near the head still looks off once you've had a look.",
+    "pointing": false
+   },
+   {
+    "clock": "7:00",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Found the jam up by the back of the head, one domino's wedged in too close. I'm fixing that spot now, so give me a sec there.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Tom": 7,
+   "Priya": 8,
+   "Leo": 9,
+   "Maya": 3
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 130,
+  "hands": {
+   "Priya": [
+    6.2,
+    7.6
+   ],
+   "Leo": [
+    25.4,
+    13.4
+   ],
+   "Maya": [
+    12.4,
+    4.9
+   ],
+   "Tom": [
+    19.5,
+    11.0
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment05.png",
+  "from": 479.999999999,
+  "to": 600.0,
+  "clock": "9:45",
+  "said": [
+   {
+    "clock": "8:30",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "I'm out of dominoes, so I'll run an inspection over the whole chain from the start and report back on where it stops.",
+    "pointing": false
+   },
+   {
+    "clock": "8:45",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Inspection's back. From the nose the fall only carries through about half the dominoes. Three things stop it. First, the belly has two spots on the bottom run where a domino sits off to the side, one under the head and one a bit further along. Tom, that's yours. Second, where the belly meets the start of my tail piece, the line turns too sharply and Tom's end is still hanging. Tom, that join needs a gentler run in. Third, ...",
+    "pointing": false
+   },
+   {
+    "clock": "9:00",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Thanks Leo, heard you. I'm still running the belly across to your piece, ten or so left, and I'll make the last stretch a gentler curve. Then I'll go back along the bottom run and straighten those two wonky ones. Sorry, the belly's clearly had a few too many snacks.",
+    "pointing": true
+   },
+   {
+    "clock": "9:15",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Thanks Tom, that sounds right. I got cut off earlier: the third thing is the top line near the head. A couple of pieces there aren't joined to the chain, so Priya, that's one for you once the nose is done. Nothing for me to fix on the tail. I'm out of dominoes, so I'll give it a couple of minutes and then run another inspection.",
+    "pointing": false
+   },
+   {
+    "clock": "9:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Got it, Leo. One domino left on the nose, then I'll go straight to the top line near the head and join those loose pieces. Tom, go ahead and straighten the belly.",
+    "pointing": true
+   },
+   {
+    "clock": "9:45",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Will do, Priya. Just finishing the last few on the join to Leo's piece, then I'll go back along the belly and nudge those two wonky ones straight.",
+    "pointing": false
+   }
+  ],
+  "built": {
+   "Leo": 1,
+   "Maya": 1
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 130,
+  "hands": {}
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment06.png",
+  "from": 599.999999999,
+  "to": 720.0,
+  "clock": "11:45",
+  "said": [
+   {
+    "clock": "10:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   },
+   {
+    "clock": "10:00",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Nose is finished. I'm checking the top line by the head now, Maya, I'll shout if I need a hand there.",
+    "pointing": true
+   },
+   {
+    "clock": "10:15",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Okay, I only freed up a single domino, so I'll run an inspection over the whole chain and see where it still stops. Priya, Tom, carry on, I'll shout if I find something.",
+    "pointing": false
+   },
+   {
+    "clock": "10:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Maya, I'm on the join just past the head and the loose top piece next to it, so give me a bit of room there. Shout what the inspection finds.",
+    "pointing": true
+   },
+   {
+    "clock": "10:45",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Inspection's back, nothing new beyond what Leo found. Two wonky ones on the bottom run, the sharp join where the belly meets the tail, and a couple of loose bits up by the head. Tom, I'm free and far from you, so I'll straighten the wonky ones on the left of the belly. You can stay on the join.",
+    "pointing": true
+   },
+   {
+    "clock": "11:00",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Cheers Maya. The join's done, so I'll take the wonky one further along the belly and you've got the one on the left. Shout if I'm in your way.",
+    "pointing": true
+   },
+   {
+    "clock": "11:15",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Inspection's back, and it's still about half. Four things left. One: the jammed domino up by the back of the head, still too close. Priya, that's yours. Two: where the belly meets the tail, the turn is still too sharp. Tom, that's still open. Three: the top line coming down into the tail has a gap right at the dip, with a couple of strays sitting loose in it. Whoever finishes first, please bridge that, since it feeds the upper ...",
+    "pointing": true
+   },
+   {
+    "clock": "11:30",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Leo, I'll sort that dip. I'm lifting the two strays sitting loose in it so I can use them to bridge the gap, then I'll look at the sharp turn in the belly.",
+    "pointing": true
+   },
+   {
+    "clock": "11:45",
+    "speaker": "Maya",
+    "to": [
+     "Tom"
+    ],
+    "text": "Tom, heads up, I just nudged one into line at the dip a second ago, so have a quick look before you lift those strays. I'll inspect it now and tell you if it's still open.",
+    "pointing": true
+   },
+   {
+    "clock": "11:45",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Strays are up, bridging the dip now. Then I'll go and have a word with that sulky turn in the belly.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Tom": 3,
+   "Maya": 3,
+   "Priya": 2
+  },
+  "took_down": {
+   "Maya": 2,
+   "Tom": 2
+  },
+  "bumps": 0,
+  "dominoes_standing": 130,
+  "hands": {
+   "Maya": [
+    18.0,
+    10.5
+   ],
+   "Tom": [
+    17.8,
+    10.2
+   ],
+   "Leo": [
+    15.0,
+    10.0
+   ],
+   "Priya": [
+    13.3,
+    2.6
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment07.png",
+  "from": 719.999999999,
+  "to": 840.0,
+  "clock": "13:45",
+  "said": [
+   {
+    "clock": "12:00",
+    "speaker": "Maya",
+    "to": [
+     "Tom"
+    ],
+    "text": "Tom, I looked at that stretch. The dip is yours now, I'll stay out. The sharp turn is where the belly comes up into the tail, and there's one domino right at the join pointing straight up. That's probably what's catching it. You could lift it and use it to smooth the curve.",
+    "pointing": true
+   },
+   {
+    "clock": "12:00",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Okay, the dip looks closed to me now, Maya's nudge did the job. I'm off to have a word with that sulky turn in the belly.",
+    "pointing": true
+   },
+   {
+    "clock": "12:15",
+    "speaker": "Tom",
+    "to": "everyone",
+    "text": "Right, Maya's spotted the culprit, one little domino standing there pointing at the ceiling. Lifting it now, then I'll round off the corner.",
+    "pointing": true
+   },
+   {
+    "clock": "12:15",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Thanks Tom. I'll run another inspection now that the dip is closed and report back.",
+    "pointing": false
+   },
+   {
+    "clock": "12:30",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Inspection's back, still about half. The bigger problem is that the whole belly and tail, close to fifty dominoes, aren't connected to the start at all. It looks like the belly's first few dominoes by the start don't get hit from the nose line. Tom, Maya, can one of you look at that join down by the start? Up top, Priya, the jam near the back of the head is still there, and the little pieces by the top are ...",
+    "pointing": true
+   },
+   {
+    "clock": "12:45",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Leo, good catch, that's the big one. Maya, can you take the join down by the start? Where the belly begins just under the nose, use a fix or a connect so the first start dominoes actually hit it. Tom, stay on the belly turn. I've got three left on my bridge, then I'm on the jam at the back of the head.",
+    "pointing": true
+   },
+   {
+    "clock": "13:00",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Got it, I'll take the join by the start. Tom, stay on the belly turn. I'm nudging the first belly dominoes into line now.",
+    "pointing": true
+   },
+   {
+    "clock": "13:15",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Maya, I looked closely at the join. It's still not connected: the first couple of belly dominoes just under the start line aren't getting hit by anything. The simplest fix is a connect from the start line, just after the first or second domino, down into the top of the belly. Tell me when you've done it and I'll inspect again.",
+    "pointing": true
+   },
+   {
+    "clock": "13:30",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Leo, thanks, I'll do that connect. I'm out of dominoes though, so I'm lifting the four loose strays up by the top to use them. Priya, shout if you need those.",
+    "pointing": true
+   },
+   {
+    "clock": "13:45",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Maya, Leo's right, a connect from just after the first start domino down into the top of the belly should do it. I've got a couple of dominoes freed up, so I'm clearing the jam at the back of the head now.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Tom": 3,
+   "Priya": 3,
+   "Maya": 1
+  },
+  "took_down": {
+   "Tom": 2,
+   "Maya": 4,
+   "Priya": 2
+  },
+  "bumps": 0,
+  "dominoes_standing": 128,
+  "hands": {
+   "Leo": [
+    7.0,
+    10.8
+   ],
+   "Maya": [
+    6.2,
+    9.4
+   ],
+   "Priya": [
+    12.3,
+    6.0
+   ],
+   "Tom": [
+    19.9,
+    7.6
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment08.png",
+  "from": 839.999999999,
+  "to": 960.0,
+  "clock": "15:45",
+  "said": [
+   {
+    "clock": "14:00",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "Okay, I've got a few dominoes now. Doing the connect from the start line down into the top of the belly. Leo, I'll tell you when it's done so you can inspect.",
+    "pointing": true
+   },
+   {
+    "clock": "15:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   },
+   {
+    "clock": "15:00",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Five minutes. I'll run an inspection on the whole chain now, to see if Maya's connect at the start took.",
+    "pointing": true
+   },
+   {
+    "clock": "15:15",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Inspection's back, and it's not good. Still only about half falls. Maya, the connect at the start didn't take. The first belly domino right under the start is still sitting off to the side of the line, so the belly and tail, about fifty dominoes, never get hit. That's the one that matters now. Nudge that first belly domino back into line, or bridge straight from the second start domino. Priya, the jam at the back of the head is ...",
+    "pointing": true
+   },
+   {
+    "clock": "15:30",
+    "speaker": "Priya",
+    "to": "everyone",
+    "text": "Maya, Leo's right, that's the one that matters. Do a fix right on that first belly domino under the start, nudge it into line. If it won't sit, bridge from the second start domino. Leo, inspect again the second she says done. I'll keep finishing the bridge at the back of the head.",
+    "pointing": true
+   },
+   {
+    "clock": "15:45",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Priya, Maya hasn't said done yet, but with four minutes left I'm inspecting the start join now. Maya, I'll keep my hands off the dominoes so we don't bump each other. I'll tell you what I see.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Maya": 1,
+   "Tom": 1
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 130,
+  "hands": {
+   "Leo": [
+    8.0,
+    10.5
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run7_sonnet/storyboard/moment09.png",
+  "from": 959.999999999,
+  "to": 1200.0,
+  "clock": "19:45",
+  "said": [
+   {
+    "clock": "16:00",
+    "speaker": "Leo",
+    "to": "everyone",
+    "text": "Maya, inspection's back. The join still isn't made. The first belly domino just under the start is still sitting off to the side, so about fifty dominoes won't fall. Put a fix right on that one, and if it won't sit, bridge from the second start domino. I'll check again the moment you say done. The upper line near the back of the head is the next priority after that.",
+    "pointing": true
+   },
+   {
+    "clock": "16:15",
+    "speaker": "Maya",
+    "to": "everyone",
+    "text": "On it, Leo. The connect's still going, I'll shout the second it's done, then you can inspect. If that first one still sits off, I'll fix it right there.",
+    "pointing": true
+   },
+   {
+    "clock": "18:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   }
+  ],
+  "built": {},
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 130,
+  "hands": {}
+ }
+]

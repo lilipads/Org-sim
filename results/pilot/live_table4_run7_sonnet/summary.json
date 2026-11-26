@@ -1,0 +1,62 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1119.4,
+  "intents": {
+    "Maya": "",
+    "Tom": "",
+    "Priya": "",
+    "Leo": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 130,
+  "fell": 65,
+  "completion": 0.5,
+  "team_score": 0.0,
+  "first_domino_at": "0:15",
+  "messages": 60,
+  "messages_by_speaker": {
+    "Priya": 14,
+    "Maya": 15,
+    "Tom": 13,
+    "Facilitator": 4,
+    "Leo": 14
+  },
+  "held_thoughts": 47,
+  "parse_failures": {
+    "Maya": 2,
+    "Tom": 4,
+    "Priya": 3,
+    "Leo": 4
+  },
+  "usage": {
+    "calls": 166,
+    "failed": 40,
+    "input_tokens": 252,
+    "cache_creation_tokens": 620974,
+    "cache_read_tokens": 342480,
+    "output_tokens": 82997,
+    "seconds": 1607.4,
+    "api_equivalent_usd": 3.3486
+  }
+}
