@@ -1,0 +1,334 @@
+{
+ "games": [
+  {
+   "game": "haiku_A_s1",
+   "size": 4,
+   "people": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+   ],
+   "recognition": 0.833,
+   "recognized": true,
+   "recognition_if_all_fell": 0.833,
+   "completion": 1.0,
+   "standing_at_push": 105,
+   "fell": 105,
+   "first_domino_at": "0:30",
+   "words_total": 1482,
+   "words_per_person": 370.5,
+   "messages_total": 52,
+   "share_hands_busy": 0.163,
+   "share_waiting": 0.031,
+   "share_hands_free": 0.806,
+   "dominoes_laid": 117,
+   "laid_per_person": 29.2,
+   "top_builder_share": 0.368,
+   "people_laying_under_10": 0,
+   "lifted": 0,
+   "lifted_someone_elses": 0,
+   "bumps": 0,
+   "knocked_by_bumps": 0,
+   "inspections": 33,
+   "per_person": {
+    "Maya": {
+     "words": 253,
+     "laid": 42,
+     "lifted": 0,
+     "inspections": 6,
+     "beats": {
+      "hands free": 27,
+      "waiting": 5,
+      "hands busy": 8
+     }
+    },
+    "Tom": {
+     "words": 176,
+     "laid": 11,
+     "lifted": 0,
+     "inspections": 7,
+     "beats": {
+      "hands free": 36,
+      "hands busy": 4
+     }
+    },
+    "Priya": {
+     "words": 284,
+     "laid": 43,
+     "lifted": 0,
+     "inspections": 12,
+     "beats": {
+      "hands free": 33,
+      "hands busy": 7
+     }
+    },
+    "Leo": {
+     "words": 769,
+     "laid": 21,
+     "lifted": 0,
+     "inspections": 8,
+     "beats": {
+      "hands free": 33,
+      "hands busy": 7
+     }
+    }
+   },
+   "beat_seconds": 15.0
+  },
+  {
+   "game": "haiku_A_s2",
+   "size": 4,
+   "people": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+   ],
+   "recognition": 1.0,
+   "recognized": true,
+   "recognition_if_all_fell": 1.0,
+   "completion": 0.732,
+   "standing_at_push": 168,
+   "fell": 123,
+   "first_domino_at": "0:45",
+   "words_total": 2727,
+   "words_per_person": 681.8,
+   "messages_total": 97,
+   "share_hands_busy": 0.237,
+   "share_waiting": 0.062,
+   "share_hands_free": 0.7,
+   "dominoes_laid": 174,
+   "laid_per_person": 43.5,
+   "top_builder_share": 0.454,
+   "people_laying_under_10": 0,
+   "lifted": 0,
+   "lifted_someone_elses": 0,
+   "bumps": 0,
+   "knocked_by_bumps": 0,
+   "inspections": 33,
+   "per_person": {
+    "Maya": {
+     "words": 774,
+     "laid": 79,
+     "lifted": 0,
+     "inspections": 7,
+     "beats": {
+      "hands free": 21,
+      "hands busy": 19
+     }
+    },
+    "Tom": {
+     "words": 460,
+     "laid": 22,
+     "lifted": 0,
+     "inspections": 5,
+     "beats": {
+      "hands free": 25,
+      "waiting": 10,
+      "hands busy": 5
+     }
+    },
+    "Priya": {
+     "words": 803,
+     "laid": 43,
+     "lifted": 0,
+     "inspections": 14,
+     "beats": {
+      "hands free": 34,
+      "hands busy": 6
+     }
+    },
+    "Leo": {
+     "words": 690,
+     "laid": 30,
+     "lifted": 0,
+     "inspections": 7,
+     "beats": {
+      "hands free": 32,
+      "hands busy": 8
+     }
+    }
+   },
+   "beat_seconds": 15.0
+  },
+  {
+   "game": "haiku_B_s1",
+   "size": 4,
+   "people": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+   ],
+   "recognition": 1.0,
+   "recognized": true,
+   "recognition_if_all_fell": 1.0,
+   "completion": 1.0,
+   "standing_at_push": 111,
+   "fell": 111,
+   "first_domino_at": "0:45",
+   "words_total": 2249,
+   "words_per_person": 562.2,
+   "messages_total": 79,
+   "share_hands_busy": 0.237,
+   "share_waiting": 0.194,
+   "share_hands_free": 0.569,
+   "dominoes_laid": 121,
+   "laid_per_person": 30.2,
+   "top_builder_share": 0.322,
+   "people_laying_under_10": 0,
+   "lifted": 0,
+   "lifted_someone_elses": 0,
+   "bumps": 0,
+   "knocked_by_bumps": 0,
+   "inspections": 17,
+   "per_person": {
+    "Sofia": {
+     "words": 1045,
+     "laid": 39,
+     "lifted": 0,
+     "inspections": 12,
+     "beats": {
+      "hands free": 28,
+      "hands busy": 12
+     }
+    },
+    "Omar": {
+     "words": 285,
+     "laid": 37,
+     "lifted": 0,
+     "inspections": 0,
+     "beats": {
+      "hands free": 24,
+      "hands busy": 16
+     }
+    },
+    "Hana": {
+     "words": 521,
+     "laid": 15,
+     "lifted": 0,
+     "inspections": 4,
+     "beats": {
+      "hands free": 16,
+      "hands busy": 4,
+      "waiting": 20
+     }
+    },
+    "Jack": {
+     "words": 398,
+     "laid": 30,
+     "lifted": 0,
+     "inspections": 1,
+     "beats": {
+      "hands free": 23,
+      "waiting": 11,
+      "hands busy": 6
+     }
+    }
+   },
+   "beat_seconds": 15.0
+  },
+  {
+   "game": "haiku_B_s2",
+   "size": 4,
+   "people": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+   ],
+   "recognition": 1.0,
+   "recognized": true,
+   "recognition_if_all_fell": 1.0,
+   "completion": 1.0,
+   "standing_at_push": 115,
+   "fell": 115,
+   "first_domino_at": "0:45",
+   "words_total": 1688,
+   "words_per_person": 422.0,
+   "messages_total": 53,
+   "share_hands_busy": 0.144,
+   "share_waiting": 0.037,
+   "share_hands_free": 0.819,
+   "dominoes_laid": 115,
+   "laid_per_person": 28.8,
+   "top_builder_share": 0.478,
+   "people_laying_under_10": 1,
+   "lifted": 0,
+   "lifted_someone_elses": 0,
+   "bumps": 0,
+   "knocked_by_bumps": 0,
+   "inspections": 38,
+   "per_person": {
+    "Sofia": {
+     "words": 615,
+     "laid": 20,
+     "lifted": 0,
+     "inspections": 13,
+     "beats": {
+      "hands free": 36,
+      "hands busy": 4
+     }
+    },
+    "Omar": {
+     "words": 327,
+     "laid": 55,
+     "lifted": 0,
+     "inspections": 0,
+     "beats": {
+      "hands free": 20,
+      "waiting": 6,
+      "hands busy": 14
+     }
+    },
+    "Hana": {
+     "words": 496,
+     "laid": 40,
+     "lifted": 0,
+     "inspections": 11,
+     "beats": {
+      "hands free": 35,
+      "hands busy": 5
+     }
+    },
+    "Jack": {
+     "words": 250,
+     "laid": 0,
+     "lifted": 0,
+     "inspections": 14,
+     "beats": {
+      "hands free": 40
+     }
+    }
+   },
+   "beat_seconds": 15.0
+  }
+ ],
+ "by_size": {
+  "4": {
+   "recognition": 0.958,
+   "completion": 0.933,
+   "standing_at_push": 124.75,
+   "fell": 113.5,
+   "words_total": 2036.5,
+   "words_per_person": 509.125,
+   "messages_total": 70.25,
+   "share_hands_busy": 0.195,
+   "share_waiting": 0.081,
+   "share_hands_free": 0.724,
+   "dominoes_laid": 131.75,
+   "laid_per_person": 32.925,
+   "top_builder_share": 0.405,
+   "people_laying_under_10": 0.25,
+   "lifted": 0,
+   "lifted_someone_elses": 0,
+   "bumps": 0,
+   "knocked_by_bumps": 0,
+   "inspections": 30.25,
+   "games": 4,
+   "recognized": "4/4",
+   "first_domino_at_s": 41.2
+  }
+ }
+}

@@ -679,3 +679,14 @@ after START was redrawn; tracing stroke 1 at a moved START now moves the start w
 Haiku only, seeds 91/92, after the moved-START fix: 4/4 recognized (scores 0.83, 1, 1, 1; three games
 100% fallen, one 73%). Together with sonnet's 8/8 in batches 7-8, the 4-person table is now at the
 target success rate in 10-minute games, with either model.
+
+## 5. Experiment 1: overstaffing (tables of 1, 4, 10)
+
+Same brief, table (30x20), supply (250), pad and 10 minutes; small model for everyone; 4 games per size,
+seeds 101-104. Solo tables rotate four personas; tables of 4 alternate the two usual teams; tables of 10
+seat all ten personas. The only crowding costs are the ones the game already has: one speaker at a time
+(words-per-beat budget), one scratch pad, bumps when people work within 3 units of each other, and
+the shared picture (work can collide, be lifted, or wait on someone else's line). Measured by
+`experiments/analyze_staffing.py`: recognition, completion, words, person-time with hands busy / waiting /
+free, dominoes laid per person, top builder's share, people laying under 10, rework (lifted dominoes,
+and how many were someone else's), bumps. Build events now log lifted dominoes and whose they were.

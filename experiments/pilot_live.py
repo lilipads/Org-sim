@@ -91,6 +91,8 @@ def main():
                                           if args.pad_minutes >= args.minutes else
                                           f"At {int(args.pad_minutes)}:{int(args.pad_minutes * 60) % 60:02d} the "
                                           "facilitator takes the pad away for good; after that, work from memory."))
+        if len(names) == 1:
+            rules = rules.replace("sitting at a table with 0 colleagues", "sitting at a table on your own")
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)

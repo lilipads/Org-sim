@@ -677,13 +677,14 @@ class LiveGame:
                 k = int(self.credit[n])
                 self.credit[n] -= k
                 batch, task["queue"] = task["queue"][:k], task["queue"][k:]
-                pts, new, restood = [], [], []
+                pts, new, restood, lifted = [], [], [], []
                 for op in batch:
                     kind, item = op[0], op[1]
                     if kind == "remove":
                         d0 = self.world.dominoes.get(item)
                         if d0 is not None:
                             self.world.remove([item], self.pool_for_region(d0.region))
+                            lifted.append([item, d0.builder])
                         continue
                     if kind == "move":
                         moved = self.world.move(item, *op[2], self.rng, err=skill.get("error", 1.0))
@@ -708,9 +709,9 @@ class LiveGame:
                 if pts:
                     task["last"] = pts[-1]
                     placed_at[n] = (sum(p[0] for p in pts) / len(pts), sum(p[1] for p in pts) / len(pts))
-                if new or restood:
+                if new or restood or lifted:
                     rec["events"].append({"type": "build", "who": n, "placed": [d.id for d in new],
-                                          "restood": [[d.id, d.builder] for d in restood],
+                                          "restood": [[d.id, d.builder] for d in restood], "lifted": lifted,
                                           "start": any(d.start for d in new)})
                 if not task["queue"]:
                     self._finish_build(n, task)
