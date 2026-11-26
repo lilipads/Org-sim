@@ -1,0 +1,17 @@
+[    9s] 0:00 asked Ava,Ben,Chloe,Dev | dominoes 1 | calls 4
+    Chloe -> everyone: Hi all, I'm Chloe. We've got twenty minutes, so let's not overthink it. I'd suggest a snake. It's basically one long curving line, which suits dominoes well, and it's easy for a judge to recognise. We
+    (Ben held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[   17s] 0:15 asked Ava,Ben,Dev | dominoes 2 | calls 7
+    Ben -> everyone: Quick one before we lock it in. I'd rather do a fish. It's a clean side-on silhouette, the judge can read it from across the room, and one closed outline means one push takes the whole thing down. A s
+    (Ava held a thought)
+    (Dev held a thought)
+[   36s] 0:30 asked Ava,Chloe,Dev | dominoes 2 | calls 10
+    Ava -> everyone: Ben, fair point on squiggles. Let's keep snake but make the curves big and obvious, with a clear head at the far right. Chloe, I've got the tail-end wave on the left from the start domino. Shout if yo
+    (Chloe held a thought)
+    (Dev held a thought)
+[   43s] 0:45 asked Ben,Chloe,Dev | dominoes 4 | calls 13
+    Ben -> everyone: Fair enough, I'll go with snake. Ava, you take the tail wave on the left, and I'll take the head on the far right. I want the head to be a clear shape: a wide skull with a bit of a jaw, so it doesn't 
+    (Chloe held a thought)
+    (Dev held a thought)
