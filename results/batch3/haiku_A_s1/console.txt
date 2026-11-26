@@ -1,0 +1,250 @@
+[   23s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Okay, I'm going to suggest a fish. Tail on the left, pointed nose on the right, and the outline alone should say fish. I've put the start at the tip of the tail and the run goes round the body. Does a
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   36s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Fish works, and a tail fin will sell it. Maya, could you sketch the tail on the pad first so we all agree before anyone places anything? I'll take the top edge if nobody else wants it.
+    (Tom held a thought)
+    (Leo held a thought)
+[   49s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Sketching it now, Priya. Start is the tip of the tail, top edge runs up over the body to the nose, then the bottom comes back along the body and the tail's lower edge. Take the top edge, and I'll cove
+    (Tom held a thought)
+    (Leo held a thought)
+[   59s] 0:45 asked Tom,Priya,Leo | dominoes 0 | calls 13
+    Priya -> everyone: Sounds good, Maya. I'm on the top edge, starting from the tail tip. Start domino goes right here, and the run goes over the back to the nose. Tom or Leo, could you take the bottom once Maya's done it?
+    (Leo held a thought)
+    (Tom held a thought)
+[   70s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 6 | calls 17
+    Tom -> everyone: Fish works for me. Maya, keep the pad. Priya's got the top, so I'll take the bottom edge once the start's down at the tail tip.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[   80s] 1:15 asked Maya,Priya | dominoes 20 | calls 19
+    Priya -> everyone: Sounds good, Tom, bottom's yours. Maya, the pad still doesn't have stroke 1. Could you draw the top edge from the tail tip, over the back to the nose, first? Once it's there I'll trace it and start th
+    (Maya held a thought)
+[   94s] 1:30 asked Maya,Tom | dominoes 30 | calls 21
+    Tom -> Maya: Maya, do you want me to take the pad and draw the top edge from the tail tip over the back to the nose? You can keep building, and then you can take the bottom from there.
+    Maya -> everyone: Priya, the top edge is already on the pad, from START over the back to the nose, and your dominoes are standing along it. I'm laying the body underside from the nose now. Tom, could you take the tail'
+[  107s] 1:45 asked Maya,Tom,Priya | dominoes 41 | calls 24
+    Maya -> Tom: Tom, you've got the tail's lower edge, stroke 3 back to START. I'm on the body underside now.
+    Tom -> Maya: Yep, I'll take the tail's lower edge back to START. Keep the pad, Maya. I'll trace stroke 4 so it runs out from the start.
+    Priya -> everyone: Got it, Maya, stroke 1's there. I'm tracing the top edge from START now and setting the start domino. Maya, keep your hands below that line, you've got the underside. Tom, the tail's lower edge is you
+[  117s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 48 | calls 28
+    Maya -> Tom: Tom, just to be sure: the tail's lower edge back to START is stroke 3. Stroke 4 is the small one up by the start. Can you check the number on the pad before you trace?
+    Priya -> everyone: Tracing the top edge from START now and setting the start. Maya, keep below that line, and Tom, the tail's lower edge is yours back to START.
+    (Leo held a thought)
+[  128s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 49 | calls 32
+    Tom -> Maya: Maya, you're right, I need to check. I think I've been on 4, the little piece by START. I'll finish those few and then trace 3 back to START. Yep, I'm looking at the pad now.
+    Priya -> everyone: Tracing the top edge from the tail tip now, and setting the start there. Maya, stay below that line. Tom, the tail's lower edge is yours back to START.
+    (Leo held a thought)
+[  139s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 36
+    Priya -> everyone: Okay, I've said 'tracing now' three times, so I'm really doing it this time. Start is at the tail tip, and the top edge runs over the back to the nose. Maya, stay below that line.
+    (Leo held a thought)
+[  154s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 62 | calls 40
+    Priya -> everyone: Okay, I've said 'tracing now' three times, so this time I'm really doing it. Start is at the tail tip, and the top edge runs over the back to the nose. Maya, you're near the top edge's far end, so ple
+    (Leo held a thought)
+    (Maya held a thought)
+[  162s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 65 | calls 44
+    Maya -> Priya: Got it, Priya. I'm staying under your line and finishing the last piece of the underside.
+    Priya -> everyone: Okay, I'm actually doing it this time, no more announcements. Tracing stroke 1 from the tail tip over the back to the nose, and setting the start there. Maya, stay below that line.
+    (Leo held a thought)
+[  172s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 48
+    Leo -> Priya: Priya, I'm watching the nose join while you trace. If anything breaks there, I'll stand it back up.
+[  184s] 3:30 asked Maya,Priya,Leo | dominoes 67 | calls 51
+    Priya -> Leo: Thanks, Leo. Keep an eye on the nose join and stand up anything that breaks there.
+    Maya -> everyone: Body underside's down, nose back to the middle of the body. Tom, when you get to the join where it meets the lower edge, give it a look. I'm keeping my hands off until Priya's top line is in, then I'l
+[  197s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 64 | calls 55
+    Maya -> everyone: Underside's down. Priya, once your top edge reaches the nose I'll look at the join there, it looks a bit cramped.
+    (Tom held a thought)
+[  208s] 4:00 asked Priya,Leo | dominoes 69 | calls 57
+    Leo -> everyone: I've been over the nose join. The domino at the front of the nose was jammed, so I've nudged the next one into line. The last one there still points up-right, so Priya, watch it as your top edge arriv
+[  218s] 4:15 asked Maya,Tom,Priya | dominoes 65 | calls 60
+    Tom -> everyone: Stroke 4's down by the start, so I'm tracing 3 now, the tail's lower edge back to START. Maya, I'll check the join where it meets your underside once it's in.
+[  230s] 4:30 asked Maya,Priya,Leo | dominoes 57 | calls 63
+    Maya -> everyone: Tom, you've got stroke 3, the tail's lower edge, back to the start. Priya, I'm watching the nose. I'll fix that last domino once your top edge gets there.
+    (Leo held a thought)
+[  239s] 4:45 asked Tom,Priya,Leo | dominoes 53 | calls 66
+    Tom -> Maya: Maya, I'm on stroke 3 now, the tail's lower edge back to START. I'll check the join with your underside once it meets the body.
+    Leo -> everyone: I'm keeping my hands off the nose until Priya's top edge is in. Once it reaches the nose I'll look at the join again, and if it breaks I'll retrace that stroke.
+[  250s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 45 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Leo,Maya: Leo, I think the top edge is standing all the way to the nose now. I'm checking it and the join, and I'll stand up anything that's broken.
+    Leo -> everyone: Top edge looks like it's reaching the nose now. I'm checking that join before I touch anything.
+    (Maya held a thought)
+[  260s] 5:15 asked Maya,Priya,Leo | dominoes 38 | calls 73
+    Maya -> Leo,Priya: Leo, Priya, you've got the nose join. I'm keeping my hands off it and I'll give the area a look from here. Shout if you need a hand.
+    Leo -> Priya: Priya, the last domino at the nose still points up-right with nothing ahead of it. Once your top edge is fully in, I'll close that end with a fix. I'm keeping my hands off until then.
+    Priya -> everyone: Top edge is standing to the nose. I'm fixing the two off-line dominoes by the tail now. Leo has the nose join.
+[  269s] 5:30 asked Maya,Priya,Leo | dominoes 34 | calls 76
+    Maya -> everyone: Priya, the top edge is in, so can you set the start at the tail tip now? Tom, how far is stroke 3 from START?
+    (Leo held a thought)
+[  279s] 5:45 asked Tom,Priya,Leo | dominoes 35 | calls 79
+    Priya -> everyone: Good catch, Maya. There's no start on the table yet, so I'm setting it at the tail tip now.
+    (Leo held a thought)
+    (Tom held a thought)
+[  289s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 34 | calls 83
+    Tom -> Maya: Almost there, Maya. One domino left on the tail's lower edge, then it runs back into START. I'll check the join with your underside once it's down.
+    Priya -> everyone: Setting the start just behind the tail tip now. Nobody touch that spot.
+    Leo -> everyone: Nose-end fix is in. Checking the join now, and I'll only touch it if it breaks.
+[  300s] 6:15 asked Maya,Priya,Leo | dominoes 42 | calls 86
+    Priya -> everyone: Start's down just behind the tail tip. Please keep your hands off that spot. I'm inspecting the top edge now, including the nose join and the tail.
+    (Leo held a thought)
+    (Maya held a thought)
+[  311s] 6:30 asked Maya,Priya,Leo | dominoes 50 | calls 89
+    Maya -> everyone: Inspect says the chain from the start runs through everything standing, so we're connected. Priya, the one that's jammed right by the tail on the top edge is the spot to check. Tom, does the lower edg
+    (Leo held a thought)
+    (Priya held a thought)
+[  319s] 6:45 asked Tom,Priya,Leo | dominoes 54 | calls 92
+    Priya -> everyone: Inspect's back: the whole top edge is connected to the start. There's a jammed one just past the tail, so I'm fixing that now. Leo, you keep the nose end.
+    (Leo held a thought)
+    (Tom held a thought)
+[  330s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 96
+    Maya -> everyone: Tom, is the last domino on the tail's lower edge down yet? I'm going to look at the tail area now, so nobody touch it for a moment.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  338s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 100
+    Leo -> everyone: Tom, Maya, I'm looking at the tail and the lower edge back to START now. I'm not touching anything. Tom, once your last domino is down, tell us and I'll confirm it's connected.
+    (Tom held a thought)
+    (Priya held a thought)
+[  352s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 104
+    Leo -> everyone: Inspect's done on the tail and the start. As far as I can see, the chain from START runs through everything standing, lower edge included. Tom, is your last domino down yet? Once it is, I'll look agai
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  362s] 7:45 asked Maya,Tom,Priya | dominoes 55 | calls 107
+    Maya -> everyone: Tom, the lower edge still stops short just past the tail, so I don't think it's connected to START yet. Leo's inspect may have run before your last domino went down. Once that piece is in, tell us and
+    (Tom held a thought)
+    (Priya held a thought)
+[  372s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 111
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Maya, I think my last one on the lower edge is down and runs into START, but you may be right about the gap past the tail. I'm going to look at that spot now. I won't touch the start.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  382s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 115
+    Maya -> Tom,Priya,Leo: Tom, I've got the gap past the tail. I'm closing it now. Please keep your hands off that spot, and if your last domino's already down, you're done.
+    Tom -> everyone: Maya, you're right, my lower edge stops just past the tail, right about here. I'm closing that gap now. I'm not touching the start.
+    (Leo held a thought)
+    (Priya held a thought)
+[  396s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 119
+    Priya -> everyone: Maya and Tom, you're both on the gap past the tail. Tom, if that lower edge is yours, close it and tell us when it's down. Maya, hold off so you don't double up. I'm keeping my hands off the tail and 
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  404s] 8:45 asked Maya,Tom,Leo | dominoes 55 | calls 122
+    Tom -> everyone: Okay, I've got the gap past the tail. Maya, hold off so we don't double up. Closing it now and I'll tell you when it's down.
+    (Leo held a thought)
+    (Maya held a thought)
+[  414s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 126
+    Priya -> Tom,Maya,Leo: Tom, shout when the gap past the tail is down. I'm only looking at the top edge and the nose right now, and I'm not touching anything.
+    Leo -> everyone: Agreed, Priya. Tom has the gap past the tail, so I'm keeping my hands off it. Tom, tell us when it's down and I'll check the chain from START.
+    (Maya held a thought)
+[  424s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 130
+    Tom -> everyone: My hands are off the tail now. I think the gap past the tail is closed, but I want to check it before the push. I'm inspecting that spot now. Leo, once it's done, can you confirm the lower edge runs i
+    (Priya held a thought)
+    (Maya held a thought)
+[  436s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 55 | calls 134
+    Tom -> everyone: Inspect's back, and the gap past the tail is still open. The lower edge ends right here with nothing ahead of it, so it isn't connected to START. I'm not touching it. Priya, Leo, you two decide whethe
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  445s] 9:45 asked Maya,Priya,Leo | dominoes 55 | calls 137
+    Maya -> everyone: Tom, I've got the gap past the tail. My hands are free, so I'm closing it with a quick fix now. Priya, Leo, please keep off that spot, and confirm the lower edge reaches START once it's down.
+    (Priya held a thought)
+    (Leo held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.3,
+      "error": 1.33
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.77
+    },
+    "Priya": {
+      "speed": 0.91,
+      "error": 0.57
+    },
+    "Leo": {
+      "speed": 1.41,
+      "error": 1.06
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 499.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish",
+      "eye",
+      "leaf"
+    ],
+    [
+      "an eye (almond-shaped outline)",
+      "a fish or leaf outline",
+      "a closed loop of dominoes forming a lemon shape"
+    ],
+    [
+      "an eye (almond-shaped outline with a lid-like inner curve)",
+      "a fish or leaf outline (pointed ends, closed body shape)",
+      "a boat or canoe hull (pointed ends with an inner curve)"
+    ]
+  ],
+  "placed": 55,
+  "fell": 55,
+  "completion": 1.0,
+  "team_score": 0.667,
+  "first_domino_at": "1:00",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Priya": 18,
+    "Tom": 12,
+    "Leo": 9
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 154,
+    "failed": 0,
+    "input_tokens": 320,
+    "cache_creation_tokens": 818089,
+    "cache_read_tokens": 484017,
+    "output_tokens": 145580,
+    "seconds": 1350.3,
+    "api_equivalent_usd": 0.2413
+  }
+}

@@ -1,0 +1,234 @@
+[   24s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish. Side view, with the tail fin as the giveaway. I'm sketching the plan on the pad now, so shout if you want the nose moved.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[   36s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Nice, a side-view fish with a forked tail is a good call. Once the body's on the pad, I'll take the tail fin and trace it. Shout if you want the nose moved.
+    (Tom held a thought)
+    (Leo held a thought)
+[   48s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Right, plan's on the pad: nose here, body running right. I'm laying the top of the body first so we have a start. Priya, the tail once the body's up.
+    (Tom held a thought)
+    (Leo held a thought)
+[   63s] 0:45 asked Tom,Priya,Leo | dominoes 10 | calls 13
+    Leo -> everyone: Maya, Priya, I'll take the bottom of the body, stroke 2 on the pad, so the two sides meet at the tail. I'll wait till the nose start is down so I'm not laying from the same spot as you, Maya.
+    (Tom held a thought)
+    (Priya held a thought)
+[   72s] 1:00 asked Maya,Priya | dominoes 20 | calls 15
+    Priya -> everyone: Quick flag, Leo: the tail fin is stroke three on the pad, not two, and the junction's out past where I had it. Your bottom body is stroke two. I'm tracing the fin off the end of the top body as soon a
+    (Maya held a thought)
+[   83s] 1:15 asked Leo | dominoes 32 | calls 16
+    Leo -> everyone: Thanks, Priya, got it: bottom body is two, fin is three, and the junction's out at your spot. I'll wait for Maya's nose to be down, then carry stroke two from the start to that junction. Tom, is that 
+[   95s] 1:30 asked Maya,Tom,Priya | dominoes 42 | calls 19
+    Maya -> everyone: Yes, Leo, bottom body's yours, stroke two, from the nose out to the tail join. Tom, that long run under the middle, is that yours? If so, keep it on the bottom line and we won't double up with my top.
+    (Priya held a thought)
+    (Tom held a thought)
+[  108s] 1:45 asked Tom,Leo | dominoes 56 | calls 21
+    Leo -> everyone: Tom, that long bottom run under the middle looks like it's already the bottom body, and it's connected to the start. Is it yours? If so, I'll leave it alone and take the last stretch from where it end
+    (Tom held a thought)
+[  122s] 2:00 asked Tom,Priya | dominoes 62 | calls 23
+    Tom -> everyone: Yes, Leo, the bottom run's mine, stroke 2 from the nose. I'm most of the way, so I'll carry it right through to Priya's junction. Leo, could you help Maya on the top, or keep an eye on the bottom for 
+    (Priya held a thought)
+[  139s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 69 | calls 27
+    Maya -> Leo,Tom: Tom, bottom's yours, carry it through. Leo, I've got the top, so please keep an eye on the bottom for gaps in case of a bump. I'll check where my top joins the nose once it's through.
+    Leo -> everyone: Tom, got it, I'll watch the bottom for gaps. Maya, once your top reaches about here, I'll take the last stretch from your end out to Priya's junction. Tell me when your hands are clear of this end and
+    (Tom held a thought)
+    (Priya held a thought)
+[  153s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 78 | calls 31
+    Maya -> Leo: Leo, I'm about twelve dominoes from finishing the top. I'll call it when it reaches the arch over the back, and then you can take your stretch to Priya's junction. I want to check where my top meets t
+    Leo -> Maya: Maya, the top's still pale back at the nose, so it isn't joined to the start yet. I'm checking that join now. Tell me when your hands are clear of the end out at the middle and I'll take the last stre
+    Tom -> everyone: Bottom's through to the tail join, but there are two spots by the end that won't take a domino. I'm closing them now. Priya, your fin base should line up right on this spot.
+    (Priya held a thought)
+[  162s] 2:45 asked Maya,Priya,Leo | dominoes 82 | calls 34
+    Maya -> Leo: Thanks, Leo. Go ahead and check the join at the nose. I'll keep tracing the top and call it when it reaches the arch.
+    Leo -> Maya: Maya, I'm closing the nose join now. The first top domino is pale, so I'm bridging it from the start chain. Keep laying your top; I'll take the tail stretch once you call it.
+    Priya -> everyone: Tom, got it, bottom's yours through to the junction. Leo, you're clear of that end, thanks. I'm on the fin, and it'll wait for Maya's top to reach the junction.
+[  172s] 3:00 asked Maya,Tom,Leo | dominoes 91 | calls 37
+    Maya -> Leo: Thanks, Leo. Top's five from done, I'll call it at the arch.
+    Leo -> Maya: Maya, I'm closing the nose join now and bridging that pale top domino from the start chain. Keep laying your top, and I'll take the tail stretch once you call it.
+    Tom -> everyone: Gap's nearly shut, Priya. Give me a few seconds and I'll call it when your fin base can take.
+[  183s] 3:15 asked Maya,Priya,Leo | dominoes 95 | calls 40
+    Maya -> Leo: Thanks, Leo. Keep the nose bridge going. I'm five from done on the top and I'll call it at the arch.
+    Priya -> Tom: Thanks, Tom. Call it when the base is ready and I'll set the fin's first domino right there.
+    Leo -> Maya: Maya, I'm bridging that pale top domino at the nose now. Keep laying your top and call me at the arch.
+[  195s] 3:30 asked Maya,Tom,Leo | dominoes 101 | calls 43
+    Maya -> Leo: Leo, my top's through to the tail join, so you're clear to take the last stretch out to Priya's junction. I'm going to look over the nose join now, so keep your bridge where it is.
+    Tom -> Priya: Nearly there, Priya. One more domino at this end and the base is yours.
+[  207s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 106 | calls 47
+    Tom -> Priya: Placing the last one right here now, Priya. I'll call it as soon as it's in.
+    Priya -> Tom: Thanks, Tom. I'll keep the fin going and set the base as soon as you call it.
+    Maya -> everyone: Leo, hold your bridge where it is. I'm looking over the nose join now, and I'll tell you when it's live from the start. Tom, Priya, the fin base still looks pale, so shout when the tail joint takes.
+    (Leo held a thought)
+[  218s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 51
+    Leo -> Maya: Holding the bridge where it is, Maya. Call me when the nose is live and I'll take the tail stretch.
+    Maya -> everyone: Leo, the top's still pale right at the nose, so the bridge isn't taking yet. Finish that join, and I'll call it live once the start chain carries into it. Tom, Priya, the fin and the tail joint are st
+    (Tom held a thought)
+[  229s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 55
+    Tom -> Priya,Maya: Priya, base is in. The bottom run's closed through the tail join, so you can set the fin's first domino there. Maya, if the nose join needs another pair of eyes, I can take a look once my hands are fr
+    Leo -> Maya: Maya, I'm not placing anything until you call the nose live. If the bridge is still pale, tell me which domino and I'll look at that one.
+    Maya -> everyone: Leo, hold the bridge a sec. I'm inspecting the nose join now, so we know exactly where the gap is before anyone lays more there.
+    (Priya held a thought)
+[  239s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 59
+    Tom -> Maya: Maya, I'm free now. Want me to look at the nose from underneath while you check the top? I'll keep my hands off until you say.
+    Maya -> everyone: Thanks, Tom. Priya, the fin can start from that base. Leo, keep holding the bridge. I'm reading the nose join now and I'll call it the moment it's live.
+[  252s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 104 | calls 63
+    Tom -> Maya: Sounds good, Maya. I'll look under the nose from my side once you've got the top, and I won't touch anything until you say.
+    Maya -> everyone: Okay, the dark chain from the start stops just short of the first top domino, right at the nose. Leo, keep that bridge going, and fix the gap at the nose only. Tom, take a look from underneath, but do
+    (Priya held a thought)
+[  259s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 99 | calls 67
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> Maya: Looking under the nose now, Maya. I won't place anything.
+    Maya -> everyone: Inspecting the nose now, about fifteen seconds. Leo, Tom, keep your hands off that spot until I call it.
+    (Priya held a thought)
+[  270s] 5:15 asked Maya,Tom,Leo | dominoes 97 | calls 70
+    Tom -> Maya,Leo: Maya, from underneath the nose the start chain stops just short of the first top domino, with nothing else crossing the gap. I'm not touching anything. Leo, the bridge is yours to close.
+    Maya -> everyone: Leo, stop the bridge, it's not taking. I'm putting the pad down and joining the nose from the start chain myself. Tom, keep your hands off that spot.
+[  280s] 5:30 asked Maya,Tom,Leo | dominoes 93 | calls 73
+    Maya -> everyone: Leo, I've got the nose join. Hands off the bridge. Tom, keep off that spot too.
+    Tom -> everyone: Got it, Maya. Hands off the nose. I'll keep an eye on the bottom run in case it gets bumped.
+    (Leo held a thought)
+[  288s] 5:45 asked Maya,Tom,Leo | dominoes 91 | calls 76
+    Leo -> Maya: Stopped, Maya. The bridge is down and I'm keeping my hands off the nose. Tell me when the tail stretch is clear.
+    Maya -> everyone: Nose join's going in now. I'll call it live once the start carries into the top.
+[  296s] 6:00 asked Maya,Tom,Leo | dominoes 88 | calls 79
+    Maya -> Leo: Leo, the tail stretch is clear from my end, so go ahead out to Priya's junction. I'm on the nose connect and will call it live once the start carries into the top.
+[  304s] 6:15 asked Leo | dominoes 92 | calls 80
+    Leo -> everyone: Going out from the end of Maya's top to Priya's junction now. Nose stays hands-off.
+[  312s] 6:30 asked Maya,Tom,Priya | dominoes 103 | calls 83
+    Priya -> everyone: Got it, Maya. I'm running the fin from Tom's base. It's down apart from the base, and the junction waits on your top reaching it. I'll call it when the fin's complete.
+[  321s] 6:45 asked Maya,Tom | dominoes 109 | calls 85
+    Maya -> Priya: Got it, Priya. I'm still on the nose connect, and I'll call it live as soon as the start carries into the top.
+    Tom -> everyone: Sounds good, Priya. The bottom's closed through the tail, so I'm just watching it for bumps.
+[  331s] 7:00 asked Priya | dominoes 115 | calls 86
+    Priya -> everyone: Fin's got a gap at the far end, so I'm re-laying stroke 3 from Tom's base. Hands off the nose, Maya. The junction waits on your top, and I'll call the fin when it's complete.
+[  339s] 7:15 asked Maya,Tom | dominoes 119 | calls 88
+[  348s] 7:30 asked Maya,Tom,Leo | dominoes 124 | calls 91
+    Maya -> everyone: Nose connect's in my hands now. Leo, Tom, stay off that spot. I'll call it live as soon as the start runs into the top.
+    (Leo held a thought)
+[  360s] 7:45 asked Maya,Tom,Leo | dominoes 127 | calls 94
+    Leo -> everyone: Priya, my top's through to your junction. There's a sideways domino right at the end of it, so I'm fixing that now. Hands off the nose, Maya.
+[  369s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Leo: Leo, I've got the nose. Go ahead with the junction fix.
+    Priya -> everyone: Fin's laid through to the far end, so I'll check that tip. Maya, call the nose when it's live and I'll set the junction.
+    (Leo held a thought)
+[  377s] 8:15 asked Maya,Tom,Leo | dominoes 127 | calls 101
+    Maya -> everyone: Checking the nose now, Leo and Priya, hold where you are for fifteen seconds.
+    Leo -> everyone: Priya, Maya, I'm closing the gap at the junction now, then I'll check the jammed domino on my top. Nose stays hands-off.
+[  387s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 105
+    Leo -> everyone: Holding, Maya. I'll finish the junction gap once you've checked the nose.
+    Priya -> everyone: Holding, Maya. Leo's on the junction gap, so I'm keeping my hands off it. I'm just checking the fin tip by eye.
+[  401s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 109
+    Maya -> everyone: Nose is live. The start carries through into the top. Priya, set your junction now. Leo, finish the gap there. Tom and I are keeping our hands off the nose.
+    (Leo held a thought)
+[  411s] 9:00 asked Tom,Priya,Leo | dominoes 130 | calls 112
+    Priya -> everyone: Nose is live, so I'm setting the junction now. Leo, you keep the gap on your side.
+    Leo -> everyone: Got it, Maya. Closing the junction gap now, Priya. Nose stays hands-off.
+    (Tom held a thought)
+[  421s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 116
+    Leo -> everyone: Got it, Priya. Closing the junction gap on my side now. Nose stays hands-off.
+    Tom -> everyone: Nice, Maya, that's live. Bottom run's still standing, so I'm keeping my hands off everything.
+    (Priya held a thought)
+    (Maya held a thought)
+[  431s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 132 | calls 120
+    Priya -> everyone: Got it, Leo. You take the gap at the junction, and I'm finishing the connect from the fin tip into Maya's top. Maya, the nose is live, so I'll call it once the fin's into the top.
+    (Maya held a thought)
+[  440s] 9:45 asked Maya,Tom,Leo | dominoes 136 | calls 123
+    Maya -> everyone: Nose is holding, and I'm keeping my hands off it. Priya, Leo, the junction's yours. Shout if the top looks off.
+    Leo -> everyone: Junction gap's mine, closing it now. Nose stays hands-off.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.99,
+      "error": 1.32
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 1.01
+    },
+    "Priya": {
+      "speed": 1.06,
+      "error": 1.58
+    },
+    "Leo": {
+      "speed": 0.65,
+      "error": 1.04
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 500.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "side view of a four-legged animal, such as a dog or lizard, with one leg visible",
+      "fish or aquatic creature drawn in outline with a curled tail",
+      "bird or reptile in profile with a curled tail and long body"
+    ],
+    [
+      "side-view horse or quadruped",
+      "fish with a fin",
+      "dog or cat lying down"
+    ],
+    [
+      "animal lying down, side view",
+      "fish with curled tail",
+      "whale or dolphin with flipper"
+    ]
+  ],
+  "placed": 136,
+  "fell": 116,
+  "completion": 0.853,
+  "team_score": 0.426,
+  "first_domino_at": "0:45",
+  "messages": 70,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 25,
+    "Priya": 11,
+    "Leo": 18,
+    "Tom": 13
+  },
+  "held_thoughts": 30,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 140,
+    "failed": 0,
+    "input_tokens": 292,
+    "cache_creation_tokens": 755637,
+    "cache_read_tokens": 448584,
+    "output_tokens": 123410,
+    "seconds": 1213.5,
+    "api_equivalent_usd": 0.2173
+  }
+}

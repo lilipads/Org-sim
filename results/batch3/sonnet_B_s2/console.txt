@@ -1,0 +1,261 @@
+[   23s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Ooh, let's do a fish! Big body, clear tail fin, easy for a judge to read. I'll sketch it on the pad now. Then someone can take the top line, someone the bottom, and someone the tail. Shout if you'd ra
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  333s] 0:15 asked Omar,Hana,Jack | dominoes 8 | calls 9
+    Hana -> everyone: Fish sounds good to me. I've got the pad, so I'm drawing it now. Nose on the left is the start, then body top and bottom, and a forked tail on the right. Give me a sec and then grab a stroke each.
+    (Jack held a thought)
+    (Omar held a thought)
+[  348s] 0:30 asked Sofia,Omar,Jack | dominoes 20 | calls 12
+    Sofia -> everyone: I'll take the tail fork! Heads up Hana, the pad has START at the tail, but our real start is at the nose. Can you redraw so stroke 1 leaves the nose? Omar and Jack, you've got the top and bottom body 
+    (Jack held a thought)
+    (Omar held a thought)
+[  363s] 0:45 asked Omar,Hana,Jack | dominoes 34 | calls 15
+    Hana -> everyone: Good catch, Sofia. Redrawn: stroke 1 leaves the nose along the top, 2 is the bottom, 3 and 4 are the tail fork, 5 is the tail edge. Omar, you've got the top, I'll take the bottom.
+    (Omar held a thought)
+    (Jack held a thought)
+[  380s] 1:00 asked Sofia,Omar,Jack | dominoes 47 | calls 18
+    Jack -> everyone: Oops, my bad, I built my bit up the top side by mistake, right next to Omar's line. I'm clearing it now. Fish bottom is mine, but the start faces up-right, so I'll need a little lead-in to curve it ro
+    (Sofia held a thought)
+    (Omar held a thought)
+[  401s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 56 | calls 22
+    Hana -> everyone: Jack, I'm already laying the bottom line, so you don't need to redo it. Could you take the lower half of the tail fork with Sofia instead? And thanks for clearing your bit off the top.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  411s] 1:30 asked Sofia,Omar,Jack | dominoes 70 | calls 25
+    Jack -> everyone: Thanks Hana! Quick thing though: I can see your hands are over at the tail, and nothing's down along the belly yet. I've already got the bottom line going from the nose, so I'll just keep running it t
+    (Sofia held a thought)
+    (Omar held a thought)
+[  424s] 1:45 asked Sofia,Omar,Hana | dominoes 85 | calls 28
+    Sofia -> everyone: Sorry, I bumped the top of the tail and I'm checking it over. Thanks for the redraw, Hana, it works for me! Jack, yes please, take the lower tail fork. I'll finish the top fork and the tail edge. Omar
+    (Hana held a thought)
+    (Omar held a thought)
+[  437s] 2:00 asked Sofia,Omar,Hana,Jack | dominoes 92 | calls 32
+    Hana -> everyone: Okay Jack, you keep the belly all the way to the tail join, I'm on the lower tail fork. Shout when your line reaches the join. I'll check the nose once I finish this bit, since the start only knocks o
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  446s] 2:15 asked Sofia,Omar,Hana,Jack | dominoes 95 | calls 36
+    Sofia -> everyone: I'm free, so I'll fix the nose now and link the start into the top and bottom lines. Jack, keep going on the belly!
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  459s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 40
+    Hana -> everyone: Jack, I'll lay the back half of the belly into the tail join so you only have to run to meet it. Start from where mine begins and just link in.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  473s] 2:45 asked Sofia,Hana,Jack | dominoes 116 | calls 43
+    Jack -> everyone: Perfect, thanks Hana! I'll stop where I am and link my belly into the start of yours, so we don't double up. Thanks Sofia for the nose too!
+    (Sofia held a thought)
+    (Hana held a thought)
+[  485s] 3:00 asked Sofia,Hana | dominoes 125 | calls 45
+    Hana -> everyone: Great, Jack, run the belly on into the start of the back half and you're done. I'm checking the tail forks now. Omar, the top line still looks off right at the join.
+    (Sofia held a thought)
+[  495s] 3:15 asked Omar,Hana,Jack | dominoes 135 | calls 48
+    Hana -> everyone: Omar, I'm closing the little break right at the join where the top meets the back half of the belly, so you can carry on with the top line. Sofia, shout when the nose links up, since the start is stil
+    (Omar held a thought)
+    (Jack held a thought)
+[  800s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 138 | calls 53
+    Jack -> everyone: Belly's linked into Hana's part now! I'll check the nose, since the start still only knocks over one.
+    Sofia -> everyone: Still linking the nose, start into the top and bottom lines. Nearly there, I'll shout when it's connected.
+    (Hana held a thought)
+    (Omar held a thought)
+[  811s] 3:45 asked Omar,Hana,Jack | dominoes 142 | calls 56
+    Hana -> everyone: Sofia, your hands are down in the corner, so I'm taking the nose now. I'll bridge the start into the top and bottom lines. Shout if you're already mid-fix there.
+    (Omar held a thought)
+    (Jack held a thought)
+[  820s] 4:00 asked Sofia,Omar,Jack | dominoes 147 | calls 59
+    Sofia -> everyone: Hana, I'm already mid-link on the nose, about halfway through, so I'll finish it. Could you stay off that corner so we don't bump each other? Check the tail edge and that stray end low in the tail ins
+    (Jack held a thought)
+    (Omar held a thought)
+[  831s] 4:15 asked Omar,Hana,Jack | dominoes 152 | calls 62
+    Hana -> everyone: Okay Sofia, the nose is all yours, I'll stay clear. I'm looking over the tail edge and that stray bit low in the tail.
+    (Omar held a thought)
+    (Jack held a thought)
+[  842s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 150 | calls 66
+    Jack -> everyone: Sofia, the whole top line's still pale, so the nose link is what matters now. I'll just look at it from here and stay off your corner. Shout if you want me to take the top side of the nose!
+    (Omar held a thought)
+    (Hana held a thought)
+[  852s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 154 | calls 70
+    Jack -> everyone: Sofia, I'll fix the little kink up the top line, just above your corner. Won't touch the nose itself. Shout when yours links!
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  861s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 148 | calls 74
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Nose build's done, bottom side is connected but the top line is still pale. I'm taking a close look at the corner now. Jack, thanks for the kink, stay on that and I'll shout what I find.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  871s] 5:15 asked Sofia,Hana,Jack | dominoes 142 | calls 77
+    Sofia -> everyone: Found it, there's a small gap right at the corner where the nose should hand over to the top line. I'm closing it now. Jack, keep on the kink above.
+    (Jack held a thought)
+    (Hana held a thought)
+[  882s] 5:30 asked Sofia,Hana,Jack | dominoes 136 | calls 80
+    Sofia -> everyone: My fix didn't place anything, so it's not a simple gap. I'm looking closer at the corner. Jack, how's the kink above?
+    (Hana held a thought)
+    (Jack held a thought)
+[  892s] 5:45 asked Sofia,Hana,Jack | dominoes 138 | calls 83
+    Sofia -> everyone: Okay, it's a sharp turn, not a gap. The nose goes right and the top line goes straight up. I'm laying a curved bridge from the corner into the bottom of the top line. Jack, keep off the corner for a m
+    (Hana held a thought)
+    (Jack held a thought)
+[  901s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 140 | calls 87
+    Sofia -> everyone: Omar, quick one: please leave the dominoes at the nose corner, that's my bridge into the top line and it's mid-build. The stray down low is fine to clear. I'll shout when the start reaches the top.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  912s] 6:15 asked Omar,Hana,Jack | dominoes 145 | calls 90
+    Jack -> everyone: Got it Sofia, I'm staying off the corner. The top line looks solid all the way over to the tail join from what I can see, so once your bridge lands it should all go. Shout when it connects!
+    (Hana held a thought)
+    (Omar held a thought)
+[  923s] 6:30 asked Sofia,Omar,Hana | dominoes 150 | calls 93
+    Omar -> everyone: Got it Sofia, I'm staying off the nose. Lower-left strays are gone, and the tail looks okay from here. Shout when the start reaches the top and I'll check what falls.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  929s] 6:45 asked Sofia,Hana,Jack | dominoes 153 | calls 96
+    Sofia -> everyone: Thanks Omar, thanks Jack! Bridge is about two-thirds there, I'll shout as soon as it lands and the start reaches the top.
+    Jack -> everyone: I'll stay off the corner, Sofia. I'm checking the tail join while you finish the bridge.
+[  939s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 155 | calls 100
+    Jack -> everyone: Sofia, stay on your bridge. The lower tail fork is pale, so I'm linking it into the join now. Hana, shout if you're already on it!
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  948s] 7:15 asked Sofia,Omar,Hana | dominoes 158 | calls 103
+    Hana -> everyone: Jack, I'm not on the lower fork, it's all yours. Sofia, I'm only looking above your corner, not touching it. If the top is still pale at the next call, I'll lay a link into it from above so we have a 
+    (Sofia held a thought)
+    (Omar held a thought)
+[  956s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 161 | calls 107
+    Sofia -> everyone: Bridge is down, and the start reaches the corner now. The top line's first domino is sitting off to the side, so I'm nudging it into line. Jack, stay on the tail join. Hana, thanks for the backup offe
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  966s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 166 | calls 111
+    Hana -> Sofia: Sofia, heads up, that gap above your corner looks too big to nudge. Try a connect from the end of your bridge up into the next domino of the top line. I'm staying off the corner. If it's still pale at
+    Sofia -> everyone: Fix won't take, that gap's too big. I'm running a connect from the bridge straight into the top line instead. Jack, stay on the tail. Hana, if the top is still pale in a minute, lay your backup from a
+    (Jack held a thought)
+    (Omar held a thought)
+[  976s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 176 | calls 115
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> Sofia: Sofia, top's still pale, so I'm laying the backup link from the nose corner up into the top line now. Keep going on your connect, and if either one lands we're good.
+    Jack -> everyone: Thanks Hana, backup from above sounds smart if the top is still pale. I'm keeping on the lower fork, nearly linked. Nice one Sofia!
+    (Sofia held a thought)
+    (Omar held a thought)
+[  982s] 8:15 asked Sofia,Omar,Hana | dominoes 186 | calls 118
+    Sofia -> everyone: Connect's still laying, a couple of units to go into the top line. Hana, go ahead with the backup but start from higher up so we don't collide. Jack, keep on the tail!
+    (Omar held a thought)
+[  992s] 8:30 asked Omar,Hana,Jack | dominoes 197 | calls 121
+    Hana -> everyone: Okay Sofia, mine's about halfway, I'll keep laying it and stay clear of your corner.
+    Omar -> everyone: Nice one Sofia, I'm staying off the corner. Shout when the top goes dark.
+    (Jack held a thought)
+[  997s] 8:45 asked Sofia,Omar | dominoes 208 | calls 123
+    Sofia -> everyone: Connect's about halfway in, keep going Hana. Jack, keep that tail linked!
+[ 1002s] 9:00 asked Omar,Hana,Jack | dominoes 217 | calls 126
+    Jack -> everyone: Halfway through the lower fork link, keep going Sofia, you've got this! Hana, nice backup!
+    Hana -> everyone: Mine's almost down, four more dominoes. I'll check what the start knocks over as soon as it lands.
+[ 1008s] 9:15 asked Sofia,Omar,Hana | dominoes 222 | calls 129
+    Sofia -> everyone: Hana, great, four more and it should link! I'm finishing my connect too. Jack, keep that tail solid. Everyone hands off the corner now!
+    Hana -> everyone: Thanks Jack! One domino left on mine, then I'll check what the start reaches.
+    (Omar held a thought)
+[ 1013s] 9:30 asked Omar,Hana,Jack | dominoes 229 | calls 132
+    Hana -> everyone: My link is down. Checking whether the top goes dark now, hands off the corner please.
+    Omar -> everyone: Looking good, everyone. Hands off so nothing gets bumped. Fingers crossed for the push!
+    (Jack held a thought)
+[ 1018s] 9:45 asked Omar,Hana | dominoes 233 | calls 134
+    Hana -> everyone: Top still looks pale to me. I'm doing one last fix right above the corner, hands off please!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.99,
+      "error": 1.32
+    },
+    "Omar": {
+      "speed": 1.38,
+      "error": 1.01
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 1.58
+    },
+    "Jack": {
+      "speed": 0.65,
+      "error": 1.04
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1077.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "a single hand-drawn curvy stroke with curls at both ends",
+      "a stylized creature or animal outline, such as a tail or a snake",
+      "a river or road winding across the page with a fork at each end"
+    ],
+    [
+      "a single hand-drawn curving line with hooks, like a stylized creature or tail",
+      "a winding river or road with curled ends",
+      "an abstract squiggle or wave stroke"
+    ],
+    [
+      "tangled cord or rope",
+      "stylized bird or wing",
+      "fishing line with a hook"
+    ]
+  ],
+  "placed": 233,
+  "fell": 81,
+  "completion": 0.348,
+  "team_score": 0.058,
+  "first_domino_at": "0:15",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Hana": 17,
+    "Jack": 11,
+    "Omar": 3
+  },
+  "held_thoughts": 77,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 2,
+    "input_tokens": 310,
+    "cache_creation_tokens": 770429,
+    "cache_read_tokens": 464959,
+    "output_tokens": 85487,
+    "seconds": 1807.1,
+    "api_equivalent_usd": 3.8409
+  }
+}

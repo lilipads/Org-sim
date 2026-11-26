@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.99,
+      "error": 1.32
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 1.01
+    },
+    "Priya": {
+      "speed": 1.06,
+      "error": 1.58
+    },
+    "Leo": {
+      "speed": 0.65,
+      "error": 1.04
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 500.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "side view of a four-legged animal, such as a dog or lizard, with one leg visible",
+      "fish or aquatic creature drawn in outline with a curled tail",
+      "bird or reptile in profile with a curled tail and long body"
+    ],
+    [
+      "side-view horse or quadruped",
+      "fish with a fin",
+      "dog or cat lying down"
+    ],
+    [
+      "animal lying down, side view",
+      "fish with curled tail",
+      "whale or dolphin with flipper"
+    ]
+  ],
+  "placed": 136,
+  "fell": 116,
+  "completion": 0.853,
+  "team_score": 0.426,
+  "first_domino_at": "0:45",
+  "messages": 70,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 25,
+    "Priya": 11,
+    "Leo": 18,
+    "Tom": 13
+  },
+  "held_thoughts": 30,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 140,
+    "failed": 0,
+    "input_tokens": 292,
+    "cache_creation_tokens": 755637,
+    "cache_read_tokens": 448584,
+    "output_tokens": 123410,
+    "seconds": 1213.5,
+    "api_equivalent_usd": 0.2173
+  }
+}

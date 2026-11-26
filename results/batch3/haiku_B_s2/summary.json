@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.99,
+      "error": 1.32
+    },
+    "Omar": {
+      "speed": 1.38,
+      "error": 1.01
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 1.58
+    },
+    "Jack": {
+      "speed": 0.65,
+      "error": 1.04
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 473.2,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "domino chain in an arc",
+      "wavy row of toppled blocks"
+    ],
+    [
+      "curved line of fallen dominoes along an arc",
+      "dominoes toppled in a wavy chain",
+      "arched row of dark dash-like marks, possibly a hand-drawn curve"
+    ],
+    [
+      "dominoes lined up in a curved arc, fallen over",
+      "a chain of toppled dominoes forming a wave-like path",
+      "dark dash strokes tracing a bent or wavy line"
+    ]
+  ],
+  "placed": 70,
+  "fell": 37,
+  "completion": 0.529,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 12,
+    "Hana": 19,
+    "Jack": 8,
+    "Omar": 8
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 149,
+    "failed": 0,
+    "input_tokens": 310,
+    "cache_creation_tokens": 770631,
+    "cache_read_tokens": 481998,
+    "output_tokens": 124986,
+    "seconds": 1260.4,
+    "api_equivalent_usd": 0.2215
+  }
+}

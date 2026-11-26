@@ -106,28 +106,16 @@ WHAT YOU CAN DO WITH YOUR HANDS
   would knock over and which pieces aren't connected to it.
 - continue: keep doing what you're doing.  stop: put things down and just watch or talk.
 
-STROKES (for build)
-Starting something new, by eye (lands within about a third of a unit of where you aim, and may be
-turned a few degrees; spacing within the stroke stays even):
-- {{"type":"line","x0":10,"y0":5,"x1":14,"y1":5,"spacing":0.55}}  from (x0,y0) toward (x1,y1),
-  facing along the line.
-- {{"type":"arc","cx":20,"cy":20,"r":4,"a0":180,"a1":270,"spacing":0.55}}  around a circle centred
-  at (cx,cy), from angle a0 to a1 (points at cx+r*cos(a), cy+r*sin(a)), facing the direction of travel.
-  a1 > a0 goes clockwise on the map; a1 < a0 anticlockwise. Keep r at 1.5 or more.
-- {{"type":"domino","x":12,"y":8,"angle":90}}  one domino.
-Building onto dominoes that are already standing (your hands line it up against the real domino,
-so this is precise):
-- {{"type":"extend","from":[x,y],"toward":[x,y],"count":12}}  carry on from the line end nearest
-  "from" (or branch off the side of a line), curving gently toward "toward".
-- {{"type":"connect","from":[x,y],"to":[x,y]}}  join two pieces: from the line end nearest "from" to
-  the domino nearest "to", arriving behind it so the fall carries on into it. It routes around what's
-  already on the table.
-- {{"type":"fix","at":[x,y]}}  close the break nearest that spot the way hands do: nudge the next
-  domino into line, or if that can't work, bridge the gap to the piece it was heading for.
-Lining up comes naturally: if you start a stroke right where a line ends, your hands line the first
-domino up with that line's last one. If what you're laying ends just behind the start of another
-line, you bend your last few dominoes so it runs into it.
-Spacing of about 0.5-0.6 is comfortable. One build can be up to 40 dominoes.
+WHAT GOES IN A BUILD
+Everything on the table is built from the scratch pad: draw it first, then build it.
+- {{"type":"trace","stroke":3}}  copy stroke 3 from the pad onto the table (see THE SCRATCH PAD).
+  Tracing a stroke that's already on the table lifts it and lays it again: that's how you redo a
+  stroke that came out wrong.
+- To add something that isn't on the pad yet, pick up the pad, sketch it, then trace it.
+- {{"type":"fix","at":[x,y]}}  close a small break near that spot (a domino or two): your hands nudge
+  the next domino into line or bridge a tiny gap. Bigger breaks: trace the stroke again.
+- "restand": [x0,y0,x1,y1] stands knocked-over dominoes in that area back up.
+Several strokes can go in one build; one build can be up to 40 dominoes.
 """
 
 OUTPUT_FORMAT = """Reply with one JSON object and nothing else. Leave out fields you don't need.

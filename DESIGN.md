@@ -314,6 +314,19 @@ against 1 of 9 before. The two failures came from sketch shapes the engine didn'
 Scripted check after these fixes (20 games each, free hands repair breaks): typical fish 17/20 at
 90%+ (mean 94%); lead-in sketch 17/20 (mean 93%); V-tail sketch 10/20 at 90%+, 15/20 at 85%+ (mean 88%).
 
+### 4.4j Batches 2–3 and building only from the pad
+
+- **Batch 2:** 4 of 8 recognized. The failures came from fix and connect spam wrecking good builds, and
+  from weak sketches. Fix is now limited to small breaks (up to 5 dominoes); re-tracing a stroke lifts
+  it and lays it again; the rulebook says the judge sees only the outline.
+- **Batch 3:** 6 of 8 recognized (larger model 3/4, small 3/4). The table that keeps failing (table B,
+  seed 2, both batches) drifted back to free-hand lines and connections.
+- **Building only from the pad** (default; `--free-hand` restores the old strokes). Everything on the
+  table is built by tracing pad strokes; to add something, sketch it on the pad first, then trace it.
+  Hands still fix small breaks, stand knocked dominoes back up, take dominoes away and inspect. Who
+  sketches, how the work is split, waiting on dependencies and repairs all remain; the free-hand
+  failure route is gone.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

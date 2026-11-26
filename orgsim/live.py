@@ -65,6 +65,7 @@ class LiveConfig:
     freehand_sigma: float = 0.3      # how far off a stroke aimed by eye lands (units)
     snap: bool = True                # line new dominoes up with a line end / close a small gap by hand
     show_reach: bool = False         # draw what the start dominoes would knock over darker than the rest
+    pad_only: bool = False           # builds come from the pad (trace) plus small repairs (fix, restand)
     skills: dict = field(default_factory=dict)  # name -> {"speed": x, "error": y}; 1.0 = average hands
 
 
@@ -495,6 +496,9 @@ class LiveGame:
             for s in d.strokes or []:
                 try:
                     room = self.cfg.max_queue - len(specs)
+                    if self.cfg.pad_only and s.get("type") not in ("trace", "fix"):
+                        bad.append(f"{s.get('type')!r} isn't how this table builds: sketch it on the pad, then trace it")
+                        continue
                     if s.get("type") == "trace":
                         try:
                             k = int(s.get("stroke"))

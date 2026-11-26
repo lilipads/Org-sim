@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.99,
+      "error": 1.32
+    },
+    "Omar": {
+      "speed": 1.38,
+      "error": 1.01
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 1.58
+    },
+    "Jack": {
+      "speed": 0.65,
+      "error": 1.04
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1077.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "a single hand-drawn curvy stroke with curls at both ends",
+      "a stylized creature or animal outline, such as a tail or a snake",
+      "a river or road winding across the page with a fork at each end"
+    ],
+    [
+      "a single hand-drawn curving line with hooks, like a stylized creature or tail",
+      "a winding river or road with curled ends",
+      "an abstract squiggle or wave stroke"
+    ],
+    [
+      "tangled cord or rope",
+      "stylized bird or wing",
+      "fishing line with a hook"
+    ]
+  ],
+  "placed": 233,
+  "fell": 81,
+  "completion": 0.348,
+  "team_score": 0.058,
+  "first_domino_at": "0:15",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Hana": 17,
+    "Jack": 11,
+    "Omar": 3
+  },
+  "held_thoughts": 77,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 2,
+    "input_tokens": 310,
+    "cache_creation_tokens": 770429,
+    "cache_read_tokens": 464959,
+    "output_tokens": 85487,
+    "seconds": 1807.1,
+    "api_equivalent_usd": 3.8409
+  }
+}

@@ -42,6 +42,7 @@ def main():
     ap.add_argument("--names", default=None, help="comma-separated persona names to seat (overrides --size)")
     ap.add_argument("--seconds-per-domino", type=float, default=3.0, help="average hand speed")
     ap.add_argument("--same-hands", action="store_true", help="everyone builds at the same speed and accuracy")
+    ap.add_argument("--free-hand", action="store_true", help="also allow free-hand strokes (line, arc, extend, connect)")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -75,7 +76,7 @@ def main():
             skills[n] = {"speed": round(r.uniform(0.6, 1.6), 2), "error": round(r.uniform(0.5, 2.0), 2)}
     cfg = LiveConfig(seconds_per_domino=args.seconds_per_domino, skills=skills,duration=args.minutes * 60, seed=args.seed, view=args.view,
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
-                     freehand_sigma=freehand, show_reach=(args.view == "image"),
+                     freehand_sigma=freehand, show_reach=(args.view == "image"), pad_only=not args.free_hand,
                      view_dir=tempfile.mkdtemp(prefix="views_") if args.view == "image" else None)
     agents = []
     for n in names:
