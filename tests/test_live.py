@@ -284,3 +284,17 @@ def test_pad_tables_ignore_a_second_start():
     g.run()
     starts = [d for d in g.world.dominoes.values() if d.start]
     assert len(starts) == 1 and starts[0].x < 6
+
+
+def test_redrawing_start_moves_the_start_when_stroke_1_is_traced_again():
+    s1 = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    s2 = [{"type": "curve", "points": [[18, 14], [12, 13], [6, 14]]}]
+    tr = {"type": "trace", "stroke": 1}
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=s1),
+                   Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 8
+             + [Decision(sketch_clear=True, sketch=s2), Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 30)
+    g = LiveGame(table_world(phys=EXACT), [a], LiveConfig(duration=600, idle_quiet=15, max_quiet=15, pad_only=True,
+                                                           announce_at=(), scratchpad_until=600, seconds_per_domino=3))
+    g.run()
+    starts = [d for d in g.world.dominoes.values() if d.start]
+    assert len(starts) == 1 and starts[0].x > 15 and starts[0].y > 12

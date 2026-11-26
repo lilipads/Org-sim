@@ -666,3 +666,10 @@ game someone also set `"start": true` on their own stroke, which moved the start
 then toppled only that stroke (6-44 dominoes). On pad tables the start is now fixed: it sits at START on
 the pad and comes with stroke 1; a `start` flag on any other build is ignored with a note. Batch 8
 (seeds 81/82) measures it.
+
+### 4.4o Batch 8: the larger model is there; the small one isn't
+
+Batch 8 (one start only): sonnet 4/4 recognized with 100% fallen in every game, so 8/8 across batches 7-8.
+Haiku 1.2/4 (scores 0, 0.5, 0.33, 0.33): its teams redraw the sketch mid-build, leave gaps at junctions,
+and sketch shapes judges read as boats or birds. One game had the start left behind on an old sketch
+after START was redrawn; tracing stroke 1 at a moved START now moves the start with it.

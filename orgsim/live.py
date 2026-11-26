@@ -536,8 +536,11 @@ class LiveGame:
                         err = self.cfg.skills.get(n, {}).get("error", 1.0)
                         # tracing a stroke again: its old dominoes are lifted first, so plan as if gone
                         old = set(i for i in self.traced.get(k, ()) if i in self.world.dominoes)
+                        # a start left over from an earlier sketch (START since moved) doesn't count:
+                        # tracing stroke 1 at the new START moves the start there
                         has_start = any(x.start for x in self.world.dominoes.values()
-                                        if x.region == self.location[n] and x.id not in old) \
+                                        if x.region == self.location[n] and x.id not in old
+                                        and (origin is None or math.hypot(x.x - origin[0], x.y - origin[1]) <= 2.0)) \
                             or self._someone_laying_start(n)
                         lead = None
                         at_origin = origin is not None and math.hypot(pts_src[0][0] - origin[0],
