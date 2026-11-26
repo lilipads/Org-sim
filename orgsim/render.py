@@ -101,3 +101,80 @@ def topple_gif(world: World, times: dict, path: str, scale: int = 10, fps: int =
         frames.append(Image.open(p).convert("P", palette=Image.ADAPTIVE))
     frames[0].save(path, save_all=True, append_images=frames[1:], duration=int(1000 / fps), loop=0)
     return path
+
+
+def agent_view_png(world: World, region, path: str, markers: dict | None = None,
+                   hands: dict | None = None, scale: int = 18) -> str:
+    """What a person standing at the table sees, as an image for an agent.
+
+    Standing dominoes are dark bars across their line of fall with an orange tick
+    on the side they'll fall toward; knocked-over ones lie flat in red; the start
+    domino is ringed in green; people pointing show as a labelled circle; people
+    working show their name where their hands are. Light grid lines every unit and
+    labelled lines every 5 units let the viewer read rough coordinates."""
+    _require_pil()
+    from PIL import Image, ImageDraw, ImageFont
+    x0, y0, x1, y1 = region.x0, region.y0, region.x1, region.y1
+    pad = 28
+    W, H = int((x1 - x0) * scale) + 2 * pad, int((y1 - y0) * scale) + 2 * pad
+    img = Image.new("RGB", (W, H), (252, 250, 245))
+    dr = ImageDraw.Draw(img)
+    try:
+        font = ImageFont.load_default(size=13)
+    except TypeError:  # older Pillow
+        font = ImageFont.load_default()
+
+    def px(x, y):
+        return (pad + (x - x0) * scale, pad + (y - y0) * scale)
+
+    labels = []
+
+    def label(cx, cy, text, color):
+        labels.append((cx, cy, text, color))
+
+    dr.rectangle([px(x0, y0), px(x1, y1)], fill=(244, 238, 226), outline=(190, 180, 160))
+    for gx in range(int(x0), int(x1) + 1):
+        col = (205, 196, 178) if gx % 5 == 0 else (233, 226, 212)
+        dr.line([px(gx, y0), px(gx, y1)], fill=col, width=1)
+        if gx % 5 == 0:
+            dr.text((px(gx, y0)[0] - 6, 6), str(gx), fill=(110, 100, 85), font=font)
+            dr.text((px(gx, y1)[0] - 6, H - pad + 8), str(gx), fill=(110, 100, 85), font=font)
+    for gy in range(int(y0), int(y1) + 1):
+        col = (205, 196, 178) if gy % 5 == 0 else (233, 226, 212)
+        dr.line([px(x0, gy), px(x1, gy)], fill=col, width=1)
+        if gy % 5 == 0:
+            dr.text((4, px(x0, gy)[1] - 7), str(gy), fill=(110, 100, 85), font=font)
+            dr.text((W - pad + 4, px(x0, gy)[1] - 7), str(gy), fill=(110, 100, 85), font=font)
+    for d in world.dominoes.values():
+        if not region.contains(d.x, d.y):
+            continue
+        rad = math.radians(d.angle)
+        ux, uy = math.cos(rad), math.sin(rad)
+        if d.state == "down":
+            dr.line([px(d.x, d.y), px(d.x + 0.9 * ux, d.y + 0.9 * uy)], fill=(200, 60, 50), width=max(2, scale // 5))
+            continue
+        hx, hy = -uy * 0.25, ux * 0.25
+        dr.line([px(d.x - hx, d.y - hy), px(d.x + hx, d.y + hy)], fill=(40, 40, 46), width=max(2, scale // 6))
+        dr.line([px(d.x, d.y), px(d.x + 0.32 * ux, d.y + 0.32 * uy)], fill=(214, 120, 30), width=max(2, scale // 8))
+        if d.start:
+            cx, cy = px(d.x, d.y)
+            r = 0.7 * scale
+            dr.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(30, 150, 70), width=3)
+            label(cx, cy - r - 16, "START", (30, 130, 60))
+    for name, (x, y) in (hands or {}).items():
+        if region.contains(x, y):
+            cx, cy = px(x, y)
+            dr.ellipse([cx - 4, cy - 4, cx + 4, cy + 4], fill=(60, 90, 160))
+            label(cx + 8, cy + 8, f"{name}'s hands", (60, 90, 160))
+    for name, (x, y) in (markers or {}).items():
+        if region.contains(x, y):
+            cx, cy = px(x, y)
+            r = 0.9 * scale
+            dr.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(150, 70, 170), width=3)
+            label(cx + r + 4, cy - 8, f"{name} is pointing here", (130, 60, 150))
+    for cx, cy, text, color in labels:       # labels last, on a light backing so they stay readable
+        box = dr.textbbox((cx, cy), text, font=font)
+        dr.rectangle([box[0] - 3, box[1] - 2, box[2] + 3, box[3] + 2], fill=(255, 255, 255), outline=color)
+        dr.text((cx, cy), text, fill=color, font=font)
+    img.save(path)
+    return path

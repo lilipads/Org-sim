@@ -144,16 +144,41 @@ class CallLog:
 
 
 def call_model(system: str, prompt: str, log: CallLog | None = None, tag: str = "",
-               model: str = MODEL, tools: str = "", cwd: str | None = None) -> str:
-    """One stateless call through Claude Code's non-interactive mode. Returns the text."""
-    cmd = ["claude", "-p", "--model", model, "--output-format", "json", "--system-prompt", system,
+               model: str = MODEL, tools: str = "", cwd: str | None = None,
+               image: str | None = None) -> str:
+    """One stateless call through Claude Code's non-interactive mode. Returns the text.
+    With `image` (a PNG path), the picture is attached to the message itself."""
+    cmd = ["claude", "-p", "--model", model, "--system-prompt", system,
            "--tools", tools, "--no-session-persistence", "--strict-mcp-config", "--setting-sources", ""]
+    if image:
+        import base64
+        with open(image, "rb") as f:
+            data = base64.b64encode(f.read()).decode()
+        stdin = json.dumps({"type": "user", "message": {"role": "user", "content": [
+            {"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": data}},
+            {"type": "text", "text": prompt}]}}) + "\n"
+        cmd += ["--input-format", "stream-json", "--output-format", "stream-json", "--verbose"]
+    else:
+        stdin = prompt
+        cmd += ["--output-format", "json"]
     t0 = time.time()
-    rec = {"tag": tag, "model": model, "system_chars": len(system), "prompt_chars": len(prompt)}
+    rec = {"tag": tag, "model": model, "system_chars": len(system), "prompt_chars": len(prompt),
+           "image": bool(image)}
     try:
-        p = subprocess.run(cmd, input=prompt, capture_output=True, text=True, timeout=CALL_TIMEOUT,
-                           cwd=cwd)
-        out = json.loads(p.stdout) if p.stdout.strip().startswith("{") else {}
+        p = subprocess.run(cmd, input=stdin, capture_output=True, text=True, timeout=CALL_TIMEOUT, cwd=cwd)
+        out = {}
+        if image:
+            for line in p.stdout.splitlines():
+                line = line.strip()
+                if line.startswith("{"):
+                    try:
+                        ev = json.loads(line)
+                    except json.JSONDecodeError:
+                        continue
+                    if ev.get("type") == "result":
+                        out = ev
+        elif p.stdout.strip().startswith("{"):
+            out = json.loads(p.stdout)
         text = out.get("result", "") or ""
         rec.update(ok=bool(text) and not out.get("is_error"), usage=out.get("usage"),
                    cost_usd=out.get("total_cost_usd"), seconds=round(time.time() - t0, 2),

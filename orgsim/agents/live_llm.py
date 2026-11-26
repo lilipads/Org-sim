@@ -20,8 +20,7 @@ THE TABLE
 - x runs from 0 (left) to {w} (right), y from 0 (top) to {h} (bottom). 1 unit = one domino's height.
 - A domino falls in the direction it faces. Angles: 0 = right (+x), 90 = down (+y), 180 = left,
   270 = up.
-- The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked over,
-  . = empty, and a lower-case letter where someone is pointing right now (their initial).
+{view_rules}
 - There are no rulers. You judge positions by eye, to about a unit. Positions people mention, and
   everything you learn by looking, are rough.
 
@@ -132,6 +131,15 @@ PERSONAS_V2 = {
 }
 TABLE_OF_4_V2 = ["Ava", "Ben", "Chloe", "Dev"]
 
+VIEW_RULES = {
+    "text": ("- The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked\n"
+             "  over, . = empty, and a lower-case letter where someone is pointing right now (their initial)."),
+    "image": ("- Each time you decide, you see the table: a picture comes with every message. Standing dominoes are dark bars\n"
+              "  with an orange tick on the side they'll fall toward. Knocked-over ones lie flat in red. The start\n"
+              "  domino is ringed in green. A purple circle shows where someone is pointing, and a blue label shows\n"
+              "  where someone's hands are working. Grid lines are 1 unit apart, labelled every 5."),
+}
+
 
 def fmt_to(to) -> str:
     if to in (None, "everyone"):
@@ -165,7 +173,7 @@ class LiveLLMAgent(LiveAgentBase):
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
             "THE TABLE NOW:",
-            obs["map"],
+            ("(the attached picture: the table as you see it right now)" if obs.get("view_dir") else obs["map"]),
             "",
             "CONVERSATION (last few minutes; * = new since you last took stock):",
             "\n".join(convo) or "(nobody has said anything yet)",
@@ -177,10 +185,19 @@ class LiveLLMAgent(LiveAgentBase):
             obs["notes"] or "(empty)",
         ])
 
+    @staticmethod
+    def _image(obs: dict) -> str | None:
+        import os
+        if not obs.get("view_dir"):
+            return None
+        path = os.path.join(obs["view_dir"], "table.png")
+        return path if os.path.exists(path) else None
+
     def act(self, obs: dict) -> Decision:
         prompt = self.situation(obs) + "\n\nWhat do you say and do now?\n" + OUTPUT_FORMAT
         for _ in range(2):
-            text = call_model(self.system, prompt, self.log, f"{self.name}/{obs['clock']}", self.model)
+            text = call_model(self.system, prompt, self.log, f"{self.name}/{obs['clock']}", self.model,
+                              image=self._image(obs))
             d = parse_json(text)
             if isinstance(d, dict):
                 return self.to_decision(d)
@@ -217,5 +234,6 @@ class LiveLLMAgent(LiveAgentBase):
             obs = dict(obs, conversation=full_conversation)
         prompt = (self.situation(obs) + "\n\nTime is up. In one or two words: which animal is your "
                   "table's picture meant to be? Reply with JSON only: {\"animal\": \"...\"}")
-        d = parse_json(call_model(self.system, prompt, self.log, f"{self.name}/intent", self.model)) or {}
+        d = parse_json(call_model(self.system, prompt, self.log, f"{self.name}/intent", self.model,
+                                  image=self._image(obs))) or {}
         return str(d.get("animal") or "").strip().lower()

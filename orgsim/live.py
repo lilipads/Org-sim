@@ -30,7 +30,7 @@ from .dominoes import World
 from .handwork import (anchored_specs, area_words, describe_spot, direction, eye_inspect,
                        fix_specs, freehand_specs, where)
 from .game import push_world
-from .render import ascii_map
+from .render import agent_view_png, ascii_map
 
 DOS = ("continue", "build", "take_down", "inspect", "stop", "walk")
 
@@ -56,6 +56,8 @@ class LiveConfig:
     shared_pool: str | None = None
     reveal_threshold: float = 0.5
     seed: int = 0
+    view: str = "text"               # text (ASCII map) | image (rendered picture of the table)
+    view_dir: str | None = None      # where image views are written
 
 
 @dataclass
@@ -195,6 +197,23 @@ class LiveGame:
             "start_status": self.start_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
+        if self.cfg.view == "image":
+            import os
+            import tempfile
+            base = self.cfg.view_dir or tempfile.gettempdir()
+            folder = os.path.join(base, f"{name}_{int(self.t)}")
+            os.makedirs(folder, exist_ok=True)
+            markers = {o: (x, y) for o, (x, y, t, _) in self.markers.items() if self.t - t <= 30}
+            hands = {}
+            for o in self.here(name):
+                t = self.task[o]
+                if t and t["kind"] == "build" and (t.get("last") or t.get("aim")):
+                    hands[o] = t.get("last") or t.get("aim")
+                elif t and t["kind"] in ("take_down", "inspect"):
+                    a0, b0, a1, b1 = t["area"]
+                    hands[o] = ((a0 + a1) / 2, (b0 + b1) / 2)
+            agent_view_png(self.world, loc, os.path.join(folder, "table.png"), markers, hands)
+            obs["view_dir"] = folder
         if len(self.world.regions) > 1:
             obs["room_overview"] = ascii_map(self.world, 0, 0, self.world.width, self.world.height, step=3.0)
         return obs
