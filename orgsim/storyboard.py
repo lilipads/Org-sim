@@ -152,7 +152,10 @@ def storyboard(log: dict, out_dir: str, cut_minutes: list) -> list:
     os.makedirs(out_dir, exist_ok=True)
     names = [a["name"] for a in log["agents"]]
     turns = log["turns"]
-    bounds = crop_bounds(log)
+    tables = [r for r in log.get("regions", []) if r.get("kind") == "table"]
+    W = max((r["x1"] for r in tables), default=60)
+    H = max((r["y1"] for r in tables), default=40)
+    bounds = crop_bounds(log, W, H, pad=max(2.0, W / 15))
     moments = []
     prev_ids: set = {r[0] for r in log["initial"]}
     prev_t = -1.0

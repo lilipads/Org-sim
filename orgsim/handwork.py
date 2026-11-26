@@ -181,7 +181,8 @@ def _cost(world: World, path: list, ignore: set, clearance: float = 0.42) -> flo
     return bad
 
 
-def approach(world: World, x: float, y: float, h: float, b, max_steps: int = 160) -> list:
+def approach(world: World, x: float, y: float, h: float, b, max_steps: int = 160,
+             extra_ignore: set = frozenset()) -> list:
     """Plan a smooth path by hand from pose (x, y, h) to squarely behind domino b,
     facing the way b falls, so the last new domino knocks b over. Tries several
     curve shapes (direct, wider, or round either side) and keeps the shortest
@@ -190,7 +191,7 @@ def approach(world: World, x: float, y: float, h: float, b, max_steps: int = 160
     ux, uy = math.cos(rb), math.sin(rb)
     nx, ny = -uy, ux
     end = (b.x - SPACING * ux, b.y - SPACING * uy)
-    ignore = {d.id for d in world.near(b.x, b.y, 0.8)} | {d.id for d in world.near(x, y, 0.7)}
+    ignore = {d.id for d in world.near(b.x, b.y, 0.8)} | {d.id for d in world.near(x, y, 0.7)} | set(extra_ignore)
     dist = math.hypot(end[0] - x, end[1] - y)
     cands = []
     for k in (0.35, 0.5, 0.7, 1.0, 1.4):
@@ -357,12 +358,91 @@ def fix_specs(world: World, s: dict, max_n: int) -> tuple:
     return [("place", p) for p in pts[:max_n]], f"bridging the break near {where(d.x, d.y)}"
 
 
-def freehand_specs(s: dict, rng: random.Random) -> list:
+def snap_start(world: World, specs: list) -> tuple:
+    """People line a new domino up with the last one in a line without thinking about
+    it. If a stroke starts just past the end of a standing line, heading roughly the
+    same way, it carries on from that domino precisely. Returns (specs, note or "")."""
+    if not specs:
+        return specs, ""
+    x, y, a = specs[0]
+    best = None
+    for e in world.near(x, y, 1.6):
+        if e.state != "up" or world.successors(e):
+            continue
+        turn = angle_diff(a, e.angle)
+        if abs(turn) > 60:
+            continue
+        r = math.radians(e.angle)
+        if (x - e.x) * math.cos(r) + (y - e.y) * math.sin(r) < -0.3:
+            continue
+        dist = math.hypot(x - e.x, y - e.y)
+        if best is None or dist < best[0]:
+            best = (dist, e, turn)
+    if best is None:
+        return specs, ""
+    _, e, turn = best
+    rot = 0.0 if abs(turn) <= 30 else -(turn - math.copysign(30, turn))
+    r = math.radians(e.angle)
+    nx, ny = e.x + SPACING * math.cos(r), e.y + SPACING * math.sin(r)
+    c, si = math.cos(math.radians(rot)), math.sin(math.radians(rot))
+    out = []
+    for px_, py_, pa in specs:
+        rx, ry = px_ - x, py_ - y
+        out.append((nx + rx * c - ry * si, ny + rx * si + ry * c, (pa + rot) % 360))
+    return out, f"carrying on from the end of a line near {where(e.x, e.y)}"
+
+
+def end_join(world: World, d, removable: set = frozenset(), max_n: int = 14) -> list:
+    """When a line you're laying ends near the start of another line, heading toward it,
+    you bend your last few dominoes so the line runs into it. Lifts up to three of your
+    own last dominoes (from `removable`) and lays a smooth curve into the other line.
+    Returns ops: ("remove", id), ("place", (x, y, a)); [] if there's nothing to join."""
+    if d is None or d.state != "up" or world.successors(d):
+        return []
+    r = math.radians(d.angle)
+    target = None
+    for b in sorted(world.near(d.x, d.y, 3.0), key=lambda b: math.hypot(b.x - d.x, b.y - d.y)):
+        if b.id == d.id or b.state != "up" or _has_pred(world, b):
+            continue
+        if (b.x - d.x) * math.cos(r) + (b.y - d.y) * math.sin(r) <= 0:
+            continue
+        if abs(angle_diff(b.angle, d.angle)) > 70:
+            continue
+        target = b
+        break
+    if target is None:
+        return []
+    for k in range(0, 4):                      # lift 0..3 of the line's own last dominoes
+        chain, cur = [d], d
+        while len(chain) <= k:
+            preds = [p for p in world.near(cur.x, cur.y, 1.0)
+                     if p.id != cur.id and p.state == "up" and world.hit(p, cur)[0]]
+            if not preds:
+                break
+            cur = preds[0]
+            chain.append(cur)
+        if len(chain) <= k:
+            break
+        lifted, anchor = chain[:k], chain[k]
+        if any(x.id not in removable for x in lifted):
+            break
+        ra = math.radians(anchor.angle)
+        x, y, h = anchor.x + SPACING * math.cos(ra), anchor.y + SPACING * math.sin(ra), anchor.angle
+        skip = {x_.id for x_ in lifted}
+        path = approach(world, x, y, h, target, max_steps=max_n, extra_ignore=skip)
+        ign = skip | {o.id for o in world.near(target.x, target.y, 0.8)} | {anchor.id}
+        if len(path) <= max_n and _cost(world, path, ign, clearance=0.3) == 0:
+            return [("remove", x_.id) for x_ in lifted] + [("place", p) for p in path]
+    return []
+
+
+def freehand_specs(s: dict, rng: random.Random, pos_sigma: float | None = None) -> list:
     """A stroke aimed by eye: the whole thing shifts and turns slightly."""
     specs = expand_stroke(s)
     if not specs:
         return specs
-    dx, dy = rng.gauss(0, FREEHAND_POS), rng.gauss(0, FREEHAND_POS)
+    sig = FREEHAND_POS if pos_sigma is None else pos_sigma
+    dx, dy = rng.gauss(0, sig), rng.gauss(0, sig)
     rot = rng.gauss(0, FREEHAND_ROT)
     ox, oy = specs[0][0], specs[0][1]
     c, si = math.cos(math.radians(rot)), math.sin(math.radians(rot))

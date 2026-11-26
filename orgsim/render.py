@@ -104,7 +104,7 @@ def topple_gif(world: World, times: dict, path: str, scale: int = 10, fps: int =
 
 
 def agent_view_png(world: World, region, path: str, markers: dict | None = None,
-                   hands: dict | None = None, scale: int = 18) -> str:
+                   hands: dict | None = None, scale: int | None = None) -> str:
     """What a person standing at the table sees, as an image for an agent.
 
     Standing dominoes are dark bars across their line of fall with an orange tick
@@ -115,6 +115,8 @@ def agent_view_png(world: World, region, path: str, markers: dict | None = None,
     _require_pil()
     from PIL import Image, ImageDraw, ImageFont
     x0, y0, x1, y1 = region.x0, region.y0, region.x1, region.y1
+    if scale is None:
+        scale = max(14, min(40, int(1080 / max(1e-9, x1 - x0))))
     pad = 28
     W, H = int((x1 - x0) * scale) + 2 * pad, int((y1 - y0) * scale) + 2 * pad
     img = Image.new("RGB", (W, H), (252, 250, 245))

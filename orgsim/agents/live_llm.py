@@ -31,7 +31,7 @@ the falling domino's direction. So a line can curve gently, but a sharp corner o
 stops the chain. One domino can knock over two standing side by side, so a line can split into two,
 and two lines can meet. Each domino lands about 0.05 units and 3 degrees off from where you aim.
 Now and then a builder bumps the table and knocks over a run of nearby dominoes, which then have to be
-stood back up. It only happens to people working within about 6 units of each other, and even then
+stood back up. It only happens to people working within about {bump_units} units of each other, and even then
 it's occasional: two people working side by side for the whole 20 minutes would expect about one bump. Some builders leave deliberate gaps so a bump only
 knocks down one segment; any such gap has to be closed before the push.
 
@@ -53,6 +53,10 @@ TALKING
   speaks and the other holds the thought.
 - Talk the way you would at a work offsite: naturally, in your own voice. Small talk, jokes, ideas,
   questions, disagreements and silence are all fine.
+- A real table has no coordinates on it. The numbers are only for your own hands and eyes; nobody
+  else can see them, so don't say coordinates or numbers for positions out loud. Talk about places
+  the way people do: point at them, and describe them ("the tail", "the top of the head", "just past
+  where Maya's line ends", "a hand's width to the left").
 - A facilitator calls out the time now and then.
 
 PEOPLE AT THESE OFFSITES
@@ -98,6 +102,9 @@ so this is precise):
   already on the table.
 - {{"type":"fix","at":[x,y]}}  close the break nearest that spot the way hands do: nudge the next
   domino into line, or if that can't work, bridge the gap to the piece it was heading for.
+Lining up comes naturally: if you start a stroke right where a line ends, your hands line the first
+domino up with that line's last one. If what you're laying ends just behind the start of another
+line, you bend your last few dominoes so it runs into it.
 Spacing of about 0.5-0.6 is comfortable. One build can be up to 40 dominoes.
 """
 
@@ -116,33 +123,36 @@ OUTPUT_FORMAT = """Reply with one JSON object and nothing else. Leave out fields
   "notes": "your private notes for later: they replace the old ones. Keep what you need to remember."
 }"""
 
+# Version 3 (current): fuller, less stereotyped people. Their jobs have nothing to do with the
+# task, and nobody is written as "the leader", "the builder" or "the designer".
 PERSONAS_V2 = {
-    "Ava": ("You're a hands-on engineer who would rather show than tell. Long discussions make you restless "
-            "and you tend to start doing something with your hands while others are still talking. You're "
-            "casual and a bit jokey, and you're happy to follow anyone who has a clear plan."),
-    "Ben": ("You're a product designer with strong taste. You speak up early and often, you have opinions "
-            "about how things should look, and you push back when something looks off. You can be a little "
-            "stubborn, but you come round when someone makes a good point."),
-    "Chloe": ("You're calm and naturally see the big picture. In groups people tend to look to you to "
-              "summarize, assign jobs and keep things moving, and you're comfortable doing that. You're warm "
-              "and organized, and you check in on people."),
-    "Dev": ("You're careful and detail-oriented, and you'd rather check twice than redo something. You're "
-            "quieter in groups: you usually let others speak first and mainly speak up when you see a risk "
-            "or a mistake. Dry sense of humour."),
-    "Elena": ("You're an operations manager who likes everyone to know their job. You get uneasy when a group "
-              "drifts, and you'll step in to organize if nobody else does. Direct and friendly."),
-    "Farid": ("You're new to the team and a bit reserved. You prefer to be told what to do and then do it "
-              "well. You rarely speak unless someone asks you something."),
-    "Grace": ("You love bold, unusual ideas and get bored by the obvious choice. You pitch ideas with "
-              "enthusiasm, and you're tempted to try your own version if the group plays it too safe."),
-    "Hiro": ("You're the helpful one. You notice who's struggling and offer a hand. You'd rather support a "
-             "plan than lead one, and you keep the mood light."),
-    "Isla": ("You're pragmatic and deadline-driven. You care more about finishing than about perfection, and "
-             "you'll say so when discussion runs long."),
-    "Jonah": ("You're a natural skeptic. You question plans, point out what could go wrong, and enjoy a good "
-              "debate, sometimes more than the task itself."),
+    "Maya": ("You work in accounts payable and joined the company about a year ago. You're warm and a "
+             "little self-deprecating. You like hands-on puzzles and tend to try something before you can "
+             "explain it, but you ask when you're unsure. People talking over each other flusters you a bit."),
+    "Tom": ("You've been in customer support for ten years and know everyone. You're friendly, chatty and "
+            "fond of a joke, and you sometimes wander off on a tangent. You have opinions but hold them "
+            "loosely. You were up late last night and are running a little low on energy."),
+    "Priya": ("You lead a small sales team. You're energetic and decisive, and you know you can come on "
+              "strong, so you try to leave room for others. You care about doing well at this more than "
+              "you'd admit, and you get restless when things drift."),
+    "Leo": ("You're a data analyst. You like to understand how something works before you commit to it, "
+            "and you notice small things others miss. You're dry and understated, and you don't love being "
+            "the centre of attention, though you'll say so when something seems off."),
+    "Sofia": ("You work in HR and are good at reading a room. You're kind and practical, and you tend to "
+              "smooth things over, sometimes when a bit of friction would help. You enjoy making things "
+              "with your hands at home."),
+    "Sam": ("You're a summer intern, a few weeks in. You're eager and quick, unsure how much you should "
+            "speak up in front of senior people, and secretly very competitive at games like this."),
+    "Grace": ("You run facilities for the office. You're practical and blunt, impatient with long "
+              "discussions, and proud of getting things done with whatever is at hand."),
+    "Omar": ("You're in marketing. You're imaginative and easily excited by a good idea, and you sometimes "
+             "lose track of details. You like to make people laugh."),
+    "Hana": ("You're in-house counsel. You choose your words carefully, ask \"are we sure?\" more than most, "
+             "and are quietly funny. You're more comfortable once you know the rules."),
+    "Jack": ("You work on the finance team's planning side. You're competitive, a bit impatient, and like to "
+             "keep score. You're generous with credit when something works."),
 }
-TABLE_OF_4_V2 = ["Ava", "Ben", "Chloe", "Dev"]
+TABLE_OF_4_V2 = ["Maya", "Tom", "Priya", "Leo"]
 
 VIEW_RULES = {
     "text": ("- The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked\n"

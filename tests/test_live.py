@@ -210,3 +210,21 @@ def test_scratch_pad_pick_up_sketch_pass_and_taken_away():
         g.step()
     assert not g.pad_exists and g.log["scratchpad"]["final"] == sketch
     assert "gone" in g.pad_status("A")
+
+
+def test_snap_start_and_end_join_make_one_chain():
+    from orgsim.dominoes import Physics
+    phys = Physics(bump_chance=0.0)               # normal hand error
+    ok = 0
+    for seed in range(10):
+        a = Fake("A", [Decision(do="build", start=True,
+                                strokes=[{"type": "line", "x0": 5, "y0": 10, "x1": 10, "y1": 10}]),
+                       Decision(do="build",       # carries on by eye from roughly where the line ends
+                                strokes=[{"type": "line", "x0": 10.8, "y0": 10.3, "x1": 16, "y1": 12}])])
+        b = Fake("B", [Decision(do="build",        # a separate piece just ahead
+                                strokes=[{"type": "line", "x0": 17.5, "y0": 12.5, "x1": 22, "y1": 14}])])
+        g = LiveGame(table_world(phys=phys), [a, b], LiveConfig(duration=400, idle_quiet=1e9, max_quiet=1e9,
+                                                               announce_at=(), scratchpad_until=None, seed=seed))
+        res = g.run()
+        ok += res["per_table"]["table"]["completion"] == 1.0
+    assert ok >= 8, ok

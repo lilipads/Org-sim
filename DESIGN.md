@@ -221,6 +221,21 @@ A paper scratch pad lies on the table at the start. **Nobody holds it**, and any
 - It's a dial for the symmetry-breaking question: who reaches for the pad, and does holding it make
   them the leader?
 
+### 4.4d Making the task humane (round of changes after run 6)
+
+- **People, not archetypes.** Personas (version 3) give each person a job unrelated to the task (accounts
+  payable, support, sales, data analysis, HR, an intern, facilities, marketing, legal, finance), mixed
+  traits, a mood or quirk, and a way of talking. Nobody is written as the leader, builder or designer;
+  any role has to emerge. The table of 4 is Maya, Tom, Priya and Leo.
+- **No coordinates out loud.** Coordinates are only for the agent's own hands and eyes. Agents are told
+  nobody can see them, so they point and describe ("the tail", "just past where Maya's line ends").
+- **Bigger dominoes** (`--big`): the table is 30 × 20 domino lengths with 130 pieces. Hand error and bump
+  range are halved relative to the pieces, as they would be with bigger blocks.
+- **Natural lining up.** Starting a stroke right where a line ends lines its first domino up with that
+  line (precise). A line that ends just behind the start of another line gets its last few dominoes
+  bent so it runs into it (up to three lifted and re-laid). In tests, two separately built pieces join
+  into one chain 18 times in 20.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

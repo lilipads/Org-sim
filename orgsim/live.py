@@ -27,8 +27,9 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass, field
 
 from .dominoes import World
-from .handwork import (anchored_specs, area_words, describe_spot, direction, eye_inspect,
-                       fix_specs, freehand_specs, where)
+from .handwork import (anchored_specs, area_words, describe_spot, direction, end_join, eye_inspect,
+                       fix_specs, freehand_specs, snap_start, where)
+from .dominoes import expand_stroke
 from .game import push_world
 from .render import agent_view_png, ascii_map, sketch_png
 
@@ -59,6 +60,8 @@ class LiveConfig:
     view: str = "text"               # text (ASCII map) | image (rendered picture of the table)
     view_dir: str | None = None      # where image views are written
     scratchpad_until: float | None = 120.0  # a scratch pad lies on the table until then (None: no pad)
+    freehand_sigma: float = 0.3      # how far off a stroke aimed by eye lands (units)
+    snap: bool = True                # line new dominoes up with a line end / close a small gap by hand
 
 
 @dataclass
@@ -488,7 +491,12 @@ class LiveGame:
                         if not pts:
                             bad.append(note)
                     else:
-                        pts = freehand_specs(s, self.rng)
+                        pts, snapped = (snap_start(self.world, expand_stroke(s)) if self.cfg.snap
+                                        else ([], ""))
+                        if snapped:
+                            notes.append(snapped)
+                        else:
+                            pts = freehand_specs(s, self.rng, self.cfg.freehand_sigma)
                     specs += [("place", sp) for sp in pts]
                 except Exception as e:
                     bad.append(f"{s!r}: {e}")
@@ -540,6 +548,11 @@ class LiveGame:
                 pts, new, restood = [], [], []
                 for op in batch:
                     kind, item = op[0], op[1]
+                    if kind == "remove":
+                        d0 = self.world.dominoes.get(item)
+                        if d0 is not None:
+                            self.world.remove([item], self.pool_for_region(d0.region))
+                        continue
                     if kind == "move":
                         moved = self.world.move(item, *op[2], self.rng)
                         if moved:
@@ -602,6 +615,14 @@ class LiveGame:
         return placed_at
 
     def _finish_build(self, n: str, task: dict):
+        if self.cfg.snap and not task.get("joined") and task["placed"]:
+            task["joined"] = True
+            last = self.world.dominoes.get(task["placed"][-1])
+            ops = end_join(self.world, last, set(task["placed"]))
+            if ops:                                  # close the little gap into the next line
+                task["queue"] = ops
+                task["total"] += len(ops)
+                return
         ids = task["placed"]
         doms = [self.world.dominoes[i] for i in ids if i in self.world.dominoes]
         msg = f"Finished building ({task['label']}): placed {len(ids)}."
