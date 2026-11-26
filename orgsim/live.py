@@ -63,6 +63,7 @@ class LiveConfig:
     freehand_sigma: float = 0.3      # how far off a stroke aimed by eye lands (units)
     snap: bool = True                # line new dominoes up with a line end / close a small gap by hand
     show_reach: bool = False         # draw what the start dominoes would knock over darker than the rest
+    skills: dict = field(default_factory=dict)  # name -> {"speed": x, "error": y}; 1.0 = average hands
 
 
 @dataclass
@@ -504,7 +505,8 @@ class LiveGame:
                         if snapped:
                             notes.append(snapped)
                         else:
-                            pts = freehand_specs(s, self.rng, self.cfg.freehand_sigma)
+                            pts = freehand_specs(s, self.rng, self.cfg.freehand_sigma
+                                                 * self.cfg.skills.get(n, {}).get("error", 1.0))
                     specs += [("place", sp) for sp in pts]
                 except Exception as e:
                     bad.append(f"{s!r}: {e}")
@@ -546,7 +548,9 @@ class LiveGame:
             if not task:
                 continue
             if task["kind"] == "build":
-                rate = cfg.beat / cfg.seconds_per_domino * (cfg.talk_slowdown if n in spoke else 1.0)
+                skill = cfg.skills.get(n, {})
+                rate = (cfg.beat / cfg.seconds_per_domino * skill.get("speed", 1.0)
+                        * (cfg.talk_slowdown if n in spoke else 1.0))
                 if n in sketched:
                     rate = 0.0                   # hands are on the pad this beat
                 self.credit[n] += rate
@@ -562,16 +566,17 @@ class LiveGame:
                             self.world.remove([item], self.pool_for_region(d0.region))
                         continue
                     if kind == "move":
-                        moved = self.world.move(item, *op[2], self.rng)
+                        moved = self.world.move(item, *op[2], self.rng, err=skill.get("error", 1.0))
                         if moved:
                             restood.append(moved)
                         continue
                     if kind == "restand":
-                        restood += self.world.restand([item], self.rng)
+                        restood += self.world.restand([item], self.rng, err=skill.get("error", 1.0))
                     else:
                         start_idx = 0 if task["start"] and not task["placed"] and not new else None
                         res = self.world.place([item], n, rec["turn"], self.location[n], self.pools_for(n),
-                                               self.rng, max_n=1, start_index=start_idx)
+                                               self.rng, max_n=1, start_index=start_idx,
+                                               err=skill.get("error", 1.0))
                         new += res.placed
                         task["blocked"] += res.blocked
                 task["done"] += len(batch)

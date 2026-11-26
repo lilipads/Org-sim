@@ -40,6 +40,8 @@ def main():
                     help="scratch pad until this minute; 0 = no pad; default: the whole round")
     ap.add_argument("--model", default=None, help="model for the agents (judges keep the default)")
     ap.add_argument("--names", default=None, help="comma-separated persona names to seat (overrides --size)")
+    ap.add_argument("--seconds-per-domino", type=float, default=5.0, help="average hand speed")
+    ap.add_argument("--same-hands", action="store_true", help="everyone builds at the same speed and accuracy")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -64,8 +66,14 @@ def main():
     if unknown:
         raise SystemExit(f"unknown persona(s): {unknown}; choose from {list(PERSONAS_V2)}")
     args.size = len(names)
+    import random as _random
     import tempfile
-    cfg = LiveConfig(duration=args.minutes * 60, seed=args.seed, view=args.view,
+    skills = {}
+    if not args.same_hands:
+        r = _random.Random(1000 + args.seed)
+        for n in names:   # independent draws: fast-and-careless, slow-and-precise, and all between
+            skills[n] = {"speed": round(r.uniform(0.6, 1.6), 2), "error": round(r.uniform(0.5, 2.0), 2)}
+    cfg = LiveConfig(seconds_per_domino=args.seconds_per_domino, skills=skills,duration=args.minutes * 60, seed=args.seed, view=args.view,
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
                      freehand_sigma=freehand, show_reach=(args.view == "image"),
                      view_dir=tempfile.mkdtemp(prefix="views_") if args.view == "image" else None)
@@ -141,7 +149,8 @@ def main():
                         if any(e["type"] == "build" and e["placed"] for e in r["events"])), None)
     summary = {
         "size": args.size, "minutes": args.minutes, "view": args.view, "pad_minutes": args.pad_minutes,
-        "big_dominoes": args.big, "personas": names, "agent_model": args.model or "default (small)", "wall_seconds": round(time.time() - t0, 1),
+        "big_dominoes": args.big, "personas": names, "skills": skills,
+        "seconds_per_domino": args.seconds_per_domino, "agent_model": args.model or "default (small)", "wall_seconds": round(time.time() - t0, 1),
         "intents": intents, "team_intent": intent, "recognition": judging["recognition"],
         "recognition_if_all_fell": judging_all["recognition"],
         "pad_holders": [e.get("who") for r in game.log["turns"] for e in r["events"]

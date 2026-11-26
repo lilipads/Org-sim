@@ -262,6 +262,17 @@ natural rather than removing it:
 - **The scratch pad stays all round** (default; `--pad-minutes N` to take it away at minute N, `0` for
   no pad). This keeps the shared picture available while building, to make the game easier.
 
+### 4.4g Personas v5 and different hands
+
+- **Personas v5: personality only.** No job titles or roles. Each person is a few sentences about how
+  they are with people and with things, plus personal details (hobbies, habits) and tendencies that pull
+  against each other.
+- **Faster building:** about 5 seconds per domino on average (24 per 2 minutes), up from 10.
+- **Different hands.** Each person gets their own speed (0.6–1.6× average) and accuracy (hand error
+  0.5–2× average), drawn independently each run, so a table can have someone fast and careless and
+  someone slow and precise. Agents aren't told their own numbers; they find out by watching the work.
+  The draws are logged with each run (`skills` in the summary). `--same-hands` turns this off.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

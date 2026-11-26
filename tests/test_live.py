@@ -228,3 +228,21 @@ def test_snap_start_and_end_join_make_one_chain():
         res = g.run()
         ok += res["per_table"]["table"]["completion"] == 1.0
     assert ok >= 8, ok
+
+
+def test_people_differ_in_speed_and_accuracy():
+    import math
+    from orgsim.dominoes import Physics
+    phys = Physics(bump_chance=0.0)
+    lines = {"Fast": 5, "Slow": 15}
+    agents = [Fake(n, [Decision(do="build", strokes=[{"type": "line", "x0": 2, "y0": y, "x1": 40, "y1": y}])])
+              for n, y in lines.items()]
+    cfg = LiveConfig(duration=120, idle_quiet=1e9, max_quiet=1e9, announce_at=(), scratchpad_until=None,
+                     snap=False, freehand_sigma=0.0,
+                     skills={"Fast": {"speed": 1.6, "error": 2.0}, "Slow": {"speed": 0.6, "error": 0.5}})
+    g = LiveGame(table_world(phys=phys), agents, cfg)
+    g.run()
+    mine = {n: [d for d in g.world.dominoes.values() if d.builder == n] for n in lines}
+    assert len(mine["Fast"]) > 2 * len(mine["Slow"])
+    spread = {n: sum(abs(d.y - lines[n]) for d in ds) / len(ds) for n, ds in mine.items()}
+    assert spread["Fast"] > 2 * spread["Slow"]

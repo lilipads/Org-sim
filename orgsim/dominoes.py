@@ -127,7 +127,7 @@ class World:
     # ---- placing and removing -----------------------------------------
     def place(self, specs: list, builder: str, turn: int, allowed_region: str,
               pools: list, rng: random.Random, max_n: int = 8,
-              start_index: int | None = None) -> PlaceResult:
+              start_index: int | None = None, err: float = 1.0) -> PlaceResult:
         """specs: list of (x, y, angle) intended placements. pools: supply pools
         to draw from, in order. start_index: which spec (if any) is the start."""
         res = PlaceResult()
@@ -143,9 +143,9 @@ class World:
             if not region.contains(ix, iy):     # judged by where the builder aimed
                 res.blocked.append((ix, iy, f"outside {region.name}"))
                 continue
-            x = ix + rng.gauss(0, self.phys.pos_sigma)
-            y = iy + rng.gauss(0, self.phys.pos_sigma)
-            a = (ia + rng.gauss(0, self.phys.angle_sigma)) % 360.0
+            x = ix + rng.gauss(0, self.phys.pos_sigma * err)
+            y = iy + rng.gauss(0, self.phys.pos_sigma * err)
+            a = (ia + rng.gauss(0, self.phys.angle_sigma * err)) % 360.0
             if any(o.id for o in self.near(x, y, self.phys.min_gap)):
                 res.blocked.append((ix, iy, "too close to another domino"))
                 continue
@@ -166,7 +166,7 @@ class World:
                 d.start = False
         self.dominoes[did].start = True
 
-    def restand(self, ids: list, rng: random.Random) -> list:
+    def restand(self, ids: list, rng: random.Random, err: float = 1.0) -> list:
         """Stand knocked-over dominoes back up near where they were meant to be."""
         out = []
         for i in ids:
@@ -175,23 +175,24 @@ class World:
                 continue
             ix, iy, ia = d.intended
             self._unindex(d)
-            d.x = ix + rng.gauss(0, self.phys.pos_sigma)
-            d.y = iy + rng.gauss(0, self.phys.pos_sigma)
-            d.angle = (ia + rng.gauss(0, self.phys.angle_sigma)) % 360.0
+            d.x = ix + rng.gauss(0, self.phys.pos_sigma * err)
+            d.y = iy + rng.gauss(0, self.phys.pos_sigma * err)
+            d.angle = (ia + rng.gauss(0, self.phys.angle_sigma * err)) % 360.0
             d.state, d.down_cause = "up", None
             self._index(d)
             out.append(d)
         return out
 
-    def move(self, did: int, x: float, y: float, angle: float, rng: random.Random) -> Domino | None:
+    def move(self, did: int, x: float, y: float, angle: float, rng: random.Random,
+             err: float = 1.0) -> Domino | None:
         """Nudge a standing domino to a new pose (with ordinary hand error)."""
         d = self.dominoes.get(did)
         if d is None or d.state != "up":
             return None
         self._unindex(d)
-        d.x = x + rng.gauss(0, self.phys.pos_sigma)
-        d.y = y + rng.gauss(0, self.phys.pos_sigma)
-        d.angle = (angle + rng.gauss(0, self.phys.angle_sigma)) % 360.0
+        d.x = x + rng.gauss(0, self.phys.pos_sigma * err)
+        d.y = y + rng.gauss(0, self.phys.pos_sigma * err)
+        d.angle = (angle + rng.gauss(0, self.phys.angle_sigma * err)) % 360.0
         d.intended = (x, y, angle)
         self._index(d)
         return d
