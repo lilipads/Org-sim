@@ -1,0 +1,8 @@
+[   12s] 0:00 asked Ava,Ben,Chloe,Dev | dominoes 1 | calls 4
+    Ben -> everyone: Right, I'd like to do a fish, side view, facing right. Round body, tail on the left. I'm starting the outline at the tail end and running it over the back toward the nose. Shout if you'd rather do som
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[   20s] 0:15 asked Chloe,Dev | dominoes 5 | calls 6
+    Chloe -> everyone: Ben, I like the fish, side view facing right. It's easy to read from across the room. Let's keep the body as one chain from your tail end. I'll take the tail and fins, and Ava, could you check that yo
+    (Dev held a thought)
