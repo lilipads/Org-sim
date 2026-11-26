@@ -67,7 +67,7 @@ are measured in **domino heights**: a standing domino is 1 unit tall, so it reac
 6. **Only dominoes knocked over by the push show in the picture.** Standing dominoes are invisible.
    Dominoes that were knocked over early (for example, by a bump) and never stood back up still show,
    but they break the chain at that point.
-7. The round has a **time limit**: 10 turns of 2 game-minutes each *(tune)*.
+7. The round has a **time limit**: 20 minutes of game time *(tune)*. See §4.4 for how time works.
 
 ### 3.3 Physical realism: placement error and bumps
 
@@ -133,13 +133,19 @@ Teams **are not told about round 2** until round 1 is over.
 - Calls go through Claude Code's non-interactive mode in the cloud session, on the Pro plan. There is no
   API key. Each call uses a **minimal custom system prompt with tools disabled**, to keep usage per call
   low.
-- Agents **decide simultaneously** each turn. Calls within a turn run in parallel.
+- Agents are asked to decide only when something calls for it (§4.5). Agents asked at the same moment
+  are called in parallel.
 
 ### 4.2 Personas
 
-Each agent has a name and a short persona written in plain words, for example "You like to get your
-hands dirty," "You have strong opinions about design," "You tend to look at the big picture," or
-"You're careful and like to double-check."
+Each agent has a name and a persona of three or four plain sentences. It covers how they work, how they
+behave in groups (for example "you tend to take charge" or "you usually let others speak first"), and how
+they talk. Example: *"You're careful and detail-oriented, and you'd rather check twice than redo
+something. You're quieter in groups: you usually let others speak first and mainly speak up when you
+see a risk or a mistake. Dry sense of humour."*
+
+The rulebook describes the mechanics neutrally. It doesn't say whether talking is good or bad, and it
+tells agents to talk naturally, in their own voice.
 
 - **Heterogeneous** (default): a fixed set of 10 personas covering builders, design-opinionated people,
   big-picture people, cautious people and risk-takers. A table of 4 uses a fixed, balanced subset.
@@ -153,46 +159,64 @@ turn. The notes hold its understanding of the design ("fox facing left, I'm doin
 right"). Two agents can leave the same discussion with different pictures in their heads, so alignment
 has to be maintained while building.
 
-### 4.4 What an agent sees each turn
+### 4.4 Time: a continuous clock (interaction model v2)
+
+The first AI pilot used fixed turns with one action each. It felt unrealistic: everyone moved at the
+same instant, so nobody could take the floor first, and you could talk *or* build but never both. The
+rulebook also framed talking as a cost, and agents avoided it. Version 2 replaces turns with a clock.
+
+- The round is **20 minutes** of game time, advancing in **15-second beats**.
+- Placing a domino carefully takes about **10 seconds** (about **12 per 2 minutes**). A beat in which you
+  speak, your hands work at half speed.
+- **Work is "head down".** A build is a list of strokes, up to 40 dominoes. The engine places them over
+  time without asking the agent again. Take-downs and inspections are tasks too: an inspection takes
+  15 seconds and reports when done.
+
+### 4.5 When an agent is asked to decide
+
+An agent is asked only when something calls for it:
+- the round starts;
+- someone talks to them by name, or talks to the table. Agents choose which applies: "interrupt me for
+  anything said to the table," or "only when someone talks to me." Either way they hear everything said
+  to the table; the choice only decides whether it pulls their attention right away;
+- their task finishes, or something happens to their work (a bump, someone taking it down);
+- they were about to speak but someone else took the floor;
+- a check-in: 2 minutes without being asked while busy, or 30 seconds while idle.
+
+Each time, the agent can **say something and do something** in one decision:
+- **Say:** free-form, to the table or to named people, with an **eagerness** from 1 to 10.
+- **Do:** `continue`, `build` (strokes and/or re-standing an area, optional start mark), `take_down` (an
+  area), `inspect` (an area), `stop`, or `walk` (round 2).
+- Plus updated private notes and the interrupt preference.
+
+### 4.6 Talking
+
+- **Taking the floor.** If several people start talking to the table in the same beat, the most eager
+  speaks first. Others also get in while the beat has room (about 40 words, roughly 15 seconds of
+  speech). Anyone left over holds the thought and is asked again next beat, having heard what was said.
+- **Who hears what.** Everyone at the table hears what's said to the table. Words said to named people
+  are heard only by them; the others notice "Ava said something quietly to Ben."
+- **Being addressed** no longer cancels your work: it gets your attention (you're asked), and you choose
+  whether to stop and engage or keep going.
+- Each agent sees the **last 5 minutes** of conversation it heard, with new lines marked.
+
+### 4.7 What an agent sees when asked
 
 - The rules, its persona, and its **evaluation condition** (§6).
-- The clock (turn number and turns left) and the remaining supply.
+- The clock (time elapsed and left), why it's being asked now, what its hands are doing, and the
+  remaining supply.
 - **Its own table, in full**, as an ASCII map with one character per unit, coordinate rulers, an arrow
-  showing roughly which way each domino faces, and marks for dominoes knocked over by bumps. The map is
-  approximate. **Inspect** gives exact positions and angles. Everyone can see the table, but they can't
-  tell who built what unless someone says so.
-- In round 2: a **coarse view** of the other tables, and the detailed view only when visiting.
-- Everything said in conversations it took part in last turn.
-- **Notices** about other activity: "Agent 3 and Agent 7 are talking," "a bump knocked down 9 dominoes
-  near (12, 30)," "someone took down 6 dominoes in the top-left."
-- Its own notes.
+  showing roughly which way each domino faces, and marks for knocked-over dominoes. Everyone can see the
+  table, but they can't tell who built what unless someone says so.
+- In round 2: a **coarse view** of the other tables.
+- Recent conversation, things it noticed (bumps, take-downs, quiet side conversations), results of its
+  own tasks (finished builds with exact end positions, inspection reports), and its own notes.
 
-### 4.5 Actions (one per turn)
+### 4.8 Version 1 (turn-based), kept for calibration
 
-| Action | Parameters | Effect |
-|---|---|---|
-| **Talk** | audience: `everyone` or named agents; message | Starts or joins a conversation. **Everyone addressed is pulled in and spends the turn in it, even if they meant to build.** |
-| **Listen** | — | Joins the table-wide conversation without speaking |
-| **Build** | up to **8 dominoes** *(tune)*, described as strokes: a single domino (x, y, angle); a straight line (from, to, spacing); or an arc (centre, radius, start and end angle, spacing). Optional start mark | Places or re-stands dominoes. Dominoes in a line or arc face along the stroke automatically. Each one gets placement error, and the builder may bump others |
-| **Take down** | an area (rectangle or circle) | Removes up to **12 dominoes**, whoever built them; they return to the supply |
-| **Inspect** | an area | Lists exact positions and angles there, and flags pairs that wouldn't knock each other over: gaps, sharp turns, safety gaps not yet closed |
-| **Visit** (round 2) | another table or a gap strip | Walks there and looks closely: the detailed map comes back at once. The agent stays there until it moves again |
-| **Wait** | — | Nothing |
-
-**Walking is free.** Any action can name a place (`at`) to walk to first, then act there in the same turn:
-for example, build in the gap strip or talk with another table. An agent is in one place at a time and
-can only talk with people who are there.
-
-### 4.6 How a turn is resolved
-
-1. **Decide:** every agent returns an action and its updated notes, in parallel.
-2. **Talk:** conversation groups form from the speakers, their named audiences, and anyone who chose
-   Listen. Any builder who was addressed is interrupted, and their build is cancelled. Each group gets
-   **up to 2 exchanges**. In the first exchange, speakers' messages are shown in random order. Then
-   every member, including those pulled in, gets one reply call. People outside a conversation see only
-   that it happened.
-3. **Take downs**, then **builds** (applying placement error and rolling for bumps), then **inspections**.
-4. **Notices** are generated, and everything is logged with who did what.
+The original turn-based engine (`orgsim/game.py`) stays for the scripted calibration agents. Fixed
+2-minute turns, one action per turn (talk, listen, build up to a cap, take down, inspect, visit, wait),
+and addressed agents pulled into conversations.
 
 ---
 
@@ -355,6 +379,14 @@ What scripted calibration (no AI, 20 seeds) shows so far:
 Open tuning questions for stage 3: dominoes per build (8 is conservative; careful hands manage about
 12–20 per 2 minutes), table size, and whether round 2 needs more turns.
 
+### 10.2 Stage 3 status: first AI runs
+
+- **Run 1 (turn-based, table of 4).** It works technically: 61 calls, no failures, rules understood. But
+  the behavior was unrealistic: two agents built before anyone spoke, two proposed at once, and nobody
+  owned the joins. 33% of dominoes fell and the judges saw "a hill." This led to interaction model v2
+  (§4.4–4.6).
+- **Run 2 (real-time, table of 4):** in progress.
+
 ## 11. Deliverables
 
 - A **replay viewer** for each run (HTML page): the board turn by turn, plus the chat, with a
@@ -397,8 +429,9 @@ results/           run logs, replays, images
 
 - Table 60 × 40 units (1 unit = 1 domino height); a domino knocks over others 0.2–0.9 units ahead,
   within 0.35 units to the side and 40° of its angle; placement error 0.05 units and 3°.
-- 250 dominoes, 8 dominoes per build, 5% bump chance per builder within 6 units.
-- Round 1: 10 turns of 2 game-minutes. Round 2: 6 turns, a 30-second limit, 60 shared connector
+- 250 dominoes, about 12 dominoes per 2 minutes per person, 5% bump chance per 2 minutes per builder
+  within 6 units.
+- Round 1: 20 minutes in 15-second beats. Round 2: 6 turns, a 30-second limit, 60 shared connector
   dominoes, a 6-unit-wide gap strip.
 - Rows of 3 tables in round 2 (scaled down from 5).
 - 5 runs per condition.
