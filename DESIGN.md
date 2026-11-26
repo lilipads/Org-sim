@@ -673,3 +673,9 @@ Batch 8 (one start only): sonnet 4/4 recognized with 100% fallen in every game, 
 Haiku 1.2/4 (scores 0, 0.5, 0.33, 0.33): its teams redraw the sketch mid-build, leave gaps at junctions,
 and sketch shapes judges read as boats or birds. One game had the start left behind on an old sketch
 after START was redrawn; tracing stroke 1 at a moved START now moves the start with it.
+
+### 4.4p Batch 9: the small model gets there too
+
+Haiku only, seeds 91/92, after the moved-START fix: 4/4 recognized (scores 0.83, 1, 1, 1; three games
+100% fallen, one 73%). Together with sonnet's 8/8 in batches 7-8, the 4-person table is now at the
+target success rate in 10-minute games, with either model.
