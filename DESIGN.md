@@ -640,3 +640,11 @@ coordination (TPM) overhead. Embedded specialists avoid that, but each table get
 - An optional **TPM role** that only coordinates.
 
 Status: parked. It isn't part of the first experiments.
+
+### 4.4l After batch 5: joins come back
+
+Batch 5 (pad-only building) fell to 1/8: with only `trace` and `fix`, pieces traced from the pad often
+stood next to each other without touching. The anchored joining tools (`extend`, `connect`) are allowed
+again; only free-hand work aimed by eye (lines, arcs, single dominoes) stays banned. Repeating a trace of
+the stroke you are already laying now means "keep going", and tracing a stroke someone else is still
+laying is refused with a note naming who is on it. Batch 6 measures the effect (seeds 61/62).

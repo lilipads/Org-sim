@@ -257,3 +257,16 @@ def test_re_issuing_a_trace_of_stroke_1_does_not_deadlock():
                                                            announce_at=(), scratchpad_until=300, seconds_per_domino=3))
     res = g.run()
     assert res["per_table"]["table"]["placed"] > 10 and res["per_table"]["table"]["completion"] > 0.9
+
+
+def test_tracing_a_stroke_someone_else_is_laying_is_refused():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    tr = {"type": "trace", "stroke": 1}
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 20)
+    b = Fake("B", [Decision(), Decision(), Decision(), Decision(do="build", strokes=[tr])] + [Decision()] * 20)
+    g = LiveGame(table_world(phys=EXACT), [a, b], LiveConfig(duration=120, idle_quiet=15, max_quiet=15,
+                                                              announce_at=(), scratchpad_until=300, seconds_per_domino=3))
+    for _ in range(6):
+        g.step()
+    assert any("already laying stroke 1" in x for o in b.seen for x in o["inbox"])

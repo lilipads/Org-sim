@@ -1,0 +1,96 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.54,
+      "error": 1.46
+    },
+    "Omar": {
+      "speed": 0.72,
+      "error": 0.69
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.89
+    },
+    "Jack": {
+      "speed": 1.08,
+      "error": 1.2
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1339.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack",
+    "Jack",
+    "Jack",
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "comet with a curved tail",
+      "tadpole or sperm cell",
+      "scribbled loop with a long stroke"
+    ],
+    [
+      "fish with a forked tail",
+      "tadpole or sperm cell",
+      "comet with a curled tail"
+    ],
+    [
+      "a line of fallen dominoes curving into a loop",
+      "a tadpole or sperm-like shape with a curled head",
+      "a stylized comet or swoosh with a looping tail"
+    ]
+  ],
+  "placed": 108,
+  "fell": 105,
+  "completion": 0.972,
+  "team_score": 0.324,
+  "first_domino_at": "0:45",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 17,
+    "Hana": 13,
+    "Sofia": 10,
+    "Omar": 8
+  },
+  "held_thoughts": 72,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 3,
+    "input_tokens": 312,
+    "cache_creation_tokens": 775875,
+    "cache_read_tokens": 421372,
+    "output_tokens": 74276,
+    "seconds": 1968.2,
+    "api_equivalent_usd": 3.7169
+  }
+}

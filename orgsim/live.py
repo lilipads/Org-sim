@@ -498,6 +498,19 @@ class LiveGame:
             self.task[n] = None
             return
         if d.do == "build":
+            cur = self.task.get(n)
+            asked = [s.get("stroke") for s in (d.strokes or []) if s.get("type") == "trace"]
+            if (cur and cur.get("kind") == "build" and cur.get("trace_k") is not None and len(d.strokes or []) == 1
+                    and asked and str(asked[0]) == str(cur["trace_k"]) and (cur["queue"] or cur.get("pending"))):
+                return                         # already laying that stroke: just keep going
+            if asked:
+                for o, t in self.task.items():
+                    if (o != n and t and t.get("kind") == "build" and str(t.get("trace_k")) in map(str, asked)
+                            and (t["queue"] or t.get("pending"))):
+                        self.inbox[n].append(f"{o} is already laying stroke {t['trace_k']}; leave it to them "
+                                             "or ask them about it.")
+                        self.wake[n].append("someone else is on that stroke")
+                        return
             specs, bad, notes = [], [], []
             trace_start = False
             pending = None
@@ -505,7 +518,7 @@ class LiveGame:
             for s in d.strokes or []:
                 try:
                     room = self.cfg.max_queue - len(specs)
-                    if self.cfg.pad_only and s.get("type") not in ("trace", "fix"):
+                    if self.cfg.pad_only and s.get("type") not in ("trace", "fix", "extend", "connect"):
                         bad.append(f"{s.get('type')!r} isn't how this table builds: sketch it on the pad, then trace it")
                         continue
                     if s.get("type") == "trace":

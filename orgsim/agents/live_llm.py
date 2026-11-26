@@ -107,13 +107,18 @@ WHAT YOU CAN DO WITH YOUR HANDS
 - continue: keep doing what you're doing.  stop: put things down and just watch or talk.
 
 WHAT GOES IN A BUILD
-Everything on the table is built from the scratch pad: draw it first, then build it.
+The picture is built from the scratch pad: draw it first, then build it. Your hands can also join
+pieces that are already standing, lined up against the real dominoes.
 - {{"type":"trace","stroke":3}}  copy stroke 3 from the pad onto the table (see THE SCRATCH PAD).
   Tracing a stroke that's already on the table lifts it and lays it again: that's how you redo a
   stroke that came out wrong.
 - To add something that isn't on the pad yet, pick up the pad, sketch it, then trace it.
 - {{"type":"fix","at":[x,y]}}  close a small break near that spot (a domino or two): your hands nudge
   the next domino into line or bridge a tiny gap. Bigger breaks: trace the stroke again.
+- {{"type":"connect","from":[x,y],"to":[x,y]}}  join two standing pieces: from the line end nearest
+  "from" to the domino nearest "to", arriving behind it so the fall carries on into it.
+- {{"type":"extend","from":[x,y],"toward":[x,y],"count":8}}  carry a standing line on from its end
+  (or branch off its side), curving gently toward "toward".
 - "restand": [x0,y0,x1,y1] stands knocked-over dominoes in that area back up.
 Several strokes can go in one build; one build can be up to 40 dominoes.
 """

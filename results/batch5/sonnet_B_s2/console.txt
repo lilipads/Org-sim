@@ -105,3 +105,155 @@
 [  860s] 6:15 asked Omar,Hana | dominoes 134 | calls 85
     Hana -> everyone: Jack, go ahead, I'm staying off the nose. One domino at the start of the belly looked off to the side, so check that one. I'll look over the tail and tell you what's still pale.
     (Omar held a thought)
+[ 1168s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 129 | calls 90
+    Hana -> everyone: Jack, the tail looks okay: the top and bottom lobes of the fin are connected. Only the little middle curve on the far right is rough, and that's not worth the time. The big thing is that the table sho
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[ 1176s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 131 | calls 94
+    Jack -> everyone: Okay, nose is cleared! Laying the lead-in fresh now with the start on it. Hands off the nose for a few seconds please. Thanks Hana for the heads-up!
+    (Omar held a thought)
+    (Sofia held a thought)
+[ 1183s] 7:00 asked Sofia,Omar,Hana | dominoes 132 | calls 97
+    Sofia -> everyone: Middle curve's done and the fin looks connected top and bottom. Jack, once the lead-in's down, make sure the start sits on its far left end. Three minutes left. I'll re-trace the belly if it's still p
+[ 1192s] 7:15 asked Omar,Hana,Jack | dominoes 132 | calls 100
+    Jack -> everyone: Lead-in's down and the start's on its far left end! Only the first few are falling though, so the belly lines aren't catching. Hana, could you re-trace the top line, stroke 1, and Sofia the bottom, st
+    (Hana held a thought)
+    (Omar held a thought)
+[ 1201s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 124 | calls 104
+    Hana -> everyone: Jack, the top line is already dark, so no need to redo it. The gap is the belly's first domino, below the nose, a bit away from the end of your lead-in. I'm bridging just that one spot now. Sofia, hol
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[ 1210s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 108
+    Jack -> everyone: Hana, thanks! Looking at the table, the belly is missing entirely between the nose and the pale part, so one bridge domino won't do it. I'm re-tracing the whole bottom line right now. Sofia, you can s
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[ 1219s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 121 | calls 112
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Jack, heads up, I'd already lifted the bottom belly and I'm halfway through laying it again, so I'll finish it. Your stroke 2 retrace would collide with mine, so please skip it. Hana's bridge should m
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[ 1226s] 8:15 asked Omar,Hana,Jack | dominoes 113 | calls 115
+    Hana -> everyone: Okay Sofia, you finish the bottom line, Jack skip stroke 2. I'm staying off the nose and the belly, and I'll look it over once it's down.
+    (Jack held a thought)
+[ 1234s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 109 | calls 119
+    Hana -> everyone: I'm closing the little gap at the top of the fin. Still off the nose and belly. Sofia, shout when the belly's down.
+    Jack -> everyone: Got it, Sofia, you finish the belly, I'm backing off! Great teamwork, everyone.
+    (Sofia held a thought)
+[ 1242s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 109 | calls 123
+    Sofia -> everyone: Thanks Hana! Bottom belly's nearly there, just a few left. Once it's down it should meet the tail. Jack, shout if the start still doesn't catch the whole thing.
+    (Hana held a thought)
+    (Jack held a thought)
+[ 1251s] 9:00 asked Omar,Hana,Jack | dominoes 110 | calls 126
+    Hana -> everyone: Sofia, the belly line still stops short of the tail, so keep going, you're nearly there. I'm staying off it. The three at the top of the fin are minor, so ignore them.
+    (Jack held a thought)
+    (Omar held a thought)
+[ 1259s] 9:15 asked Sofia,Omar,Jack | dominoes 106 | calls 129
+    Sofia -> everyone: Belly still stops short, so I'm re-laying the bottom line, stroke 2, all the way to the tail right now. Please keep clear of it, and Jack, hold the pad steady!
+    (Jack held a thought)
+    (Omar held a thought)
+[ 1266s] 9:30 asked Omar,Hana,Jack | dominoes 104 | calls 132
+    Jack -> everyone: You've got this, Sofia! Just the belly left to hook onto the tail. I'm staying out of the way.
+    Omar -> everyone: Looks like nearly all of it catches. I'll stay out of the way, nice work everyone.
+[ 1273s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 108 | calls 136
+    Sofia -> everyone: Still laying the belly, keep clear of it please. Almost there!
+    Jack -> everyone: Nearly there, Sofia! Hands off everyone, fingers crossed for the fish!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.54,
+      "error": 1.46
+    },
+    "Omar": {
+      "speed": 0.72,
+      "error": 0.69
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.89
+    },
+    "Jack": {
+      "speed": 1.08,
+      "error": 1.2
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1339.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack",
+    "Jack",
+    "Jack",
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "comet with a curved tail",
+      "tadpole or sperm cell",
+      "scribbled loop with a long stroke"
+    ],
+    [
+      "fish with a forked tail",
+      "tadpole or sperm cell",
+      "comet with a curled tail"
+    ],
+    [
+      "a line of fallen dominoes curving into a loop",
+      "a tadpole or sperm-like shape with a curled head",
+      "a stylized comet or swoosh with a looping tail"
+    ]
+  ],
+  "placed": 108,
+  "fell": 105,
+  "completion": 0.972,
+  "team_score": 0.324,
+  "first_domino_at": "0:45",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 17,
+    "Hana": 13,
+    "Sofia": 10,
+    "Omar": 8
+  },
+  "held_thoughts": 72,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 3,
+    "input_tokens": 312,
+    "cache_creation_tokens": 775875,
+    "cache_read_tokens": 421372,
+    "output_tokens": 74276,
+    "seconds": 1968.2,
+    "api_equivalent_usd": 3.7169
+  }
+}
