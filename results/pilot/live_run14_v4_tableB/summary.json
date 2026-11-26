@@ -1,0 +1,74 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1335.5,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "sprout or plant growing from a ground line",
+      "bare tree or branches above a horizon",
+      "stick figure or hand above a flat surface"
+    ],
+    [
+      "plant or sprout growing from a ground line",
+      "tree or bush above a horizon",
+      "stylized figure with raised arms over a line"
+    ],
+    [
+      "a sprout or plant growing from a horizontal ground line",
+      "a bare tree or flower with its roots and a stem",
+      "a stick figure or hand-drawn scribble with a horizontal line underneath"
+    ]
+  ],
+  "placed": 180,
+  "fell": 39,
+  "completion": 0.217,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 87,
+  "messages_by_speaker": {
+    "Sofia": 22,
+    "Hana": 20,
+    "Omar": 27,
+    "Jack": 15,
+    "Facilitator": 3
+  },
+  "held_thoughts": 46,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 171,
+    "failed": 2,
+    "input_tokens": 350,
+    "cache_creation_tokens": 850856,
+    "cache_read_tokens": 466016,
+    "output_tokens": 97989,
+    "seconds": 1883.3,
+    "api_equivalent_usd": 4.2766
+  }
+}

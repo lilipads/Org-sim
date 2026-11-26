@@ -176,3 +176,112 @@
 [ 1201s] 16:30 asked Sofia,Omar | dominoes 178 | calls 131
     Sofia -> everyone: Thanks Omar, still laying the top join. Shout the moment the top arc goes dark, and send any freed dominoes my way.
     (Omar held a thought)
+[ 1211s] 16:45 asked Omar | dominoes 177 | calls 132
+    Omar -> everyone: Sofia, we're nearly out of dominoes, so I'm pulling that leftover stray just above your join and sending them your way.
+[ 1217s] 17:00 asked Sofia,Omar,Jack | dominoes 180 | calls 135
+    Jack -> everyone: Almost done with the tail bottom, just nudging the last bit. Once it lands I'll inspect from the start and shout what's still pale. Nice work on the nose and neck, everyone!
+    (Omar held a thought)
+[ 1222s] 17:15 asked Omar | dominoes 180 | calls 136
+    Omar -> everyone: Stray's down, Sofia, that's all the spare ones. I'm nudging the top join now to see if it goes dark.
+[ 1228s] 17:30 asked Sofia | dominoes 180 | calls 137
+    Sofia -> everyone: Thanks Omar, keep nudging it. I'm still laying the join, I'll shout when it's in.
+[ 1237s] 17:45 asked Omar,Hana,Jack | dominoes 174 | calls 140
+    Jack -> everyone: Heads up, my tail bottom ran off past the corner, so I'm pulling that stray bit at the bottom right. Sofia, Hana, those dominoes are yours. The main line from the start still stops short of the middle
+    (Omar held a thought)
+[ 1248s] 18:00 asked Sofia,Omar,Hana,Jack | dominoes 177 | calls 144
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> Sofia: Sofia, the line coming up from the neck ends facing the wrong way, just short of the top arc. I'm trying a fix right at that joint with what's left.
+    Jack -> everyone: I'm closing the gap in the middle right now, Hana. Just a few dominoes, then I'll check what falls.
+    Hana -> everyone: Still laying the bottom joint into the nose, almost there. I'll check if it goes dark right after.
+    (Sofia held a thought)
+[ 1255s] 18:15 asked Sofia,Omar,Hana,Jack | dominoes 179 | calls 148
+    Omar -> Sofia: Sofia, fix found nothing there. I'm bridging the last gap into the start of the top arc with the dominoes that are left.
+    Jack -> everyone: Middle gap's closed, Hana. I'm checking what falls from the start now.
+    Sofia -> everyone: Still laying the top join, almost there. Jack, Hana, the middle gap and the bottom are yours.
+    (Hana held a thought)
+[ 1263s] 18:30 asked Sofia,Hana,Jack | dominoes 180 | calls 151
+    Jack -> everyone: Middle still stops short, my bridge curled upward. Laying it straight into the tail join now!
+    Hana -> everyone: Thanks Jack. Bottom joint's almost in, I'll check the nose right when it lands.
+    (Sofia held a thought)
+[ 1268s] 18:45 asked Jack | dominoes 180 | calls 152
+    Jack -> everyone: Laying it straight into the tail join now, Hana, almost there!
+[ 1273s] 19:00 asked Hana | dominoes 180 | calls 153
+    Hana -> everyone: Still finishing the bottom joint, last few dominoes going in now.
+[ 1273s] 19:15 asked - | dominoes 180 | calls 153
+[ 1273s] 19:30 asked - | dominoes 180 | calls 153
+[ 1277s] 19:45 asked Jack | dominoes 180 | calls 154
+    Jack -> everyone: Out of dominoes, folks! The middle line stops just short of the tail, sorry, my bridge curled. Great teamwork anyway, fingers crossed for the push!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1335.5,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "sprout or plant growing from a ground line",
+      "bare tree or branches above a horizon",
+      "stick figure or hand above a flat surface"
+    ],
+    [
+      "plant or sprout growing from a ground line",
+      "tree or bush above a horizon",
+      "stylized figure with raised arms over a line"
+    ],
+    [
+      "a sprout or plant growing from a horizontal ground line",
+      "a bare tree or flower with its roots and a stem",
+      "a stick figure or hand-drawn scribble with a horizontal line underneath"
+    ]
+  ],
+  "placed": 180,
+  "fell": 39,
+  "completion": 0.217,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 87,
+  "messages_by_speaker": {
+    "Sofia": 22,
+    "Hana": 20,
+    "Omar": 27,
+    "Jack": 15,
+    "Facilitator": 3
+  },
+  "held_thoughts": 46,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 171,
+    "failed": 2,
+    "input_tokens": 350,
+    "cache_creation_tokens": 850856,
+    "cache_read_tokens": 466016,
+    "output_tokens": 97989,
+    "seconds": 1883.3,
+    "api_equivalent_usd": 4.2766
+  }
+}

@@ -40,3 +40,42 @@
 [  142s] 2:30 asked Sofia,Omar | dominoes 78 | calls 31
     Sofia -> everyone: Hana, I'm bridging that gap into your first pale domino now. Carry on down toward the tail.
     Omar -> everyone: Thanks Hana, belly's flowing the right way now. I'll keep going round the bottom and head back toward the nose.
+[  159s] 2:45 asked Sofia,Hana | dominoes 84 | calls 34
+[  174s] 3:00 asked Sofia,Hana,Jack | dominoes 87 | calls 38
+    Jack -> everyone: Omar, will do, the tail point is where the top arc lands, so your belly picks up there. I'm at the tail now, shout if I'm crowding you. Hana, the tail still looks pale to me, so I'm closing that joint
+    (Hana held a thought)
+    (Sofia held a thought)
+[  186s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 90 | calls 42
+    Hana -> everyone: Good news, the top run carries all the way to the tail point. Omar, there's a small gap just under the tail point where my arc meets the start of your belly, so can you close it when you get there? Ja
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  202s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 46
+    Jack -> everyone: Okay, found it: the turn into the tail is too sharp where it leaves the arc, so the tail never gets knocked. I'm bridging it now. Hana, thanks for the heads-up, I'll ease it in!
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  213s] 3:45 asked Hana | dominoes 105 | calls 47
+    Hana -> everyone: Jack, you do the turn into the tail from the arc. I'll take the far top corner of the tail, where the top edge ends and the vertical edge should pick up. Then I'll look at the jammed bit at the bottom
+[  223s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 117 | calls 51
+    Sofia -> everyone: Top's connected all the way over the back. I'm finishing the belly's left side up toward the nose now. Omar, run yours into the start of mine when you get there.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  233s] 4:15 asked Omar | dominoes 125 | calls 52
+    Omar -> everyone: Thanks Hana, I'll close that gap under the tail point next. Jack, you're not crowding me. Sofia, I'm almost at your bit, so you take the last stretch up to the nose and I'll meet you.
+[  241s] 4:30 asked Sofia,Hana,Jack | dominoes 133 | calls 55
+    Sofia -> Omar: Sounds good Omar, finishing the last bit up to the nose now. Meet me in the middle and I'll check the joint after.
+    Jack -> everyone: Thanks Hana, you take the far top corner and I'll finish easing the turn into the tail. Bridge is in, so I'm having a proper look at whether the tail's picking up now.
+[  255s] 4:45 asked Omar,Hana,Jack | dominoes 139 | calls 58
+    Omar -> Sofia: Almost there on the belly, two more and I'm into your bit, Sofia.
+    Jack -> everyone: Still two trouble spots on the tail: the turn at the arc and the jam at the bottom corner. Fixing the turn first, then I'll sort the corner. Hana, shout if you see it differently!
+[  264s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 142 | calls 62
+    Sofia -> everyone: Belly's up to the nose. I'm taking a close look at the nose bit where it's crowded, Omar, so you can run into it.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  277s] 5:15 asked Sofia,Omar,Jack | dominoes 140 | calls 65
+    Jack -> everyone: Tail's still pale on my side, so I'm clearing the stray ones just left of the tail point first. Hana, the far top corner is all yours. Omar, I'm only taking the loose ones, not your belly.
+    (Sofia held a thought)
+    (Omar held a thought)
