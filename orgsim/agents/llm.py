@@ -17,7 +17,7 @@ import time
 from ..game import Action, Agent
 
 MODEL = os.environ.get("ORGSIM_MODEL", "haiku")
-CALL_TIMEOUT = 180
+CALL_TIMEOUT = 300
 
 RULES = """THE GAME: DOMINO ART
 You are one of {n} people at a table. Together you build a picture of an ANIMAL out of dominoes.
