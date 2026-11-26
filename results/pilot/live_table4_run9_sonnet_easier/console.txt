@@ -18,3 +18,63 @@
     Maya -> everyone: Got it, I'm on the top curve from the nose. Just finishing these first few, then I'll arc it up and over toward the tail.
     (Tom held a thought)
     (Priya held a thought)
+[  379s] 1:15 asked Maya,Leo | dominoes 11 | calls 18
+    Maya -> everyone: Okay, carrying the top curve on up and over now.
+[  390s] 1:30 asked Leo | dominoes 14 | calls 19
+[  390s] 1:45 asked - | dominoes 20 | calls 19
+[  402s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 22 | calls 23
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Priya -> everyone: Bottom curve's heading down and out from just past the nose. Maya, I'm staying clear of your top line. Leo, give a shout once the top is far enough along for the eye. Tom, the tail fork should meet ou
+    (Tom held a thought)
+    (Leo held a thought)
+[  422s] 2:15 asked Maya,Tom,Leo | dominoes 29 | calls 26
+    Tom -> everyone: Fish works for me, Priya. The tail's mine and I'm partway round the bottom lobe now. Once your curve and Maya's get over this way I'll join them into the fork. Just shout when they're close.
+    (Leo held a thought)
+    (Maya held a thought)
+[  431s] 2:30 asked Maya,Priya | dominoes 33 | calls 28
+    Maya -> everyone: Sounds good, Tom. My top line's only just coming round the head, so give me a few minutes and I'll shout when it's close.
+    Priya -> everyone: Carrying the bottom curve on toward the tail now. Tom, I'll shout when it's close.
+[  438s] 2:45 asked Tom | dominoes 38 | calls 29
+    Tom -> everyone: Cheers both, I'll keep going on the tail. Shout when you're getting close.
+[  438s] 3:00 asked - | dominoes 44 | calls 29
+[  446s] 3:15 asked Tom | dominoes 49 | calls 30
+[  456s] 3:30 asked Maya | dominoes 55 | calls 31
+    Maya -> everyone: Leo, your eye arc is still pale, not connected yet. Branch it off the top line near the first bend, where it curves round the head. I'm carrying the top on toward the tail now.
+[  466s] 3:45 asked Leo | dominoes 59 | calls 32
+    Leo -> everyone: Yep, saw it. I'm finishing the ring now, then I'll hook its left end back to the line near the head so it goes dark.
+[  477s] 4:00 asked Priya | dominoes 65 | calls 33
+    Priya -> everyone: Tom, my bottom curve's across the middle and heading your way now. I'm going to join it into the underside of your lobe, so keep that end clear.
+[  485s] 4:15 asked Maya,Tom | dominoes 69 | calls 35
+    Tom -> Priya: Got it, Priya, I'll keep that underside clear. Just finishing the rounded tip of the lower lobe, then I'll start the upper one.
+[  491s] 4:30 asked Priya | dominoes 75 | calls 36
+[  501s] 4:45 asked Tom | dominoes 80 | calls 37
+    Tom -> everyone: Lower lobe's tip is round now, heading in toward the notch. Upper lobe next.
+[  512s] 5:00 asked Leo | dominoes 86 | calls 38
+    Leo -> everyone: Ring's done. Hooking its left side back to the line by the head now, then I'll check that it goes dark.
+[  512s] 5:15 asked - | dominoes 91 | calls 38
+[  526s] 5:30 asked Tom | dominoes 97 | calls 39
+    Tom -> everyone: Right, upper lobe now. It's the mirror of the bottom one, so it should look like a proper fork soon. Shout when your curves get close.
+[  526s] 5:45 asked - | dominoes 102 | calls 39
+[  526s] 6:00 asked - | dominoes 109 | calls 39
+[  533s] 6:15 asked Maya | dominoes 113 | calls 40
+    Maya -> Tom: Tom, my top line's almost over to you. Just a few more and it should run into the top of your tail. Keep that end clear.
+[  541s] 6:30 asked Tom,Priya | dominoes 118 | calls 42
+    Tom -> everyone: Thanks Maya, I can see it coming. I'll keep that end clear. One more domino on the upper lobe, then I'll join it all up and check it goes dark.
+[  549s] 6:45 asked Maya,Tom | dominoes 120 | calls 44
+    Tom -> everyone: Right, upper lobe's done. I'm joining Maya's line into the tail now, then I'll check it goes dark.
+[  558s] 7:00 asked Maya,Leo | dominoes 126 | calls 46
+    Maya -> everyone: Thanks Tom, I'll take a quick look at the join from my side. Leo, the eye ring still looks pale to me. Is the hook to the head line in yet?
+[  570s] 7:15 asked Maya,Tom,Leo | dominoes 128 | calls 49
+    Maya -> everyone: Tom, the inspect shows a small gap right where my line meets the top of the tail, so the next domino is a touch too far. I'm going to nudge it closed from my side. Shout if you've already got it.
+    (Leo held a thought)
+[  580s] 7:30 asked Maya,Tom | dominoes 132 | calls 51
+    Tom -> Maya: Maya, I've already got that join going from my side, so hold off on nudging it. I'll run an inspect as soon as it's done and shout if there's still a gap.
+    Maya -> everyone: Tom, scrap that, I can't actually find the gap now. Looks like you'd already closed it, sorry for the noise! I'm going to take another look at the tail to make sure it's all going dark. Leo, how's the
+[  592s] 7:45 asked Maya,Tom,Leo | dominoes 133 | calls 54
+    Leo -> everyone: Half in. The hook's still going, I'll check it goes dark as soon as it's done.
+    Tom -> everyone: No worries Maya, all good. Join's still going from my side, I'll inspect the moment it's done.
+    (Maya held a thought)
+[  603s] 8:00 asked Maya | dominoes 138 | calls 55
+    Maya -> Leo: Leo, I took a close look at the ring. It's the right side that's fiddly: a couple of dominoes are bunched up, and the line turns too sharply near the bottom right. The loose end where you're working i
+[  609s] 8:15 asked Leo | dominoes 142 | calls 56
+    Leo -> Maya: Thanks Maya. Hook's nearly in, a few more dominoes. Once it's done I'll inspect and then deal with the bunched right side. If you're free, the loose end near the bottom right of the ring is yours to t
