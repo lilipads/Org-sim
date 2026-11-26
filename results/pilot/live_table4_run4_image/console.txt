@@ -192,3 +192,120 @@
     Dev -> Chloe: Chloe, I'm holding for your call on the (37.9,17.7) domino. If the top edge hasn't started by about two minutes left, I'll drop it rather than rush.
     Chloe -> everyone: Dev, the last domino at (37.9,17.7) is standing and facing down-right toward your first top-edge domino at (38.5,18). Check the join when you're ready. I'm back on the arc gap at (33,14) now.
     (Ava held a thought)
+[  668s] 16:15 asked Ava,Ben,Chloe,Dev | dominoes 173 | calls 164
+    Ben -> everyone: Ava, the tail connection is placed: seven dominoes from (17.5,22) up to the start at (18,20), ending facing right. One spot near (17,20) wouldn't take a domino, so I'm checking that join now before yo
+    (Ava held a thought)
+    (Dev held a thought)
+[  676s] 16:30 asked Ava,Ben,Chloe | dominoes 175 | calls 167
+    Ben -> everyone: Ava, hold off inspecting from the start. The join at (17,20) isn't standing yet: there's a skipped spot and the turn is too sharp. I'm closing it now, then I'll check the loose pair at (19,19). I'll s
+    (Ava held a thought)
+[  683s] 16:45 asked Ava,Chloe | dominoes 176 | calls 169
+    Ava -> Ben: Ben, I'm staying off your tail. I'm closing the kink at (24,16) on the top arc now. Shout when the join at (17,20) is standing and I'll inspect from the start.
+[  691s] 17:00 asked Ben | dominoes 179 | calls 170
+    Ben -> Ava: Still on the fix at (17,20), only two in so far. I'll shout the moment the tail is standing, and then I'll check the loose pair at (19,19).
+[  697s] 17:15 asked Ava | dominoes 181 | calls 171
+    Ava -> everyone: Still on the kink at (24,16). Ben, I'm not touching your tail.
+[  707s] 17:30 asked Ava,Ben,Chloe,Dev | dominoes 183 | calls 175
+    Chloe -> Dev: Dev, I'm still on the arc gap at (33,14). I'll call it the moment it's standing. If you need to drop the top edge to make time, go ahead.
+    Dev -> everyone: Dev here. The top edge is standing: seven dominoes from about (38.5,18.5) down to (40.5,21), facing down-right. Chloe, thanks, the join into (38.5,18) looks in range. I'm off hands now, so I'm inspect
+    (Ben held a thought)
+[  720s] 17:45 asked Ava,Chloe,Dev | dominoes 184 | calls 178
+    Chloe -> everyone: Dev, thanks for the top edge. I'm closing the arc gap at (33,14) now and I'll call it the moment it's standing. Anyone who sees a break outside Ben's tail and Ava's kink, shout and I'll take it if I'm
+    (Dev held a thought)
+    (Ava held a thought)
+[  730s] 18:00 asked Ava,Ben,Chloe,Dev | dominoes 185 | calls 182
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Ben -> everyone: Ava, hold off inspecting from the start. The join at (17,20) isn't standing yet: it's the skipped spot plus the sharp turn, and only four are in. I'll shout the moment it's up. If we run out of time, 
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  741s] 18:15 asked Ava,Chloe,Dev | dominoes 186 | calls 185
+    Ava -> Ben: Ben, holding off the start inspection until you call the join at (17,20). I'm still on the kink at (24,16), so I'm not touching your tail or the loose pair.
+    Chloe -> everyone: Chloe here. The inspection confirms the arc gap at (33,14): six dominoes from (32.5,14) to (35.5,15) aren't connected. I'm closing it now. Ben, I'm not touching your tail.
+    (Dev held a thought)
+[  754s] 18:30 asked Ava,Ben,Chloe,Dev | dominoes 186 | calls 189
+    Ben -> everyone: Calling the tail: the fix at (17,20) won't finish in 90 seconds, so I'm stopping. The start, the arc, Dev's top edge, the nose and Ava's belly are already chained together, so the push should still ca
+    (Dev held a thought)
+    (Ava held a thought)
+[  763s] 18:45 asked Ava,Chloe,Dev | dominoes 186 | calls 192
+    Chloe -> everyone: Ben, understood, the tail's out. I'm on the (33,14) arc gap now and I'll call it the moment it's standing.
+    (Ava held a thought)
+    (Dev held a thought)
+[  772s] 19:00 asked Ava,Ben,Chloe,Dev | dominoes 186 | calls 196
+    Dev -> everyone: Dev again: closing the gap at (40.5,21) on my top edge with a fix now. Staying off Ben's tail, Ava's kink and Chloe's arc.
+    (Ben held a thought)
+    (Ava held a thought)
+[  780s] 19:15 asked Ava,Ben,Chloe | dominoes 186 | calls 199
+    Chloe -> everyone: Chloe here: my hands are free, so I'm closing the arc gap at (33,14) with a fix now. Dev, I'm leaving your (40.5,21) fix alone. I'll call it the moment it's standing.
+    (Ava held a thought)
+    (Ben held a thought)
+[  788s] 19:30 asked Ava,Ben,Chloe,Dev | dominoes 186 | calls 203
+    Ava -> everyone: Still on the kink at (24,16), nearly through. Not touching Ben's tail or Chloe's gap. I'll call it the moment it's standing, then I'll inspect from the start.
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ben held a thought)
+[  798s] 19:45 asked Ava,Ben,Chloe,Dev | dominoes 186 | calls 207
+    Ben -> everyone: Ben here: tail's out, and I'm not touching anything. Chloe, Ava, shout when the (33,14) gap and the (24,16) kink are standing, then we hold for the push.
+    (Chloe held a thought)
+    (Dev held a thought)
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "wall_seconds": 829.2,
+  "intents": {
+    "Ava": "fish",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "bent hook-shaped line stroke",
+      "single domino edge at an angle",
+      "handwritten letter l or j"
+    ],
+    [
+      "letter l or angle stroke",
+      "hook or corner bracket",
+      "single fallen domino seen from above"
+    ],
+    [
+      "single bent pen stroke, l-shaped",
+      "hook or j-shaped line",
+      "corner bracket or angle mark"
+    ]
+  ],
+  "placed": 186,
+  "fell": 15,
+  "completion": 0.081,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 94,
+  "messages_by_speaker": {
+    "Ben": 27,
+    "Chloe": 25,
+    "Dev": 18,
+    "Ava": 21,
+    "Facilitator": 3
+  },
+  "held_thoughts": 76,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 218,
+    "failed": 0,
+    "input_tokens": 442,
+    "cache_creation_tokens": 1202997,
+    "cache_read_tokens": 483182,
+    "output_tokens": 263213,
+    "seconds": 1781.6,
+    "api_equivalent_usd": 0.3771
+  }
+}

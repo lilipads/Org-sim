@@ -1,0 +1,61 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "wall_seconds": 829.2,
+  "intents": {
+    "Ava": "fish",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "bent hook-shaped line stroke",
+      "single domino edge at an angle",
+      "handwritten letter l or j"
+    ],
+    [
+      "letter l or angle stroke",
+      "hook or corner bracket",
+      "single fallen domino seen from above"
+    ],
+    [
+      "single bent pen stroke, l-shaped",
+      "hook or j-shaped line",
+      "corner bracket or angle mark"
+    ]
+  ],
+  "placed": 186,
+  "fell": 15,
+  "completion": 0.081,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 94,
+  "messages_by_speaker": {
+    "Ben": 27,
+    "Chloe": 25,
+    "Dev": 18,
+    "Ava": 21,
+    "Facilitator": 3
+  },
+  "held_thoughts": 76,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 218,
+    "failed": 0,
+    "input_tokens": 442,
+    "cache_creation_tokens": 1202997,
+    "cache_read_tokens": 483182,
+    "output_tokens": 263213,
+    "seconds": 1781.6,
+    "api_equivalent_usd": 0.3771
+  }
+}

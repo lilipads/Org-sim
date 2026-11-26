@@ -1,0 +1,990 @@
+[
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment01.png",
+  "from": 0,
+  "to": 60.0,
+  "clock": "0:45",
+  "said": [
+   {
+    "clock": "0:00",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Okay, I'd like to do a fish, side view, big and simple. One continuous outline: start at the tail tip, run along the top of the body to the nose, round it, and come back along the belly to the tail. A judge reads a closed outline far better than fins and scales. Let's keep the body around x 18 to 42, y 12 to 28. Thoughts?",
+    "pointing": true
+   },
+   {
+    "clock": "0:15",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Ben's outline is better than mine, so let's do that. I'll take the start at the tail tip and run the top edge out to the nose. Ava, could you take the belly back toward the tail? Dev, keep an eye on the nose round and the join where it closes at the tail.",
+    "pointing": true
+   },
+   {
+    "clock": "0:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Works for me, Chloe. One thing: the start is out at (4.5, 10.5), and the fish tail is around x 18. If the chain starts out there it has to run across empty table before it reaches the body. Could we move the start to the tail tip? Ava's already out that way, so maybe she can check the line from the start to the tail. I'll take the tail join so it closes cleanly with the belly.",
+    "pointing": true
+   },
+   {
+    "clock": "0:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Ben, the start's already at the tail tip, right where my top arc begins at about (23.5, 20). I don't see anything at (4.5, 10.5) in the picture now. Ava, if you've got a stray chain out there, can you take it up so the belly can start from the tail? And yes, Ben, take the tail join.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ava": 4,
+   "Chloe": 3
+  },
+  "took_down": {
+   "Ava": 3
+  },
+  "bumps": 0,
+  "dominoes_standing": 4,
+  "hands": {
+   "Ava": [
+    40.2,
+    25.7
+   ],
+   "Chloe": [
+    23.1,
+    18.9
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment02.png",
+  "from": 59.999999999,
+  "to": 180.0,
+  "clock": "2:45",
+  "said": [
+   {
+    "clock": "1:00",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Checked the picture: nothing at (4.5, 10.5), and the start's at about (23.5, 19.5), so the gap's gone. Two things. It's facing up, so it won't knock anything along the top edge. It needs to face right (0\u00b0) for the top arc. And the tail's around x 18, about 5 units left of the start, so Ben's tail join has to run leftward from the start. I'll hold my hands until Ava answers.",
+    "pointing": true
+   },
+   {
+    "clock": "1:15",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Dev's right, and the start's in the wrong place for the outline. I'm laying the tail run now, from the tail tip at x 18 right to about x 23, facing along the body. It stops short of the start so I don't crowd Chloe's hands. Chloe, once you agree, I'd move the start to the tail tip and have it face right. Then your top arc picks up from the tail, and the tail run feeds straight into it.",
+    "pointing": true
+   },
+   {
+    "clock": "1:30",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Agreed, Ben. The start moves to the tail tip, facing right, so the fall runs tail, then top edge, then nose. Could you set that start domino at the tail tip? My arc start at (23.5, 20) faces up, so it can't take a fall from your run yet. Once your run reaches about x 23, I'll join my arc to it with a gentle connect so the curve doesn't kink.",
+    "pointing": true
+   },
+   {
+    "clock": "1:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Setting the start at the tail tip now, (18,20), facing right. Chloe, your arc's first domino at 23.5 still faces up, so it'll need turning right before your connect. Want me to take it down, or will you re-face it?",
+    "pointing": true
+   },
+   {
+    "clock": "2:00",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Start's at the tail tip now, facing right. I'm carrying the tail run on to about x 22.3 and stopping there so I don't crowd your domino at 23.5. Chloe, that one still faces up, so it won't take the fall. Could you re-face it to right before you connect?",
+    "pointing": true
+   },
+   {
+    "clock": "2:15",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Chloe, re-facing your arc start to 0 is quicker than taking it down. It's already at the end of Ben's run. Ben, once it faces right, a short connect from your last domino should close the gap, since 22.3 to 23.5 is more than 0.9 for a straight knock.",
+    "pointing": true
+   },
+   {
+    "clock": "2:30",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev's right, clearing it is quicker than re-facing. I'm taking out the last up-facing piece near (23.5, 19.5) now, so Ben's run at 22.3 stays clear. Then I'll rebuild the arc from about 200\u00b0 and connect it into your end, Ben.",
+    "pointing": true
+   },
+   {
+    "clock": "2:45",
+    "speaker": "Dev",
+    "to": [
+     "Ava"
+    ],
+    "text": "Ava, where does your belly end near the tail? I'll hold the nose round until I know where to start it.",
+    "pointing": false
+   },
+   {
+    "clock": "2:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Clearing's done, so I'm building the top arc from 200\u00b0 now. Ben, your run ends around 22.3, so I'll join it with a connect once my first domino is standing.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ava": 12,
+   "Chloe": 6,
+   "Ben": 8
+  },
+  "took_down": {
+   "Chloe": 5
+  },
+  "bumps": 0,
+  "dominoes_standing": 25,
+  "hands": {
+   "Ava": [
+    34.4,
+    25.4
+   ],
+   "Chloe": [
+    24.0,
+    17.9
+   ],
+   "Ben": [
+    20.2,
+    20.0
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment03.png",
+  "from": 179.999999999,
+  "to": 300.0,
+  "clock": "4:45",
+  "said": [
+   {
+    "clock": "3:00",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Ava, your belly run looks like it faces right, so the fall would carry toward the nose instead of back to the tail. Could you check its direction, and tell me where the belly ends? I'll start the nose round once I know.",
+    "pointing": true
+   },
+   {
+    "clock": "3:15",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Dev, the belly's built facing left, from the nose at about (40.5, 25.5) back toward x 20. It'll end around (20, 25), about five units under the tail. Ben's tail join closes that gap. Nothing stray out at (4.5, 10.5) on my side. I'm looking over the belly now to confirm the ticks point left.",
+    "pointing": true
+   },
+   {
+    "clock": "3:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Correction for everyone: my tail run ended at about x 21.5, y 20, facing right, not 22.3 as I said. Chloe, once your first arc domino faces right, I'll connect my last one into it. The gap from 21.5 to your 23.5 is too wide for a straight knock. Ava, I'll close the tail join once you've confirmed the belly ticks point left.",
+    "pointing": true
+   },
+   {
+    "clock": "3:45",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Belly's facing left, nose at about (40.5, 25.5), and it's running back toward x 20. It should end around (20, 25), about five units under Ben's tail. Dev, you can start the nose round. Ben, once my last belly domino is down, the tail join closes the gap to the start at (18, 20).",
+    "pointing": true
+   },
+   {
+    "clock": "4:00",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Belly's confirmed, ending around (20,25). I'm closing the tail join from there up into the start at (18,20) now. Chloe, I'll link my tail run to your arc once your first domino faces right.",
+    "pointing": true
+   },
+   {
+    "clock": "4:15",
+    "speaker": "Chloe",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, got your correction: your tail run ends at about 21.5, 20. My arc's first domino is at about 23.4, 17.6. It faces up-right because it's on the curve, so don't re-face it. Make the connect from your end into it now. Hold the tail join until that's done, and I'll shout when my arc is standing.",
+    "pointing": true
+   },
+   {
+    "clock": "4:15",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ben: My tail join didn't take. The picture only shows the belly from about x 31 to 40, not down to x 20, so there's nothing at (20,25) to connect from. Ava, can you carry the belly on from your end at 31.5, facing left, down to about x 20? Once it's standing there I'll connect the tail up into the start. I'm holding my hands until then.",
+    "pointing": true
+   },
+   {
+    "clock": "4:30",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Yep, I've got it, Ben. I'm carrying the belly on from 31.5 down to about x 20, still facing left. I'll call it when the last domino's down so you can connect the tail up into the start.",
+    "pointing": true
+   },
+   {
+    "clock": "4:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Chloe, I'm making the connect from my tail end at 21.5, 20 into your arc at 23.4, 17.6 now. Ava, I'll wait for the belly to reach about x 20 before the tail join.",
+    "pointing": true
+   },
+   {
+    "clock": "4:45",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Still on it, Ben. Belly's at about 31.5 and I'm carrying it on to x 20. I'll call it when the last domino is down.",
+    "pointing": true
+   },
+   {
+    "clock": "4:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Ben, the connect from 21.5 into my arc at 23.4 is good. I'm carrying the top arc on from 200\u00b0 toward 300\u00b0 now, 15 to go. Ava, Ben can only see the belly from about x 31 to 40 in the picture. Could you check that it reaches x 20 before he closes the tail?",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ava": 8,
+   "Ben": 4,
+   "Chloe": 10,
+   "Dev": 9
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 56,
+  "hands": {
+   "Ava": [
+    30.1,
+    25.4
+   ],
+   "Chloe": [
+    27.1,
+    13.5
+   ],
+   "Dev": [
+    41.4,
+    20.8
+   ],
+   "Ben": [
+    22.8,
+    19.9
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment04.png",
+  "from": 299.999999999,
+  "to": 450.0,
+  "clock": "7:15",
+  "said": [
+   {
+    "clock": "5:00",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Belly's at about 31.5 and still going, so it doesn't reach x 20 yet. I'll call it out when the last domino is down, and Ben can make the tail join then.",
+    "pointing": true
+   },
+   {
+    "clock": "5:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Tail run and the connect into Chloe's arc are standing, so that join is done. I'm holding until Ava calls the belly at x 20. Then I'll run the tail join from (20,25) up into the start at (18,20). Dev, the nose round is yours once Ava confirms the belly end.",
+    "pointing": true
+   },
+   {
+    "clock": "6:00",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Arc's standing from 200\u00b0 and I'm carrying it on toward 300\u00b0, fifteen to go. Ava, when your last belly domino is down near x 20, call it out so Ben can close the tail join. Dev, the nose round is yours after that.",
+    "pointing": true
+   },
+   {
+    "clock": "6:15",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Belly's standing down to about x 28, still going left with about 11 to go. I'll call it when the last domino is at x 20, Ben.",
+    "pointing": true
+   },
+   {
+    "clock": "6:30",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Nose arc's standing, all 17. I'm joining its bottom end into the belly's nose at (40.3,25.5) now. The top edge waits until Chloe's arc reaches (38.5,18).",
+    "pointing": true
+   },
+   {
+    "clock": "6:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, my arc has two dominoes to go, and it ends around (33.5,13.9) at 300\u00b0, so it won't reach (38.5,18) on this radius. Once these two are standing, I'll extend from that end toward (38.5,18) with about ten more. Could you tell me the exact first domino of your top edge so I can aim the last one at it?",
+    "pointing": true
+   },
+   {
+    "clock": "7:00",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Chloe, that's the right plan: finish the two, then extend toward (38.5,18). Dev, can you point at the exact first domino of your top edge? Chloe, shout when your arc gets there and I'll check the join. Ava, call it when the belly's at x 20.",
+    "pointing": true
+   },
+   {
+    "clock": "7:15",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Hands are free, so I'm finishing the last two arc dominoes at 300\u00b0 and then running the top edge toward (38.5, 18). Dev, once you point at your first top-edge domino I'll aim the last one at it.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ava": 14,
+   "Ben": 5,
+   "Chloe": 13,
+   "Dev": 9
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 97,
+  "hands": {
+   "Ava": [
+    22.6,
+    25.1
+   ],
+   "Chloe": [
+    32.6,
+    14.0
+   ],
+   "Dev": [
+    39.5,
+    25.7
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment05.png",
+  "from": 449.999999999,
+  "to": 600.0,
+  "clock": "9:45",
+  "said": [
+   {
+    "clock": "7:30",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Chloe, Ben: the first domino of my top edge is at (38.5, 18), facing right, curving clockwise down the side of the nose. Chloe, aim your last one from the upper left so it lands within about 0.9 behind it, on the fall line. I'm holding the top until your arc is standing.",
+    "pointing": true
+   },
+   {
+    "clock": "7:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Dev, got it: top edge starts at (38.5,18), facing right. Chloe, aim your last arc domino at that from the upper left. My inspection says the join at (23,20) turns too sharply, so the arc isn't carrying from the start. That's my connect, so I'm fixing it now. Ava, I'm still holding the tail join until you call x 20.",
+    "pointing": true
+   },
+   {
+    "clock": "8:00",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Belly's standing all the way to x 20.5, last domino at (20.5, 25) facing left. Ben, go ahead and join the tail from there up into the start at (18, 20). I'm checking the belly for gaps and the kink near the nose now.",
+    "pointing": true
+   },
+   {
+    "clock": "8:15",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ava, belly's confirmed at (20.5, 25). Joining it up into the start now. Once that's standing I'll go back to the kink at (23, 20).",
+    "pointing": true
+   },
+   {
+    "clock": "8:30",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Nose join at (40, 25): my inspection shows the next domino sitting off to the side, so the belly and nose aren't carrying through yet. I'm fixing it now. Chloe, the top edge still starts at (38.5, 18) whenever your arc reaches it.",
+    "pointing": true
+   },
+   {
+    "clock": "8:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, Ben: my arc finishes at 300\u00b0 around (33.5,14), then I'm extending toward (38.5,18) with about ten more. My last domino should land near (37.6,17.4), facing right, about 0.7 behind your first top-edge domino. I'll shout when it's standing so you can check the join.",
+    "pointing": true
+   },
+   {
+    "clock": "9:00",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Belly's clear from the nose to (20.5, 25) with no gaps that I can see. Ben, go ahead and join the tail up into the start. Dev, the nose kink is yours, so I'm leaving it alone. I'll stay off the table until someone needs a hand.",
+    "pointing": true
+   },
+   {
+    "clock": "9:15",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Dev: nose fix at (40,25.5) is in, and the inspection shows the belly and nose carrying through. Ben, the tail join from (20.5,25) is yours. Chloe, I'm still holding the top edge at (38.5,18) until your last arc domino at (37.6,17.4) is standing. Ava, thanks for the belly check.",
+    "pointing": true
+   },
+   {
+    "clock": "9:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Got it, Dev. The tail join from (20.5,25) up into the start is mine. Thanks, Ava, for the belly check. Chloe, I'm not touching your arc's first domino.",
+    "pointing": false
+   },
+   {
+    "clock": "9:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, Ben: my arc's last domino is going in now, aimed at the first top-edge domino at (38.5, 18). I'll call it when it's standing so you can check the join.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ava": 5,
+   "Chloe": 12,
+   "Dev": 3,
+   "Ben": 10
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 121,
+  "hands": {
+   "Ben": [
+    16.3,
+    23.3
+   ],
+   "Chloe": [
+    37.3,
+    16.8
+   ],
+   "Dev": [
+    32.0,
+    15.0
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment06.png",
+  "from": 599.999999999,
+  "to": 750.0,
+  "clock": "12:15",
+  "said": [
+   {
+    "clock": "10:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   },
+   {
+    "clock": "10:00",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Ben, agreed on the kink at (23,20). Chloe, once your last domino at (37.6,17.4) is standing, I'll check the join into (38.5,18) before the top edge goes down.",
+    "pointing": true
+   },
+   {
+    "clock": "10:15",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, Ben: still placing that last domino at (37.6,17.4), aimed at your first top-edge domino. I'll call it the moment it's standing so you can check the join.",
+    "pointing": true
+   },
+   {
+    "clock": "10:30",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, I'm staying off your join until the tail's standing. Then I'll inspect from the start and call out any breaks. The two loose dominoes near (19, 19) look like they're on your side, so can you check them when you run the tail?",
+    "pointing": true
+   },
+   {
+    "clock": "10:30",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Chloe, I'm holding until your last domino is standing. Going by the picture, (37.6,17.4) to my first domino at (38.5,18) is about 1.1 apart, which is over the 0.9 reach. If you can, nudge it in to around (37.9,17.7) so it's roughly 0.7 from my start, on the fall line. I'll check the join as soon as you call it standing.",
+    "pointing": true
+   },
+   {
+    "clock": "10:45",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, got it. I'm not touching the tail or the loose pair near (19,19). I'm just taking a look from the start so we know what's still broken. Shout when the tail's standing.",
+    "pointing": true
+   },
+   {
+    "clock": "10:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, good catch. I'm moving my last domino to around (37.9,17.7), about 0.7 behind your first top-edge domino on the fall line. I'll call it the moment it's standing so you can check the join.",
+    "pointing": true
+   },
+   {
+    "clock": "11:00",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, from the start my inspection shows the tail isn't joined yet. The start only carries about 18 dominoes, and the two loose ones near (19.5,19) are still sitting off to the side. Tell me when the tail's standing and I'll check it again.",
+    "pointing": true
+   },
+   {
+    "clock": "11:00",
+    "speaker": "Ben",
+    "to": [
+     "Ava"
+    ],
+    "text": "Ava, yes, I'll check the two loose ones near (19,19) once the tail is standing. Still eight to place on the join.",
+    "pointing": true
+   },
+   {
+    "clock": "11:15",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, sounds good. Still eight on the join? If you want, I can take the last few of the tail while you do the loose pair near (19,19). Otherwise I'll keep off and wait for you to call the re-check.",
+    "pointing": true
+   },
+   {
+    "clock": "11:15",
+    "speaker": "Ben",
+    "to": [
+     "Ava"
+    ],
+    "text": "Ava, two dominoes left on the tail. I'll shout when it's standing, then I'll check the loose pair at (19,19) and fix the kink at (23,20).",
+    "pointing": true
+   },
+   {
+    "clock": "11:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ava, I'm placing the last two tail dominoes now from (20.5,25) up into the start. I'll call it once they're standing, then check the loose pair at (19,19).",
+    "pointing": true
+   },
+   {
+    "clock": "12:00",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Got it, Ben. I'm staying off the tail. Shout when it's standing and I'll inspect from the start.",
+    "pointing": true
+   },
+   {
+    "clock": "12:15",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Inspection's in. From the start we reach about 18 dominoes, and the body is cut off at the tail. That matches Ben's join from (20.5,25) into the start, which isn't standing yet, so that's the one to close first. Chloe, the arc still has the gap near (32.5-33.5,14). I'm holding the top edge until your last domino at (37.9,17.7) is standing.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ben": 12,
+   "Chloe": 13
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 146,
+  "hands": {
+   "Ben": [
+    19.0,
+    24.0
+   ],
+   "Chloe": [
+    36.1,
+    21.9
+   ],
+   "Dev": [
+    38.0,
+    17.5
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment07.png",
+  "from": 749.999999999,
+  "to": 900.0,
+  "clock": "14:45",
+  "said": [
+   {
+    "clock": "12:30",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, Ben: I've got the gap in my arc near (33,14) open, so I'm closing it now. After that the last domino goes in at (37.9,17.7), and I'll call it as soon as it's standing.",
+    "pointing": true
+   },
+   {
+    "clock": "12:45",
+    "speaker": "Dev",
+    "to": [
+     "Chloe"
+    ],
+    "text": "Thanks, Chloe. I'll check the join when you call it.",
+    "pointing": true
+   },
+   {
+    "clock": "12:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Got it, Dev. The tail join from (20.5,25) up into the start is still going. I'll shout when it's standing so Ava can recheck, then I'll check the loose pair near (19,19).",
+    "pointing": true
+   },
+   {
+    "clock": "13:00",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, I'm still off the tail. Shout when it's standing and I'll inspect from the start.",
+    "pointing": false
+   },
+   {
+    "clock": "13:00",
+    "speaker": "Chloe",
+    "to": [
+     "Dev"
+    ],
+    "text": "Got it, Dev. Closing the gap at (33,14) first, then the last domino at (37.9,17.7). I'll call it the moment it's standing.",
+    "pointing": true
+   },
+   {
+    "clock": "13:00",
+    "speaker": "Dev",
+    "to": [
+     "Ben"
+    ],
+    "text": "Sounds good, Ben. I'll wait for Chloe to call her last domino before I touch the top edge.",
+    "pointing": false
+   },
+   {
+    "clock": "13:15",
+    "speaker": "Ben",
+    "to": [
+     "Ava",
+     "Dev"
+    ],
+    "text": "Still placing the last few tail dominoes from (20.5,25) up into the start. I'll shout as soon as they're standing so Ava can check from the start.",
+    "pointing": true
+   },
+   {
+    "clock": "14:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Hands are free, so I'm checking the tail from (20.5,25) up into the start before I call it. Ava, I'll shout as soon as it's confirmed standing, and I'll hold the loose pair and the kink until then.",
+    "pointing": true
+   },
+   {
+    "clock": "14:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Tail's broken at (17.5,22.5): that line ends facing up-left with nothing ahead. I'm connecting it into the start from behind now. Ava, I'll call it once it's standing.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ben": 4,
+   "Chloe": 12
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 162,
+  "hands": {
+   "Chloe": [
+    37.6,
+    11.7
+   ],
+   "Ava": [
+    35.0,
+    15.5
+   ],
+   "Ben": [
+    17.3,
+    22.1
+   ],
+   "Dev": [
+    37.0,
+    16.0
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment08.png",
+  "from": 899.999999999,
+  "to": 1050.0,
+  "clock": "17:15",
+  "said": [
+   {
+    "clock": "15:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   },
+   {
+    "clock": "15:00",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, got it. Still keeping off the tail. Shout when the connection at (17.5,22.5) is standing and I'll inspect from the start right away.",
+    "pointing": true
+   },
+   {
+    "clock": "15:00",
+    "speaker": "Dev",
+    "to": [
+     "Chloe"
+    ],
+    "text": "Chloe, five minutes left. Is the last domino at (37.9,17.7) standing yet? If it's not, tell me and I'll build the top edge last, after the rest is settled.",
+    "pointing": true
+   },
+   {
+    "clock": "15:00",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Five minutes. I'm still closing the gap at (33,14), then the last domino goes in at (37.9,17.7). Ben, the tail join from the start is the priority. I'll call each piece as it stands.",
+    "pointing": true
+   },
+   {
+    "clock": "15:15",
+    "speaker": "Chloe",
+    "to": [
+     "Dev"
+    ],
+    "text": "Dev, not standing yet. I'm still closing the arc gap at (33,14). Then the last domino goes in at (37.9,17.7), about 0.7 behind your first top-edge domino. I'll call it the moment it's up so you can check the join.",
+    "pointing": true
+   },
+   {
+    "clock": "15:15",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Five minutes. Ben's on the tail, Chloe's on the arc gap, and Dev's holding the top edge until that last domino stands. I'm off hands, so I'm taking a full look at the table now and I'll call out any breaks I see.",
+    "pointing": true
+   },
+   {
+    "clock": "15:30",
+    "speaker": "Dev",
+    "to": [
+     "Chloe"
+    ],
+    "text": "Chloe, the top edge is about two minutes of work and it waits on that last domino. If the arc gap at (33,14) is going to take more than a minute, put the (37.9,17.7) domino down first and call it.",
+    "pointing": true
+   },
+   {
+    "clock": "15:30",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Inspection's in. Breaks: the loose pair at (19,19) and the tail near (17,21) are Ben's, and I'm staying off them. Nobody's on the kink at (24,16) on the top arc, so I'm closing it now. Shout if you're already on it.",
+    "pointing": true
+   },
+   {
+    "clock": "15:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, the arc gap is going to take more than a minute, so I'm putting the (37.9,17.7) domino down now. I'll call it the moment it's standing, then I'm back on the gap at (33,14). Thanks, Ava, the kink's yours.",
+    "pointing": true
+   },
+   {
+    "clock": "16:00",
+    "speaker": "Dev",
+    "to": [
+     "Chloe"
+    ],
+    "text": "Chloe, I'm holding for your call on the (37.9,17.7) domino. If the top edge hasn't started by about two minutes left, I'll drop it rather than rush.",
+    "pointing": true
+   },
+   {
+    "clock": "16:00",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, the last domino at (37.9,17.7) is standing and facing down-right toward your first top-edge domino at (38.5,18). Check the join when you're ready. I'm back on the arc gap at (33,14) now.",
+    "pointing": true
+   },
+   {
+    "clock": "16:15",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ava, the tail connection is placed: seven dominoes from (17.5,22) up to the start at (18,20), ending facing right. One spot near (17,20) wouldn't take a domino, so I'm checking that join now before you inspect from the start.",
+    "pointing": true
+   },
+   {
+    "clock": "16:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ava, hold off inspecting from the start. The join at (17,20) isn't standing yet: there's a skipped spot and the turn is too sharp. I'm closing it now, then I'll check the loose pair at (19,19). I'll shout once the whole tail is standing.",
+    "pointing": true
+   },
+   {
+    "clock": "16:45",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, I'm staying off your tail. I'm closing the kink at (24,16) on the top arc now. Shout when the join at (17,20) is standing and I'll inspect from the start.",
+    "pointing": true
+   },
+   {
+    "clock": "17:00",
+    "speaker": "Ben",
+    "to": [
+     "Ava"
+    ],
+    "text": "Still on the fix at (17,20), only two in so far. I'll shout the moment the tail is standing, and then I'll check the loose pair at (19,19).",
+    "pointing": true
+   },
+   {
+    "clock": "17:15",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Still on the kink at (24,16). Ben, I'm not touching your tail.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ben": 8,
+   "Chloe": 4,
+   "Ava": 7,
+   "Dev": 7
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 181,
+  "hands": {
+   "Ava": [
+    24.3,
+    16.4
+   ],
+   "Dev": [
+    40.4,
+    20.9
+   ],
+   "Ben": [
+    17.3,
+    18.3
+   ]
+  }
+ },
+ {
+  "file": "results/pilot/live_table4_run4_image/storyboard/moment09.png",
+  "from": 1049.999999999,
+  "to": 1200.0,
+  "clock": "19:45",
+  "said": [
+   {
+    "clock": "17:30",
+    "speaker": "Chloe",
+    "to": [
+     "Dev"
+    ],
+    "text": "Dev, I'm still on the arc gap at (33,14). I'll call it the moment it's standing. If you need to drop the top edge to make time, go ahead.",
+    "pointing": true
+   },
+   {
+    "clock": "17:30",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Dev here. The top edge is standing: seven dominoes from about (38.5,18.5) down to (40.5,21), facing down-right. Chloe, thanks, the join into (38.5,18) looks in range. I'm off hands now, so I'm inspecting the whole table. I'll call out any breaks I see that nobody's already on.",
+    "pointing": true
+   },
+   {
+    "clock": "17:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Dev, thanks for the top edge. I'm closing the arc gap at (33,14) now and I'll call it the moment it's standing. Anyone who sees a break outside Ben's tail and Ava's kink, shout and I'll take it if I'm free.",
+    "pointing": true
+   },
+   {
+    "clock": "18:00",
+    "speaker": "Facilitator",
+    "to": "everyone",
+    "text": "2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.",
+    "pointing": false
+   },
+   {
+    "clock": "18:00",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ava, hold off inspecting from the start. The join at (17,20) isn't standing yet: it's the skipped spot plus the sharp turn, and only four are in. I'll shout the moment it's up. If we run out of time, the tail won't carry and the push only drops the start-to-arc run.",
+    "pointing": true
+   },
+   {
+    "clock": "18:15",
+    "speaker": "Ava",
+    "to": [
+     "Ben"
+    ],
+    "text": "Ben, holding off the start inspection until you call the join at (17,20). I'm still on the kink at (24,16), so I'm not touching your tail or the loose pair.",
+    "pointing": true
+   },
+   {
+    "clock": "18:15",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Chloe here. The inspection confirms the arc gap at (33,14): six dominoes from (32.5,14) to (35.5,15) aren't connected. I'm closing it now. Ben, I'm not touching your tail.",
+    "pointing": true
+   },
+   {
+    "clock": "18:30",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Calling the tail: the fix at (17,20) won't finish in 90 seconds, so I'm stopping. The start, the arc, Dev's top edge, the nose and Ava's belly are already chained together, so the push should still carry the outline. Ava, you can inspect from the start once Chloe's gap at (33,14) is standing and Ava's kink is closed.",
+    "pointing": true
+   },
+   {
+    "clock": "18:45",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Ben, understood, the tail's out. I'm on the (33,14) arc gap now and I'll call it the moment it's standing.",
+    "pointing": true
+   },
+   {
+    "clock": "19:00",
+    "speaker": "Dev",
+    "to": "everyone",
+    "text": "Dev again: closing the gap at (40.5,21) on my top edge with a fix now. Staying off Ben's tail, Ava's kink and Chloe's arc.",
+    "pointing": true
+   },
+   {
+    "clock": "19:15",
+    "speaker": "Chloe",
+    "to": "everyone",
+    "text": "Chloe here: my hands are free, so I'm closing the arc gap at (33,14) with a fix now. Dev, I'm leaving your (40.5,21) fix alone. I'll call it the moment it's standing.",
+    "pointing": true
+   },
+   {
+    "clock": "19:30",
+    "speaker": "Ava",
+    "to": "everyone",
+    "text": "Still on the kink at (24,16), nearly through. Not touching Ben's tail or Chloe's gap. I'll call it the moment it's standing, then I'll inspect from the start.",
+    "pointing": true
+   },
+   {
+    "clock": "19:45",
+    "speaker": "Ben",
+    "to": "everyone",
+    "text": "Ben here: tail's out, and I'm not touching anything. Chloe, Ava, shout when the (33,14) gap and the (24,16) kink are standing, then we hold for the push.",
+    "pointing": true
+   }
+  ],
+  "built": {
+   "Ben": 5,
+   "Ava": 2,
+   "Dev": 6
+  },
+  "took_down": {},
+  "bumps": 0,
+  "dominoes_standing": 186,
+  "hands": {
+   "Dev": [
+    41.1,
+    20.6
+   ],
+   "Ava": [
+    24.1,
+    16.9
+   ],
+   "Chloe": [
+    33.5,
+    14.0
+   ]
+  }
+ }
+]
