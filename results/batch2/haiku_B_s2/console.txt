@@ -1,0 +1,236 @@
+[   20s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Right, let's do a fish! Simple, easy to read, and the body's one long line from the tail to the nose. I'm grabbing the pad to sketch it so we're all on the same page.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[   32s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Yes, a fish. Sofia, go ahead and sketch it. One thing: the start goes where the body meets the tail, so both body edges leave going right toward the nose. Jack, could you take the tail once it's drawn
+    (Jack held a thought)
+    (Omar held a thought)
+[   45s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Jack -> everyone: Love it, Sofia, fish is a great pick. Hana, I'm happy to take the tail once it's up. One snag though: a fall only runs one way from the start, so if the start sits at the body-tail join, the tail can'
+    (Sofia held a thought)
+    (Omar held a thought)
+[   65s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 9 | calls 14
+    Hana -> everyone: Good catch, Jack. Let's move the start to the tail tip. Then the tail's top arm and bottom arm both leave it going right, and each one carries on into its body edge. Both body edges then run forward t
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[   76s] 1:00 asked Sofia,Omar,Jack | dominoes 16 | calls 17
+    Sofia -> everyone: Good catch, Jack, and thanks Hana. The pad already has the start at the tail tip, with both edges leaving it heading right, so nothing has to fall backward. I'm laying the top edge from the start now.
+    (Jack held a thought)
+    (Omar held a thought)
+[   94s] 1:15 asked Omar,Hana,Jack | dominoes 26 | calls 20
+    Hana -> everyone: Quick flag before we trace over it. The dominoes already standing run from the old start, right along where the new top edge goes. Moving the start to the tip leaves a gap of about a domino between th
+    (Omar held a thought)
+    (Jack held a thought)
+[  103s] 1:30 asked Jack | dominoes 35 | calls 21
+    Jack -> everyone: Good call, Hana, the tip works much better. Not that run as far as I know, I've been down at the tail. Anyone with free hands, could you clear the old run from the old start before stroke 1 goes over 
+[  114s] 1:45 asked Hana | dominoes 40 | calls 22
+    Hana -> everyone: I've got free hands, so I'll clear the old run now. It starts just past the tip and goes out to where Jack's hands are. Sofia, I'm leaving the dominoes right at the tail tip alone, so stroke 1 can sta
+[  123s] 2:00 asked Sofia,Jack | dominoes 44 | calls 24
+    Sofia -> everyone: Thanks, Hana. I'm carrying the top edge on from the start, so I'll leave the tail tip alone. Shout if the old run starts creeping back.
+    (Jack held a thought)
+[  136s] 2:15 asked Sofia,Hana,Jack | dominoes 44 | calls 27
+    Sofia -> Hana: Hana, the old run's still standing right beside my top edge, between about here and where it bends. Could you take that bit too? I'll keep laying from the start.
+    Jack -> everyone: Thanks, Hana, that clear-up was a big help. My hands are free now. Hana, are the tail arms the two little lines that run back from the tip, or do they fan out from the body? I'll check the tail end fi
+    (Hana held a thought)
+[  151s] 2:30 asked Sofia,Hana,Jack | dominoes 45 | calls 30
+    Hana -> everyone: Jack, the arms fan out from the tip, not from the body. Both leave the tip heading right, one a bit up and one a bit down, like a shallow V, so they can carry on from the start. Nothing on the pad sho
+    (Sofia held a thought)
+    (Jack held a thought)
+[  163s] 2:45 asked Sofia,Jack | dominoes 50 | calls 32
+    Sofia -> everyone: Jack, Hana's right. The pad only has the outline from the tip, so the arms aren't drawn yet. Fan them out from the tip itself, not back along the body.
+    (Jack held a thought)
+[  177s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 55 | calls 36
+    Hana -> everyone: Clearing's done from just past the tip out to Jack's hands, and the bit beside Sofia's top edge is gone too. I'm going to inspect around the tip and the top edge to make sure nothing got caught.
+    (Jack held a thought)
+    (Omar held a thought)
+[  191s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 53 | calls 40
+    Hana -> everyone: Inspection's back. The start only reaches one domino because there's a gap just past it, so Sofia, that needs closing before the push. I also found about five old dominoes standing around the top edge
+    (Omar held a thought)
+    (Jack held a thought)
+[  201s] 3:30 asked Sofia,Omar,Jack | dominoes 51 | calls 43
+    Jack -> everyone: Sorry, I missed that, Hana, and thanks for clearing the old run. The arms fan out from the tip, one up and one down, like a shallow V. I'm finishing my last domino now, then I'll close that gap just p
+    (Omar held a thought)
+    (Sofia held a thought)
+[  214s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 51 | calls 47
+    Hana -> everyone: Jack, go ahead and close that gap just past the tip. I'll keep my hands off the tip and the top edge, then re-inspect once it's joined. Omar, nobody's started the bottom edge yet. Want me to take it f
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  221s] 4:00 asked Sofia,Omar,Jack | dominoes 51 | calls 50
+    Sofia -> everyone: Jack, leave that gap to me, I'm closing it now with a fix. Keep your hands off the tip. Omar, could you take the bottom edge from the tip? Hana, thanks for the clear-up.
+    (Jack held a thought)
+    (Omar held a thought)
+[  230s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 51 | calls 54
+    Hana -> Omar: Omar, the bottom edge from the tip is yours, and I'll stay clear of it. Once Sofia's fix is in, I'll check the start connection.
+    Omar -> everyone: Sofia, I've already got the bottom edge down, from just past the tip out toward the nose. It stops a domino short at the nose end, so I'll close that once your top edge gets there. Jack, the tail arms
+    (Jack held a thought)
+    (Sofia held a thought)
+[  240s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 51 | calls 58
+    Sofia -> everyone: Thanks, Omar, the bottom edge looks good. I'm closing the gap just past the tip now, so Jack, please keep your hands off the tip. Once that's joined I'll re-inspect the start.
+    (Jack held a thought)
+    (Omar held a thought)
+[  249s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 55 | calls 62
+    Jack -> everyone: Thanks Omar, the bottom edge looks great. Sofia, thanks for taking the gap. I'm keeping my hands off the tip. Once it's joined I'll put the two tail arms in, one up and one down, like a shallow V. Han
+    (Omar held a thought)
+[  257s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 58 | calls 66
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Sounds good, I'm keeping my hands right off the tip. Sofia, shout when the gap's closed and Hana's had a look. Then I'll fan the two tail arms out, one up and one down, from the tip. We've got about f
+    (Sofia held a thought)
+[  269s] 5:15 asked Sofia,Omar,Hana | dominoes 60 | calls 69
+    Sofia -> everyone: Gap's almost closed at the tip, I'm finishing it now. Jack, the arms can go in once that joins. Omar, we'll close your nose end when my top edge gets there. About five minutes left.
+    (Omar held a thought)
+[  279s] 5:30 asked Omar,Hana,Jack | dominoes 64 | calls 72
+    Jack -> everyone: Sounds good, Sofia. I'm keeping my hands right off the tip. Shout once it's joined and Hana's had a look, and I'll fan the arms out straight away.
+    (Hana held a thought)
+    (Omar held a thought)
+[  287s] 5:45 asked Sofia,Omar,Hana | dominoes 67 | calls 75
+    Hana -> everyone: Sofia, shout once the gap at the tip is joined and I'll inspect the start connection. Until then I'm keeping my hands off the tip and both edges.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  295s] 6:00 asked Sofia,Omar,Jack | dominoes 69 | calls 78
+    Sofia -> everyone: Still on the gap at the tip, about halfway through. Jack, I'll shout as soon as it's joined, then Hana can check it and you can fan the arms out.
+    (Omar held a thought)
+[  304s] 6:15 asked Omar,Hana,Jack | dominoes 73 | calls 81
+    Omar -> Sofia: Sofia, when your top edge gets up to the nose, check it actually reaches the loose run there rather than stopping short. I'll close my end once you're in. Keeping my hands off the tip.
+[  310s] 6:30 asked Sofia | dominoes 75 | calls 82
+    Sofia -> Omar: Will do, Omar. I'll check the top edge reaches your loose run at the nose once I get there.
+[  318s] 6:45 asked Omar | dominoes 78 | calls 83
+[  318s] 7:00 asked - | dominoes 81 | calls 83
+[  327s] 7:15 asked Hana,Jack | dominoes 83 | calls 85
+    Jack -> everyone: Still hands off the tip. Sofia, shout once the gap's joined and Hana's had a look, and I'll fan the arms out straight away.
+[  337s] 7:30 asked Sofia,Omar,Hana | dominoes 83 | calls 88
+    Hana -> Jack: Still waiting on Sofia's gap, Jack. I'll check the start connection as soon as she shouts, and I'm keeping my hands off the tip.
+    Sofia -> everyone: Gap's bridged at the tip, Jack and Hana. Hana, could you look at the joint at the start? I'm checking it too, then I'll get back on the top edge. Jack, you can fan the arms out from the tip now.
+[  348s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 87 | calls 92
+    Jack -> everyone: Gap's bridged, thanks Sofia. I'm fanning the tail arms out from the tip now, one up and one down, and I'll keep to the tip so Hana can check the joint.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  358s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 92 | calls 96
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: On it, Sofia. Checking the joint at the start now. Jack, once I've confirmed it reaches the body, the arms are good to go.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  370s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 95 | calls 100
+    Jack -> everyone: Two minutes! I'm finishing the last tail arm dominoes now, keeping right off the tip. Hana, the joint's all yours to check. Thanks, Sofia, for bridging that gap.
+    (Sofia held a thought)
+[  382s] 8:30 asked Sofia,Omar,Hana | dominoes 98 | calls 103
+    Hana -> everyone: Sofia, I've looked at the start joint. The line bends too sharply just past the start, and the next domino is jammed up against the one after it. Those two spots are what would stop the fall from reac
+    (Sofia held a thought)
+    (Omar held a thought)
+[  393s] 8:45 asked Sofia,Omar,Jack | dominoes 98 | calls 106
+    Sofia -> everyone: Thanks, Hana. I'm easing the bend just past the start now. Jack, hold the arms until I shout that it's clear. Omar, I'll check the top edge reaches your nose run once this is sorted.
+    (Omar held a thought)
+    (Jack held a thought)
+[  406s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 110
+    Omar -> everyone: Sofia, your top edge is still well short of the nose, so it won't get there in time. I'm closing my end out here now so the bottom edge runs all the way to the nose. I'm keeping off the tip.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  417s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 114
+    Sofia -> everyone: Start bend's eased. Hana, could you take a quick look at the joint? Jack, the arms are good once Hana's happy. Omar, I'm running the top edge out to the nose now, and I'll make sure it meets your run.
+    (Jack held a thought)
+    (Omar held a thought)
+[  427s] 9:30 asked Omar,Hana,Jack | dominoes 98 | calls 117
+    Omar -> everyone: Sofia, my end's closed at the nose, so the bottom edge runs all the way there. Your top edge won't reach it in time, so don't rush it. Finish easing the start joint first, and keep your hands off the 
+    (Hana held a thought)
+    (Jack held a thought)
+[  439s] 9:45 asked Sofia,Hana,Jack | dominoes 98 | calls 120
+    Sofia -> everyone: Got it, Omar. I'll leave the top edge where it stands rather than rush it to the nose. Hana, could you confirm the start joint now? Jack, hold the tail arms until Hana's happy with it.
+    (Hana held a thought)
+    (Jack held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.73,
+      "error": 1.9
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.72
+    },
+    "Hana": {
+      "speed": 1.14,
+      "error": 1.49
+    },
+    "Jack": {
+      "speed": 1.32,
+      "error": 1.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 496.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "swan or bird neck and head",
+      "fishing hook or candy cane",
+      "ocean wave or swoosh stroke"
+    ],
+    [
+      "bird neck and head, flying or swooping",
+      "swan or goose silhouette in profile",
+      "fish hook or curved hook shape"
+    ],
+    [
+      "fish hook or curved line",
+      "swoosh or wave stroke",
+      "bird or animal outline"
+    ]
+  ],
+  "placed": 98,
+  "fell": 66,
+  "completion": 0.673,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 14,
+    "Hana": 13,
+    "Jack": 10,
+    "Omar": 4
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 286,
+    "cache_creation_tokens": 713415,
+    "cache_read_tokens": 420689,
+    "output_tokens": 137792,
+    "seconds": 1268.3,
+    "api_equivalent_usd": 0.2158
+  }
+}

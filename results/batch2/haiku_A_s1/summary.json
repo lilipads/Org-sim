@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Tom": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Priya": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Leo": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 520.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "curved swoosh or brush stroke",
+      "snake or animal tail",
+      "curling vine or plant tendril"
+    ],
+    [
+      "fish or tadpole shape",
+      "seahorse outline",
+      "comet or swoosh with curled tail"
+    ],
+    [
+      "a curving domino chain, tipped over in a line",
+      "a wavy swoosh or stroke, like a comet tail",
+      "a stylized stem or tendril curling at one end"
+    ]
+  ],
+  "placed": 100,
+  "fell": 63,
+  "completion": 0.63,
+  "team_score": 0.21,
+  "first_domino_at": "0:45",
+  "messages": 63,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Priya": 28,
+    "Leo": 10,
+    "Tom": 6
+  },
+  "held_thoughts": 47,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 0,
+    "input_tokens": 314,
+    "cache_creation_tokens": 791455,
+    "cache_read_tokens": 462260,
+    "output_tokens": 150631,
+    "seconds": 1394.2,
+    "api_equivalent_usd": 0.2383
+  }
+}

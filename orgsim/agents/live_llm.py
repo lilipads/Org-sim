@@ -87,6 +87,10 @@ copies stroke 3 onto the table with your own hands. It's laid so it flows away f
 begins on another line, it carries on from it (or branches off it). If that line hasn't reached it yet,
 you wait until it does, then carry on. Several people can trace different strokes at the same time,
 but stroke 1 leaves the start and everything else grows from it, so make sure someone is on it.
+To repair a stroke that came out wrong, trace it again: your hands lift that stroke's dominoes and lay
+it afresh. "fix" is only for small breaks of a domino or two.
+The judge sees only the outline that falls, so pick an animal whose outline alone says what it is,
+and draw its telltale parts (a fish's tail fin, a cat's ears, a bird's beak and wings).
 Sketch strokes use the table's coordinates:
   {{"type":"curve","points":[[x,y],[x,y],...]}}   {{"type":"line","x0":..,"y0":..,"x1":..,"y1":..}}
   {{"type":"circle","cx":..,"cy":..,"r":..}}      {{"type":"label","x":..,"y":..,"text":"eye"}}

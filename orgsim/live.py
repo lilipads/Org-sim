@@ -132,6 +132,7 @@ class LiveGame:
         self.pad_strokes: list = []
         self._start_claimed = False
         self._taken: set = set()                    # line ends someone is already carrying on
+        self.traced: dict = {}                      # sketch stroke number -> domino ids laid for it
         self.t = 0.0
         self.log: dict = {"engine": "live", "config": asdict(cfg),
                           "regions": [asdict(r) for r in world.regions.values()],
@@ -490,6 +491,7 @@ class LiveGame:
             specs, bad, notes = [], [], []
             trace_start = False
             pending = None
+            trace_k = None
             for s in d.strokes or []:
                 try:
                     room = self.cfg.max_queue - len(specs)
@@ -531,13 +533,23 @@ class LiveGame:
                                 x.state == "up" for x in self.world.near(begin[0], begin[1], 1.4)):
                             pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin,
                                        "more": segs[1:]}
+                            trace_k = k
                             notes.append(f"waiting for the run to reach the start of stroke {k}")
                             continue
                         pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
                                                 drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead,
                                                 taken=self._taken)
+                        old = [i for i in self.traced.get(k, ()) if i in self.world.dominoes]
+                        if old:                # tracing a stroke again: lift what's there first
+                            specs = [("remove", i) for i in old] + specs
+                            self.traced[k] = set()
+                            notes.append(f"lifting the old stroke {k} and laying it again")
+                            pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
+                                                    drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead,
+                                                    taken=self._taken | set(old))
                         notes.append(f"{note} (stroke {k})")
                         specs += [("place", sp) for sp in pts]
+                        trace_k = k
                         if len(segs) > 1:      # the other half of a stroke through a junction
                             pending = {"k": k, "pts": segs[1], "err": err, "room": max(0, room - len(pts)),
                                        "begin": segs[1][0], "more": segs[2:]}
@@ -582,6 +594,8 @@ class LiveGame:
             if cut:
                 self.inbox[n].append(f"That was more than {self.cfg.max_queue} dominoes in one go; the last {cut} "
                                      "were left out. Ask for them again when this batch is done.")
+            if trace_k is not None:
+                self.task[n]["trace_k"] = trace_k
             if pending:
                 self.task[n]["pending"] = pending
                 self.task[n]["label"] = "; ".join(notes)
@@ -653,6 +667,8 @@ class LiveGame:
                                                err=skill.get("error", 1.0))
                         new += res.placed
                         task["blocked"] += res.blocked
+                        if task.get("trace_k") is not None:
+                            self.traced.setdefault(task["trace_k"], set()).update(x.id for x in res.placed)
                 task["done"] += len(batch)
                 task["placed"] += [d.id for d in new]
                 pts = [(d.x, d.y) for d in new + restood]
@@ -704,6 +720,18 @@ class LiveGame:
     def _finish_build(self, n: str, task: dict):
         if task.get("pending"):                       # more of this stroke to come once the run arrives
             return
+        if task.get("trace_k") is not None and not task.get("rejoined"):
+            task["rejoined"] = True                   # lines that grew from a re-laid stroke get fed again
+            mine = [self.world.dominoes[i] for i in task["placed"] if i in self.world.dominoes]
+            for x in mine:
+                for b in self.world.near(x.x, x.y, 1.2):
+                    if b.id in task["placed"] or b.state != "up" or b.start:
+                        continue
+                    ops = begin_join(self.world, b, set(task["placed"]), max_n=6)
+                    if ops:
+                        task["queue"] = ops
+                        task["total"] += len(ops)
+                        return
         if self.cfg.snap and not task.get("begun") and task["placed"]:
             task["begun"] = True
             first = self.world.dominoes.get(task["placed"][0])

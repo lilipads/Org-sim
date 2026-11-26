@@ -1,0 +1,267 @@
+[   21s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Hey all! Quick idea: a fish. Big oval body, triangle tail, super easy to recognise. I'll sketch it on the pad, then you can each grab a piece and trace it. Whoever's free, take the top curve or the bo
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   36s] 0:15 asked Sofia,Omar,Hana | dominoes 9 | calls 7
+    Sofia -> everyone: Love the fish, Jack! I've got the pad, so I'm sketching it now. Nose on the left, body up and over, then a triangle tail. Omar, can you take the top curve and make it the start? Hana, the bottom curve
+    (Omar held a thought)
+    (Hana held a thought)
+[   51s] 0:30 asked Omar,Hana,Jack | dominoes 19 | calls 10
+    Hana -> everyone: Sofia, nice sketch! One catch: the start is already down at the head, on the left, and my line is running into the nose. Can you redo the pad with the start line first, then the top and bottom curves 
+    (Omar held a thought)
+    (Jack held a thought)
+[   65s] 0:45 asked Sofia,Omar,Hana | dominoes 33 | calls 13
+    Sofia -> everyone: Good catch, Hana! Redoing the pad now. Start line first, then top and bottom curves from the nose round to the tail, then the tail triangle. Omar, your top curve is already right. Jack, your tail line
+    (Hana held a thought)
+    (Omar held a thought)
+[   75s] 1:00 asked Omar,Hana,Jack | dominoes 42 | calls 16
+    Jack -> everyone: Got the tail, Sofia! I'm on the upper tail line now. Omar and Hana have the body, so I'll leave that to you. Nice sketch!
+    (Hana held a thought)
+    (Omar held a thought)
+[   86s] 1:15 asked Sofia,Omar,Hana | dominoes 56 | calls 19
+    Sofia -> everyone: Nice, Jack! Omar, your top curve isn't hooked to the start line yet, so I'm closing that gap at the nose now. After that I'll do the back edge of the tail.
+    (Omar held a thought)
+    (Hana held a thought)
+[   98s] 1:30 asked Sofia,Omar,Jack | dominoes 64 | calls 22
+    Omar -> everyone: Yep, still going round the top to the tail. Thanks Sofia, I'll check the join once I'm done.
+    Sofia -> everyone: Hmm, the top curve still looks pale at the nose. I'm taking a closer look at that joint.
+    (Jack held a thought)
+[  113s] 1:45 asked Sofia,Hana,Jack | dominoes 75 | calls 25
+    Sofia -> everyone: Found it. The top curve starts facing straight up, so the start line can't tip it. I'm branching a little bridge off the line right here.
+    (Jack held a thought)
+    (Hana held a thought)
+[  124s] 2:00 asked Jack | dominoes 86 | calls 26
+    Jack -> everyone: Oops, Hana, you're already on the bottom curve, so I'll stay out of your way! Lower tail diagonal is done. I'm going to check the nose joint to see how far the start would knock over.
+[  140s] 2:15 asked Sofia,Hana,Jack | dominoes 92 | calls 29
+    Sofia -> everyone: Oops, my little bridge is in the wrong spot, it's off to the right of where the top curve starts. Taking it down and I'll try again from further back on the nose line.
+    (Jack held a thought)
+    (Hana held a thought)
+[  151s] 2:30 asked Sofia,Jack | dominoes 96 | calls 31
+    Sofia -> everyone: Okay, second try on the nose bridge! I'm branching off the start line a bit further back and curving up into the top curve.
+    (Jack held a thought)
+[  161s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 97 | calls 35
+    Hana -> everyone: Bottom curve's reached the tail point, but there's a little gap just before the end. I'm closing it now. Jack, I'll handle the join at the point.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  171s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 97 | calls 39
+    Sofia -> everyone: Bridge is in but the nose is jammed, so the top curve still isn't dark. I'm fixing that joint now, then the wobble a bit further up the curve. Omar, no need to touch it.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  182s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 102 | calls 43
+    Sofia -> everyone: Top curve's dark now, nice work Omar! The tail diagonals are still pale though, so I'm checking the join where the bottom curve meets the tail. Jack, the back edge of the tail is yours.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  192s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 108 | calls 47
+    Sofia -> everyone: Found it, the bottom curve has one gap and one jammed spot right before the tail point. I'm fixing that now. Hana, shout if you're already on it. Jack, the back edge of the tail is yours.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  203s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 113 | calls 51
+    Sofia -> everyone: The lower tail is still pale, so I'm hooking it in off the top curve right at the crossing. Jack, is the back edge going up too?
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  229s] 4:00 asked Omar,Hana,Jack | dominoes 126 | calls 55
+    Hana -> everyone: Sofia, I already bridged the gap before the tail point, so you can leave that. I'll take the back edge of the tail now, joining the two tail ends on the right. Jack, shout if you're already on it.
+    (Omar held a thought)
+    (Jack held a thought)
+[  242s] 4:15 asked Sofia,Omar,Jack | dominoes 138 | calls 58
+    Jack -> everyone: Thanks Hana, nice one! I'm already on the back edge, coming down from the top end of the upper diagonal. You stay on the lower diagonal and I'll meet you at the bottom.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  251s] 4:30 asked Sofia,Omar,Hana | dominoes 144 | calls 61
+    Hana -> everyone: Okay Jack, got it, you come down from the top and I'll come up from the bottom corner. Shout when you're close and I'll meet you in the middle so we don't pile on each other.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  264s] 4:45 asked Sofia,Omar,Jack | dominoes 143 | calls 64
+    Jack -> everyone: Hana, my side's done! It comes down from the top and stops just above where you're pointing. Your end should be close, so a short bridge should close it. I'll look over the tail to see what's still pa
+    (Sofia held a thought)
+    (Omar held a thought)
+[  279s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 151 | calls 68
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Thanks Hana, you and Jack take the back edge. The lower tail still isn't dark, so I'm looking closely at the crossing to see what's stopping it.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  293s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 160 | calls 72
+    Hana -> everyone: Jack, thanks! My lower diagonal's done, so I'm bridging up to where your line stops now. Sofia, I'll look over the tail after.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  302s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 166 | calls 76
+    Omar -> everyone: Sofia, I looked over the lower tail. The only real break is right at the crossing, where the next domino is jammed too close, so the lower diagonal never gets tipped. Hana, the back edge still has loo
+    (Jack held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  313s] 5:45 asked Sofia,Hana,Jack | dominoes 171 | calls 79
+    Hana -> everyone: Jack, Omar, thanks. I'm closing the gap on the back edge right here. Sofia, the crossing is yours.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  320s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 174 | calls 83
+    Sofia -> everyone: Thanks Hana, Omar! I'm bridging into the lower tail at the crossing now, just let it finish. Shout when the back edge is joined!
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  331s] 6:15 asked Omar,Hana,Jack | dominoes 180 | calls 86
+    Omar -> everyone: Sofia, I'm right at the crossing already, so I'll fix that jam. You can stay up top.
+    (Hana held a thought)
+    (Jack held a thought)
+[  340s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 182 | calls 90
+    Sofia -> Omar: Omar, I'm only five dominoes from done there, so give me a few seconds and keep your hands clear. Then check whether the lower tail goes dark and fix any jam that's left.
+    Omar -> everyone: Nudge didn't take, so I'm bridging it properly at the crossing now. Sofia, stay up top.
+    (Hana held a thought)
+    (Jack held a thought)
+[  349s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 184 | calls 94
+    Sofia -> Omar: Almost there, three dominoes left. Omar, hold off a sec so we don't collide, then tell me if the lower tail goes dark.
+    Omar -> everyone: Sorry Sofia, scratch that, I'm keeping my hands off. You finish the crossing and I'll look over the lower tail once it's in, then fix whatever's still jammed.
+    (Hana held a thought)
+    (Jack held a thought)
+[  357s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 184 | calls 98
+    Sofia -> everyone: Crossing bridge is in! Omar, I'm taking a quick look at it now to see if the lower tail goes dark. Shout if you spot the jam first.
+    (Hana held a thought)
+    (Jack held a thought)
+[  376s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 184 | calls 102
+    Sofia -> everyone: Still one jammed spot right at the crossing, so the lower tail isn't dark yet. I'm fixing that joint now. Omar, can you look over the tail once it's done? Hana, Jack, shout when the back edge is joine
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  384s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 181 | calls 106
+    Sofia -> everyone: Fix didn't take, so I'm clearing the jammed bits at the crossing and rebuilding that joint clean. Omar, hands off that spot for a moment please, then check the lower tail.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  392s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 184 | calls 110
+    Sofia -> everyone: Jam's cleared, bridging into the lower tail now. Omar, keep clear for a few seconds, then check if it goes dark!
+    Omar -> everyone: Sofia, got it, hands off the crossing. I'm looking over the back edge where Jack's and Hana's lines meet.
+    (Hana held a thought)
+    (Jack held a thought)
+[  401s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 190 | calls 114
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Thanks Omar, and nice crossing Sofia! I'll fix just that sideways spot near the top of the back edge, Hana you stay at the bottom corner.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  407s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 192 | calls 118
+    Sofia -> everyone: Two minutes! Finishing the crossing bridge now, keep clear of it. Once it's in, Omar, check that the lower tail goes dark.
+    Hana -> everyone: Jack, you take the top of the back edge, I'm checking the bottom corner now.
+    (Jack held a thought)
+    (Omar held a thought)
+[  417s] 8:30 asked Omar,Hana,Jack | dominoes 198 | calls 121
+    Omar -> everyone: Quick report: the two loose ends on the back edge still don't meet, one facing left and one facing down-left, right where I'm pointing. Jack, Hana, a short bridge between them closes it. The upper dia
+    (Jack held a thought)
+    (Hana held a thought)
+[  422s] 8:45 asked Sofia,Hana,Jack | dominoes 203 | calls 124
+    Jack -> everyone: On it Omar, thanks! I'm bridging those two loose ends on the back edge right now. Almost there, team!
+    Hana -> everyone: Bridging the back edge gap right here now, Jack keep clear of it please.
+    (Sofia held a thought)
+[  429s] 9:00 asked Sofia,Omar,Jack | dominoes 208 | calls 127
+    Jack -> everyone: Hana, you've got that back edge bridge, I'll keep clear! I'm just looking over the crossing to see if the lower tail goes dark.
+    (Sofia held a thought)
+[  437s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 211 | calls 131
+    Sofia -> everyone: One last jam at the crossing, I'm fixing it now. Everyone keep clear!
+    Hana -> everyone: Still bridging the back edge, almost there. Thanks Jack for keeping clear!
+    (Jack held a thought)
+[  444s] 9:30 asked Sofia,Omar,Jack | dominoes 218 | calls 134
+    Sofia -> everyone: Last bridge at the crossing, keep clear!
+    Jack -> everyone: Hands off everyone, Sofia and Hana have it! Nearly there, great work team, that fish is looking good!
+[  452s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 223 | calls 138
+    Sofia -> everyone: Two more dominoes at the crossing, hold still everyone!
+    Jack -> everyone: Fingers crossed, you two! Go fish!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Hana": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Jack": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 515.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "snail with a shell and antenna",
+      "fish or sea creature with a tail",
+      "bird or dinosaur head in profile"
+    ],
+    [
+      "snail with shell and body",
+      "fish in profile",
+      "bird or swan in profile"
+    ],
+    [
+      "snail with a spiral-less shell",
+      "bird or fish profile",
+      "teapot or kettle outline"
+    ]
+  ],
+  "placed": 223,
+  "fell": 93,
+  "completion": 0.417,
+  "team_score": 0.208,
+  "first_domino_at": "0:15",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 10,
+    "Sofia": 23,
+    "Hana": 9,
+    "Omar": 7
+  },
+  "held_thoughts": 82,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 155,
+    "failed": 0,
+    "input_tokens": 326,
+    "cache_creation_tokens": 769328,
+    "cache_read_tokens": 498390,
+    "output_tokens": 86724,
+    "seconds": 1288.2,
+    "api_equivalent_usd": 3.8384
+  }
+}

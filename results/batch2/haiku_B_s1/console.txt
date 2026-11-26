@@ -1,0 +1,260 @@
+[   20s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, I'm going to grab the pad and sketch a snake. It's one long wiggly line from the start, so it should fall cleanly. Shout if you'd rather do something else!
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   30s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Snake's good, Sofia. I was going to pitch a fish, but a snake works. Just start stroke one at the head so the fall runs head to tail, and keep the wiggles gentle so it doesn't break at the bends.
+    (Jack held a thought)
+    (Omar held a thought)
+[   45s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Sofia -> everyone: Good call, Hana. Head at your spot, body running off to the right with gentle wiggles, and I'll sketch it now so everyone can check it.
+    (Jack held a thought)
+    (Omar held a thought)
+[   54s] 0:45 asked Omar,Hana,Jack | dominoes 2 | calls 13
+    Hana -> everyone: I'll take stroke one from the head and set the start there. Omar or Jack, could one of you take the little head circle once the body's going?
+    (Jack held a thought)
+    (Omar held a thought)
+[   64s] 1:00 asked Sofia,Omar,Jack | dominoes 14 | calls 16
+    Omar -> everyone: I'll take the head circle, Hana. I'll trace stroke two so it closes round the start. Sofia, I'd still like a little eye on the head so people can tell which end is which.
+    (Jack held a thought)
+    (Sofia held a thought)
+[   76s] 1:15 asked Sofia,Hana,Jack | dominoes 25 | calls 19
+    Jack -> everyone: Omar, I'm already five dominoes into the head circle, stroke 2, so I'll keep that one going. Could you take the back half of the body, from the middle to the tail, once Hana's line gets that far? Hana
+    (Hana held a thought)
+    (Sofia held a thought)
+[   87s] 1:30 asked Sofia,Omar,Hana | dominoes 30 | calls 22
+    Sofia -> everyone: Jack, I've got the restand. I'll stand back up the bump in the middle now so you can keep the head circle going. Omar, I'll put the eye on the head after that.
+    (Omar held a thought)
+    (Hana held a thought)
+[   97s] 1:45 asked Sofia,Omar,Hana,Jack | dominoes 37 | calls 26
+    Hana -> everyone: Sofia, you've got the restand, so I'll leave that bump to you and keep stroke one going past it. Omar, when my line gets to about the middle of the body, I'll hand the back half over to you.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  107s] 2:00 asked Sofia,Omar | dominoes 45 | calls 28
+    Sofia -> everyone: On it, Jack. I'm standing the middle back up now so you can keep the head circle going.
+    (Omar held a thought)
+[  113s] 2:15 asked Sofia,Omar,Jack | dominoes 50 | calls 31
+    Jack -> everyone: Thanks Sofia, that's a lifesaver. I'll keep the head circle going and close it up.
+    (Omar held a thought)
+[  121s] 2:30 asked Sofia,Omar | dominoes 55 | calls 33
+    Sofia -> everyone: On it, Jack. Standing the middle bump back up now, so you can keep the head circle going.
+    (Omar held a thought)
+[  130s] 2:45 asked Sofia,Omar,Jack | dominoes 60 | calls 36
+    Sofia -> everyone: Standing the middle bump back up now, Jack. I'll shout when it's clear.
+    (Omar held a thought)
+[  140s] 3:00 asked Sofia,Omar,Jack | dominoes 65 | calls 39
+    Jack -> Sofia: Thanks Sofia, I'll keep to the head circle and stay off the middle until you shout.
+    Omar -> everyone: Sounds good, Jack, you've got the head circle. Thanks, Sofia, for the restand. Hana, your line's already out past the middle, so I'll take the tail end from wherever you stop, out to the tail. Just sh
+    (Sofia held a thought)
+[  149s] 3:15 asked Sofia,Hana,Jack | dominoes 67 | calls 42
+    Hana -> Omar: Omar, my line's out to about here. I'm placing my last two, then it's yours from this end out to the tail.
+    Sofia -> everyone: Restanding the middle bump now, Jack. I'll shout when it's clear.
+    Jack -> everyone: Got it, Omar. I'm on the head circle with about eight to go, so the tail's all yours once Hana's line gets there.
+[  163s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 71 | calls 46
+    Hana -> everyone: Omar, my line's done up to here, so the tail's yours from this end out. I'm checking the whole body now for breaks before the push.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  175s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 71 | calls 50
+    Hana -> everyone: Inspect found a kink right by the head, where the next domino sits off its path. That's on my body line, so I'm fixing it now. Sofia, is the jam further along yours? Tell me when it's clear and I'll l
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  188s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 72 | calls 54
+    Sofia -> everyone: Hana, not clear yet. The jam just past the middle is mine. I'm standing the bump back up and closing that gap now, so keep off that stretch for a moment. I'll shout when it's done.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  196s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 72 | calls 58
+    Sofia -> everyone: Hana, the jam just past the middle is mine. I'm standing the bump back up and closing that gap now, so keep off that stretch for a moment. I'll shout when it's clear.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  204s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 72 | calls 62
+    Hana -> Sofia: Sofia, got it. I'm keeping off your stretch in the middle and fixing the kink by the head now. I'll look at the middle joint once you shout that it's clear.
+    Jack -> everyone: Thanks Sofia, I'll keep clear of the middle until you shout. Hana, lovely line, and thanks Omar for taking the tail. I'm still on the head circle, about eight to go, and I'm keeping off Hana's kink by
+    (Omar held a thought)
+[  214s] 4:45 asked Sofia,Omar,Hana | dominoes 73 | calls 65
+    Hana -> everyone: I'm not seeing a break at the head where Inspect said the kink was, so I'm going to look at that area again before I touch it. Jack, once your circle closes, the loose dominoes at the head should join
+    (Omar held a thought)
+[  224s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 69
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Honest update: my hands were empty, so I hadn't actually started the restand. I'm doing it now, the bump in the middle and the jam just past it. Hana, Jack, please keep off that stretch until I shout 
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  233s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 73
+    Sofia -> everyone: Restanding the middle bump and closing the jam just past it now. Hana, Jack, please keep off that stretch until I shout clear.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  241s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 77
+    Hana -> everyone: Re-inspecting the head now, since I don't see the kink Inspect reported. Jack, shout when the circle closes so I can check the loose ones join up. Sofia, my hands are free if you want a second pair on
+    (Omar held a thought)
+    (Jack held a thought)
+[  252s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 81
+    Sofia -> everyone: Honest correction, everyone: my hands were empty, so I'm actually starting the middle restand now. Hana, I'll take your offer of a second pair once the near side is standing, but keep off the middle u
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  262s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 85
+    Sofia -> everyone: Starting the middle restand now, for real this time. I'll take the near side first. Hana, once I shout clear, you can have the far half of the jam. Jack, stay off the middle till then.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  271s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 89
+    Sofia -> everyone: Starting the middle restand now, near side first. Jack, Hana, keep off that stretch until I shout clear.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  279s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 93
+    Jack -> Sofia: Thanks Sofia, honest and quick. I'm still on the head circle, keeping clear of the middle, and I'll shout the moment it closes.
+    Hana -> everyone: Sofia, my hands are still free. Name the dominoes and I'll take them once you shout clear. I'm staying off the middle and checking the head now.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  290s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 97
+    Hana -> Jack,Sofia: Jack, want a hand closing the circle? I can take the last few on your side. Sofia, still ready to take whatever you name once you shout clear.
+    Sofia -> everyone: Still not clear, everyone. The jam right there is still crowded, so I'm closing it now. Hana, you can take the far side past it once I shout. Jack, stay off the middle until then.
+    (Omar held a thought)
+[  301s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 101
+    Hana -> Jack: Jack, my hands are free. Which ones are left on the circle? Tell me the end you're not on and I'll take the last few from there so we don't cross.
+    Jack -> Hana: Yes please, Hana, take the far side of the circle from where I stop. I've got the near side. Once it's round, I'll shout so you can check the loose ones at the head.
+    Sofia -> everyone: Still on the jam, Hana. I'm closing it now and I'll re-inspect before I shout clear. Jack, keep off the middle till then.
+    (Omar held a thought)
+[  317s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 105
+    Hana -> Jack: Jack, I'll take the lower-left arc of the circle, from the bottom round toward where you stop. Tell me the exact domino where you're finishing and I'll start from the other side.
+    Sofia -> everyone: Honest check first, everyone. I'm inspecting the jam by the middle before I call anything clear. Jack, Hana, keep off that stretch until I've looked. Then I'll tell you exactly what's open.
+    (Omar held a thought)
+    (Jack held a thought)
+[  328s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 109
+    Sofia -> everyone: Honest result from the inspect: the jam here is still too tight, the next domino sits too close. Hana, Jack, please keep off this stretch. I'm closing it now and I'll only shout clear once I've confir
+    (Jack held a thought)
+    (Omar held a thought)
+[  341s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 113
+    Hana -> Jack: Jack, I'm holding off on the circle until you name the exact domino you're finishing on. Once you do, I'll start the lower-left arc from the bottom and work toward you.
+    Jack -> Hana: Hana, I'm finishing at the leftmost domino of the circle, where the arc turns down the left side. You take from the bottom of the circle up to just below that one, and we meet there. I'll shout once i
+    Omar -> everyone: Tail's done from the joint at 23.5 out to the tip. I'm keeping off the middle until Sofia shouts clear. Sofia, I can take the far side past the jam once you call it. Otherwise I'll check the tail join
+    (Sofia held a thought)
+[  353s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 117
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Still on the jam just past the middle, and I haven't cleared it yet. I'm running the fix on that next domino now. Hana, Jack, please keep off that stretch. I'll re-inspect and shout the moment it's co
+    (Hana held a thought)
+    (Jack held a thought)
+[  361s] 8:15 asked Omar,Hana,Jack | dominoes 78 | calls 120
+    Omar -> Sofia: Sofia, my hands are still empty. Shout the word and I'll take the far side past the jam. Meanwhile I'm checking the tail joint.
+    Hana -> Jack: Jack, got it. I'm taking the lower-left arc from the bottom up to just below your leftmost domino, and we meet there. Carrying on now.
+    Jack -> everyone: Heading back onto the head circle now, finishing at the leftmost domino like we agreed, Hana. I'll shout the moment it closes so you can check the loose ones at the head. Thanks Sofia for sticking wit
+[  370s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 80 | calls 124
+    Hana -> Jack: Jack, I'm closing the gap from my end now, up to just below your leftmost domino. Then I'll check the loose ones at the head.
+    Sofia -> everyone: Honest status: the jam just past the middle is still not confirmed clear. I'm re-inspecting it right now, and I won't call it until I've checked. Omar, Hana, hold off on that stretch for these few sec
+    (Jack held a thought)
+[  380s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 128
+    Jack -> Hana: Got it, Hana. I'm carrying on round the near side and finishing on that leftmost domino where we meet. I'll shout the second it's closed so you can check the loose ones at the head.
+    Sofia -> everyone: Honest result: the jam just past the middle is still open. The next domino is too close, so it won't carry the fall. I haven't called it clear. My hands are empty, so I'm running the fix on it now. Ha
+    (Omar held a thought)
+[  393s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 132
+    Omar -> Sofia: Sofia, I'm staying off the middle. I'm fixing the joint at the base of my tail, nowhere near your jam. Shout if you need a pair of hands and I'll come straight over.
+    Sofia -> everyone: Honest status: the jam just past the middle is still not clear. My hands are on the fix now. Hana, Omar, please stay off that stretch. Jack, stay on the head circle. I'll shout once it's confirmed.
+    (Hana held a thought)
+[  403s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 136
+    Hana -> everyone: Closing the last gap on the circle now, from my end to Jack's leftmost domino. Then I'll check the loose ones at the head. Staying off the middle.
+[  412s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 140
+    Hana -> everyone: Retrying the gap at the leftmost circle domino now, hands on it. Jack, if yours is still open at the same spot, shout.
+[  422s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 144
+    Jack -> Hana: Hana, mine's still open at that same leftmost one, so we're on it together. I'll shout the second it closes.
+    Sofia -> everyone: Honest status: the jam just past the middle is still not confirmed clear. My hands are on the fix now, so please stay off that stretch. I won't shout clear until I've re-inspected.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Hana": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Jack": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.1,
+  "intents": {
+    "Sofia": "snake",
+    "Omar": "snake",
+    "Hana": "snake",
+    "Jack": "snake"
+  },
+  "team_intent": "snake",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "lasso or rope with a loop at one end",
+      "tadpole or sperm shape with a long tail",
+      "dominoes toppled along a curved, looping path"
+    ],
+    [
+      "a lasso or rope loop with a tail",
+      "a tadpole or sperm-like shape",
+      "a looping ribbon or swirl stroke"
+    ],
+    [
+      "a lasso or rope loop with a trailing tail",
+      "a tadpole or sperm-like swimming shape",
+      "a whip or curled cable lying on a surface"
+    ]
+  ],
+  "placed": 81,
+  "fell": 73,
+  "completion": 0.961,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 60,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 23,
+    "Hana": 18,
+    "Omar": 5,
+    "Jack": 11
+  },
+  "held_thoughts": 67,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 161,
+    "failed": 0,
+    "input_tokens": 334,
+    "cache_creation_tokens": 847806,
+    "cache_read_tokens": 491894,
+    "output_tokens": 137136,
+    "seconds": 1359.6,
+    "api_equivalent_usd": 0.2431
+  }
+}

@@ -356,7 +356,10 @@ def fix_specs(world: World, s: dict, max_n: int) -> tuple:
         pts = [(x, y, h)]
     else:
         pts = approach(world, x, y, h, b, max_steps=max_n * 3)
-    return [("place", p) for p in pts[:max_n]], f"bridging the break near {where(d.x, d.y)}"
+    if len(pts) > 5 or _cost(world, pts, {d.id, b.id}, clearance=0.25) > 0:
+        return [], (f"the break near {where(d.x, d.y)} is too big to fix by hand; "
+                    "trace that stroke again instead")
+    return [("place", p) for p in pts[:max_n]], f"bridging the small break near {where(d.x, d.y)}"
 
 
 def snap_start(world: World, specs: list) -> tuple:

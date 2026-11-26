@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Hana": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Jack": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.1,
+  "intents": {
+    "Sofia": "snake",
+    "Omar": "snake",
+    "Hana": "snake",
+    "Jack": "snake"
+  },
+  "team_intent": "snake",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "lasso or rope with a loop at one end",
+      "tadpole or sperm shape with a long tail",
+      "dominoes toppled along a curved, looping path"
+    ],
+    [
+      "a lasso or rope loop with a tail",
+      "a tadpole or sperm-like shape",
+      "a looping ribbon or swirl stroke"
+    ],
+    [
+      "a lasso or rope loop with a trailing tail",
+      "a tadpole or sperm-like swimming shape",
+      "a whip or curled cable lying on a surface"
+    ]
+  ],
+  "placed": 81,
+  "fell": 73,
+  "completion": 0.961,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 60,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 23,
+    "Hana": 18,
+    "Omar": 5,
+    "Jack": 11
+  },
+  "held_thoughts": 67,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 161,
+    "failed": 0,
+    "input_tokens": 334,
+    "cache_creation_tokens": 847806,
+    "cache_read_tokens": 491894,
+    "output_tokens": 137136,
+    "seconds": 1359.6,
+    "api_equivalent_usd": 0.2431
+  }
+}

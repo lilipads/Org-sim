@@ -1,0 +1,232 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Okay, let's go with a fish, nose to the right. I'm sketching it on the pad now. The tail end is where we start, and the top and bottom of the body run out from there.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   33s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Yeah, fish, nose right, tail's the start. That's what I had too. Once the top line's down I'll take the belly back under to the tail.
+    (Maya held a thought)
+    (Leo held a thought)
+[   41s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Leo -> everyone: Fish works for me, Priya. Go ahead and sketch it. Once the body's on the pad, I'm happy to trace the bottom half if nobody else has it.
+    (Maya held a thought)
+    (Priya held a thought)
+[   56s] 0:45 asked Maya,Tom,Priya | dominoes 0 | calls 13
+    Priya -> everyone: Okay, I've got the pad and I'm drawing it now. Top line runs from the tail to the nose and I'm tracing it first with the start on the tail. Leo, yes, take the bottom. Branch it off the top just past t
+    (Maya held a thought)
+    (Tom held a thought)
+[   65s] 1:00 asked Maya,Tom,Leo | dominoes 11 | calls 16
+    Maya -> everyone: Yeah, agreed: fish, nose right, tail's the start. Priya's on the top, Leo's on the bottom, Tom, the belly comes off the top, not back to the tail. I'll hold off placing until the start's lined up on t
+    (Tom held a thought)
+    (Leo held a thought)
+[   78s] 1:15 asked Tom,Priya,Leo | dominoes 18 | calls 19
+    Tom -> everyone: Leo, you've got the bottom. I'll take the belly, coming off the top just past the tail and running forward, so we don't overlap. Priya, I'll trace it once it's on the pad.
+    (Priya held a thought)
+    (Leo held a thought)
+[   86s] 1:30 asked Maya,Priya,Leo | dominoes 27 | calls 22
+    Priya -> everyone: Thanks, Maya. Top line's nearly down. Leo, the bottom is stroke 3 on the pad, branching off just past the tail. Tom, the belly comes off the top at this spot and runs forward to the nose, not back to 
+    (Leo held a thought)
+[   97s] 1:45 asked Maya,Tom,Leo | dominoes 34 | calls 25
+    Leo -> Tom: Got it, Tom. You take the belly off the top just past the tail and run it forward. I've got the bottom, and I'm nearly finished, two more dominoes.
+    Tom -> everyone: Got it, Priya. Belly comes off the top just past the tail and runs forward to the nose. When you've finished the top, can I have the pad to sketch it?
+    (Maya held a thought)
+[  108s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 37 | calls 29
+    Priya -> everyone: Tom, take the pad. Sketch the belly off the top just past the tail and run it forward to the nose. I'll finish the top line and keep an eye on the bottom.
+    (Maya held a thought)
+[  118s] 2:15 asked Maya,Tom,Leo | dominoes 43 | calls 32
+    Maya -> everyone: Start's lined up on the tail and the joints there look solid. Priya, once your top gets to the nose, I can take the join where it meets Leo's bottom, unless someone's already on it.
+    (Tom held a thought)
+[  129s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 43 | calls 36
+    Maya -> Priya: Priya, I'll take the nose join once your top gets there. Shout if you'd rather do it yourself.
+    Priya -> Maya,Leo: Yes, Maya, take the nose join. I'm nearly at the nose with the top. Leo, anything you want to flag from what you said to Tom?
+    Tom -> everyone: Got it, Priya. The belly's on the pad as stroke 4. I'm putting the pad down and tracing it off the top just past the tail, running forward to the nose. Maya, I'll leave the nose join to you.
+    (Leo held a thought)
+[  139s] 2:45 asked Maya,Priya,Leo | dominoes 48 | calls 39
+    Maya -> Priya,Tom,Leo: Got it, Priya. I'm taking the nose join now. Tom, the belly stays yours.
+    Priya -> Leo: Leo, you mentioned something to Tom earlier. Anything I should know about before we push?
+    Leo -> Priya,Maya,Tom: Thanks, Maya. I've got two dominoes left on the bottom. I'll check where it meets the top at the nose when I finish. If you want the nose join, take it. I'm not touching the pad. Tom, keep the belly c
+[  148s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 48 | calls 43
+    Priya -> Leo: Leo, no rush, but before we push: what did you tell Tom about the belly? I'm going to look at the tail junction now.
+    Leo -> Priya,Tom: Only the one thing, Priya. My bottom and Tom's belly both leave the top just past the tail, so they're close there. I'll keep my last two right on the line and check my end at the nose. Tom, leave a l
+    Maya -> everyone: Nose join's in. I'm checking it now, so shout if you see a gap near the nose.
+    Tom -> everyone: Belly's going down now, off the top just past the tail. Leo, I'll keep well clear of your branch.
+[  163s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 48 | calls 47
+    Tom -> Leo: Got you, Leo. I'm keeping the belly off your branch. We won't touch there.
+    Priya -> Leo,Tom: Thanks, Leo. That's the spot I wanted to look at. I'll check the tail junction now. Leo, keep your last two on the bottom line, and Tom, leave that room you mentioned.
+    Maya -> everyone: Nose join's in. I'm going over the nose again now to make sure it's connected through.
+    (Leo held a thought)
+[  176s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 48 | calls 51
+    Tom -> Priya,Leo: Will do, Priya. Leaving that gap clear. Belly's going down, and I'm keeping it off Leo's branch.
+    Maya -> everyone: Nose checks out. The chain carries from the tail through the whole fish. Tom, I'm going to look at where the belly comes off the top while you're laying it.
+    (Priya held a thought)
+[  185s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 50 | calls 55
+    Maya -> Tom: Tom, I'm watching where the belly comes off the top. Shout if you want me to check anything else.
+    Tom -> Maya: Got you, Maya. I'll keep the belly tight to the top and leave the gap by Leo's branch clear.
+    Priya -> everyone: Tail junction's solid. Everything's carried back to the start. Tom, Leo, I'm keeping my hands off so you have room. If anything gets knocked near the tail, shout and I'll stand it back up.
+[  193s] 4:00 asked Maya,Tom,Leo | dominoes 53 | calls 58
+    Tom -> everyone: Belly's still going down. I'm keeping it tight to the top and leaving Leo's branch clear.
+[  202s] 4:15 asked Maya,Priya,Leo | dominoes 57 | calls 61
+    Priya -> Tom,Leo: I'm going to look over where the belly and bottom leave the top, and I won't touch anything. Keep going, you two.
+[  209s] 4:30 asked Tom,Priya,Leo | dominoes 58 | calls 64
+    Tom -> Priya: Got it, Priya. Belly's still going down, keeping it off Leo's branch.
+    Leo -> Priya,Tom: Priya, Tom, I'm finishing my last two on the bottom now. Once they're down I'll check my end at the nose, and I'll stay off the tail.
+[  218s] 4:45 asked Tom,Priya | dominoes 58 | calls 66
+    Priya -> Tom,Leo: Tom, Leo, I'm looking over the belly and bottom junction now. Keep going, I won't touch anything.
+    Tom -> everyone: Belly's still going down, I'm keeping it off Leo's branch by the tail.
+[  229s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: I've looked over where the belly and bottom leave the top. Both look like they're coming off cleanly and the chain still carries back to the start. Tom, Leo, keep your hands clear of that spot. I'm no
+    (Leo held a thought)
+[  237s] 5:15 asked Maya,Tom,Leo | dominoes 58 | calls 73
+    Tom -> everyone: Thanks, Priya. Belly's still going down, and I'm keeping it clear of Leo's branch by the tail.
+    Leo -> everyone: Two left on the bottom. Finishing those now, then I'll check my end at the nose.
+[  245s] 5:30 asked Maya,Priya,Leo | dominoes 58 | calls 76
+    Maya -> everyone: Tail junction looks clean from where I'm standing. Tom, Leo, finish your runs and I'll walk the whole fish from the tail once you're both done.
+[  254s] 5:45 asked Tom,Priya,Leo | dominoes 58 | calls 79
+    Tom -> Maya: Thanks, Maya. Belly's nearly down, a few more and I'm done.
+    Priya -> everyone: Inspection's back: everything on the table is connected to the start, all 58 standing pieces. The spot where the belly and bottom leave the top looks clean. Tom, Leo, finish your runs and keep your ha
+    (Leo held a thought)
+[  262s] 6:00 asked Maya,Tom,Leo | dominoes 58 | calls 82
+    Leo -> everyone: Thanks, Maya. Two left on the bottom. I'll finish them, then check my end at the nose.
+[  270s] 6:15 asked Maya,Tom,Priya | dominoes 58 | calls 85
+[  275s] 6:30 asked Maya | dominoes 58 | calls 86
+[  283s] 6:45 asked Maya | dominoes 58 | calls 87
+    Maya -> Tom,Leo: Looks connected from here. Tom, Leo, shout when you're both done and I'll walk it from the tail to the nose.
+[  292s] 7:00 asked Tom,Leo | dominoes 58 | calls 89
+    Tom -> Maya,Leo: Still a few left on the belly, Maya. I'll shout when it's down. Leo's branch is clear on my side.
+    Leo -> everyone: My bottom's down, I think. I'm checking my end near the nose now, so shout if you see a gap there.
+[  301s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 93
+    Leo -> everyone: My bottom's down. I'm checking the nose join where it meets the top, and I'll fix any gap I find there.
+    (Priya held a thought)
+[  314s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 97
+    Priya -> everyone: Leo, I'll take a look at the nose with an inspect now, so you can stay on the bottom. Shout if you see a gap before I'm done.
+    (Leo held a thought)
+    (Maya held a thought)
+[  328s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 101
+    Priya -> everyone: Nose inspection's back. The tip is the end of the chain with nothing ahead, which is what we want, and the join looks connected from here. Leo, can you confirm your bottom meets it? Tom, Maya, did any
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  339s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 105
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Priya, the belly hasn't changed. Same line off the top just past the tail. I'm finishing the last few now, staying off the nose and Leo's branch.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  348s] 8:15 asked Maya,Priya,Leo | dominoes 58 | calls 108
+    Priya -> everyone: Thanks, Tom, that settles the belly. Leo, can you confirm your bottom meets the nose join? If you can't, shout and I'll help with the gap. Otherwise I'm staying off the table until the push.
+    (Leo held a thought)
+    (Maya held a thought)
+[  358s] 8:30 asked Maya,Tom,Leo | dominoes 58 | calls 111
+    Leo -> everyone: Priya, yes, my bottom meets the nose at the tip. From my side both lines come together there and the chain carries all the way back. I'm not touching anything else. If you see a gap at that join, tell
+    (Maya held a thought)
+[  369s] 8:45 asked Maya,Tom,Priya | dominoes 58 | calls 114
+    Maya -> everyone: Priya, I haven't touched the belly or the nose. My hands have been off the table the whole time. I just had a last look where the belly comes off the top, and it looks clean. I'll shout if anything mo
+    (Priya held a thought)
+    (Tom held a thought)
+[  378s] 9:00 asked Tom,Priya,Leo | dominoes 58 | calls 117
+    Tom -> everyone: Maya, Priya, belly's down on my end, the last bits are in. Leo, good, thanks for confirming the nose. I'm keeping my hands off the nose now.
+    (Priya held a thought)
+[  386s] 9:15 asked Maya,Priya,Leo | dominoes 58 | calls 120
+    Maya -> everyone: Thanks, Tom. Belly's down, so I'm running one inspect on the whole fish now, about fifteen seconds. Nobody touch anything until I'm done.
+    (Priya held a thought)
+[  396s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 124
+    Maya -> everyone: Inspect's back. The whole fish is connected from the tail to the nose, all 58 pieces, and the belly, bottom and top all join cleanly. Nobody touch anything, we're good for the push.
+[  405s] 9:45 asked Tom,Priya,Leo | dominoes 58 | calls 127
+    Priya -> everyone: Thanks, Maya, and thanks, Tom, for the belly. Nobody touch anything. We're good for the push.
+    Tom -> everyone: Good, I'm keeping my hands off. Nice fish, Maya.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.73,
+      "error": 1.9
+    },
+    "Tom": {
+      "speed": 0.96,
+      "error": 1.72
+    },
+    "Priya": {
+      "speed": 1.14,
+      "error": 1.49
+    },
+    "Leo": {
+      "speed": 1.32,
+      "error": 1.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 478.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a leaf with a stem and veins",
+      "a fish with a tail and fins",
+      "a closed eye with eyelashes"
+    ],
+    [
+      "fish with forked tail",
+      "leaf with curved veins",
+      "closed eye with lashes"
+    ],
+    [
+      "closed eye with lashes",
+      "fish seen from the side",
+      "leaf or feather"
+    ]
+  ],
+  "placed": 58,
+  "fell": 58,
+  "completion": 1.0,
+  "team_score": 0.667,
+  "first_domino_at": "1:00",
+  "messages": 60,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 17,
+    "Tom": 17,
+    "Leo": 10,
+    "Maya": 13
+  },
+  "held_thoughts": 38,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 144,
+    "failed": 0,
+    "input_tokens": 300,
+    "cache_creation_tokens": 751854,
+    "cache_read_tokens": 439768,
+    "output_tokens": 119896,
+    "seconds": 1224.2,
+    "api_equivalent_usd": 0.2147
+  }
+}

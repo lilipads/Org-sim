@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Hana": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Jack": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 515.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "snail with a shell and antenna",
+      "fish or sea creature with a tail",
+      "bird or dinosaur head in profile"
+    ],
+    [
+      "snail with shell and body",
+      "fish in profile",
+      "bird or swan in profile"
+    ],
+    [
+      "snail with a spiral-less shell",
+      "bird or fish profile",
+      "teapot or kettle outline"
+    ]
+  ],
+  "placed": 223,
+  "fell": 93,
+  "completion": 0.417,
+  "team_score": 0.208,
+  "first_domino_at": "0:15",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 10,
+    "Sofia": 23,
+    "Hana": 9,
+    "Omar": 7
+  },
+  "held_thoughts": 82,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 155,
+    "failed": 0,
+    "input_tokens": 326,
+    "cache_creation_tokens": 769328,
+    "cache_read_tokens": 498390,
+    "output_tokens": 86724,
+    "seconds": 1288.2,
+    "api_equivalent_usd": 3.8384
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.73,
+      "error": 1.9
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.72
+    },
+    "Hana": {
+      "speed": 1.14,
+      "error": 1.49
+    },
+    "Jack": {
+      "speed": 1.32,
+      "error": 1.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 496.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "swan or bird neck and head",
+      "fishing hook or candy cane",
+      "ocean wave or swoosh stroke"
+    ],
+    [
+      "bird neck and head, flying or swooping",
+      "swan or goose silhouette in profile",
+      "fish hook or curved hook shape"
+    ],
+    [
+      "fish hook or curved line",
+      "swoosh or wave stroke",
+      "bird or animal outline"
+    ]
+  ],
+  "placed": 98,
+  "fell": 66,
+  "completion": 0.673,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 14,
+    "Hana": 13,
+    "Jack": 10,
+    "Omar": 4
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 286,
+    "cache_creation_tokens": 713415,
+    "cache_read_tokens": 420689,
+    "output_tokens": 137792,
+    "seconds": 1268.3,
+    "api_equivalent_usd": 0.2158
+  }
+}

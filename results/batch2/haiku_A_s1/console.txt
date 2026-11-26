@@ -1,0 +1,243 @@
+[   23s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Right, let's do a fish. Side view, simple outline, tail at the back. I'm taking the pad to sketch it now so we all build the same thing.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[   32s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Nice, a fish works for me. Maya, once you've got the outline on the pad, I'll take the tail end and get the start down so the run flows from there toward the nose. Happy to build the fin off the back 
+    (Tom held a thought)
+    (Leo held a thought)
+[   48s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Okay, I've got the outline on the pad now. Start is at the top tip of the tail, and stroke one runs from there along the top to the nose. Priya, that's your start and tail. Tom and Leo, can you take t
+    (Leo held a thought)
+    (Tom held a thought)
+[   60s] 0:45 asked Tom,Priya,Leo | dominoes 2 | calls 13
+    Priya -> everyone: Got it, I've got the tail. I'm setting the start at the top tip and tracing stroke one along the back. Maya, could you put the pad down when you're done so Tom and Leo can see the belly and fin?
+    (Leo held a thought)
+    (Tom held a thought)
+[   71s] 1:00 asked Maya,Tom,Leo | dominoes 6 | calls 16
+    Leo -> everyone: Fish works for me. I'll take the top fin once stroke one's standing, so I'm holding off until then. Tom, do you want the bottom edge?
+    (Tom held a thought)
+    (Maya held a thought)
+[   90s] 1:15 asked Maya,Tom | dominoes 11 | calls 18
+    Tom -> everyone: Yep, I've got the bottom edge. I'm tracing it now, so it'll pick up as soon as Priya's run gets to the join. Leo, the fin's yours.
+    (Maya held a thought)
+[  102s] 1:30 asked Maya,Priya,Leo | dominoes 20 | calls 21
+    Leo -> Tom: Got it, Tom. I've got the top fin. I'll branch it off the back once Priya's run has reached the top of the fin on the pad.
+    Maya -> everyone: Pad's down so you can all see it. Priya has the start and the top line, from the tail tip to the nose. Leo, your top fin comes off the top line once it's standing. Tom, the bottom edge runs from the n
+    (Priya held a thought)
+[  111s] 1:45 asked Tom,Priya,Leo | dominoes 27 | calls 24
+    Priya -> everyone: Stroke one's standing from the tail up to about where I am. I'm carrying it along the back to the nose now. Tom, you can pick up the bottom edge at this join.
+[  122s] 2:00 asked Maya,Tom,Leo | dominoes 35 | calls 27
+    Tom -> Priya: Got it, Priya. I'm on the bottom edge and it'll meet your line at the join.
+    Maya -> everyone: Priya's tail is standing, so I'm taking the little tail fin off the lower tip now. I'll keep well clear of your hands, Priya.
+[  130s] 2:15 asked Priya,Leo | dominoes 47 | calls 29
+    Priya -> everyone: Thanks Maya, we're clear. The back's standing up to where I am, and I'm carrying it on toward the nose. Leo, you can hang your fin off it once I'm past the middle.
+[  139s] 2:30 asked Maya,Leo | dominoes 57 | calls 31
+    Leo -> Priya: Thanks, Priya. I'll wait until you're past the middle, then hang the fin off the back.
+    Maya -> everyone: Tail fin's up. I'm just checking it's joined to the back properly.
+[  149s] 2:45 asked Maya,Priya,Leo | dominoes 64 | calls 34
+    Priya -> Leo: Will do, Leo. I'll call it out once I'm past the middle.
+    Maya -> everyone: Checking the tail join now, Priya. I'm staying off your end.
+[  162s] 3:00 asked Maya,Priya,Leo | dominoes 73 | calls 37
+    Maya -> Priya: Priya, my tail's joined to the start. The back's not connected yet at the join where your pale stretch meets the dark run, so check that gap before you go on.
+[  173s] 3:15 asked Priya,Leo | dominoes 77 | calls 39
+    Priya -> everyone: Thanks, Maya, good catch. That join's open. I'm fixing it now before I carry on.
+[  183s] 3:30 asked Maya,Priya,Leo | dominoes 84 | calls 42
+[  194s] 3:45 asked Maya | dominoes 93 | calls 43
+    Maya -> Priya: Priya, ping me when that join's closed and I'll look it over before anyone carries on past it.
+[  203s] 4:00 asked Tom,Priya | dominoes 95 | calls 45
+    Priya -> Maya: On it, Maya. I'm closing that join now and I'll ping you when it's shut.
+[  211s] 4:15 asked Maya,Tom,Priya | dominoes 95 | calls 48
+    Tom -> everyone: Bottom edge is up, and it meets Priya's back line at the join. Priya, ping me when your tail join's closed and I'll look over the tail end before we push.
+[  221s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 52
+    Priya -> everyone: I'm checking the join at the middle now. Once it's confirmed, I'll ping you both, and Leo can hang his fin off the back.
+    (Maya held a thought)
+[  234s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 56
+    Maya -> Tom: Thanks, Tom. I'll look over the join as soon as Priya pings. Hands off until then.
+    Priya -> everyone: Inspection confirms the back goes pale right at the middle, so that join is open. I'm closing it now and I'll ping you both once I've checked it.
+[  242s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 60
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> Priya: Priya, how's the join looking? I'm ready to hang the fin as soon as you're past the middle.
+    Priya -> everyone: Closing the join at the middle now. Once it's confirmed I'll ping you both, and Leo can hang his fin off the back.
+    (Tom held a thought)
+[  254s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 64
+    Priya -> everyone: Closing the join at the middle now. Leo, I'll ping you as soon as it's confirmed.
+    (Tom held a thought)
+[  263s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 68
+    Priya -> everyone: Apologies, I keep saying I'm closing this and not doing it. I'm fixing the join right here now, and I'll ping you both as soon as I've checked it.
+    (Tom held a thought)
+[  274s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 72
+    Maya -> Priya: Priya, the join at the middle still looks open from where I'm sitting. Do you want me to take the gap while you keep the back moving? Tell me which side you're on and I'll stay on the other.
+    Leo -> Priya: No rush, Priya. I'm keeping my hands off the join. Shout if you want a second pair of eyes on it.
+    Priya -> everyone: Okay, I've been saying 'closing it now' for a while, so this time I'm actually doing it. Fixing the join here at the middle. I'll ping you both once I've checked it.
+    (Tom held a thought)
+[  287s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 76
+    Maya -> Priya: Priya, I'll keep my hands off the middle. Ping me when it's shut and I'll look it over before anyone goes past it.
+    Priya -> everyone: Bridging the gap at the middle now, hands on it. I'll ping you both once I've checked it.
+    (Tom held a thought)
+[  299s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 80
+    Priya -> Maya: Fixing the gap at the middle now. I'll ping you once it's shut.
+    Tom -> everyone: Priya, sounds good. Ping us when the middle's closed. Maya, the tail tip down here looks crowded, with the domino right at the end jammed against the next one. Could you check it when you get a second
+[  311s] 6:30 asked Maya,Priya,Leo | dominoes 95 | calls 83
+    Leo -> Priya: Priya, is the middle closed yet? We're down to about three minutes. If you can't confirm it in the next thirty seconds, tell me and I'll start the fin off the back past your join, so it's ready either
+    Maya -> everyone: Tom, I'll look at the tail tip now. It's my fin, so I'll sort it out.
+    Priya -> everyone: Hands are on the gap at the middle now. I'll ping you both once I've inspected it, not before.
+[  323s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 97 | calls 87
+    Tom -> Leo: Leo, I'm free. Once Priya's join is confirmed I'll take the top fin off the back. Do you want to split it, or should I take the whole thing?
+    Priya -> everyone: Inspecting the middle now, about fifteen seconds. Leo, I'll tell you straight away whether it's closed. Don't hang the fin until I've called it.
+    (Leo held a thought)
+    (Maya held a thought)
+[  334s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 99 | calls 91
+    Maya -> Tom: Tom, I'm on the tail tip now. Lifting the jammed end domino off and re-laying it with a bit more room. Priya, I'm not going near your join.
+    Leo -> everyone: Priya, the middle still isn't confirmed, so I'm not waiting on it. I'm carrying on with the top fin off the back, past your join, so it's ready either way. Ping us the moment the join's closed. Tom, i
+    (Priya held a thought)
+[  345s] 7:15 asked Maya,Tom,Priya | dominoes 100 | calls 94
+    Priya -> everyone: Leo, please hold off on the fin. The inspect says the join in the middle of the back is still open, so the back isn't connected past it yet. I'm fixing it now, and I'll ping you both once an inspect c
+    (Tom held a thought)
+    (Maya held a thought)
+[  358s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 98
+    Tom -> Leo: Leo, I've looked at the back from the nose toward the middle. It's standing and joined up to the bend, and the pale bit is only past Priya's gap. I'm keeping my hands off it. Hold the fin until Priya 
+    Priya -> everyone: Leo, please hold off on the fin, sorry for the mix-up. I'm bridging the gap at the middle of the back right now. I'll inspect it as soon as it's in and call it, and nothing goes past it until then.
+    (Maya held a thought)
+    (Leo held a thought)
+[  370s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 102
+    Leo -> Priya: Priya, I got ahead of myself at 7:00 and I'm sorry. The fin's already placed, but it isn't connected until the middle join closes, so I'm holding off and leaving the join to you. Ping us both once an 
+    Priya -> everyone: My build's run out, so I'm not sure the join got closed. Inspecting it now, and nobody hangs the fin until I've called it.
+    (Maya held a thought)
+    (Tom held a thought)
+[  380s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 106
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> Priya: Priya, I'll inspect the middle from here as a second read. I'm not touching anything.
+    Priya -> everyone: Fixing the join at the middle now, hands on it. Nobody hangs the fin or passes it until I've inspected and called it.
+    (Maya held a thought)
+    (Tom held a thought)
+[  394s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 110
+    Leo -> Priya: Priya, my read from here matches yours. The middle is the only break I can see, and the fin is pale behind it. I'm keeping my hands off. Ping us once you've inspected it, and we'll do one more look be
+    Priya -> everyone: Honest update: the middle of the back is still open. I've said 'closing it' too many times without checking. I'm doing the fix at the middle now. Leo, keep holding the fin. Maya, don't pass the join u
+    (Maya held a thought)
+    (Tom held a thought)
+[  404s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 114
+    Maya -> Leo,Priya: Leo, please hold the top fin until Priya calls the middle join closed. I'm re-standing my tail tip now and staying off her join.
+    Priya -> everyone: My fix run is out, so I'm not calling the middle closed yet. Inspecting it right now. Leo, keep holding the fin until I call it, and Maya, don't pass the join.
+    (Tom held a thought)
+    (Leo held a thought)
+[  415s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 118
+    Priya -> everyone: Honest update: the middle of the back is still open, and I haven't confirmed it. I'm making one more fix right there now, and I'll inspect it straight after and tell you the result either way. Leo, ke
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  424s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 122
+    Priya -> everyone: Inspecting the middle of the back now, about fifteen seconds. I'll call it the moment the result is back. Until then, Leo, keep the fin on hold, and Maya, don't pass the join.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  435s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 126
+    Maya -> Tom,Leo: Tom, Leo, I'm re-standing the jammed tail tip now and staying off Priya's join until she calls it.
+    Priya -> everyone: Result's back, and it's still open. The back goes pale right past the middle, so I'm not calling it closed. Leo, keep the fin on hold. Maya, don't pass the join. I'm making one fix right here now, and
+    (Tom held a thought)
+    (Leo held a thought)
+[  445s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 130
+    Maya -> Tom,Leo: Tom, Leo, tail tip's back up. I'm checking my tail join now. Priya's join stays with her until she calls it.
+    Priya -> everyone: Inspecting the middle of the back now, about fifteen seconds. Leo, Maya, Tom, hold where you are until I call it.
+    (Tom held a thought)
+    (Leo held a thought)
+[  456s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 134
+    Priya -> everyone: Still inspecting the middle of the back, so hold where you are. I'll call it the moment the result's back, whether it's closed or not.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.13,
+      "error": 0.77
+    },
+    "Tom": {
+      "speed": 0.85,
+      "error": 0.88
+    },
+    "Priya": {
+      "speed": 1.01,
+      "error": 1.14
+    },
+    "Leo": {
+      "speed": 1.01,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 520.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "curved swoosh or brush stroke",
+      "snake or animal tail",
+      "curling vine or plant tendril"
+    ],
+    [
+      "fish or tadpole shape",
+      "seahorse outline",
+      "comet or swoosh with curled tail"
+    ],
+    [
+      "a curving domino chain, tipped over in a line",
+      "a wavy swoosh or stroke, like a comet tail",
+      "a stylized stem or tendril curling at one end"
+    ]
+  ],
+  "placed": 100,
+  "fell": 63,
+  "completion": 0.63,
+  "team_score": 0.21,
+  "first_domino_at": "0:45",
+  "messages": 63,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Priya": 28,
+    "Leo": 10,
+    "Tom": 6
+  },
+  "held_thoughts": 47,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 0,
+    "input_tokens": 314,
+    "cache_creation_tokens": 791455,
+    "cache_read_tokens": 462260,
+    "output_tokens": 150631,
+    "seconds": 1394.2,
+    "api_equivalent_usd": 0.2383
+  }
+}
