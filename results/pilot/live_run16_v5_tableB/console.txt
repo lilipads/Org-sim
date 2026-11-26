@@ -83,3 +83,298 @@
     Omar -> everyone: Belly's in up to the nose, Sofia. I'm closing the jam just under the tail point now. Jack, careful, that one's part of the belly.
     (Sofia held a thought)
     (Hana held a thought)
+[  295s] 5:45 asked Sofia,Jack | dominoes 149 | calls 70
+    Sofia -> everyone: Nose is done and the belly runs into it, so the body's all good. I'm taking a proper look at the bottom corner of the tail. Jack, you stay on the turn at the arc so we're not both in there.
+    (Jack held a thought)
+[  307s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 152 | calls 74
+    Sofia -> everyone: Bump just took out the start at the nose, so I'm standing that back up now. You three are right by the tail, so can you stand the fallen ones back up there? Careful, it's crowded in there.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  307s] 6:15 asked - | dominoes 156 | calls 74
+[  314s] 6:30 asked Jack | dominoes 160 | calls 75
+    Jack -> everyone: Sorry, that bump was probably me being clumsy by the tail! Sofia, you've got the start, so I'm standing the fallen ones back up around the tail now. Omar, I'll mind your belly.
+[  323s] 6:45 asked Sofia,Omar,Hana | dominoes 163 | calls 78
+    Hana -> everyone: Okay, Sofia's on the start and Jack's on the tail turn. I'll stand the fallen ones back up at the far top corner of the tail, and I'll keep clear of you two. Once that's done I'll trace the whole run 
+    (Sofia held a thought)
+    (Omar held a thought)
+[  329s] 7:00 asked Sofia,Hana,Jack | dominoes 167 | calls 81
+    Sofia -> everyone: Start's back up, but it only carries a few dominoes, so something's broken right by the nose. Looking at it now.
+    (Jack held a thought)
+    (Hana held a thought)
+[  345s] 7:15 asked Sofia,Hana,Jack | dominoes 169 | calls 84
+    Sofia -> everyone: Found it: the run from the start stops just short of the top line at the nose. I'm bridging that gap now. Then I'll check that the belly side picks up from the start too.
+    (Hana held a thought)
+    (Jack held a thought)
+[  360s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 163 | calls 89
+    Jack -> everyone: Okay, the tail's still pale and I think I know why: that big loop up top isn't part of the triangle at all. I'm clearing it. Hana, I'm leaving your far corner alone, it's just the stray loop above it.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[  381s] 7:45 asked Sofia,Omar,Hana | dominoes 157 | calls 92
+    Omar -> everyone: Sofia's got the nose gap. I'm closing the little break in the top, just left of the middle. Jack, that one's mine, so leave it.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  394s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 151 | calls 96
+    Hana -> everyone: Jack, good call on the loop. I'm closing the open end just under the tail point so the belly runs into it. Omar, you're on the top break, so I'll stay out of that. Once Sofia's nose is done I'll trace
+    (Sofia held a thought)
+    (Jack held a thought)
+[  404s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 148 | calls 100
+    Jack -> everyone: Got it Omar, the top gap is all yours, I'm nowhere near it. Hana, thanks, I'm just finishing the stray loop up by the tail, then I'll fix the turn.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  413s] 8:30 asked Sofia,Omar,Hana | dominoes 145 | calls 103
+    Omar -> everyone: Closing the top break now, just left of the middle. Jack, I'm leaving the loop to you.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  424s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 148 | calls 107
+    Hana -> Jack: Jack, a few of those you just took down were mine at the far top corner of the tail. Please leave that corner alone, only the loose loop above it. I'm bridging the belly into the tail point.
+    Sofia -> everyone: Bridging the gap at the nose again, the run from the start still stops just short of the top line. Hana, once it's in, can you trace from the start?
+    Omar -> everyone: Fixing the top break now, right where I'm pointing.
+    (Jack held a thought)
+[  436s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 145 | calls 111
+    Sofia -> everyone: Bridge domino's in, but the start still only carries a few. I'm taking a close look at the nose to see why. Hana, hold off tracing until I say.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  447s] 9:15 asked Sofia,Omar,Hana | dominoes 141 | calls 114
+    Hana -> Sofia: Okay Sofia, I'll hold off tracing until you say. I'm still bridging the belly into the tail point, so I'll keep going on that.
+    Sofia -> everyone: Found it: one domino right above the start is sitting off to the side, so the run bends away from the top line. I'm nudging that one into line now. Hana, still hold off on tracing.
+    (Omar held a thought)
+[  454s] 9:30 asked Sofia,Omar,Hana | dominoes 138 | calls 117
+    Sofia -> everyone: Nudged that one into line. I'm re-checking the nose now to see if the start carries through. Hana, still hold off on tracing, I'll shout.
+    (Omar held a thought)
+[  474s] 9:45 asked Sofia,Omar,Hana | dominoes 130 | calls 121
+    Omar -> everyone: Jack, those ones by the tail point are part of the belly, so leave them please. I'm closing the two little gaps in the top now, Sofia, your nose bridge is separate from these.
+    (Sofia held a thought)
+[  484s] 10:00 asked Sofia,Omar,Hana,Jack | dominoes 135 | calls 125
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Closing the two little gaps in the top now, right where I'm pointing. Jack, the ones by the tail point are belly, so please leave them.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  494s] 10:15 asked Sofia,Omar,Jack | dominoes 139 | calls 128
+    Jack -> everyone: Got it Omar, leaving the belly and the tail point alone. Clutter's cleared, so I'm laying the top slanted line of the tail now. Hana, your far corner and the right edge are safe.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  507s] 10:30 asked Sofia,Omar,Hana | dominoes 145 | calls 131
+    Hana -> Jack: Thanks Jack. I've got two left on the belly bridge into the tail point, then I'll check my far corner and trace from the start once Sofia says go.
+    Sofia -> everyone: Nudged piece is in but it still stops short, so I'm bridging straight into the top line now. Hana, keep holding off on tracing.
+    (Omar held a thought)
+[  517s] 10:45 asked Sofia,Omar,Hana,Jack | dominoes 146 | calls 135
+    Omar -> everyone: Found it, the top has a bunch of fallen dominoes in it. I'm standing them back up and then closing the gaps. Sofia, shout when the start carries through.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  530s] 11:00 asked Sofia,Hana,Jack | dominoes 155 | calls 138
+    Sofia -> everyone: Okay, I'm joining the end of the start run straight into the top line now. Hana, still hold off tracing. The belly side by the start looks like a separate problem, and I'll look at that next.
+    (Hana held a thought)
+    (Jack held a thought)
+[  539s] 11:15 asked Sofia,Hana | dominoes 161 | calls 140
+    Sofia -> everyone: Joined the nose. Checking now whether the start carries through. Hana, still hold off tracing, I'll shout.
+    (Hana held a thought)
+[  550s] 11:30 asked Sofia,Hana,Jack | dominoes 161 | calls 143
+    Sofia -> everyone: Still stopping at the nose. The last domino overshoots to the left of the top line, so I'm fixing that spot now. Hana, keep holding off. After this, the belly side by the start is next.
+    (Hana held a thought)
+    (Jack held a thought)
+[  560s] 11:45 asked Sofia,Omar,Hana,Jack | dominoes 161 | calls 147
+    Sofia -> everyone: That last domino is sticking out past the top line, so I'm pulling it and rejoining cleanly. Hana, still hold off on tracing.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  568s] 12:00 asked Sofia,Omar,Hana | dominoes 165 | calls 150
+    Hana -> Sofia: Sofia, got it, still holding off on the trace. I'm straightening the crooked spots at the tail point.
+    Sofia -> everyone: Pulled the overshoot. Rejoining the nose cleanly now. Hana, still hold off on tracing.
+    (Omar held a thought)
+[  580s] 12:15 asked Sofia,Omar,Hana | dominoes 170 | calls 153
+    Sofia -> everyone: Nose is joined. Hana, go ahead and trace from the start now. I think the belly side is a separate problem, because it starts behind the start domino. I'm looking at that bit now.
+    (Omar held a thought)
+[  603s] 12:30 asked Sofia,Omar,Hana | dominoes 175 | calls 156
+    Sofia -> everyone: Belly's the problem: it starts behind the start domino, so nothing ever pushes it. I'm moving the start a bit to the left and feeding both the nose run and the belly from it. Hana, hold the trace unti
+    (Hana held a thought)
+    (Omar held a thought)
+[  611s] 12:45 asked Omar,Hana | dominoes 180 | calls 158
+    Omar -> everyone: Top has two breaks left, one on the right where it meets the curve and one left of the middle. Fixing both now. Sofia, go ahead with the start move, I'll stay off your side.
+    (Hana held a thought)
+[  620s] 13:00 asked Sofia,Omar | dominoes 180 | calls 160
+    Omar -> everyone: Fixing the top gap where it meets the curve, right where I'm pointing. Then I'll look at the spot left of the middle.
+    (Sofia held a thought)
+[  630s] 13:15 asked Omar,Hana | dominoes 176 | calls 162
+    Hana -> everyone: Sofia, holding the trace until you shout. We're out of dominoes, so I'm taking down that stray loop inside the body to free some up for the belly bridge. Jack, Omar, that's not your stuff, right?
+    (Omar held a thought)
+[  644s] 13:30 asked Sofia,Omar,Jack | dominoes 173 | calls 166
+    Jack -> everyone: Thanks Hana, that loop inside the body isn't mine, so go ahead and take it down. I'm having a look over the tail to see what actually connects.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  655s] 13:45 asked Omar,Hana,Jack | dominoes 174 | calls 169
+    Jack -> everyone: Tail's a bit of a spaghetti bowl, sorry team. I'm clearing the loose bits at the top of it to free up dominoes. Hana, your far corner stays put.
+    (Omar held a thought)
+    (Hana held a thought)
+[  666s] 14:00 asked Omar,Hana,Jack | dominoes 173 | calls 172
+    Jack -> everyone: Okay, that stray line sloping up past the tail isn't part of the fish, so I'm clearing it to free up dominoes. Hana, your far corner stays put!
+    (Omar held a thought)
+    (Hana held a thought)
+[  673s] 14:15 asked Omar,Hana | dominoes 176 | calls 174
+    Omar -> everyone: Hana, that inner loop isn't mine, take it down. I'm closing the two top gaps now.
+    (Hana held a thought)
+[  683s] 14:30 asked Omar,Hana,Jack | dominoes 180 | calls 177
+    Jack -> everyone: Clutter's cleared, thanks everyone. I'm taking a close look at where the tail meets the body to see what's actually connected. Hana, I'll stay off your far corner.
+    (Hana held a thought)
+    (Omar held a thought)
+[  693s] 14:45 asked Omar,Hana,Jack | dominoes 174 | calls 180
+    Hana -> everyone: Belly bridge is in, it reaches the tail point now, but a couple of the joints there are crooked and we're out of dominoes. Sofia, how's the start move going? That's the big one, it still only knocks o
+    (Jack held a thought)
+    (Omar held a thought)
+[  704s] 15:00 asked Sofia,Omar,Hana,Jack | dominoes 167 | calls 184
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Sofia, five minutes. I'm pulling the leftover inner line in the body to free up dominoes. Then I can bridge the gap right after the start into the belly and nose, unless you've already got that. Tell 
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  714s] 15:15 asked Sofia,Omar,Hana,Jack | dominoes 176 | calls 188
+    Sofia -> everyone: Hana, I've got the bridge from the start into the nose and the belly, so don't build it. Just a few dominoes left on it. Hold the trace, and I'll shout the second it's joined.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  723s] 15:30 asked Omar,Hana | dominoes 180 | calls 190
+    Hana -> Sofia: Sofia, got it, I'm stopping my bridge so we don't collide. Shout the second it's joined and I'll trace from the start right away.
+    Omar -> everyone: Still two breaks in the top, one left of the middle and one where it meets the curve. Fixing both now. Sofia, shout when the start's joined.
+[  732s] 15:45 asked Sofia,Omar,Hana | dominoes 178 | calls 193
+    Sofia -> everyone: Bridge is in, Hana! Give me a few seconds to check that both the nose and the belly actually carry, then I'll shout.
+    Omar -> everyone: Doing both top fixes now. Nothing left to place, so I'm nudging what's already standing into line.
+    (Hana held a thought)
+[  741s] 16:00 asked Sofia,Hana | dominoes 178 | calls 195
+    Hana -> Sofia: Sofia, great. I'm just finishing clearing the stray curve on the far left, then I'll trace from the start the moment you shout.
+    Sofia -> everyone: Not there yet, Hana. The start only carries a few dominoes. Two joints right after the start are jammed, and the nose end still stops short of the top line. I'm fixing those now, so keep holding the t
+[  757s] 16:15 asked Sofia,Omar,Hana,Jack | dominoes 179 | calls 200
+    Omar -> Sofia: Sofia, supply's at zero on my end, nothing spare. The top looks close to joined, so I'm checking it now. If you need a domino I'll pull a stray one for you.
+    Hana -> Sofia: Sofia, I've freed up a bunch of dominoes from the left side, so you should have spares now. Tell me which jam you want me on if you'd like a second pair of hands.
+    Sofia -> everyone: Hana, still hold the trace. Two dominoes left, and I'm nudging the jammed joint by the start, then the nose end. Will shout the second it's carrying.
+    (Jack held a thought)
+[  764s] 16:30 asked Sofia,Omar,Hana | dominoes 180 | calls 203
+    Sofia -> everyone: Hana, thanks for the spares. I'm closing the nose gap now. Still hold the trace, I'll shout the second it's carrying.
+    Omar -> everyone: Nudging the two top joints into line now, no new dominoes needed. Sofia, shout when the start carries.
+[  771s] 16:45 asked Sofia,Hana,Jack | dominoes 180 | calls 206
+    Sofia -> everyone: Thanks Omar. Still closing the nose gap by the start. Hana, keep holding the trace, I'll shout the second it carries.
+    (Jack held a thought)
+[  781s] 17:00 asked Omar,Hana,Jack | dominoes 180 | calls 209
+    Hana -> everyone: Sofia, I have to say it: three minutes left and the start still only carries a handful. I'm not going to wait any longer. You keep the nose gap at the top, and I'll fix the jammed joint just past the 
+[  787s] 17:15 asked Sofia,Jack | dominoes 180 | calls 211
+    Sofia -> everyone: Thanks Hana, yes, take the jammed joint past the start. I've got the nose gap at the top. Trace right after and shout what stops.
+    (Jack held a thought)
+[  792s] 17:30 asked Hana,Jack | dominoes 180 | calls 213
+    Jack -> everyone: Sounds good, Hana takes the jammed joint, Sofia the nose gap. I'm staying out of your way. You two are doing great!
+[  797s] 17:45 asked Sofia,Hana | dominoes 180 | calls 215
+    Hana -> everyone: Thanks Jack. I'm on the jam past the start, Sofia has the nose gap. I'll trace the moment mine's in.
+[  803s] 18:00 asked Sofia,Omar,Hana,Jack | dominoes 180 | calls 219
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> Hana: Two minutes, Hana: I'm still closing the nose gap at the top. Trace from the start as soon as your joint is in, and shout what stops.
+[  808s] 18:15 asked Hana | dominoes 180 | calls 220
+    Hana -> Sofia: Still placing my joint past the start, Sofia. I'll trace the second it's in.
+[  812s] 18:30 asked Sofia | dominoes 180 | calls 221
+[  812s] 18:45 asked - | dominoes 180 | calls 221
+[  819s] 19:00 asked Omar,Jack | dominoes 180 | calls 223
+    Jack -> everyone: One minute, you two! Great work, I'm keeping my hands off. Shout if you need anything from me.
+    Omar -> everyone: Last nudges on the top line, almost there.
+[  830s] 19:15 asked Sofia,Jack | dominoes 180 | calls 225
+    Sofia -> everyone: Hana, I need to correct myself: the bridge is NOT carrying, I ran out of dominoes. You have the spares, so please link the end of the start line into the belly line right here, and into the nose line 
+    (Jack held a thought)
+[  835s] 19:30 asked Hana,Jack | dominoes 180 | calls 227
+    Hana -> Sofia: Sofia, I'm already on it. Linking the start into the belly now, seven left.
+    Jack -> everyone: Go Hana, you've got this! Sofia, Omar, brilliant work, fingers crossed!
+[  841s] 19:45 asked Sofia,Omar,Hana | dominoes 180 | calls 230
+    Sofia -> everyone: Go Hana! Belly first, then nose with whatever's left. I'm staying clear.
+    Omar -> everyone: Hana, link the start into the belly, go!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.02,
+      "error": 1.96
+    },
+    "Omar": {
+      "speed": 1.21,
+      "error": 1.54
+    },
+    "Hana": {
+      "speed": 1.11,
+      "error": 0.78
+    },
+    "Jack": {
+      "speed": 1.43,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 5.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 896.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "broken ring of fallen dominoes",
+      "incomplete oval or circle outline",
+      "curved smile or bowl shape"
+    ],
+    [
+      "broken ring of dominoes in a circle",
+      "partial circular arc or loop with gaps",
+      "curved line of fallen dominoes"
+    ],
+    [
+      "fallen dominoes in a broken ring",
+      "arc of dominoes after a chain reaction",
+      "incomplete oval outline with gaps"
+    ]
+  ],
+  "placed": 180,
+  "fell": 5,
+  "completion": 0.039,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 97,
+  "messages_by_speaker": {
+    "Hana": 22,
+    "Sofia": 34,
+    "Jack": 18,
+    "Omar": 20,
+    "Facilitator": 3
+  },
+  "held_thoughts": 110,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 247,
+    "failed": 0,
+    "input_tokens": 506,
+    "cache_creation_tokens": 1357000,
+    "cache_read_tokens": 689480,
+    "output_tokens": 154054,
+    "seconds": 1987.9,
+    "api_equivalent_usd": 6.896
+  }
+}

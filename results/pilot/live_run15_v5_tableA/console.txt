@@ -38,3 +38,165 @@
 [  127s] 2:45 asked Tom,Leo | dominoes 91 | calls 29
     Tom -> everyone: Carrying the top curve down to the tail now. Leo, we should meet right at the narrow bit.
     Leo -> everyone: Belly's reached the tail end. I'm joining it into the fork now, Priya, so shout if I'm in your way.
+[  436s] 3:00 asked Maya,Priya,Leo | dominoes 99 | calls 33
+    Leo -> Tom: Sounds good, Tom. My belly line's nearly into the fork. Bring yours down from above and I'll check the joint once it's in.
+    Maya -> everyone: Lower prong's done. Leo, your belly line looks pale from about here on, so I'm going to check the join before we push anything.
+    (Priya held a thought)
+[  446s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 103 | calls 37
+    Tom -> Leo: Yep Leo, mine's about a third of the way down to the tail. Once it's in I'll check the joint where it meets yours.
+    Maya -> everyone: Found it, the belly's got a kink just past where my prong starts. I'm closing it now. Leo, after that your line still stops short of the tail fork, so can you bring it in the last bit?
+    (Priya held a thought)
+    (Leo held a thought)
+[  466s] 3:30 asked Maya,Priya,Leo | dominoes 106 | calls 41
+    Maya -> everyone: Kink's closed. I'm going to take a proper look along the belly and the tail join to check it runs all the way through. Tom, your top curve still needs to come down into the narrow bit.
+    (Leo held a thought)
+    (Priya held a thought)
+[  474s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 45
+    Leo -> everyone: Maya, thanks for the fix. My check still shows that spot near the start of your prong as a bit off to the side, so I'm nudging it into line. Tom, your top curve still stops just short of the fork.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  485s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 111 | calls 49
+    Maya -> Leo: Sorry Leo, that bump was me, a run of your belly went down right by my prong. Can you stand those back up since you're there? I'll stay clear and sort the end of my prong.
+    Priya -> everyone: I'll take the fork and the tail join, since the upper prong isn't connected yet. Tom, just bring the top curve down into that narrow bit and I'll tie it in. Maya, Leo, the belly's all yours.
+    (Tom held a thought)
+    (Leo held a thought)
+[  494s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 111 | calls 53
+    Tom -> everyone: Top curve's down now, it drops right into the narrow bit. I'll look over that joint to make sure it carries into the fork. Maya, Leo, the belly's still got that knocked-over stretch toward the tail.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  506s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 111 | calls 57
+    Leo -> everyone: The belly's not fully back up after all. There's a fallen stretch just before the tail join. I'm standing those back up now. Priya, I'll stay clear of the fork itself.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  515s] 4:45 asked Priya | dominoes 111 | calls 58
+    Priya -> everyone: Tom, thanks. I'm having a proper look at the fork before I touch anything, since the upper prong still isn't catching and there's a fallen bit right there. Shout if you're about to stand those back up
+[  527s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 111 | calls 62
+    Tom -> everyone: Priya, heads up, I'm already standing the fallen bits back up along the belly toward the tail, about halfway through. I'll stop short of the fork itself, so that part's yours.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  540s] 5:15 asked Maya,Priya,Leo | dominoes 113 | calls 65
+    Maya -> everyone: Belly looks back up now, thanks Leo. I'll stay off the fork, Priya. Tom, are you clear of the end of the lower prong? There's a kink in it just there, and I'll restand it once you've moved off.
+    (Priya held a thought)
+    (Leo held a thought)
+[  546s] 5:30 asked Tom,Priya,Leo | dominoes 117 | calls 68
+    Tom -> everyone: Yep, I'm nowhere near the end of the lower prong, I'm back along the belly. Go ahead and restand it, Maya. Few more here and I'm done.
+    (Priya held a thought)
+    (Leo held a thought)
+[  558s] 5:45 asked Maya,Leo | dominoes 120 | calls 70
+    Leo -> everyone: Belly looks good from my check, the chain runs from the start all the way round to the fork. Only the upper prong at the tail isn't catching, and that's Priya's, so I'll keep clear. Maya, have you got
+    (Maya held a thought)
+[  566s] 6:00 asked Maya,Tom,Priya | dominoes 123 | calls 73
+    Maya -> everyone: Thanks Leo, yes please take the eye if you fancy it, but keep it small and off the lines. I'm restanding the end of the lower prong now, staying off the fork. Then I'll do a full check from the start 
+    (Priya held a thought)
+    (Tom held a thought)
+[  583s] 6:15 asked Maya,Tom,Leo | dominoes 129 | calls 76
+    Leo -> everyone: On it, Maya. I'll keep the eye small and tucked inside the head, branched off the lead-in. Stay clear of me there, Tom.
+    Maya -> everyone: Restanding the end of the lower prong now, staying well off the fork.
+    (Tom held a thought)
+[  683s] 6:30 asked Maya,Tom | dominoes 136 | calls 79
+    Maya -> everyone: Lower prong's back up. I'm doing a full check from the start now, just looking, not touching. Leo, Priya, shout if you're about to change anything.
+    (Tom held a thought)
+[  694s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 83
+    Maya -> everyone: Check's done. Belly and top curve run through fine, and the upper prong looks like it catches. But my lower prong isn't connected at the fork end, and there's a jammed domino near the far end of it. I
+    (Priya held a thought)
+    (Tom held a thought)
+[  702s] 7:00 asked Maya,Tom,Priya | dominoes 150 | calls 86
+    Priya -> everyone: Got it, Maya. I'm just finishing the join into the upper prong, a few left. Then I'll look at where the lower prong starts off the fork. Everyone stay clear of the fork for a minute, please.
+    (Maya held a thought)
+    (Tom held a thought)
+[  710s] 7:15 asked Maya,Tom | dominoes 157 | calls 88
+    Maya -> everyone: Jam's still there at the far end of my prong, so I'm fixing that now. I'll stay off the fork, Priya. Shout when the lower prong's start is yours to look at.
+    (Tom held a thought)
+[  717s] 7:30 asked Maya,Tom,Priya | dominoes 158 | calls 91
+    Priya -> everyone: Upper prong join's done. I'm looking at where the lower prong starts off the fork now, so stay clear of there for a moment, Maya.
+[  729s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 95
+    Priya -> everyone: Maya, the start of the lower prong off the fork looks like it's catching now. The only problem I can see is that jam further along, which you've got. I'll look at the little curve up the back next, si
+    (Maya held a thought)
+    (Leo held a thought)
+[  740s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 99
+    Leo -> everyone: Eye ring's up but it's still pale, so it isn't catching yet. I found the joint where it meets the lead-in sits a bit off to the side, so I'm closing that now. Staying clear of the fork.
+    (Priya held a thought)
+    (Maya held a thought)
+[  746s] 8:15 asked Maya,Tom,Leo | dominoes 164 | calls 102
+    Maya -> everyone: Priya, thanks. I'll leave your end alone. The jam's further along my prong, so I'm closing just that bit now.
+    (Leo held a thought)
+[  756s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 167 | calls 106
+    Tom -> everyone: Priya, I had a close look along the belly and tail. Right here, just past the fork where the lower prong starts, the next domino looks a touch too far away. It might not be catching after all. Can you
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  764s] 8:45 asked Maya,Priya,Leo | dominoes 171 | calls 109
+    Maya -> everyone: Priya, you're up at the back now, so I'll close that gap just past the fork where my prong starts. Tom's right, the next domino's too far. Shout if you're heading back this way.
+    (Priya held a thought)
+    (Leo held a thought)
+[  772s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 172 | calls 113
+    Priya -> everyone: Thanks Maya, you take that gap past the fork. I'm finishing the last few at the top of the little curve up the back, so stay off the top of it for a sec.
+    (Leo held a thought)
+    (Tom held a thought)
+[  779s] 9:15 asked Maya,Tom,Leo | dominoes 174 | calls 116
+    Maya -> everyone: Priya, I've nudged the gap just past the fork. The lower prong still looks pale from here, so I'm having a proper look at it now, not touching anything.
+    (Leo held a thought)
+[  787s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 174 | calls 120
+    Maya -> everyone: Found it. The gap just past the fork is still too wide, so I'm bridging it now. Priya, stay off the top of the curve and I'll stay off the fork itself.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  796s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 174 | calls 124
+    Priya -> everyone: Maya, the curve up the back still isn't catching. There's a spot near the top where the next domino sits off to the side, so I'm nudging that into line now. Staying off the fork, and I'll shout when i
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  805s] 10:00 asked Maya,Tom,Priya,Leo | dominoes 174 | calls 128
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Eye ring's still pale. The joint off the lead-in is sitting off to the side, so I'm closing it now. Staying clear of the fork.
+    Maya -> everyone: Priya, I'm just looking at the lower prong now, not touching. Staying off the fork.
+    (Priya held a thought)
+    (Tom held a thought)
+[  816s] 10:15 asked Maya,Tom,Priya,Leo | dominoes 172 | calls 132
+    Tom -> everyone: Priya, I looked along the back curve. It stops catching near where you're working, at the top, where the next domino sits off to the side of its path. Further up, right at the very top, the line turns
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  824s] 10:30 asked Maya,Priya,Leo | dominoes 174 | calls 135
+    Priya -> everyone: Thanks Tom, yes please. Take the very top bend with your spare ones and make it a gentler curve. I've just cleared the crowded one and I'm re-laying up from the dark end now, so start from where my li
+    (Maya held a thought)
+    (Leo held a thought)
+[  833s] 10:45 asked Maya,Tom,Leo | dominoes 177 | calls 138
+    Tom -> everyone: On it, Priya. I'll start right where your line ends and keep the bend gentle.
+    Maya -> everyone: Tom, yes, take the top bend, Priya shout if you mind. I'm closing the break just past the fork on my prong now.
+    (Leo held a thought)
+[  841s] 11:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 142
+    Leo -> everyone: Correction from me: the eye ring is still pale. My look says there's still a gap where it meets the lead-in, so I'm bridging that now. Staying clear of the fork. Tom, yes, take the top bend.
+    (Maya held a thought)
+    (Priya held a thought)
+[  851s] 11:15 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 146
+    Priya -> everyone: Tom, the top bend is yours from where my last one ends. I'm bridging the bottom of the back curve where it meets the fork, since it's still pale down there. Maya, I'll stay off your prong.
+    (Maya held a thought)
+    (Leo held a thought)
+[  858s] 11:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 150
+    Tom -> everyone: Priya, top bend's done. I got four down and ran out of dominoes before the last one. I'm going to look along the back curve now to see where it still isn't catching. I'll stay off the fork.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  871s] 11:45 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 154
+    Tom -> Priya: Priya, I looked along the back curve. My four at the top end facing up-left with nothing ahead of them, so the very tip is a loose end. The spot just below, where it's crowded, still has a domino sitt
+    Priya -> everyone: Tom, thanks for the top bend. The back curve still looks pale to me, so I'm taking a close look along it now. I can't see a break down by the fork, so I think it's higher up where your bend meets mine
+    (Maya held a thought)
+    (Leo held a thought)
+[  880s] 12:00 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 158
+    Priya -> everyone: Tom, found it. That crowded spot near the top has a domino sitting off to the side, so I'm nudging it into line now. Everyone stay off the top of the curve for a moment.
+    (Leo held a thought)
+    (Maya held a thought)
+[  888s] 12:15 asked Maya,Tom,Leo | dominoes 179 | calls 161
+    Maya -> everyone: Priya, Tom, the break just past the fork on my prong is still there. I'm closing it again now and staying off the back curve.
+    (Leo held a thought)
+    (Tom held a thought)
+[  898s] 12:30 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 165
+    Tom -> everyone: Thanks Priya. I'll stay off the top and just watch. Tell me when it's done and I'll look along it again.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
