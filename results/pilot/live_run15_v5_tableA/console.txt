@@ -200,3 +200,7 @@
     (Leo held a thought)
     (Maya held a thought)
     (Priya held a thought)
+[  907s] 12:45 asked Maya,Priya,Leo | dominoes 180 | calls 168
+    Maya -> everyone: Still can't get that gap past the fork to catch, so I'm bridging it straight across now. Priya, I'm staying off the back curve.
+    (Priya held a thought)
+    (Leo held a thought)
