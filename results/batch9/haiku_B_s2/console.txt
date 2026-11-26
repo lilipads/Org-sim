@@ -1,0 +1,226 @@
+[   19s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish! The tail fin will make it read clearly. I've got the pad and I'm sketching the outline now. Stroke one starts at the top of the tail, so whoever's free, get ready to trace it.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   28s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Good call, Sofia. Stroke one from the tail tip along the top is the right start. My hands are free, so I'll trace stroke one once it's drawn. Could Omar or Jack take stroke two, the bottom back to the
+    (Jack held a thought)
+    (Omar held a thought)
+[   43s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Omar -> everyone: Sure, I'll take stroke two, the bottom back to the tail. Jack, you could take the fin strokes if you want them. I'll wait for Sofia's sketch before I lay anything.
+    (Jack held a thought)
+    (Sofia held a thought)
+[   54s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 11 | calls 14
+    Sofia -> everyone: Sketch is up. Stroke one is the top edge, tail tip to nose, and Hana's on it. Omar's taking stroke two back along the bottom. I'm putting the pad down and taking the tail fin, stroke three. Jack, if y
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   63s] 1:00 asked Omar,Hana,Jack | dominoes 23 | calls 17
+    Omar -> everyone: Sketch looks good, so I'm laying the bottom line now. It'll wait at the tail until the fin and top line get there.
+    (Hana held a thought)
+    (Jack held a thought)
+[   70s] 1:15 asked Jack | dominoes 37 | calls 18
+    Jack -> everyone: Love it, Sofia. A fish with a tail fin reads clearly. Omar has the bottom edge, Hana has the top, and you have the fin, so I'll stay off stroke 3. I'll check the start and the tail join once the body 
+[   78s] 1:30 asked Sofia,Omar,Hana | dominoes 44 | calls 21
+    Sofia -> Jack: Thanks, Jack. I've got seven fin dominoes left. I'll shout when it's done so you can check the start link.
+    Hana -> everyone: Stroke one's still going, I'm carrying it along the top from the tail tip. Omar, stroke two's yours whenever you're ready. Jack, the fin's yours if you want it.
+[   86s] 1:45 asked Omar,Jack | dominoes 56 | calls 23
+    Jack -> everyone: Nice work, both of you. I'm going to look over the tail end while the bottom line comes in, then check the join once it arrives. Omar, give me a shout when your line reaches the tail.
+    (Omar held a thought)
+[   97s] 2:00 asked Sofia,Omar,Jack | dominoes 60 | calls 26
+    Omar -> everyone: Got it, Hana. Bottom line's going down now, and it'll hold at the tail until the top edge and the fin get there. Jack, I'll give you a shout when it's close.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  111s] 2:15 asked Sofia,Hana,Jack | dominoes 64 | calls 29
+    Sofia -> everyone: Fin's done, twenty dominoes down. Two wouldn't fit up by the start where it crowds the body, so Jack, that's the spot to look at. I'm going to check the fin's join and make sure it doesn't kink before
+    (Jack held a thought)
+    (Hana held a thought)
+[  118s] 2:30 asked Sofia,Hana,Jack | dominoes 68 | calls 32
+    Hana -> everyone: Top edge is done, all the way to the nose. I'm going to look over the start and the top-left join now, so Jack can concentrate on the tail.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  134s] 2:45 asked Sofia,Hana,Jack | dominoes 72 | calls 35
+    Sofia -> everyone: Fin's in, nice work. The two that didn't fit are right by the start, so Jack, that's the link to watch. I'm checking the fin join at the tail now and I'll fix any break once I've seen it.
+    (Jack held a thought)
+    (Hana held a thought)
+[  143s] 3:00 asked Sofia,Hana,Jack | dominoes 77 | calls 38
+    Hana -> everyone: Top edge is clean from the start to the nose. Omar, when your bottom line gets close to the nose, give me a shout and I'll check that join. Sofia, the two gap dominoes by the start are the weak spot. 
+    (Jack held a thought)
+[  162s] 3:15 asked Sofia,Omar,Jack | dominoes 79 | calls 41
+    Omar -> Hana: Hana, yes, the bottom line's nearly at the nose. I'm bringing the last few dominoes in now, and I'll shout once it's joined.
+    Sofia -> everyone: Fin checked, Hana. It's connected from the start all the way down to the tail tip, and the tip's just waiting for the bottom line. Yes please, bridge those two by the start. Omar, your bottom line's t
+    (Jack held a thought)
+[  171s] 3:30 asked Omar,Hana,Jack | dominoes 81 | calls 44
+    Omar -> Sofia: Sofia, I've got the bottom line, and my end is just short of the nose now. I'm finishing it myself so there's no hand-off mid-run. If you want to help, the two gap dominoes by the start are the ones t
+    Hana -> everyone: On it, Sofia. I'm bridging the two gap dominoes by the start now. Omar, I'll check the nose join when your line arrives.
+    (Jack held a thought)
+[  182s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 85 | calls 48
+    Sofia -> Omar: Fair enough, Omar, it's all yours. I'll stay off the bottom line and check the tail join once your line gets down there.
+    Hana -> everyone: Hold on, before I bridge anything I want to look properly. I'm not seeing a gap right here where I thought there was one, so I'm checking the start and the top-left join first.
+    (Jack held a thought)
+[  191s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 89 | calls 52
+    Hana -> Sofia: Sofia, I've looked properly and the chain from the start is connected all the way through the top-left join, into the fin, and on to the tail tip. I can't see a gap there. Can you point at the exact s
+    Jack -> everyone: No rush, Hana. I'm keeping my hands off the start while you look. If you want a second pair of eyes on that join, point me at it.
+    (Sofia held a thought)
+[  202s] 4:15 asked Sofia,Hana | dominoes 94 | calls 54
+    Sofia -> Hana: Hana, it's the bend where the fin's top end meets the body, just under the start. I had two dominoes that wouldn't fit there. I haven't seen a gap myself, so I'm going to inspect that corner before an
+    Hana -> Sofia: Sofia, when you've got a moment, point at the exact spot you mean by the start. I'll bridge it as soon as I can see it. Jack, thanks for offering a second pair of eyes. I'll shout if I need them.
+[  211s] 4:30 asked Sofia,Hana | dominoes 98 | calls 56
+    Hana -> Sofia: Got it, Sofia, that bend under the start where the fin meets the body. I'm inspecting that corner now and I'll only bridge if I see a real break. Jack, I may take you up on that second pair of eyes.
+    Sofia -> everyone: Hana, it's the bend right under the start, where the top of the fin meets the body. Those two dominoes never went in there. I'm inspecting that corner now and I'll shout as soon as I know whether it's
+[  224s] 4:45 asked Sofia,Hana,Jack | dominoes 100 | calls 59
+    Hana -> everyone: Sofia, I've been over the bend under the start. The chain carries straight through from the start into the fin with no gap I can see, so I won't bridge anything there, because I'd just be adding joint
+    (Sofia held a thought)
+    (Jack held a thought)
+[  242s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 63
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Agreed, Hana. The chain runs straight from the start through the fin to the tail tip, so extra joints would only add places to break. Omar, there's still a good stretch of bottom line to go. If you wa
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  252s] 5:15 asked Omar,Hana,Jack | dominoes 106 | calls 66
+    Omar -> everyone: Quick update: the bottom line is laid from the nose back to about the middle, and I'm carrying it on to the tail tip now. Sofia, thanks, but I've got the last stretch. Hana, the nose join should be re
+    (Hana held a thought)
+    (Jack held a thought)
+[  260s] 5:30 asked Sofia,Hana,Jack | dominoes 108 | calls 69
+    Hana -> everyone: Omar, got it. I'm checking the nose join now, and I'll tell you if anything needs fixing before your line gets there.
+    (Jack held a thought)
+[  272s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 108 | calls 73
+    Sofia -> Omar: Omar, the tail area has one domino sitting off to the side of its line, just where your bottom line comes down to the tail tip. Once your line is down there, I'll check that join and fix it if needed.
+    Jack -> Omar: Sounds good, Omar. I've got the tail end covered, so I'll keep clear and check the join when you shout.
+    Hana -> everyone: Omar, the top edge joins cleanly at the nose, so there's a solid target for your bottom line. Shout once it's joined and I'll check that end.
+[  283s] 6:00 asked Sofia,Omar,Jack | dominoes 110 | calls 76
+    Omar -> everyone: Bottom line's coming down toward the tail now, about four more to go. I'll shout once it's joined.
+[  291s] 6:15 asked Sofia,Hana,Jack | dominoes 112 | calls 79
+    Jack -> everyone: Sounds good, Omar. I'm checking the tail area now so I'm ready when your line joins. Shout when it's in.
+[  302s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 83
+    Jack -> Omar: Omar, I'm keeping my hands off the bottom line while you bring it in. I'm checking the tail join now, so shout as soon as it's in.
+    Sofia -> everyone: Jack, I'm having a look at the join near the tail while Omar brings the last few in. I'll keep my hands off until he shouts.
+    Omar -> everyone: Thanks, Jack. Four more to the tail, then I'll shout.
+[  311s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 87
+    Sofia -> everyone: Omar, the stray domino I flagged is right where your line comes down to the tail, sitting off to the side. I'm keeping clear while you lay the last few. Shout when you're joined and I'll fix that spot
+[  320s] 7:00 asked Omar,Hana,Jack | dominoes 112 | calls 90
+    Omar -> everyone: Sofia, got the stray one. Four more to the tail, and I'll shout as soon as it's joined so you can fix that spot.
+    (Jack held a thought)
+[  331s] 7:15 asked Sofia,Hana,Jack | dominoes 112 | calls 93
+    Jack -> Sofia: Thanks for flagging that stray one, Sofia. I'm only looking at the tail for now and won't touch it. Omar, shout when the line's joined and I'll check that end.
+    Sofia -> everyone: Got it, Omar. I'll keep clear and check the tail join as soon as you shout.
+[  341s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 97
+    Sofia -> Jack: No problem, Jack. I'll stay off it until Omar shouts that it's joined.
+    Omar -> everyone: Still bringing the last few down to the tail. I'll shout as soon as it's joined so you can check it.
+[  349s] 7:45 asked Sofia,Hana,Jack | dominoes 112 | calls 100
+    Sofia -> Omar: No problem, Omar. I'm staying clear. Shout when the tail's joined and I'll check it and sort that stray one.
+[  358s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 104
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Nice work on the fin and the top edge, you two. Omar, you've got the last few. Shout when the tail's joined and I'll check that end.
+    Omar -> everyone: Two minutes, four to the tail. I'll shout the moment it's joined.
+    (Hana held a thought)
+[  367s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 108
+    Sofia -> Omar: Omar, I'm standing by. Shout as soon as the tail's joined and I'll check that stray domino right away.
+    Omar -> everyone: Got it, Jack. Four to the tail, and I'll shout as soon as it's joined.
+    Hana -> everyone: Omar, shout as soon as the tail's joined, even if it's not perfect. Sofia and Jack can check it straight after.
+[  375s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 112
+    Omar -> everyone: Two more to the tail, then I'm shouting.
+[  385s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 116
+    Jack -> Omar: Go for it, Omar. Shout as soon as it's joined and I'll check the tail straight away.
+    Omar -> everyone: Two to go, then I'm shouting.
+[  394s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 120
+[  394s] 9:15 asked - | dominoes 115 | calls 120
+[  394s] 9:30 asked - | dominoes 115 | calls 120
+[  394s] 9:45 asked - | dominoes 115 | calls 120
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.2,
+      "error": 1.25
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.71
+    },
+    "Hana": {
+      "speed": 1.6,
+      "error": 1.57
+    },
+    "Jack": {
+      "speed": 1.32,
+      "error": 1.98
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 430.4,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a fish with a forked tail",
+      "a leaf or feather outline",
+      "a spoon or paddle"
+    ],
+    [
+      "fish with forked tail",
+      "bird or flying shape",
+      "spoon or ladle"
+    ],
+    [
+      "fish with forked tail",
+      "shoe or slipper",
+      "bottle or vase"
+    ]
+  ],
+  "placed": 115,
+  "fell": 115,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 56,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Hana": 13,
+    "Omar": 14,
+    "Jack": 9
+  },
+  "held_thoughts": 36,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 268,
+    "cache_creation_tokens": 701855,
+    "cache_read_tokens": 411316,
+    "output_tokens": 130538,
+    "seconds": 1118.4,
+    "api_equivalent_usd": 0.2098,
+    "cached": 6
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 1.76
+    },
+    "Tom": {
+      "speed": 0.64,
+      "error": 0.91
+    },
+    "Priya": {
+      "speed": 1.43,
+      "error": 1.55
+    },
+    "Leo": {
+      "speed": 0.96,
+      "error": 1.41
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 427.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish facing left",
+      "leaf or spoon shape",
+      "bird head in profile"
+    ],
+    [
+      "fish with a pointed tail",
+      "bird head in profile",
+      "leaf or arrowhead outline"
+    ],
+    [
+      "clothes hanger",
+      "fish",
+      "bird"
+    ]
+  ],
+  "placed": 105,
+  "fell": 105,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "0:30",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Priya": 11,
+    "Tom": 7,
+    "Leo": 22
+  },
+  "held_thoughts": 42,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 141,
+    "failed": 0,
+    "input_tokens": 276,
+    "cache_creation_tokens": 694712,
+    "cache_read_tokens": 424805,
+    "output_tokens": 126802,
+    "seconds": 1127.7,
+    "api_equivalent_usd": 0.2066,
+    "cached": 6
+  }
+}

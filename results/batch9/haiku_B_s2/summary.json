@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.2,
+      "error": 1.25
+    },
+    "Omar": {
+      "speed": 0.85,
+      "error": 0.71
+    },
+    "Hana": {
+      "speed": 1.6,
+      "error": 1.57
+    },
+    "Jack": {
+      "speed": 1.32,
+      "error": 1.98
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 430.4,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a fish with a forked tail",
+      "a leaf or feather outline",
+      "a spoon or paddle"
+    ],
+    [
+      "fish with forked tail",
+      "bird or flying shape",
+      "spoon or ladle"
+    ],
+    [
+      "fish with forked tail",
+      "shoe or slipper",
+      "bottle or vase"
+    ]
+  ],
+  "placed": 115,
+  "fell": 115,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 56,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 17,
+    "Hana": 13,
+    "Omar": 14,
+    "Jack": 9
+  },
+  "held_thoughts": 36,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 268,
+    "cache_creation_tokens": 701855,
+    "cache_read_tokens": 411316,
+    "output_tokens": 130538,
+    "seconds": 1118.4,
+    "api_equivalent_usd": 0.2098,
+    "cached": 6
+  }
+}

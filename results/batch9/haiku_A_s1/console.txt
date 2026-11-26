@@ -4,3 +4,228 @@
     (Priya held a thought)
     (Leo held a thought)
     (Tom held a thought)
+[   28s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Got the pad, so I'm sketching it now. Fish facing left, nose at the start spot, body running right. I'll make the forked tail big so the judge can't miss it. Tracing the body first, then the tail.
+    (Leo held a thought)
+    (Tom held a thought)
+[   43s] 0:30 asked Maya,Tom,Leo | dominoes 7 | calls 10
+    Tom -> Priya: Priya, the sketch looks good to me. Once you've traced the body from the start, I'll take the tail fork out at the far end so you can keep going on the body.
+    Maya -> everyone: Priya, your fish works, let's go with it. You've got the spine and body, so I'll take the forked tail, stroke 4, and wait for the body to reach it.
+    (Leo held a thought)
+[   56s] 0:45 asked Tom,Priya,Leo | dominoes 14 | calls 13
+    Leo -> everyone: Fish works for me. One fix: the start should be by Priya's hands, where her sketch puts it, not Maya's spot on the left. Priya, once the top edge is down past the tail joint, I'll take the bottom edge
+    (Priya held a thought)
+    (Tom held a thought)
+[   68s] 1:00 asked Maya,Tom,Priya | dominoes 23 | calls 16
+    Maya -> everyone: Yep, I've got the tail fin, stroke 4. It's waiting for the body to reach it, then I'll do the eye after.
+    (Tom held a thought)
+    (Priya held a thought)
+[   83s] 1:15 asked Leo | dominoes 33 | calls 17
+    Leo -> everyone: Sounds good. Priya, the bottom line already runs out to about here. Is that yours? I'll carry stroke 3 on from its end once it's clear, and leave the top edge to you for now.
+[   95s] 1:30 asked Priya | dominoes 39 | calls 18
+    Priya -> everyone: Yes, that bottom line is mine, I laid it from the nose. Leo, carry stroke 3 on from the end of it once it's clear. I'm finishing the top edge, stroke 2, and I'll call out when it's past the tail joint
+[  108s] 1:45 asked Maya,Leo | dominoes 53 | calls 20
+    Leo -> everyone: Got it, Priya, the bottom line is yours and it's nearly to the joint, so I'll hold off on stroke 3 and not double up. I'm checking that run for breaks now. Tom, are you working on the top edge with Pr
+    (Maya held a thought)
+[  123s] 2:00 asked Tom,Priya,Leo | dominoes 62 | calls 23
+    Leo -> everyone: Inspection's back. The top edge has a small gap right above the start, about four dominoes not connected to it, so nothing up there falls yet. I'm bridging that gap now. Tom, Priya, keep laying the to
+    (Tom held a thought)
+    (Priya held a thought)
+[  134s] 2:15 asked Tom,Priya,Leo | dominoes 67 | calls 26
+    Priya -> everyone: Leo, yes, the top edge is mine and it's laid out to the tail joint now, so I'm done with it. Tom, I'll check the nose join myself. Maya, the body is ready for your fork at the joint.
+    (Leo held a thought)
+    (Tom held a thought)
+[  144s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 73 | calls 30
+    Leo -> everyone: Priya, the top edge is good, thanks. The gap I found is just above the start, where about four dominoes aren't joined to it. I'm closing that now. Tom, Priya, keep laying from where your hands are and
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  154s] 2:45 asked Tom,Priya,Leo | dominoes 77 | calls 33
+    Leo -> Tom: Tom, are you still laying on the top edge? I'm checking the join above the start now, so I'll stay off that line until I've looked.
+    Priya -> everyone: Tom, I'm checking the nose join now. Leo, I'm staying off the top edge while you close that gap above the start.
+    (Tom held a thought)
+[  165s] 3:00 asked Tom,Priya,Leo | dominoes 82 | calls 36
+    Tom -> Leo,Priya: Leo, I'm not on the top edge. I've only been looking. I'll check the joins along Priya's line out past the middle, and I'll leave the gap by the start to you. If anything's loose out there, I'll call 
+    Leo -> everyone: Heads up, my bridge above the start didn't take. Four dominoes there still aren't joined to the start. I'm going in with a small fix at that spot now. Tom, please keep your hands off that line until I
+[  175s] 3:15 asked Tom,Priya,Leo | dominoes 87 | calls 39
+    Leo -> Tom,Priya: Thanks, Tom. That's clear, so I've got the gap above the start. Please keep off that line until I say it's done.
+    Priya -> everyone: Tom, I'm checking the nose join now. Leo, I'm keeping my hands off the gap above the start.
+    (Tom held a thought)
+[  182s] 3:30 asked Tom,Priya,Leo | dominoes 92 | calls 42
+    Leo -> everyone: Closing the gap above the start now. Tom, Priya, please keep your hands off this spot until I say it's done.
+    (Priya held a thought)
+    (Tom held a thought)
+[  191s] 3:45 asked Tom,Priya,Leo | dominoes 94 | calls 45
+    Leo -> everyone: Gap above the start should be closed now. I'm inspecting it to confirm. Please keep hands off that spot for about fifteen seconds.
+    (Priya held a thought)
+    (Tom held a thought)
+[  204s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 49
+    Leo -> everyone: The gap's still there. It's one domino standing off its line just past it, not a missing one. I'm fixing that one now, so please keep your hands off this stretch until I call it clear.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  214s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 53
+    Maya -> everyone: Fork's down. I'm checking both joints at the tail now. Leo, I'll stay off the start area until you call it clear, then I'll do the eye.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  224s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 57
+    Leo -> everyone: Maya, I'm still on the top edge above the start. My inspection shows the domino jammed up against its neighbour right here, so I'm nudging it now. Tom, Priya, please keep your hands off this stretch f
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  233s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 61
+    Maya -> Leo: Leo, got it. I'm staying off the start area and the top edge. The fork's joints look fine on my side, and I'll wait for your clear call before I do the eye.
+    Tom -> Maya: Nice fork, Maya. I'm staying off the nose and start area until Leo says it's clear. If you want me to take the eye after that, just say so.
+    Leo -> everyone: Still on the jammed domino above the start. Keep off that stretch for about fifteen seconds, then I'll re-inspect and call it.
+    (Priya held a thought)
+[  242s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Tom: Tom, thanks, but I've got the eye. I'll trace it as soon as Leo calls the start area clear.
+    Priya -> Maya: Nice work on the fork, Maya. I'm staying off the top edge until Leo calls it clear, then I'll straighten that kink.
+    Leo -> everyone: Re-inspecting the jammed spot above the start now. Please keep your hands off that stretch for a few more seconds, and I'll call it clear.
+[  254s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 91 | calls 69
+    Leo -> everyone: Still broken above the start. I'm retracing the top edge, stroke 2, from the start now. Tom, Priya, please keep your hands off that whole line until I call it clear.
+[  262s] 5:30 asked Maya,Tom,Priya | dominoes 86 | calls 72
+    Tom -> Leo: Got it, Leo. My hands are off the top edge until you call it clear.
+    Maya -> everyone: Got it, Leo. Hands off the top edge. The eye's ready and I'll trace it when you call it clear.
+    Priya -> everyone: Got it, Leo. I'm off the top edge until you call it clear.
+[  271s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 76
+    Leo -> everyone: Thanks, all. I'm still retracing the top edge from the start, about ten dominoes to go. I'll re-inspect the spot above the start as soon as it's laid and call clear. Maya, your eye will wait until the
+[  278s] 6:00 asked Maya,Tom,Priya | dominoes 88 | calls 79
+[  278s] 6:15 asked - | dominoes 91 | calls 79
+[  278s] 6:30 asked - | dominoes 95 | calls 79
+[  278s] 6:45 asked - | dominoes 100 | calls 79
+[  286s] 7:00 asked Maya,Tom,Priya | dominoes 105 | calls 82
+    Priya -> everyone: Staying off the top edge, Leo. I'm inspecting the bottom line and the nose join now.
+[  295s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 86
+    Leo -> everyone: Stroke 2 is laid all the way out from the start. I'm inspecting the stretch above the start now, so please keep your hands off it for about fifteen seconds. I'll call it clear as soon as it checks out
+    (Priya held a thought)
+[  304s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 90
+    Leo -> everyone: Still broken at the jammed domino just past the bend, not the full line. I'm nudging that one now. Please keep your hands off that stretch until I call it clear. Maya, your eye still waits.
+    (Priya held a thought)
+[  311s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 94
+    Priya -> everyone: Bottom line's solid back to the fork, Maya. The one out of line is at the right tip, so I'm nudging it into its path now. Leo, I'm not touching the top edge.
+[  320s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Leo: Leo, I'm holding the eye until you call the start area clear. Once you do, I'll trace it straight away.
+    Leo -> everyone: Inspecting the top edge above the start now, about fifteen seconds. Please keep your hands off it. If the start reaches the fork, I'll call it clear.
+    (Priya held a thought)
+[  332s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 102
+    Leo -> everyone: Inspection says the start carries all the way along the top edge to the fork, so the start area is clear. Maya, go ahead and trace the eye. Tom, Priya, please keep your hands off the top edge while sh
+    (Maya held a thought)
+    (Priya held a thought)
+[  340s] 8:30 asked Maya,Tom,Priya | dominoes 105 | calls 105
+    Maya -> everyone: Thanks, Leo. Tracing the eye now. Tom, Priya, hands off the top edge while I lay it.
+    (Priya held a thought)
+[  348s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 109
+    Maya -> everyone: Laying the eye now, Tom and Priya, hands off the top edge please.
+    Tom -> everyone: Got it, Maya. Hands off the top edge. I'm just watching until you're done.
+    (Priya held a thought)
+[  358s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 113
+    Priya -> everyone: Bottom line's connected from the start out to Maya's fork, and the right tip's in. I'm not touching anything while Maya lays the eye.
+    Maya -> everyone: Eye's down. Tom, Priya, hands off, I'm just checking it connects.
+[  367s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 117
+    Tom -> Maya: Looking over the eye with you, Maya. I'm not touching anything.
+    Priya -> everyone: Nice, Maya. I'm holding still until you've confirmed the eye connects.
+[  376s] 9:30 asked Maya,Tom,Leo | dominoes 105 | calls 120
+    Tom -> Maya: Looks joined to the top edge from where I'm standing, Maya. The one near the bend that sat off to the side might be worth a glance, but only if you've got a second.
+    Maya -> everyone: Checking the eye joins the top edge now, about fifteen seconds. Hands off, please.
+    Leo -> everyone: I'll give the whole picture a quick inspect now, Maya, to confirm the eye joins the top edge before the push.
+[  385s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 124
+    Leo -> everyone: Inspection's clear. The start carries through every standing domino, and the eye joins the top edge. Hands off now, nobody place anything else. Let's let it go.
+    (Maya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 1.76
+    },
+    "Tom": {
+      "speed": 0.64,
+      "error": 0.91
+    },
+    "Priya": {
+      "speed": 1.43,
+      "error": 1.55
+    },
+    "Leo": {
+      "speed": 0.96,
+      "error": 1.41
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 427.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish facing left",
+      "leaf or spoon shape",
+      "bird head in profile"
+    ],
+    [
+      "fish with a pointed tail",
+      "bird head in profile",
+      "leaf or arrowhead outline"
+    ],
+    [
+      "clothes hanger",
+      "fish",
+      "bird"
+    ]
+  ],
+  "placed": 105,
+  "fell": 105,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "0:30",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 12,
+    "Priya": 11,
+    "Tom": 7,
+    "Leo": 22
+  },
+  "held_thoughts": 42,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 141,
+    "failed": 0,
+    "input_tokens": 276,
+    "cache_creation_tokens": 694712,
+    "cache_read_tokens": 424805,
+    "output_tokens": 126802,
+    "seconds": 1127.7,
+    "api_equivalent_usd": 0.2066,
+    "cached": 6
+  }
+}
