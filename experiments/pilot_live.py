@@ -65,7 +65,9 @@ def main():
 
     res = game.run(progress=progress)
     with ThreadPoolExecutor(len(agents)) as ex:
-        intents = dict(zip(names, ex.map(lambda a: a.state_intent(game.observe(a.name)), agents)))
+        intents = dict(zip(names, ex.map(
+            lambda a: a.state_intent(game.observe(a.name), [dict(m, new=False) for m in game.heard[a.name]]),
+            agents)))
     vals = [v for v in intents.values() if v]
     intent = max(set(vals), key=vals.count) if vals else ""
     png = picture_png(game.pushed_world, os.path.join(args.out, "judge.png"))

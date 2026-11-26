@@ -1,0 +1,59 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 1013.8,
+  "intents": {
+    "Ava": "not settled; the table never named one",
+    "Ben": "not decided",
+    "Chloe": "not decided",
+    "Dev": "not named at the table"
+  },
+  "team_intent": "not decided",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "empty background, no dominoes visible",
+      "image that failed to render or is blank"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty background; no dominoes or lines visible",
+      "possibly a blank or failed render of the intended image"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or placeholder background",
+      "faint image where the dominoes did not render"
+    ]
+  ],
+  "placed": 84,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 78,
+  "messages_by_speaker": {
+    "Ben": 15,
+    "Chloe": 25,
+    "Ava": 9,
+    "Dev": 29
+  },
+  "held_thoughts": 151,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 266,
+    "failed": 0,
+    "input_tokens": 538,
+    "cache_creation_tokens": 1389435,
+    "cache_read_tokens": 521891,
+    "output_tokens": 374907,
+    "seconds": 2451.7,
+    "api_equivalent_usd": 0.4706
+  }
+}

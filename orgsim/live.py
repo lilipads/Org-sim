@@ -46,7 +46,8 @@ class LiveConfig:
     take_down_max: int = 30          # per take-down task
     inspect_seconds: float = 15.0
     max_quiet: float = 120.0         # longest an agent goes without being asked
-    idle_quiet: float = 30.0         # same, for an agent with nothing to do
+    idle_quiet: float = 60.0         # same, for an agent with nothing to do
+    announce_at: tuple = (10, 5, 2)  # facilitator calls time at these minutes left
     max_queue: int = 40              # dominoes per build task
     history_seconds: float = 300.0   # how much recent conversation an agent sees
     max_words: int = 80
@@ -191,6 +192,7 @@ class LiveGame:
             "conversation": recent,
             "inbox": list(self.inbox[name]), "task": self.task_status(name),
             "hands": self.hands(name), "notes": self.notes[name],
+            "start_status": self.start_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
         if len(self.world.regions) > 1:
@@ -213,6 +215,7 @@ class LiveGame:
         cfg = self.cfg
         rec = {"turn": len(self.log["turns"]) + 1, "time": self.t, "clock": clock(self.t),
                "asked": [], "decisions": {}, "conversations": [], "held": [], "events": []}
+        self._announce(rec)
         asked = self.due()
         decisions: dict = {}
         if asked:
@@ -256,6 +259,33 @@ class LiveGame:
         self.log["turns"].append(rec)
         self.t += cfg.beat
         return rec
+
+    def _announce(self, rec: dict):
+        """The facilitator calls time, as at a real offsite."""
+        for m in self.cfg.announce_at:
+            at = self.cfg.duration - m * 60
+            if at < 0 or not (at <= self.t < at + self.cfg.beat):
+                continue
+            text = (f"{m} minutes left! When time's up I'll push your start domino; "
+                    "only what's connected to it will fall.")
+            msg = {"t": self.t, "clock": clock(self.t), "speaker": "Facilitator", "to": "everyone",
+                   "text": text, "side": False}
+            for n in self.by_name:
+                self.heard[n].append(dict(msg))
+                self.wake[n].append("the facilitator called time")
+            rec["conversations"].append({"members": ["Facilitator"], "pulled_in": [], "location": None,
+                                         "messages": [{"speaker": "Facilitator", "to": "everyone",
+                                                       "message": text}]})
+
+    def start_status(self, name: str) -> str:
+        loc = self.location[name]
+        starts = [d for d in self.world.dominoes.values() if d.start and d.region == loc]
+        if not starts:
+            return "There is no start domino on the table right now, so nothing would fall."
+        d = starts[0]
+        if d.state != "up":
+            return f"The start domino near {where(d.x, d.y)} has been knocked over; it needs standing back up."
+        return f"The start domino is near {where(d.x, d.y)}, facing {direction(d.angle)}."
 
     def _speech(self, decisions: dict, rec: dict) -> set:
         """Resolve who gets the floor. Returns the set of agents who spoke."""

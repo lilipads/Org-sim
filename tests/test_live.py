@@ -18,6 +18,7 @@ class Fake(LiveAgentBase):
 
 
 def game(agents, duration=120.0, **kw):
+    kw.setdefault("announce_at", ())
     return LiveGame(table_world(phys=EXACT), agents, LiveConfig(duration=duration, **kw))
 
 
@@ -145,7 +146,7 @@ def test_extend_and_connect_join_two_pieces():
     for seed in range(5):
         a = Fake("A", [Decision(do="build", strokes=[{"type": "line", "x0": 5, "y0": 20, "x1": 10, "y1": 20}], start=True)])
         b = Fake("B", [Decision(do="build", strokes=[{"type": "line", "x0": 20, "y0": 14, "x1": 26, "y1": 14}])])
-        g = LiveGame(table_world(phys=phys), [a, b], LiveConfig(duration=600, idle_quiet=1e9, max_quiet=1e9, seed=seed))
+        g = LiveGame(table_world(phys=phys), [a, b], LiveConfig(duration=600, idle_quiet=1e9, max_quiet=1e9, seed=seed, announce_at=()))
         while g.t < 150:
             g.step()
         connect = Decision(do="build", strokes=[{"type": "connect", "from": [10, 20], "to": [20, 14]}])
@@ -162,3 +163,12 @@ def test_freehand_strokes_land_roughly():
     offs = [freehand_specs({"type": "domino", "x": 10, "y": 10, "angle": 0}, rng)[0] for _ in range(200)]
     mean_err = sum(((x - 10) ** 2 + (y - 10) ** 2) ** 0.5 for x, y, _ in offs) / len(offs)
     assert 0.2 < mean_err < 0.6
+
+
+def test_facilitator_calls_time_and_start_status():
+    a = Fake("A", [Decision(), Decision()])
+    g = LiveGame(table_world(phys=EXACT), [a], LiveConfig(duration=180, idle_quiet=1e9, max_quiet=1e9,
+                                                           announce_at=(2,)))
+    g.run()
+    assert any(m["speaker"] == "Facilitator" for m in a.seen[-1]["conversation"])
+    assert "no start domino" in a.seen[-1]["start_status"]

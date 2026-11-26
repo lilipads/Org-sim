@@ -6,3 +6,363 @@
 [   20s] 0:15 asked Chloe,Dev | dominoes 5 | calls 6
     Chloe -> everyone: Ben, I like the fish, side view facing right. It's easy to read from across the room. Let's keep the body as one chain from your tail end. I'll take the tail and fins, and Ava, could you check that yo
     (Dev held a thought)
+[   35s] 0:30 asked Ava,Ben,Dev | dominoes 6 | calls 9
+    Ava -> everyone: Yes, Chloe, my run joins up. I'm carrying the spine right along y=20 from x=8 to about x=18, then I'll connect it into Ben's tail once I can see where the body starts. Ben, the map has the start at (2
+    (Ben held a thought)
+    (Dev held a thought)
+[   46s] 0:45 asked Ben,Chloe,Dev | dominoes 10 | calls 12
+    Chloe -> everyone: I like Ava's idea. Let's move the start to (8,20) so the fall runs left to right. Ben, where does your tail end begin? I'll place the tail and fin dominoes so they join Ava's line at x=18 and carry in
+    (Ben held a thought)
+    (Dev held a thought)
+[   56s] 1:00 asked Ava,Ben,Dev | dominoes 12 | calls 15
+    Ben -> everyone: Agreed. Ava's (8,20) is the start, so the fall runs left to right through her spine, into my tail at (25,20), then up and over the back. I'll keep the top arc going toward the nose.
+    (Dev held a thought)
+    (Ava held a thought)
+[   69s] 1:15 asked Ava,Chloe,Dev | dominoes 15 | calls 18
+    Chloe -> everyone: Sounds good. Start moves to Ava's (8,20), so the fall runs left to right. Ben, can you confirm your tail-end domino is at (25,20)? Ava's spine ends near x=18, so I'll bridge the gap from there into yo
+    (Dev held a thought)
+    (Ava held a thought)
+[   78s] 1:30 asked Ava,Ben,Dev | dominoes 13 | calls 21
+    Dev -> everyone: Quick one, since it still matters. I'm fine with the start at Ava's (8,20). Once it moves, the old start at (24,19) and the up-facing dominoes above it are cut off from the chain. Ben, when your body'
+    (Ben held a thought)
+    (Ava held a thought)
+[   94s] 1:45 asked Ava,Ben,Chloe | dominoes 11 | calls 24
+    Ben -> everyone: Confirming: my tail end is at (25,20), and I've taken out the old start at (24,19). Ava's (8,20) is the start now. Dev, the up-facing ones at (25,16) and (25,17) are right where my top arc has to go, 
+    (Chloe held a thought)
+    (Ava held a thought)
+[  105s] 2:00 asked Ava,Ben,Chloe,Dev | dominoes 14 | calls 28
+    Chloe -> everyone: Thanks, Ben. Tail at (25,20) is confirmed, and the old start is gone. Ava, tell me when your spine reaches about x=18 and I'll bridge the gap into Ben's tail. I'm keeping my hands off the body area un
+    (Ben held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  135s] 2:15 asked Ava,Ben,Dev | dominoes 16 | calls 31
+    Ben -> everyone: Old start and the two up-facing dominoes are cleared. I'm building the top arc now, from the tail at (25,20) over the back to the nose at (39,20). Ava, I'll keep the tail end clear so your join lands 
+    (Dev held a thought)
+    (Ava held a thought)
+[  151s] 2:30 asked Ava,Chloe,Dev | dominoes 19 | calls 34
+    Dev -> everyone: Ben, Chloe, one thing before the join goes in. Chloe's bridge comes in from the left, so it needs to land on something facing within 40 degrees of right. If the arc's first domino at (25,20) faces up,
+    (Chloe held a thought)
+    (Ava held a thought)
+[  171s] 2:45 asked Ben,Chloe | dominoes 22 | calls 36
+    Chloe -> everyone: Dev, Ben's version. We join from below. I'll connect from Ava's spine end near (18,20) into Ben's first domino at (25,20), arriving behind it so the fall turns up into it. Ava, tell me when your spine
+    (Ben held a thought)
+[  187s] 3:00 asked Ava,Ben,Dev | dominoes 24 | calls 39
+    Ben -> everyone: Agreed, Chloe, we join from below. Once the top arc's standing I'll put a knocker at about (25, 20.7) facing up. Your bridge from Ava's end has to turn up gently, with each domino within 40 degrees of
+    (Dev held a thought)
+    (Ava held a thought)
+[  202s] 3:15 asked Ava,Chloe,Dev | dominoes 27 | calls 42
+    Dev -> everyone: Ben, Chloe, Ava: agreed on the join from below. One thing: the map still shows up-facing dominoes at x=25, y=17, 18 and 19, right where the top arc rises from your tail. Ben, can you confirm they're g
+    (Chloe held a thought)
+    (Ava held a thought)
+[  217s] 3:30 asked Ava,Ben,Chloe,Dev | dominoes 28 | calls 46
+    Ava -> everyone: Dev, Ben, Chloe, I missed my turn. The spine's ending near x=17.5, so I'm adding the last domino at x=18 now. I'll call it when it's down so Chloe can bridge into Ben's tail. I'll move the start to my
+    (Dev held a thought)
+    (Ben held a thought)
+    (Chloe held a thought)
+[  235s] 3:45 asked Ava,Ben,Chloe,Dev | dominoes 28 | calls 50
+    Ben -> everyone: Dev, those up-facing ones at x=25, y=17 to 19 are my top arc, rising from the tail at (25,20). They aren't the old start or the two I cleared. The old start and the originals are gone. I'm carrying th
+    (Dev held a thought)
+    (Chloe held a thought)
+    (Ava held a thought)
+[  248s] 4:00 asked Ava,Chloe,Dev | dominoes 30 | calls 53
+    Ava -> everyone: Spine's solid from 8 to 17, and the last one at x=18 is going down now. I'll call it once it's standing. Chloe, you're clear to bridge from x=18 into Ben's tail at (25,20). I'm keeping my hands off th
+    (Chloe held a thought)
+    (Dev held a thought)
+[  259s] 4:15 asked Ben,Chloe,Dev | dominoes 31 | calls 56
+    Chloe -> everyone: Thanks, Ava, I'm clear from x=18. Ben, the tail at (25,20) is standing on the map, so I'm bridging into it from below so the fall turns up into your body. I'm keeping my hands off the arc above y=16.
+    (Dev held a thought)
+[  277s] 4:30 asked Ava,Ben,Dev | dominoes 35 | calls 59
+    Ava -> everyone: Spine's standing from 8 to 18, and the one at 18 is down now. Chloe, you're clear to bridge from (18,20) into Ben's tail at (25,20), from below. I'm moving my hands off the body and will set the start
+    (Ben held a thought)
+    (Dev held a thought)
+[  288s] 4:45 asked Ben,Chloe,Dev | dominoes 37 | calls 62
+    Ben -> everyone: Ava, got the spine, thanks. Chloe, the tail at (25,20) is standing and faces up. Bridge in from below as agreed and finish on the knocker at (25,20.7) facing up. I'll add that knocker once the top arc
+    (Chloe held a thought)
+[  300s] 5:00 asked Ava,Chloe,Dev | dominoes 39 | calls 65
+    Chloe -> everyone: Got it, Ben. Ava's spine is solid to x=18, and I'm bridging from there into your tail at (25,20) from below, turning up gently into your knocker at (25,20.7). I'm keeping my hands off the arc above y=
+    (Ava held a thought)
+[  318s] 5:15 asked Ava,Ben,Dev | dominoes 43 | calls 68
+    Dev -> everyone: Inspection's done. Nothing's broken yet, and the top arc is still being built, so I'm staying off it. Chloe, the two down-right dominoes at (20,20) and (21,20) would send the fall away from (25,20). Y
+    (Ava held a thought)
+    (Ben held a thought)
+[  330s] 5:30 asked Ava,Chloe | dominoes 39 | calls 70
+    Chloe -> everyone: Dev, you're right, those two down-right ones at (20,20) and (21,20) are mine and they point the wrong way. I'm clearing them now and I'll rebuild the bridge from Ava's (18,20), turning up gently into 
+    (Ava held a thought)
+[  341s] 5:45 asked Ava,Ben,Chloe,Dev | dominoes 42 | calls 74
+    Ava -> everyone: Dev, Chloe, Ben: spine's standing from 8 to 18 and I'm off the body. Chloe, the bridge from (18,20) into Ben's tail at (25,20), turning up gently, is all yours. I'll set the start at (8,20) once the j
+    (Chloe held a thought)
+    (Ben held a thought)
+[  350s] 6:00 asked Ben,Chloe,Dev | dominoes 44 | calls 77
+    Chloe -> everyone: Dev, Ben, Ava: the two down-right ones at (20,20) and (21,20) are cleared. I'm bridging from Ava's (18,20) into Ben's tail at (25,20), arriving from below and turning up gently, each step within 40 de
+    (Ben held a thought)
+[  368s] 6:15 asked Ava,Ben,Dev | dominoes 46 | calls 80
+    Ben -> everyone: Chloe, once your bridge is in and you call it, I'll put the knocker at (25, 20.7) facing up. I'm still on the top arc from (26,16) and keeping my hands off the bottom.
+[  378s] 6:30 asked Ava,Chloe,Dev | dominoes 49 | calls 83
+    Ava -> everyone: Chloe, I'm off the body. Call it when the bridge is down and I'll inspect from (8,20) before I set the start.
+    (Chloe held a thought)
+[  386s] 6:45 asked Chloe,Dev | dominoes 52 | calls 85
+    Chloe -> everyone: Ava, Ben, Dev: the bridge from (18,20) into Ben's tail at (25,20) is going in from below, about 9 to go. I'll call it once it's standing, Ben, so you can add the knocker.
+[  393s] 7:00 asked Ava,Ben,Dev | dominoes 54 | calls 88
+[  393s] 7:15 asked - | dominoes 58 | calls 88
+[  401s] 7:30 asked Ava,Dev | dominoes 60 | calls 90
+    Ava -> everyone: Still here, hands off. Chloe, call it when the bridge is down and I'll inspect the chain from (8,20) before I set the start.
+[  408s] 7:45 asked Chloe,Dev | dominoes 64 | calls 92
+[  413s] 8:00 asked Ava | dominoes 66 | calls 93
+[  419s] 8:15 asked Dev | dominoes 68 | calls 94
+[  430s] 8:30 asked Ava,Ben,Chloe,Dev | dominoes 69 | calls 98
+    Ava -> Chloe: Chloe, how close is the bridge? Call it when it's standing and I'll inspect from (8,20) straight away.
+    Chloe -> everyone: Bridge is down, all 14, from Ava's (18,20) into Ben's tail at (25,20). It arrives from below and turns up gently, and it's standing. Ben, you're clear to add the knocker at (25,20.7) facing up. Ava, i
+    (Dev held a thought)
+    (Ben held a thought)
+[  439s] 8:45 asked Ava,Ben,Chloe,Dev | dominoes 70 | calls 102
+    Dev -> Chloe: Chloe, the map still shows a down-right domino at (21,20). Can you confirm it's gone before Ben adds the knocker? If it's still there, it'll send the fall away from Ben's tail.
+    Ava -> everyone: Thanks, Chloe. Inspecting the chain from (8,20) now. Start stays unset until it confirms the join is clean.
+    (Ben held a thought)
+[  449s] 9:00 asked Ava,Ben,Chloe,Dev | dominoes 71 | calls 106
+    Dev -> Chloe,Ben,Ava: Chloe, I'm inspecting the bridge now. I can't tell from the map whether the down-right domino at (21,20) is gone, because my pointer is sitting on that square. I'll tell you what I find before Ben add
+    Chloe -> everyone: Dev, good catch. I cleared (20,20) and (21,20) at 6:00, but the 'd' marker is sitting right on (21,20), so I can't see that cell. I'm inspecting the bridge area now. Ben, please hold the knocker until
+    (Ava held a thought)
+    (Ben held a thought)
+[  457s] 9:15 asked Ava,Ben,Chloe,Dev | dominoes 73 | calls 110
+    Dev -> everyone: Chloe, Ben: my inspection flagged the domino at (25,20.5) as jammed too close to the tail, so please don't put the knocker in until we've looked at it. I'm moving my pointer off (21,20) and re-checkin
+    (Ava held a thought)
+    (Chloe held a thought)
+    (Ben held a thought)
+[  470s] 9:30 asked Ava,Ben,Chloe,Dev | dominoes 74 | calls 114
+    Chloe -> everyone: Dev, Ben, Ava: I'm not calling the bridge clean yet. I said (20,20) was cleared, but the map still shows arrows at (19,20) and (20,20), and my marker covers (21,20), so I can't see that cell. I'm insp
+    (Ava held a thought)
+    (Ben held a thought)
+[  480s] 9:45 asked Ava,Ben,Chloe,Dev | dominoes 76 | calls 118
+    Chloe -> everyone: Dev, Ben, Ava: I was wrong to call (20,20) cleared. The map still shows arrows at (19,20) and (20,20), and my marker has been over (21,20). I'm moving my pointer off that cell and inspecting 18 to 23 
+    (Ben held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[  490s] 10:00 asked Ava,Ben,Chloe,Dev | dominoes 71 | calls 122
+    Dev -> everyone: Chloe, Ben: I'm re-checking the join and the jam at (25,20.5) now, with my pointer off (21,20). Ben, please keep the knocker on hold until I've reported back on that domino.
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Ben held a thought)
+[  502s] 10:15 asked Ava,Ben,Chloe,Dev | dominoes 72 | calls 126
+    Dev -> everyone: Inspection's back for 23 to 27 by 18 to 23: about 12 standing, and the jam at (25, 20.5) is real. The next domino sits too close to Ben's tail, so the fall would stall there. Ben, please keep the knoc
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Ben held a thought)
+[  511s] 10:30 asked Ava,Ben,Chloe | dominoes 72 | calls 129
+    Chloe -> everyone: Dev, Ben, Ava: I was wrong to call (20,20) clear earlier. I've taken down 7 dominoes in 19 to 23 by 19 to 22, and the map now shows nothing standing at (19,20), (20,20) or (21,20). I'm inspecting 18 t
+    (Ben held a thought)
+    (Ava held a thought)
+[  522s] 10:45 asked Ava,Ben,Chloe,Dev | dominoes 72 | calls 133
+    Chloe -> everyone: Dev, Ben, Ava: the cleared area is empty where I said, at (19,20), (20,20) and (21,20). I'm not rebuilding the bridge until Dev has reported on the jam at (25,20.5). Dev, once you've checked it, tell 
+    (Dev held a thought)
+    (Ben held a thought)
+    (Ava held a thought)
+[  533s] 11:00 asked Ava,Ben,Dev | dominoes 72 | calls 136
+    Dev -> everyone: Chloe, Ben, Ava: I'm off the bridge and haven't touched anything. The jam at (25,20.5) is still real: the next domino up is too close to Ben's tail, so the fall would stall there. Ben, that one's your
+    (Ava held a thought)
+    (Ben held a thought)
+[  549s] 11:15 asked Ava,Ben,Chloe | dominoes 70 | calls 139
+    Chloe -> everyone: Dev, Ben, Ava: I'm inspecting 18 to 22 now, with my pointer on the empty cells. I'll report what's there before anyone touches the knocker or the start. Ben, keep the knocker off. Ava, keep the start 
+    (Ben held a thought)
+    (Ava held a thought)
+[  565s] 11:30 asked Ava,Ben,Chloe,Dev | dominoes 69 | calls 143
+    Chloe -> everyone: Dev, Ben, Ava: inspect is back for 18 to 22. (19,20), (20,20) and (21,20) are empty, as I said. There are about two strays standing near (22,22), facing right, and I'm taking those down now. I'm not r
+    (Ben held a thought)
+    (Ava held a thought)
+[  576s] 11:45 asked Ava,Ben,Chloe,Dev | dominoes 69 | calls 147
+    Dev -> everyone: Chloe, I'm not calling the join from the message alone. I haven't seen the jam at (25,20.5) taken down and re-stood, so I'm inspecting 17 to 27 by 18 to 23 now. Reading only, I won't touch anything. B
+    (Ben held a thought)
+    (Chloe held a thought)
+    (Ava held a thought)
+[  596s] 12:00 asked Ava,Ben,Chloe,Dev | dominoes 69 | calls 151
+    Dev -> everyone: Chloe, Ben, Ava: inspect is back for 17 to 27 by 18 to 23, read only. About 14 standing. Three things. One: the line end at (18,20) facing right has nothing ahead of it, so the gap from 19 to 24 along
+    (Ben held a thought)
+    (Chloe held a thought)
+    (Ava held a thought)
+[  609s] 12:15 asked Ava,Ben,Chloe | dominoes 64 | calls 154
+    Ben -> everyone: Dev, Chloe, Ava: correction from me. My take-down at the jam pulled two dominoes, not one. The second came out of the box around 24.6 to 25.5 by 20.3 to 21. Dev, your read of the stray at (25,21) and 
+    (Chloe held a thought)
+    (Ava held a thought)
+[  620s] 12:30 asked Ava,Chloe,Dev | dominoes 64 | calls 157
+    Dev -> everyone: Ben, thanks for the correction. That fits what I saw. Chloe, please clear the strays at (23,22), (24,21), (25,21) and the far one near (25,21.5) before anything is rebuilt. I'm reading 22 to 27 by 19 
+    (Chloe held a thought)
+    (Ava held a thought)
+[  632s] 12:45 asked Ava,Ben,Chloe,Dev | dominoes 64 | calls 161
+    Dev -> everyone: Chloe, before the bridge goes down: from (18,20) to Ben's tail at (25,20) is about 7 units. Eleven dominoes at 0.55 spacing stop near 23.5, which leaves about 1.5 to the tail. That's past the 0.9 reac
+    (Chloe held a thought)
+    (Ben held a thought)
+    (Ava held a thought)
+[  650s] 13:00 asked Ava,Ben,Chloe | dominoes 64 | calls 164
+    Chloe -> everyone: Dev, agreed. I'll use connect from Ava's (18,20) to Ben's tail at (25,20) rather than a fixed count, so the join routes into the tail. I'm reading 18 to 27 by 19 to 23 first, because the last inspect 
+    (Ben held a thought)
+    (Ava held a thought)
+[  664s] 13:15 asked Ava,Ben,Chloe,Dev | dominoes 66 | calls 168
+    Ben -> everyone: Chloe, Dev, Ava: I'm re-standing the jammed one at (25,20.5) facing up, about 0.55 off my tail. Knocker and start stay off. Dev, shout if the spacing's wrong once it's up.
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[  673s] 13:30 asked Ava,Ben,Chloe,Dev | dominoes 66 | calls 172
+    Ben -> everyone: Chloe, Dev, Ava: the jammed one at (25,20.5) is re-stood facing up, about 0.55 off my tail at (25,20). My take-down also pulled a second domino out of the box around (25,21), so that spot may now be e
+    (Dev held a thought)
+    (Chloe held a thought)
+    (Ava held a thought)
+[  685s] 13:45 asked Ava,Ben,Chloe,Dev | dominoes 66 | calls 176
+    Chloe -> everyone: Ben, Dev, Ava: thanks, Ben, for the re-stand at (25,20.5). I'm holding the bridge until I've read 22 to 27 by 18 to 23 again, since the map is out of date there. Hands off the tail until I report. Ben
+    (Dev held a thought)
+    (Ava held a thought)
+[  701s] 14:00 asked Ava,Ben,Chloe,Dev | dominoes 66 | calls 180
+    Dev -> everyone: Chloe, Ben: one thing before connect. I can't read (24,21) under your marker, and the strays at (25,21) and (25,21.5) are still on my last read. Please clear all three so the join routes into Ben's ta
+    (Chloe held a thought)
+    (Ava held a thought)
+[  717s] 14:15 asked Ava,Ben,Chloe | dominoes 66 | calls 183
+    Ben -> everyone: Dev, Chloe, Ava: I'm reading 23 to 27 by 18 to 23 now, hands off. From my side, the tail is (25,20), and the re-stood one at (25,20.5) is about 0.55 off it, going by eye. I can't clear (25,21) myself 
+    (Chloe held a thought)
+    (Ava held a thought)
+[  732s] 14:30 asked Ava,Ben,Chloe,Dev | dominoes 67 | calls 187
+    Chloe -> everyone: Dev, Ben, Ava: inspect of 22 to 27 by 20.8 to 23 is back, with zero standing. (23,22), (24,21), (25,21) and (25,21.5) are clear, so there's nothing to take down. Ben's tail at (25,20) and the re-stood
+    (Dev held a thought)
+    (Ben held a thought)
+    (Ava held a thought)
+[  741s] 14:45 asked Ava,Ben,Dev | dominoes 68 | calls 190
+    Ben -> everyone: Dev, Chloe, Ava: honest answer, no, I haven't checked (25,19) as its own domino. It's an up-arrow just above my tail, and I can't tell whether it's a leftover from my take-down or part of the old jam.
+    (Dev held a thought)
+    (Ava held a thought)
+[  752s] 15:00 asked Ava,Chloe,Dev | dominoes 70 | calls 193
+    Dev -> everyone: Ben, yes, (25,19) is next on my list. Chloe, go ahead with the connect. I'll read the join as soon as it's down, and I'll classify (24,19) and (25,19) in the isolated-piece check. Ben, the knocker sta
+    (Chloe held a thought)
+    (Ava held a thought)
+[  761s] 15:15 asked Ava,Ben,Chloe | dominoes 71 | calls 196
+    Chloe -> everyone: Thanks, Dev. The connect from the row-20 end at (18,20) into Ben's tail at (25,20) is still going, 2 of 16 placed. Dev, the up-arrows at (24,19) and (25,19) are yours to read, and I'm not touching the
+    (Ava held a thought)
+    (Ben held a thought)
+[  771s] 15:30 asked Ava,Ben,Dev | dominoes 72 | calls 199
+    Dev -> everyone: Chloe, one flag before the connect finishes. The tail at (25,20) faces up, and the up-arrow at (25,19) is about 1 unit ahead, which is past the 0.9 reach. Unless something stands about 0.5 above the t
+    (Ava held a thought)
+    (Ben held a thought)
+[  784s] 15:45 asked Ava,Ben,Chloe | dominoes 74 | calls 202
+    Ben -> everyone: Dev, Chloe, Ava: agreed on the flag. The tail at (25,20) faces up and the arrow at (25,19) is about 1.0 above it, so the fall stops there. The connect lands on the row and doesn't cover that gap. Dev,
+    (Chloe held a thought)
+    (Ava held a thought)
+[  794s] 16:00 asked Ava,Chloe,Dev | dominoes 75 | calls 205
+    Dev -> everyone: Ben, Chloe, Ava: yes, (25,19) is next. I'm reading 23 to 27 by 18 to 21 now, read only. I'll say whether it's a stray or past reach. Ben, don't stand a fix at (25,19.5) until I've reported. Chloe, let
+    (Chloe held a thought)
+    (Ava held a thought)
+[  812s] 16:15 asked Ava,Ben,Chloe,Dev | dominoes 77 | calls 209
+    Dev -> everyone: Dev, reporting on 23 to 27 by 18 to 21, read only. Ben, the 'd' on (25,19) is my pointer, so I can't read that cell from the map. Going by my earlier read, the tail at (25,20) faces up and the arrow a
+    (Chloe held a thought)
+    (Ava held a thought)
+[  823s] 16:30 asked Ava,Ben | dominoes 78 | calls 211
+    Ben -> everyone: Dev, your 16:15 report cut off at 'If (25,19) is a real standing...'. Can you finish it? If it's real and past reach, I'll stand one at (25,19.5) facing up, but only on your word. With about three and
+    (Ava held a thought)
+[  839s] 16:45 asked Ava,Dev | dominoes 80 | calls 213
+    Dev -> everyone: Ben, my 16:15 report got cut off. Finishing it: I can't read (25,19) from the map because my pointer is sitting on it. I'm moving the pointer off and inspecting 23 to 27 by 18 to 21 now, read only. Un
+    (Ava held a thought)
+[  846s] 17:00 asked Ava,Ben,Chloe,Dev | dominoes 81 | calls 217
+    Dev -> everyone: Ben, Chloe, Ava: I'm reading 23 to 27 by 18 to 21 now, read only, and I'll report whether (25,19) is a stray or past reach. Until I've reported, nobody stands at (25,19.5). Chloe, let the connect fini
+    (Chloe held a thought)
+    (Ava held a thought)
+[  865s] 17:15 asked Ava,Ben,Chloe,Dev | dominoes 81 | calls 221
+    Dev -> everyone: Inspect's back. (25,19) is a real standing domino, not a stray, and it's 1.0 above Ben's tail at (25,20), so the fall stops at the tail. I'm taking that one down now, and I'm leaving (24,19) and (25,1
+    (Chloe held a thought)
+    (Ava held a thought)
+[  875s] 17:30 asked Ava,Ben,Chloe,Dev | dominoes 81 | calls 225
+    Dev -> everyone: Ben, Chloe, Ava: (25,19) is down. I'm standing one domino at (25,19.5) facing up, about 0.5 off Ben's tail at (25,20). Chloe, keep the connect going. Knocker and start stay off. If the join isn't clea
+    (Chloe held a thought)
+    (Ava held a thought)
+[  883s] 17:45 asked Ava,Ben,Chloe | dominoes 82 | calls 228
+    Chloe -> everyone: Everyone: connect is at 15 of 16, one to go, and I'm letting it land. Dev has (25,19) down and is standing (25,19.5), so that's his, and I'm not touching it. Ava, can you confirm the row-20 end is at 
+    (Ava held a thought)
+    (Ben held a thought)
+[  893s] 18:00 asked Ava,Ben,Dev | dominoes 82 | calls 231
+    Dev -> everyone: Chloe, Ben, Ava: (25,19.5) is standing, about 0.5 above Ben's tail, facing up. I'm reading 22 to 27 by 18 to 22 now, read only. Chloe, let the last domino of the connect land and don't add anything. K
+    (Ben held a thought)
+    (Ava held a thought)
+[  919s] 18:15 asked Ava,Ben,Chloe,Dev | dominoes 83 | calls 235
+    Dev -> everyone: Everyone: heads-up on the column. The fall from (25,19.5) can't reach (25,18), which is 1.5 above it, so the chain would stop there. Chloe, once your last connect domino has landed, I'm adding two dom
+    (Ava held a thought)
+    (Ben held a thought)
+    (Chloe held a thought)
+[  926s] 18:30 asked Ava,Ben,Chloe | dominoes 84 | calls 238
+    Chloe -> everyone: Everyone: connect is at 15 of 16, last domino landing, and I'm adding nothing else. Dev has the column above Ben's tail, including the two dominoes toward (25,18), and I'm not touching it. Ava, can yo
+    (Ben held a thought)
+    (Ava held a thought)
+[  937s] 18:45 asked Ava,Ben,Dev | dominoes 84 | calls 241
+    Dev -> everyone: Everyone: my two dominoes are down, running from (25,19) to (25,18.5), facing up. (25,18) is about 0.5 ahead, so the fall should carry into it. I've stopped building. Chloe, did your last connect domi
+    (Ava held a thought)
+    (Ben held a thought)
+[  949s] 19:00 asked Ava,Ben,Chloe,Dev | dominoes 84 | calls 245
+    Dev -> everyone: Everyone: I've stopped building. My column is standing, but I haven't confirmed the join from row 20 into Ben's tail. I'm doing a quick read of 17 to 27 by 18 to 22 now. Chloe, add nothing else. If th
+    (Chloe held a thought)
+    (Ben held a thought)
+    (Ava held a thought)
+[  962s] 19:15 asked Ava,Ben,Chloe,Dev | dominoes 84 | calls 249
+    Dev -> everyone: Everyone: read of 17 to 27 by 18 to 22 is done. The row-20 run ends at (20,20). (21,20), (22,20) and (23,20) are empty on the map, so the join into Ben's tail at (25,20) isn't there, and the fall woul
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Ben held a thought)
+[  971s] 19:30 asked Ava,Ben,Chloe | dominoes 84 | calls 252
+    Chloe -> everyone: Dev, Ben, Ava: I've stopped. I can't confirm from here that my 16th connect domino is standing at x 21 to 23, so I won't claim the join is there. If your read shows (21,20) to (23,20) empty, treat the
+    (Ava held a thought)
+    (Ben held a thought)
+[  979s] 19:45 asked Ava,Ben,Dev | dominoes 84 | calls 255
+    Dev -> everyone: Everyone: I've read 21 to 23 on row 20 and it's empty, so the join into Ben's tail isn't there. The fall would stop around (20,20). No push this round. Nobody builds in the last seconds, and the knock
+    (Ben held a thought)
+    (Ava held a thought)
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 1013.8,
+  "intents": {
+    "Ava": "not settled; the table never named one",
+    "Ben": "not decided",
+    "Chloe": "not decided",
+    "Dev": "not named at the table"
+  },
+  "team_intent": "not decided",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "empty background, no dominoes visible",
+      "image that failed to render or is blank"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty background; no dominoes or lines visible",
+      "possibly a blank or failed render of the intended image"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or placeholder background",
+      "faint image where the dominoes did not render"
+    ]
+  ],
+  "placed": 84,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 78,
+  "messages_by_speaker": {
+    "Ben": 15,
+    "Chloe": 25,
+    "Ava": 9,
+    "Dev": 29
+  },
+  "held_thoughts": 151,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 266,
+    "failed": 0,
+    "input_tokens": 538,
+    "cache_creation_tokens": 1389435,
+    "cache_read_tokens": 521891,
+    "output_tokens": 374907,
+    "seconds": 2451.7,
+    "api_equivalent_usd": 0.4706
+  }
+}

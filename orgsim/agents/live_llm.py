@@ -31,8 +31,9 @@ falling direction, at most 0.35 units to the side of the falling line, and facin
 the falling domino's direction. So a line can curve gently, but a sharp corner or a gap wider than 0.9
 stops the chain. One domino can knock over two standing side by side, so a line can split into two,
 and two lines can meet. Each domino lands about 0.05 units and 3 degrees off from where you aim.
-Builders working within about 6 units of each other sometimes bump the table and knock over a run of
-dominoes, which then have to be stood back up. Some builders leave deliberate gaps so a bump only
+Now and then a builder bumps the table and knocks over a run of nearby dominoes, which then have to be
+stood back up. It only happens to people working within about 6 units of each other, and even then
+it's occasional: two people working side by side for the whole 20 minutes would expect about one bump. Some builders leave deliberate gaps so a bump only
 knocks down one segment; any such gap has to be closed before the push.
 
 TIME AND HANDS
@@ -53,6 +54,11 @@ TALKING
   speaks and the other holds the thought.
 - Talk the way you would at a work offsite: naturally, in your own voice. Small talk, jokes, ideas,
   questions, disagreements and silence are all fine.
+- A facilitator calls out the time now and then.
+
+PEOPLE AT THESE OFFSITES
+Most people enjoy getting their hands on the dominoes. When their hands are free and nobody needs
+them right now, they usually pick something useful to build or fix rather than wait.
 
 WHAT YOU CAN DO WITH YOUR HANDS
 - build: place dominoes along strokes (below), and/or stand knocked-over dominoes back up in an area.
@@ -153,6 +159,7 @@ class LiveLLMAgent(LiveAgentBase):
             f"You're at {obs['location']} with {', '.join(obs['people_here']) or 'nobody'}. "
             f"Dominoes left: {sup}.",
             f"Your hands: {obs['task']}",
+            obs.get("start_status", ""),
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
             "THE TABLE NOW:",
@@ -203,7 +210,9 @@ class LiveLLMAgent(LiveAgentBase):
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 
-    def state_intent(self, obs: dict) -> str:
+    def state_intent(self, obs: dict, full_conversation: list | None = None) -> str:
+        if full_conversation is not None:
+            obs = dict(obs, conversation=full_conversation)
         prompt = (self.situation(obs) + "\n\nTime is up. In one or two words: which animal is your "
                   "table's picture meant to be? Reply with JSON only: {\"animal\": \"...\"}")
         d = parse_json(call_model(self.system, prompt, self.log, f"{self.name}/intent", self.model)) or {}
