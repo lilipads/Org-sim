@@ -9,3 +9,20 @@
 [   39s] 1:45 asked - | dominoes 30 | calls 2
 [   39s] 2:00 asked - | dominoes 35 | calls 2
 [   44s] 2:15 asked Priya | dominoes 40 | calls 3
+[   53s] 2:30 asked Priya | dominoes 35 | calls 4
+[   53s] 2:45 asked - | dominoes 30 | calls 4
+[   53s] 3:00 asked - | dominoes 25 | calls 4
+[   53s] 3:15 asked - | dominoes 20 | calls 4
+[   53s] 3:30 asked - | dominoes 15 | calls 4
+[   53s] 3:45 asked - | dominoes 10 | calls 4
+[   53s] 4:00 asked - | dominoes 5 | calls 4
+[   53s] 4:15 asked - | dominoes 0 | calls 4
+[   61s] 4:30 asked Priya | dominoes 5 | calls 5
+[   61s] 4:45 asked - | dominoes 10 | calls 5
+[   65s] 5:00 asked Priya | dominoes 15 | calls 6
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   65s] 5:15 asked - | dominoes 20 | calls 6
+[   65s] 5:30 asked - | dominoes 25 | calls 6
+[   65s] 5:45 asked - | dominoes 30 | calls 6
+[   65s] 6:00 asked - | dominoes 35 | calls 6
+[   65s] 6:15 asked - | dominoes 40 | calls 6

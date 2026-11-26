@@ -8,3 +8,7 @@
     Sofia -> everyone: Love the fish, Jack! I've got the pad in hand, so I just drew it: nose on the left, top line, bottom line, tail on the right. I'll build the top line from the nose. Omar, bottom line. Hana, the tail. 
     (Hana held a thought)
     (Omar held a thought)
+[   64s] 0:30 asked Omar,Hana,Jack | dominoes 12 | calls 10
+    Hana -> everyone: Fish looks good, Sofia. One catch: the tail is a triangle with sharp corners, and the fall won't turn those. If I trace it as drawn, only the lower diagonal falls. Can you hand me the pad when you're 
+    (Jack held a thought)
+    (Omar held a thought)

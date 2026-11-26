@@ -16,3 +16,14 @@
 [   49s] 3:30 asked - | dominoes 29 | calls 3
 [   49s] 3:45 asked - | dominoes 29 | calls 3
 [   49s] 4:00 asked - | dominoes 29 | calls 3
+[   60s] 4:15 asked Hana | dominoes 24 | calls 4
+[   60s] 4:30 asked - | dominoes 20 | calls 4
+[   60s] 4:45 asked - | dominoes 16 | calls 4
+[   68s] 5:00 asked Hana | dominoes 12 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   68s] 5:15 asked - | dominoes 7 | calls 5
+[   68s] 5:30 asked - | dominoes 3 | calls 5
+[   68s] 5:45 asked - | dominoes 1 | calls 5
+[   68s] 6:00 asked - | dominoes 5 | calls 5
+[   68s] 6:15 asked - | dominoes 10 | calls 5
+[   68s] 6:30 asked - | dominoes 11 | calls 5

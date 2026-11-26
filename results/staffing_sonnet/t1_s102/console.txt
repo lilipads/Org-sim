@@ -1,3 +1,18 @@
 [   31s] 0:00 asked Sofia | dominoes 0 | calls 1
     Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
     Sofia -> everyone: Okay, solo table! I'll go with a fish: round body, big forked tail. Sketching it now.
+[   62s] 0:15 asked Sofia | dominoes 0 | calls 3
+    Sofia -> everyone: Fish sketch is up, building the top line now.
+[   62s] 0:30 asked - | dominoes 6 | calls 3
+[   62s] 0:45 asked - | dominoes 13 | calls 3
+[   62s] 1:00 asked - | dominoes 19 | calls 3
+[   62s] 1:15 asked - | dominoes 26 | calls 3
+[   62s] 1:30 asked - | dominoes 30 | calls 3
+[   68s] 1:45 asked Sofia | dominoes 33 | calls 4
+    Sofia -> everyone: Top line's done. Now the belly and the forked tail.
+[   68s] 2:00 asked - | dominoes 40 | calls 4
+[   68s] 2:15 asked - | dominoes 46 | calls 4
+[   68s] 2:30 asked - | dominoes 53 | calls 4
+[   68s] 2:45 asked - | dominoes 60 | calls 4
+[   68s] 3:00 asked - | dominoes 66 | calls 4
+[   68s] 3:15 asked - | dominoes 70 | calls 4
