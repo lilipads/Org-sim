@@ -1,0 +1,59 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 846.2,
+  "intents": {
+    "Ava": "giraffe",
+    "Ben": "giraffe",
+    "Chloe": "swan",
+    "Dev": "giraffe (unconfirmed)"
+  },
+  "team_intent": "giraffe",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "short horizontal line with a jagged bolt at the right end",
+      "hand-drawn stroke or crack on a blank background",
+      "single fallen domino or bar seen from above"
+    ],
+    [
+      "a short horizontal line with a zigzag mark at its right end",
+      "a single fallen domino seen edge-on",
+      "a pen stroke or underline with a small arrow or bolt"
+    ],
+    [
+      "fallen dominoes lying in a row",
+      "a horizontal line with a zigzag mark at one end",
+      "a small left-pointing arrow"
+    ]
+  ],
+  "placed": 70,
+  "fell": 30,
+  "completion": 0.429,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 67,
+  "messages_by_speaker": {
+    "Chloe": 28,
+    "Ben": 13,
+    "Ava": 14,
+    "Dev": 12
+  },
+  "held_thoughts": 89,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 236,
+    "failed": 0,
+    "input_tokens": 478,
+    "cache_creation_tokens": 1018207,
+    "cache_read_tokens": 365786,
+    "output_tokens": 243618,
+    "seconds": 1912.7,
+    "api_equivalent_usd": 0.3292
+  }
+}

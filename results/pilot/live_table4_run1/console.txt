@@ -15,3 +15,281 @@
     Ben -> everyone: Fair enough, I'll go with snake. Ava, you take the tail wave on the left, and I'll take the head on the far right. I want the head to be a clear shape: a wide skull with a bit of a jaw, so it doesn't 
     (Chloe held a thought)
     (Dev held a thought)
+[   51s] 1:00 asked Ava,Chloe,Dev | dominoes 5 | calls 16
+    Dev -> everyone: Fine by me. I'll take the middle curves, and I'll keep them big and gentle so nothing squiggles. Ava, I'll hold off building until your tail wave is down, so I can match where your line ends.
+    (Chloe held a thought)
+[   59s] 1:15 asked Ben,Chloe | dominoes 7 | calls 18
+    Chloe -> everyone: Sounds good, Dev. So: Ava has the tail wave on the left from the start, Ben has the head on the far right, Dev has the middle curves, and I'm running the start line along the body. Let's keep every li
+    (Ben held a thought)
+[   69s] 1:30 asked Ben,Dev | dominoes 9 | calls 20
+    Dev -> Ava: Ava, once your tail is down, could you tell me where its last domino sits? I'll start the middle curves from there.
+    Ben -> everyone: Sounds good, that's the split. Chloe, make sure the start is at the tail end so the fall runs toward my head. I'll hold until Ava's tail wave is down, then match its end and build the skull and jaw.
+[   78s] 1:45 asked Ava,Chloe,Dev | dominoes 10 | calls 23
+    Ava -> Dev: Dev, I'm still laying the tail. Planned last domino is about (24.5, 20), facing right after the second bend. I'll call out the exact spot when it's down so you can match it.
+    Chloe -> everyone: Yes, Ben, the start is at the tail and the fall runs right toward your head. I'm laying the body along y=20 from x=5 to x=21 now. Ava, Dev, once my run reaches x=21 I'll post the end coordinates so yo
+[   87s] 2:00 asked Ben,Dev | dominoes 13 | calls 25
+    Dev -> everyone: Quick check before I lay anything. Chloe's run ends at x=21, Ava's tail ends around x=24.5, and I've got the middle from about x=18. That's three of us on the same stretch of y=20. Chloe, could you co
+[   92s] 2:15 asked Ben | dominoes 15 | calls 26
+[  100s] 2:30 asked Dev | dominoes 19 | calls 27
+[  111s] 2:45 asked Ben | dominoes 21 | calls 28
+    Ben -> everyone: Good catch, Dev. Chloe, can you confirm your run stops at 21? Ava, once your last domino at 24.5 is down, Dev starts after it, not over it. I'll hold the head until Ava's end is fixed, then match it.
+[  119s] 3:00 asked Dev | dominoes 25 | calls 29
+[  126s] 3:15 asked Ben | dominoes 27 | calls 30
+[  134s] 3:30 asked Dev | dominoes 31 | calls 31
+[  146s] 3:45 asked Ava,Ben,Chloe | dominoes 33 | calls 34
+    Ben -> everyone: Quick read from the board: Chloe's run reaches about x=12 on y=20, and there's a branch heading up around x=7-11, y=17-19. I can't see anything past x=12 yet, so Ava and Dev haven't started. Chloe, is
+    (Chloe held a thought)
+    (Ava held a thought)
+[  157s] 4:00 asked Ava,Ben,Chloe,Dev | dominoes 28 | calls 38
+    Ava -> everyone: Quick correction, Ben: that upward bit near x=7-11 is my tail, the first bend from the start toward (14,17). It's still going down, so there's no final point yet. Chloe, your y=20 run from x=5 would s
+    (Chloe held a thought)
+    (Dev held a thought)
+[  167s] 4:15 asked Ava,Ben,Chloe,Dev | dominoes 24 | calls 42
+    Ava -> everyone: Chloe, you're knocking my tail down. Please move your run off y=20, or start it after x=25. My tail's last domino is at (24.5, 20), facing right. I'm standing it up now and will call it once it's set.
+    (Ben held a thought)
+    (Chloe held a thought)
+    (Dev held a thought)
+[  175s] 4:30 asked Ava,Ben,Chloe,Dev | dominoes 26 | calls 46
+    Ava -> everyone: Chloe, your y=20 run is sitting right on my tail and knocking it down. Could you shift it off y=20 or start it after x=25? My tail's last domino is at (24.5, 20), facing right. I'm restanding the sect
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ben held a thought)
+[  188s] 4:45 asked Ben,Chloe,Dev | dominoes 28 | calls 49
+    Chloe -> everyone: Ava, you're right, sorry. I'm stopping my run now and won't place anything on y=20 past x=12. Your tail stays as it is and I won't touch it. My start at (3,20) feeds into your tail. Dev, start one gap
+    (Ben held a thought)
+    (Dev held a thought)
+[  197s] 5:00 asked Ava,Ben,Dev | dominoes 28 | calls 52
+    Ava -> everyone: Thanks, Chloe, that works. My tail's last domino is at (24.5, 20), facing right, and I'm restanding the section near (8,18) now. Dev, start one gap past that point. Ben, match the head to there.
+    (Ben held a thought)
+[  209s] 5:15 asked Ava,Ben,Chloe,Dev | dominoes 28 | calls 56
+    Chloe -> everyone: Thanks, Ava. I'm not touching your section. I'm going to inspect from the start through your tail so we know the chain holds before Dev and Ben build on it.
+    (Ben held a thought)
+    (Dev held a thought)
+[  224s] 5:30 asked Ava,Ben,Chloe,Dev | dominoes 28 | calls 60
+    Chloe -> everyone: Inspection's back, Ava. Nothing has fallen yet, but the chain has a break: #33 at (11.63,20) and #36 at (13.06,20) are 1.44 apart, and the max is 0.9. Your branch at (13.06,17.3) and the dominoes at (
+    (Ava held a thought)
+    (Ben held a thought)
+    (Dev held a thought)
+[  234s] 5:45 asked Ava,Ben,Dev | dominoes 29 | calls 63
+    Ava -> everyone: Thanks, Chloe, good catch. I'm placing the bridge domino at (12.3,20) facing right to close the gap, restanding the upper section, and re-laying the (14,17) to (24.5,20) run. I'll call the last domino
+    (Ben held a thought)
+    (Dev held a thought)
+[  242s] 6:00 asked Ben,Chloe,Dev | dominoes 30 | calls 66
+    Chloe -> everyone: Thanks, Ava. I'm staying hands-off. Dev and Ben, please hold until she calls the last domino at (24.5,20). Once she does, Dev starts one gap past it, Ben builds the head, and I'll re-check the reach f
+[  250s] 6:15 asked Ben,Dev | dominoes 32 | calls 68
+[  255s] 6:30 asked Chloe | dominoes 33 | calls 69
+[  263s] 6:45 asked Ben,Dev | dominoes 35 | calls 71
+    Ben -> everyone: Holding, as agreed. Ava, call (24.5,20) once it's standing and I'll build the head from there. I'll aim for a wide skull with a slight jaw around x=50-58, y=17-23, and join it to Dev's last domino.
+[  273s] 7:00 asked Chloe,Dev | dominoes 36 | calls 73
+    Dev -> Ben: Ben, I'll finish my curves around x=45 on y≈20, facing right. Your first head domino should sit 0.2 to 0.9 ahead of my last one, within 0.35 sideways and facing within 40 degrees of my direction. I'll
+[  280s] 7:15 asked Ben | dominoes 38 | calls 74
+    Ben -> Dev: Got it, Dev. Post your last coordinates when your curves are down and I'll place the first head domino from there. I'm waiting on Ava's call before I build anything.
+[  287s] 7:30 asked Chloe,Dev | dominoes 39 | calls 76
+[  294s] 7:45 asked Ava,Ben | dominoes 40 | calls 78
+    Ava -> everyone: Still going: bridge and restand are on the board, and the second segment is about half laid. I'll inspect the chain from the start to (24.5,20) once the build finishes, then call the last domino. Ben 
+[  302s] 8:00 asked Ben,Chloe,Dev | dominoes 41 | calls 81
+    Dev -> everyone: Holding. Ava, call (24.5,20) when it's standing and I'll start one gap past it.
+[  308s] 8:15 asked Ben,Chloe | dominoes 43 | calls 83
+[  315s] 8:30 asked Dev | dominoes 44 | calls 84
+[  323s] 8:45 asked Ben,Chloe | dominoes 46 | calls 86
+    Chloe -> everyone: Still hands-off. Ava, I'm reading the bridge at (12.3,20) and the gap near (13,20) now. About 11 minutes left, so please call the last domino as soon as it's standing.
+[  330s] 9:00 asked Ben,Chloe,Dev | dominoes 47 | calls 89
+[  330s] 9:15 asked - | dominoes 49 | calls 89
+[  338s] 9:30 asked Ava,Ben,Chloe,Dev | dominoes 49 | calls 93
+    Ava -> everyone: Still going. Bridge and restand are up, about 10 left in the second segment. I'll inspect from the start to (24.5,20) once it's done, then call the last domino. Hold a bit longer, please.
+[  344s] 9:45 asked Ben,Chloe,Dev | dominoes 49 | calls 96
+    Chloe -> everyone: Thanks, Ava. Still holding. Ben and Dev, we wait for her call on (24.5,20). Ava, when it's standing, I'll inspect from the start to the tail's end before anyone builds the head.
+[  351s] 10:00 asked Ava,Ben,Dev | dominoes 49 | calls 99
+    Ava -> everyone: Still laying the tail, about 10 to go. Holding, thanks, I'll call (24.5,20) once it's standing.
+[  360s] 10:15 asked Ben,Chloe,Dev | dominoes 49 | calls 102
+    Chloe -> everyone: Still holding, Ben and Dev. Ava, how far along is the tail? We have 9.8 minutes left and need time to inspect and push. If the last domino isn't standing by about 7 minutes left, let's decide then whe
+[  369s] 10:30 asked Ava,Ben,Dev | dominoes 49 | calls 105
+    Ava -> everyone: Honest status: bridge and restand are up, and the tail from (14,17) to (24.5,20) is maybe 60 percent laid. I'll have (24.5,20) standing within about 4 minutes, so we're well before the 7-minute cutoff
+    (Ben held a thought)
+    (Dev held a thought)
+[  377s] 10:45 asked Ben,Chloe,Dev | dominoes 49 | calls 108
+    Ben -> everyone: Agree with Chloe's cutoff. If (24.5,20) isn't standing by about 7 minutes left, Dev starts a gap past it and I build the head from Dev's last posted coordinates. Ava, a quick count of what's left in t
+[  387s] 11:00 asked Ava,Chloe,Dev | dominoes 49 | calls 111
+    Chloe -> everyone: Agreed on the cutoff: if (24.5,20) isn't standing by 7 minutes left, Dev starts one gap past it. Ava, a quick count of tail dominoes left is enough. I'll inspect from the start through the tail once t
+    (Dev held a thought)
+    (Ava held a thought)
+[  397s] 11:15 asked Ava,Ben,Dev | dominoes 49 | calls 114
+    Dev -> everyone: Agreed. I'm holding until Ava calls (24.5,20) or we hit 7 minutes left, whichever comes first. One flag: the cutoff is under two minutes away and my curves take about six, so Ben's head will be tight 
+    (Ava held a thought)
+[  410s] 11:30 asked Ava,Ben,Chloe | dominoes 49 | calls 117
+    Chloe -> everyone: Ava, the map still shows an empty cell at (13,20) between the start run and the piece at x=14, and the tail past x=24 isn't visible yet. Can you give me a count of what's left and whether the (13,20) 
+[  450s] 11:45 asked Ava,Ben,Chloe,Dev | dominoes 49 | calls 121
+    Chloe -> everyone: Inspection's back. The start reaches 27 dominoes. The 22 it can't reach are the tail from #41 to #60 plus the stray at (13.06,17.3). #35 and #41 are 0.95 apart, past the 0.9 limit, and nothing links #
+    (Ava held a thought)
+    (Ben held a thought)
+[  460s] 12:00 asked Ava,Ben,Dev | dominoes 49 | calls 124
+    Ava -> everyone: Chloe, thanks, that's the inspection we needed. Honest count: I've laid through #60 at (24.11,19.95), so the tail is actually complete to x=24. The break is #35 to #41 at 0.95, and the (13,20) join is
+    (Ben held a thought)
+    (Dev held a thought)
+[  475s] 12:15 asked Ben,Chloe,Dev | dominoes 49 | calls 127
+    Chloe -> everyone: Thanks, Ava. I'm bridging #40 up to #35 now with the (13.5,17.15) domino at 345. Ben and Dev, hold off on the head until I post the bridge is standing. I'll call it when it's done.
+    (Dev held a thought)
+    (Ben held a thought)
+[  483s] 12:30 asked Ava,Ben,Dev | dominoes 51 | calls 130
+    Ben -> everyone: Backing Chloe's bridge from #40 to #35 and the join at about (13.5,17.15). Chloe, while you're in there, #33 to #36 is 1.4 apart, which is past the 0.9 limit, so that piece needs checking too. We're a
+    (Dev held a thought)
+[  498s] 12:45 asked Ava,Chloe,Dev | dominoes 51 | calls 133
+    Dev -> everyone: On it, Ben. Starting the gap now at about (24.9,19.95). Ava, I still need #60's exact angle before I face it, so I'm using 0 as a stand-in and will correct after you confirm. Chloe, #33 to #36 at 1.4 
+    (Chloe held a thought)
+    (Ava held a thought)
+[  509s] 13:00 asked Ava,Ben,Chloe | dominoes 52 | calls 136
+    Chloe -> everyone: Thanks, Dev. Laying the bridge from #40 up to #35 now, five dominoes ending at (13.5,17.15) facing 345. I'll call it when it's standing. Ben, Dev, hold the head. Dev, I'll take #33 to #36 after the br
+    (Ben held a thought)
+    (Ava held a thought)
+[  521s] 13:15 asked Ava,Ben,Dev | dominoes 53 | calls 139
+    Dev -> everyone: Gap domino is standing at (24.97,19.91), facing 359, which is provisional. Ava, what's #60's exact angle? I'll re-face the gap domino to match once you confirm. Chloe, the #33 to #36 fix is still with
+    (Ava held a thought)
+    (Ben held a thought)
+[  533s] 13:30 asked Ava,Ben,Chloe | dominoes 54 | calls 142
+    Ava -> everyone: Dev, #60 is at (24.11,19.95) facing 20, not 0. Use 20 for the gap domino past it. Ben, I'm keeping my hands off x 12-14 while Chloe bridges, and I won't touch #33-#36 unless one of you hands it to me.
+    (Chloe held a thought)
+[  546s] 13:45 asked Ben,Chloe,Dev | dominoes 54 | calls 145
+    Dev -> everyone: Ava, thanks, #60 at 20 is confirmed. My provisional gap at (24.97,19.91) is only about 0.79 ahead of #60, which is inside the 0.9 limit, so #60 would knock it and it wouldn't stop the chain. I'm lifti
+    (Chloe held a thought)
+    (Ben held a thought)
+[  556s] 14:00 asked Ava,Ben,Chloe,Dev | dominoes 55 | calls 149
+    Ben -> everyone: Thanks, Dev, that's the right fix. (25.00,20.27) facing 20 is my attachment point. I'm holding the head until Chloe confirms the bridge is standing, then I'll start with the skull arc.
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[  562s] 14:15 asked Ava,Chloe,Dev | dominoes 55 | calls 152
+    Chloe -> everyone: Thanks, Dev, the gap at (25.00,20.27) facing 20 matches #60, good catch. Ben, hold the head. I'm placing the last two bridge dominoes now, (13.45,17.9) at 274 and (13.5,17.15) at 345. I'll call the br
+    (Ava held a thought)
+[  577s] 14:30 asked Ava,Ben,Chloe,Dev | dominoes 55 | calls 156
+    Chloe -> everyone: Ben, Dev, still holding. My last two bridge dominoes bounced as too close to something, so I'm inspecting the x 12-14, y 16-19 area before I retry them. I'll post as soon as the bridge is standing.
+    (Ben held a thought)
+[  611s] 14:45 asked Ava,Ben,Chloe,Dev | dominoes 53 | calls 160
+    Chloe -> everyone: Ben, Dev, still holding. The bounces came from strays #65 and #66 at x 13.5, y 17.2 to 17.9. #66 faces 347, so it can't carry anything. I'm lifting both now, then I'll inspect and re-place the link. I
+    (Ben held a thought)
+[  628s] 15:00 asked Ava,Ben,Chloe,Dev | dominoes 53 | calls 164
+    Ben -> everyone: Chloe, Dev: I'm not going to sit idle. The head is about 11 units from the bridge, outside bump range, and we're nearly out of time. I'm starting the neck from the gap at (25.00,20.27) now with long s
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  638s] 15:15 asked Ava,Chloe,Dev | dominoes 55 | calls 167
+    Chloe -> everyone: Ben, the neck is fine to keep going, it's well outside bump range. I'm placing one short link into #35 from the lower-left at (12.6,17.45) facing 342, then I'll inspect #40 through it and call the bri
+    (Dev held a thought)
+    (Ava held a thought)
+[  647s] 15:30 asked Ava,Ben,Chloe,Dev | dominoes 56 | calls 171
+    Chloe -> everyone: Link #69 is down at (12.62,17.52) facing 345. Inspecting the bridge from #40 through #35 now. Ben, Dev, still holding the head until I call it.
+    (Ava held a thought)
+    (Ben held a thought)
+[  657s] 15:45 asked Ava,Ben,Chloe,Dev | dominoes 56 | calls 175
+    Dev -> everyone: Holding the head, Ben. Neck's fine, it's well clear of the bridge. Chloe, #33 to #36 is still unassigned. I'm inspecting x 11-16, y 16-21 now so I can give you the exact gap before the 2-minute cutoff
+[  674s] 16:00 asked Ava,Ben,Chloe,Dev | dominoes 56 | calls 179
+    Dev -> everyone: Chloe, before you spend a minute on #33 to #36: #40 is standing at (12.32,19.90), between them. #33 to #40 is 0.69 ahead, 0.10 to the side, angle 360 against 357. #40 to #36 is 0.74 ahead, 0.12 to the
+    (Chloe held a thought)
+    (Ben held a thought)
+[  692s] 16:15 asked Ava,Ben,Chloe | dominoes 57 | calls 182
+    Chloe -> everyone: Dev, your #33 to #40 to #36 numbers match mine. I'm inspecting 11 to 14, 19 to 21 now to confirm #40 reaches #36, and if it does I'll drop #33 to #36 from my list. Open problem: #35 to #41 is 0.95, pa
+    (Ben held a thought)
+    (Ava held a thought)
+[  703s] 16:30 asked Ava,Ben,Chloe,Dev | dominoes 58 | calls 186
+    Chloe -> everyone: Ava, Dev, Ben: I'm placing the middle domino for #35 to #41 now at (13.5,17.13) facing 340. It's about 0.47 from #35 and 0.48 from #41, both inside the knock range. I'll post the inspect numbers as so
+    (Ben held a thought)
+    (Ava held a thought)
+[  711s] 16:45 asked Ava,Ben,Dev | dominoes 60 | calls 189
+    Ava -> everyone: Dev, agreed: #40 at 0.69 and 0.74 ahead covers #33 to #36. Chloe, if your inspect confirms #40 reaches #36, we drop that fix. I'm staying off x 12-14, y 16-21. Ben, the neck is clear, so keep going.
+    (Ben held a thought)
+[  722s] 17:00 asked Ben,Chloe,Dev | dominoes 61 | calls 192
+    Chloe -> everyone: Ava, Dev, Ben: middle domino for #35 to #41 is down at (13.5,17.13) facing 340. Inspecting 12 to 15, 16 to 19 now to confirm the link. I'll call the bridge as soon as the numbers are in.
+    (Dev held a thought)
+    (Ben held a thought)
+[  733s] 17:15 asked Ava,Ben,Chloe,Dev | dominoes 63 | calls 196
+    Chloe -> everyone: Ben, Dev, I'm not calling the bridge yet. The inspect shows #35, the middle domino and #41 are in range and nothing stray falls, but the start can't reach any of them. I'm checking the path from the s
+    (Ava held a thought)
+    (Dev held a thought)
+[  746s] 17:30 asked Ava,Ben,Chloe,Dev | dominoes 64 | calls 200
+    Chloe -> everyone: Ben, Dev, Ava: I'm checking the start-to-#40 run now. If #33 to #40 holds from the start, the bridge doesn't matter for that stretch. Dev, please confirm the (13,20) join is closed and don't touch it.
+    (Dev held a thought)
+    (Ben held a thought)
+    (Ava held a thought)
+[  761s] 17:45 asked Ava,Ben,Chloe,Dev | dominoes 66 | calls 204
+    Chloe -> everyone: Ava, Dev, Ben: the inspect is back. Nothing's knocked over, and the one standing domino the start can't reach is off the y≈20 run, so it doesn't matter for the push. I'm calling the chain from the sta
+    (Dev held a thought)
+    (Ava held a thought)
+    (Ben held a thought)
+[  771s] 18:00 asked Ava,Ben,Dev | dominoes 67 | calls 207
+    Ben -> everyone: Agreed, Chloe. Bridge and head are out, and the chain runs start, #33, #40, #36. I'm finishing the neck from (25,20.27) now and won't touch the start run or x 12-14.
+    (Ava held a thought)
+    (Dev held a thought)
+[  778s] 18:15 asked Ava,Chloe,Dev | dominoes 68 | calls 210
+    Dev -> everyone: Confirmed, Chloe. The (13,20) join is closed: #36 to #37 is 0.51 ahead, 0.01 to the side, 5 degrees apart. #37 is a dead-end tail with nothing ahead, so it doesn't affect the push. I'm not touching an
+    (Chloe held a thought)
+[  785s] 18:30 asked Ava,Ben,Chloe | dominoes 70 | calls 213
+    Chloe -> everyone: Thanks, Dev, that's confirmed. Plan is set: start run through #33, #40, #36 stays as is, bridge and #35/#41 are dropped. Ben, finish the neck from (25.00,20.27) and stay clear of x 12-14. Dev, keep th
+    (Ben held a thought)
+[  795s] 18:45 asked Ava,Ben,Dev | dominoes 70 | calls 216
+    Ben -> everyone: Chloe, Dev: neck's down to #84 at (32.71,19.21), so I'm done and stopping here. I'm not touching the start run or x 12-14. Good luck with the push.
+    (Ava held a thought)
+[  802s] 19:00 asked Ava,Chloe,Dev | dominoes 70 | calls 219
+    Chloe -> everyone: Thanks, Ben, that's the neck done. Dev, Ben, Ava: plan holds. Start run through #33, #40, #36 stays untouched, and I'm not building anything else. We push at about 0:30 with what's connected. Hands of
+    (Ava held a thought)
+    (Dev held a thought)
+[  810s] 19:15 asked Ava,Ben,Dev | dominoes 70 | calls 222
+[  815s] 19:30 asked Chloe | dominoes 70 | calls 223
+[  823s] 19:45 asked Ava,Ben,Dev | dominoes 70 | calls 226
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 846.2,
+  "intents": {
+    "Ava": "giraffe",
+    "Ben": "giraffe",
+    "Chloe": "swan",
+    "Dev": "giraffe (unconfirmed)"
+  },
+  "team_intent": "giraffe",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "short horizontal line with a jagged bolt at the right end",
+      "hand-drawn stroke or crack on a blank background",
+      "single fallen domino or bar seen from above"
+    ],
+    [
+      "a short horizontal line with a zigzag mark at its right end",
+      "a single fallen domino seen edge-on",
+      "a pen stroke or underline with a small arrow or bolt"
+    ],
+    [
+      "fallen dominoes lying in a row",
+      "a horizontal line with a zigzag mark at one end",
+      "a small left-pointing arrow"
+    ]
+  ],
+  "placed": 70,
+  "fell": 30,
+  "completion": 0.429,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 67,
+  "messages_by_speaker": {
+    "Chloe": 28,
+    "Ben": 13,
+    "Ava": 14,
+    "Dev": 12
+  },
+  "held_thoughts": 89,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 236,
+    "failed": 0,
+    "input_tokens": 478,
+    "cache_creation_tokens": 1018207,
+    "cache_read_tokens": 365786,
+    "output_tokens": 243618,
+    "seconds": 1912.7,
+    "api_equivalent_usd": 0.3292
+  }
+}
