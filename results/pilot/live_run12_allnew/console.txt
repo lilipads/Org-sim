@@ -108,3 +108,260 @@
     (Omar held a thought)
     (Jack held a thought)
     (Hana held a thought)
+[  389s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 106 | calls 85
+    Hana -> everyone: Bottom corner of the tail is in. I'm running it across to Jack's belly end now, so please stay off that stretch. I'll shout when the lip is joined. Then, are we sure it reaches the eye? Omar, could yo
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  398s] 8:00 asked Sofia,Omar,Jack | dominoes 107 | calls 88
+    Jack -> everyone: All yours, Hana, I'll keep clear of the lip. Omar, once she's joined it, give the whole chain one last look from the start, okay?
+    (Omar held a thought)
+    (Sofia held a thought)
+[  409s] 8:15 asked Sofia,Omar,Hana | dominoes 109 | calls 91
+    Sofia -> everyone: Hana, great, I'll stay off the lip. Omar, there are a few pale dominoes by the eye and brow that aren't catching. Are those yours, part of the eye? If not, I'll clear them so they don't confuse the ju
+    (Omar held a thought)
+[  421s] 8:30 asked Omar,Hana,Jack | dominoes 110 | calls 94
+    Omar -> everyone: Sofia, those pale ones by the brow aren't on purpose, just leftovers from my wonky bridge. Clear away, the fish doesn't need a unibrow! Hana, shout when the lip's joined and I'll do the full nose-to-t
+    (Jack held a thought)
+    (Hana held a thought)
+[  430s] 8:45 asked Sofia,Hana,Jack | dominoes 109 | calls 97
+    Hana -> everyone: Thanks, Omar. Clearing the strays is fine, Sofia, as long as the dark lines stay put. Are we sure none of them feed the eye? I'm still on the lip, about ten to go, so please stay off that stretch. I'l
+    (Sofia held a thought)
+    (Jack held a thought)
+[  439s] 9:00 asked Sofia,Omar,Jack | dominoes 110 | calls 100
+    Omar -> everyone: Hana, good question, and no: the pale ones by the brow are just leftovers, the real eye bridge is dark and plugged into the top line, so Sofia can clear them safely. I'm keeping my elbows off the lip.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  451s] 9:15 asked Sofia,Hana,Jack | dominoes 110 | calls 103
+    Sofia -> everyone: Thanks Omar, that settles it. Hana, I only took the pale leftovers on the left, nothing dark. I'm clearing the two little strays by the tail joint now, and I'll stay off the lip. Shout when it's joine
+[  462s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 111 | calls 107
+    Hana -> everyone: Thanks, Sofia. Just checking, are we sure those two were strays and not the link between the top edge and the tail? Could you look once more to confirm the tail's still dark? I'm about six from joinin
+    (Omar held a thought)
+    (Sofia held a thought)
+[  474s] 9:45 asked Sofia,Omar,Jack | dominoes 112 | calls 110
+    Jack -> everyone: Good call, Hana. I'm free, so I'll take a close look at the tail joint and the end of my belly line right now. Staying off the lip.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  490s] 10:00 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 114
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Hana, yes, I looked again. The tail's still dark and the start reaches it, so those two were just strays, not the link. I'm leaving the pale ones by the brow alone and staying off the lip. Shout when 
+    (Jack held a thought)
+[  500s] 10:15 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 118
+    Hana -> everyone: Thanks, Sofia. Two more dominoes and the lip should be joined. I'll shout the moment it is, then Omar, the full nose-to-tail check is yours.
+    (Omar held a thought)
+[  508s] 10:30 asked Sofia,Omar,Jack | dominoes 115 | calls 121
+    Omar -> everyone: Copy that, Hana! Fish detective is on standby with a magnifying glass and zero elbows near the lip. Shout the second it's joined and I'll run nose to tail!
+    (Sofia held a thought)
+    (Jack held a thought)
+[  516s] 10:45 asked Sofia,Hana,Jack | dominoes 115 | calls 124
+    Hana -> everyone: Lip is in. One domino wouldn't fit right at the join with the belly end, so I'm looking at that spot now. Omar, go ahead with the nose-to-tail check. Are we sure the lip catches the belly line? Please
+    (Jack held a thought)
+    (Sofia held a thought)
+[  527s] 11:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 128
+    Omar -> everyone: On it, Hana! Magnifying glass out, I'll keep my elbows off that corner and check the whole chain from the nose.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  537s] 11:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 132
+    Omar -> everyone: Fish detective report: the push from the nose reaches about 112 of the 115 standing dominoes, which is the whole fish, tail and lip included! The only ones not catching are the three pale brow leftove
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  544s] 11:30 asked Sofia,Hana,Jack | dominoes 115 | calls 135
+    Jack -> everyone: Nice work, Hana, and good check, Omar. Trace matches what I see, so I'm hands off now. Let's not bump anything for the last few minutes.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  550s] 11:45 asked Sofia,Omar,Hana | dominoes 115 | calls 138
+    Hana -> everyone: Thanks, Omar, that matches what I saw: the lip catches, and only the three pale brow leftovers stay standing. Agreed, hands off now so nobody bumps anything. If anyone sees a domino down, shout before
+    (Sofia held a thought)
+    (Omar held a thought)
+[  557s] 12:00 asked Sofia,Omar,Jack | dominoes 115 | calls 141
+    Omar -> everyone: Hands off, team! Fish is done, I'm sitting on my hands. If it's not a fish, it's a very committed whale.
+    (Sofia held a thought)
+[  562s] 12:15 asked Sofia,Hana,Jack | dominoes 115 | calls 144
+    Jack -> everyone: Ha, committed whale. Looks like a fish to me, Omar. Sitting on my hands too, nice work everyone.
+    (Sofia held a thought)
+[  568s] 12:30 asked Sofia,Omar,Hana | dominoes 115 | calls 147
+    Omar -> everyone: Okay, fish is finished. Now we wait for the big push, fingers crossed, no sneezing near the table!
+    Hana -> everyone: Committed whale is still a mammal, so I'd say we're covered either way. Hands off, everyone.
+    (Sofia held a thought)
+[  574s] 12:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 151
+    Sofia -> everyone: Whale or fish, it's ours! My look agrees: everything's dark from the start except the pale brow leftovers we're ignoring. Hands off and nobody lean on the table until the push.
+[  580s] 13:00 asked Omar,Hana,Jack | dominoes 115 | calls 154
+    Omar -> everyone: Sitting on my hands, Sofia. If the judge says whale, I'm calling it a very ambitious fish. Nobody sneeze!
+    Hana -> everyone: Agreed, Sofia. Hands off, and if anything gets bumped, shout before touching it. Fingers crossed.
+[  586s] 13:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 158
+    Omar -> everyone: Still sitting on my hands. Big push incoming, everybody breathe through your noses, no sneezing, no dramatic gestures!
+[  591s] 13:30 asked Sofia,Hana,Jack | dominoes 115 | calls 161
+    Jack -> everyone: Not a sneeze in sight. Good work, team.
+    Sofia -> everyone: Breathing through my nose, hands firmly off. Good work, team.
+    Hana -> everyone: Breathing through my nose, hands in my lap. Whale, fish, or very ambitious fish, we're ready.
+[  597s] 13:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 165
+    Omar -> everyone: Okay, nothing left but the push. Fish, don't let me down!
+[  603s] 14:00 asked Sofia,Hana,Jack | dominoes 115 | calls 168
+    Sofia -> everyone: Fingers crossed, Omar. Go little fish!
+    Jack -> everyone: Fingers crossed, Omar. Fish's got this. Hands off, nobody sneeze!
+    Hana -> everyone: Fingers crossed. If the judge says whale, I'm claiming we were hedging. Hands in my lap.
+[  610s] 14:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 172
+    Omar -> everyone: Hands still in my lap, team. Facilitator, whenever you're ready, release the fish!
+[  616s] 14:30 asked Sofia,Hana,Jack | dominoes 115 | calls 175
+    Jack -> everyone: Hands still in my lap too. Release the fish!
+    Hana -> everyone: Hands in my lap, Omar. Whatever the judge says, we've got the paperwork showing it was a fish.
+    Sofia -> everyone: Release the fish! Hands in my lap, everyone.
+[  622s] 14:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 179
+    Omar -> everyone: Fish is locked and loaded. Whatever happens, I'm taking credit for the fins.
+[  629s] 15:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 183
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Five minutes, team! Hands in laps, fish is ready. If anyone's sneeze is loading, turn your head away from the table!
+    Hana -> everyone: Five minutes. Hands in my lap, and if anything gets bumped, shout before touching it.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  635s] 15:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 187
+    Jack -> everyone: Five minutes, all good. Hands off, let the fish swim.
+    Sofia -> everyone: Five minutes to go and everything's still standing. Just keep clear of the table and let the fish do its thing.
+    (Omar held a thought)
+    (Hana held a thought)
+[  642s] 15:30 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 191
+    Omar -> everyone: Hands glued to my lap. Fish, you magnificent weirdo, do us proud!
+    Hana -> everyone: Five minutes noted. Nothing left to do but wait for the push.
+[  648s] 15:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 195
+    Omar -> everyone: Four minutes of pure restraint. I'm basically a statue with opinions. Go, fish, go!
+[  654s] 16:00 asked Sofia,Hana,Jack | dominoes 115 | calls 198
+    Hana -> everyone: Four minutes of restraint, Omar. Statue with opinions is a good legal posture. Hands in lap.
+    Sofia -> everyone: Right there with you, Omar. Statue mode on, hands in my lap.
+    Jack -> everyone: Statue mode here too, Omar. Fish is ready, let it swim.
+[  660s] 16:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 202
+    Omar -> everyone: Three and a half minutes left. Statue with opinions, reporting for duty. Whale, fish, whatever, I love it.
+[  667s] 16:30 asked Sofia,Hana,Jack | dominoes 115 | calls 205
+    Hana -> everyone: Statue with opinions, seconded. Three and a half minutes, hands in lap.
+    Sofia -> everyone: Statue mode holding, Omar. Three minutes and the fish swims!
+[  673s] 16:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 209
+    Omar -> everyone: Three minutes of statue mode. If the fish wins, I'm taking the fins and the speech!
+    Hana -> everyone: Hands in lap, and nothing's moved. Ready when the facilitator is.
+[  680s] 17:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 213
+    Omar -> everyone: Two and a half minutes, statue mode holding. Fish, make us proud, and if the judge says whale, I'm calling it a very ambitious fish!
+    Jack -> everyone: Three minutes, all dark from the start. Hands off, let the fish swim.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  687s] 17:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 217
+    Sofia -> everyone: Still all standing from where I'm sitting. Hands in lap, let the fish swim!
+    Omar -> everyone: Two and a half minutes, still a statue. Fish, do your thing!
+    (Hana held a thought)
+    (Jack held a thought)
+[  693s] 17:30 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 221
+    Omar -> everyone: Two minutes and change. Fish, if you're listening: look fishy, be a fish. Statue Omar out.
+    Hana -> everyone: Still all standing, hands in lap. Two and a half minutes, then it's the fish's problem.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  699s] 17:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 225
+    Jack -> everyone: Two and a half, Omar, my bad on the count earlier. Hands off, fish is ready.
+    Sofia -> everyone: Two minutes to go, all still standing. Good work, everyone, now we just wait.
+    Hana -> everyone: Two minutes. Nothing's moved, so I'll stay a statue too.
+    (Omar held a thought)
+[  705s] 18:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 229
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Two minutes, statue Omar is staying a statue. Go, fish!
+    Hana -> everyone: Two minutes. Everything's still connected, so I'm staying a statue. Good work, all.
+    Sofia -> everyone: Two minutes, everyone. It all looks good from here, so hands off and let it go.
+[  711s] 18:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 233
+    Omar -> everyone: Statue Omar, still frozen. Fish, it's your moment!
+    Jack -> everyone: Two minutes, all still connected. Hands off, let the fish swim.
+[  718s] 18:30 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 237
+    Omar -> everyone: Ninety seconds, team. Statue Omar is holding. Go fish, go!
+    Sofia -> everyone: Ninety seconds, everyone. Hands in laps, and good luck, fish!
+    Jack -> everyone: Ninety seconds. All connected, hands off. Nice work, everyone, great job on the fish.
+[  725s] 18:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 241
+    Sofia -> everyone: Just over a minute, everyone. Great teamwork, thank you all. Hands off and let it fall!
+    Omar -> everyone: One minute, team. Statue Omar is now a statue with a lump in his throat. Fish, make us proud!
+    (Hana held a thought)
+[  730s] 19:00 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 245
+    Sofia -> everyone: Thanks, all. Hands off and let it fall. Go fish!
+    Omar -> everyone: Sixty seconds, team. Statue Omar is staying a statue. Fish, don't let me down!
+    Jack -> everyone: One minute. All connected, hands off. Great work, everyone. Let the fish swim!
+    (Hana held a thought)
+[  736s] 19:15 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 249
+    Hana -> everyone: One minute. Everything's still connected, so I'm leaving it alone. Good work, all.
+    Omar -> everyone: Statue Omar is signing off. Fins, don't fail me now!
+    Jack -> everyone: Almost there. Hands off, go fish!
+[  742s] 19:30 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 253
+    Hana -> everyone: Thirty seconds. All connected, hands off. Good work, everyone.
+    Omar -> everyone: Thirty seconds! Statue Omar says: swim, you glorious weirdo!
+    Jack -> everyone: Thirty seconds. Go fish!
+[  748s] 19:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 257
+    Omar -> everyone: Fins crossed, everybody. Well, fins and fingers. Go fish!
+    Jack -> everyone: Hands off, everyone. Good work, great fish. Go!
+    Sofia -> everyone: Here we go, everyone. Great work, go fish!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 808.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a tail on the left",
+      "bird or duck in profile",
+      "bag or purse with a loop handle"
+    ],
+    [
+      "fish swimming sideways",
+      "bird in flight",
+      "chain of fallen dominoes"
+    ],
+    [
+      "fish with a long tail",
+      "bird in flight",
+      "abstract loop doodle"
+    ]
+  ],
+  "placed": 115,
+  "fell": 112,
+  "completion": 0.974,
+  "team_score": 0.974,
+  "first_domino_at": "0:00",
+  "messages": 121,
+  "messages_by_speaker": {
+    "Omar": 42,
+    "Hana": 27,
+    "Sofia": 27,
+    "Jack": 21,
+    "Facilitator": 4
+  },
+  "held_thoughts": 92,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 274,
+    "failed": 0,
+    "input_tokens": 560,
+    "cache_creation_tokens": 1422380,
+    "cache_read_tokens": 774331,
+    "output_tokens": 118871,
+    "seconds": 1979.2,
+    "api_equivalent_usd": 6.8059
+  }
+}

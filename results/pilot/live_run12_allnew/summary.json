@@ -1,0 +1,74 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 808.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a tail on the left",
+      "bird or duck in profile",
+      "bag or purse with a loop handle"
+    ],
+    [
+      "fish swimming sideways",
+      "bird in flight",
+      "chain of fallen dominoes"
+    ],
+    [
+      "fish with a long tail",
+      "bird in flight",
+      "abstract loop doodle"
+    ]
+  ],
+  "placed": 115,
+  "fell": 112,
+  "completion": 0.974,
+  "team_score": 0.974,
+  "first_domino_at": "0:00",
+  "messages": 121,
+  "messages_by_speaker": {
+    "Omar": 42,
+    "Hana": 27,
+    "Sofia": 27,
+    "Jack": 21,
+    "Facilitator": 4
+  },
+  "held_thoughts": 92,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 274,
+    "failed": 0,
+    "input_tokens": 560,
+    "cache_creation_tokens": 1422380,
+    "cache_read_tokens": 774331,
+    "output_tokens": 118871,
+    "seconds": 1979.2,
+    "api_equivalent_usd": 6.8059
+  }
+}

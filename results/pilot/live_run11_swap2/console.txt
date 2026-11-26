@@ -89,3 +89,44 @@
 [  290s] 6:45 asked Sam,Leo | dominoes 101 | calls 75
 [  296s] 7:00 asked Leo | dominoes 106 | calls 76
     Leo -> everyone: Looking at the split again to see if Sam's line falls now.
+[  602s] 7:15 asked Maya,Grace,Sam,Leo | dominoes 104 | calls 81
+    Maya -> Sam: Top line's at the nose now. Sam, how close are you? I'm going to take a look at the join.
+    Sam -> Leo: Thanks Leo. I'm almost done on the bottom, then I'll curve it up to meet Maya at the nose.
+    Leo -> everyone: Still pale after the nudges, so I'm clearing the messy few at the split and relaying that bit cleanly. Sam, keep going.
+    (Grace held a thought)
+[  615s] 7:30 asked Maya,Sam,Leo | dominoes 110 | calls 84
+    Sam -> Leo,Maya: Thanks Leo, no problem on those. I've got just a few left on the bottom, then I'll curve it up to Maya's nose and check it from the split on.
+    Maya -> everyone: Sam, I'm closing the last bit of the nose from the top down, so you can stop short of it. Leo, once the split is fixed, the whole bottom should fall.
+    (Leo held a thought)
+[  622s] 7:45 asked Maya,Sam,Leo | dominoes 114 | calls 87
+    Leo -> everyone: Cleared the messy bit at the split. I'm laying one clean join from Sam's line up into Grace's now. Sam, keep going, I'll check what falls after.
+[  629s] 8:00 asked Grace,Sam | dominoes 119 | calls 89
+    Sam -> Leo: Thanks Leo, I'm finishing my last couple on the bottom, then I'll check the nose join.
+[  635s] 8:15 asked Maya,Leo | dominoes 123 | calls 91
+    Maya -> everyone: Nose is closed from the top, Sam. I'm going to look at the join where our lines meet.
+[  646s] 8:30 asked Maya,Sam | dominoes 124 | calls 93
+    Sam -> Maya,Leo: Bottom's done, Maya. I'm looking at the nose join now, and I'll tell you if my end overshoots.
+    Maya -> everyone: Found a wobbly one right at the nose, one domino sitting off to the side. I'm nudging it into line now. Leo, how's the split looking, does Sam's bottom line fall yet?
+[  658s] 8:45 asked Maya,Grace,Sam,Leo | dominoes 124 | calls 97
+    Maya -> Sam,Leo: Sam, thanks. I'm just finishing this last bridge at the nose, then I'll look at what falls.
+    Sam -> Maya,Leo: Maya, my end ran a bit past the nose, so I'm pulling those last couple back. Leo, shout if the bottom still doesn't fall after your fix and I'll help at the split.
+    Grace -> everyone: Bridge is done. I'm inspecting the whole run now to see what falls. Leo, shout the second the split holds. Once it does, I'll add the eye.
+    (Leo held a thought)
+[  672s] 9:00 asked Maya,Grace,Sam,Leo | dominoes 125 | calls 101
+    Maya -> Sam,Leo: Thanks Sam, that helps. I'll finish this last bit at the nose and then look at what falls.
+    Sam -> Leo,Maya: Leo, the bottom's still pale from here. I'm going to inspect the right end of it and see where it actually breaks.
+    Leo -> Maya,Grace,Sam: Not yet, Maya. Sam's bottom line is still pale. I'm still laying the join from its end up into Grace's line. I'll inspect once it's down.
+    Grace -> everyone: Leo, that split has eaten too long. I'm laying one clean branch from the loose domino down into the bottom line now. Stay off it and go check the nose join with Maya.
+[  688s] 9:15 asked Maya,Grace,Sam,Leo | dominoes 127 | calls 105
+    Sam -> everyone: Grace, okay, I'm staying off the split. From my look, the bottom line itself seems fine. It's just the stretch right where it meets the split that's pale. There's also a jammed little cluster in the m
+    (Leo held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+[  695s] 9:30 asked Grace,Leo | dominoes 129 | calls 107
+    Leo -> everyone: Grace, it's yours, I'm off the split. Sam, that cluster in the middle isn't a new thing from me, it's probably leftovers from my cleared bit. Go ahead and clear it, as long as it isn't touching the bo
+    (Grace held a thought)
+[  706s] 9:45 asked Maya,Grace,Sam,Leo | dominoes 129 | calls 111
+    Leo -> Maya: Maya, I looked at the nose. One domino sits off to the side right where the top line comes down, and there's a loose end just past it facing up-left. Is that the bridge you're finishing? If so I'll st
+    Grace -> everyone: Sam, yes, stay off the split, my branch is down. Clear that leftover cluster in the middle. Leo, go help Maya at the nose. I'm inspecting what falls now.
+    (Sam held a thought)
+    (Maya held a thought)
