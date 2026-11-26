@@ -1,0 +1,274 @@
+[   23s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Ooh, the pad's right here! How about a fish? A body outline with a forked tail and a dorsal fin should read clearly from the fall. I'm sketching it now, so shout if you want something different.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[   34s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Jack -> everyone: Love the fish, Sofia, forked tail and dorsal fin should read well. Omar, you've got the pad, could you pass it over so Sofia can draw it? Once it's on paper I'll take the tail fins, they're fiddly. Le
+    (Omar held a thought)
+    (Hana held a thought)
+[   44s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 10
+    Sofia -> everyone: Thanks Jack! Omar, could you pass me the pad? I'll sketch the fish body with a forked tail and a dorsal fin, facing right, and keep the nose curve gentle like you said.
+    (Omar held a thought)
+    (Hana held a thought)
+[   55s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 14
+    Jack -> Omar: Omar, pass the pad over to Sofia, please! Once the fish outline is on there, I'll grab the tail fins. They're fiddly, but I'm on it.
+    Hana -> everyone: Fish works for me. Tail on the left is the start, everything falls to the right toward the nose. Once the outline's drawn I'll trace the body from the tail.
+    (Sofia held a thought)
+    (Omar held a thought)
+[   68s] 1:00 asked Sofia,Omar,Hana,Jack | dominoes 7 | calls 18
+    Jack -> Sofia: Sofia, you've got the body and the dorsal fin down, lovely. Could you add the forked tail at the start end before you hand the pad on? I'll trace the fins once they're drawn, and Hana can take the bod
+    Omar -> everyone: Sure, Sofia, it's yours. Draw it up. I'd sketched a fish too, nose on the left, but yours is the one that counts. Once it's on paper I'll trace the body from the nose end.
+    (Sofia held a thought)
+    (Hana held a thought)
+[   76s] 1:15 asked Sofia,Hana,Jack | dominoes 11 | calls 21
+    Sofia -> everyone: Thanks Omar! I'm laying the body now: from the top of the tail, along the top to the nose, then back along the bottom. Jack, the forked tail's yours once the body's down, and I'll do the dorsal fin af
+    (Hana held a thought)
+    (Jack held a thought)
+[   83s] 1:30 asked Omar,Hana,Jack | dominoes 13 | calls 24
+    Jack -> everyone: Thanks, Omar, that's generous of you. Sofia, once the body's down, could you add the forked tail at the tail end before you pass the pad on? As soon as it's on paper I'll take the fins. Hana, the body
+    (Hana held a thought)
+    (Omar held a thought)
+[   92s] 1:45 asked Sofia,Omar,Hana | dominoes 20 | calls 27
+    Omar -> everyone: Sofia's got the pad, so I'll wait until she's done. Hana, you take the belly, stroke two, once the top's down. That way we're not both tracing stroke one.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  101s] 2:00 asked Sofia,Hana,Jack | dominoes 28 | calls 30
+    Hana -> everyone: Sounds good, Omar. Sofia, once the outline's down I'll take the belly as stroke two, starting from the tail once the top line is standing. I won't place anything until your sketch is finished.
+    (Sofia held a thought)
+[  109s] 2:15 asked Sofia,Omar,Jack | dominoes 36 | calls 33
+    Jack -> everyone: Sounds good, Hana. Sofia, once the forked tail's on at the back end, I'll take the fins right after. I'm keeping my hands off the table until the sketch is done.
+    (Sofia held a thought)
+[  129s] 2:30 asked Sofia,Omar,Hana | dominoes 40 | calls 36
+    Sofia -> everyone: Got it. Hana, you take the belly as stroke two from the tail once the top's standing. I'm finishing the top and nose, then the dorsal fin. Jack, I've put the forked tail on the pad as stroke four. It'
+[  142s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 40
+    Sofia -> Hana: Hana, the belly isn't on the pad yet. I'll sketch it once the nose is down, so you're not waiting on nothing.
+    Jack -> everyone: Thanks, Sofia! I can't see the fork on the pad yet, so I'll wait for it to show up. Once it's there I'll trace it from the back end of the body. Keeping the nose gentle.
+    (Hana held a thought)
+    (Omar held a thought)
+[  157s] 3:00 asked Sofia,Omar,Hana | dominoes 40 | calls 43
+    Hana -> Sofia: Got it, Sofia, thanks. I'll wait for the belly on the pad, then trace it from the tail as stroke two. The low line already on the table starts too far from the tail, so I'll redo it from there. Shout 
+    Sofia -> everyone: Jack, sorry, the fork isn't on the pad. I said it was, but it wasn't. I'm drawing it now as stroke four, plus the belly as stroke two so Hana has it. Then the pad's yours.
+    (Omar held a thought)
+[  171s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 47
+    Sofia -> everyone: Sorry, Jack, I said the fork was on the pad when it wasn't. I'm drawing the belly as stroke two for Hana and the forked tail as stroke four now. Once that's down I'll pass the pad to you.
+    (Jack held a thought)
+    (Omar held a thought)
+[  180s] 3:30 asked Omar,Hana,Jack | dominoes 40 | calls 50
+    Jack -> everyone: No worries, Sofia, take your time. I'll wait for the fork to show up on the pad, then trace it from the back end. I'll have a look at the start end meanwhile.
+[  191s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 54
+    Hana -> Sofia: Sofia, no rush, but the belly isn't on the pad yet. We've got about six minutes, so once it's down I'll trace it from the tail straight away.
+    Sofia -> everyone: Jack, the fork's on the pad now as stroke four. It's all yours: trace it from the back end. I'm finishing the top and nose, and I'll take the dorsal fin after that.
+    (Jack held a thought)
+[  207s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 58
+    Sofia -> Hana,Jack: Hana, you're right, sorry. The belly isn't on the pad. Jack, could you pass the pad back to me for a moment? I'll sketch the belly as stroke two and hand it straight back so Hana can trace it from the
+    Hana -> everyone: Jack, Sofia, the belly still isn't on the pad and we've got about six minutes. Jack, could you pass me the pad? I'll sketch the belly from the tail to the nose as stroke two and trace it straight away
+    (Jack held a thought)
+    (Omar held a thought)
+[  219s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 43 | calls 62
+    Sofia -> Hana,Jack: Hana, you asked first, so take the pad and sketch the belly from the tail as stroke two. Jack, could you pass it to her? I'll tidy up the nose by hand while she draws.
+    Hana -> everyone: Jack, could you pass me the pad? I'll draw the belly from the tail to the nose now and trace it straight after. Sofia, if you're already mid-sketch on the dorsal fin, finish that and let me take the b
+    (Omar held a thought)
+    (Jack held a thought)
+[  231s] 4:30 asked Sofia,Hana,Jack | dominoes 44 | calls 65
+    Hana -> everyone: Got the pad, thanks Jack. I'm drawing the belly now as stroke two, from the tail along the bottom to the nose. I'll trace it as soon as it's down.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  242s] 4:45 asked Sofia,Omar,Jack | dominoes 44 | calls 68
+    Omar -> Hana: Hana, the dorsal fin's already down as stroke three, so the belly's all yours. I'm keeping my hands off the pad.
+    Jack -> everyone: Sounds good, Hana. Belly from the tail as stroke two, then trace it. Once the pad's free I'll sketch the fork at the tail end and trace it from the back end. Quick, but I'll be careful with the joints
+    (Sofia held a thought)
+[  252s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 72
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> Hana,Jack: Hana, I'm not touching the pad. The belly's tail end looks loose to me, so I'll check that joint while you draw and Jack does the fork.
+    Hana -> everyone: Belly's on the pad as stroke two. I'm tracing it from the tail now, and the pad goes to Jack once it's down.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  264s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 76
+    Jack -> Hana,Omar: Thanks, Omar, good call on that tail joint. Hana, once the belly's traced, could I have the pad for a minute? I'll sketch the fork at the tail end and trace it straight after.
+    Hana -> everyone: Belly's on the pad as stroke two. I'm tracing it from the tail now, and the pad goes to Jack as soon as it's down.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  281s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 80
+    Sofia -> Hana,Jack: Hana, go ahead with the belly from the tail, I'm closing the nose gap by hand. Jack, the fork's meant to be on the pad as stroke four, so please check it's there before you trace. The dorsal fin comes
+    Hana -> everyone: Correction from me: the belly isn't on the pad as stroke two. I said it was, but the build sees nothing to trace. I'm drawing it now from the tail, along the bottom to the nose, then I'll trace it str
+    (Omar held a thought)
+    (Jack held a thought)
+[  292s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 84
+    Omar -> Hana: Hana, when you trace the belly, start it from the part of the top line that's already standing, not off the open end back here. I'll keep an eye on that joint.
+    Hana -> everyone: Drawing the belly now as stroke two, from the tail along the bottom to the nose. I'll trace it as soon as it's on the pad, then pass the pad to Jack for the fork.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  302s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 88
+    Hana -> everyone: Belly's on the pad as stroke two. Tracing it from the tail now. Jack, the pad's yours for the fork.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  311s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 92
+    Sofia -> Jack: Jack, could you pass me the pad for a moment? The fork still isn't on it. I'll draw it as stroke four from the back end of the body and hand it straight back to you.
+    Omar -> Hana: Hana, when you trace the belly, start it from the top line where it's already standing by the tail, not from the open end back at the bottom-left. Shout if the joint looks off and I'll check it.
+    Hana -> everyone: Tracing the belly now from the tail. Jack, the pad's yours for the fork.
+    (Jack held a thought)
+[  331s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 96
+    Sofia -> Jack,Hana: Jack, could you pass me the pad when Hana's clear? I'll draw the fork as stroke four and hand it straight back. Meanwhile I'm tracing the dorsal fin off the top.
+    Omar -> Hana: Hana, I'm checking the tail joint while you trace. Shout if it looks off.
+    Jack -> everyone: Sofia, I've got the pad right now, so I'll sketch the fork myself and trace it straight away. Saves passing it about. You stay on the nose and dorsal fin, Hana carry on with the belly. I'll keep the j
+    (Hana held a thought)
+[  344s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 42 | calls 100
+    Sofia -> Jack: Go for it, Jack. You take the fork, I'll keep on the fin and close the nose gap by hand.
+    Omar -> Hana: Hana, tail joint looks fine from my side so far. Keep going.
+    Jack -> everyone: Right, I've got the pad, so I'm sketching the fork myself as stroke four from the start and tracing it straight away. Sofia, you stay on the nose and dorsal fin. Hana, carry on with the belly. I'll ke
+    (Hana held a thought)
+[  357s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 104
+    Hana -> everyone: Jack, the belly still isn't on the pad as stroke two, so I've got nothing to trace. I'm keeping my hands off the table. Finish the fork, and if the pad's free with a minute or so left, I'll sketch the
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  368s] 7:15 asked Sofia,Omar,Jack | dominoes 49 | calls 107
+    Omar -> everyone: Jack, go on with the fork, I've got the pad back to you. I'm bridging the dorsal fin's base onto the top line, since that bit's sitting off by itself.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  381s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 111
+    Hana -> Jack: Jack, when you trace the fork, can you make sure it joins a line that's already standing at the tail, not the open start? That way it won't stall.
+    Sofia -> everyone: Sounds good, Jack. I'm on the dorsal fin and closing the nose gap by hand now. Hana, if the pad frees up with a minute left, sketch the belly, but otherwise leave the low line as it is.
+    (Jack held a thought)
+[  393s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 115
+    Jack -> everyone: Hana, keep the pad. If you can get the belly from the tail down in time, go for it. I'm checking the tail joint now, and thanks, Sofia and Omar, for the fin and nose work.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  404s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 119
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Bridging the dorsal fin's base onto the top line now, both joints. Jack, you've got the back end.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  416s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 123
+    Sofia -> Jack,Omar: Jack, the fork's all yours, and keep an eye on the start joint. Omar, once your bridge is down on the fin base, I'll check that joint before the push.
+    Hana -> Jack: Jack, the belly won't make it in two minutes, so I'm leaving the low line as it is. Pad's yours for the fork. I'm keeping my hands off the table.
+    Jack -> everyone: Hana, the pad's all yours. Sketch the belly from the tail if you can get it down in time, and I'll keep my hands off the table. The fork's already traced from the start and the tail joint looks fine. 
+[  425s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 127
+    Hana -> Jack: Jack, I'm putting the pad down so it's free for you. The belly won't go in time, so I'm leaving the low line as it is. I'm keeping my hands off the table.
+    Jack -> everyone: Thanks, Sofia and Omar, the fin and nose are looking good. Hana, keep the pad, the belly's a stretch now. I'm giving the start joint one last look before the push.
+    (Omar held a thought)
+[  435s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 131
+    Sofia -> Omar: Omar, I'm checking the fin base joint now. Shout if your bridge isn't down yet.
+    Hana -> Jack: Jack, I put the pad down at 8:30, so it's free for you. The belly won't go in time, so I'm leaving the low line as it is and keeping my hands off the table.
+    Omar -> everyone: Fin bridges look like they've taken on my side. I'm having a look at the back end of the fork now.
+    (Jack held a thought)
+[  444s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 135
+    Sofia -> everyone: I'm closing the little gap at the nose by hand now. Omar, the fin base is yours, I won't touch it.
+    (Jack held a thought)
+[  452s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 139
+    Jack -> everyone: Hana, that's the right call on the belly, and the pad's safe with you. Sofia and Omar, the fin and nose look good. I'm keeping my hands off the table now.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  462s] 9:30 asked Sofia,Omar,Hana | dominoes 49 | calls 142
+    Sofia -> Omar: Omar, the fin's top part is still pale, about nine dominoes not connected to the start. Is the base bridge down on your side? If it's still open, tell me and I'll help close it.
+    Omar -> Sofia: Sofia, fin bridges are down on my side. The base joint's yours to check, and I'm keeping my hands off from here.
+    Hana -> Jack: Jack, just to be clear, I put the pad down at 8:30, so it's on the table and free. I'm not holding it.
+[  471s] 9:45 asked Sofia,Omar,Jack | dominoes 49 | calls 145
+    Omar -> Sofia: Sofia, both fin bridges are down on my side, so the base joint is all yours. Good luck with it.
+    Jack -> Hana: Got it, Hana, thanks for being clear. The pad's on the table and I'm leaving it alone. Hands off from here.
+    Sofia -> everyone: Thanks, Omar. I'm checking the fin base joint now, and if it's open I'll nudge it closed.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.54,
+      "error": 1.46
+    },
+    "Omar": {
+      "speed": 0.72,
+      "error": 0.69
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.89
+    },
+    "Jack": {
+      "speed": 1.08,
+      "error": 1.2
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 528.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Omar",
+    "Omar",
+    "Sofia",
+    "Sofia",
+    "Jack",
+    "Hana",
+    "Jack",
+    "Hana",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "curved chain of dominoes bending into a hook",
+      "open loop or hook-shaped line",
+      "tadpole or fish-like outline"
+    ],
+    [
+      "curved hook-shaped loop of dominoes",
+      "fish or tadpole outline",
+      "bent line of dominoes following a curve"
+    ],
+    [
+      "curved line of dominoes forming a hairpin loop",
+      "open teardrop or leaf outline",
+      "bent tadpole or fish-tail shape"
+    ]
+  ],
+  "placed": 49,
+  "fell": 40,
+  "completion": 0.816,
+  "team_score": 0.272,
+  "first_domino_at": "1:00",
+  "messages": 71,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 20,
+    "Jack": 16,
+    "Hana": 19,
+    "Omar": 13
+  },
+  "held_thoughts": 62,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 162,
+    "failed": 0,
+    "input_tokens": 336,
+    "cache_creation_tokens": 903832,
+    "cache_read_tokens": 453863,
+    "output_tokens": 163616,
+    "seconds": 1449.7,
+    "api_equivalent_usd": 0.2671
+  }
+}

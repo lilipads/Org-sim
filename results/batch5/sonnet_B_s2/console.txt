@@ -1,0 +1,107 @@
+[  307s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Hey team! Ten minutes, let's go. How about a fish? Big tail fin, eye, easy to recognize. I'll grab the pad and sketch it, shout if you'd rather do something else!
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  315s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 8
+    Hana -> everyone: Fish works for me, Jack. Can you sketch it so stroke 1 starts at the nose and runs along the top of the body? Then stroke 2 is the bottom of the body, meeting at the tail, and the tail fin comes after
+    (Sofia held a thought)
+    (Omar held a thought)
+[  329s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 11
+    Jack -> everyone: Good plan, Hana, thanks! Sketching it now. The top line starts at the nose, the bottom branches off the nose and they meet at the tail, then the tail fin. Hana, you take the top line and the start. So
+    (Sofia held a thought)
+    (Omar held a thought)
+[  336s] 0:45 asked Sofia,Omar,Hana | dominoes 9 | calls 14
+    Hana -> everyone: Sketch looks good, Jack. I'm tracing the top line now and setting the start at the nose. Sofia, bottom line is stroke 2; Omar, the tail fin is stroke 3.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  343s] 1:00 asked Sofia,Omar,Jack | dominoes 18 | calls 17
+    Sofia -> everyone: Yes, fish! Pad looks great, Jack. I'm tracing the belly line, stroke 2, now. Hana's on the top and the start, Omar on the tail.
+    Omar -> everyone: Sounds good, I've got the tail fin. Tracing stroke 3 now.
+    (Jack held a thought)
+[  351s] 1:15 asked Omar,Hana,Jack | dominoes 32 | calls 20
+    Jack -> everyone: Thanks Hana, great call! Omar, you've got the tail fin, so I'll back off that and not double up. I'll check the joins around the nose instead and fix whatever I knock over, which will be something.
+[  366s] 1:30 asked Omar,Hana,Jack | dominoes 41 | calls 23
+    Hana -> Jack: Thanks Jack. The nose is the spot to watch: the belly line looks pale there, so it may not be linked to the start yet. I'll finish the top line.
+    Jack -> everyone: Heads up, team: the belly line Sofia built isn't hooked to the start yet. The start only tips toward the top line, so the bottom half would just stand there. I'm grabbing the pad to sketch a little le
+    (Omar held a thought)
+[  380s] 1:45 asked Sofia,Hana,Jack | dominoes 51 | calls 26
+    Sofia -> everyone: Got it, Jack! I'll finish the last bit of the belly line out by the tail and keep my hands off the nose. Shout when the lead-in's on the pad and I'll fix the join.
+    (Jack held a thought)
+    (Hana held a thought)
+[  388s] 2:00 asked Jack | dominoes 63 | calls 27
+    Jack -> everyone: Okay, lead-in's on the pad! Laying it at the nose now, and moving the start onto it. Sofia, Hana, still hands off the nose for a few seconds please. My clumsy fingers are at work!
+[  405s] 2:15 asked Sofia,Omar,Hana | dominoes 67 | calls 31
+    Hana -> everyone: Got it, Jack. I'll keep going on the top line away from the nose and leave the join to you.
+    Omar -> everyone: Only one piece of the tail went down, so I'm laying the whole fin again now.
+    (Sofia held a thought)
+[  414s] 2:30 asked Sofia,Omar,Jack | dominoes 71 | calls 34
+    Jack -> everyone: Okay, my lead-in is only half in, a couple wouldn't fit. I'm taking a close look at the nose to see why the belly still isn't catching. Thanks for waiting, Hana!
+    (Omar held a thought)
+    (Sofia held a thought)
+[  423s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 69 | calls 38
+    Jack -> everyone: Okay, the nose is still being stubborn. I'm laying the lead-in again and putting the start at its far left end. Hands off the nose for a few more seconds, please!
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  433s] 3:00 asked Sofia,Omar,Hana | dominoes 71 | calls 41
+    Hana -> everyone: Top line's done, and I stayed off the nose. Omar, I looked at the tail: the lines meet there but nothing is standing past that point yet, so the fin isn't catching. Shout if you want me to take half o
+    (Omar held a thought)
+    (Sofia held a thought)
+[  739s] 3:15 asked Sofia,Omar,Jack | dominoes 71 | calls 45
+    Omar -> everyone: Thanks Hana. Only the joint domino went down again, so I'm laying the whole fin one more time. Hands off the tail for a bit please.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  750s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 69 | calls 49
+    Jack -> everyone: Okay team, laying the nose lead-in again and moving the start to its far left end. Please keep hands off the nose a little longer. Omar, shout if the fin needs a second pair of hands!
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  762s] 3:45 asked Sofia,Omar,Hana | dominoes 71 | calls 52
+    Omar -> Jack: Jack, when you've got a sec, could you pass me the pad? Stroke 3 keeps putting down just the joint domino, so I'll redraw the fin as two strokes, upper and lower, both starting from the joint. Then I'
+    Sofia -> everyone: Okay Jack, hands off the nose and tail. Belly is built and waiting. Shout when the lead-in is in and I'll re-trace it if it's still pale.
+    (Hana held a thought)
+[  771s] 4:00 asked Omar,Hana,Jack | dominoes 71 | calls 55
+    Omar -> Jack: Jack, whenever you're done at the nose, just slide me the pad. I'll be quick, two little strokes for the fin.
+    Jack -> everyone: Sure thing, Omar, pad's coming your way! Good idea splitting the fin. I'll keep poking at the nose to see why the belly's still not catching.
+    (Hana held a thought)
+[  783s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 71 | calls 59
+    Hana -> everyone: Omar, once the fin is split on the pad, I'll take the top half. Just tell me which stroke. Jack, I'm only looking at the nose, not building there.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  792s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 82 | calls 63
+    Sofia -> everyone: Omar, the split fin looks great on the pad! I'm tracing stroke 7, the lower flap, right now. Hana, you take 6, and Omar, you've got the middle one, 3. Jack, I'm still hands off the nose. Under six min
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  800s] 4:45 asked Omar,Hana,Jack | dominoes 98 | calls 66
+    Omar -> everyone: Got the pad, thanks Jack. Sofia, I'm already partway through stroke 7, the lower flap, so maybe grab the middle curve, 3, instead? Hana has 6. Let's not double up down there.
+    (Jack held a thought)
+    (Hana held a thought)
+[  810s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Fair enough, Omar, you take the lower flap and I'll switch to the middle curve, stroke 3. Hana's on 6. Five minutes, let's get that fin catching!
+    (Jack held a thought)
+    (Hana held a thought)
+[  818s] 5:15 asked Omar,Hana,Jack | dominoes 112 | calls 73
+    Hana -> everyone: Top lobe's done, Omar, Sofia. A couple near where the lines meet wouldn't fit, so I'm taking a close look at the tail join to see if the fin catches. Sofia, you've got the middle curve, Omar the lower
+    (Jack held a thought)
+    (Omar held a thought)
+[  827s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 77
+    Jack -> everyone: Omar, keep the pad, you're doing great on the fin! I'm taking another close look at the nose, because the belly's still pale there. Hands off it for a few seconds, please.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  842s] 5:45 asked Omar,Hana,Jack | dominoes 126 | calls 80
+    Omar -> everyone: Lower flap's down. The tail looks like it's catching now, and Sofia's finishing the middle curve. The big gap is the belly at the nose. Jack, I'm passing you the pad in case you want to redraw the lea
+    (Hana held a thought)
+    (Jack held a thought)
+[  852s] 6:00 asked Sofia,Hana,Jack | dominoes 131 | calls 83
+    Jack -> everyone: Thanks Omar! Got the pad. The belly's first domino sits off to the side at the nose, so I'm re-laying the lead-in, stroke 5, right now. Hands off the nose for a few seconds, please!
+    (Hana held a thought)
+    (Sofia held a thought)
+[  860s] 6:15 asked Omar,Hana | dominoes 134 | calls 85
+    Hana -> everyone: Jack, go ahead, I'm staying off the nose. One domino at the start of the belly looked off to the side, so check that one. I'll look over the tail and tell you what's still pale.
+    (Omar held a thought)

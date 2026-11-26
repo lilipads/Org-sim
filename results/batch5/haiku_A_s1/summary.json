@@ -1,0 +1,95 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.65,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.45
+    },
+    "Priya": {
+      "speed": 0.86,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 0.69,
+      "error": 1.64
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Maya",
+    "Maya",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "chevron-shaped line of fallen dominoes",
+      "bent row of dominoes toppling along a curve",
+      "dark sketch of a folded or angled stroke"
+    ],
+    [
+      "fallen dominoes in a line bent at a corner (chevron shape)",
+      "a left-pointing chevron or arrow made of dark bars",
+      "a folded or bent path of dark segments on a light background"
+    ],
+    [
+      "line of fallen dominoes bent in a v-shape",
+      "chevron or arrow pointing left",
+      "bent dark road or river on a pale map"
+    ]
+  ],
+  "placed": 67,
+  "fell": 29,
+  "completion": 0.433,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Tom": 12,
+    "Priya": 20,
+    "Leo": 9
+  },
+  "held_thoughts": 23,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 139,
+    "failed": 0,
+    "input_tokens": 290,
+    "cache_creation_tokens": 739661,
+    "cache_read_tokens": 388035,
+    "output_tokens": 133434,
+    "seconds": 1219.8,
+    "api_equivalent_usd": 0.2186
+  }
+}

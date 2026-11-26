@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.54,
+      "error": 1.46
+    },
+    "Tom": {
+      "speed": 0.72,
+      "error": 0.69
+    },
+    "Priya": {
+      "speed": 1.06,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.08,
+      "error": 1.2
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 381.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "almond or eye shape",
+      "leaf or lens outline",
+      "closed oval loop"
+    ],
+    [
+      "leaf or seed outline",
+      "eye or almond shape",
+      "lemon or lens-shaped loop"
+    ],
+    [
+      "eye (almond-shaped outline)",
+      "lemon or lens shape",
+      "leaf or seed outline"
+    ]
+  ],
+  "placed": 74,
+  "fell": 70,
+  "completion": 0.946,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 38,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 10,
+    "Priya": 12,
+    "Tom": 9,
+    "Leo": 4
+  },
+  "held_thoughts": 34,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 106,
+    "failed": 0,
+    "input_tokens": 224,
+    "cache_creation_tokens": 466277,
+    "cache_read_tokens": 311349,
+    "output_tokens": 56626,
+    "seconds": 853.5,
+    "api_equivalent_usd": 2.3231
+  }
+}

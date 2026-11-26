@@ -4,3 +4,203 @@
     (Maya held a thought)
     (Tom held a thought)
     (Leo held a thought)
+[   29s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Priya -> Maya: Ha, I told everyone I'd sketched it, but the pad's still blank and Maya has it. Maya, could you pass it over? I'll draw the fish quickly, then we can all trace our parts.
+    Maya -> everyone: Pad's blank on my end, so I've just drawn the fish. Big body, forked tail. I'm doing the lead-in and the start now. Priya, top body is stroke 2. Tom, bottom body is 3. Leo, can you take the tail, 4 to
+    (Tom held a thought)
+    (Leo held a thought)
+[   38s] 0:30 asked Maya,Tom,Priya,Leo | dominoes 3 | calls 12
+    Tom -> everyone: Works for me, I'll take the bottom body, stroke 3. Leo's on the tail then.
+    Priya -> everyone: Perfect, Maya's drawing is better than my phantom one. I've got the top body, stroke 2, tracing it now.
+    (Maya held a thought)
+    (Leo held a thought)
+[   43s] 0:45 asked Maya,Leo | dominoes 15 | calls 14
+    Leo -> everyone: Got it, I'll take the tail. Thanks for sketching it, Maya.
+[   48s] 1:00 asked Maya | dominoes 24 | calls 15
+    Maya -> Leo: No worries Leo, shout if the tail joint at the end of the body gets fiddly.
+[   57s] 1:15 asked Maya,Leo | dominoes 34 | calls 17
+    Maya -> everyone: Lead-in's done. I'm just checking the split where the body forks, since that joint's the fiddly one.
+    Leo -> everyone: Thanks Maya, will do. I'm queued up on the tail and will shout if the joint gets fiddly.
+[   66s] 1:30 asked Maya | dominoes 44 | calls 18
+    Maya -> everyone: The fork looks good, everything standing is connected up. Leo, I'll take the lower tail fin, stroke 5, so you've got the upper fin and the back edge. Shout if that clashes with what you're doing.
+[   74s] 1:45 asked Leo | dominoes 53 | calls 19
+    Leo -> everyone: Sounds good Maya, that works. I'll do the upper fin and the back edge, and you take the lower fin.
+[   78s] 2:00 asked Maya | dominoes 63 | calls 20
+[   78s] 2:15 asked - | dominoes 71 | calls 20
+[   86s] 2:30 asked Tom,Priya | dominoes 78 | calls 22
+    Tom -> everyone: Bottom body's done. I'll look over the tail joint while Priya finishes the top line.
+[   97s] 2:45 asked Tom,Priya | dominoes 84 | calls 24
+    Tom -> everyone: Junction looks fine, the body's all connected. Leo, I don't see your hands on the tail yet, so I'll do the upper fin and you take the back edge. Shout if you've already started.
+    (Priya held a thought)
+[  106s] 3:00 asked Priya,Leo | dominoes 92 | calls 26
+    Priya -> everyone: Top line's done! Tom, you take the upper fin. Leo hasn't started on the tail, so I'll grab the back edge. Leo, jump in wherever you like, or check the joint.
+    (Leo held a thought)
+[  112s] 3:15 asked Tom,Leo | dominoes 103 | calls 28
+    Leo -> everyone: Sorry Priya, I was talking over you. I haven't placed anything yet, so the back edge is yours and the upper fin is Tom's. I'll drop my piece and look over the tail joints for gaps, then help wherever 
+    (Tom held a thought)
+[  122s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 32
+    Maya -> everyone: Lower fin's done. Priya, you've got the back edge, right? I'll look over the tail joint for gaps meanwhile.
+    Tom -> everyone: Upper fin's done, Priya, the back edge is all yours. I'll look over the tail for gaps while you build it.
+[  135s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 106 | calls 36
+    Tom -> Priya: Priya, the end of the upper fin seems to be curling off to the right, past where the fin tip should be. Is that your back edge starting? Shout if you want me to redo anything up there.
+    Maya -> everyone: Priya, I'm grabbing the back edge now since your hands are up at the top right. The upper fin also looks like it's curving out past where it should end. Can you check that bit?
+    (Priya held a thought)
+[  147s] 4:00 asked Tom,Priya,Leo | dominoes 104 | calls 39
+    Priya -> everyone: Maya, Tom, thanks for catching that. I'm already about halfway down the back edge, so Maya, no need to redo it. Those pale ones curling off to the right look like strays. Could you take them down? I'l
+    (Leo held a thought)
+    (Tom held a thought)
+[  159s] 4:15 asked Maya,Tom,Leo | dominoes 103 | calls 42
+    Maya -> everyone: Okay Priya, taking down those pale ones on the right now. Hold on a sec though, your hands are right on them, so shift a little so I don't clip you. You finish the back edge and I'll inspect the whole
+    (Leo held a thought)
+    (Tom held a thought)
+[  168s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 46
+    Tom -> everyone: Nothing was left to take down up there, the strays past the fin tip are already gone. I'll inspect the tail while you two finish the back edge.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  178s] 4:45 asked Maya,Tom,Leo | dominoes 109 | calls 49
+    Maya -> everyone: Priya, keep going on the back edge. I'll check that tight spot where the body lines meet, just before the tail.
+    Leo -> everyone: I'll nudge the squeezed domino where the two body lines cross. Priya, the back edge is all yours.
+    (Tom held a thought)
+[  187s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 53
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Tail looks good to me. Body and both fins are connected. Only the pale back edge Priya's still laying isn't hooked in yet. Priya, make sure the top of it meets the upper fin so it falls with the rest.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  201s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 107 | calls 57
+    Priya -> everyone: Thanks Tom. The back edge isn't hooked in at the top yet, so I'm laying it again from the top fin tip. Hands off that bit for a minute please, then someone can check it.
+    (Leo held a thought)
+    (Maya held a thought)
+[  212s] 5:30 asked Maya,Tom,Leo | dominoes 103 | calls 60
+    Leo -> everyone: Thanks Tom. Priya, when the back edge is in, I'll check how it hooks into the fins at both ends. The fins point away from it, so that's the likely break. And if it won't connect, it's fine to leave it
+    (Maya held a thought)
+[  223s] 5:45 asked Maya,Tom,Priya | dominoes 100 | calls 63
+    Maya -> everyone: Got it, Priya, hands off. Leo's right though, if the back edge won't hook in with a minute or so left, leave it. The fish reads fine without it. I'll check the chain from the start meanwhile.
+    (Tom held a thought)
+    (Priya held a thought)
+[  230s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 102 | calls 67
+    Priya -> everyone: Thanks Leo, thanks Maya. I'm still laying it from the fin tip, so give me a minute. If it doesn't hook in, I'll take it down and we'll leave it out. The fish reads fine without it.
+    (Maya held a thought)
+[  238s] 6:15 asked Maya,Tom,Leo | dominoes 106 | calls 70
+    Maya -> everyone: Chain from the start looks solid, nearly everything's connected. Priya, finish the back edge if it hooks in, otherwise leave it, the fish reads fine without it.
+    (Leo held a thought)
+[  245s] 6:30 asked Tom,Priya,Leo | dominoes 109 | calls 73
+    Leo -> everyone: Sounds good, Priya. Take your time, I'll keep my hands off it. If it's not hooked in with about a minute left, we just pull it and go with the fish as is.
+[  253s] 6:45 asked Maya,Tom,Priya | dominoes 111 | calls 76
+    Priya -> everyone: Thanks Leo, nearly there. I'll shout if it doesn't hook in.
+[  260s] 7:00 asked Maya,Tom,Leo | dominoes 116 | calls 79
+[  260s] 7:15 asked - | dominoes 120 | calls 79
+[  260s] 7:30 asked - | dominoes 120 | calls 79
+[  266s] 7:45 asked Priya | dominoes 120 | calls 80
+    Priya -> everyone: Back edge is in. I'm checking the hook-in now, give me a few seconds.
+[  284s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 84
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Back edge didn't hook in, so I'm leaving it. The pale ones just stay standing and won't show. The fish is connected from the start through the body, tail and both fins. Hands off everything now, and n
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  289s] 8:15 asked Maya,Tom,Leo | dominoes 120 | calls 87
+    Leo -> everyone: Sounds good, Priya. Hands off, everyone.
+[  296s] 8:30 asked Maya,Tom,Priya | dominoes 120 | calls 90
+    Priya -> everyone: Thanks Leo. All good, just waiting for the push now. Nobody breathe on the table!
+[  302s] 8:45 asked Maya,Tom,Leo | dominoes 120 | calls 93
+[  302s] 9:00 asked - | dominoes 120 | calls 93
+[  302s] 9:15 asked - | dominoes 120 | calls 93
+[  307s] 9:30 asked Priya | dominoes 120 | calls 94
+[  314s] 9:45 asked Maya,Tom,Leo | dominoes 120 | calls 97
+    Tom -> everyone: Looks like a fish to me. Hands off, here we go.
+    Maya -> everyone: Looking good, team. Hands off and let it fall.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.65,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.45
+    },
+    "Priya": {
+      "speed": 0.86,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 0.69,
+      "error": 1.64
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 379.4,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish facing left with a forked tail",
+      "teardrop or leaf outline with a stem",
+      "bird or whale outline"
+    ],
+    [
+      "fish outline with a tail",
+      "leaf or seed with a stem",
+      "fish with a fishing line"
+    ],
+    [
+      "fish seen from the side",
+      "fish with a fishing line",
+      "cartoon bird or abstract outline"
+    ]
+  ],
+  "placed": 120,
+  "fell": 102,
+  "completion": 0.85,
+  "team_score": 0.85,
+  "first_domino_at": "0:30",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 11,
+    "Maya": 11,
+    "Tom": 8,
+    "Leo": 8
+  },
+  "held_thoughts": 32,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 114,
+    "failed": 0,
+    "input_tokens": 240,
+    "cache_creation_tokens": 542216,
+    "cache_read_tokens": 308799,
+    "output_tokens": 50792,
+    "seconds": 868.8,
+    "api_equivalent_usd": 2.5512
+  }
+}

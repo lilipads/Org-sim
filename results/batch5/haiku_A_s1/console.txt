@@ -1,0 +1,216 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish. The forked tail is what makes it read as a fish, so I'll sketch it on the pad now and we trace it from the start.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   32s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Fish works. The forked tail is what'll make it read. Maya, sketch it and I'll take the body loop once the tail's on the table.
+    (Priya held a thought)
+    (Leo held a thought)
+[   45s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Sketch is up. Stroke one starts at the top of the tail and runs down to the notch, then along the belly to the nose. Tom, take the back from the notch once the belly's standing. Priya or Leo, the lowe
+    (Priya held a thought)
+    (Leo held a thought)
+[   58s] 0:45 asked Tom,Priya,Leo | dominoes 2 | calls 13
+    Tom -> everyone: I'll take stroke one now: start on the tail tip, down to the notch, then along the belly. Maya, you can keep the pad. I'll take the back once the belly's connected.
+    (Priya held a thought)
+    (Leo held a thought)
+[   70s] 1:00 asked Maya | dominoes 8 | calls 14
+    Maya -> everyone: Tom, stroke one's yours, go for it. I'll keep the pad and take the back from the notch. Priya or Leo, the lower tail arm once the notch is standing.
+[   79s] 1:15 asked Tom,Priya,Leo | dominoes 18 | calls 17
+    Priya -> everyone: Fork's a good call. I'll take the lower tail arm from the notch once it's standing. Tom, the back's yours? Leo, you're on the belly if you want it.
+    (Leo held a thought)
+[   89s] 1:30 asked Tom,Leo | dominoes 26 | calls 19
+    Tom -> Priya: Yes, I've got the back. I'll come off the notch once the belly's connected. Priya, you take the lower tail arm.
+    Leo -> everyone: I've got the lower tail arm, stroke three, off the notch. It's already going down. Tom's on the belly, so Priya, the back with Maya or Tom? Fish still works for me. Songbird's my fallback if it turns 
+[  102s] 1:45 asked Maya,Tom,Priya | dominoes 30 | calls 22
+    Maya -> Priya,Leo: I've got the back, stroke two, off the notch. It'll wait till the notch is standing. Priya, if you're free, give Leo a hand on the lower tail arm where it meets the notch, since that joint is what'll 
+    Tom -> everyone: Leo's got the lower tail arm, stroke three, so Priya, you're not on that one. I've got the back off the nose once the belly's standing. Could you steady the notch? It's where the tail splits and it'll
+    (Priya held a thought)
+[  109s] 2:00 asked Priya,Leo | dominoes 40 | calls 24
+    Priya -> everyone: Leo, the lower arm's yours. I'm stepping off stroke three. My six are already standing near the notch, so start from those. I'm going to steady the notch since Tom and Maya both flagged it.
+    (Leo held a thought)
+[  118s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 47 | calls 28
+    Maya -> Priya: Thanks, Priya. I'm on the back and it'll wait for the notch. Shout if it looks shaky.
+    Leo -> everyone: Got it, Priya, the notch is yours. I've got the lower tail arm, about halfway. I'll check the join where my arm starts once I've placed the next few.
+    (Priya held a thought)
+[  127s] 2:30 asked Priya,Leo | dominoes 55 | calls 30
+    Priya -> everyone: Leo, the break is right where your lower arm leaves the notch: one domino's off to the side and a few aren't joined. I'm closing it now, so don't re-lay that bit. Maya, the notch will be standing for 
+    (Leo held a thought)
+[  138s] 2:45 asked Maya,Priya,Leo | dominoes 62 | calls 33
+    Maya -> Priya: Got it, Priya. I'll hold the back until you say the notch is joined.
+    Leo -> everyone: Got it, Priya, the join's yours and I won't touch it. My arm's down to the tail tip. Tell me when it's joined and I'll check the whole arm is connected back to the notch.
+[  150s] 3:00 asked Priya,Leo | dominoes 66 | calls 35
+    Priya -> Leo,Maya: Joining the break where Leo's arm leaves the notch now. Leo, don't touch that bit. Maya, the notch is standing, so your back can go once I say it's joined.
+    Leo -> Priya: Priya, I'm keeping off the join. Shout when it's closed and I'll walk the arm back to the notch with the inspect.
+[  168s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 63 | calls 39
+    Maya -> Priya: Holding the back, Priya. Tell me when the notch is joined and I'll carry on from it.
+    Priya -> Leo: Thanks, Leo. Keep off that join and I'll call it when it's closed.
+    Tom -> everyone: Belly's connected all the way to the nose. I'm taking the back now, off the notch. Maya, those pale ones you've got around the middle, are they the back? If so I'll go round them. Priya, tell me when 
+[  180s] 3:30 asked Maya,Priya,Leo | dominoes 58 | calls 42
+    Maya -> everyone: Tom, those pale ones are my back, stroke two, about halfway. Please leave the back to me so we don't lay it twice. Once the notch is joined I'll carry on from it. Could you take the eye, or help Priya
+    (Priya held a thought)
+[  193s] 3:45 asked Tom,Priya,Leo | dominoes 58 | calls 45
+    Tom -> Maya,Priya: Maya, the back's yours, I'm stepping off it now. Priya, I'll help you with the notch. Tell me which joint you want me on.
+    Leo -> Maya,Tom: Tom, leave the back to Maya, she's already on it. Maya, once the back's joined I'll take the eye, if you can hand me the pad for a small circle.
+    Priya -> everyone: Almost there on the join. One more domino, then I'll run an inspect on the notch before I call it. Maya, Tom, hold off on that bit until I say so. Tom, Maya's got the back, so could you take the eye?
+[  207s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 49
+    Leo -> Tom,Maya: Tom, go ahead and take the eye since Priya asked you. I'll hold off on the pad and wait for Priya to call the notch joined, then I'll check my lower arm back to it.
+    Tom -> everyone: Priya, I'll take the eye like you asked. Leo, you're on the lower arm, so check it's joined back to the notch. Maya, once the back's joined, could you hand me the pad for a small circle near the head?
+    (Maya held a thought)
+[  218s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 53
+    Maya -> Tom,Priya: Tom, you're on the eye, so I'll hand you the pad once the back's joined. Priya, I'm holding the back until you say the notch is steady.
+    Priya -> everyone: Thanks, Tom, the eye's yours. I'm running an inspect on the notch now. Once it's clean I'll call it joined, Maya, so you can carry on from it.
+[  227s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 57
+    Priya -> everyone: Inspect says the notch isn't clean yet. Two dominoes right at the join aren't connected. I'm closing that gap now. Maya, keep holding the back, and Leo, still keep off that bit. I'll call it once it's
+    (Tom held a thought)
+[  237s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 61
+    Tom -> Maya: Ready for the pad whenever you hand it over, Maya. I'll stay off the notch until Priya calls it.
+[  247s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Tom, pad's yours for the small circle near the head. I'm holding the back until Priya calls the notch joined.
+[  260s] 5:15 asked Tom,Priya,Leo | dominoes 58 | calls 68
+    Tom -> everyone: Got the pad, thanks Maya. I'm putting the eye just behind the nose, on the head outline. Nobody needs to touch the notch or the back for this.
+    (Priya held a thought)
+[  269s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 63 | calls 72
+    Priya -> everyone: Notch is my last job. I'm running an inspect on it now. Maya, keep holding the back, and Leo, stay off that join.
+    (Tom held a thought)
+[  279s] 5:45 asked Maya,Priya,Leo | dominoes 67 | calls 75
+    Priya -> everyone: The inspect still shows two loose ones right at the notch join. I'm fixing them now, so nobody touch that spot. I'll call it as soon as it's clean.
+[  288s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 79
+    Priya -> everyone: Still closing those two at the notch join. Maya, Leo, keep off that spot. I'll call it as soon as the inspect comes back clean.
+    (Tom held a thought)
+[  304s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 83
+    Maya -> Priya: Priya, how's the notch inspect looking? If it isn't clean by about quarter to seven, tell me and I'll drop the back and we go with just the notch and nose outline. The eye and the head still make it r
+    Priya -> everyone: Re-checking the notch with an inspect now. If it's clean I'll call it joined, Maya, and then Leo can walk his arm back to it.
+    (Tom held a thought)
+[  316s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 87
+    Priya -> Maya,Leo: Maya, not clean yet. The inspect still shows two loose ones right at the join. I'm fixing them again now. If they're not connected by about quarter to, drop the back and go with the notch and nose. Le
+    Tom -> everyone: Eye's down, just behind the nose, touching the head outline. Maya, pad's yours again. I'm keeping my hands off the notch and your back.
+[  331s] 6:45 asked Maya,Priya,Leo | dominoes 67 | calls 90
+    Leo -> Priya: Priya, I'm keeping off the join. Tell me when it's closed and I'll check the lower arm all the way back to the notch.
+    Maya -> everyone: It's quarter to and the notch isn't clean, so I'm dropping the back. Priya, don't spend the last minutes on it. Just get the notch joined to the nose and the lower arm, and the notch-and-nose outline 
+    (Priya held a thought)
+[  340s] 7:00 asked Tom,Priya,Leo | dominoes 67 | calls 93
+    Priya -> Maya,Leo: Maya, got it, I heard the drop. Don't lay any more of the back. I'm closing the last two at the notch now. Leo, keep off that spot, and I'll call it as soon as the inspect is clean.
+    Leo -> Priya: Priya, I'm checking my lower arm from here without touching the join. Tell me when the notch is closed.
+    Tom -> everyone: Makes sense, Maya. Notch to nose and the eye should still read as a fish. My eye's down, so I'm keeping my hands off everything else.
+[  350s] 7:15 asked Maya,Priya,Leo | dominoes 67 | calls 96
+    Leo -> Priya: Priya, I'm staying off the join. I'm only looking at the lower arm from the tail end, and I'll tell you what I see before you call it.
+    Priya -> everyone: Closing the last two at the notch join now. Leo, stay off that spot. I'll inspect and call it as soon as it's clean.
+[  360s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 100
+    Tom -> Priya: Good luck with the join, Priya. Shout if you want a second pair of hands on it.
+[  372s] 7:45 asked Priya,Leo | dominoes 67 | calls 102
+    Priya -> Tom,Maya,Leo: Thanks, Tom, I've got the two at the join, so please don't reach in. Could you keep the eye and head still? I'll inspect as soon as I've closed them.
+[  381s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 106
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Priya: Got it, Priya. My hands are off everything. If you call the notch joined, I'll take a quick look at the nose-to-notch link.
+    Priya -> everyone: Two minutes, closing the last pair at the join now. Everyone else, hands off.
+[  389s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 110
+[  397s] 8:30 asked Leo | dominoes 67 | calls 111
+[  397s] 8:45 asked - | dominoes 67 | calls 111
+[  397s] 9:00 asked - | dominoes 67 | calls 111
+[  406s] 9:15 asked Maya,Tom,Priya | dominoes 67 | calls 114
+    Priya -> everyone: About a minute left. I'm closing the last pair at the join now. Leo, Maya, hands off that spot. I'll call it at the end either way.
+[  414s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 118
+    Maya -> Priya: Got it, Priya. Hands off the notch. If you call it joined with time left, I'll do one quick inspect on the nose-to-notch link.
+    Priya -> everyone: Still on the last pair at the join. Hands off, I'll call it when the inspect is clean or leave it if it isn't.
+[  426s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 122
+    Priya -> everyone: Maya, Tom, Leo, one last quick fix on the notch join, then hands off for the push. If it's still loose at the push, the notch-to-nose outline, the belly, the tail and Tom's eye and head should still f
+    (Leo held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.65,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.45
+    },
+    "Priya": {
+      "speed": 0.86,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 0.69,
+      "error": 1.64
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Maya",
+    "Maya",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "chevron-shaped line of fallen dominoes",
+      "bent row of dominoes toppling along a curve",
+      "dark sketch of a folded or angled stroke"
+    ],
+    [
+      "fallen dominoes in a line bent at a corner (chevron shape)",
+      "a left-pointing chevron or arrow made of dark bars",
+      "a folded or bent path of dark segments on a light background"
+    ],
+    [
+      "line of fallen dominoes bent in a v-shape",
+      "chevron or arrow pointing left",
+      "bent dark road or river on a pale map"
+    ]
+  ],
+  "placed": 67,
+  "fell": 29,
+  "completion": 0.433,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Tom": 12,
+    "Priya": 20,
+    "Leo": 9
+  },
+  "held_thoughts": 23,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 139,
+    "failed": 0,
+    "input_tokens": 290,
+    "cache_creation_tokens": 739661,
+    "cache_read_tokens": 388035,
+    "output_tokens": 133434,
+    "seconds": 1219.8,
+    "api_equivalent_usd": 0.2186
+  }
+}
