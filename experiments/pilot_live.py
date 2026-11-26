@@ -37,6 +37,7 @@ def main():
     ap.add_argument("--evaluation", default=NO_EVALUATION)
     ap.add_argument("--view", choices=["text", "image"], default="text")
     ap.add_argument("--pad-minutes", type=float, default=2.0, help="scratch pad until this minute; 0 = no pad")
+    ap.add_argument("--model", default=None, help="model for the agents (judges keep the default)")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -69,7 +70,8 @@ def main():
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
-        agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls))
+        extra = {"model": args.model} if args.model else {}
+        agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls, **extra))
     game = LiveGame(world, agents, cfg)
     t0 = time.time()
 
@@ -128,7 +130,7 @@ def main():
                         if any(e["type"] == "build" and e["placed"] for e in r["events"])), None)
     summary = {
         "size": args.size, "minutes": args.minutes, "view": args.view, "pad_minutes": args.pad_minutes,
-        "big_dominoes": args.big, "personas": names, "wall_seconds": round(time.time() - t0, 1),
+        "big_dominoes": args.big, "personas": names, "agent_model": args.model or "default (small)", "wall_seconds": round(time.time() - t0, 1),
         "intents": intents, "team_intent": intent, "recognition": judging["recognition"],
         "recognition_if_all_fell": judging_all["recognition"],
         "pad_holders": [e.get("who") for r in game.log["turns"] for e in r["events"]
