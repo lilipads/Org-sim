@@ -1,0 +1,69 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Hana"
+  ],
+  "skills": {
+    "Hana": {
+      "speed": 0.85,
+      "error": 1.92
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 129.4,
+  "intents": {
+    "Hana": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or background with no dominoes",
+      "faint or invisible drawing on a plain cream background"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or placeholder background image",
+      "faint, very low-contrast content too subtle to see"
+    ],
+    [
+      "blank off-white canvas",
+      "empty placeholder image",
+      "very faint or invisible line art"
+    ]
+  ],
+  "placed": 16,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 3,
+  "messages_by_speaker": {
+    "Facilitator": 3
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Hana": 0
+  },
+  "usage": {
+    "calls": 22,
+    "failed": 0,
+    "input_tokens": 38,
+    "cache_creation_tokens": 46610,
+    "cache_read_tokens": 38026,
+    "output_tokens": 9653,
+    "seconds": 139.1,
+    "api_equivalent_usd": 0.2147,
+    "cached": 6
+  }
+}

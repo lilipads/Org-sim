@@ -34,3 +34,7 @@
 [  118s] 2:15 asked Omar,Jack | dominoes 86 | calls 25
     Jack -> everyone: On it, Hana! Tracing the upper tail line now. I'll skip the triangle's back edge. Sofia, I'll be near the back joint, so shout if we get in each other's way.
     (Omar held a thought)
+[  127s] 2:30 asked Sofia,Omar,Hana | dominoes 90 | calls 28
+    Sofia -> everyone: Got it, Hana, I won't touch the old tail. My top line is done and reaches the back joint. I'll look over the joint without building so Jack and I don't bump each other. Shout if the tail lines don't p
+    (Hana held a thought)
+    (Omar held a thought)
