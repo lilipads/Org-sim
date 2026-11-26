@@ -1,0 +1,57 @@
+{
+  "size": 4,
+  "turns": 10,
+  "wall_seconds": 265.1,
+  "intents": {
+    "Ava": "undecided",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "judge_guesses": [
+    [
+      "hand-drawn line graph of a flat stretch that rises and peaks",
+      "stylized wave or hill profile",
+      "shark fin or hump silhouette"
+    ],
+    [
+      "a single hand-drawn curve, not dominoes",
+      "a flat line rising to a bump, like a wave or hill profile",
+      "a stylized step or ramp outline drawn as one stroke"
+    ],
+    [
+      "a single hand-drawn line forming a bump or hill",
+      "a stylized wave or ocean swell",
+      "a step up and over, like a ramp or stair edge"
+    ]
+  ],
+  "placed": 137,
+  "fell": 45,
+  "completion": 0.328,
+  "team_score": 0.055,
+  "first_build_turn": 1,
+  "action_counts": {
+    "build": 22,
+    "talk": 7,
+    "inspect": 10,
+    "listen": 1
+  },
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 61,
+    "failed": 0,
+    "input_tokens": 128,
+    "cache_creation_tokens": 172448,
+    "cache_read_tokens": 91933,
+    "output_tokens": 88461,
+    "seconds": 646.9,
+    "api_equivalent_usd": 0.0797
+  }
+}

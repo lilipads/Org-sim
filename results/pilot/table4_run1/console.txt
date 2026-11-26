@@ -1,0 +1,85 @@
+[   22s] turn 1: Ava:build, Ben:talk, Chloe:talk, Dev:build | dominoes 16 | calls 6
+    Chloe: Proposal: a fish swimming left to right across the middle, roughly x 8-52, y 12-28. Nose at the left, tail at the right. I'll build the top body line from x 10 
+    Ben: Proposal: a fish, side view, centred around x 20-40, y 14-26, facing left. Body top edge and head: me (Ben). Body bottom edge: Ava. Tail fin (V shape on the rig
+    Chloe: Ben's and my proposals overlap, so let's merge them into one fish. Use my extent (x 8-52, y 12-28, facing left) with Ben's roles. Ben: top body edge and head, x
+    Ben: Ben here. Chloe's plan is more specific and already has the start at the nose, so let's go with it and drop mine. I'll take the top fin around x 22-30, y 10-12,
+[   37s] turn 2: Ava:build, Ben:build, Chloe:build, Dev:inspect | dominoes 39 | calls 10
+[   55s] turn 3: Ava:talk, Ben:build, Chloe:build, Dev:build | dominoes 62 | calls 14
+    Ava: Ava here. My spine runs y=20 from x=10 to x=17.7, facing east, and I'm stopping at x=18 to stay clear of your pieces. Ben, Chloe, what are you drawing near x=24
+[   71s] turn 4: Ava:talk, Ben:build, Chloe:build, Dev:build | dominoes 80 | calls 18
+    Ava: Time is short, so let's lock it in: fish. My spine (y=20, x=10 to 18) is the body. Ben and Chloe, your curves near x=24-30 look like a head or fin. Can you conf
+[   83s] turn 5: Ava:build, Ben:inspect, Chloe:build, Dev:build | dominoes 99 | calls 22
+[  112s] turn 6: Ava:talk, Ben:listen, Chloe:build, Dev:inspect | dominoes 99 | calls 30
+    Ava: Ava here. My spine runs y=20 from the start at x=10 to x=20.4, and I'm holding there. Ben, Chloe: can you confirm your head curves at x=24-31, y=11-24 are compl
+    Chloe: Ava, Chloe here. I'm on the tail fan (x 44-54), not the head, so I can't confirm Ben's head curves at x 24-31. Ben, can you check and tell Ava where your head s
+    Ava: Thanks. I'll hold the spine at x=20.4 until I hear back on the head placement. Next turn I'll inspect x=9-21 and close any gaps in the spine, so the start chain
+    Dev: Dev here. I can't place a fin at x 26-30, y 18-22. That's inside my body arc (centre 27.9,22, r=4) and on top of my y=18 top line, so it would collide with my o
+    Ben: Ben here. My top fin is finished from x 22-30, y 11-15: leading edge from (22,15) up over the peak near (26,11), then trailing edge down to (30,14). Its lower-l
+[  119s] turn 7: Ava:inspect, Ben:inspect, Chloe:build, Dev:inspect | dominoes 107 | calls 34
+[  146s] turn 8: Ava:build, Ben:talk, Chloe:inspect, Dev:build | dominoes 115 | calls 40
+    Ben: Ava, the join is still open. Your end 84 at (19.8,20.0) faces right and has nothing ahead. My lower-left end 24 at (22.0,15.0) faces up-right, about 5 units awa
+    Ben: Ava, time's short, so please lay the bridge from your end 84 (19.8,20.0). Curve up toward (21.7,15.4) and finish on my end 24 (22.0,15.0), with 0.5 spacing so i
+    Ava: Ben, I'll lay the bridge. Inspect shows the spine is solid from the start to 84 (no gaps over 0.5), and 84 is the live end. Next turn I'll curve up from 84 towa
+[  218s] turn 9: Ava:build, Ben:inspect, Chloe:talk, Dev:build | dominoes 123 | calls 47
+    Chloe: Tail is disconnected from the start. Inspect shows the tail roots at x 43.9-44.0 (y 19-21) have no chain behind them, and the gap to Dev's fin end near x 32 is 
+    Chloe: Ben, Dev: I'm using this turn to talk, so I won't be building. Dev, the bridge from your fin end near (32,20) to the tail root at (43.5,20) is the critical link
+    Ben: Confirming from my notes: the start is your domino at (10,20), and I'm not touching it. I haven't inspected the nose since placing my fin, so I'll check it next
+    Dev: Dev: I can't run a bridge to x 43.5 in time. It's about 20 dominoes, and I only have this turn and the last one at 8 each. I'm spending this turn talking, so no
+[  235s] turn 10: Ava:inspect, Ben:inspect, Chloe:build, Dev:build | dominoes 137 | calls 51
+{
+  "size": 4,
+  "turns": 10,
+  "wall_seconds": 265.1,
+  "intents": {
+    "Ava": "undecided",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "judge_guesses": [
+    [
+      "hand-drawn line graph of a flat stretch that rises and peaks",
+      "stylized wave or hill profile",
+      "shark fin or hump silhouette"
+    ],
+    [
+      "a single hand-drawn curve, not dominoes",
+      "a flat line rising to a bump, like a wave or hill profile",
+      "a stylized step or ramp outline drawn as one stroke"
+    ],
+    [
+      "a single hand-drawn line forming a bump or hill",
+      "a stylized wave or ocean swell",
+      "a step up and over, like a ramp or stair edge"
+    ]
+  ],
+  "placed": 137,
+  "fell": 45,
+  "completion": 0.328,
+  "team_score": 0.055,
+  "first_build_turn": 1,
+  "action_counts": {
+    "build": 22,
+    "talk": 7,
+    "inspect": 10,
+    "listen": 1
+  },
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 61,
+    "failed": 0,
+    "input_tokens": 128,
+    "cache_creation_tokens": 172448,
+    "cache_read_tokens": 91933,
+    "output_tokens": 88461,
+    "seconds": 646.9,
+    "api_equivalent_usd": 0.0797
+  }
+}
