@@ -34,7 +34,8 @@ def test_most_eager_takes_the_floor_and_other_holds():
     assert rec["held"][0]["who"] == "B"
     g.step()                                       # B is asked again, having heard A
     assert any(m["text"].startswith("Let's do a cat") for m in b.seen[1]["conversation"])
-    assert "started talking first" in " ".join(b.seen[1]["why_now"])
+    assert "A said something to the table" in " ".join(b.seen[1]["why_now"])
+    assert any("didn't get to say" in x for x in b.seen[1]["inbox"])
 
 
 def test_build_is_head_down_at_ten_seconds_per_domino():
@@ -54,11 +55,11 @@ def test_talking_slows_your_hands():
 
 
 def test_addressed_builder_is_woken_but_keeps_building():
-    a = Fake("A", [Decision(do="build", strokes=[LINE], interrupt="addressed"), Decision(do="continue")])
+    a = Fake("A", [Decision(do="build", strokes=[LINE]), Decision(do="continue")])
     b = Fake("B", [Decision(), Decision(say="Ava, which way is the head?", to=["A"])])
     c = Fake("C", [Decision(say="Anyone want coffee?")])
     g = game([a, b, c], duration=60, idle_quiet=15, max_quiet=1e9)
-    g.step()                                       # C talks to the table: A ignores it (addressed only)
+    g.step()                                       # C talks to the table: busy A keeps working
     assert len(a.seen) == 1
     g.step()                                       # B is asked again (idle) and addresses A
     g.step()                                       # A is woken by being addressed
@@ -92,8 +93,8 @@ def test_inspect_reports_back():
     a = Fake("A", [Decision(do="build", strokes=[LINE], start=True), Decision(do="inspect", area=[0, 0, 20, 10])])
     g = game([a], duration=240, idle_quiet=1e9, max_quiet=1e9)
     g.run()
-    assert any("Inspection of" in x for s in a.seen for x in s["inbox"]) or \
-        any("Inspection of" in x for x in g.inbox["A"])
+    text = " ".join(x for s in a.seen for x in s["inbox"]) + " ".join(g.inbox["A"])
+    assert "You look closely" in text and "#" not in text
 
 
 def test_push_scores_live_game():
@@ -109,3 +110,55 @@ def test_short_remarks_share_a_beat():
     g = game([a, b], duration=15)
     g.step()
     assert len(g.log["turns"][0]["conversations"]) == 2 and not g.log["turns"][0]["held"]
+
+
+def test_name_mention_wakes_busy_builder():
+    a = Fake("A", [Decision(do="build", strokes=[LINE]), Decision(do="continue")])
+    c = Fake("C", [Decision(say="A, can you leave room for the tail?")])
+    g = game([a, c], duration=30, idle_quiet=1e9, max_quiet=1e9)
+    g.step()
+    g.step()
+    assert len(a.seen) == 2
+
+
+def test_pointing_is_seen_on_map_and_in_words():
+    a = Fake("A", [Decision(do="build", strokes=[LINE], start=True)])
+    b = Fake("B", [Decision(), Decision(say="Continue from here", point=[9, 5])])
+    c = Fake("C", [Decision(), Decision(), Decision()])
+    g = game([a, b, c], duration=200, idle_quiet=1e9, max_quiet=1e9)
+    for _ in range(9):
+        g.step()
+    b.script[0] = Decision()
+    g.wake["B"].append("test")
+    g.step()
+    g.wake["C"].append("test")
+    g.step()
+    seen = c.seen[-1]
+    said = [m for m in seen["conversation"] if m["speaker"] == "B"][-1]
+    assert "pointing" in said and "line" in said["pointing"]
+    assert "b" in seen["map"]
+
+
+def test_extend_and_connect_join_two_pieces():
+    from orgsim.dominoes import Physics
+    phys = Physics(bump_chance=0.0)             # normal hand error, no bumps
+    for seed in range(5):
+        a = Fake("A", [Decision(do="build", strokes=[{"type": "line", "x0": 5, "y0": 20, "x1": 10, "y1": 20}], start=True)])
+        b = Fake("B", [Decision(do="build", strokes=[{"type": "line", "x0": 20, "y0": 14, "x1": 26, "y1": 14}])])
+        g = LiveGame(table_world(phys=phys), [a, b], LiveConfig(duration=600, idle_quiet=1e9, max_quiet=1e9, seed=seed))
+        while g.t < 150:
+            g.step()
+        connect = Decision(do="build", strokes=[{"type": "connect", "from": [10, 20], "to": [20, 14]}])
+        a.script += [Decision()] * (len(a.seen) - len(a.script)) + [connect]
+        g.wake["A"].append("test")
+        res = g.run()
+        assert res["per_table"]["table"]["completion"] == 1.0, seed
+
+
+def test_freehand_strokes_land_roughly():
+    import random
+    from orgsim.handwork import freehand_specs
+    rng = random.Random(0)
+    offs = [freehand_specs({"type": "domino", "x": 10, "y": 10, "angle": 0}, rng)[0] for _ in range(200)]
+    mean_err = sum(((x - 10) ** 2 + (y - 10) ** 2) ** 0.5 for x, y, _ in offs) / len(offs)
+    assert 0.2 < mean_err < 0.6

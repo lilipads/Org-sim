@@ -3,28 +3,32 @@
 The clock runs in short beats (15 s by default). Agents are not polled every
 beat. They are asked to decide only when something calls for it:
   * the round starts;
-  * they hear something they asked to be interrupted for (anything said to the
-    table, or only things said to them);
+  * someone says their name; or, if their hands are free, anyone talks to the table;
   * their task finishes, or something happens to their work (bump, take-down);
-  * they held a thought because someone else took the floor;
   * they've been quiet too long (a periodic check-in).
 Each time, an agent can say something AND do something with their hands. Work is
 "head down": a build is a queue of dominoes the engine places over time, at about
 10 s per domino (slower while talking).
 
 Taking the floor: if several people start talking to the table in the same beat,
-the most eager one speaks; the others hold their thought and are asked again next
-beat, having heard the speaker.
+the most eager speaks first and others fit in while the beat has room; the rest
+hold their thought (they'll hear the speaker and can say it later).
+
+No rulers (see handwork.py): free-hand strokes land roughly where aimed; strokes
+anchored to an existing domino are precise; what agents see is approximate.
 """
 from __future__ import annotations
 
 import json
 import math
 import random
+import re
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass, field
 
-from .dominoes import World, expand_stroke
+from .dominoes import World
+from .handwork import (anchored_specs, area_words, describe_spot, direction, eye_inspect,
+                       freehand_specs, where)
 from .game import push_world
 from .render import ascii_map
 
@@ -64,7 +68,8 @@ class Decision:
     start: bool = False
     area: list | None = None
     where: str | None = None
-    interrupt: str = "any"           # any | addressed
+    point: list | None = None        # [x, y]: point at a spot while talking
+    interrupt: str = ""              # unused (kept so old logs still load)
     notes: str | None = None
     thinking: str = ""
 
@@ -106,7 +111,7 @@ class LiveGame:
         self.wake: dict = {a: ["the round is starting"] for a in n}
         self.last_asked = dict.fromkeys(n, -1e9)
         self.last_seen_msg = dict.fromkeys(n, 0)
-        self.held: dict = {}
+        self.markers: dict = {}                     # name -> (x, y, t, description)
         self.t = 0.0
         self.log: dict = {"engine": "live", "config": asdict(cfg),
                           "regions": [asdict(r) for r in world.regions.values()],
@@ -127,6 +132,34 @@ class LiveGame:
     def here(self, name: str) -> list:
         return [o for o in self.by_name if o != name and self.location[o] == self.location[name]]
 
+    def hands(self, name: str) -> list:
+        """What you can see the others doing with their hands."""
+        out = []
+        for o in self.here(name):
+            t = self.task[o]
+            if not t:
+                continue
+            if t["kind"] == "build":
+                x, y = t.get("last") or t.get("aim") or (None, None)
+                if x is not None:
+                    out.append(f"{o} is building around {where(x, y)} ({area_words(self.world, x, y)})")
+            elif t["kind"] in ("take_down", "inspect"):
+                x0, y0, x1, y1 = t["area"]
+                verb = "taking dominoes away" if t["kind"] == "take_down" else "looking closely"
+                out.append(f"{o} is {verb} around {where((x0 + x1) / 2, (y0 + y1) / 2)}")
+        return out
+
+    def overlay(self, text: str, loc) -> str:
+        """Show recent pointing on the map: the pointer's initial, in lower case."""
+        lines = text.split("\n")
+        for n, (x, y, t, _) in self.markers.items():
+            if self.t - t > 30 or not loc.contains(x, y):
+                continue
+            r, c = 2 + int(y - loc.y0), 5 + int(x - loc.x0)
+            if 0 <= r < len(lines) and 0 <= c < len(lines[r]):
+                lines[r] = lines[r][:c] + n[0].lower() + lines[r][c + 1:]
+        return "\n".join(lines)
+
     def task_status(self, name: str) -> str:
         task = self.task[name]
         if not task:
@@ -135,6 +168,7 @@ class LiveGame:
             done, total = task["done"], task["total"]
             return (f"Building ({task['label']}): {done} of {total} placed so far"
                     + (f", {len(task['queue'])} still to go." if task["queue"] else "."))
+
         if task["kind"] == "take_down":
             return f"Taking down dominoes in {task['area']}: {task['removed']} removed so far."
         if task["kind"] == "inspect":
@@ -156,8 +190,9 @@ class LiveGame:
             "map": ascii_map(self.world, loc.x0, loc.y0, loc.x1, loc.y1),
             "conversation": recent,
             "inbox": list(self.inbox[name]), "task": self.task_status(name),
-            "interrupt": self.interrupt[name], "notes": self.notes[name],
+            "hands": self.hands(name), "notes": self.notes[name],
         }
+        obs["map"] = self.overlay(obs["map"], loc)
         if len(self.world.regions) > 1:
             obs["room_overview"] = ascii_map(self.world, 0, 0, self.world.width, self.world.height, step=3.0)
         return obs
@@ -203,8 +238,6 @@ class LiveGame:
         for n, d in decisions.items():
             if d.notes is not None:
                 self.notes[n] = d.notes[:2500]
-            if d.interrupt in ("any", "addressed"):
-                self.interrupt[n] = d.interrupt
             dest = d.where if d.do == "walk" else None
             if dest and dest in self.world.regions and dest != self.location[n]:
                 self.location[n] = dest
@@ -249,9 +282,8 @@ class LiveGame:
                     spoke.add(n)
                     used += words
                 else:
-                    self.wake[n].append(f"you were about to speak but {first} started talking first")
-                    self.inbox[n].append(f"You held your thought (you were going to say: \"{d.say.strip()}\") "
-                                         f"because {first} started talking first.")
+                    self.inbox[n].append(f"You didn't get to say \"{d.say.strip()}\": {first} was talking. "
+                                         "Say it again if it still matters.")
                     rec["held"].append({"who": n, "message": d.say.strip(), "yielded_to": first})
         return spoke
 
@@ -268,12 +300,23 @@ class LiveGame:
                 self.inbox[n].append(f"Not here, so they didn't hear you: {', '.join(missing)}.")
         msg = {"t": self.t, "clock": clock(self.t), "speaker": n,
                "to": "everyone" if audience == "everyone" else hearers, "text": text}
+        pt = d.point if isinstance(d.point, list) and len(d.point) >= 2 else None
+        if pt:
+            try:
+                px, py = float(pt[0]), float(pt[1])
+                desc = describe_spot(self.world, px, py)
+                self.markers[n] = (px, py, self.t, desc)
+                msg["pointing"] = f"{desc} near {where(px, py)}"
+            except (TypeError, ValueError):
+                pass
         self.heard[n].append(dict(msg, side=False))
         for m in hearers:
             self.heard[m].append(dict(msg, side=False))
             addressed = audience != "everyone"
-            if addressed or self.interrupt[m] == "any" or not self.task[m]:
-                reason = f"{n} said something to you" if addressed else f"{n} said something to the table"
+            named = re.search(r"\b" + re.escape(m) + r"\b", text, re.I) is not None
+            if addressed or named or not self.task[m]:
+                reason = (f"{n} said something to you" if addressed or named
+                          else f"{n} said something to the table")
                 if reason not in self.wake[m]:
                     self.wake[m].append(reason)
         if audience != "everyone":
@@ -281,7 +324,8 @@ class LiveGame:
                 if m not in hearers:
                     self.inbox[m].append(f"[{clock(self.t)}] {n} said something quietly to {', '.join(hearers)}.")
         rec["conversations"].append({"members": [n] + list(hearers), "pulled_in": [], "location": self.location[n],
-                                     "messages": [{"speaker": n, "to": msg["to"], "message": text}]})
+                                     "messages": [{"speaker": n, "to": msg["to"], "message": text,
+                                                   **({"pointing": msg["pointing"]} if "pointing" in msg else {})}]})
 
     def _start_task(self, n: str, d: Decision, rec: dict):
         if d.do in ("continue", "walk") or d.do not in DOS:
@@ -290,10 +334,18 @@ class LiveGame:
             self.task[n] = None
             return
         if d.do == "build":
-            specs, bad = [], []
+            specs, bad, notes = [], [], []
             for s in d.strokes or []:
                 try:
-                    specs += [("place", sp) for sp in expand_stroke(s)]
+                    room = self.cfg.max_queue - len(specs)
+                    if s.get("type") in ("extend", "connect"):
+                        pts, note = anchored_specs(self.world, s, max(0, room))
+                        notes.append(note)
+                        if not pts:
+                            bad.append(note)
+                    else:
+                        pts = freehand_specs(s, self.rng)
+                    specs += [("place", sp) for sp in pts]
                 except Exception as e:
                     bad.append(f"{s!r}: {e}")
             if d.restand and len(d.restand) == 4:
@@ -303,10 +355,11 @@ class LiveGame:
                 specs = [("restand", i) for i in down] + specs
             cut = max(0, len(specs) - self.cfg.max_queue)
             specs = specs[: self.cfg.max_queue]
-            label = ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
+            label = "; ".join(notes) or ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
+            aim = next(((sp[0], sp[1]) for kind, sp in specs if kind == "place"), None)
             self.task[n] = {"kind": "build", "queue": specs, "total": len(specs), "done": 0,
                             "start": bool(d.start), "label": label, "placed": [], "blocked": [],
-                            "at": self.location[n]}
+                            "at": self.location[n], "aim": aim}
             if bad:
                 self.inbox[n].append("Didn't understand: " + "; ".join(bad[:3]))
             if cut:
@@ -352,6 +405,7 @@ class LiveGame:
                 task["placed"] += [d.id for d in new]
                 pts = [(d.x, d.y) for d in new + restood]
                 if pts:
+                    task["last"] = pts[-1]
                     placed_at[n] = (sum(p[0] for p in pts) / len(pts), sum(p[1] for p in pts) / len(pts))
                 if new or restood:
                     rec["events"].append({"type": "build", "who": n, "placed": [d.id for d in new],
@@ -378,7 +432,7 @@ class LiveGame:
                     for owner, k in whose.items():
                         if owner != n and owner in self.by_name:
                             self.inbox[owner].append(f"[{clock(self.t)}] {n} took down {k} of your dominoes "
-                                                     f"around ({cx:.0f}, {cy:.0f}).")
+                                                     f"around {where(cx, cy)}.")
                             if self.location[owner] == self.location[n]:
                                 self.wake[owner].append(f"{n} is taking down your dominoes")
                 if len(inside) <= room or task["removed"] >= cfg.take_down_max:
@@ -388,18 +442,10 @@ class LiveGame:
                     self.wake[n].append("you finished taking down")
                     self.task[n] = None
             elif task["kind"] == "inspect" and self.t + cfg.beat >= task["ends"]:
-                rep = self.world.inspect(*task["area"])
-                lines = [f"Inspection of {task['area']}: {rep['count']} dominoes, {rep['knocked_over']} knocked over, "
-                         f"{rep['not_reached_from_start']} standing ones the start can't reach"
-                         + ("" if rep["has_start"] else " (there is no start domino yet)") + "."]
-                if rep["line_ends"]:
-                    lines.append("Line ends (these knock nothing over): " + "; ".join(
-                        f"#{e['id']} at ({e['x']},{e['y']}) facing {e['angle']}: {e['why']}" for e in rep["line_ends"]))
-                lines.append("Dominoes [id, x, y, angle, state]: " + json.dumps(rep["dominoes"]))
-                self.inbox[n].append("\n".join(lines))
+                report = eye_inspect(self.world, task["area"])
+                self.inbox[n].append(report)
                 self.wake[n].append("your inspection finished")
-                rec["events"].append({"type": "inspect", "who": n, "area": task["area"],
-                                      "line_ends": len(rep["line_ends"])})
+                rec["events"].append({"type": "inspect", "who": n, "area": task["area"]})
                 self.task[n] = None
         return placed_at
 
@@ -409,12 +455,12 @@ class LiveGame:
         msg = f"Finished building ({task['label']}): placed {len(ids)}."
         if doms:
             first, last = doms[0], doms[-1]
-            msg += (f" First #{first.id} at ({first.x:.2f},{first.y:.2f}) facing {first.angle:.0f}; "
-                    f"last #{last.id} at ({last.x:.2f},{last.y:.2f}) facing {last.angle:.0f}.")
+            msg += (f" They run from about {where(first.x, first.y)} to about {where(last.x, last.y)}, "
+                    f"ending facing {direction(last.angle)}.")
             if any(d.start for d in doms):
-                msg += " It includes the start domino."
+                msg += " The first one is the start domino."
         if task["blocked"]:
-            msg += " Couldn't place: " + "; ".join(f"({x:.1f},{y:.1f}) {why}" for x, y, why in task["blocked"][:5])
+            msg += " Some wouldn't fit: " + "; ".join(f"near {where(x, y)} ({why})" for x, y, why in task["blocked"][:5])
         self.inbox[n].append(msg)
         self.wake[n].append("you finished what you were building")
         self.task[n] = None

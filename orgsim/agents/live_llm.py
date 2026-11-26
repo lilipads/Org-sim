@@ -21,7 +21,9 @@ THE TABLE
 - A domino falls in the direction it faces. Angles: 0 = right (+x), 90 = down (+y), 180 = left,
   270 = up.
 - The map shows standing dominoes as arrows (rough direction), S = the start domino, x = knocked over,
-  . = empty. The map is approximate (one character per unit).
+  . = empty, and a lower-case letter where someone is pointing right now (their initial).
+- There are no rulers. You judge positions by eye, to about a unit. Positions people mention, and
+  everything you learn by looking, are rough.
 
 HOW DOMINOES FALL
 A falling domino knocks over another standing domino if that domino is 0.2 to 0.9 units ahead in the
@@ -43,6 +45,10 @@ TIME AND HANDS
 TALKING
 - Say things to the whole table, or to specific people. Everyone at the table hears what's said to the
   table. When you speak to specific people, only they hear the words; the others just notice.
+- You can point at a spot on the table while you talk ("point": [x, y]). Everyone sees where you're
+  pointing, so "here" and "this end" mean something.
+- If you're busy with your hands, you'll look up when someone says your name; otherwise you keep
+  working and catch up on the talk later.
 - People take turns to talk. If someone else starts talking at the same moment, the more eager person
   speaks and the other holds the thought.
 - Talk the way you would at a work offsite: naturally, in your own voice. Small talk, jokes, ideas,
@@ -50,19 +56,30 @@ TALKING
 
 WHAT YOU CAN DO WITH YOUR HANDS
 - build: place dominoes along strokes (below), and/or stand knocked-over dominoes back up in an area.
-  You keep working on it until it's done; you're asked again when it's finished.
+  You keep working on it until it's done; you're asked again when it's finished. You can see roughly
+  where everyone else's hands are.
 - take_down: remove dominoes in an area [x0,y0,x1,y1], whoever built them (back into the supply).
-- inspect: look closely at an area [x0,y0,x1,y1]: exact positions and angles, every line end that won't
-  knock anything over and why, and how much the start domino can reach.
+- inspect: look closely at an area [x0,y0,x1,y1] for about 15 seconds: where the chain looks broken
+  and why, where lines end, and, following the chain by eye from the start, how much of the table it
+  would knock over and which pieces aren't connected to it.
 - continue: keep doing what you're doing.  stop: put things down and just watch or talk.
 
 STROKES (for build)
-- {{"type":"domino","x":12.0,"y":8.5,"angle":90}}  one domino.
+Starting something new, by eye (lands within about a third of a unit of where you aim, and may be
+turned a few degrees; spacing within the stroke stays even):
 - {{"type":"line","x0":10,"y0":5,"x1":14,"y1":5,"spacing":0.55}}  from (x0,y0) toward (x1,y1),
   facing along the line.
 - {{"type":"arc","cx":20,"cy":20,"r":4,"a0":180,"a1":270,"spacing":0.55}}  around a circle centred
   at (cx,cy), from angle a0 to a1 (points at cx+r*cos(a), cy+r*sin(a)), facing the direction of travel.
   a1 > a0 goes clockwise on the map; a1 < a0 anticlockwise. Keep r at 1.5 or more.
+- {{"type":"domino","x":12,"y":8,"angle":90}}  one domino.
+Building onto dominoes that are already standing (your hands line it up against the real domino,
+so this is precise):
+- {{"type":"extend","from":[x,y],"toward":[x,y],"count":12}}  carry on from the line end nearest
+  "from" (or branch off the side of a line), curving gently toward "toward".
+- {{"type":"connect","from":[x,y],"to":[x,y]}}  join two pieces: from the line end nearest "from" to
+  the domino nearest "to", arriving behind it so the fall carries on into it. It routes around what's
+  already on the table.
 Spacing of about 0.5-0.6 is comfortable. One build can be up to 40 dominoes.
 """
 
@@ -72,10 +89,10 @@ OUTPUT_FORMAT = """Reply with one JSON object and nothing else. Leave out fields
   "say": "what you say out loud, or empty to stay quiet",
   "to": "everyone" or ["Name", ...],
   "eagerness": 1-10 (how strongly you want the floor right now),
+  "point": [x, y] (optional: where you're pointing as you speak),
   "do": "continue | build | take_down | inspect | stop",
   "strokes": [...], "start": false, "restand": [x0, y0, x1, y1],   (build)
   "area": [x0, y0, x1, y1],                                        (take_down, inspect)
-  "interrupt": "any" (react whenever someone talks to the table) or "addressed" (only when someone talks to you),
   "notes": "your private notes for later: they replace the old ones. Keep what you need to remember."
 }"""
 
@@ -126,7 +143,8 @@ class LiveLLMAgent(LiveAgentBase):
         convo = []
         for m in obs["conversation"]:
             star = "* " if m.get("new") else "  "
-            convo.append(f"{star}[{m['clock']}] {m['speaker']} (to {fmt_to(m['to'])}): {m['text']}")
+            pointing = f", pointing at {m['pointing']}" if m.get("pointing") else ""
+            convo.append(f"{star}[{m['clock']}] {m['speaker']} (to {fmt_to(m['to'])}{pointing}): {m['text']}")
         sup = ", ".join(f"{k}: {v}" for k, v in obs["supply"].items())
         mins_left = obs["remaining"] / 60
         return "\n".join([
@@ -135,8 +153,7 @@ class LiveLLMAgent(LiveAgentBase):
             f"You're at {obs['location']} with {', '.join(obs['people_here']) or 'nobody'}. "
             f"Dominoes left: {sup}.",
             f"Your hands: {obs['task']}",
-            f"You're currently set to be interrupted by: "
-            f"{'anything said to the table' if obs['interrupt'] == 'any' else 'only things said to you'}.",
+            "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
             "THE TABLE NOW:",
             obs["map"],
@@ -182,7 +199,7 @@ class LiveLLMAgent(LiveAgentBase):
             start=bool(d.get("start")),
             area=d.get("area") if isinstance(d.get("area"), list) else None,
             where=d.get("where"),
-            interrupt=d.get("interrupt") if d.get("interrupt") in ("any", "addressed") else "",
+            point=d.get("point") if isinstance(d.get("point"), list) else None,
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 

@@ -20,7 +20,8 @@ from orgsim.judge import judge_picture  # noqa: E402
 from orgsim.live import LiveConfig, LiveGame  # noqa: E402
 from orgsim.render import picture_png, topple_gif  # noqa: E402
 from orgsim.replay import write_replay  # noqa: E402
-from orgsim.transcript import live_transcript  # noqa: E402
+from orgsim.agents.llm import call_model  # noqa: E402
+from orgsim.transcript import live_transcript, recap_prompt, story_transcript  # noqa: E402
 
 
 def names_for(size: int) -> list:
@@ -76,8 +77,14 @@ def main():
     game.save(os.path.join(args.out, "log.json"))
     title = f"AI pilot (real-time) · table of {args.size}"
     write_replay(game.log, os.path.join(args.out, "replay.html"), title)
-    with open(os.path.join(args.out, "transcript.md"), "w") as f:
+    recap = call_model("You write short, vivid recaps for a blog about teamwork.", recap_prompt(game.log),
+                       calls, "recap")
+    game.log["recap"] = recap
+    game.save(os.path.join(args.out, "log.json"))
+    with open(os.path.join(args.out, "transcript_detailed.md"), "w") as f:
         f.write(live_transcript(game.log, title))
+    with open(os.path.join(args.out, "story.md"), "w") as f:
+        f.write(story_transcript(game.log, title, recap))
 
     tab = res["per_table"]["table"]
     msgs = [c["messages"][0] for r in game.log["turns"] for c in r["conversations"]]
