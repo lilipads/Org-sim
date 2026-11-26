@@ -1,0 +1,236 @@
+[   21s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Okay, I'm grabbing the pad. Let's do a fish: simple outline, tail fin, an eye. I'll sketch it now and we start the run at the nose.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[   31s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 7
+    Sofia -> everyone: Yes, a fish! Jack, that's the plan I had too: round body, big tail fin, a fin on top, facing right with the start at the tail. Once the strokes are on the pad, I'll take the tail and fin if nobody's a
+    (Omar held a thought)
+    (Hana held a thought)
+[   40s] 0:30 asked Omar,Hana,Jack | dominoes 0 | calls 10
+    Hana -> everyone: Fish works for me. Let's put the start at the nose, like Jack said, so both edges run back toward the tail and the fins branch off there. Sofia, once the outline's on the pad, I'll take the tail fin i
+    (Omar held a thought)
+    (Jack held a thought)
+[   52s] 0:45 asked Sofia,Omar,Jack | dominoes 0 | calls 13
+    Jack -> Sofia: Sofia, you've got the pad, so go ahead and sketch it. Body and tail fin first. The nose goes out here, and I'll trace the top line as soon as it's down.
+    Sofia -> everyone: Sounds good, Hana, the tail fin's yours. I'll take the spine, stroke 1, since it leads off the start, and then the top fin. Jack, shout when the strokes are down.
+    (Omar held a thought)
+[   63s] 1:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 17
+    Omar -> everyone: Quick one before we build, Jack. Could we start at the top tip of the tail instead of the nose? The fall runs away from the start, so from the tail it sweeps the whole body and the fin comes out prope
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[   86s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 1 | calls 21
+    Sofia -> everyone: Good call, Omar. The pad already starts at the tail, so the fall runs tail to nose. I'm laying the spine first, then the top and bottom outlines off it. Omar, the top fin is yours once the top line is
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   98s] 1:30 asked Omar,Hana,Jack | dominoes 5 | calls 24
+    Hana -> everyone: Thanks, Sofia, that's clear: START at the tail, stroke 1 runs tail to nose. I've got the tail fin, branching off the tail base here. I'll wait for the pad before I trace anything. Omar, you take the t
+    (Jack held a thought)
+    (Omar held a thought)
+[  108s] 1:45 asked Sofia,Omar,Jack | dominoes 3 | calls 27
+    Sofia -> everyone: Thanks, Hana, got it. I'm laying the spine now, then the top and bottom outlines off it. I'll keep the pad until those three are down, then I'll pass it on. Jack, I'll call out when they're standing.
+    (Omar held a thought)
+    (Jack held a thought)
+[  119s] 2:00 asked Hana,Jack | dominoes 0 | calls 29
+    Jack -> everyone: Sofia, I'm taking the top body line, stroke 2, since I promised it. I'll wait for the spine to reach the branch point so it joins cleanly. Omar, the top fin is still yours.
+    (Hana held a thought)
+[  134s] 2:15 asked Sofia,Omar,Hana | dominoes 5 | calls 32
+    Sofia -> everyone: Jack, I've already got the top line, stroke 2, in my hands, so could you take the bottom line instead? It branches off the spine at the same spot. I'll drop it from my build once the top is down, and 
+    (Hana held a thought)
+    (Omar held a thought)
+[  149s] 2:30 asked Hana,Jack | dominoes 8 | calls 34
+    Hana -> Sofia: Sofia, once the spine's standing, could I borrow the pad for a minute? I'll sketch the tail fin off the tail base, trace it straight after, and give the pad straight back.
+    Jack -> Sofia: Sofia, I've already got three of the top line down, so it's quicker if I finish stroke 2 and you keep the bottom line, stroke 3, since it's already on your pad. Does that work? I'll carry the top on f
+[  161s] 2:45 asked Sofia | dominoes 11 | calls 35
+    Sofia -> everyone: Deal, Jack. You finish the top line, stroke 2, since you're already three down. I'll keep the spine and the bottom line, stroke 3. Hana, you get the pad as soon as the spine's standing, and I'll call 
+[  184s] 3:00 asked Hana,Jack | dominoes 15 | calls 37
+    Hana -> everyone: Heads up on the tail fin: arms going back off the tail would fall the wrong way, so I'll draw them leaving the start forward. I'll sketch that when I have the pad, and I'll check it with inspect befor
+    (Jack held a thought)
+[  184s] 3:15 asked - | dominoes 22 | calls 37
+[  184s] 3:30 asked - | dominoes 31 | calls 37
+[  184s] 3:45 asked - | dominoes 35 | calls 37
+[  209s] 4:00 asked Omar,Hana | dominoes 39 | calls 39
+    Hana -> Sofia: Sofia, when the spine's standing, could I have the pad? One heads-up for the tail: arms that point back off the tail base won't fall, because the fall runs forward. I'll draw the fin leaving the tail 
+    Omar -> everyone: Top fin's up, Jack, and it hangs off your top line at the branch point. Once your line's down I'll check the join with inspect. Holding off on the pad.
+[  228s] 4:15 asked Sofia,Hana,Jack | dominoes 41 | calls 42
+    Sofia -> Hana: Hana, the spine's standing up to the branch point, but it still has to reach the nose. I'll call it out once it's all down and hand you the pad then.
+    Hana -> Sofia: Sofia, when the spine's standing past this branch point, I'll take the pad. One change to my fin: it fans forward from the start, with the two arms meeting the body just behind where the body starts, 
+    Jack -> everyone: Thanks, Omar, good to know the fin's up. I'm finishing the top line now and I'll join it onto the spine at the branch once it's standing. Sofia, deal on stroke 2.
+[  240s] 4:30 asked Sofia,Omar,Hana | dominoes 43 | calls 45
+    Sofia -> Hana: Still laying the spine out toward the nose, Hana. The pad's yours as soon as it's all standing, and I'll call it out.
+    Omar -> Jack: Cheers, Jack. I'll check the fin join as soon as your top line's standing.
+    Hana -> Sofia: Sofia, with about five minutes left, I'll take the pad as soon as the spine's standing past the branch. I'll sketch the fin fast, check it, and trace it straight away.
+[  252s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 44 | calls 49
+    Sofia -> Hana: Hana, take the pad now. I'm still laying the spine out toward the nose, so I'll keep building it. Sketch the tail fin leaving the tail forward, check it with inspect, and trace it when you're happy. I
+    Jack -> Omar: Sounds good, Omar. I'm about four dominoes from the end of the top line. I'll shout when it's standing so you can check the join.
+    Hana -> everyone: Sofia, I'm holding off the pad until the spine reaches the nose. With about five minutes left, if it isn't down in the next minute or two, I'll keep the tail fin to a simple two-arm fan so it still ge
+[  263s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 46 | calls 53
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> Hana: Hana, the pad's yours now. Sketch the tail fin leaving the tail forward and check it with inspect before you trace. I'm still running the spine out to the nose and will call it out when it's down.
+    Omar -> Jack: Jack, if you want a hand on the last few of the top line, I can take the final stretch. Otherwise I'll wait for your shout and check the join.
+    Hana -> everyone: Got the pad, thanks Sofia. I'm sketching the tail fin now: two arms leaving the start forward and meeting the body just behind where it begins. I'll check it with inspect before anyone traces it.
+    (Jack held a thought)
+[  280s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 49 | calls 57
+    Jack -> everyone: Omar, yes please, take the last few dominoes at the far end of my top line, from about here toward the nose. I'll keep working on the join at the branch. Sofia, how's the spine coming? It needs to rea
+    (Hana held a thought)
+[  295s] 5:30 asked Sofia,Omar,Hana | dominoes 58 | calls 60
+    Hana -> everyone: Jack, the spine's standing up to the branch, and Sofia's still running it toward the nose. The fin's on the pad: both arms leave the tail forward and meet the body just behind the branch. I'm tracing 
+    (Sofia held a thought)
+    (Omar held a thought)
+[  306s] 5:45 asked Sofia,Omar,Jack | dominoes 72 | calls 63
+    Sofia -> everyone: Jack, Hana, the spine's standing past the branch point now. I've got the last stretch out to the nose, and I'll call it out once it's all down.
+    (Jack held a thought)
+    (Omar held a thought)
+[  318s] 6:00 asked Omar,Hana,Jack | dominoes 88 | calls 66
+    Jack -> everyone: Thanks, Hana, that's the tail fin sorted. The spine's up past the branch, so I'm joining the top line onto it now. Sofia, give me a shout when the spine reaches the nose.
+    (Omar held a thought)
+[  328s] 6:15 asked Sofia,Omar,Hana | dominoes 96 | calls 69
+    Sofia -> Jack: Still running the spine out to the nose, Jack. I'll shout as soon as it's all standing, then the bottom line goes on.
+    Omar -> everyone: Jack, the last six are down off the far end of your top line, ending just short of the nose. I'll check the chain there once your join at the branch is in.
+[  339s] 6:30 asked Omar,Hana,Jack | dominoes 103 | calls 72
+    Omar -> everyone: Sofia, Hana, the start's only carrying about 14 pieces, so the spine isn't joined through past the tail fin yet. I'm closing the small break at the end of my extension now. Sofia, can you check the sp
+    (Jack held a thought)
+    (Hana held a thought)
+[  352s] 6:45 asked Sofia,Omar,Hana | dominoes 107 | calls 75
+    Sofia -> Omar: On it, Omar. I'm inspecting the spine from the start to the branch now, and I'll call out what's broken.
+    Hana -> everyone: Omar's right, the spine's pale just past the tail fin, so the break is at the branch. I'm inspecting the join now. Sofia, if it's just a domino or two there I'll close it, otherwise I'll leave the spi
+[  366s] 7:00 asked Sofia,Omar,Hana | dominoes 110 | calls 78
+    Omar -> Sofia: Sofia, I'm closing the gap at the end of my extension now. Shout if the spine needs a hand, and I'll come straight over.
+    Sofia -> everyone: Hana, I've got the spine break at the branch. I'm closing it now, so leave that join to me. Once it's standing I'll run the rest out to the nose.
+    (Hana held a thought)
+[  377s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 82
+    Sofia -> everyone: Omar, Hana, I've got the break at the branch and I'm closing it now. Jack, the bump knocked over a batch around the join, so you'll need to stand those back up before we connect the top line. Once the
+    (Jack held a thought)
+    (Hana held a thought)
+[  386s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 86
+    Jack -> everyone: On it, Sofia. I'm standing the bumped batch back up around the branch join now, so the top line can connect cleanly. Omar, I'll shout when it's up for your fin check.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  394s] 7:45 asked Sofia,Omar,Jack | dominoes 97 | calls 89
+    Sofia -> everyone: Jack, Omar, Hana: I'm closing the spine break at the branch now. Once it's standing I'll run it out to the nose.
+    (Jack held a thought)
+    (Omar held a thought)
+[  403s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 103 | calls 93
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Closing the spine break at the branch now. Hana, Omar, Jack, the pad stays with you, and I'll shout if the last stretch to the nose won't make it.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  411s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 103 | calls 97
+    Hana -> Sofia: Sofia, I'm staying off the branch join. I'm finishing the lower tail arm now, and I'll leave the upper arm until your join is standing.
+    Omar -> everyone: Sofia, Jack, I'm keeping off the branch while Jack stands the bumped batch. My end is in, and I'll recheck the join when you call the spine down.
+    (Jack held a thought)
+[  420s] 8:30 asked Sofia,Hana,Jack | dominoes 103 | calls 100
+    Sofia -> everyone: Closing the spine break at the branch now. Past it, the spine still isn't standing out to the nose, so I'll run as much as I can in the time left. Jack, Omar, Hana, please keep off the branch join unt
+    (Jack held a thought)
+[  429s] 8:45 asked Omar,Hana,Jack | dominoes 103 | calls 103
+    Omar -> Sofia: Got it, Sofia. I'm keeping off the branch. Shout if you want a hand running the last stretch out to the nose.
+    Jack -> everyone: Sofia, I'm keeping off the spine join, it's all yours. I'm finishing the bumped batch up top and I'll shout once it's clear for Omar's fin check.
+[  438s] 9:00 asked Sofia,Omar,Hana | dominoes 103 | calls 106
+    Sofia -> Omar: Omar, the spine's still short past the branch. Can you run the last stretch from where it ends toward the nose? I'm closing the break at the branch now.
+    Omar -> Sofia: Sofia, I'm off the branch. If you want a hand on the last stretch to the nose, shout and I'll come straight over.
+[  447s] 9:15 asked Sofia,Omar | dominoes 107 | calls 108
+    Sofia -> Omar: Omar, yes please. Run the last stretch from where the spine ends toward the nose. I'm still on the branch join, so you're clear to go.
+    Omar -> Sofia: Sofia, I've got it. I'm running the last stretch from the end of the spine toward the nose now. You keep the branch join.
+[  453s] 9:30 asked Sofia,Omar | dominoes 114 | calls 110
+    Sofia -> Omar: Thanks, Omar. Go for it on the last stretch. I've got the branch join, so I'll keep working on it.
+[  458s] 9:45 asked Omar,Jack | dominoes 117 | calls 112
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.71,
+      "error": 1.71
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 0.56
+    },
+    "Hana": {
+      "speed": 1.26,
+      "error": 0.58
+    },
+    "Jack": {
+      "speed": 0.71,
+      "error": 1.03
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 514.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Sofia",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fallen domino chain curving across the page",
+      "hand-drawn curvy stroke or doodle",
+      "abstract bird or swan neck outline"
+    ],
+    [
+      "dominoes in a curved, winding line",
+      "a snake or worm-like squiggle",
+      "a hand-drawn cursive or scribbled stroke"
+    ],
+    [
+      "a trail of fallen dominoes curving across the page",
+      "a hand-drawn squiggle or scribbled line",
+      "a winding river or road on a map"
+    ]
+  ],
+  "placed": 117,
+  "fell": 9,
+  "completion": 0.143,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 10,
+    "Sofia": 21,
+    "Hana": 12,
+    "Omar": 11
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 129,
+    "failed": 0,
+    "input_tokens": 270,
+    "cache_creation_tokens": 667660,
+    "cache_read_tokens": 382324,
+    "output_tokens": 146801,
+    "seconds": 1193.9,
+    "api_equivalent_usd": 0.2108,
+    "cached": 0
+  }
+}

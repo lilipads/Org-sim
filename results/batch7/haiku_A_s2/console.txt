@@ -1,0 +1,235 @@
+[   19s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish. Simple outline, tail on the left, and I'm sketching it on the pad now so we can see the plan before we place anything.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   27s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Leo -> everyone: Fish works for me, Maya. I was going to say the same thing: nose on the left as the start, one line over the top, one under, and a forked tail. Once your sketch is up, I'll trace the top and bottom of
+    (Tom held a thought)
+    (Priya held a thought)
+[   41s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 10
+    Tom -> everyone: Sounds good, Maya. Tail on the left, nose on the right, same as I had. Leo, I'd start from the tail so the fall runs left to right with the sketch. I'll hold off placing until the outline's on the pad
+    (Priya held a thought)
+    (Maya held a thought)
+[   58s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 7 | calls 14
+    Maya -> everyone: Okay, here's the plan. START is at the tail tip, and the fish faces right, so the fall runs toward the nose. Leo, you trace stroke 1, the spine, and set the start there. Tom, you take the tail fin, st
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[   73s] 1:00 asked Tom,Priya,Leo | dominoes 14 | calls 17
+    Tom -> everyone: Sketch looks right, Maya. Quick fix on the numbers: the fork is 5 and 6, and 4 is the bottom of the body. I'm already on 6, so I'll take 5 and 6. That leaves the body top and bottom, 3 and 4, for you 
+    (Priya held a thought)
+    (Leo held a thought)
+[   89s] 1:15 asked Maya,Priya,Leo | dominoes 22 | calls 20
+    Leo -> everyone: Okay, I'm on stroke 1, the spine, starting at the tail tip and running right toward the nose. Maya, on the pad the top body is 3 and the bottom is 4, with the tail fork on 5 and 6. Tom has 5 and 6, so
+    (Priya held a thought)
+    (Maya held a thought)
+[  101s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 34 | calls 24
+    Priya -> everyone: Works for me, Tom. Quick check on the numbers: 5 and 6 are the tail fork, and 4 is the bottom body, so Maya and Leo split 3 and 4. I'll take the belly line back to the tail and the joins at the fork o
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  114s] 1:45 asked Maya,Tom,Leo | dominoes 43 | calls 27
+    Tom -> Priya: Thanks, Priya. Stroke 6's almost done, I'm closing that small gap near the middle now, then stroke 5 is the top prong. Once the spine's down, the fork joins should be easy to hook up.
+    Leo -> everyone: Laying the spine now, tail tip to nose, START at the tail so the fall runs right. Maya, on the pad I read the top body as 3, the bottom as 4, and the fork as 5 and 6. Confirm that and I'll take 3 and 
+    (Maya held a thought)
+[  133s] 2:00 asked Maya,Priya,Leo | dominoes 49 | calls 30
+    Maya -> everyone: Got it, Leo. I'm on 3 and 4, top and bottom of the body, branching off the spine. Priya, the belly line's yours if you want it.
+    (Leo held a thought)
+[  146s] 2:15 asked Tom,Priya,Leo | dominoes 56 | calls 33
+    Leo -> everyone: Maya, Priya, the spine goes dead right here, where the run bends down. I'm carrying it straight on from this end toward the nose now. Maya, your 3 and 4 can branch off once it's through. Priya, hold t
+    (Priya held a thought)
+[  156s] 2:30 asked Maya,Tom,Priya | dominoes 66 | calls 36
+    Priya -> everyone: Got it, Leo. I'm holding the belly line. Shout when the spine's through and I'll run it from the bottom of the body back to the tail tip.
+    (Tom held a thought)
+[  167s] 2:45 asked Tom,Leo | dominoes 71 | calls 38
+    Leo -> Priya: Still extending the spine, about 17 to go. I'll shout when it's through, and I'll check the bend near the bottom body before then.
+    Tom -> everyone: Got it, Leo. I'm still closing that gap on the bottom prong, then the top prong goes on. The fork should hook onto your spine once it's through.
+[  179s] 3:00 asked Priya,Leo | dominoes 74 | calls 40
+[  190s] 3:15 asked Maya,Priya | dominoes 77 | calls 42
+    Maya -> everyone: Top body's through, going to lay the bottom body (stroke 4) now, branching off the spine.
+[  200s] 3:30 asked Priya | dominoes 78 | calls 43
+    Priya -> everyone: Nice, Maya. Leo, how far is the spine from the nose? I'll start the belly line as soon as you call it.
+[  208s] 3:45 asked Maya,Leo | dominoes 72 | calls 45
+    Leo -> Priya: About seventeen more to go, Priya. I'll shout when it's through to the nose.
+[  218s] 4:00 asked Tom,Priya | dominoes 69 | calls 47
+    Tom -> everyone: Top prong's laid again, but it isn't hooked into the tail yet. I'm checking the whole fork before I touch anything else.
+[  229s] 4:15 asked Tom,Priya,Leo | dominoes 65 | calls 50
+    Priya -> Tom: Tom, I'll keep off the fork while you check it. If you want a second pair of hands on the join back to the tail, just say so.
+    Leo -> everyone: Spine's through to the nose, Priya, so the belly line is yours. Maya, your branches can go on now. I'm checking the bend near that stray domino and will shout if anything's broken.
+    (Tom held a thought)
+[  239s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 58 | calls 54
+    Tom -> Priya: Priya, yes please. Could you take the join from the end of the top prong back to the tail tip? I'm still closing the gap on the bottom prong. Once both are hooked in, I'll check they meet the spine.
+    Leo -> everyone: Correction from me: the spine isn't actually connected through. There's a gap right at this bend, where the dark run stops, so everything past it isn't hooked to the start yet. I'm bridging it now. Pr
+    (Priya held a thought)
+    (Maya held a thought)
+[  250s] 4:45 asked Tom,Priya,Leo | dominoes 60 | calls 57
+    Tom -> Priya: Yes please, Priya. You take the top prong's join back to the tail tip. I'm finishing the small gap on the bottom prong and I'll hook that one on once Leo's bend is bridged.
+    Priya -> everyone: Yes, Tom, I've got the join from the top prong back to the tail tip. I'll look over that corner before I place anything so I don't add a break. Leo, I'm holding the belly line until you call the bend 
+    (Leo held a thought)
+[  263s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 67 | calls 61
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Bridging the bend at the spine now. Priya, hold the belly line until I call it hooked. Maya, your branches are fine to keep going.
+    (Priya held a thought)
+[  273s] 5:15 asked Maya,Tom,Priya | dominoes 72 | calls 64
+    Priya -> everyone: Tom, I'm hooking the top prong's lower end onto the tail tip now, so the fall runs from the start into the prong. Leo, I'm still holding the belly line until you call the bend hooked.
+    (Tom held a thought)
+    (Maya held a thought)
+[  283s] 5:30 asked Maya,Tom,Leo | dominoes 76 | calls 67
+    Tom -> everyone: Priya, good, the top prong's join to the tail is yours. The bottom prong's break is too big to nudge, so I'm laying stroke 6 again. I'll hook it on once Leo calls the bend.
+    (Leo held a thought)
+    (Maya held a thought)
+[  297s] 5:45 asked Maya,Priya,Leo | dominoes 76 | calls 70
+    Priya -> Tom: Got it, Tom. I've got the top prong's join to the tail. Still holding the belly line for Leo.
+    Leo -> everyone: Still bridging the bend at the spine. Once the connect's down I'll inspect it. If it's hooked, I'll call it so Priya can start the belly line, and Tom can hook the bottom prong on then.
+    (Maya held a thought)
+[  305s] 6:00 asked Maya,Tom,Priya | dominoes 86 | calls 73
+    Maya -> everyone: Thanks, Leo. I'm finishing the last few on the bottom body, then I'll check my branch joins to the spine once you call the bend hooked.
+[  313s] 6:15 asked Leo | dominoes 100 | calls 74
+[  313s] 6:30 asked - | dominoes 107 | calls 74
+[  323s] 6:45 asked Tom | dominoes 110 | calls 75
+    Tom -> everyone: Stroke 6 is laid again, from the start down to the bottom of the fork. I'm not hooking the end on until Leo calls the bend. Leo, shout when it's through, and I'll check my join with you.
+[  334s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 79
+    Priya -> everyone: Top prong's join to the tail is down, Tom. Leo, is the bend hooked yet? I'm checking the tail, the join and the bend now, and I'll start the belly line the moment you call it.
+    (Leo held a thought)
+[  345s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 83
+    Leo -> everyone: Priya, Tom, the bridge at the bend should be nearly down. I'm inspecting it now and will call it hooked or broken straight after.
+    (Tom held a thought)
+    (Priya held a thought)
+[  355s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 87
+    Leo -> everyone: Bend's not hooked, everyone. The bridge has a domino sitting off to the side right here, so the fall stops at the start. Priya, keep holding the belly line. I'm nudging that one into line now and I'll
+    (Tom held a thought)
+[  363s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 91
+    Leo -> everyone: Priya, Tom, still not hooked. The off-side domino at the bridge is still sitting wrong, so my nudge didn't land. I'm re-inspecting that spot now, and I'll call it the moment it's clear.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  375s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 114 | calls 95
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Still not hooked, everyone. I'm dropping the bridge at that bend and joining the dark run's end straight up into the spine. Priya, Tom, keep holding. I'll call it the second it's down, but we're tight
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  382s] 8:15 asked Maya,Tom,Priya | dominoes 118 | calls 98
+    Tom -> everyone: Got it, Leo. Keep going on the bend. I'm checking the low turns on my fork now, and I'll hook the bottom prong on once you call it through.
+    (Priya held a thought)
+    (Maya held a thought)
+[  390s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 102
+    Leo -> everyone: Connect's still going down, Tom. Priya, hold the belly line. I'll call it the moment the bend's through, or say it's broken if it isn't.
+    Maya -> everyone: Finishing the bottom body now. My branch joins stay put until the bend's hooked.
+    (Tom held a thought)
+    (Priya held a thought)
+[  397s] 8:45 asked Maya,Tom,Priya | dominoes 123 | calls 105
+    Tom -> everyone: Leo, I'm easing the sharp turn low on the fork, away from your bend. I'll hook the bottom prong on the moment you call it through.
+    (Priya held a thought)
+[  405s] 9:00 asked Maya,Priya,Leo | dominoes 125 | calls 108
+    Leo -> everyone: Still on the connect at the bend, almost there. Priya, Tom, keep holding. I'll inspect the second it's down and call it.
+    (Priya held a thought)
+    (Maya held a thought)
+[  414s] 9:15 asked Maya,Tom,Priya | dominoes 127 | calls 111
+    Tom -> everyone: Leo, I'm ready. The bottom prong's end is holding. Call it the second the bend's through and I'll hook it straight on.
+    (Priya held a thought)
+    (Maya held a thought)
+[  423s] 9:30 asked Maya,Priya,Leo | dominoes 127 | calls 114
+    Leo -> everyone: Connect's down at the bend. Inspecting it now, and I'll call it hooked or broken straight after. Priya, Tom, keep holding.
+    Maya -> everyone: Still on the bottom body, about eight to go. My branch joins wait for Leo's call on the bend.
+    (Priya held a thought)
+[  433s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 118
+    Tom -> Leo: Ready when you are, Leo. Call it and I'll hook the bottom prong straight on.
+    Leo -> everyone: Bend's broken, everyone. The chain from the start stops at the jammed domino right at the bend, so it won't carry into the spine. Priya, hold the belly line. Tom, don't hook the bottom prong on. No ne
+    (Priya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.41,
+      "error": 1.24
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 1.4
+    },
+    "Priya": {
+      "speed": 1.0,
+      "error": 0.81
+    },
+    "Leo": {
+      "speed": 0.69,
+      "error": 0.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 489.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of fallen dominoes",
+      "a dark zigzag stroke",
+      "a small snake-like squiggle"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a short hand-drawn dark squiggle stroke",
+      "a chain of small dark bars or segments"
+    ],
+    [
+      "a curved chain of fallen dominoes seen from above",
+      "a wavy dark brush stroke or squiggle",
+      "a zigzag crack or lightning bolt"
+    ]
+  ],
+  "placed": 127,
+  "fell": 6,
+  "completion": 0.047,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Leo": 18,
+    "Tom": 13,
+    "Priya": 8
+  },
+  "held_thoughts": 52,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 135,
+    "failed": 0,
+    "input_tokens": 282,
+    "cache_creation_tokens": 691855,
+    "cache_read_tokens": 396527,
+    "output_tokens": 138347,
+    "seconds": 1171.6,
+    "api_equivalent_usd": 0.2115,
+    "cached": 0
+  }
+}

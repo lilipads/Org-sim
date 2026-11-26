@@ -39,8 +39,7 @@ TIME AND HANDS
 - The clock runs continuously. Placing a domino carefully takes a few seconds; some people are quicker
   or steadier than others. You place more slowly while you're talking.
 - There are {supply} dominoes for the whole table.
-- The table has one start domino: set "start": true on a build and its first domino becomes the start.
-  Setting it again later moves the start.
+- The table has one start domino. {start_rule}
 
 HOW DOMINO BUILDERS USUALLY WORK
 - They grow the run outward from the start, adding each new stretch onto the end of what's already

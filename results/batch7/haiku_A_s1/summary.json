@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.71,
+      "error": 1.71
+    },
+    "Tom": {
+      "speed": 1.4,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.26,
+      "error": 0.58
+    },
+    "Leo": {
+      "speed": 0.71,
+      "error": 1.03
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 447.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "single curved hook-shaped stroke",
+      "bird head or beak profile",
+      "swoosh or wave line"
+    ],
+    [
+      "single curved hand-drawn stroke",
+      "fishing hook or hook shape",
+      "swoosh or river outline"
+    ],
+    [
+      "single curved black line or stroke",
+      "fishhook or hook shape",
+      "bird head with a hooked beak"
+    ]
+  ],
+  "placed": 141,
+  "fell": 44,
+  "completion": 0.312,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Tom": 12,
+    "Priya": 20,
+    "Leo": 6
+  },
+  "held_thoughts": 33,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 131,
+    "failed": 0,
+    "input_tokens": 274,
+    "cache_creation_tokens": 658946,
+    "cache_read_tokens": 383949,
+    "output_tokens": 123746,
+    "seconds": 1107.1,
+    "api_equivalent_usd": 0.1975,
+    "cached": 0
+  }
+}

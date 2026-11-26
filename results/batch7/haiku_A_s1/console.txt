@@ -1,0 +1,222 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: I'll take the pad and sketch us a fish. Start at the nose, one line goes over the top and one under the bottom, and the tail fin branches off the back. Fish outlines read well from across the table. S
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   33s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Fish works for me. Maya, quick check: if the start is at the nose, the fall has to run from the nose back along both edges, so the tail fin needs to branch off the back end of those lines, not the fro
+    (Priya held a thought)
+    (Leo held a thought)
+[   42s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Fish works for me too, Maya. Starting at the nose is right, since the run flows back from there. I'd make the tail a clear fork, two lobes splitting off the back end, because that split is what reads 
+    (Maya held a thought)
+    (Leo held a thought)
+[   56s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 6 | calls 14
+    Priya -> everyone: I'll lay the top edge from the nose now, so the start goes right here. Tom, you're on the fin once the body's down. Leo, could you take the bottom edge after me?
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   69s] 1:00 asked Tom,Priya,Leo | dominoes 14 | calls 17
+    Priya -> everyone: Scratch what I said about the top edge, Maya's already on it, so I'll leave that to her. I'm taking the two tail lobes now. They'll wait at the back end until the body gets there. Tom, the fin is your
+    (Leo held a thought)
+    (Tom held a thought)
+[   80s] 1:15 asked Maya,Tom,Priya | dominoes 18 | calls 20
+    Priya -> Tom: Tom, I've got the top lobe, stroke 3, going down now. You keep the bottom one, 4. We'll both hold at the fork until the body gets there.
+    Maya -> everyone: Got it, Priya. I'm on the top edge from the nose now. Tom, the bottom edge is stroke 2, so take that once I'm past the middle. Priya, you're on the fin and tail lobes after that. And Tom, good catch, 
+    (Tom held a thought)
+[   91s] 1:30 asked Tom,Priya | dominoes 26 | calls 22
+    Tom -> everyone: Priya, don't lay the lobes again. Strokes 3 and 4 are already down and waiting at the fork, so they'll pick up once the body gets there. Leo, you're already on the bottom edge, stroke 2, so keep going
+    (Priya held a thought)
+[  102s] 1:45 asked Priya,Leo | dominoes 32 | calls 24
+    Priya -> everyone: Sorry, Tom, I was talking over you. Stroke 3 is down and holding at the fork, so I'm stepping off the lobes. I'll watch that joint so it doesn't break when the body arrives.
+    (Leo held a thought)
+[  113s] 2:00 asked Tom | dominoes 40 | calls 25
+    Tom -> Priya: Thanks, Priya. Strokes 3 and 4 stay as they are. I'll join them to the body once it gets to the fork.
+[  123s] 2:15 asked Priya | dominoes 47 | calls 26
+[  123s] 2:30 asked - | dominoes 54 | calls 26
+[  123s] 2:45 asked - | dominoes 61 | calls 26
+[  123s] 3:00 asked - | dominoes 67 | calls 26
+[  131s] 3:15 asked Maya,Priya,Leo | dominoes 77 | calls 29
+    Leo -> everyone: Got it, Tom. The bottom edge is down from the nose to the back end, and I'm leaving the start right where it is. I'm going to check the joint at the back so the fins can pick up.
+[  142s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 83 | calls 33
+    Leo -> everyone: Bottom edge is down from the nose to the fork. The top edge is still pale near the nose, so it isn't connected to the start yet. Maya, shout when stroke 1 reaches the fork. I'm checking that joint now
+[  155s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 83 | calls 37
+    Maya -> Leo: Nearly there, Leo. Top edge is a few dominoes short of the fork. I'll shout when it's joined.
+    Leo -> everyone: Bottom edge is solid from the nose to the fork, and the start is only catching that side. Maya, the top edge is still pale near the nose, so it isn't joined to the start yet. Can you bring stroke 1 al
+    (Tom held a thought)
+    (Priya held a thought)
+[  165s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 83 | calls 41
+    Tom -> everyone: Fin's down, and 3 and 4 are holding at the fork. Leo, is the bottom edge solid right into it? Maya, shout when the top edge reaches here, and I'll join the fin once the joint looks good.
+    (Priya held a thought)
+    (Maya held a thought)
+[  179s] 4:15 asked Maya,Priya,Leo | dominoes 84 | calls 44
+    Priya -> everyone: Maya, the top edge's nose isn't catching the start. The start falls straight right, and your first top domino sits up and to the side of that line. I'm going to bridge it from the start with a short c
+    (Leo held a thought)
+    (Maya held a thought)
+[  191s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 48
+    Maya -> everyone: Priya, hold the connect for a sec. I'm three short of the fork on the top edge, so I'll finish, check the nose, and re-trace it if it's still pale. I'll shout when it's joined.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  200s] 4:45 asked Tom,Priya,Leo | dominoes 84 | calls 51
+    Priya -> everyone: Maya, my bridge from the start is already down at the nose, so you don't need to lay anything new there. I'm checking that it catches now and I'll tell you what I see.
+    (Tom held a thought)
+    (Leo held a thought)
+[  209s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 55
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Maya, when the top edge reaches the fork, shout and I'll join the fin to the body. I'm not touching the body until then.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  219s] 5:15 asked Maya,Priya,Leo | dominoes 84 | calls 58
+    Priya -> Maya: Maya, the bridge is down at the nose. I'm checking now whether it catches the top edge. If it does, keep laying toward the fork and don't re-trace the nose.
+    Leo -> everyone: Priya, if your bridge is down at the nose, leave it there. Maya, once stroke 1 reaches the fork, check whether it catches that bridge before you re-trace anything. I'm looking at the back joint while 
+    (Maya held a thought)
+[  227s] 5:30 asked Maya,Tom,Priya | dominoes 84 | calls 61
+    Priya -> Maya: Looking at the nose now, Maya. Keep going toward the fork and don't re-trace anything back here.
+    Maya -> everyone: Thanks, Priya. I'm finishing the last few top dominoes now. Once they're down I'll check the nose against your bridge, and Tom, I'll shout when the top edge reaches the fork.
+[  235s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 65
+    Tom -> everyone: Sounds good, Maya. I'll wait for your shout at the fork, then join the fin.
+[  247s] 6:00 asked Maya,Priya,Leo | dominoes 85 | calls 68
+    Maya -> Tom: Will do, Tom. Shouting when the top edge hits the fork.
+    Priya -> everyone: Maya, the bridge at the nose is jammed, so it might not catch. I'm nudging it into line now. Don't re-trace anything back there, just keep laying toward the fork.
+[  256s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 85 | calls 72
+    Maya -> Priya: Thanks, Priya. I'm not touching the nose. Finishing the last top dominoes toward the fork now.
+[  263s] 6:30 asked Tom,Priya | dominoes 85 | calls 74
+    Priya -> Maya: Thanks, Maya. I'm looking at the nose now. I'll tell you whether the bridge catches once I've checked it. Keep going toward the fork.
+[  272s] 6:45 asked Maya,Priya | dominoes 85 | calls 76
+    Priya -> everyone: Maya, I'm inspecting the nose now. Keep laying toward the fork, and I'll tell you if the bridge catches.
+[  286s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 88 | calls 80
+    Maya -> Priya: Thanks, Priya. Two more top dominoes to the fork, and I'm not touching the nose.
+    Priya -> everyone: Maya, the bridge at the nose is a dead end. It isn't catching the top edge. I'm doing one short connect from the bridge end to your first top domino there, so you don't need to touch the nose. Keep la
+[  298s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 91 | calls 84
+    Priya -> Maya: Maya, the short connect from the bridge to your first top domino is going in now. Keep laying toward the fork and I'll tell you if it catches.
+    Tom -> everyone: Thanks, Priya, go ahead with that short connect. Maya, shout when the top edge reaches the fork and I'll join the fins.
+    Maya -> everyone: Thanks, Priya. Two more top dominoes to the fork, and I'm leaving the nose alone.
+    (Leo held a thought)
+[  305s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 88
+    Priya -> Maya: Maya, the connect's going in now. Keep laying toward the fork, and I'll tell you if it catches.
+    Leo -> Maya,Tom: Maya, Priya's bridge is fine, so leave the nose alone. Shout when the top edge reaches the fork. I'm only looking at the turn there and won't touch it until you call.
+[  315s] 7:45 asked Maya,Tom,Leo | dominoes 101 | calls 91
+    Maya -> Priya,Leo: Got it, Priya and Leo. Leaving the nose alone. Two more to the fork, then I'll shout.
+    Tom -> Leo,Maya: Got it, Leo. Leaving the body alone. Maya, I'll join the fins as soon as you call the fork.
+[  328s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 104 | calls 95
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Maya: Maya, two more to the fork, and I'm still on the nose connect. I'll look at it once it's down and tell you if it catches.
+    Tom -> everyone: Still holding the fins at the fork. Maya, how far is the top edge from the fork? If it's close, shout and I'll join the fins straight away. Leo, is the bottom edge still solid into the fork?
+[  338s] 8:15 asked Maya,Leo | dominoes 110 | calls 97
+    Leo -> everyone: Tom, yes, the bottom edge is solid from the nose right into the fork. The one thing I see is the turn right at the fork, which is sharp. If Maya's top edge joins up and the fins still don't catch, tha
+    (Maya held a thought)
+[  347s] 8:30 asked Maya,Tom | dominoes 116 | calls 99
+    Maya -> everyone: Two to go, Tom. I'll shout the moment the top edge hits the fork.
+    (Tom held a thought)
+[  360s] 8:45 asked Tom,Leo | dominoes 121 | calls 101
+    Tom -> everyone: Leo, the bottom edge is solid right into the fork, so I'm joining the fins to it now. Maya, your top edge can meet them at the fork when you get there.
+[  366s] 9:00 asked Maya,Priya,Leo | dominoes 128 | calls 104
+    Maya -> Tom: Two dominoes, Tom. Shouting the second I hit the fork.
+    Priya -> Maya: Maya, the connect at the nose is down. I'm inspecting it now and I'll tell you right away whether it catches the top edge. Keep laying toward the fork.
+[  380s] 9:15 asked Maya,Tom,Priya | dominoes 132 | calls 107
+    Maya -> Priya,Tom: Thanks, Priya. Two to the fork, leaving the nose alone. Tom, I'll shout the moment I hit it.
+    Tom -> Maya: Got it, Maya. Fins are going on now, so I'll be ready when you hit the fork.
+    Priya -> everyone: Maya, the nose connect didn't carry into the top edge; it's still cut off there. Keep laying toward the fork and don't re-trace anything. I'm nudging the joint at the nose right now.
+[  388s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 139 | calls 111
+    Maya -> Priya,Tom: Thanks, Priya. Two to the fork, still not touching the nose. Tom, I'll shout the moment I hit it.
+    Priya -> Maya: Maya, the nose joint is nudged. I'm not touching anything else, so go straight to the fork and shout when you hit it.
+[  395s] 9:45 asked Maya,Tom,Priya | dominoes 141 | calls 114
+    Tom -> Maya: Ready when you are, Maya. Fins are still going on, so I'll join the top edge the moment you call.
+    Priya -> everyone: Ten seconds, everyone. Maya, get to the fork if you can, and I'll leave the nose alone.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.71,
+      "error": 1.71
+    },
+    "Tom": {
+      "speed": 1.4,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.26,
+      "error": 0.58
+    },
+    "Leo": {
+      "speed": 0.71,
+      "error": 1.03
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 447.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "single curved hook-shaped stroke",
+      "bird head or beak profile",
+      "swoosh or wave line"
+    ],
+    [
+      "single curved hand-drawn stroke",
+      "fishing hook or hook shape",
+      "swoosh or river outline"
+    ],
+    [
+      "single curved black line or stroke",
+      "fishhook or hook shape",
+      "bird head with a hooked beak"
+    ]
+  ],
+  "placed": 141,
+  "fell": 44,
+  "completion": 0.312,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Tom": 12,
+    "Priya": 20,
+    "Leo": 6
+  },
+  "held_thoughts": 33,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 131,
+    "failed": 0,
+    "input_tokens": 274,
+    "cache_creation_tokens": 658946,
+    "cache_read_tokens": 383949,
+    "output_tokens": 123746,
+    "seconds": 1107.1,
+    "api_equivalent_usd": 0.1975,
+    "cached": 0
+  }
+}

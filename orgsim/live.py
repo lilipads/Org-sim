@@ -611,8 +611,13 @@ class LiveGame:
             specs = specs[: self.cfg.max_queue]
             label = "; ".join(notes) or ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
             aim = next(((op[1][0], op[1][1]) for op in specs if op[0] == "place"), None)
+            explicit = bool(d.start)
+            if explicit and self.cfg.pad_only:     # the start sits at START on the pad, laid with stroke 1
+                explicit = False
+                self.inbox[n].append("The start goes where START is on the pad and comes with stroke 1, "
+                                     "so your build doesn't move it.")
             self.task[n] = {"kind": "build", "queue": specs, "total": len(specs), "done": 0,
-                            "start": bool(d.start) or trace_start, "label": label, "placed": [], "blocked": [],
+                            "start": explicit or trace_start, "label": label, "placed": [], "blocked": [],
                             "at": self.location[n], "aim": aim}
             if bad:
                 self.inbox[n].append("Didn't understand: " + "; ".join(bad[:3]))

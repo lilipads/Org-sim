@@ -658,3 +658,11 @@ physics only let a domino fall the way it faced. Real dominoes fall whichever wa
 physics now does too: a standing domino falls along its own line in the direction closer to the push,
 and lies that way afterwards. Lines laid in either direction now carry the fall. Batch 7 (seeds 71/72)
 measures it.
+
+### 4.4n Batch 7, and one start only
+
+Batch 7 (dominoes fall either way): sonnet 4/4 recognized, every fish 95-100% fallen. Haiku 0/4: in each
+game someone also set `"start": true` on their own stroke, which moved the start onto it, and the push
+then toppled only that stroke (6-44 dominoes). On pad tables the start is now fixed: it sits at START on
+the pad and comes with stroke 1; a `start` flag on any other build is ignored with a note. Batch 8
+(seeds 81/82) measures it.

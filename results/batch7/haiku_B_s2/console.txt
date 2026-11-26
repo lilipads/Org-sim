@@ -1,0 +1,231 @@
+[   25s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, let's do a fish! Side view, tail on the left. I've got the pad, so I'll sketch it out and we can trace it straight onto the table.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   35s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Jack -> everyone: Love it, a fish! Big body, tail fin on the left, like Sofia says. Hana, could you pass the pad to Sofia so she can sketch the outline? Once it's drawn, we trace it from the tail end so the run starts 
+    (Omar held a thought)
+    (Hana held a thought)
+[   46s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 10
+    Sofia -> Hana: Hana, could you pass me the pad? I'll sketch the fish quick, then we trace it from the tail end so the run starts right there.
+    Hana -> everyone: Sofia's already got the pad, so no passing needed. Good plan. Once the outline's down, I'll check the tail corner, since that's where the fall is most likely to break. Jack or Omar, could one of you t
+    (Omar held a thought)
+[   57s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 14
+    Sofia -> everyone: Got it, I'm taking the pad. I'll sketch the fish now, and then we trace it from the tail.
+    (Omar held a thought)
+    (Jack held a thought)
+[   65s] 1:00 asked Omar,Hana,Jack | dominoes 0 | calls 17
+    Omar -> everyone: Quick one before we trace: I'd still start at the nose, not the tail. Both body lines leave the nose heading the same way, so the fall runs back along the fish and into the fin. Start at the tail and 
+    (Jack held a thought)
+    (Hana held a thought)
+[   83s] 1:15 asked Sofia,Hana,Jack | dominoes 0 | calls 20
+    Sofia -> everyone: Omar's right, the nose is the better start. Both body lines leave it heading the same way, and the fins follow on from the tail. I've got the pad, so I'm sketching it with START at the nose now.
+    (Hana held a thought)
+    (Jack held a thought)
+[   91s] 1:30 asked Omar,Hana,Jack | dominoes 0 | calls 23
+    Hana -> everyone: Yes, I missed that, Omar's right. Sofia, if you can, make stroke 1 run from the nose along the top to the top tail tip, and stroke 2 from the nose along the belly to the bottom tail tip. Then we trace
+    (Jack held a thought)
+[  108s] 1:45 asked Sofia,Omar,Jack | dominoes 0 | calls 26
+    Sofia -> everyone: Sketching it now, START at the nose. Top edge is stroke 1 and belly is stroke 2, both running back to the tail tips, then two fin lines off the tips. Once it's down we trace 1, then 2 off the nose.
+    (Jack held a thought)
+    (Omar held a thought)
+[  116s] 2:00 asked Omar,Hana,Jack | dominoes 0 | calls 29
+    Jack -> everyone: Nose start makes sense, Omar, good catch. Omar, you take the fin. I'll take the belly line off the nose once Sofia's sketched it. Sofia, shout when START is on the nose.
+    (Omar held a thought)
+[  129s] 2:15 asked Sofia,Omar,Hana | dominoes 0 | calls 32
+    Sofia -> Hana: Hana, could you pass me the pad? I'll draw it with START right on the nose, then we can trace the top edge first and the belly off the nose.
+    Omar -> everyone: Sounds good: nose start, top edge as stroke 1, belly as stroke 2. Sofia, shout when stroke 2 is on the pad and I'll take the fin.
+[  137s] 2:30 asked Sofia,Hana,Jack | dominoes 0 | calls 35
+    Sofia -> Hana: Hana, could you pass me the pad? I'll draw it with START right on the nose, then we trace the top edge first and the belly off the nose.
+    Hana -> Sofia: Here you go, Sofia. Shout when stroke 2 is on the pad and I'll help check the tail.
+    Jack -> everyone: Sounds good, nose start it is. Sofia, give a shout when the top edge and belly are down on the pad and I'll pick up the belly from the nose.
+[  146s] 2:45 asked Sofia,Omar,Hana | dominoes 0 | calls 38
+    Sofia -> everyone: Got the pad, sketching now with START right on the nose. Top edge is stroke 1, belly is stroke 2, both leaving the nose the same way. Fin lines come off the tail tips. Jack, I'll call it when stroke 2
+[  157s] 3:00 asked Omar,Hana,Jack | dominoes 5 | calls 41
+    Jack -> everyone: I've got the belly, stroke 2, starting right off the nose. Top edge can go on from the nose after that. Sofia, if you're still adjusting anything, shout and I'll wait.
+    (Omar held a thought)
+    (Hana held a thought)
+[  170s] 3:15 asked Sofia,Hana | dominoes 13 | calls 43
+    Sofia -> everyone: Sketch is final, START on the nose. Jack, the belly's all yours. I'm laying the top edge now from the nose, so we both leave it the same way. Hana, I'll shout if the tail tips need checking.
+    (Hana held a thought)
+[  180s] 3:30 asked Sofia,Hana,Jack | dominoes 21 | calls 46
+    Hana -> everyone: Quick check on roles: Omar has stroke 1 and Jack has stroke 2, and I'm not tracing either. Sofia, you hold the pad, so please don't lay the top edge too. Also, the start domino looks a little left of 
+    (Sofia held a thought)
+    (Jack held a thought)
+[  196s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 30 | calls 50
+    Hana -> everyone: Heads up before anyone traces: our start domino is sitting about a domino and a half short of the nose, and the four nose dominoes aren't connected to it. Omar, Jack, could you hold off laying from th
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  205s] 4:00 asked Sofia,Omar,Jack | dominoes 30 | calls 53
+    Sofia -> everyone: Good catch, Hana. I'm leaving the pad down so nobody's tempted to lay from it. Omar's on the top edge and Jack's on the belly, so hold until the start is on the nose and facing left. Once both lines a
+    (Jack held a thought)
+    (Omar held a thought)
+[  215s] 4:15 asked Omar,Hana,Jack | dominoes 30 | calls 56
+    Hana -> everyone: Moving the start onto the nose now, facing left. Omar, Jack, hold until I call it's down. Then trace 1 and 2 from the nose.
+    (Omar held a thought)
+    (Jack held a thought)
+[  227s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 32 | calls 60
+    Hana -> everyone: Moving the start onto the nose now, facing left, and bridging the gap from the old start. Omar, Jack, hold until I say it's down, then trace 1 and 2 from the nose.
+    (Jack held a thought)
+    (Omar held a thought)
+[  236s] 4:45 asked Sofia,Omar,Jack | dominoes 37 | calls 63
+    Jack -> everyone: Thanks, Hana, good catch. I'm holding the belly where it is. Shout when the start's on the nose facing left and I'll carry on from there.
+    (Omar held a thought)
+[  246s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 37 | calls 67
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Start's on the nose now, facing left, and the gap from the old start is bridged. I'm checking the joint for fifteen seconds. Omar, Jack, if it reads connected, go ahead with 1 and 2 off the nose.
+    (Jack held a thought)
+    (Omar held a thought)
+[  255s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 34 | calls 71
+    Hana -> everyone: Hold on, Omar and Jack. I looked at the nose joint and it's not connected. The start is still only reaching about seven dominoes, and the four nose dominoes are pale, so the bridge didn't take. I'm fi
+    (Jack held a thought)
+    (Omar held a thought)
+[  265s] 5:30 asked Sofia,Omar,Jack | dominoes 34 | calls 74
+    Omar -> everyone: Holding stroke 1 until your check reads, Hana. Shout and I'll lay the top edge from the nose.
+    Jack -> everyone: Got it, Hana. Holding the belly where it is and not laying anything off the nose until you call it.
+[  277s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 35 | calls 78
+    Hana -> everyone: Not connected yet, and my earlier 'it's on the nose' was wrong. I didn't check the joint properly. I'm running the connect from the start to the nose now. Omar, Jack, keep holding. I'll call it once t
+    (Sofia held a thought)
+    (Jack held a thought)
+[  286s] 6:00 asked Sofia,Omar,Jack | dominoes 39 | calls 81
+    Sofia -> everyone: Still holding the pad and not laying anything. Hana, shout when the nose lights up dark and Omar and Jack can go. If it won't take by about two minutes left, we trace straight from the start.
+    (Jack held a thought)
+[  294s] 6:15 asked Omar,Hana,Jack | dominoes 39 | calls 84
+    Hana -> everyone: Checking the nose joint now. Omar, Jack, still holding until it reads dark.
+    (Jack held a thought)
+[  307s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 40 | calls 88
+    Hana -> everyone: Honest update: the nose still isn't connected. The start only reaches about seven dominoes and the four nose dominoes are still pale, so my 'it's dark' call was wrong. I'm redoing the connect from the
+    (Jack held a thought)
+[  317s] 6:45 asked Sofia,Omar,Jack | dominoes 45 | calls 91
+    Omar -> everyone: No worries, Hana. If the nose isn't dark by about two minutes left, I'll lay the top edge straight off the start, like Sofia suggested.
+    (Jack held a thought)
+[  331s] 7:00 asked Sofia,Hana,Jack | dominoes 50 | calls 94
+    Sofia -> everyone: Three minutes left and the nose still isn't lit, so let's stop waiting. Omar, lay the top edge straight off the start now. Jack, the belly comes off the start too. Hana, keep checking the nose as you 
+    (Hana held a thought)
+    (Jack held a thought)
+[  339s] 7:15 asked Omar,Hana,Jack | dominoes 61 | calls 97
+    Hana -> everyone: Honest status: the nose still isn't connected. The start only reaches about seven dominoes, and the four nose dominoes are still pale, so my 'dark' calls were wrong. Omar, Jack, go ahead and trace 1 a
+    (Omar held a thought)
+    (Jack held a thought)
+[  349s] 7:30 asked Sofia,Omar,Jack | dominoes 74 | calls 100
+    Sofia -> everyone: Pad's down. Omar and Jack are on the top edge and belly from the start, so I'm laying the lower fin, stroke 4, now. Hana, keep checking the nose as you go.
+    (Omar held a thought)
+    (Jack held a thought)
+[  358s] 7:45 asked Omar,Hana,Jack | dominoes 83 | calls 103
+    Omar -> everyone: Going now, laying the top edge off the start. Hana, keep checking the nose as we go.
+    Jack -> everyone: On it, Sofia. Belly's coming off the start now, and I'll keep an eye on the nose as I go, Hana.
+[  365s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 86 | calls 107
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> Hana: Top edge is going down from the start, Hana. I'm not touching the start, so keep checking the nose as we go.
+    Jack -> everyone: Belly's going down off the start now, and I'm keeping the nose in view as I go, Hana. Holding the start where it is.
+    (Hana held a thought)
+[  371s] 8:15 asked Hana | dominoes 95 | calls 108
+    Hana -> everyone: Got it, Omar and Jack, both lines off the start is the right call. I'm finishing the connect to the nose now and I'll inspect the joint once it's down. I won't call it connected until it reads dark.
+[  378s] 8:30 asked Omar,Jack | dominoes 103 | calls 110
+[  378s] 8:45 asked - | dominoes 112 | calls 110
+[  378s] 9:00 asked - | dominoes 120 | calls 110
+[  386s] 9:15 asked Hana | dominoes 127 | calls 111
+    Hana -> everyone: Honest read: the nose still isn't connected, and I can't confirm the connect before the push. Top edge and belly are off the start, so keep those tight. I'm finishing the connect now and I'll inspect 
+[  394s] 9:30 asked Omar | dominoes 130 | calls 112
+    Omar -> everyone: Top edge is down, but there are two gaps I missed. Closing them now.
+[  403s] 9:45 asked Omar,Hana | dominoes 134 | calls 114
+    Hana -> everyone: Honest last call: the nose still isn't connected, so the lower-right line will probably stay standing. Top edge and belly are off the start, so keep those tight. I'm finishing the connect now.
+    (Omar held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.41,
+      "error": 1.24
+    },
+    "Omar": {
+      "speed": 0.99,
+      "error": 1.4
+    },
+    "Hana": {
+      "speed": 1.0,
+      "error": 0.81
+    },
+    "Jack": {
+      "speed": 0.69,
+      "error": 0.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 456.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Hana",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of fallen dominoes",
+      "a parenthesis or bracket shape",
+      "a small arc or hook stroke"
+    ],
+    [
+      "curved row of fallen dominoes",
+      "closing parenthesis or bracket",
+      "crescent-shaped arc stroke"
+    ],
+    [
+      "curved row of fallen dominoes",
+      "open parenthesis or bracket",
+      "single curved arc stroke"
+    ]
+  ],
+  "placed": 134,
+  "fell": 8,
+  "completion": 0.06,
+  "team_score": 0.0,
+  "first_domino_at": "3:00",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Jack": 8,
+    "Hana": 16,
+    "Omar": 7
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 131,
+    "failed": 0,
+    "input_tokens": 274,
+    "cache_creation_tokens": 664160,
+    "cache_read_tokens": 383062,
+    "output_tokens": 121338,
+    "seconds": 1114.9,
+    "api_equivalent_usd": 0.1974,
+    "cached": 0
+  }
+}

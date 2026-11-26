@@ -270,3 +270,17 @@ def test_tracing_a_stroke_someone_else_is_laying_is_refused():
     for _ in range(6):
         g.step()
     assert any("already laying stroke 1" in x for o in b.seen for x in o["inbox"])
+
+
+def test_pad_tables_ignore_a_second_start():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]},
+              {"type": "curve", "points": [[18, 6], [20, 10], [18, 14]]}]
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[{"type": "trace", "stroke": 1}])] + [Decision(do="continue")] * 30)
+    b = Fake("B", [Decision(), Decision(), Decision(),
+                   Decision(do="build", strokes=[{"type": "trace", "stroke": 2}], start=True)] + [Decision()] * 30)
+    g = LiveGame(table_world(phys=EXACT), [a, b], LiveConfig(duration=300, idle_quiet=15, max_quiet=15, pad_only=True,
+                                                              announce_at=(), scratchpad_until=300, seconds_per_domino=3))
+    g.run()
+    starts = [d for d in g.world.dominoes.values() if d.start]
+    assert len(starts) == 1 and starts[0].x < 6

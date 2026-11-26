@@ -83,6 +83,10 @@ def main():
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=W, h=H,
                                 bump_units=int(phys.bump_radius),
                                 supply=world.supply["table"], view_rules=VIEW_RULES[args.view],
+                                start_rule=("It goes where START is on the pad, and it's laid by whoever traces "
+                                            "stroke 1; nobody else sets it." if not args.free_hand else
+                                            'Set "start": true on a build and its first domino becomes the start. '
+                                            "Setting it again later moves the start."),
                                 pad_rule=("The pad stays on the table for the whole activity."
                                           if args.pad_minutes >= args.minutes else
                                           f"At {int(args.pad_minutes)}:{int(args.pad_minutes * 60) % 60:02d} the "

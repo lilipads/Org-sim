@@ -1,0 +1,95 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.71,
+      "error": 1.71
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 0.56
+    },
+    "Hana": {
+      "speed": 1.26,
+      "error": 0.58
+    },
+    "Jack": {
+      "speed": 0.71,
+      "error": 1.03
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 514.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Sofia",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fallen domino chain curving across the page",
+      "hand-drawn curvy stroke or doodle",
+      "abstract bird or swan neck outline"
+    ],
+    [
+      "dominoes in a curved, winding line",
+      "a snake or worm-like squiggle",
+      "a hand-drawn cursive or scribbled stroke"
+    ],
+    [
+      "a trail of fallen dominoes curving across the page",
+      "a hand-drawn squiggle or scribbled line",
+      "a winding river or road on a map"
+    ]
+  ],
+  "placed": 117,
+  "fell": 9,
+  "completion": 0.143,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 10,
+    "Sofia": 21,
+    "Hana": 12,
+    "Omar": 11
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 129,
+    "failed": 0,
+    "input_tokens": 270,
+    "cache_creation_tokens": 667660,
+    "cache_read_tokens": 382324,
+    "output_tokens": 146801,
+    "seconds": 1193.9,
+    "api_equivalent_usd": 0.2108,
+    "cached": 0
+  }
+}

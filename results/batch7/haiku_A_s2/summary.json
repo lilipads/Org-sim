@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.41,
+      "error": 1.24
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 1.4
+    },
+    "Priya": {
+      "speed": 1.0,
+      "error": 0.81
+    },
+    "Leo": {
+      "speed": 0.69,
+      "error": 0.74
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 489.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of fallen dominoes",
+      "a dark zigzag stroke",
+      "a small snake-like squiggle"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a short hand-drawn dark squiggle stroke",
+      "a chain of small dark bars or segments"
+    ],
+    [
+      "a curved chain of fallen dominoes seen from above",
+      "a wavy dark brush stroke or squiggle",
+      "a zigzag crack or lightning bolt"
+    ]
+  ],
+  "placed": 127,
+  "fell": 6,
+  "completion": 0.047,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Leo": 18,
+    "Tom": 13,
+    "Priya": 8
+  },
+  "held_thoughts": 52,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 135,
+    "failed": 0,
+    "input_tokens": 282,
+    "cache_creation_tokens": 691855,
+    "cache_read_tokens": 396527,
+    "output_tokens": 138347,
+    "seconds": 1171.6,
+    "api_equivalent_usd": 0.2115,
+    "cached": 0
+  }
+}
