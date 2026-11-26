@@ -251,6 +251,17 @@ natural rather than removing it:
   says roughly how much it would knock over.
 - **180 dominoes** with the bigger pieces. 130 ran out by minute 8 in run 8.
 
+### 4.4f Personas v4 and an all-round scratch pad
+
+- **Personas v4.** Version 3 still tied personality to job: the lawyer asked "are we sure?", the
+  finance person was competitive, the intern was eager. In version 4 a job says nothing about how
+  someone behaves. Jobs, traits and genders are mixed against type (an accountant who does pottery
+  and lose track of time, a lawyer who is chatty and clumsy, a sales rep who's a patient birdwatcher
+  and would rather listen). Each person has a few specific life details and a mix of tendencies, some
+  of them pulling against each other. Nobody is written as a leader, builder, designer or checker.
+- **The scratch pad stays all round** (default; `--pad-minutes N` to take it away at minute N, `0` for
+  no pad). This keeps the shared picture available while building, to make the game easier.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

@@ -332,7 +332,8 @@ class LiveGame:
         if not self.pad_exists:
             return "The scratch pad is gone: the facilitator took it away."
         left = max(0, self.cfg.scratchpad_until - self.t)
-        when = f"The facilitator will take it away in {int(left)} seconds."
+        when = ("It stays on the table for the whole activity." if self.cfg.scratchpad_until >= self.cfg.duration
+                else f"The facilitator will take it away in {int(left)} seconds.")
         if self.pad_holder is None:
             what = "is lying on the table; anyone can pick it up"
         elif self.pad_holder == name:

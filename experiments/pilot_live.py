@@ -36,7 +36,8 @@ def main():
     ap.add_argument("--out", default="results/pilot/live_table4_run1")
     ap.add_argument("--evaluation", default=NO_EVALUATION)
     ap.add_argument("--view", choices=["text", "image"], default="text")
-    ap.add_argument("--pad-minutes", type=float, default=2.0, help="scratch pad until this minute; 0 = no pad")
+    ap.add_argument("--pad-minutes", type=float, default=None,
+                    help="scratch pad until this minute; 0 = no pad; default: the whole round")
     ap.add_argument("--model", default=None, help="model for the agents (judges keep the default)")
     ap.add_argument("--names", default=None, help="comma-separated persona names to seat (overrides --size)")
     ap.add_argument("--big", action="store_true",
@@ -56,6 +57,8 @@ def main():
         phys = Physics()
         freehand = 0.3
     world = table_world("table", W, H, supply, phys)
+    if args.pad_minutes is None:
+        args.pad_minutes = args.minutes
     names = [n.strip() for n in args.names.split(",")] if args.names else names_for(args.size)
     unknown = [n for n in names if n not in PERSONAS_V2]
     if unknown:
@@ -71,7 +74,10 @@ def main():
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=W, h=H,
                                 bump_units=int(phys.bump_radius),
                                 supply=world.supply["table"], view_rules=VIEW_RULES[args.view],
-                                pad_minutes=f"{int(args.pad_minutes)}:{int(args.pad_minutes * 60) % 60:02d}")
+                                pad_rule=("The pad stays on the table for the whole activity."
+                                          if args.pad_minutes >= args.minutes else
+                                          f"At {int(args.pad_minutes)}:{int(args.pad_minutes * 60) % 60:02d} the "
+                                          "facilitator takes the pad away for good; after that, work from memory."))
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
