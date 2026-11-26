@@ -28,7 +28,9 @@ from dataclasses import asdict, dataclass, field
 
 from .dominoes import World
 from .handwork import (anchored_specs, area_words, describe_spot, direction, end_join, eye_inspect,
-                       fix_specs, freehand_specs, snap_start, where)
+                       fix_specs, freehand_specs, sketch_flow, snap_start, trace_specs, where, begin_join)
+from .render import sketch_points
+from .handwork import SPACING as SPACING_
 from .dominoes import expand_stroke
 from .game import push_world
 from .render import agent_view_png, ascii_map, sketch_png
@@ -128,6 +130,7 @@ class LiveGame:
         self.pad_exists = cfg.scratchpad_until is not None
         self.pad_holder: str | None = None
         self.pad_strokes: list = []
+        self._start_claimed = False
         self.t = 0.0
         self.log: dict = {"engine": "live", "config": asdict(cfg),
                           "regions": [asdict(r) for r in world.regions.values()],
@@ -484,9 +487,53 @@ class LiveGame:
             return
         if d.do == "build":
             specs, bad, notes = [], [], []
+            trace_start = False
+            pending = None
             for s in d.strokes or []:
                 try:
                     room = self.cfg.max_queue - len(specs)
+                    if s.get("type") == "trace":
+                        try:
+                            k = int(s.get("stroke"))
+                        except (TypeError, ValueError):
+                            k = 0
+                        drawn = [st for st in self.pad_strokes]
+                        if not self.pad_exists or not (1 <= k <= len(drawn)) or drawn[k - 1].get("type") == "label":
+                            bad.append(f"there's no sketch stroke {s.get('stroke')} on the pad to trace")
+                            continue
+                        origin, flow = sketch_flow(drawn, sketch_points)
+                        pts_src = flow.get(k) or sketch_points(drawn[k - 1])
+                        err = self.cfg.skills.get(n, {}).get("error", 1.0)
+                        has_start = any(x.start for x in self.world.dominoes.values()
+                                        if x.region == self.location[n]) or self._start_claimed
+                        lead = None
+                        at_origin = origin is not None and math.hypot(pts_src[0][0] - origin[0],
+                                                                      pts_src[0][1] - origin[1]) <= 1.0
+                        if at_origin and not has_start and not specs:
+                            # the run starts where the sketch starts: the start domino faces between
+                            # all the lines leaving that point, and they split off just after it
+                            heads = [math.atan2(p[min(2, len(p) - 1)][1] - p[0][1], p[min(2, len(p) - 1)][0] - p[0][0])
+                                     for p in flow.values() if math.hypot(p[0][0] - origin[0], p[0][1] - origin[1]) <= 1.0]
+                            bis = math.degrees(math.atan2(sum(math.sin(a) for a in heads), sum(math.cos(a) for a in heads)))
+                            lead = (origin[0] - SPACING_ * math.cos(math.radians(bis)),
+                                    origin[1] - SPACING_ * math.sin(math.radians(bis)), bis % 360)
+                            trace_start = True
+                            self._start_claimed = True
+                        # Does this stroke begin where another line has to arrive first?
+                        begin = pts_src[0]
+                        feeds_in = lead is None and (
+                            at_origin or any(math.hypot(p[-1][0] - begin[0], p[-1][1] - begin[1]) <= 1.6
+                                             for kk, p in flow.items() if kk != k))
+                        if feeds_in and not specs and not any(
+                                x.state == "up" for x in self.world.near(begin[0], begin[1], 1.4)):
+                            pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin}
+                            notes.append(f"waiting for the run to reach the start of stroke {k}")
+                            continue
+                        pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
+                                                drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead)
+                        notes.append(f"{note} (stroke {k})")
+                        specs += [("place", sp) for sp in pts]
+                        continue
                     if s.get("type") == "fix":
                         ops, note = fix_specs(self.world, s, max(0, room))
                         notes.append(note)
@@ -520,14 +567,17 @@ class LiveGame:
             label = "; ".join(notes) or ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
             aim = next(((op[1][0], op[1][1]) for op in specs if op[0] == "place"), None)
             self.task[n] = {"kind": "build", "queue": specs, "total": len(specs), "done": 0,
-                            "start": bool(d.start), "label": label, "placed": [], "blocked": [],
+                            "start": bool(d.start) or trace_start, "label": label, "placed": [], "blocked": [],
                             "at": self.location[n], "aim": aim}
             if bad:
                 self.inbox[n].append("Didn't understand: " + "; ".join(bad[:3]))
             if cut:
                 self.inbox[n].append(f"That was more than {self.cfg.max_queue} dominoes in one go; the last {cut} "
                                      "were left out. Ask for them again when this batch is done.")
-            if not specs:
+            if pending:
+                self.task[n]["pending"] = pending
+                self.task[n]["label"] = "; ".join(notes)
+            if not specs and not pending:
                 self.task[n] = None
                 self.wake[n].append("your build had nothing to place")
         elif d.do in ("take_down", "inspect"):
@@ -547,6 +597,19 @@ class LiveGame:
         for n, task in list(self.task.items()):
             if not task:
                 continue
+            if task["kind"] == "build" and task.get("pending") and not task["queue"]:
+                pend = task["pending"]       # waiting for the run to reach where this stroke begins
+                bx, by = pend["begin"]
+                if any(x.state == "up" for x in self.world.near(bx, by, 1.4)):
+                    pts, note = trace_specs(self.world, pend["pts"], self.rng, pend["room"],
+                                            drift=self.cfg.freehand_sigma * 0.5 * pend["err"])
+                    task["queue"] = [("place", sp) for sp in pts]
+                    task["total"] += len(pts)
+                    task["label"] = f"{note} (stroke {pend['k']})"
+                    task["pending"] = None
+                    self.inbox[n].append(f"The run has reached the start of stroke {pend['k']}, so you carry it on.")
+                else:
+                    continue
             if task["kind"] == "build":
                 skill = cfg.skills.get(n, {})
                 rate = (cfg.beat / cfg.seconds_per_domino * skill.get("speed", 1.0)
@@ -574,6 +637,7 @@ class LiveGame:
                         restood += self.world.restand([item], self.rng, err=skill.get("error", 1.0))
                     else:
                         start_idx = 0 if task["start"] and not task["placed"] and not new else None
+
                         res = self.world.place([item], n, rec["turn"], self.location[n], self.pools_for(n),
                                                self.rng, max_n=1, start_index=start_idx,
                                                err=skill.get("error", 1.0))
@@ -628,6 +692,14 @@ class LiveGame:
         return placed_at
 
     def _finish_build(self, n: str, task: dict):
+        if self.cfg.snap and not task.get("begun") and task["placed"]:
+            task["begun"] = True
+            first = self.world.dominoes.get(task["placed"][0])
+            ops = begin_join(self.world, first, set(task["placed"]))
+            if ops:                                  # bring the run into this line's beginning
+                task["queue"] = ops
+                task["total"] += len(ops)
+                return
         if self.cfg.snap and not task.get("joined") and task["placed"]:
             task["joined"] = True
             last = self.world.dominoes.get(task["placed"][-1])

@@ -77,6 +77,13 @@ person holds it at a time. Whoever holds it can sketch on it ("sketch": strokes,
 at the table can see what's on it. The holder can hand it to someone ("pad": "give", "pad_to": name)
 or put it down ("pad": "put_down"). Sketching keeps your hands busy, so you don't place dominoes in
 that moment. {pad_rule}
+Strokes on the pad are numbered, and the run starts where stroke 1 begins (marked START on the pad).
+Sketch the way the run will flow: begin stroke 1 at the start, and begin every other stroke on a line
+that's already drawn (where it branches off or carries on).
+Building from the pad is the easy way to get the shape right: {{"type":"trace","stroke":3}} in a build
+copies stroke 3 onto the table with your own hands. It's laid so it flows away from the start; where it
+begins on another line, it carries on from it (or branches off it). If that line hasn't reached it yet,
+you wait until it does, then carry on. Several people can trace different strokes at the same time.
 Sketch strokes use the table's coordinates:
   {{"type":"curve","points":[[x,y],[x,y],...]}}   {{"type":"line","x0":..,"y0":..,"x1":..,"y1":..}}
   {{"type":"circle","cx":..,"cy":..,"r":..}}      {{"type":"label","x":..,"y":..,"text":"eye"}}

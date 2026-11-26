@@ -31,7 +31,7 @@ def names_for(size: int) -> list:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--size", type=int, default=4)
-    ap.add_argument("--minutes", type=float, default=20)
+    ap.add_argument("--minutes", type=float, default=10)
     ap.add_argument("--seed", type=int, default=1)
     ap.add_argument("--out", default="results/pilot/live_table4_run1")
     ap.add_argument("--evaluation", default=NO_EVALUATION)
@@ -40,7 +40,7 @@ def main():
                     help="scratch pad until this minute; 0 = no pad; default: the whole round")
     ap.add_argument("--model", default=None, help="model for the agents (judges keep the default)")
     ap.add_argument("--names", default=None, help="comma-separated persona names to seat (overrides --size)")
-    ap.add_argument("--seconds-per-domino", type=float, default=5.0, help="average hand speed")
+    ap.add_argument("--seconds-per-domino", type=float, default=3.0, help="average hand speed")
     ap.add_argument("--same-hands", action="store_true", help="everyone builds at the same speed and accuracy")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
@@ -51,7 +51,7 @@ def main():
 
     from orgsim.dominoes import Physics
     if args.big:
-        W, H, supply = 30, 20, 180
+        W, H, supply = 30, 20, 250
         phys = Physics(pos_sigma=0.025, bump_radius=3.0)
         freehand = 0.15
     else:

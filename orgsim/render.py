@@ -230,7 +230,8 @@ def sketch_png(strokes: list, path: str, size: tuple = (60, 40), holder: str | N
     for gy in range(0, int(H) + 1, 5):
         dr.line([px(0, gy), px(W, gy)], fill=(226, 222, 200), width=1)
         dr.text((4, px(0, gy)[1] - 8), str(gy), fill=(170, 160, 130), font=font)
-    for s in strokes:
+    tags = []
+    for k, s in enumerate(strokes, start=1):
         if s.get("type") == "label":
             try:
                 dr.text(px(float(s["x"]), float(s["y"])), str(s.get("text", ""))[:24], fill=(60, 60, 140), font=font)
@@ -240,5 +241,17 @@ def sketch_png(strokes: list, path: str, size: tuple = (60, 40), holder: str | N
         pts = [px(x, y) for x, y in sketch_points(s)]
         if len(pts) >= 2:
             dr.line(pts, fill=(50, 50, 60), width=4, joint="curve")
+            mx, my = pts[len(pts) // 2]
+            tags.append((mx, my, str(k)))
+            sx, sy = pts[0]
+            dr.ellipse([sx - 5, sy - 5, sx + 5, sy + 5], fill=(50, 50, 60))
+    first_line = next((s for s in strokes if s.get("type") != "label" and len(sketch_points(s)) >= 2), None)
+    if first_line:                  # the run starts where stroke 1 begins
+        sx, sy = px(*sketch_points(first_line)[0])
+        dr.ellipse([sx - 12, sy - 12, sx + 12, sy + 12], outline=(30, 140, 70), width=3)
+        dr.text((sx - 10, sy - 32), "START", fill=(30, 130, 60), font=font)
+    for mx, my, t in tags:          # stroke numbers, for "trace stroke 3"
+        dr.ellipse([mx - 13, my - 13, mx + 13, my + 13], fill=(255, 236, 170), outline=(150, 110, 40), width=2)
+        dr.text((mx, my), t, fill=(110, 70, 20), font=font, anchor="mm")
     img.save(path)
     return path

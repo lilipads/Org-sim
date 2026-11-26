@@ -273,6 +273,29 @@ natural rather than removing it:
   someone slow and precise. Agents aren't told their own numbers; they find out by watching the work.
   The draws are logged with each run (`skills` in the summary). `--same-hands` turns this off.
 
+### 4.4h Redesign for a high success rate: the sketch becomes the plan hands follow
+
+Across nine big-domino runs, one succeeded. Two failure modes multiplied: the build distorted the
+sketch (shape legible in only 4 of 9) and the pieces didn't join into one run flowing from the start
+(90%+ falling in only 1 of 9). Running out of dominoes made both permanent. The redesign:
+- **Tracing.** Pad strokes are numbered, and START marks where stroke 1 begins. A build can say
+  `{"type":"trace","stroke":k}`, and the builder's hands copy that stroke onto the table, with their
+  own speed and accuracy. Coordinates are no longer needed to build.
+- **Flow from the start.** The sketch is read as a run: strokes are oriented away from START along the
+  sketch's connections, nearest first. A traced stroke carries on from (or branches off) the line it
+  begins on. If that line hasn't arrived yet, the builder waits for it, which is a real dependency.
+- **A split at the start** (e.g. the top and belly of a fish both leaving the nose): the start domino
+  faces between the lines, and they split just after it.
+- **Gentler copying turns** and **close crossings allowed** (lines crossing at a wide angle don't
+  topple each other).
+- **250 dominoes; 10-minute games; about 3 seconds per domino** on average, with per-person speed and
+  accuracy as before.
+
+Mechanics check with no AI (`experiments/check_tracing.py`): four scripted people trace a fish sketch
+in shuffled orders with varied hands. 30 games each:
+- without repairs: 19/30 games at 90%+ falling, mean 86%;
+- with free hands fixing visible breaks: **25/30 at 90%+, 28/30 at 85%+, mean 94%**.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

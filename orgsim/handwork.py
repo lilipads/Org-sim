@@ -93,11 +93,11 @@ def describe_spot(world: World, x: float, y: float) -> str:
 # ---- strokes ------------------------------------------------------------------
 
 def _step(world: World, x: float, y: float, h: float, tx: float, ty: float, pts: list,
-          clearance: float, ignore: set) -> tuple:
-    """One domino toward (tx, ty): turn at most MAX_STEER, avoid what's on the table."""
+          clearance: float, ignore: set, max_turn: float = MAX_STEER) -> tuple:
+    """One domino toward (tx, ty): turn at most max_turn, avoid what's on the table."""
     want = math.degrees(math.atan2(ty - y, tx - x))
-    base = max(-MAX_STEER, min(MAX_STEER, angle_diff(want, h)))
-    for t in [base] + [t for t in (base + 12.5, base - 12.5, MAX_STEER, -MAX_STEER, 0.0) if abs(t) <= MAX_STEER]:
+    base = max(-max_turn, min(max_turn, angle_diff(want, h)))
+    for t in [base] + [t for t in (base + 12.5, base - 12.5, max_turn, -max_turn, 0.0) if abs(t) <= max_turn]:
         nh = (h + t) % 360
         nx, ny = x + SPACING * math.cos(math.radians(nh)), y + SPACING * math.sin(math.radians(nh))
         if any(d.id not in ignore for d in world.near(nx, ny, clearance)):
@@ -110,13 +110,14 @@ def _step(world: World, x: float, y: float, h: float, tx: float, ty: float, pts:
 
 
 def steer(world: World, x: float, y: float, h: float, waypoints: list, arrive: float = 0.6,
-          max_steps: int = 120, clearance: float = 0.45, ignore: set = frozenset()) -> list:
+          max_steps: int = 120, clearance: float = 0.45, ignore: set = frozenset(),
+          max_turn: float = MAX_STEER) -> list:
     """Lay a path by hand toward waypoints, steering around what's on the table."""
     pts = [(x, y, h % 360)]
     for wx, wy in waypoints:
         best, stall = 1e9, 0
         while math.hypot(wx - x, wy - y) > arrive and len(pts) <= max_steps and stall < 12:
-            x, y, h = _step(world, x, y, h, wx, wy, pts, clearance, ignore)
+            x, y, h = _step(world, x, y, h, wx, wy, pts, clearance, ignore, max_turn)
             pts.append((x, y, h))
             dist = math.hypot(wx - x, wy - y)
             stall = 0 if dist < best - 0.05 else stall + 1
@@ -433,6 +434,107 @@ def end_join(world: World, d, removable: set = frozenset(), max_n: int = 14) -> 
         ign = skip | {o.id for o in world.near(target.x, target.y, 0.8)} | {anchor.id}
         if len(path) <= max_n and _cost(world, path, ign, clearance=0.3) == 0:
             return [("remove", x_.id) for x_ in lifted] + [("place", p) for p in path]
+    return []
+
+
+def _densify(points: list, step: float = 0.5) -> list:
+    out = []
+    for (x0, y0), (x1, y1) in zip(points, points[1:]):
+        n = max(1, int(math.hypot(x1 - x0, y1 - y0) / step))
+        out += [(x0 + (x1 - x0) * k / n, y0 + (y1 - y0) * k / n) for k in range(n)]
+    out.append(points[-1])
+    return out
+
+
+def sketch_flow(strokes: list, points_of) -> tuple:
+    """Orient the sketch's strokes the way a domino run would flow: away from the
+    start, which is where the first stroke begins. Strokes whose ends meet (within
+    1.6 units) connect. Returns (origin point, {stroke number: oriented points})."""
+    lines = {k: points_of(s) for k, s in enumerate(strokes, start=1) if s.get("type") != "label"}
+    lines = {k: p for k, p in lines.items() if len(p) >= 2}
+    if not lines:
+        return None, {}
+    first = min(lines)
+    origin = lines[first][0]
+    close = lambda a, b: math.hypot(a[0] - b[0], a[1] - b[1]) <= 1.6  # noqa: E731
+    oriented: dict = {}
+    queue = [origin]                       # spread outward from the start, nearest first
+    while queue:
+        here = queue.pop(0)
+        for k, p in lines.items():
+            if k in oriented:
+                continue
+            if close(p[0], here):
+                oriented[k] = p
+            elif close(p[-1], here):
+                oriented[k] = p[::-1]
+            else:
+                continue
+            queue.append(oriented[k][-1])
+    for k, p in lines.items():          # not connected to the rest: keep as drawn
+        oriented.setdefault(k, p)
+    return origin, oriented
+
+
+def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
+                drift: float = 0.1, lead: tuple | None = None) -> tuple:
+    """Copy a sketch stroke (already oriented the way the run flows) onto the table,
+    the way people copy a drawing. Where it begins on an existing line heading the same
+    way, it carries on from that line's end (or branches off its side), lined up by hand.
+    Corners are rounded to what a domino line can turn; it steers round other dominoes.
+    Returns (specs, note)."""
+    pts = [(float(x), float(y)) for x, y in points]
+    if len(pts) < 2:
+        return [], "that sketch stroke has no length"
+    head0 = math.degrees(math.atan2(pts[min(2, len(pts) - 1)][1] - pts[0][1],
+                                    pts[min(2, len(pts) - 1)][0] - pts[0][0]))
+    note = "tracing the sketch"
+    anchor = None
+    cands = [d for d in world.near(pts[0][0], pts[0][1], 1.8) if d.state == "up"]
+    ends = [d for d in cands if not world.successors(d) and abs(angle_diff(d.angle, head0)) <= 60]
+    if ends:
+        anchor = min(ends, key=lambda d: abs(angle_diff(d.angle, head0)) + math.hypot(d.x - pts[0][0], d.y - pts[0][1]))
+    elif cands:
+        anchor = min(cands, key=lambda d: math.hypot(d.x - pts[0][0], d.y - pts[0][1]))
+    prefix = []
+    if lead is not None:                   # the start domino goes first, facing between the lines
+        lx, ly, lh = lead
+        prefix = [(lx, ly, lh)]
+        x, y, h = lx + SPACING * math.cos(math.radians(lh)), ly + SPACING * math.sin(math.radians(lh)), lh
+        anchor = None
+        note = "laying the start domino, then tracing the sketch"
+    elif anchor is not None:
+        x, y, h = _start_pose(world, anchor, pts[min(3, len(pts) - 1)])
+        note = f"tracing the sketch on from the line near {where(anchor.x, anchor.y)}"
+    else:
+        dx, dy = rng.gauss(0, drift), rng.gauss(0, drift)
+        pts = [(px_ + dx, py_ + dy) for px_, py_ in pts]
+        x, y = pts[0]
+        h = head0
+    way = _densify(pts, 1.0)[1:]
+    path = steer(world, x, y, h, way, arrive=0.8, max_steps=max_n, clearance=0.28, max_turn=18.0,
+                 ignore={anchor.id} if anchor else frozenset())   # lines may cross close by
+    return (prefix + [(px_, py_, a) for px_, py_, a in path])[:max_n], note
+
+
+def begin_join(world: World, b, removable: set = frozenset(), max_n: int = 12) -> list:
+    """The mirror of end_join: a traced line whose first domino nothing knocks over,
+    laid before the line that should feed it was there. Bring a short branch from the
+    nearest part of the run into it. Returns ops or []."""
+    if b is None or b.state != "up" or _has_pred(world, b):
+        return []
+    reach = world.reachable_from_start()
+    cands = [d for d in world.near(b.x, b.y, 3.5) if d.state == "up" and d.id != b.id
+             and d.id not in removable and (not reach or d.id in reach)]
+    cands.sort(key=lambda d: math.hypot(d.x - b.x, d.y - b.y))
+    for d in cands[:6]:
+        x, y, h = _start_pose(world, d, (b.x, b.y))
+        if abs(angle_diff(math.degrees(math.atan2(b.y - y, b.x - x)), h)) > 100:
+            continue
+        path = approach(world, x, y, h, b, max_steps=max_n, extra_ignore={d.id})
+        if len(path) <= max_n and _cost(world, path, {d.id, b.id} | {o.id for o in world.near(b.x, b.y, 0.8)},
+                                         clearance=0.3) == 0:
+            return [("place", p) for p in path]
     return []
 
 
