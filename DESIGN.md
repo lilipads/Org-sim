@@ -375,3 +375,25 @@ The existing MarbleGrid prototype (`orgsim/marble.py`, `orgsim/solver.py`) will 
 - Up to 2 exchanges per conversation per turn.
 - Reviews run on round 1 only (one table), at size 4.
 - Evaluated agents get the promotion-and-bonus line.
+
+## 15. Backlog: later posts
+
+### Functional teams vs. embedded specialists (after the first three posts)
+
+**Question.** Compare two ways of organizing the same people with the same skills:
+- **Functional:** each specialist belongs to a functional team, such as designers (good at the overall
+  picture) or builders (fast, steady hands). The functional teams serve several tables.
+- **Embedded:** specialists sit at a table and work only on that table's picture.
+
+Functional teams can bottleneck on availability. They also add back-and-forth between functions and
+coordination (TPM) overhead. Embedded specialists avoid that, but each table gets fewer of them.
+
+**What the engine needs, so this post is cheap to add later:**
+- **Per-agent skill settings**, for example:
+  - builders place more dominoes per turn, with less placement error;
+  - designers place fewer, but can sketch a faint guide outline that everyone sees.
+- **Agents who belong to a function but serve several tables**, with requests and queueing between
+  tables and functional teams.
+- An optional **TPM role** that only coordinates.
+
+Status: parked. It isn't part of the first experiments.
