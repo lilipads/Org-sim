@@ -1,0 +1,74 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1639.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "winding chain of fallen dominoes seen from above",
+      "looping hand-drawn scribble or ribbon line",
+      "vine or plant tendril with curling branches"
+    ],
+    [
+      "a curving line of fallen dominoes seen from above",
+      "a looping wire or rope with tick marks",
+      "a loose cursive scribble or hand-drawn loops"
+    ],
+    [
+      "fallen dominoes in a curved chain seen from above",
+      "a looping hand-drawn line or scribble",
+      "abstract outlines of leaves or a bird"
+    ]
+  ],
+  "placed": 180,
+  "fell": 133,
+  "completion": 0.747,
+  "team_score": 0.0,
+  "first_domino_at": "0:15",
+  "messages": 91,
+  "messages_by_speaker": {
+    "Priya": 22,
+    "Maya": 30,
+    "Leo": 17,
+    "Facilitator": 4,
+    "Tom": 18
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 199,
+    "failed": 3,
+    "input_tokens": 404,
+    "cache_creation_tokens": 1004395,
+    "cache_read_tokens": 551174,
+    "output_tokens": 99751,
+    "seconds": 2359.8,
+    "api_equivalent_usd": 4.9192
+  }
+}

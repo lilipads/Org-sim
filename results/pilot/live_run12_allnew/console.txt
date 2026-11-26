@@ -1,0 +1,105 @@
+[   25s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 1 | calls 5
+    Omar -> everyone: Okay, hot take: a fish! Big body, triangle tail, one googly eye. Even a judge who's had zero coffee gets that. I'm sketching it now. Shout if you've got something better, but it'd better be good.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[   38s] 0:15 asked Sofia,Hana | dominoes 3 | calls 7
+    Hana -> everyone: Fish works for me, it's basically what I was going to suggest. Quick check so we don't trip over each other: Jack's already at the nose, so he runs the body from there, split top and bottom. I'll take
+    (Sofia held a thought)
+[   52s] 0:30 asked Sofia,Omar,Jack | dominoes 4 | calls 10
+    Sofia -> everyone: Love it, fish it is. Sounds good, Hana, you take the tail and triangle. Jack, can you run the bottom curve from the nose? I'll do the top curve and join it up as the body grows. Hana, could you grab t
+    (Omar held a thought)
+    (Jack held a thought)
+[   72s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 9 | calls 14
+    Omar -> everyone: Ha, Sofia's already running the show, fine by me! Sketch's on the pad, everyone peek. I'll take the eye spur off the top line, so Hana can just do the tail. Sofia, shout when your top curve passes the
+    (Jack held a thought)
+    (Hana held a thought)
+[   84s] 1:00 asked Sofia,Hana | dominoes 12 | calls 16
+    Sofia -> Omar: Will do, Omar. I'll shout when the top curve gets past the eye spot, so you can branch off it.
+    Hana -> everyone: Got the sketch, thanks Omar. I'm on the tail now, starting from where the top line meets it. Sofia, Jack, your lines should run into the two inner corners of the tail. I'll do the eye after.
+[   96s] 1:15 asked Sofia,Omar,Jack | dominoes 15 | calls 19
+    Jack -> everyone: Yep, bottom curve is mine. Finishing the lead-in from the nose, then I'll split off and run it round underneath to the tail. Sofia has the top and the eye spur, Hana has the tail, and I'll bring mine 
+    (Omar held a thought)
+    (Sofia held a thought)
+[  108s] 1:30 asked Sofia,Omar,Hana,Jack | dominoes 20 | calls 23
+    Omar -> everyone: All good, you two. Sofia, I'll keep my elbows out of your way until your top line gets past the eye spot, then I'll hop in. Nobody wants a one-eyed fish with a bump on its head.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  127s] 1:45 asked Sofia,Omar | dominoes 24 | calls 25
+    Omar -> everyone: Sofia, quick heads up: your top line has a little wobble in the middle, one domino sits off to the side, so it won't pass the fall along. Also, my eye spur dropping straight down off a sideways line i
+    (Sofia held a thought)
+[  138s] 2:00 asked Sofia,Omar,Hana,Jack | dominoes 30 | calls 29
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Jack -> everyone: Sure Omar, tap in off the lead-in, just curve it gently off the side so it doesn't kink. Lead-in's done, I'm on the belly curve now, heading down and round toward the bottom of the tail.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  144s] 2:15 asked Omar | dominoes 34 | calls 30
+    Omar -> everyone: Thanks Jack! Branching a gentle little spur up off your lead-in for the eye. Fish needs to see where it's going.
+[  151s] 2:30 asked Jack | dominoes 39 | calls 31
+    Jack -> everyone: No problem, Omar. Just keep your spur gentle off the lead-in and we're fine. I'm carrying on down and round the belly.
+[  162s] 2:45 asked Omar,Hana | dominoes 43 | calls 33
+    Omar -> everyone: Spur's in! Adding the googly eye at the end of it now. Our fish is about to get a very judgy stare.
+    (Hana held a thought)
+[  177s] 3:00 asked Omar | dominoes 50 | calls 34
+    Omar -> everyone: Eye's in, the fish is officially judging us! Sofia, I'm bridging up from the eye into the start of your top line so it actually gets knocked over. Shout if you'd rather I didn't poke around there.
+[  185s] 3:15 asked Sofia | dominoes 53 | calls 35
+    Sofia -> everyone: Go for it, Omar, please bridge in. That saves me a join. I'll finish this stretch, then straighten that wobble. Hana, the top line is heading for your upper inner corner.
+[  194s] 3:30 asked Omar,Hana,Jack | dominoes 59 | calls 38
+    Omar -> Sofia: Thanks Sofia! Three more dominoes and the eye is plugged into your top line. Then I'll check the whole thing and see what actually falls.
+    Hana -> everyone: Top edge of the tail is in, and I'm rounding the tip and running the back edge down now. Sofia, your top line can aim at the upper inner corner, the start of my top edge on the left. Jack, same for th
+    (Jack held a thought)
+[  202s] 3:45 asked Sofia,Jack | dominoes 65 | calls 40
+    Sofia -> everyone: Thanks both. Omar, plug in whenever you're ready. I'm finishing this stretch, then I'll curve the end down into Hana's upper corner and fix that wobble. Hana, can you give a shout if my line looks lik
+    (Jack held a thought)
+[  210s] 4:00 asked Omar,Hana | dominoes 68 | calls 42
+    Hana -> everyone: Will do, Sofia. Right now your line's still a way off, so just keep heading for the start of my top edge and I'll shout if it drifts.
+    (Omar held a thought)
+[  219s] 4:15 asked Sofia,Omar | dominoes 73 | calls 44
+    Omar -> everyone: Okay, found two kinks in my bridge. The fish's eyebrow is a little crooked. Fixing them now so the fall actually gets into Sofia's top line.
+    (Sofia held a thought)
+[  228s] 4:30 asked Sofia | dominoes 76 | calls 45
+    Sofia -> everyone: Thanks Hana, almost done with this stretch. Then I'll bend it down into your corner and straighten the wobble up by the eye.
+[  238s] 4:45 asked Omar,Hana,Jack | dominoes 80 | calls 48
+    Omar -> everyone: Bridge is in, the eye's plugged into the top line! Jack, your belly end is just hanging out on the right, so I'll curve it up toward the bottom corner of the tail. Shout if you're already on it and I'
+    (Jack held a thought)
+    (Hana held a thought)
+[  245s] 5:00 asked Jack | dominoes 83 | calls 49
+    Jack -> Omar: I'm already on it, Omar. Belly's curving up to the lower corner right now, so keep clear of this end. Could you inspect the eye bridge and the join into Sofia's line instead? Hana's still not sure the
+[  254s] 5:15 asked Sofia,Omar | dominoes 87 | calls 51
+    Omar -> everyone: Ha, got it Jack, hands off your belly! I'll go play detective on the eye bridge and the top line join instead.
+    Sofia -> everyone: Top line's done. I'm checking the joint with Hana's tail now to make sure it actually catches.
+[  264s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 89 | calls 55
+    Hana -> everyone: Thanks, Sofia. I'm still finishing the curve round the tip, and the tail still looks pale to me, so I don't think it's catching yet. Are we sure your last domino lines up with the start of my top edge
+    (Omar held a thought)
+    (Sofia held a thought)
+[  273s] 5:45 asked Sofia,Omar | dominoes 92 | calls 57
+    Omar -> everyone: Detective report: the eye bridge is fixed, I nudged the jammed domino where it meets the top line. But at the tail joint, one domino sits off to the side of the path and the next one is jammed too clo
+    (Sofia held a thought)
+[  284s] 6:00 asked Sofia,Omar,Hana | dominoes 94 | calls 60
+    Sofia -> everyone: Hana, I'm fixing the joint at the start of your top edge right now. Give me a moment before you build there so we don't bump each other, and I'll check that it catches.
+    (Hana held a thought)
+    (Omar held a thought)
+[  298s] 6:15 asked Sofia,Omar,Hana | dominoes 97 | calls 63
+    Sofia -> everyone: Okay, fix is in. I'm taking a close look to see if the tail actually goes dark now. Hana, hold off there for a moment.
+    (Omar held a thought)
+    (Hana held a thought)
+[  333s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 100 | calls 67
+    Omar -> everyone: Inspection report: the only breaks are at the tail joint, and Sofia's on those, so I'm keeping my elbows off. The other gap is the fish's bottom lip, from the belly end across to the bottom of Hana's 
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  344s] 6:45 asked Sofia,Hana,Jack | dominoes 101 | calls 70
+    Hana -> everyone: Omar, hold on, I'm already on the lip. I'm curving round the bottom corner of the tail now and then running it over to Jack's belly end. Could you stay off that stretch? Sofia has the upper joint. Onc
+    (Jack held a thought)
+    (Sofia held a thought)
+[  354s] 7:00 asked Sofia,Omar,Jack | dominoes 103 | calls 73
+    Sofia -> everyone: Hana, the joint's fixed and the tail looks dark to me now, so you're clear to carry on. Omar, the lip is yours. I'm going to look at the eye end, because a few dominoes there still look pale and I wan
+    (Omar held a thought)
+    (Jack held a thought)
+[  366s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 77
+    Omar -> everyone: Sofia, small mix-up: Hana's already on the lip, so I'm keeping my hands off it. I'll go detective on the whole chain from the nose to the tail while you two do your bits. Fish detective, reporting for
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)

@@ -140,3 +140,174 @@
     Leo -> everyone: Thanks Maya. I'm nudging the bit just past the middle of the ring into line now. That's a fix, not new dominoes, so it saves supply. The jammed pair up top and the low right gap are still open, and we
     (Maya held a thought)
     (Tom held a thought)
+[ 1389s] 13:45 asked Maya,Tom,Priya,Leo | dominoes 175 | calls 110
+    Priya -> everyone: Four went down right by where I'm laying, so that's the middle of the ring. I'll finish my last few, then stand those back up. Leo, Maya, stay clear of that spot for a minute and nobody spend the last
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[ 1398s] 14:00 asked Maya,Tom,Leo | dominoes 177 | calls 113
+    Leo -> everyone: That one's mine, Priya. I bumped the middle of the ring and I'm standing those four back up now. It costs no supply, so hold the last two dominoes.
+    (Tom held a thought)
+    (Maya held a thought)
+[ 1408s] 14:15 asked Maya,Tom,Priya,Leo | dominoes 173 | calls 117
+    Tom -> everyone: Tail's good, folks. Both lobes go dark, nothing broken there. There's a little pale trail of strays below Priya's spot, not part of the fish, so I'm pulling those for supply. Leo, Priya, that's more d
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[ 1418s] 14:30 asked Maya,Tom,Priya,Leo | dominoes 174 | calls 121
+    Tom -> everyone: Strays are gone, folks. That puts the table at seven dominoes now, so Leo, Priya, Maya, you've got room for the ring gaps. Re-inspect first, then spend them. I'll keep out of the middle, and if anyone
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[ 1425s] 14:45 asked Maya,Priya,Leo | dominoes 174 | calls 124
+    Maya -> everyone: Sorry Tom, talked over you. The jammed pair up top is mine, so I'm nudging it into line now. No new dominoes, and I'm staying clear of the middle.
+    (Priya held a thought)
+    (Leo held a thought)
+[ 1435s] 15:00 asked Maya,Tom,Priya,Leo | dominoes 174 | calls 128
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Thanks Tom, those were strays, no problem. Inspect says the ring's still pale. I've got two gaps on the low right, and I'm closing them now. Leo, the middle's yours. Nobody spend the spare dominoes ye
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1443s] 15:15 asked Maya,Tom,Leo | dominoes 175 | calls 131
+    Maya -> everyone: My jammed pair up top is nudged into line, no new dominoes used. Leo, whenever the middle's done, go ahead and re-inspect the ring. I'm staying clear of the middle and Priya's gaps.
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1453s] 15:30 asked Maya,Tom,Priya,Leo | dominoes 176 | calls 135
+    Leo -> everyone: Okay Maya. I'm still bridging the break at the middle, so I'll stay on that and leave Priya's low right gaps alone. Nobody spend the spare dominoes until I re-inspect.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[ 1460s] 15:45 asked Maya,Tom,Priya | dominoes 178 | calls 138
+    Priya -> everyone: Thanks Maya, Leo. I'm still on the low right gaps, about eight to go, then I'll shout. Leo, re-inspect the second I do, and hold the spares till then.
+    (Maya held a thought)
+    (Tom held a thought)
+[ 1468s] 16:00 asked Maya,Tom,Leo | dominoes 179 | calls 141
+    Maya -> everyone: Top still has one sharp turn where my line meets the ring. I'm nudging it into line now, no new dominoes. Staying clear of the middle and Priya's gaps.
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1476s] 16:15 asked Maya,Tom,Priya | dominoes 180 | calls 144
+    Maya -> everyone: My top nudge is in. I'm inspecting the top of the ring now to see if it goes dark, and I'm staying out of the middle.
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1489s] 16:30 asked Maya,Tom | dominoes 180 | calls 146
+    Tom -> everyone: Okay, my inspect's back. Body and tail are solid, about 133 going dark, so the fish outline is safe even if the ring doesn't make it. Still open: a gap in the middle, one on the low right, and the top
+    (Maya held a thought)
+[ 1496s] 16:45 asked Maya,Leo | dominoes 180 | calls 148
+    Maya -> everyone: Thanks Tom, good to know the outline's safe. My top join might still have one end pointing at nothing, so I'm inspecting it now. I'll stay out of the middle and won't spend any spares.
+    (Leo held a thought)
+[ 1506s] 17:00 asked Maya,Tom,Leo | dominoes 180 | calls 151
+    Maya -> everyone: Inspect says my top join still has a sharp turn and one end pointing at nothing. I'm closing it with a fix, so it shouldn't need new dominoes. Leo, I'll shout when it's done.
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1512s] 17:15 asked Tom,Priya,Leo | dominoes 180 | calls 154
+    Priya -> everyone: Heads up, my low right bridging wouldn't take, those spots were too tight. Outline's safe at 133, so nobody touch the body or tail now. Leo, Maya, finish your fixes and then hands off. I'm inspecting 
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1520s] 17:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 158
+    Priya -> everyone: Okay, low right won't take, too tight. Outline's safe at 133, so that's our fish. Leo, finish the middle fix if it's nearly done, then everyone hands off. Maya, same with the top. No more bumping the 
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1526s] 17:45 asked Maya,Tom,Leo | dominoes 180 | calls 161
+    Maya -> everyone: Top join's done, no new dominoes used. Leo, re-inspect whenever you're ready. I'm hands off now so we don't bump anything, and the outline's safe either way.
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1533s] 18:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 165
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Two minutes, team. Outline's solid at 133, so that's our fish. Everybody hands off now, no more fixes, no bumping. Nice work, all of you.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[ 1539s] 18:15 asked Maya,Tom | dominoes 180 | calls 167
+    Tom -> everyone: No worries, Priya. Outline's safe, so anything the ring adds is a bonus. Hands off from me, so nobody bump anything. Proper fish, everyone!
+    (Maya held a thought)
+[ 1545s] 18:30 asked Maya,Priya | dominoes 180 | calls 169
+    Maya -> everyone: Okay, I'm hands off. Outline's solid, so fingers crossed for the judge. Everybody step back and let it go!
+    Priya -> everyone: Thanks Tom. Hands off, everybody, and let's watch the fish fall.
+[ 1551s] 18:45 asked Maya,Tom,Priya | dominoes 180 | calls 172
+    Tom -> everyone: Fingers crossed, folks. If the judge says 'potato', I'm blaming the sleep I didn't get.
+[ 1557s] 19:00 asked Maya,Priya | dominoes 180 | calls 174
+    Maya -> everyone: Ha, it's a fish, Tom, I believe in it. Hands in pockets, everyone!
+    Priya -> everyone: Ha, Tom, it's a fish, the judge will get it. Hands off and let it fall.
+[ 1563s] 19:15 asked Maya,Tom,Priya | dominoes 180 | calls 177
+    Tom -> everyone: Hands in pockets, I'm sitting on mine. Go little fish!
+[ 1569s] 19:30 asked Maya,Priya | dominoes 180 | calls 179
+    Maya -> everyone: Pushing time! Go fish!
+    Priya -> everyone: Here we go. Hands off, fish incoming.
+[ 1576s] 19:45 asked Maya,Tom,Priya | dominoes 180 | calls 182
+    Maya -> everyone: Fingers crossed, here it goes!
+    Tom -> everyone: Look at it go! Fish, fish, fish.
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1639.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "winding chain of fallen dominoes seen from above",
+      "looping hand-drawn scribble or ribbon line",
+      "vine or plant tendril with curling branches"
+    ],
+    [
+      "a curving line of fallen dominoes seen from above",
+      "a looping wire or rope with tick marks",
+      "a loose cursive scribble or hand-drawn loops"
+    ],
+    [
+      "fallen dominoes in a curved chain seen from above",
+      "a looping hand-drawn line or scribble",
+      "abstract outlines of leaves or a bird"
+    ]
+  ],
+  "placed": 180,
+  "fell": 133,
+  "completion": 0.747,
+  "team_score": 0.0,
+  "first_domino_at": "0:15",
+  "messages": 91,
+  "messages_by_speaker": {
+    "Priya": 22,
+    "Maya": 30,
+    "Leo": 17,
+    "Facilitator": 4,
+    "Tom": 18
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 199,
+    "failed": 3,
+    "input_tokens": 404,
+    "cache_creation_tokens": 1004395,
+    "cache_read_tokens": 551174,
+    "output_tokens": 99751,
+    "seconds": 2359.8,
+    "api_equivalent_usd": 4.9192
+  }
+}

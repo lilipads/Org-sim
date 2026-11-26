@@ -1,0 +1,91 @@
+[   12s] 0:00 asked Maya,Grace,Sam,Leo | dominoes 0 | calls 4
+    Grace -> everyone: Fish. Big body, forked tail, one eye. It's easy to read and it's mostly curves. I'm starting at the tail end on the right and running left. Maya, Sam, take the top and bottom of the body once I split 
+    (Maya held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+[   24s] 0:15 asked Maya,Sam,Leo | dominoes 2 | calls 7
+    Sam -> everyone: Sounds good, I'll take the bottom of the body. I'm sketching a rough outline on the pad so we all line up on the size.
+    (Maya held a thought)
+    (Leo held a thought)
+[   39s] 0:30 asked Maya,Leo | dominoes 3 | calls 9
+    Leo -> everyone: Fish works. I'll do the tail and the eye. Grace, I'm laying the top prong of the tail from the far right tip into your start, and I'll make the tip the new start so it all runs through. I'll stay out 
+    (Maya held a thought)
+[   54s] 0:45 asked Maya,Grace,Sam | dominoes 7 | calls 12
+    Sam -> Grace: Grace, I'm starting the bottom of the body from just past where you'll split, going left. Tell me if you want the split somewhere else and I'll join onto it.
+    Maya -> everyone: Fish works for me too. I'll take the top of the body once you've split it, Grace. Just shout when the split is down and I'll start from there.
+    (Grace held a thought)
+[   60s] 1:00 asked Grace | dominoes 11 | calls 13
+    Grace -> everyone: Leo, fine, make the tail tip the start, but do both prongs so it actually forks. Sam, Maya: the split goes right where my line ends, just past the middle of the body. I'll shout when it's down. Go ahe
+[   69s] 1:15 asked Maya,Sam,Leo | dominoes 15 | calls 16
+    Sam -> Grace: Got it, Grace. I'm already running the bottom from the split, so I'll join onto your line end when you shout.
+    Maya -> everyone: Okay Grace, I'm starting the top line from the end of yours now. Shout if I'm in your way.
+    (Leo held a thought)
+[   78s] 1:30 asked Grace | dominoes 19 | calls 17
+    Grace -> everyone: Three more and my line is done, that's your split. Maya top, Sam bottom, keep going left. Leo, run the tail down into the start of my line so it all connects.
+[   89s] 1:45 asked Maya,Sam,Leo | dominoes 23 | calls 20
+    Sam -> Grace: Got it, Grace. Bottom's running left from the split now.
+    Leo -> everyone: Got it, both prongs. Joining the top one into your line now, then the lower prong. Grace, keep clear of the tail end.
+    (Maya held a thought)
+[   95s] 2:00 asked Maya,Grace,Sam,Leo | dominoes 28 | calls 24
+    Facilitator -> everyone: Time's up for the scratch pad, I'm taking it away now. From here on, work from what you remember.
+    Maya -> Grace: Got it, Grace. I'm working up and left from your line end, so I'll stay out of your way.
+    Grace -> everyone: Last one going down now. Split's set after this. Maya, Sam, keep running left.
+[  103s] 2:15 asked Maya,Grace,Sam | dominoes 32 | calls 27
+    Sam -> Grace: Got it, Grace. Bottom's still running left, I'll keep going.
+    Grace -> everyone: Line's done, split is set. I'm checking the joins now. Leo, is the tail running into the start of my line? Only a third of it falls right now.
+[  112s] 2:30 asked Maya,Grace,Leo | dominoes 36 | calls 30
+    Grace -> Leo: Leo, I'm closing the gap where the tail line meets my body line. Stay off it a sec.
+    Leo -> everyone: Not yet, I'm still laying the join from the top prong into the start of your line. Give me a minute and it should all fall. Lower prong comes after that.
+    (Maya held a thought)
+[  122s] 2:45 asked Grace,Leo | dominoes 39 | calls 32
+    Grace -> Leo: Fine Leo, it's yours. I'm backing off. Finish the join and tell me when it's down, then I'll check it.
+    Leo -> Grace: Okay Grace, you take the gap. I'll stop my join so we're not on top of each other, and I'll check what falls once you're done. Lower prong after that.
+[  138s] 3:00 asked Grace,Leo | dominoes 43 | calls 34
+    Grace -> Leo: Leo, I've got the gap. Hands off the join, I'll tell you when it's closed.
+    Leo -> Grace: Grace, I'm leaving the join to you. I'm starting the lower prong off the end of the top one, a bit below where you're working. Tell me if I'm too close.
+[  147s] 3:15 asked Grace,Leo | dominoes 47 | calls 36
+    Grace -> Leo: Leo, I'm on the join, stay off it. Closing it now.
+[  156s] 3:30 asked Grace,Leo | dominoes 52 | calls 38
+    Grace -> Leo: Leo, I'm looking at the join now. Tell me when your lower prong is down.
+[  191s] 3:45 asked Maya,Grace,Leo | dominoes 56 | calls 43
+    Grace -> Leo: Leo, I'm dropping one bridge domino at the join. Stay off it until I say.
+    Leo -> Grace: Almost done with the lower prong, two more to go. I'll tell you when it's down, then I'll inspect what falls.
+[  196s] 4:00 asked Grace,Leo | dominoes 61 | calls 45
+    Grace -> everyone: Bridge is down at the join, Leo, it's clear now. I'm checking what actually falls from the start.
+[  205s] 4:15 asked Grace,Sam,Leo | dominoes 65 | calls 48
+    Grace -> Sam: Sam, your bottom line isn't catching off my line, so it won't fall. I'm fixing the joint right at the split now. Keep running left, but stay off it.
+    Leo -> Grace: Grace, the lower prong is down. I'm inspecting now to see what actually falls.
+[  219s] 4:30 asked Grace,Sam,Leo | dominoes 68 | calls 51
+    Grace -> Leo: Good, Leo. Inspect the tail and prongs, tell me what falls. I'm still on the split joint for Sam's line, stay off it.
+    Sam -> Grace: Got it, I'll stay off the split. Still running the bottom left, tell me when the joint's fixed.
+    Leo -> everyone: Tail's done and it falls through. Sam's bottom line is still pale though, it doesn't reach the split. I'll close that joint now, Sam, keep going left.
+[  229s] 4:45 asked Grace,Sam,Leo | dominoes 72 | calls 54
+    Sam -> Leo,Grace: Thanks Leo, I'll keep going left and stay off the split. Shout if it still doesn't fall.
+    Leo -> Grace: Grace, sorry, I crossed wires. You said you've got the split joint, so I'm leaving it to you. I'll look at what falls from the start and tell you if Sam's line is still pale.
+    Grace -> everyone: Leo, fine, you take the split joint for Sam's line. I'm staying off it. Sam, keep running left. Tell me when it's down and I'll check what falls.
+[  239s] 5:00 asked Maya,Grace,Sam,Leo | dominoes 76 | calls 58
+    Leo -> everyone: Okay, I've got the split joint for Sam's line, Grace. Closing the break just below it now. Sam, keep going left.
+    (Maya held a thought)
+    (Grace held a thought)
+[  246s] 5:15 asked Grace,Sam | dominoes 79 | calls 60
+    Sam -> Leo: Thanks Leo, I'll keep going left and stay off the joint.
+    Grace -> everyone: Fine, Leo, the split joint's yours. I'm finishing my bridge. Sam, Maya, keep running left. Shout when the joint's down and I'll check what falls.
+[  255s] 5:30 asked Maya,Sam,Leo | dominoes 82 | calls 63
+    Maya -> everyone: Top line's reached the middle of the head. I'm curving it down toward the nose now, Sam, bring yours up to meet it.
+    (Leo held a thought)
+[  263s] 5:45 asked Sam,Leo | dominoes 86 | calls 65
+    Sam -> Maya: Got it Maya, bottom's still running left and I'll curve it up to meet yours at the nose.
+    Leo -> everyone: Checking the split joint now to see whether Sam's line actually falls.
+[  270s] 6:00 asked Maya,Sam,Leo | dominoes 91 | calls 68
+    Maya -> Sam: Great Sam, I'll keep curving down toward the nose. Tell me when yours is close so we don't overshoot.
+    Leo -> everyone: Found it. One domino at the split sits off to the side of where it should be. I'm nudging it into line now. Sam, keep going left.
+[  276s] 6:15 asked Sam,Leo | dominoes 93 | calls 70
+    Sam -> Maya: Maya, I've got a few left on the bottom. I'll shout when I'm close to the nose so we don't overshoot.
+    Leo -> everyone: Nudged it into line. Looking at whether Sam's line falls now.
+[  284s] 6:30 asked Maya,Sam,Leo | dominoes 97 | calls 73
+    Maya -> Sam: Sounds good, Sam. Shout when you're close and I'll ease off.
+    Sam -> Leo: Thanks Leo. I've got a few more to go on the bottom, then I'll curve it up toward the nose.
+    Leo -> everyone: Still two dominoes off-line at the split, so Sam's line is pale. I'm fixing both now. Sam, keep going left.
+[  290s] 6:45 asked Sam,Leo | dominoes 101 | calls 75
+[  296s] 7:00 asked Leo | dominoes 106 | calls 76
+    Leo -> everyone: Looking at the split again to see if Sam's line falls now.
