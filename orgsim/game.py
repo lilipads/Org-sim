@@ -33,6 +33,7 @@ class Action:
     where: str | None = None         # visit: region name
     at: str | None = None            # any action: walk to this region first (free), then act there
     notes: str | None = None         # agent's private notes, replacing the old ones
+    thinking: str = ""               # agent's stated reason (logged, never shown to others)
 
     def brief(self) -> dict:
         d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
@@ -49,7 +50,8 @@ class Agent:
     def decide(self, obs: dict) -> Action:  # pragma: no cover - interface
         raise NotImplementedError
 
-    def reply(self, obs: dict, transcript: list) -> str | None:
+    def reply(self, obs: dict, transcript: list) -> str | dict | None:
+        """A message, or {"message": ..., "notes": ...}, or None to stay quiet."""
         return None
 
 
@@ -161,14 +163,18 @@ class Game:
             speakers = [m for m in members if acts[m].kind == "talk" and acts[m].message]
             self.rng.shuffle(speakers)
             transcript = [{"speaker": s, "to": acts[s].to, "message": acts[s].message[:1500]} for s in speakers]
-            if self.cfg.exchanges >= 2 and transcript:
+            if self.cfg.exchanges >= 2 and transcript and len(members) > 1:
                 snap = list(transcript)
                 replies = self._parallel(
                     lambda m: (m, self._safe_reply(m, obs[m], snap)), members)
                 self.rng.shuffle(replies)
                 for m, msg in replies:
+                    if isinstance(msg, dict):
+                        if msg.get("notes"):
+                            self.notes[m] = str(msg["notes"])[:2000]
+                        msg = msg.get("message")
                     if msg:
-                        transcript.append({"speaker": m, "to": "group", "message": msg[:1500]})
+                        transcript.append({"speaker": m, "to": "group", "message": str(msg)[:1500]})
             for m in members:
                 heard[m].append({"with": members, "messages": transcript})
                 if m in pulled:
