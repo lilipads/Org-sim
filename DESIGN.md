@@ -191,6 +191,18 @@ There are no rulers at the table, so agents never get exact numbers:
   chain looks broken and why, where lines end, and, tracing by eye from the start, how much of the table
   would fall and which pieces aren't connected.
 
+### 4.4b Seeing the table: picture vs. text grid
+
+Agents can see the table in one of two ways (a dial, `--view`):
+- **text:** a 60 × 40 character grid. Each character is one unit of table, and an arrow shows roughly
+  which way a domino faces (8 directions). It's coarse: two dominoes share most characters, small gaps
+  and turns don't show, and the model reads it row by row. In runs 1–4 agents lost track of whose
+  dominoes were whose, which way lines ran, and where the start was.
+- **image** (current default for experiments): a picture of the table is attached to every decision.
+  Dominoes are drawn as bars, with an orange tick on the side they'll fall toward. The start is ringed
+  in green, and pointing and working hands are labelled. Grid lines are 1 unit apart and labelled
+  every 5, so agents can still aim by coordinates. This is closest to what a person at the table sees.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:
