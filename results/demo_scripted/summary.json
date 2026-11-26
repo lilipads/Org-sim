@@ -1,0 +1,74 @@
+{
+  "round1_table1": {
+    "animal": "fish",
+    "placed": 147,
+    "standing_at_push": 147,
+    "fell": 120,
+    "fell_in_time": 120,
+    "early_down": 0,
+    "completion": 0.816,
+    "revealed": true,
+    "seconds": 11.8
+  },
+  "round1_table2": {
+    "animal": "snail",
+    "placed": 153,
+    "standing_at_push": 153,
+    "fell": 153,
+    "fell_in_time": 153,
+    "early_down": 0,
+    "completion": 1.0,
+    "revealed": true,
+    "seconds": 9.0
+  },
+  "round1_table3": {
+    "animal": "cat",
+    "placed": 250,
+    "standing_at_push": 250,
+    "fell": 194,
+    "fell_in_time": 194,
+    "early_down": 0,
+    "completion": 0.776,
+    "revealed": true,
+    "seconds": 10.7
+  },
+  "round2": {
+    "row_success": false,
+    "seconds": 22.9,
+    "per_table": {
+      "Table 1": {
+        "placed": 186,
+        "standing_at_push": 186,
+        "fell": 159,
+        "fell_in_time": 159,
+        "early_down": 0,
+        "completion": 0.855,
+        "revealed": true
+      },
+      "Table 2": {
+        "placed": 204,
+        "standing_at_push": 204,
+        "fell": 204,
+        "fell_in_time": 204,
+        "early_down": 0,
+        "completion": 1.0,
+        "revealed": true
+      },
+      "Table 3": {
+        "placed": 275,
+        "standing_at_push": 275,
+        "fell": 8,
+        "fell_in_time": 8,
+        "early_down": 0,
+        "completion": 0.029,
+        "revealed": false
+      }
+    },
+    "supply_left": {
+      "Table 1": 24,
+      "Table 2": 38,
+      "Table 3": 0,
+      "shared": 60
+    }
+  }
+}

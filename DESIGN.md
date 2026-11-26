@@ -79,8 +79,8 @@ conversationally.
   Spacing in the middle of the allowed range is safe. Spacing or turns near the limits are faster, use
   fewer dominoes and allow tighter curves, but they sometimes leave a gap that nobody notices without
   inspecting. Risk is a matter of degree, not a coin flip.
-- **Bumping.** Each builder has a chance of bumping for each *other* builder working within 3 units that
-  turn (**6%** each *(tune)*). A bump knocks over a nearby standing domino. It falls forward along its
+- **Bumping.** Each builder has a chance of bumping for each *other* builder working within 6 units (about
+  30 cm, a working arm's reach) that turn (**5%** each *(tune)*). A bump knocks over a nearby standing domino. It falls forward along its
   line, using the same physics, and keeps going until the line reaches a gap. The fallen dominoes must be
   stood back up. The risk grows with crowding, which is the overstaffing effect.
 - **Safety gaps** (a technique bet). Builders may leave deliberate gaps so that a bump only knocks down
@@ -98,13 +98,16 @@ Teams **are not told about round 2** until round 1 is over.
   *(tune)*. Each domino takes about 0.1 seconds to fall into the next. The limit is set so that chaining naively from the end of each
   picture to the next table's start usually takes too long. Teams have to branch off mid-picture or take
   shortcuts, and every table's choices affect the time left for the others.
-- Round-1 pictures stay where they are. Teams may change or take down any part of them, but nothing
-  forces them to.
+- Round-1 pictures stay where they are: the round-1 push is scored on a copy of the table, so the pictures
+  are still standing. Teams may change or take down any part of them, but nothing forces them to.
 - **Supply:** each table keeps its leftover dominoes, plus a **shared pool of 60 connector dominoes**
   *(tune)* for the row, first come, first served.
 - **Time limit:** 6 turns *(tune)*.
 - **Score:** pass or fail for the full row, the number of pictures revealed within the limit, and the
-  judge's score for each revealed picture.
+  judge's score for each revealed picture. A picture counts as **revealed** if at least **half** of its
+  standing dominoes fall within the time limit *(tune)*.
+- Whether a domino is on a table or in a gap is judged by where the builder **aimed**, not where it
+  landed after placement error.
 
 ### 3.5 Judging (blind)
 
@@ -173,8 +176,12 @@ has to be maintained while building.
 | **Build** | up to **8 dominoes** *(tune)*, described as strokes: a single domino (x, y, angle); a straight line (from, to, spacing); or an arc (centre, radius, start and end angle, spacing). Optional start mark | Places or re-stands dominoes. Dominoes in a line or arc face along the stroke automatically. Each one gets placement error, and the builder may bump others |
 | **Take down** | an area (rectangle or circle) | Removes up to **12 dominoes**, whoever built them; they return to the supply |
 | **Inspect** | an area | Lists exact positions and angles there, and flags pairs that wouldn't knock each other over: gaps, sharp turns, safety gaps not yet closed |
-| **Visit** (round 2) | another table or a gap strip | The agent spends the turn there: it sees it in detail and can talk or build there |
+| **Visit** (round 2) | another table or a gap strip | Walks there and looks closely: the detailed map comes back at once. The agent stays there until it moves again |
 | **Wait** | — | Nothing |
+
+**Walking is free.** Any action can name a place (`at`) to walk to first, then act there in the same turn:
+for example, build in the gap strip or talk with another table. An agent is in one place at a time and
+can only talk with people who are there.
 
 ### 4.6 How a turn is resolved
 
@@ -325,6 +332,29 @@ makes clear which charts come from which source.
 - **Round 2 run:** about 300 calls, including its three round-1 runs.
 - **All experiments:** with runs reused, roughly 6,000–9,000 calls.
 
+### 10.1 Stage 1 status (done): engine and scripted agents
+
+Built and tested: physics, building, take-downs, inspection, bumps, conversations with pulled-in
+listeners, free walking and visits, the non-destructive push, the round-2 gallery set-up, logs, judge
+images, push animations, and the HTML replay. 18 engine tests pass.
+
+What scripted calibration (no AI, 20 seeds) shows so far:
+- **One person** can place at most 80 dominoes in 10 turns, so a solo table only finishes about
+  half of a mid-sized animal. Solo players will have to pick a simple design.
+- **Unowned seams.** Scripted agents repair only their own section. Breaks where two people's
+  sections meet go unfixed, so 4- and 10-person tables lose 10–30% of the picture at seams, before any
+  talking costs.
+- **Bumping** depends heavily on reach. At 6 units, a table of 10 gets 1–2 bumps per round, knocking
+  over 5–35 dominoes. Scripted agents re-stand them quickly.
+- **The time box barely binds** for scripted 4- and 10-person tables, because they spend almost no
+  turns talking. How much it binds for real agents is the main thing stage 3 measures.
+- **Round 2 staffing.** Connecting table to table takes about 80 dominoes per gap. One connector
+  builder per table can't finish in 6 turns; three can. That's an early hint for the "who steps out"
+  post.
+
+Open tuning questions for stage 3: dominoes per build (8 is conservative; careful hands manage about
+12–20 per 2 minutes), table size, and whether round 2 needs more turns.
+
 ## 11. Deliverables
 
 - A **replay viewer** for each run (HTML page): the board turn by turn, plus the chat, with a
@@ -341,33 +371,33 @@ makes clear which charts come from which source.
 - Prompt wording matters. Each post includes the exact rules and evaluation text the agents saw.
 - The rules-based model only shows consequences of behavior we wrote in. It doesn't discover anything.
 
-## 13. Architecture (planned)
+## 13. Architecture
 
 ```
 orgsim/
-  dominoes.py     continuous positions and angles, hit physics, placement error, bumps, push and topple, timing
-  render.py       ASCII board views (for agents), images and animations (for judges and the blog)
-  game.py         turn loop, conversations, action resolution, round 1 and 2, logging
+  dominoes.py      continuous positions and angles, hit physics, placement error, bumps, push, inspection
+  game.py          turn loop, conversations, actions, round-1 table and round-2 gallery set-up, logging
+  render.py        ASCII map (for agents), judge images and push animations (for judges and the blog)
+  replay.py        self-contained HTML replay of a run
+  designs.py       hand-made animal designs (scripted agents only)
   agents/
-    llm.py        prompt building, calls through Claude Code non-interactive mode, JSON parsing, retries
-    scripted.py   simple scripted agents for tests and calibration
-    rules.py      rules-based model (§9)
-  review.py       manager, peer and automatic ratings; true contribution
-  judge.py        blind judging and intent matching
-  metrics.py      metrics from logs (§8)
-experiments/      one config per experiment; batch runner that resumes after interruptions
-viewer/           replay viewer page
-results/          run logs and charts
+    scripted.py    scripted agents for tests and calibration (no AI)
+    llm.py         (stage 3) prompts and calls through Claude Code non-interactive mode
+  review.py        (later) manager, peer and automatic ratings; true contribution
+  judge.py         (stage 4) blind judging and intent matching
+  metrics.py       (later) metrics from logs (§8)
+experiments/
+  calibrate.py     scripted calibration across table sizes
+  demo_scripted.py both rounds end to end with scripted agents
+tests/             engine tests
+results/           run logs, replays, images
 ```
-
-The existing MarbleGrid prototype (`orgsim/marble.py`, `orgsim/solver.py`) will be removed once
-`dominoes.py` exists.
 
 ## 14. Defaults I chose (please confirm or change)
 
 - Table 60 × 40 units (1 unit = 1 domino height); a domino knocks over others 0.2–0.9 units ahead,
   within 0.35 units to the side and 40° of its angle; placement error 0.05 units and 3°.
-- 250 dominoes, 8 dominoes per build, 6% bump chance per nearby builder.
+- 250 dominoes, 8 dominoes per build, 5% bump chance per builder within 6 units.
 - Round 1: 10 turns of 2 game-minutes. Round 2: 6 turns, a 30-second limit, 60 shared connector
   dominoes, a 6-unit-wide gap strip.
 - Rows of 3 tables in round 2 (scaled down from 5).
