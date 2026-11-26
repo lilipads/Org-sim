@@ -78,3 +78,65 @@
     Maya -> Leo: Leo, I took a close look at the ring. It's the right side that's fiddly: a couple of dominoes are bunched up, and the line turns too sharply near the bottom right. The loose end where you're working i
 [  609s] 8:15 asked Leo | dominoes 142 | calls 56
     Leo -> Maya: Thanks Maya. Hook's nearly in, a few more dominoes. Once it's done I'll inspect and then deal with the bunched right side. If you're free, the loose end near the bottom right of the ring is yours to t
+[  918s] 8:30 asked Maya,Priya | dominoes 145 | calls 59
+    Maya -> Leo: Sure Leo, I'll take that right side. I'm just having a look first so I don't get in your way.
+    Priya -> everyone: Almost done with my join across the bottom, two dominoes left. Then I'll inspect the whole chain. Leo, shout when the eye hook's in.
+[  926s] 8:45 asked Maya,Leo | dominoes 149 | calls 61
+    Maya -> Leo: Starting on the bottom right of the ring now, Leo. I'll stay on my side of it.
+    Leo -> everyone: Hook's got a few dominoes left. I'll shout the moment it's in, then inspect. Maya, the right side of the ring is yours.
+[  931s] 9:00 asked Maya,Priya,Leo | dominoes 151 | calls 64
+    Priya -> everyone: My bottom join's in. I'm inspecting the whole chain now to see what actually goes dark.
+[  941s] 9:15 asked Maya,Priya | dominoes 155 | calls 66
+    Priya -> everyone: Inspect's back. About a hundred and seven go dark. Two pieces are still pale: the eye ring, and the upper tail lobe. I'll fix the lobe where it leaves the top line, just before the tail. Leo, the ring
+    (Maya held a thought)
+[  951s] 9:30 asked Maya,Leo | dominoes 153 | calls 68
+    Maya -> Leo: Leo, heads up: a few dominoes on the right side of the ring are bunched up and jamming the line. I'm clearing just that little patch and rebuilding it. I'll stay right of you.
+    Leo -> everyone: Two left on the hook, then I'll inspect the ring. Thanks Priya, I'll shout if the gaps inside need a hand.
+[  960s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 155 | calls 72
+    Maya -> Leo: Patch cleared, Leo. I'm rebuilding it now and staying on the right side.
+    Leo -> Maya: Thanks Maya, I saw those come down. One left on the hook, then I'll inspect the ring.
+    Priya -> everyone: Lobe join's nudged in. Re-inspecting the whole chain now to see what's still pale. Leo, shout when the ring's hooked.
+    Tom -> everyone: Join's about halfway, still going. I'll inspect the tail the second it's done.
+[  969s] 10:00 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 76
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Lobe's in, so the only pale piece left is the eye ring. Leo, Maya, I'm taking the gap on the right side of the ring, low down. You two keep the left and the top.
+    (Tom held a thought)
+[  976s] 10:15 asked Maya,Leo | dominoes 159 | calls 78
+    Leo -> everyone: Hook's in. Inspecting the ring now, I'll say what's still pale.
+    Maya -> everyone: Got it Priya, the low right is yours. I'm finishing the upper right patch where I cleared the bunched bit, so we shouldn't overlap.
+[  984s] 10:30 asked Priya,Leo | dominoes 161 | calls 80
+    Leo -> everyone: Inspect's back. The hook's in but the ring is still pale. Left side has a jammed spot low down and one domino off its path along the top. I'm fixing those. The gap on the right and the bit just past t
+    (Priya held a thought)
+[  990s] 10:45 asked Maya,Priya | dominoes 163 | calls 82
+    Priya -> everyone: Thanks Leo. I'm on the low right gap now, mid-build. Maya, the bit just past the middle is yours. I'll re-inspect the ring once mine is in.
+    (Maya held a thought)
+[  996s] 11:00 asked Maya,Leo | dominoes 168 | calls 84
+    Maya -> everyone: Got it Priya. I'm still laying the upper right bit and the stretch past the middle, so we shouldn't collide. I'll inspect the ring once mine is in.
+    (Leo held a thought)
+[ 1003s] 11:15 asked Priya,Leo | dominoes 171 | calls 86
+    Leo -> everyone: Left and top fixes are in. Re-inspecting the ring to see what's left.
+[ 1014s] 11:30 asked Leo | dominoes 177 | calls 87
+    Leo -> everyone: Inspect's back on the ring. Still three off-path spots: one on the top, one just past the middle, one low on the right. There's also a loose end up top pointing up at nothing. Maya, that loose end is 
+[ 1020s] 11:45 asked Maya,Leo | dominoes 179 | calls 89
+    Maya -> everyone: Thanks Leo. I think the loose end up top is a stray from the old bunched patch, not part of my line. I'm finishing my last few, then I'll inspect and pull it if it's a stray.
+[ 1032s] 12:00 asked Tom,Leo | dominoes 180 | calls 91
+    Leo -> everyone: Inspect's back. The left and top of the ring look clean now. What's still off is all on the right: the jammed pair and sharp turn up near the stray, the bit past the middle, and the low right gap. May
+    (Tom held a thought)
+[ 1038s] 12:15 asked Maya,Priya | dominoes 180 | calls 93
+    Priya -> everyone: Still laying the low right gap, about half in. I'll shout the second it's done, then you can re-inspect. Maya, how's the stretch past the middle?
+    (Maya held a thought)
+[ 1044s] 12:30 asked Maya,Leo | dominoes 180 | calls 95
+    Maya -> everyone: Almost there Priya, three left on mine. Then I'll inspect and pull that stray up top. Leo, I'll shout when mine are in so you can re-inspect.
+[ 1050s] 12:45 asked Priya,Leo | dominoes 180 | calls 97
+    Priya -> everyone: Good, Maya. Mine's about 10 from done. Shout when yours are in, then Leo re-inspects the ring.
+    Leo -> everyone: Sounds good Maya. I'll stay clear and re-inspect once you both shout.
+[ 1058s] 13:00 asked Maya,Leo | dominoes 178 | calls 99
+    Maya -> everyone: Mine are mostly in, Leo, but we ran out of dominoes so a few didn't fit. I'm pulling that stray up top now to get one back, then I'll inspect.
+[ 1065s] 13:15 asked Maya,Tom,Leo | dominoes 180 | calls 102
+    Tom -> everyone: Tail join's in, folks. I'm inspecting the tail now to make sure it all goes dark. Only two dominoes left on the table, so spend them wisely!
+    (Maya held a thought)
+    (Leo held a thought)
+[ 1082s] 13:30 asked Maya,Tom,Leo | dominoes 180 | calls 105
+    Leo -> everyone: Thanks Maya. I'm nudging the bit just past the middle of the ring into line now. That's a fix, not new dominoes, so it saves supply. The jammed pair up top and the low right gap are still open, and we
+    (Maya held a thought)
+    (Tom held a thought)
