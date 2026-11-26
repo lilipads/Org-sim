@@ -1,0 +1,221 @@
+[   20s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish! I've got the pad. Start's at the tail, body runs out to the nose, and I'll put the top and bottom fins on after. Tom, can you take the start domino when I've got the sketch?
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   29s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Yes, a fish, and I'll take the start. Maya, can you put the tail tip where the start goes, at the left end? Then the top line runs from there out to the nose, and the fall carries the right way.
+    (Priya held a thought)
+    (Leo held a thought)
+[   41s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Sounds good, Tom. Tail tip at the left is where START goes. I'm sketching the fish now, then I'll trace the body from the start.
+    (Priya held a thought)
+    (Leo held a thought)
+[   59s] 0:45 asked Tom,Priya,Leo | dominoes 4 | calls 13
+    Leo -> everyone: Good plan, Maya. One snag: the two tail fin lines run left from START, against the way the fall goes, so one push from the start can't reach them. Could the fins hang off the body, or could the fall s
+    (Priya held a thought)
+    (Tom held a thought)
+[   77s] 1:00 asked Maya,Tom | dominoes 8 | calls 15
+    Maya -> everyone: Leo's right, the fins can't hang off START. I'm redrawing it: START goes at the top tail tip, the fall runs right through the tail point and down the body to the nose. Tom, hold the start for a sec, I
+    (Tom held a thought)
+[   87s] 1:15 asked Tom,Leo | dominoes 11 | calls 17
+    Tom -> everyone: Got it, Maya. I'm holding the start until stroke 1 is on the pad. Starting at the top tail tip makes sense to me, so the top fin runs into the junction and the body carries on from there.
+    (Leo held a thought)
+[   96s] 1:30 asked Maya,Leo | dominoes 17 | calls 19
+    Maya -> everyone: Stroke 1's on the pad and I'm laying it now, start included. Tom, once the body's running, can you take stroke 2 from the branch point? Leo's got the bottom fin.
+    (Leo held a thought)
+[  114s] 1:45 asked Tom,Priya,Leo | dominoes 22 | calls 22
+    Priya -> everyone: Maya, Leo, one thing on the tail fin before I lay more. The lower arm runs straight down from the start, and the start falls down-right, so the push probably won't catch it. I'd rather the lower arm b
+    (Leo held a thought)
+    (Tom held a thought)
+[  125s] 2:00 asked Maya,Tom,Leo | dominoes 27 | calls 25
+    Tom -> everyone: Got it, Maya. I'll leave the top line to you and take stroke 2 from the branch point once the body's running. Priya, I'm not touching the lower arm, so it's yours.
+    (Maya held a thought)
+    (Leo held a thought)
+[  135s] 2:15 asked Maya,Priya,Leo | dominoes 30 | calls 28
+    Priya -> Maya: Maya, the lower arm still starts at the start and runs straight down, so the push won't catch it. Could you redraw it from the tail point, where the top body begins? Once it's on the pad I'll lay it.
+    Maya -> everyone: Priya, the bottom fin already leaves from the tail point on the pad, not from START. Once the body's running, you can take it from there. Tom, stroke 2 is yours when the body's going.
+    (Leo held a thought)
+[  145s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 33 | calls 32
+    Maya -> Priya: Priya, yes, the lower arm already leaves from the tail point on the pad. Once the body's running, take it from there.
+    Priya -> Maya: Maya, I think the pad still has the lower line starting at the top-left dot, not the tail point. Could you redraw it from the tail point? I'll lay it once it's there.
+    Leo -> Priya: I'm staying off the lower arm, it's all yours. I'll only pick up the tail base if it's left unclaimed.
+[  158s] 2:45 asked Maya,Priya | dominoes 35 | calls 34
+    Maya -> Priya: Priya, it's stroke 3. It leaves the tail point and runs down-left to the lower dot, not from START. Once stroke 1 is running, take it from the tail point.
+    Priya -> Maya: Maya, the pad still shows the lower arm starting at that top-left dot, not at the tail point. Could you pass me the pad for a minute? I'll redraw that arm from the tail point and hand it straight back
+[  171s] 3:00 asked Maya,Priya | dominoes 38 | calls 36
+    Maya -> Priya: Priya, look at the pad: the lower arm starts where the body's tail point is, not at the top-left dot. Stroke 3 leaves the tail point and runs down to the lower dot. Once the body's reached the tail po
+    Priya -> Maya: Maya, keep the pad and keep laying the body, I don't need it. Once stroke 5 shows starting at the tail point, tell me and I'll trace it. I'm checking the join by the start now.
+[  181s] 3:15 asked Maya,Priya | dominoes 41 | calls 38
+    Maya -> Priya: Got it, Priya. I'll keep laying the body and let you know when it reaches the tail point.
+    Priya -> Maya: Maya, keep the pad and finish the body, that's fine. I'm just checking the join by the start. Ping me when the lower arm starts at the tail point.
+[  193s] 3:30 asked Maya,Priya,Leo | dominoes 43 | calls 41
+    Maya -> Priya: Priya, the body's past the tail point now, so stroke 3 can start from there. Go ahead and trace it.
+    Priya -> Maya: No rush, Maya. Keep laying the body. Ping me when the lower arm starts at the tail point and I'll trace it from there.
+[  207s] 3:45 asked Maya,Priya | dominoes 48 | calls 43
+    Maya -> Priya: Priya, I'm keeping the body going to the nose. I'll ping you as soon as stroke 3 can start from the tail point.
+    Priya -> Maya: Thanks, Maya. I'm tracing the lower tail arm from the tail point now, so it branches off the body and not off START.
+[  214s] 4:00 asked Maya,Priya | dominoes 55 | calls 45
+    Maya -> Priya: Priya, you're good. The body's past the tail point, so your lower arm can run from there.
+[  223s] 4:15 asked Priya | dominoes 56 | calls 46
+    Priya -> everyone: Lower tail arm's down, Maya, thanks for the go-ahead. I'm checking the join at the tail point now, and I'll flag anything that looks loose by the start.
+[  235s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 56 | calls 50
+    Tom -> everyone: Body's running past the branch point now, so I'm taking stroke 2, the bottom outline. Shout if it clashes with anything.
+    (Maya held a thought)
+    (Priya held a thought)
+[  250s] 4:45 asked Maya,Priya,Leo | dominoes 56 | calls 53
+    Priya -> everyone: Lower tail arm's down, and I've nudged the loose domino at its lower end back into line. Tom, that's mine, so don't worry about it. I'm checking the join at the tail point and around START now.
+    (Maya held a thought)
+[  261s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 56 | calls 57
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Body's almost at the nose, four to go. Tom, stroke 2 is yours from the stalk, thanks. Priya, your lower fin looks good from the tail point.
+    (Priya held a thought)
+[  270s] 5:15 asked Tom,Priya,Leo | dominoes 56 | calls 60
+    Priya -> everyone: Lower tail arm's in, and it looks joined at the tail point to me. I'm giving the start and that join one more look. Leo, your pale fin bits aren't on the chain yet. Want a hand joining them, or are yo
+    (Tom held a thought)
+[  283s] 5:30 asked Maya,Priya,Leo | dominoes 56 | calls 63
+    Priya -> Leo: Leo, want a hand joining your fin to the tail point? I can take it while you finish the bottom fin. Just say the word.
+    Leo -> everyone: Those pale pieces by the tail base aren't mine, Priya. I've got nothing in my hands and I'm off the lower arm. I'm checking the start-to-tail join now. If it's loose I'll tell you, and if the tail poi
+    (Maya held a thought)
+[  291s] 5:45 asked Maya,Priya,Leo | dominoes 56 | calls 66
+    Priya -> Leo: Okay, Leo, I'll leave the pale bits alone. I'm inspecting the start-to-tail join now, and I'll tell you if anything's loose.
+    Leo -> Priya: Priya, those pale pieces by the tail base are yours, not mine. I'm not on the lower arm. I'm inspecting the start-to-tail stretch now and will tell you if the join is loose.
+    Maya -> everyone: Four to go on the body, then I'll put the pad down. Leo, if the tail join needs hands, I can come over once the nose is in.
+[  301s] 6:00 asked Priya,Leo | dominoes 56 | calls 68
+    Priya -> Leo: Leo, my notes have those pale bits at the tail base as yours, so I'm leaving them alone. You said you'd take the tail point if nobody's on it, so that's yours unless you say otherwise. I'm checking th
+[  315s] 6:15 asked Priya,Leo | dominoes 56 | calls 70
+    Leo -> Priya: Priya, to be clear: the pale pieces at the tail base are yours, and I'm not touching them. I'm inspecting the start-to-tail join now. If it's loose and nobody's on the tail point, I'll take it.
+    Priya -> everyone: Start join looks solid to me. The body and my lower arm are on the chain, about fifty of the fifty-six. The loose bits are the pale ones by the tail base. Leo, you said you'd take the tail point if no
+[  326s] 6:30 asked Maya,Priya,Leo | dominoes 60 | calls 73
+    Leo -> everyone: Priya, nobody's on the tail base, so I'll take the pale pieces there and join them to the tail point. Shout if that clashes with your join check.
+    (Priya held a thought)
+    (Maya held a thought)
+[  335s] 6:45 asked Maya,Priya | dominoes 62 | calls 75
+    Priya -> everyone: Leo, those pale bits at the tail base are yours. I've put my hands down and won't touch them. Everyone else, please leave that spot to Leo.
+    (Maya held a thought)
+[  342s] 7:00 asked Leo | dominoes 69 | calls 76
+    Leo -> everyone: Taking the pale pieces at the tail base now and joining them onto the tail point. Everyone else, please keep off that corner.
+[  353s] 7:15 asked Maya,Tom,Priya | dominoes 78 | calls 79
+    Maya -> everyone: Leo, the tail base is yours, I'm finishing the nose now.
+    Tom -> everyone: Got it, Maya. Bottom outline from the branch point, tracing it now. Shout if it clashes with anything.
+    (Priya held a thought)
+[  363s] 7:30 asked Maya,Priya,Leo | dominoes 91 | calls 82
+    Maya -> everyone: Four more to the nose, then I'm putting the pad down. Priya, the eye is already on the pad near the head if you want it there.
+    (Priya held a thought)
+[  371s] 7:45 asked Priya | dominoes 102 | calls 83
+    Priya -> everyone: Maya, got it, the eye's on the pad by the head, so that's covered. Finish the nose and then put the pad down. The start and the tail join look solid to me. I'm keeping my hands off everything, and Leo
+[  379s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 87
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Nose is in, so I'm putting the pad down now and keeping my hands off. Leo, the tail corner's all yours.
+[  386s] 8:15 asked Priya,Leo | dominoes 120 | calls 89
+    Leo -> everyone: Thanks, Maya. I've got the tail base. I'll tell Priya when the join is in.
+[  395s] 8:30 asked Maya,Priya | dominoes 130 | calls 91
+    Maya -> Leo: Nice work, Leo. Shout if you need a hand on the join. I'm staying off the tail corner.
+    Priya -> everyone: Sounds good, Leo. It's all yours. I'll keep off that corner and only shout if I see something loose at the start.
+[  402s] 8:45 asked Maya,Leo | dominoes 138 | calls 93
+    Maya -> Leo: Sounds good, Leo. I'm staying off that corner. Shout if you need a hand.
+    Leo -> everyone: Thanks both. I'm about halfway through the tail base pieces and don't need help. I'll call it out when they're joined to the tail point.
+[  412s] 9:00 asked Maya,Priya,Leo | dominoes 143 | calls 96
+    Leo -> Priya: Priya, the tail join is one domino from done. I'm placing it now, and I'll call it out when it's in.
+[  423s] 9:15 asked Tom,Priya,Leo | dominoes 143 | calls 99
+    Tom -> everyone: Bottom outline's in from the nose, but its far end still looks a bit short of the branch point. I'm checking the nose join now.
+[  435s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 143 | calls 103
+    Tom -> everyone: Bottom outline's joined at the nose, but the far end stops a fair way short of the branch point. It's too far for a quick nudge in the time left, so I'm leaving it as it is.
+[  443s] 9:45 asked Maya,Priya,Leo | dominoes 143 | calls 106
+    Maya -> Tom: Thanks for flagging it, Tom. Good work getting the outline joined at the nose.
+    Leo -> Priya: Priya, last bridge domino at the tail base is going in now. I'll call it out as soon as it's joined.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 1.1,
+      "error": 0.6
+    },
+    "Priya": {
+      "speed": 0.8,
+      "error": 1.87
+    },
+    "Leo": {
+      "speed": 0.93,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 500.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a short dark diagonal line segment",
+      "a crack or scratch on a light surface",
+      "a single pen or brush stroke"
+    ],
+    [
+      "a short diagonal line of dark domino tiles seen from above",
+      "a single hand-drawn dark pen stroke on a blank page",
+      "a thin crack or wire segment in the top-left corner"
+    ],
+    [
+      "short diagonal row of fallen dominoes",
+      "single dark diagonal stroke",
+      "crack or scratch on pale surface"
+    ]
+  ],
+  "placed": 143,
+  "fell": 6,
+  "completion": 0.042,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 59,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 20,
+    "Tom": 7,
+    "Leo": 11,
+    "Priya": 18
+  },
+  "held_thoughts": 28,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 123,
+    "failed": 0,
+    "input_tokens": 258,
+    "cache_creation_tokens": 627813,
+    "cache_read_tokens": 364743,
+    "output_tokens": 129258,
+    "seconds": 1094.2,
+    "api_equivalent_usd": 0.1939,
+    "cached": 0
+  }
+}

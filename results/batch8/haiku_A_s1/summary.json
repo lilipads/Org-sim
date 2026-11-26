@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 1.1,
+      "error": 0.6
+    },
+    "Priya": {
+      "speed": 0.8,
+      "error": 1.87
+    },
+    "Leo": {
+      "speed": 0.93,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 500.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a short dark diagonal line segment",
+      "a crack or scratch on a light surface",
+      "a single pen or brush stroke"
+    ],
+    [
+      "a short diagonal line of dark domino tiles seen from above",
+      "a single hand-drawn dark pen stroke on a blank page",
+      "a thin crack or wire segment in the top-left corner"
+    ],
+    [
+      "short diagonal row of fallen dominoes",
+      "single dark diagonal stroke",
+      "crack or scratch on pale surface"
+    ]
+  ],
+  "placed": 143,
+  "fell": 6,
+  "completion": 0.042,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 59,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 20,
+    "Tom": 7,
+    "Leo": 11,
+    "Priya": 18
+  },
+  "held_thoughts": 28,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 123,
+    "failed": 0,
+    "input_tokens": 258,
+    "cache_creation_tokens": 627813,
+    "cache_read_tokens": 364743,
+    "output_tokens": 129258,
+    "seconds": 1094.2,
+    "api_equivalent_usd": 0.1939,
+    "cached": 0
+  }
+}

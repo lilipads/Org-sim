@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.07,
+      "error": 0.95
+    },
+    "Omar": {
+      "speed": 1.1,
+      "error": 0.6
+    },
+    "Hana": {
+      "speed": 0.8,
+      "error": 1.87
+    },
+    "Jack": {
+      "speed": 0.93,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "dominoes in a curved line with a loop",
+      "wavy hill with a bump on top",
+      "stylized fish or bird silhouette"
+    ],
+    [
+      "a curling wave or hill with a bump",
+      "a snake or caterpillar arching its body",
+      "a roller-coaster track or loop"
+    ],
+    [
+      "roller coaster track with a loop",
+      "stylized fish or bird body with a head bump",
+      "hand-drawn cursive letter or squiggle"
+    ]
+  ],
+  "placed": 86,
+  "fell": 39,
+  "completion": 0.453,
+  "team_score": 0.151,
+  "first_domino_at": "0:45",
+  "messages": 72,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 26,
+    "Hana": 14,
+    "Omar": 16,
+    "Jack": 13
+  },
+  "held_thoughts": 31,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 0,
+    "input_tokens": 312,
+    "cache_creation_tokens": 815191,
+    "cache_read_tokens": 443186,
+    "output_tokens": 149899,
+    "seconds": 1281.7,
+    "api_equivalent_usd": 0.2425,
+    "cached": 0
+  }
+}

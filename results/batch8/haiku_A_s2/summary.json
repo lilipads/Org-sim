@@ -1,0 +1,96 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Tom": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Priya": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Leo": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 462.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Maya",
+    "Maya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "sailboat with mast and hull",
+      "bird in flight or wing outline",
+      "fish or leaf shape"
+    ],
+    [
+      "sailboat hull with a diagonal mast or sail line",
+      "bird or fish profile with a diagonal wing or fin",
+      "airplane wing viewed from the side"
+    ],
+    [
+      "boat hull with a diagonal mast or stick",
+      "fish or bird shape in side view",
+      "hand-drawn outline with tick-mark strokes"
+    ]
+  ],
+  "placed": 98,
+  "fell": 98,
+  "completion": 1.0,
+  "team_score": 0.5,
+  "first_domino_at": "0:45",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 14,
+    "Maya": 10,
+    "Tom": 10,
+    "Leo": 14
+  },
+  "held_thoughts": 30,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 134,
+    "failed": 0,
+    "input_tokens": 262,
+    "cache_creation_tokens": 635283,
+    "cache_read_tokens": 380898,
+    "output_tokens": 129289,
+    "seconds": 1152.0,
+    "api_equivalent_usd": 0.1955,
+    "cached": 6
+  }
+}

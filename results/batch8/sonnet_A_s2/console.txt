@@ -1,0 +1,214 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Let's do a fish. The outline is easy to read, and the tail fin gives it away. I'll sketch it now. Then someone can take the top of the body, someone the bottom, and someone the tail.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  333s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 8
+    Maya -> everyone: I've got the pad, so I'm sketching the fish now. I'll lay the top of the body from the nose, Tom take the bottom, Priya the tail fin, Leo jump in wherever it's thin.
+    (Leo held a thought)
+    (Tom held a thought)
+[  346s] 0:30 asked Tom,Priya,Leo | dominoes 8 | calls 11
+    Priya -> everyone: Nice sketch, Maya. I've got the tail fin. I'll start on the diagonal that goes down and out, and do the back edge and the top diagonal after that. Tom has the bottom of the body, so I'll wait for the 
+    (Tom held a thought)
+    (Leo held a thought)
+[  357s] 0:45 asked Maya,Tom,Leo | dominoes 18 | calls 14
+    Leo -> everyone: Nice sketch, Maya. Priya, I can take the back edge of the tail and the top diagonal so you just have the one going down. Maya, are those separate strokes on the pad? Which numbers?
+    (Tom held a thought)
+    (Maya held a thought)
+[  366s] 1:00 asked Maya,Priya | dominoes 26 | calls 16
+    Maya -> everyone: Sounds good Priya. Leo, stroke 1 is the top of the body, 2 is the bottom, and 3 is the whole tail as one stroke, down diagonal, back edge and top diagonal together. Split it however you like with Priy
+    (Priya held a thought)
+[  388s] 1:15 asked Priya,Leo | dominoes 35 | calls 18
+    Leo -> everyone: Thanks Maya. Since the tail is a single stroke, I'll trace the whole thing myself so we don't double up. Priya, could you help Tom on the bottom of the body, or Maya on the top, wherever it's thinner?
+    (Priya held a thought)
+[  404s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 45 | calls 22
+    Priya -> everyone: Sounds good, Leo, the tail's yours. Maya, you've got the longer way still to go on the top. Want me to pick up the far half, toward the tail joint, so we don't bump each other? Just tell me where you 
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  415s] 1:45 asked Maya,Leo | dominoes 53 | calls 24
+    Maya -> everyone: Thanks Priya, yes please. Take the last stretch of the top, the part that slopes down into the tail joint. My line's coming toward you, so just carry on from where it ends. Leo, the tail's all yours, 
+    (Leo held a thought)
+[  427s] 2:00 asked Priya,Leo | dominoes 61 | calls 26
+    Priya -> everyone: On it, Maya. I'm carrying on from where your line ends now and heading for the tail joint. If you get ahead of me, just tell me and I'll skip to the sloping bit.
+    (Leo held a thought)
+[  437s] 2:15 asked Maya,Tom,Leo | dominoes 63 | calls 29
+    Maya -> Priya: Priya, change of plan, sorry. My trace is already set to run all the way to the tail joint, and it's only a little way to go. If you build there too we'll bump each other. Can you help Leo with the ta
+    Tom -> everyone: Bottom's done, it runs all the way round to the tail joint. I'll take a look at how it meets up there, Leo.
+[  452s] 2:30 asked Tom,Priya,Leo | dominoes 67 | calls 32
+    Priya -> everyone: Got it, Maya, no problem. I'll step off the top line. I'll go look at the tail joint and check that both body lines actually meet there.
+    (Tom held a thought)
+    (Leo held a thought)
+[  461s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 71 | calls 36
+    Tom -> everyone: Maya, the bottom's in and sits right at the tail joint. Top still has that last slope to cross, so I'll take it from where your line ends down into the joint. You can stop there and go check the nose 
+    (Leo held a thought)
+    (Priya held a thought)
+[  470s] 3:00 asked Maya,Priya,Leo | dominoes 75 | calls 39
+    Maya -> everyone: Thanks Tom, but I've only got a few left and I'm already on that slope, it'll reach the joint in a few seconds. Hang back so we don't bump. Once I'm done, can you look at where the tail meets the body
+    (Leo held a thought)
+[  479s] 3:15 asked Tom,Priya,Leo | dominoes 77 | calls 42
+    Leo -> everyone: Tail's still just one domino at the joint, so I'm taking a close look at why it won't lay out. Maya, once your slope is done, can you hand me the pad so I can split the tail into separate strokes?
+    (Tom held a thought)
+[  490s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 46
+    Priya -> everyone: Leo, I just looked at the joint. The top line ends right at the joint pointing up and out with nothing ahead of it, and there's one domino jammed too close just beside it. That's probably why the tail
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  512s] 3:45 asked Maya,Tom,Leo | dominoes 84 | calls 49
+    Leo -> everyone: Thanks Priya, that helps. The single tail stroke turns too sharply at the corners, so I'm drawing the top diagonal as its own stroke now. I'll finish the down one by hand and then lay the top one.
+    (Maya held a thought)
+[  521s] 4:00 asked Maya,Tom,Priya | dominoes 85 | calls 52
+    Tom -> Leo: Leo, body's all connected to the joint. If that jammed domino at the joint gets in your way, say the word and I'll pull it. Otherwise I'll stay clear of your corner.
+    Maya -> everyone: Top's done, it runs right into the joint. Leo, the jammed domino by the joint is probably what's blocking the tail. Want me to lift it out, or are you good? I'll keep my hands off until you say.
+    (Priya held a thought)
+[  529s] 4:15 asked Tom,Priya,Leo | dominoes 93 | calls 55
+    Priya -> everyone: Sounds good, Leo. The body's all connected from the nose, so it's just the tail left. I'll keep my hands off and look it over once your top diagonal is in. If you'd like me to lay the back edge, say s
+    (Leo held a thought)
+    (Tom held a thought)
+[  538s] 4:30 asked Maya,Tom,Leo | dominoes 96 | calls 58
+    Tom -> everyone: Leo, you're good, I'll keep clear. Body's all connected, so once your top diagonal's in, the tail's a fork shape, which already reads as a fish. Priya, the back edge is yours if Leo wants it.
+    (Leo held a thought)
+    (Maya held a thought)
+[  547s] 4:45 asked Maya,Priya,Leo | dominoes 96 | calls 61
+    Leo -> everyone: Thanks both, the top diagonal's in. The fork tail already reads as a fish, and the back edge is a sharp corner so I'll skip it. I'm giving the tail joint one last look, then we're done.
+    (Maya held a thought)
+    (Priya held a thought)
+[  555s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Looks good from here. The push runs through everything on my check, and both tail diagonals reach their ends. Leo, the fork tail already reads as a fish, so I'd leave the back edge out. I'll stay clea
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  561s] 5:15 asked Tom,Priya,Leo | dominoes 96 | calls 68
+    Leo -> everyone: Agreed, Maya. All connected, 96 of 96 by my count. I'm keeping my hands off so nobody bumps anything, let's just leave it.
+    (Priya held a thought)
+    (Tom held a thought)
+[  566s] 5:30 asked Maya,Tom,Priya | dominoes 96 | calls 71
+    Tom -> everyone: Same from my look at the tail, everything's connected from the start and nothing's broken. Reads as a fish to me. I'll keep my hands off.
+    Maya -> everyone: Sounds good Leo. Hands off, let's let it ride. Nice work, everyone.
+    (Priya held a thought)
+[  571s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 75
+    Priya -> everyone: Agreed, all of it. The push carries from the nose to both tail tips. Hands off from me too. Nice work, everyone!
+[  575s] 6:00 asked Maya,Tom,Leo | dominoes 96 | calls 78
+[  575s] 6:15 asked - | dominoes 96 | calls 78
+[  575s] 6:30 asked - | dominoes 96 | calls 78
+[  580s] 6:45 asked Priya | dominoes 96 | calls 79
+[  585s] 7:00 asked Maya,Tom,Leo | dominoes 96 | calls 82
+[  585s] 7:15 asked - | dominoes 96 | calls 82
+[  585s] 7:30 asked - | dominoes 96 | calls 82
+[  589s] 7:45 asked Priya | dominoes 96 | calls 83
+[  595s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 87
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  595s] 8:15 asked - | dominoes 96 | calls 87
+[  595s] 8:30 asked - | dominoes 96 | calls 87
+[  595s] 8:45 asked - | dominoes 96 | calls 87
+[  601s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 91
+    Priya -> everyone: One minute, we're all set. Fingers crossed, fish!
+[  607s] 9:15 asked Maya,Tom,Leo | dominoes 96 | calls 94
+    Tom -> everyone: Fingers crossed! Go little fish.
+    Maya -> everyone: Fingers crossed! Go fish.
+    Leo -> everyone: Fingers crossed. Go, fish!
+[  613s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 98
+    Maya -> everyone: Here we go, fish!
+    Priya -> everyone: Here we go. Thirty seconds, hands off!
+[  619s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 102
+    Priya -> everyone: Go fish!
+    Leo -> everyone: Here we go, fingers crossed!
+    Tom -> everyone: Go, little fish!
+    Maya -> everyone: Go fish, go!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Tom": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Priya": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Leo": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 655.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a crossed tail (ichthys-style symbol)",
+      "stylized fish body and tail drawn in a single black line",
+      "fish shape with a forked tail, possibly a christian fish symbol"
+    ],
+    [
+      "ichthys fish symbol (jesus fish) with crossed tail lines",
+      "fish outline drawn with a long tail crossing its body",
+      "stylized fish or leaf shape made of fallen dominoes in a curve"
+    ],
+    [
+      "ichthys fish symbol",
+      "fish outline with crossed tail",
+      "simple hand-drawn fish"
+    ]
+  ],
+  "placed": 96,
+  "fell": 96,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 11,
+    "Maya": 11,
+    "Leo": 8,
+    "Tom": 7
+  },
+  "held_thoughts": 39,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 119,
+    "failed": 1,
+    "input_tokens": 242,
+    "cache_creation_tokens": 534968,
+    "cache_read_tokens": 352954,
+    "output_tokens": 50542,
+    "seconds": 1122.5,
+    "api_equivalent_usd": 2.5996,
+    "cached": 6
+  }
+}

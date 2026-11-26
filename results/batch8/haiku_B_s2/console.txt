@@ -1,0 +1,249 @@
+[   26s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, let's do a fish! Side view, nose to the right, a forked tail on the left. I'm drawing it on the pad now, starting from the tail joint. Then we trace the body first and add the fins.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   34s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Jack -> everyone: Yes, a fish, I'm in! Nose to the right, forked tail on the left, that's a shape people will read easily. Sofia, once the body's on the pad I'll take the tail fins if nobody's on them yet.
+    (Hana held a thought)
+    (Omar held a thought)
+[   47s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 10
+    Sofia -> everyone: Okay, I'm sketching the body now, then I'll start the top line from the tail joint. Jack, the forked tail is yours once the body's down, two strokes off the back.
+    (Omar held a thought)
+    (Hana held a thought)
+[   60s] 0:45 asked Omar,Hana,Jack | dominoes 3 | calls 13
+    Hana -> Sofia: Sofia, I'll take the bottom edge, stroke 2, once the top edge is standing back to the tail. Are you tracing stroke 1 yourself?
+    Omar -> everyone: Sounds good, Sofia. Jack has the tail, so I'll take the dorsal fin on top, stroke 3, once the body's standing. Someone needs to start stroke 1 right at the start, though.
+    (Jack held a thought)
+[   73s] 1:00 asked Sofia,Hana,Jack | dominoes 7 | calls 16
+    Hana -> Sofia: Sofia, are you tracing stroke 1 yourself? I'm free, so I'm laying the bottom edge, stroke 2, from the tail joint now. If stroke 1 isn't covered, say so and I'll take it too.
+    Jack -> everyone: Agreed, Sofia, go ahead and trace stroke 1 from the start so the body gets laid. Once that's down, could you hand me the pad for a moment? I'll sketch the forked tail on the back end, then trace it.
+    (Sofia held a thought)
+[   81s] 1:15 asked Sofia,Omar,Hana | dominoes 9 | calls 19
+    Sofia -> everyone: Yes, I've got stroke 1 from the start, and I'm doing the bottom edge too so the nose closes properly. Jack, here's the pad, sketch the forked tail on the back end. Hana, can you help Jack with the for
+    (Hana held a thought)
+    (Omar held a thought)
+[  106s] 1:30 asked Omar,Hana,Jack | dominoes 18 | calls 22
+    Hana -> everyone: Sofia, I'm already partway along the bottom edge, stroke 2, from the tail joint. You take stroke 1 all the way to the nose. Once my bottom edge is standing I'll come help Jack with the fork.
+    (Jack held a thought)
+    (Omar held a thought)
+[  120s] 1:45 asked Sofia,Hana,Jack | dominoes 30 | calls 25
+    Hana -> everyone: Correction from me: I haven't laid the bottom edge yet, my hands are empty. I'm starting stroke 2 now from the tail joint. Sofia, you take stroke 1 to the nose and leave the bottom edge to me so we do
+    (Jack held a thought)
+    (Sofia held a thought)
+[  129s] 2:00 asked Sofia,Jack | dominoes 36 | calls 27
+    Jack -> everyone: Top lobe's down, thanks Sofia for the body line. Heads up everyone: the fork can't curl back from the start, so I'm splaying two short lobes off the body just past the tail joint. I'm doing the bottom
+    (Sofia held a thought)
+[  139s] 2:15 asked Sofia,Omar,Hana | dominoes 37 | calls 30
+    Hana -> Jack: Will do, Jack. I'll check the lobes against the body once the bottom edge is standing.
+    Sofia -> everyone: Got it, Hana, the bottom edge is yours, stroke 2, and I won't touch it. I've got the top edge, stroke 1, all the way from the start to the nose, so the body closes up. Omar, your dorsal fin comes off 
+    (Omar held a thought)
+[  150s] 2:30 asked Omar,Hana,Jack | dominoes 35 | calls 33
+    Omar -> Sofia: Dorsal fin's standing, and it's hooked onto the top line where it branches. Sofia, once your line gets to that spot, make sure the join carries on. I'll check it with an inspect.
+    Jack -> everyone: Both lobes are down now. I've put the pad on the table so Omar can trace his fin. Hana, check the joints where the lobes meet the body when your belly edge is standing.
+[  160s] 2:45 asked Sofia,Omar,Hana | dominoes 40 | calls 36
+    Sofia -> Omar: Thanks Omar, got it. I'll run the top edge straight through that branch point so your fin stays connected, then keep going to the nose.
+    Omar -> everyone: Fin's hooked on where the top line branches. Sofia, once your edge reaches that spot, the join should carry on through. Jack, if the lobes need a hand, I can come over once I've checked the fin join.
+[  167s] 3:00 asked Sofia,Omar,Jack | dominoes 48 | calls 39
+    Omar -> Sofia: Got it, Sofia. I'll check the join once your edge gets there.
+    Jack -> everyone: Thanks, Omar. Sounds good, and I'll come over if the lobes need a hand. I'm going to take a closer look at the tail end first, to make sure it's all connected back to the start.
+[  177s] 3:15 asked Sofia,Omar,Jack | dominoes 54 | calls 42
+    Sofia -> Omar: Got it, Omar. I'm carrying the top edge straight through the branch point so your fin stays hooked on. I'll call out when I reach it.
+    Omar -> Sofia: Sofia, your top edge looks like it's reached the fin branch. I'm checking the join now.
+    Jack -> everyone: Tail end's mostly sound, but there's a little kink where the top lobe meets the body. I'm nudging it into line now. Hana, the belly edge stops just short of where it should carry on, so that's yours w
+[  191s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 58 | calls 46
+    Sofia -> Omar: Omar, the top edge has come through the branch point, so your fin should be hooked on. I'm carrying on toward the nose now, and I'll shout if anything looks off.
+    Hana -> Jack: On it, Jack. I'll finish the belly edge back to the tail and close the gap where it should carry on. I'll check the lobe joints once it's standing.
+    Omar -> everyone: Inspect's back. The fin's fine, but this whole top edge is still floating. It isn't connected to the start yet, and the gap looks like it's where the top lobe meets the body near the tail. Sofia, is t
+    (Jack held a thought)
+[  201s] 3:45 asked Sofia,Omar,Jack | dominoes 65 | calls 49
+    Omar -> Jack,Sofia: Jack, Sofia, the inspect says the top edge and my fin are floating. The break is where the top lobe meets the body, just by the tail. Jack, you're on that kink, so once you've finished, do you want me
+    Sofia -> everyone: Omar, that gap's on my top edge, so I'll take it. Jack, once you've finished the kink, I'll bridge the join right where the top lobe meets the body, then check it's connected back to the start.
+    (Jack held a thought)
+[  209s] 4:00 asked Sofia,Omar,Jack | dominoes 71 | calls 52
+    Sofia -> Jack,Omar: Jack, go ahead and finish that kink. Once you're clear I'll bridge the join where the top lobe meets the body, then re-inspect back to the start.
+    Omar -> Sofia: Sounds good, Sofia, the bridge is yours. Give me a shout when it's in and I'll re-check the fin and the top edge.
+    Jack -> everyone: Sofia's got the gap at the top lobe joint, so that's yours. I'm finishing my kink and then I'll check both lobes against the body. Omar, once Sofia's bridge is in, give the fin join another look.
+[  216s] 4:15 asked Sofia,Omar,Jack | dominoes 77 | calls 55
+    Sofia -> Jack,Omar: Jack, take your time with the kink. I'm carrying on along the top edge to the nose, and I'll bridge the join once you're clear.
+[  224s] 4:30 asked Omar,Jack | dominoes 86 | calls 57
+    Omar -> Sofia: No rush, Sofia. I'll wait for your shout before I re-check the fin join.
+    Jack -> everyone: I'm clear of the kink, Sofia, go ahead and bridge that top-lobe joint. I'm going to inspect the tail end now to check both lobes are connected back to the start.
+[  232s] 4:45 asked Sofia,Omar,Jack | dominoes 88 | calls 60
+    Sofia -> everyone: Jack's clear, so I'm bridging the top-lobe joint now. Once it's in, I'll re-inspect back to the start.
+    Jack -> everyone: Going to check the tail end now. Sofia, the top-lobe joint is all yours, I won't touch it.
+[  243s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Jack's clear, so I'm bridging the top-lobe joint now. Once it's in, I'll re-inspect back to the start.
+    (Hana held a thought)
+    (Jack held a thought)
+[  251s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 68
+    Sofia -> everyone: Bridging the top-lobe joint now. Jack, I'm not touching your lobes.
+    Hana -> everyone: Bottom edge is standing from the tail to the nose. I'm closing the gap by the start where it didn't fit, then I'll check the lobe joints.
+    (Jack held a thought)
+[  260s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 72
+    Sofia -> everyone: Bridging the top-lobe joint now, right where it meets the body. Jack, I'm keeping clear of your lobes. Once it's in I'll check the connection back to the start.
+    (Hana held a thought)
+    (Jack held a thought)
+[  271s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 76
+    Jack -> everyone: Sofia, all yours on the top-lobe joint. I'm keeping clear and taking a quick look at the tail end while you bridge.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  280s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 80
+    Jack -> Hana: Hana, there's a domino jammed close to its neighbour down near the middle of the belly, so check that one when you're passing. I'm keeping my hands off the lobes while Sofia bridges.
+    Hana -> everyone: Sofia, once your bridge at the top lobe is in, tell me and I'll re-inspect from the start before the push. I'm keeping my hands off that joint.
+    (Sofia held a thought)
+[  290s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 84
+    Hana -> Jack: Thanks, Jack. I'll look at that jammed one on the belly now. I'm keeping off the lobe joints until Sofia's bridge is in, then I'll re-check from the start before the push.
+    Sofia -> everyone: Hana, Jack, I missed your last message, so I'm redoing the bridge at the top-lobe joint now and won't touch your lobes. I'll shout as soon as it's in so Hana can re-inspect from the start.
+    (Jack held a thought)
+[  299s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 88
+    Jack -> Hana,Sofia: Hana, thanks, the jammed one down the belly is yours. Sofia, once the bridge is in, give me a shout and I'll check the lobe joints from the tail side. I'm keeping my hands off until then.
+    Sofia -> everyone: Hana, Jack, my bridge at the top-lobe joint placed nothing, so I'm redoing it now. I'll shout as soon as it's in so Hana can re-inspect from the start.
+    (Hana held a thought)
+[  310s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 92
+    Omar -> Sofia: No worries, Sofia. Shout when the bridge is in and I'll check the fin join and the top edge straight away.
+    Sofia -> everyone: Trying a fix on the top-lobe joint where it meets the body, one more time. Jack, Hana, I'm not touching your lobes or the belly edge. I'll call out when it's in so Hana can re-inspect from the start.
+    (Hana held a thought)
+[  320s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 89 | calls 96
+    Sofia -> everyone: My fix on the top-lobe joint placed nothing, so I'm trying a connect across the gap now. Jack, Hana, I'm still keeping off your lobes and the belly edge. I'll call out when it's in so Hana can re-insp
+    (Hana held a thought)
+    (Jack held a thought)
+[  328s] 7:15 asked Omar,Hana,Jack | dominoes 93 | calls 99
+    Hana -> everyone: Looking at the jammed one on the belly now. Sofia, shout when your bridge is in and I'll inspect from the start before the push.
+    (Jack held a thought)
+[  337s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 95 | calls 103
+    Sofia -> everyone: Still on the connect at the top-lobe joint, Hana. I'll shout as soon as it's in so you can re-inspect from the start. Jack, I'm keeping off your lobes.
+    (Jack held a thought)
+[  348s] 7:45 asked Omar,Hana,Jack | dominoes 98 | calls 106
+    Jack -> everyone: Sounds good, Hana, the jammed one on the belly is yours. Sofia, I'm keeping clear of the top-lobe joint. Shout when your connect is in and I'll check the lobe joints from the tail side. If it's still 
+[  356s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 102 | calls 110
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> Sofia: Sofia, keep going on the connect, I'm staying off the joint. Shout as soon as it's in and I'll check the fin straight away.
+    Hana -> everyone: Two minutes left. I'm inspecting from the start now to see what's connected, and I'll check the jammed one on the belly while I'm at it. Sofia, shout the moment your connect lands.
+    (Sofia held a thought)
+[  370s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 106 | calls 114
+    Hana -> everyone: Honest update: the top-lobe joint still isn't connected to the start after several tries, so the upper lobes will probably not fall with the start. Sofia, please stop retrying that connect. Jack, if y
+    (Sofia held a thought)
+    (Jack held a thought)
+[  381s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 109 | calls 118
+    Jack -> everyone: Sofia, stop retrying that joint. I'm trying one connect a bit further along the top edge, clear of your spot. Hana, I'll shout what I get.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  389s] 8:45 asked Sofia,Omar,Hana | dominoes 116 | calls 121
+    Hana -> everyone: Last check from the start now. Jack, if you're trying a different spot on the top lobe, go now. Otherwise, leave it and let's see what falls.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  400s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 116 | calls 125
+    Hana -> everyone: Final check's done. The bottom edge and the tail run connected from the start, but the upper lobes are still floating, so I expect a partial outline. Jack, if your connect on the top edge is in, shout
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  409s] 9:15 asked Sofia,Omar,Jack | dominoes 116 | calls 128
+    Jack -> everyone: Hana, my connect on the top edge placed nothing either, so the upper lobes are still floating. I'm leaving it alone. The bottom edge, the tail and the belly look solid, so let's see what falls.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  419s] 9:30 asked Sofia,Omar,Hana | dominoes 116 | calls 131
+    Sofia -> everyone: Hana, understood, I've stopped the connect and I'm keeping my hands off the top lobe. Jack, that other spot is yours. I'll stay off the table, but I'll restand anything near the start if a bump knocks
+    (Hana held a thought)
+    (Omar held a thought)
+[  426s] 9:45 asked Omar,Hana,Jack | dominoes 116 | calls 134
+    Hana -> everyone: Agreed, Jack. The upper lobes won't fall, but the bottom edge, tail and belly are connected to the start. I'm keeping my hands off. Let's push.
+    (Omar held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Omar": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Hana": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Jack": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 477.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "chain of fallen dominoes seen from above",
+      "bird with a long neck and head",
+      "fishing line or hook with a tangled knot"
+    ],
+    [
+      "bird with a long curved neck and head",
+      "fish or eel with a fin",
+      "line of fallen dominoes seen from above"
+    ],
+    [
+      "a bird with a long neck and head",
+      "a fish or whale with a tail and fin",
+      "a wave or stream of water"
+    ]
+  ],
+  "placed": 116,
+  "fell": 46,
+  "completion": 0.397,
+  "team_score": 0.132,
+  "first_domino_at": "0:45",
+  "messages": 64,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 20,
+    "Jack": 15,
+    "Hana": 15,
+    "Omar": 11
+  },
+  "held_thoughts": 50,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 0,
+    "input_tokens": 314,
+    "cache_creation_tokens": 849257,
+    "cache_read_tokens": 457249,
+    "output_tokens": 141937,
+    "seconds": 1255.6,
+    "api_equivalent_usd": 0.2454,
+    "cached": 0
+  }
+}

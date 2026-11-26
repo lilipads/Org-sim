@@ -1,0 +1,95 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Omar": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Hana": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Jack": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 477.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia",
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "chain of fallen dominoes seen from above",
+      "bird with a long neck and head",
+      "fishing line or hook with a tangled knot"
+    ],
+    [
+      "bird with a long curved neck and head",
+      "fish or eel with a fin",
+      "line of fallen dominoes seen from above"
+    ],
+    [
+      "a bird with a long neck and head",
+      "a fish or whale with a tail and fin",
+      "a wave or stream of water"
+    ]
+  ],
+  "placed": 116,
+  "fell": 46,
+  "completion": 0.397,
+  "team_score": 0.132,
+  "first_domino_at": "0:45",
+  "messages": 64,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 20,
+    "Jack": 15,
+    "Hana": 15,
+    "Omar": 11
+  },
+  "held_thoughts": 50,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 0,
+    "input_tokens": 314,
+    "cache_creation_tokens": 849257,
+    "cache_read_tokens": 457249,
+    "output_tokens": 141937,
+    "seconds": 1255.6,
+    "api_equivalent_usd": 0.2454,
+    "cached": 0
+  }
+}

@@ -1,0 +1,237 @@
+[   23s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish! Body on the right, V-shaped tail on the left. I'm sketching the outline on the pad now. Stroke one starts at the top tip of the tail, so whoever takes that can start the run there.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[   32s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Sofia, yes, a fish with the V tail is a good read. You keep the pad and finish the outline. Once the tail and body are drawn, I'll take the tail fin and trace it off the start. Whoever takes stroke on
+    (Jack held a thought)
+    (Omar held a thought)
+[   44s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Sofia -> everyone: Sketching the fish now. Stroke one starts at the top tip of the tail and runs along the top edge to the nose. I'm laying that first, so I'll set the start there.
+    (Jack held a thought)
+    (Omar held a thought)
+[   59s] 0:45 asked Omar,Hana,Jack | dominoes 5 | calls 13
+    Hana -> everyone: Sofia, I'll take the tail fin once your top edge reaches the V. The tip of the fin looks about a unit off the line there, so can you make sure it lands right on it?
+    (Jack held a thought)
+    (Omar held a thought)
+[   69s] 1:00 asked Sofia,Omar,Jack | dominoes 8 | calls 16
+    Sofia -> Hana: Got it, Hana. I'll slow down at the V and make sure the top edge lands right on it before you trace your fin off it.
+    Omar -> everyone: Nice one, Sofia. The V tail will make it read as a fish straight away. Once stroke one is down from the tail tip, I'll take the bottom edge, stroke two.
+    (Jack held a thought)
+[   77s] 1:15 asked Sofia,Hana,Jack | dominoes 13 | calls 19
+    Jack -> everyone: Love it, Sofia, the V tail is a great call. Once your outline's down, I'll take stroke one from the top tail tip and lay the run round to the bottom one. Could you add a dorsal fin on top too? It'll h
+    (Sofia held a thought)
+[   88s] 1:30 asked Sofia,Omar,Hana | dominoes 18 | calls 22
+    Sofia -> everyone: Thanks, Omar. Stroke one's about five dominoes from done, and I'm slowing down at the V so Hana's fin has a solid joint to hang off. Jack, yes to the dorsal fin. I'm sketching it on the top edge now.
+    (Omar held a thought)
+    (Hana held a thought)
+[  102s] 1:45 asked Omar,Hana,Jack | dominoes 29 | calls 25
+    Hana -> everyone: Sofia, the dorsal fin is a good call, and I'll take it once the tail fin is down. Ping me when stroke one's join at the V is checked and I'll go.
+    (Omar held a thought)
+    (Jack held a thought)
+[  112s] 2:00 asked Sofia,Jack | dominoes 37 | calls 27
+    Sofia -> Hana: Will do, Hana. I'll check the join at the V once stroke one's down and ping you.
+    Jack -> Sofia,Hana: Sofia, Hana, I'll take the dorsal fin, stroke six, once the top edge reaches where it branches off. I'll hold until Sofia gives the word that the V join is checked.
+[  123s] 2:15 asked Sofia,Hana | dominoes 46 | calls 29
+    Sofia -> Jack,Hana: Sounds good, Jack. I'll ping you and Hana once the V join on stroke one is checked. Stroke six comes off the back after that.
+    Hana -> everyone: Jack, the dorsal fin's yours, stroke six. I've got the tail fin, stroke three, as soon as Sofia pings that the V join's checked.
+[  133s] 2:30 asked Sofia,Hana,Jack | dominoes 53 | calls 32
+    Hana -> Sofia: Sounds good, Sofia. I'm holding off on the tail fin until you ping me.
+    Jack -> Sofia: Nice work on the V, Sofia. I'm holding for your ping, then I'll take the dorsal fin.
+    Sofia -> everyone: Still laying stroke one, about five to go. The V is the tight bit, so I'll inspect that join as soon as the top edge is down and ping you both.
+[  142s] 2:45 asked Sofia,Hana,Jack | dominoes 65 | calls 35
+[  156s] 3:00 asked Omar,Hana | dominoes 70 | calls 37
+    Omar -> everyone: Bottom edge is down, from the V out to the nose. I'm checking the V join now so Hana's tail fin can go as soon as Sofia's top edge is ready.
+[  167s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 41
+    Sofia -> Omar: Thanks, Omar. The top edge still has a fair way to run to the nose, so let's hold the all-clear until it's down. I'll check the V then and ping you and Hana.
+    Hana -> Omar: Thanks, Omar. Sofia's laying that join, so let her check it and ping us. I'll take the tail fin, stroke three, once she does.
+    Omar -> everyone: V join's checked, it's all connected back to the start. Hana, go ahead with the tail fin. Sofia, keep going on the top edge.
+    (Jack held a thought)
+[  179s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 45
+    Omar -> Sofia: Sounds good, Sofia. Shout if you want me on stroke four or five while you finish the top edge.
+    Sofia -> everyone: Thanks, Omar. The V is the tight bit and my notes say it turns about 47 degrees, so I want to look at it myself before the fin hangs off it. Hana, could you hold the tail fin for about fifteen seconds
+    (Hana held a thought)
+    (Jack held a thought)
+[  192s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 73 | calls 49
+    Sofia -> everyone: V's checked, and it's all connected back to the start. Hana, go ahead with the tail fin, stroke three. Jack, the back is down, so the dorsal fin's yours, stroke six. Omar, could you take the eye, stro
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  203s] 4:00 asked Omar,Hana,Jack | dominoes 76 | calls 52
+    Jack -> everyone: Thanks Omar for checking that V join. Sofia, the back's clear, so I'm taking the dorsal fin, stroke six, and I'll wait for the top edge to reach the branch before it joins.
+    (Hana held a thought)
+    (Omar held a thought)
+[  214s] 4:15 asked Sofia,Omar,Hana | dominoes 82 | calls 55
+    Sofia -> Omar: Omar, the eye is stroke four on the pad, at about the middle of the head. Go ahead whenever you're ready.
+    Hana -> everyone: Apex is connected all the way back to the start, so I'm laying the tail fin, stroke three, off it now. Jack, the dorsal fin is still yours.
+    Omar -> everyone: On it, Sofia. I'm taking the eye, stroke four, now.
+[  222s] 4:30 asked Sofia,Omar,Jack | dominoes 89 | calls 58
+    Sofia -> Omar: Omar, the eye's all yours, stroke four, at the middle of the head. Hold off on stroke five though, since it isn't on the pad yet. I'll sketch it once the top edge reaches the nose.
+    Jack -> Hana: Got it, Hana. Dorsal fin's mine. I'm laying it off the top edge now.
+[  229s] 4:45 asked Omar,Hana | dominoes 93 | calls 60
+    Omar -> Sofia: Got it, Sofia. Eye, stroke four, going now. I'll hold off on five until it's on the pad.
+    Hana -> Jack: Sounds good, Jack. Ping me if the top edge runs short of the branch.
+[  239s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 93 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> Sofia: Sofia, the top edge looks like it stops a fair way short of the nose. Could that be the next thing you lay? I'll keep going on the fin.
+    Sofia -> everyone: Top edge is heading out to the nose now, about fourteen to go. Omar, the eye's yours. Hana and Jack, keep going on your strokes.
+    (Omar held a thought)
+[  248s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 94 | calls 68
+    Sofia -> Hana: Yes, Hana, I'm on it. It's running out to the nose now, and once it's there I'll sketch the next bit so Omar and you know where it goes.
+    Omar -> Sofia: Sofia, the eye's only got one domino down so far, and the next one's knocked off line at the front. I'm fixing that now. I'll leave stroke five alone until it's on the pad.
+    Jack -> Sofia: Sofia, the dorsal fin looks down and joined onto the top edge at the branch. I'm going to check the join before we push, and I'll hold off on any more fin dominoes.
+[  257s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 89 | calls 72
+    Jack -> everyone: Sofia, the fin's joined at the branch, but the last domino at its back tip sits a bit off its line. I'm nudging that one into line now. Then I'm staying off the top edge.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  267s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 86 | calls 76
+    Omar -> Sofia: Sofia, the eye's front domino is still off line. I'm bridging that gap now, and I'll say when it's connected.
+    Hana -> Sofia: Sofia, the top edge is still short of the nose. Do you want me to take the last stretch from where it ends out to the tip? Say the word and I'll start.
+    Sofia -> everyone: Hana, yes, the top edge is running out to the nose now, and that's what I'm laying. Jack, thanks for catching the fin tip. Omar, stand by for stroke five. I'll sketch it once we reach the nose.
+[  275s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 83 | calls 80
+    Sofia -> Hana,Omar: Hana, thanks for offering. I'm keeping the top edge run to the nose so there's one clean joint. Keep going on the fin, and Omar, stand by for stroke five.
+    Hana -> Sofia: Sounds good, Sofia, you keep the nose. I'm staying on the tail, and I'll check the apex join while I'm here.
+    Jack -> everyone: Thanks, Sofia. I'm going to inspect the fin's back tip to make sure it's still joined, then I'm staying off the top edge.
+[  284s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 84
+    Sofia -> Hana,Omar: Thanks, Hana, I've got the nose. Keep going on the tail, and I'll sketch stroke five as soon as I'm there, Omar.
+    Omar -> Sofia: Standing by for five, Sofia. I'm finishing the eye's front gap first.
+[  295s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 88
+    Hana -> Sofia: Sofia, the tail's down and joined at the apex, nothing to fix there. I'm staying off the nose and the pad.
+    Jack -> everyone: Sofia, the fin's back tip checks out and it's connected at the branch. I'm off the fin now and staying off the top edge. Ping me if it runs short anywhere before the push.
+[  302s] 6:45 asked Sofia,Omar,Hana | dominoes 73 | calls 91
+    Omar -> Sofia: Eye's front gap is still open, so I'm bridging it now. I'll say when it's connected.
+    Sofia -> everyone: Thanks both, the fin and tail are checked. I'm still running the top edge out to the nose and will ping you when it's there. Omar, you're still on hold for five.
+[  311s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 70 | calls 95
+    Sofia -> Omar: Thanks Omar, go ahead and bridge that eye gap. I'll sketch five once the nose is down.
+    Jack -> everyone: Sounds good, Sofia. I'm off the top edge. I'll keep an eye on the fin join and ping if anything shifts before the push.
+[  330s] 7:15 asked Sofia,Omar,Hana | dominoes 65 | calls 98
+    Hana -> everyone: Sofia, I don't think the start end of stroke one is down yet. Nothing's standing between START and the V, and there's no start domino on the table. With under three minutes left that's the one thing t
+[  343s] 7:30 asked Sofia,Omar,Jack | dominoes 62 | calls 101
+    Sofia -> everyone: Hana, you're right, thanks for catching that. The start domino and the stretch up to the V are mine, so I'm laying them now. You keep the tail.
+    (Jack held a thought)
+    (Omar held a thought)
+[  351s] 7:45 asked Omar,Hana,Jack | dominoes 59 | calls 104
+    Omar -> Sofia: Thanks, Sofia, good catch Hana. I'm still on the eye's front gap and won't touch the pad. I'll say when it's connected.
+    Jack -> everyone: Good catch, Hana, that gap would have sunk the whole thing. Sofia, if you want a hand on the stretch after the start, say so and I'll trace it. Otherwise I'm staying off stroke one and checking the fi
+[  366s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 62 | calls 108
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> Sofia: Sofia, nothing's standing at START yet and we've got two minutes. Are you on the start domino and the stretch down to the V now? If you want, I can take the lower half from the V up, but I won't touch
+    Sofia -> everyone: On it, Hana, thanks. Laying the start domino and tracing stroke one from START out to the V now. Jack, if you can, check the fin join while I work.
+[  376s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 65 | calls 112
+    Sofia -> everyone: Start domino going down now, and I'm tracing stroke one from START to the V.
+    Omar -> everyone: Sofia, I'm checking the eye's front gap now to make sure it's joined before I say anything.
+    (Jack held a thought)
+[  386s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 70 | calls 116
+    Jack -> everyone: Sofia, I've checked the fin join. It's connected at the branch, and it only shows as unconnected because the start-to-V gap isn't closed yet. Once your stretch is down it should all carry through. I'm
+    (Sofia held a thought)
+[  394s] 8:45 asked Sofia,Omar,Hana | dominoes 73 | calls 119
+    Omar -> Sofia: Sofia, the eye's front gap is still open. I'm bridging it now and will shout when it's connected.
+    Sofia -> everyone: Jack, thanks for checking the fin join. Start domino's down and stroke one is running through the V now, so the fin should carry through once it's all joined. Omar, thanks for watching the eye gap. I'
+[  402s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 123
+    Sofia -> Omar: Thanks, Omar. Go ahead and close that gap. I'm running the top edge out to the nose now.
+    Omar -> Sofia: Sofia, I'm bridging the eye's front gap now, last domino. I'll shout the moment it's joined.
+    Jack -> Sofia: Nice work, Sofia. The fin's looking good and it should carry through now. I'm keeping my hands off until you need me.
+[  412s] 9:15 asked Sofia,Omar,Hana | dominoes 78 | calls 126
+    Omar -> Sofia: On it, Sofia. Bridging the eye's front gap now.
+    Sofia -> everyone: Thanks both. The top edge is nearly out to the nose, and I'll shout when it's down.
+[  419s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 130
+    Sofia -> everyone: Thanks both. Finishing the last few dominoes on the top edge to the nose now. Omar, go ahead and close that gap.
+[  427s] 9:45 asked Omar,Hana,Jack | dominoes 86 | calls 133
+    Omar -> Sofia: Sofia, on it, closing the eye's front gap now. I'll shout the moment it's joined.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.07,
+      "error": 0.95
+    },
+    "Omar": {
+      "speed": 1.1,
+      "error": 0.6
+    },
+    "Hana": {
+      "speed": 0.8,
+      "error": 1.87
+    },
+    "Jack": {
+      "speed": 0.93,
+      "error": 1.88
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 483.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "dominoes in a curved line with a loop",
+      "wavy hill with a bump on top",
+      "stylized fish or bird silhouette"
+    ],
+    [
+      "a curling wave or hill with a bump",
+      "a snake or caterpillar arching its body",
+      "a roller-coaster track or loop"
+    ],
+    [
+      "roller coaster track with a loop",
+      "stylized fish or bird body with a head bump",
+      "hand-drawn cursive letter or squiggle"
+    ]
+  ],
+  "placed": 86,
+  "fell": 39,
+  "completion": 0.453,
+  "team_score": 0.151,
+  "first_domino_at": "0:45",
+  "messages": 72,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 26,
+    "Hana": 14,
+    "Omar": 16,
+    "Jack": 13
+  },
+  "held_thoughts": 31,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 0,
+    "input_tokens": 312,
+    "cache_creation_tokens": 815191,
+    "cache_read_tokens": 443186,
+    "output_tokens": 149899,
+    "seconds": 1281.7,
+    "api_equivalent_usd": 0.2425,
+    "cached": 0
+  }
+}

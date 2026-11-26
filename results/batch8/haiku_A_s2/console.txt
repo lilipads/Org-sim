@@ -1,0 +1,217 @@
+[   22s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: I'll take the pad and sketch us a fish. Tail fin on the left, nose on the right. Tom, can you take the start when I've got stroke 1 down?
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   36s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Good call, Priya, a fish works well. Tail on the left, and the run starts there, so Tom, your start goes right at the tail base. I'll give you the pad.
+    (Tom held a thought)
+    (Leo held a thought)
+[   48s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Got the pad. Sketching the fish now. I'll lay the outline and the start myself since stroke 1 is mine. Tom, could you take the tail notch and the eye once the body's down?
+    (Tom held a thought)
+    (Leo held a thought)
+[   64s] 0:45 asked Maya,Tom,Leo | dominoes 4 | calls 13
+    Tom -> Priya: Sure, I'll take the tail notch and the eye once the body's down. Priya, the START on your pad is up near the top-left, not at the nose. Is that deliberate? The lines need to leave in the same directio
+    Leo -> everyone: Agreed: start at the tail base, stroke 1 along the body. Once it's down, I'll take the bottom edge of the body and leave the top to whoever's free.
+    (Maya held a thought)
+[   74s] 1:00 asked Maya,Tom,Priya | dominoes 8 | calls 16
+    Maya -> everyone: Sounds good, Leo, the bottom edge is yours. Priya, once stroke 1 is standing I'll look over the tail join with inspect so we know it holds.
+    (Priya held a thought)
+    (Tom held a thought)
+[   85s] 1:15 asked Tom,Priya,Leo | dominoes 11 | calls 19
+    Tom -> Priya: Priya, the fin line off START runs backwards against the body. Could it branch off the underside of the body a bit along instead? Then everything leaves the same way.
+    Leo -> Maya: Hey Maya, what did you need? I'm holding off until stroke 1 is standing, then I'll take the bottom edge of the body.
+    Priya -> everyone: Yes, START is deliberate. It's at the tail top, and the body's top edge leaves it heading down-right, so everything runs one way. I'm still laying stroke 1 from there. Tom, the tail notch and eye are 
+[   99s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 15 | calls 23
+    Maya -> Leo: Nothing you need to do, Leo. I'm just going to check the tail join once Priya's stroke 1 is standing. Go ahead with the bottom edge.
+    Tom -> Priya: Fair enough on START, Priya. I'll wait for the body to stand, then take the notch and the eye. That little fin still runs back against the flow, so I'll look at it once the body's down.
+[  111s] 1:45 asked Tom,Priya,Leo | dominoes 17 | calls 26
+    Priya -> Tom: Thanks, Tom. I'll call it when the body's standing so you can start the notch and the eye.
+    Leo -> Maya: Got it, Maya. I'll hold until stroke 1 is standing, then take the bottom edge.
+[  119s] 2:00 asked Maya,Tom | dominoes 22 | calls 28
+    Tom -> Priya: Sounds good, Priya. I'll wait for the body to stand, then start the notch and the eye.
+[  126s] 2:15 asked Priya | dominoes 24 | calls 29
+    Priya -> Tom: Will do, Tom. I'll call you when the body's standing.
+[  136s] 2:30 asked Tom | dominoes 28 | calls 30
+[  144s] 2:45 asked Leo | dominoes 33 | calls 31
+[  151s] 3:00 asked Maya | dominoes 37 | calls 32
+[  151s] 3:15 asked - | dominoes 40 | calls 32
+[  166s] 3:30 asked Tom,Priya | dominoes 43 | calls 34
+    Priya -> everyone: Quick update: the top edge is down, but the nose and bottom aren't there yet, so the body isn't standing. I'm extending into the nose now. Leo, you take the bottom run back toward the tail once the no
+[  177s] 3:45 asked Maya,Tom,Leo | dominoes 45 | calls 37
+    Maya -> everyone: Got it, Priya. I'll wait until the whole body's down, then check the tail join.
+    (Leo held a thought)
+[  192s] 4:00 asked Tom,Priya,Leo | dominoes 45 | calls 40
+    Priya -> Leo: Nose is in, Leo. Go ahead with the bottom run from the nose back toward the tail. I'm keeping my hands off it and holding the pad for reference.
+    Leo -> Priya: Got it, Priya. The pad seems to have the bottom edge as part of stroke 1, so I won't trace a second copy. I'll stay off the table until the nose is standing. If you'd rather split the bottom run out a
+[  205s] 4:15 asked Priya,Leo | dominoes 48 | calls 42
+    Priya -> Leo: Yes, the bottom edge is part of stroke 1 on the pad, so don't re-trace it. Tracing again would lift the top edge we already have standing. Extend the bottom run back from the nose, and keep clear of t
+    Leo -> everyone: On it, Priya. I'm not retracing stroke 1, because that would lift the top edge. I'll extend the bottom run off the nose in chunks and check each one as it stands.
+[  217s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 52 | calls 46
+    Leo -> everyone: Bottom run is going off the nose now, first chunk toward the middle. I'll check the joint at the nose before I go further.
+[  225s] 4:45 asked Maya,Tom,Priya | dominoes 59 | calls 49
+[  235s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 65 | calls 53
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Going to look over the tail join now while the nose and bottom run are still going in. Shout if you want me on anything else.
+[  248s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 65 | calls 57
+    Tom -> Priya: Priya, the fin on your pad still runs back to the left off the underside of the body. If it can't branch forward, could we drop it and let the tail notch carry the shape? I'll wait for your call befor
+    Leo -> everyone: Chunk one of the bottom run is standing. I'm looking over the nose joint before I carry it on toward the tail.
+    (Maya held a thought)
+[  259s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 61
+    Priya -> everyone: Agreed, Tom. Drop the backward fin line. The tail notch and eye can carry the shape from the body once it's standing. I'll redraw the pad to match after the body's down. Leo, keep going on the bottom 
+    (Leo held a thought)
+    (Maya held a thought)
+[  268s] 5:45 asked Maya,Tom,Leo | dominoes 79 | calls 64
+    Maya -> everyone: Nice one, Leo. Tail join's solid from the start through the first stretch, nothing to fix there. I'm staying hands-off so you can keep pushing the bottom run. I'll re-check the whole tail once the bod
+    (Tom held a thought)
+    (Leo held a thought)
+[  279s] 6:00 asked Tom,Priya,Leo | dominoes 81 | calls 67
+    Tom -> Priya: Thanks, Priya. I'll hold until the body's standing, then take the notch and the eye.
+    Leo -> everyone: Thanks, Maya. The nose joint held too, so the first chunk is connected back to the start. Carrying the bottom run on toward the tail now.
+    (Priya held a thought)
+[  286s] 6:15 asked Maya,Tom,Priya | dominoes 85 | calls 70
+    Priya -> everyone: Nice work, Leo. Keep carrying the bottom run toward the tail and check each joint as it stands. Tom, still holding off on the notch and eye until the whole body is down.
+[  294s] 6:30 asked Maya,Tom,Leo | dominoes 93 | calls 73
+[  305s] 6:45 asked Maya,Leo | dominoes 93 | calls 75
+    Leo -> everyone: Second chunk is down, but the middle section looks jammed where the dominoes wouldn't fit. I'm inspecting that joint before I carry on toward the tail.
+[  321s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 79
+    Tom -> Priya: Priya, no call yet and the body's not down. I'm not touching the tail until the bottom run is through. If you want the notch and eye, say so and I'll build them off the tail.
+    Leo -> everyone: Inspect came back clean: the start carries through every standing domino, so the bottom run is joined all the way. The one problem is a domino sitting off its line in the jammed spot in the middle of 
+    (Priya held a thought)
+    (Maya held a thought)
+[  331s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 83
+    Priya -> everyone: Leo, take the jam in the middle first and get the bottom edge connected through it. With under three minutes left, a short run connected to the start beats a longer one that's loose. If the tail won't
+    (Leo held a thought)
+    (Maya held a thought)
+[  340s] 7:30 asked Maya,Tom,Leo | dominoes 93 | calls 86
+    Tom -> Priya: Holding, Priya. I'll wait until the middle's through, then I can do the notch in about a minute.
+    Leo -> everyone: Agreed, Priya. The jam in the middle is first. I'm nudging that off-line domino back in, then I'll inspect the whole fish to confirm the chain still runs through.
+    (Maya held a thought)
+[  348s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 90
+    Leo -> everyone: Nudge is in at the jam. I'm inspecting the bottom edge now to check the chain runs through to the tail before we push.
+    (Maya held a thought)
+[  362s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 94
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Tom,Leo: Tom, go ahead with the notch and eye off the tail end of the body now. We have about a minute, so build only what you can finish cleanly. Leo, tell us once the bottom edge is confirmed connected throu
+    Maya -> everyone: Leo, I'm staying off the jam. I'm watching the tail, and I'll shout if anything there breaks.
+    (Leo held a thought)
+[  373s] 8:15 asked Tom,Priya,Leo | dominoes 98 | calls 97
+    Leo -> everyone: Bottom edge checks out, Priya. The chain runs from the start through the jam and along every standing domino of the bottom edge to the tail end, so the whole fish should go on the push. I'm not touchi
+    (Tom held a thought)
+[  384s] 8:30 asked Maya,Tom,Priya | dominoes 98 | calls 100
+    Priya -> everyone: Thanks, Leo. Good call on the jam. Tom, finish the notch and eye only if you can do it cleanly in the next minute. Maya, keep an eye on the tail join and shout if anything shifts. Everyone else, hands
+    (Tom held a thought)
+[  392s] 8:45 asked Maya,Tom,Leo | dominoes 98 | calls 103
+    Tom -> everyone: Notch is down, Priya. Five dominoes from the tail end out to the left point, facing left. I'm skipping the eye with the time we've got and not touching anything else.
+    (Maya held a thought)
+[  400s] 9:00 asked Maya,Priya,Leo | dominoes 98 | calls 106
+    Maya -> everyone: Tail's holding on my look just now, Priya. Nothing's shifted. I'm checking Tom's notch join by eye and staying hands-off until the push.
+    (Priya held a thought)
+    (Leo held a thought)
+[  408s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 98 | calls 110
+    Priya -> everyone: Thanks, Tom. Nice notch. Everyone else, hands off. I'm giving the body and notch a quick look before we push.
+    Maya -> everyone: Notch join looks connected from here, Tom. I'm not touching anything. Hands off until the push.
+    (Leo held a thought)
+[  417s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 98 | calls 114
+    Leo -> everyone: Thanks, Tom, nice notch. It's clear of the body, so I'm leaving everything alone and holding the pad until the push. And thanks, Maya, for keeping watch on the tail.
+[  424s] 9:45 asked Maya,Tom,Priya | dominoes 98 | calls 117
+    Maya -> everyone: Sounds good, Leo. Holding still until the push.
+    Tom -> everyone: No bother, Leo. Hands off until the push from me too.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Tom": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Priya": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Leo": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 462.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Maya",
+    "Maya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "sailboat with mast and hull",
+      "bird in flight or wing outline",
+      "fish or leaf shape"
+    ],
+    [
+      "sailboat hull with a diagonal mast or sail line",
+      "bird or fish profile with a diagonal wing or fin",
+      "airplane wing viewed from the side"
+    ],
+    [
+      "boat hull with a diagonal mast or stick",
+      "fish or bird shape in side view",
+      "hand-drawn outline with tick-mark strokes"
+    ]
+  ],
+  "placed": 98,
+  "fell": 98,
+  "completion": 1.0,
+  "team_score": 0.5,
+  "first_domino_at": "0:45",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 14,
+    "Maya": 10,
+    "Tom": 10,
+    "Leo": 14
+  },
+  "held_thoughts": 30,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 134,
+    "failed": 0,
+    "input_tokens": 262,
+    "cache_creation_tokens": 635283,
+    "cache_read_tokens": 380898,
+    "output_tokens": 129289,
+    "seconds": 1152.0,
+    "api_equivalent_usd": 0.1955,
+    "cached": 6
+  }
+}

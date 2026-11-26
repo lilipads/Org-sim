@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.79,
+      "error": 1.76
+    },
+    "Omar": {
+      "speed": 1.14,
+      "error": 1.57
+    },
+    "Hana": {
+      "speed": 0.88,
+      "error": 0.91
+    },
+    "Jack": {
+      "speed": 1.47,
+      "error": 1.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 312.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a looped tail",
+      "leaf or eye shape with loops",
+      "knot or figure-eight curve"
+    ],
+    [
+      "fish",
+      "lure or fishing hook with a line",
+      "stylized bird or ribbon loop"
+    ],
+    [
+      "hand-drawn fish outline, facing right",
+      "stylized fish or bird silhouette",
+      "abstract doodle of loops and curves"
+    ]
+  ],
+  "placed": 136,
+  "fell": 136,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 32,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 11,
+    "Jack": 3,
+    "Omar": 6,
+    "Hana": 9
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 116,
+    "failed": 0,
+    "input_tokens": 226,
+    "cache_creation_tokens": 519860,
+    "cache_read_tokens": 328992,
+    "output_tokens": 45573,
+    "seconds": 768.2,
+    "api_equivalent_usd": 2.4865,
+    "cached": 6
+  }
+}
