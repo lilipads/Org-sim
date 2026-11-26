@@ -1,0 +1,3 @@
+[   31s] 0:00 asked Sofia | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, solo table! I'll go with a fish: round body, big forked tail. Sketching it now.

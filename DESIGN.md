@@ -700,3 +700,12 @@ fewer than 10 dominoes and half of all lifted dominoes were someone else's; insp
 Reading: solo tables fail on the design (nobody to sanity-check the sketch), tables of 10 fail on
 execution (breaks, rework of others' work). Caveat: tables of 4 went 4/4 in batch 9 but 1/4 here, so
 the small model's success rate is noisy; 4 games per size is too few for firm numbers.
+
+Note on t10_s101 (0 of 53 fell): the team redrew START several times and nobody re-laid the start domino,
+so there was no standing start at the push. A team failure, not an engine bug.
+
+## 6. Study 2: organizations with agents
+
+Designed in AGENT_STUDY.md (not started): tool agents that get delegated work, a client with hidden
+preferences, private vs shared pads, sign-off and risk, and four experiments (E1 bottleneck, E2 what
+requires a human, E3 cheap options vs fragmentation, E4 accountability for agent output).

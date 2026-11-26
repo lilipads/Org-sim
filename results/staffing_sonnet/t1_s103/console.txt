@@ -1,0 +1,11 @@
+[   28s] 0:00 asked Priya | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   39s] 0:15 asked Priya | dominoes 0 | calls 2
+[   39s] 0:30 asked - | dominoes 5 | calls 2
+[   39s] 0:45 asked - | dominoes 10 | calls 2
+[   39s] 1:00 asked - | dominoes 15 | calls 2
+[   39s] 1:15 asked - | dominoes 20 | calls 2
+[   39s] 1:30 asked - | dominoes 25 | calls 2
+[   39s] 1:45 asked - | dominoes 30 | calls 2
+[   39s] 2:00 asked - | dominoes 35 | calls 2
+[   44s] 2:15 asked Priya | dominoes 40 | calls 3
