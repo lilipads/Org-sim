@@ -86,6 +86,8 @@ so this is precise):
 - {{"type":"connect","from":[x,y],"to":[x,y]}}  join two pieces: from the line end nearest "from" to
   the domino nearest "to", arriving behind it so the fall carries on into it. It routes around what's
   already on the table.
+- {{"type":"fix","at":[x,y]}}  close the break nearest that spot the way hands do: nudge the next
+  domino into line, or if that can't work, bridge the gap to the piece it was heading for.
 Spacing of about 0.5-0.6 is comfortable. One build can be up to 40 dominoes.
 """
 

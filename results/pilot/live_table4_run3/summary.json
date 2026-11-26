@@ -1,0 +1,60 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 941.4,
+  "intents": {
+    "Ava": "fish",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "single wavy dark stroke",
+      "short squiggly line",
+      "row of fallen dominoes"
+    ],
+    [
+      "a single wavy pen stroke or squiggle on a blank background",
+      "a short dark horizontal line, possibly one fallen domino seen from above",
+      "a tiny piece of a larger line drawing or sketch, mostly blank"
+    ],
+    [
+      "a short hand-drawn wavy pen stroke",
+      "a single fallen domino seen edge-on",
+      "a small crack or scribble on a blank background"
+    ]
+  ],
+  "placed": 148,
+  "fell": 12,
+  "completion": 0.081,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 88,
+  "messages_by_speaker": {
+    "Chloe": 28,
+    "Ben": 18,
+    "Ava": 14,
+    "Dev": 25,
+    "Facilitator": 3
+  },
+  "held_thoughts": 134,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 254,
+    "failed": 0,
+    "input_tokens": 514,
+    "cache_creation_tokens": 1375445,
+    "cache_read_tokens": 530882,
+    "output_tokens": 324839,
+    "seconds": 2206.8,
+    "api_equivalent_usd": 0.4429
+  }
+}

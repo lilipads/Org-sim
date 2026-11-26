@@ -183,6 +183,19 @@ class World:
             out.append(d)
         return out
 
+    def move(self, did: int, x: float, y: float, angle: float, rng: random.Random) -> Domino | None:
+        """Nudge a standing domino to a new pose (with ordinary hand error)."""
+        d = self.dominoes.get(did)
+        if d is None or d.state != "up":
+            return None
+        self._unindex(d)
+        d.x = x + rng.gauss(0, self.phys.pos_sigma)
+        d.y = y + rng.gauss(0, self.phys.pos_sigma)
+        d.angle = (angle + rng.gauss(0, self.phys.angle_sigma)) % 360.0
+        d.intended = (x, y, angle)
+        self._index(d)
+        return d
+
     def remove(self, ids: list, pool: str) -> list:
         out = []
         for i in ids:

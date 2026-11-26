@@ -288,6 +288,75 @@ def anchored_specs(world: World, s: dict, max_n: int) -> tuple:
     return pts[:max_n], note
 
 
+def _nudge(world: World, d, b) -> tuple | None:
+    """A small move/turn of domino b so that d knocks it over and b still knocks
+    over what it fed before (or, if it fed nothing, anything ahead of it)."""
+    feeds = [c for c in world.near(b.x, b.y, 1.2) if c.id not in (b.id, d.id) and c.state == "up" and world.hit(b, c)[0]]
+    for k in (0.55, 0.5, 0.65, 0.45, 0.75):
+        for da in (0, -10, 10, -20, 20, -30, 30):
+            ang = (d.angle + da) % 360
+            x = d.x + k * math.cos(math.radians(ang))
+            y = d.y + k * math.sin(math.radians(ang))
+            if math.hypot(x - b.x, y - b.y) > 0.6:          # a nudge, not a rebuild
+                continue
+            if any(o.id not in (b.id,) and (o.x - x) ** 2 + (o.y - y) ** 2 < world.phys.min_gap ** 2
+                   for o in world.near(x, y, world.phys.min_gap)):
+                continue
+            for ba in sorted({(b.angle + t) % 360 for t in (0, -10, 10, -20, 20, -30, 30)} |
+                             {(d.angle + t) % 360 for t in (0, -15, 15, -30, 30)},
+                             key=lambda a: abs(angle_diff(a, b.angle))):
+                probe = type(b)(b.id, x, y, ba, b.builder, b.turn, b.region)
+                if not world.hit(d, probe)[0]:
+                    continue
+                if feeds and not any(world.hit(probe, c)[0] for c in feeds):
+                    continue
+                return x, y, ba
+    return None
+
+
+def fix_specs(world: World, s: dict, max_n: int) -> tuple:
+    """fix: {"type":"fix","at":[x,y]}: close the break nearest a spot, the way hands
+    do it: first try nudging the next domino into line; if that can't work, bridge
+    from the line end to the piece it was heading for.
+    Returns (ops, note); ops are ("move", id, (x, y, a)) or ("place", (x, y, a))."""
+    at = _xy(s.get("at"))
+    if not at:
+        return [], "fix needs \"at\": [x, y] near the break"
+    ends = [d for d in world.near(at[0], at[1], 2.0) if d.state == "up" and not world.successors(d)]
+    if not ends:
+        return [], f"you don't see a broken spot near {where(*at)}"
+    ends.sort(key=lambda d: (d.x - at[0]) ** 2 + (d.y - at[1]) ** 2)
+    for d in ends:                       # 1. nudge
+        r = math.radians(d.angle)
+        ahead = sorted((b for b in world.near(d.x, d.y, 1.3) if b.id != d.id and b.state == "up"
+                        and (b.x - d.x) * math.cos(r) + (b.y - d.y) * math.sin(r) > 0),
+                       key=lambda b: math.hypot(b.x - d.x, b.y - d.y))
+        for b in ahead[:3]:
+            pose = _nudge(world, d, b)
+            if pose:
+                return [("move", b.id, pose)], f"nudging a domino into line near {where(d.x, d.y)}"
+    best = None                          # 2. bridge
+    for d in ends:
+        r = math.radians(d.angle)
+        for b in world.near(d.x, d.y, 3.0):
+            if b.id == d.id or b.state != "up":
+                continue
+            if (b.x - d.x) * math.cos(r) + (b.y - d.y) * math.sin(r) <= 0:
+                continue
+            score = math.hypot(b.x - d.x, b.y - d.y) + (0 if not _has_pred(world, b) else 1.5)
+            if best is None or score < best[0]:
+                best = (score, d, b)
+    if best is None:
+        return [], f"the line near {where(*at)} just ends; there's nothing ahead for it to reach"
+    _, d, b = best
+    x, y, h = _start_pose(world, d, (b.x, b.y))
+    if math.hypot(b.x - x, b.y - y) < 0.9 and abs(angle_diff(b.angle, h)) <= 40:
+        pts = [(x, y, h)]
+    else:
+        pts = approach(world, x, y, h, b, max_steps=max_n * 3)
+    return [("place", p) for p in pts[:max_n]], f"bridging the break near {where(d.x, d.y)}"
+
+
 def freehand_specs(s: dict, rng: random.Random) -> list:
     """A stroke aimed by eye: the whole thing shifts and turns slightly."""
     specs = expand_stroke(s)

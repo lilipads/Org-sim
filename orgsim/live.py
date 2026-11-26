@@ -28,7 +28,7 @@ from dataclasses import asdict, dataclass, field
 
 from .dominoes import World
 from .handwork import (anchored_specs, area_words, describe_spot, direction, eye_inspect,
-                       freehand_specs, where)
+                       fix_specs, freehand_specs, where)
 from .game import push_world
 from .render import ascii_map
 
@@ -368,6 +368,13 @@ class LiveGame:
             for s in d.strokes or []:
                 try:
                     room = self.cfg.max_queue - len(specs)
+                    if s.get("type") == "fix":
+                        ops, note = fix_specs(self.world, s, max(0, room))
+                        notes.append(note)
+                        if not ops:
+                            bad.append(note)
+                        specs += ops
+                        continue
                     if s.get("type") in ("extend", "connect"):
                         pts, note = anchored_specs(self.world, s, max(0, room))
                         notes.append(note)
@@ -386,7 +393,7 @@ class LiveGame:
             cut = max(0, len(specs) - self.cfg.max_queue)
             specs = specs[: self.cfg.max_queue]
             label = "; ".join(notes) or ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
-            aim = next(((sp[0], sp[1]) for kind, sp in specs if kind == "place"), None)
+            aim = next(((op[1][0], op[1][1]) for op in specs if op[0] == "place"), None)
             self.task[n] = {"kind": "build", "queue": specs, "total": len(specs), "done": 0,
                             "start": bool(d.start), "label": label, "placed": [], "blocked": [],
                             "at": self.location[n], "aim": aim}
@@ -422,7 +429,13 @@ class LiveGame:
                 self.credit[n] -= k
                 batch, task["queue"] = task["queue"][:k], task["queue"][k:]
                 pts, new, restood = [], [], []
-                for kind, item in batch:
+                for op in batch:
+                    kind, item = op[0], op[1]
+                    if kind == "move":
+                        moved = self.world.move(item, *op[2], self.rng)
+                        if moved:
+                            restood.append(moved)
+                        continue
                     if kind == "restand":
                         restood += self.world.restand([item], self.rng)
                     else:

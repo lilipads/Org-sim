@@ -1,0 +1,362 @@
+[   11s] 0:00 asked Ava,Ben,Chloe,Dev | dominoes 2 | calls 4
+    Chloe -> everyone: Hi all, I'm Chloe. Twenty minutes is tight, so let's pick something simple the judge can read from a fallen chain. I suggest a fish swimming right: one long body line, a tail on the left, a fin on top
+    (Ava held a thought)
+    (Ben held a thought)
+    (Dev held a thought)
+[   29s] 0:15 asked Ava,Ben,Dev | dominoes 5 | calls 7
+    Ben -> everyone: Yes, I'll take the bottom of the body, Chloe. One fix to my earlier note: the belly should run left to right from the tail into the head, so the chain carries forward. Ava, your top line joins at the 
+    (Ava held a thought)
+    (Dev held a thought)
+[   46s] 0:30 asked Ava,Chloe,Dev | dominoes 7 | calls 10
+    Chloe -> everyone: Ben, that belly fix works, the chain runs forward from the tail into the head. Ava, your top line joins at the start, so keep it tight there. Let's keep the start where it is at (10, 14.5), since it's
+    (Dev held a thought)
+    (Ava held a thought)
+[   58s] 0:45 asked Ava,Ben,Dev | dominoes 10 | calls 13
+    Ava -> everyone: Agreed, Ben, belly left to right. Chloe, I'm dropping the reverse line and the return loop so nothing runs backward. I'm linking the start into the left end of my top line now, so the fall goes tail, 
+    (Dev held a thought)
+    (Ben held a thought)
+[   76s] 1:00 asked Ben,Chloe,Dev | dominoes 13 | calls 16
+    Chloe -> everyone: Nice, that's clear: start, then Ava's top, then the head, with Ben's belly running in from the tail. Dev, are you taking the tail and fin? If you're tied up, tell me and I'll do the fin.
+    (Ben held a thought)
+    (Dev held a thought)
+[   87s] 1:15 asked Ava,Ben,Dev | dominoes 16 | calls 19
+    Ben -> everyone: Belly's going in now, left to right from x12 toward the head. I'll check the join at the head before the push. The belly's back end still needs linking to the tail, so Chloe or Dev, can one of you pic
+    (Dev held a thought)
+    (Ava held a thought)
+[   99s] 1:30 asked Chloe,Dev | dominoes 19 | calls 21
+    Dev -> everyone: Yes, I've got the tail. It's going down now, x 6.2 to 9.2 on the y 14.5 row, and its tip becomes the new start, feeding Chloe's start from behind. Ava, please keep your hands off x 6 to 9, y 13 to 16 
+    (Chloe held a thought)
+[  111s] 1:45 asked Ava,Ben,Chloe | dominoes 19 | calls 24
+    Chloe -> everyone: Quick sort-out so we don't double up: Dev has the tail and the link from Ben's belly to the tail. I'll take the joins where the top and bottom meet the body at the head. Dev, the fin is still open. If
+    (Ben held a thought)
+    (Ava held a thought)
+[  121s] 2:00 asked Ava,Ben,Dev | dominoes 19 | calls 27
+    Dev -> everyone: Before I lay the tail, I want to check where the start actually is. The map shows S around x 5-6, not 10, and there's already a run on that row from 9 to 14. Give me fifteen seconds to look at that st
+    (Ava held a thought)
+    (Ben held a thought)
+[  137s] 2:15 asked Ava,Ben,Chloe,Dev | dominoes 19 | calls 31
+    Dev -> everyone: Before anyone lays anything on row 14, the start is at about x 5.5, not 10, and there's a standing run from 9 to 14 that doesn't connect to it. There's a gap of about 3.5 between them. Whose is that r
+    (Ben held a thought)
+    (Chloe held a thought)
+    (Ava held a thought)
+[  147s] 2:30 asked Ava,Ben,Chloe | dominoes 19 | calls 34
+    Chloe -> everyone: Good catch, Dev. The start is at about x5.5, not 10, and the run on row 14 starts at x9, so the gap will stop the fall. That's my mistake on the start position. Dev, take your fifteen seconds. Nobody 
+    (Ava held a thought)
+    (Ben held a thought)
+[  156s] 2:45 asked Ava,Ben,Dev | dominoes 20 | calls 37
+    Dev -> everyone: Ava, is the run on row 14 from x9 yours? Chloe asked, and I haven't heard back. I'm going to inspect that strip for about 15 seconds so we know whether it's connected to anything. Until we know whose 
+    (Ben held a thought)
+    (Ava held a thought)
+[  172s] 3:00 asked Ava,Chloe,Dev | dominoes 25 | calls 40
+    Ava -> everyone: Not mine, Dev. The row-14 run from x9 isn't one of mine. My top line is on y10, only x5 to 6 so far. I'm keeping my hands off x6 to 9, y13 to 16 until you call it. I'll keep extending the top line alo
+    (Dev held a thought)
+    (Chloe held a thought)
+[  184s] 3:15 asked Chloe,Dev | dominoes 22 | calls 42
+    Dev -> everyone: Ava's not claiming the row-14 run, and nobody else has either. I'm taking it down now so the tail can go in. The tail will sit right in front of Chloe's start at 5.5, so the start knocks it first and 
+    (Chloe held a thought)
+[  194s] 3:30 asked Ava,Ben,Chloe | dominoes 22 | calls 45
+    Ava -> everyone: Dev, those three that came up near 11.5 were mine. I lost track of them. Go ahead and take the strip. I'm off x6 to 9, y13 to 16, and I'll keep the top line on y10 going right until you name the start
+    (Chloe held a thought)
+    (Ben held a thought)
+[  203s] 3:45 asked Ava,Chloe,Dev | dominoes 25 | calls 48
+    Dev -> everyone: Strip's down, thanks Ava. I'm laying the tail now, x 6.2 to 9.2 on y 14.5, facing right, fed from the existing start at 5.5. No new start. Ben, I'll link your belly's back end once the tail is down. A
+    (Chloe held a thought)
+    (Ava held a thought)
+[  214s] 4:00 asked Ava,Ben,Chloe | dominoes 30 | calls 51
+    Ben -> everyone: Dev, I'm not claiming any of that row-14 strip, so it's all yours to clear. My belly is on row 23 and I'm finishing it out to x22. I'm leaving the back end at x12 open for your connect to the tail.
+    (Chloe held a thought)
+    (Ava held a thought)
+[  224s] 4:15 asked Ben,Dev | dominoes 36 | calls 53
+    Dev -> Ben: Got it, Ben. I'm finishing the tail now, then I'll connect your belly's back end. I'll check it's at x12 on row 23 before the push.
+    Ben -> everyone: I'm finishing the belly out to x22 now, so the back end at x12 stays open for Dev's link. Chloe, Dev, the fin is still open. If you're both tied up, I'll take it. Say so and I'll start on it after the
+[  235s] 4:30 asked Ben,Chloe,Dev | dominoes 39 | calls 56
+    Chloe -> everyone: Quick correction to the fin, since Ben's message came in while I was talking. I've already started the fin at x23-26, y9-13, so I'll keep it. Ben, you take the head joins once Dev calls the tail down,
+    (Dev held a thought)
+[  250s] 4:45 asked Ben,Dev | dominoes 46 | calls 58
+    Ben -> everyone: Got it, Chloe. I'll take the head joins once Dev calls the tail down. I'm finishing the belly to x22 first, and I'll check it against the head arc's bottom end before the push.
+    (Dev held a thought)
+[  257s] 5:00 asked Chloe,Dev | dominoes 49 | calls 60
+    Dev -> everyone: Tail's still going down, 2 of 6 placed, fed from the start at 5.5. I'll call it down once it's standing and knocks the start over. Ben, I'll check your belly's back end at x12 on row 23 before I link 
+    (Chloe held a thought)
+[  264s] 5:15 asked Ben,Chloe | dominoes 53 | calls 62
+    Chloe -> everyone: Dev, yes, once the tail's down, link your partial into my fin. I'm keeping the fin at x23-26, y9-13 and finishing it out. I'm staying off x3-16, y8-20 until you call the tail down.
+[  281s] 5:30 asked Ben,Dev | dominoes 57 | calls 64
+    Ben -> everyone: Belly's finished to x22 on row 23, and the back end at x12 stays open for Dev's link. I'm building the head arc now, starting at the belly's end (22,23) and curving up its right side to (22,15). Chloe
+    (Dev held a thought)
+[  294s] 5:45 asked Ava,Chloe,Dev | dominoes 60 | calls 67
+    Ava -> everyone: Got it, Dev. I'm off x6 to 9, y13 to 16. My top line stays on y10 going right, and its link into the start waits until you call the tail down. Then it joins the tail's left end.
+    (Dev held a thought)
+    (Chloe held a thought)
+[  304s] 6:00 asked Chloe,Dev | dominoes 64 | calls 69
+    Chloe -> everyone: Thanks, Ben. Your head arc at x22 is clear of my fin at x23-26, y9-13. My fin is finished, ending up-right near (26.5, 9). I'm staying off x3-16, y8-20 until Dev calls the tail down. Dev, when you lin
+    (Dev held a thought)
+[  314s] 6:15 asked Ben,Chloe,Dev | dominoes 66 | calls 72
+    Chloe -> everyone: Summary so far: Dev is laying the tail from the start at 5.5, and he'll call it down when it's standing. Ava's top line joins the tail's left end after that. Ben's belly back end at x12 stays open for
+    (Ben held a thought)
+    (Dev held a thought)
+[  322s] 6:30 asked Ava,Ben,Dev | dominoes 68 | calls 75
+    Ben -> everyone: Confirming the head arc: it's still going up the right side from the belly end at (22,23), around (22,19), toward (22,15). I'll check the top end against the fin's lower end at about (23.5,13) and the
+    (Dev held a thought)
+    (Ava held a thought)
+[  334s] 6:45 asked Ben,Chloe,Dev | dominoes 70 | calls 78
+    Dev -> everyone: Chloe's summary is right. The tail is still going down, 2 of 6 placed, fed from the start at 5.5. I'll call it down once it's standing and has knocked the start over. Then I link Ava's top line into t
+    (Ben held a thought)
+[  343s] 7:00 asked Ava,Ben,Chloe | dominoes 71 | calls 81
+    Ava -> everyone: Confirming for the table: I'm off x6 to 9, y13 to 16. My top line keeps going right on y10 toward x18, and I'll link it to the tail's left end once Dev calls it down.
+[  352s] 7:15 asked Chloe,Dev | dominoes 73 | calls 83
+    Dev -> everyone: I've got my hands free, so I'm checking the tail on row 14 from the start before I call it down. Still staying off x6 to 9 until then.
+[  382s] 7:30 asked Chloe,Dev | dominoes 76 | calls 85
+    Dev -> everyone: Inspection's back: the start knocks straight through the tail on row 14, from 6.2 to about 9.5, and nothing is past 9.5. Tail's down. Nobody lays on x3 to 16, y8 to 20 until I say so. I'm linking Ben'
+    (Chloe held a thought)
+[  395s] 7:45 asked Ava,Ben,Chloe | dominoes 80 | calls 88
+    Ava -> everyone: Dev, you're right. The top line starts at x5 facing right, so when it falls it runs away from the tail's left end at 6.2. Joining it there won't work as it's built. I'm pausing the extension toward x1
+    (Ben held a thought)
+    (Chloe held a thought)
+[  415s] 8:00 asked Chloe,Dev | dominoes 82 | calls 90
+    Dev -> Ava: Ava, thanks for the straight answer. Yes, take down x5 to x13 on y10 so the rest is clear. Keep x13 to x18 for now. Once my connect to Ben's belly is done, I'll check whether that piece can reach my p
+    Chloe -> everyone: Ava, I'd leave the top line as its own piece and not tear it down. It runs right from x5 on y10, so it can't feed the tail's left end, and that's fine. Keep it as a separate stroke for the picture. De
+[  426s] 8:15 asked Ava,Ben,Dev | dominoes 78 | calls 93
+    Dev -> everyone: Chloe's right about the top line. Ava, leave x5 to x18 on y10 standing as its own piece. No take-down, and no extending. I'm still on the connect from the tail to Ben's belly, 3 of 20 placed.
+    (Ava held a thought)
+    (Ben held a thought)
+[  435s] 8:30 asked Ava,Ben,Chloe | dominoes 80 | calls 96
+    Ben -> everyone: Ben here, resumed. The head arc is going up the right side from the belly end at (22,23), around (22,19), toward (22,15). Dev, the belly's back end at x12 on row 23 is still open for your link. The ar
+    (Ava held a thought)
+    (Chloe held a thought)
+[  447s] 8:45 asked Ava,Chloe,Dev | dominoes 83 | calls 99
+    Dev -> everyone: Ben, I'm still on the tail-to-belly connect, 3 of 20 placed. Once it's down I'll link my partial into Chloe's fin at (23.5, 13), and that should close your arc top gap. Don't add a bridge from your en
+    (Chloe held a thought)
+    (Ava held a thought)
+[  456s] 9:00 asked Ava,Ben,Chloe | dominoes 85 | calls 102
+    Chloe -> everyone: Ben, Dev's answer settles it: the bridge is Dev's link into my fin at (23.5, 13). Leave your arc top open, so we don't end up with two joins in the same spot. I'm holding my hands until the head arc i
+    (Ava held a thought)
+    (Ben held a thought)
+[  472s] 9:15 asked Ava,Ben,Dev | dominoes 88 | calls 105
+    Ben -> everyone: Got it, Chloe. No bridge from my end. I'm finishing the arc up to its top at (22,15), and I'll check it against Dev's join into your fin at (23.5,13) before the push.
+    (Dev held a thought)
+    (Ava held a thought)
+[  484s] 9:30 asked Ava,Chloe,Dev | dominoes 91 | calls 108
+    Chloe -> Ben: Thanks, Ben. I'm holding my hands. When the arc top is in, we check it against Dev's join at (23.5,13) together.
+    Ava -> everyone: Ack on Dev's 8:15 call. I'm not taking anything down, the y10 line from x5 to x18 stays standing as its own piece, and I'm not extending it. I'm stopping my hands. Ben, if you want a hand with the arc
+    (Dev held a thought)
+[  493s] 9:45 asked Ben,Chloe,Dev | dominoes 93 | calls 111
+    Dev -> everyone: Dev here, back on the connect. Tail to Ben's belly back end at x12 is 9 of 20, about 11 to go, roughly a minute and a half. The hold on x3 to 16, y8 to 20 stays until it's down. After that I link my p
+    (Ben held a thought)
+[  504s] 10:00 asked Ava,Ben,Chloe,Dev | dominoes 96 | calls 115
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Dev -> everyone: Correction to my 9:45. Linking my partial into Chloe's fin at (23.5,13) won't close Ben's arc top. The fin falls up-right, away from (22,15), and the arc top is still about 2.5 short. Ben, the gap nee
+    (Chloe held a thought)
+    (Ben held a thought)
+[  521s] 10:15 asked Ava,Ben,Chloe | dominoes 98 | calls 118
+    Ava -> everyone: I've got the bridge. I'm connecting Ben's arc top at (22,15) to the fin's lower end at (23.5,13) now. Dev, skip your partial-into-fin join, since mine takes that spot. Keep your partial for the reach 
+    (Chloe held a thought)
+    (Ben held a thought)
+[  530s] 10:30 asked Ava,Ben,Chloe,Dev | dominoes 102 | calls 122
+    Ava -> everyone: Ava here, placing the bridge now: connect from Ben's arc top at (22,15) to the fin's lower end at (23.5,13). Ben, keep your hands off that spot until I say it's in. Dev, the reach check at (17,12) is 
+    (Chloe held a thought)
+    (Ben held a thought)
+[  540s] 10:45 asked Ava,Ben,Chloe,Dev | dominoes 104 | calls 126
+    Ben -> everyone: Ben here. Head arc is done: 20 placed, running from about (22.5,23) up to the top at (22.5,15.5), facing left. Three spots near (22.5 to 24, 23) wouldn't take a domino, which is fine since the belly e
+    (Chloe held a thought)
+    (Ava held a thought)
+    (Dev held a thought)
+[  553s] 11:00 asked Ava,Chloe,Dev | dominoes 107 | calls 129
+    Dev -> Ben: Ben, ack on the head arc. Before the push, check the bottom join: the belly's last domino falls right, so the arc's first domino at (22.5,23) needs to face within 40 degrees of that, and it looks like
+    Chloe -> everyone: Ack, Ben. Head arc noted, top at (22.5, 15.5). I'm holding my hands. Ava's bridge from (22, 15) to (23.5, 13) goes first, and then you and I check the arc top against my fin end together.
+    (Ava held a thought)
+[  567s] 11:15 asked Ava,Ben | dominoes 109 | calls 131
+    Ben -> everyone: Ben here. Ack Dev on the bottom join. The arc's first domino faces up, so it won't take the belly's last one. I'm inspecting the bottom now, and if it's broken I'll re-face that first domino up-right 
+    (Ava held a thought)
+[  576s] 11:30 asked Ava,Ben,Chloe,Dev | dominoes 113 | calls 135
+    Chloe -> everyone: Ava, is the bridge from (22,15) to the fin's lower end in yet? Ben, once it is, we check the arc top against my fin end, then Dev does the reach check at (17,12), then one inspect before the push. Abo
+    (Ava held a thought)
+[  588s] 11:45 asked Ava,Ben,Dev | dominoes 114 | calls 138
+    Ben -> everyone: Ben here. The bridge is Ava's, so I can't say whether it's in. I'm inspecting the bottom join at (22,23) now. If the arc's first domino won't catch the belly's last one, I'll re-face it up-right and t
+    (Ava held a thought)
+    (Dev held a thought)
+[  610s] 12:00 asked Ava,Ben,Chloe,Dev | dominoes 114 | calls 142
+    Ben -> everyone: Ben here. Inspection's back: the arc's first domino at (22.5,23) faces up, so the belly's last domino won't catch it. I'm lifting that one domino now and I'll re-place it facing up-right, about 335, s
+    (Dev held a thought)
+    (Ava held a thought)
+[  627s] 12:15 asked Ben,Chloe,Dev | dominoes 116 | calls 145
+    Dev -> everyone: Dev here. Tail-to-belly connect is in, 20 of 20. My last inspect still counted only about 9 from the start, so I'm re-inspecting from the tail through the belly before the push. Ben, keep your hands o
+    (Ben held a thought)
+    (Chloe held a thought)
+[  637s] 12:30 asked Ben,Chloe,Dev | dominoes 118 | calls 148
+    Dev -> everyone: Dev here. Re-inspecting from the start through the belly now. My count from the start was 9, and I think the break is where the tail turns down at about (9.5 to 11, 14.5 to 15). Ben, hold the bottom j
+    (Chloe held a thought)
+    (Ben held a thought)
+[  655s] 12:45 asked Ben,Chloe,Dev | dominoes 119 | calls 151
+    Chloe -> everyone: Chloe here. Ava, is the bridge from (22,15) to the fin's lower end in yet? Ben and I can't check the arc top until it is. Dev, tell us when your re-inspect from the tail through the belly is clear. I'
+    (Dev held a thought)
+    (Ben held a thought)
+[  667s] 13:00 asked Ava,Ben,Dev | dominoes 122 | calls 154
+    Dev -> everyone: Dev here. The start chain breaks between the tail end at (9.5,14.5) and the connect at (11,15). My extend didn't place anything, so I'm running a connect from the tail end to that domino now. Ava and 
+    (Ben held a thought)
+    (Ava held a thought)
+[  675s] 13:15 asked Ava,Ben,Chloe | dominoes 125 | calls 157
+    Ben -> everyone: Ben here. The arc's first domino at (22.5,23) is back in, facing about 335, so it should catch the belly's last one. Dev, that's the spot to check on your re-inspect. I'm keeping my hands off the bott
+    (Chloe held a thought)
+    (Ava held a thought)
+[  685s] 13:30 asked Chloe,Dev | dominoes 128 | calls 159
+    Chloe -> everyone: Chloe here. I'm holding my hands. Ava, is the bridge from (22,15) to the fin's lower end in yet? I can't confirm it from here. Dev, tell us when the start chain is clear. Ben, once the bridge is in, y
+    (Dev held a thought)
+[  695s] 13:45 asked Ava,Ben,Dev | dominoes 131 | calls 162
+    Ava -> everyone: Ava here, not in yet. 13 of 24 down on the bridge from Ben's arc top at (22,15) to the fin's lower end at (23.5,13), about 11 to go, roughly 2 minutes. Ben, keep your hands off the top join until I ca
+    (Dev held a thought)
+    (Ben held a thought)
+[  708s] 14:00 asked Ben,Chloe,Dev | dominoes 132 | calls 165
+    Dev -> everyone: Dev here. I'm still on the tail connect to (11,15), 6 of 18 placed, about 2 minutes to go. The start chain isn't clear until it's down, so once it is I'll re-inspect from the start through the belly a
+    (Ben held a thought)
+    (Chloe held a thought)
+[  715s] 14:15 asked Ava,Ben,Chloe | dominoes 136 | calls 168
+    Chloe -> everyone: Chloe here, 5-6 minutes left. Ava, what's the bridge count now? Call it in as soon as it's down. Until then Ben and Dev hold the top join and the tail. Once the bridge is in: Ben and I check the arc t
+    (Ben held a thought)
+    (Ava held a thought)
+[  724s] 14:30 asked Ava,Ben,Dev | dominoes 137 | calls 171
+    Ava -> everyone: Ava here: bridge is 22 of 24, two to go, about 20 seconds. I'll call it in as soon as it's down. Ben, hold the top join until then. Dev, the reach check at (17,12) is yours after your start re-inspect
+    (Ben held a thought)
+    (Dev held a thought)
+[  732s] 14:45 asked Ben,Chloe,Dev | dominoes 141 | calls 174
+    Chloe -> everyone: Chloe here, 5 minutes left. Ava, is the bridge in? Call it as soon as it's down. Ben, hold the top join until then. Once it's in, Ben and I check the arc top against my fin, then Dev does the reach ch
+    (Ben held a thought)
+    (Dev held a thought)
+[  740s] 15:00 asked Ava,Ben,Chloe,Dev | dominoes 142 | calls 178
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Chloe -> everyone: Chloe here, 5 minutes left. Ava, bridge count? Call it in as soon as it's down. I'm inspecting the arc top and my fin end now, placing nothing. Ben and Dev, hold your joins until that's in.
+    (Ava held a thought)
+    (Ben held a thought)
+    (Dev held a thought)
+[  748s] 15:15 asked Ava,Ben,Chloe,Dev | dominoes 144 | calls 182
+    Ava -> everyone: Ava here: bridge is in, 24 of 24, from Ben's arc top at (22,15) to the fin's lower end at (23.5,13). Ben and Chloe, you're clear to check the arc top against the fin. I'm running a quick inspect on th
+    (Ben held a thought)
+    (Dev held a thought)
+[  756s] 15:30 asked Ava,Ben,Chloe,Dev | dominoes 145 | calls 186
+    Ben -> everyone: Ben here. Bridge is in, so I'm checking the arc top at (22.5,15.5) against Chloe's fin end now, with no placements. I'm still holding the bottom join until Dev says his start re-inspect is clear.
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  767s] 15:45 asked Ava,Ben,Chloe,Dev | dominoes 147 | calls 190
+    Chloe -> everyone: Chloe here. Thanks, Ava, bridge is in. Ben, I'm inspecting the arc top against my fin end now. If you see a gap, tell me before anyone moves. Dev, the reach check at (17,12) is next.
+    (Dev held a thought)
+    (Ben held a thought)
+[  780s] 16:00 asked Ava,Ben,Chloe,Dev | dominoes 148 | calls 194
+    Chloe -> everyone: Chloe here, about 4 minutes left. My arc-top-to-fin look is done and I'm placing nothing. That cluster isn't connected to the start, so it won't fall with the push. Ben, if you saw a gap at the top jo
+    (Ben held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  793s] 16:15 asked Ava,Ben,Dev | dominoes 148 | calls 197
+    Ben -> everyone: Ben here. Chloe, I'm not placing anything at the top. If your arc-top check against the fin finds a gap, call it now and I'll hold. I'm also holding the bottom join until Dev says the start chain is c
+    (Dev held a thought)
+    (Ava held a thought)
+[  803s] 16:30 asked Ava,Chloe,Dev | dominoes 148 | calls 200
+    Dev -> everyone: Dev here. Tail connect is in, 18 of 18. Re-inspecting from the start through the belly now, about 15 seconds, placing nothing else. Ben, keep holding the bottom join until I report the count.
+    (Chloe held a thought)
+    (Ava held a thought)
+[  816s] 16:45 asked Ava,Ben,Chloe,Dev | dominoes 148 | calls 204
+    Dev -> everyone: Dev here. Re-inspect from the start is done, and it's bad: the chain carries through only about 12 of the 148 standing dominoes. It breaks at the sharp turn near (12, 14.5), so my tail connect didn't 
+    (Ava held a thought)
+    (Chloe held a thought)
+    (Ben held a thought)
+[  827s] 17:00 asked Ava,Ben,Chloe | dominoes 148 | calls 207
+    Chloe -> everyone: Chloe here. Dev, thanks for the count, 12 of 148 is clear. Nobody moves the start or the joins. If you can call an exact one-domino fix at the turn near (12, 14.5) in the next few seconds, I'll place 
+    (Ben held a thought)
+    (Ava held a thought)
+[  838s] 17:15 asked Ava,Ben,Dev | dominoes 148 | calls 210
+    Dev -> everyone: Dev here. I don't have an exact one-domino fix at the turn near (12, 14.5) that I'd trust from the map, so I'm not placing anything. Nobody move the start or the joins. Let's do the one inspect from t
+    (Ben held a thought)
+    (Ava held a thought)
+[  845s] 17:30 asked Ava,Ben,Chloe | dominoes 148 | calls 213
+    Chloe -> everyone: Chloe here. Dev, no fix at the turn, so we leave it. Nobody moves the start or the joins. I'm doing the one inspect from the start now, placing nothing. Ava, Ben, Dev, hands off until I've reported.
+    (Ava held a thought)
+    (Ben held a thought)
+[  856s] 17:45 asked Ava,Ben,Chloe,Dev | dominoes 148 | calls 217
+    Chloe -> everyone: Chloe here, inspect's done. From the start, about 12 of the 148 standing dominoes carry through, and the break is at the turn near (12, 14.5). The tail and bridge are in, but the arc and fin cluster a
+    (Ben held a thought)
+    (Ava held a thought)
+[  864s] 18:00 asked Ava,Ben,Chloe,Dev | dominoes 148 | calls 221
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Ben -> everyone: Ben here, holding. The bottom join at (22.5, 23) is untouched and I'm placing nothing. Dev, if you want a one-domino fix at that turn, call the exact spot and I'll do it now. Otherwise I'm staying off
+    (Chloe held a thought)
+    (Dev held a thought)
+    (Ava held a thought)
+[  871s] 18:15 asked Ava,Chloe,Dev | dominoes 148 | calls 224
+    Chloe -> everyone: Chloe here, two minutes left. No placements from me. Ben, same answer as Dev: no fix without an exact spot we all trust. The start and joins stay as they are. We'll see what the push gives us.
+    (Dev held a thought)
+    (Ava held a thought)
+[  878s] 18:30 asked Ava,Ben,Dev | dominoes 148 | calls 227
+    Dev -> everyone: Dev here, placing nothing. Ben, thanks, but I don't have a verified fix at (22.5, 23), and that cluster isn't connected to the start anyway, so it wouldn't fall with the push. Nobody moves the start o
+    (Ava held a thought)
+[  886s] 18:45 asked Ava,Ben,Chloe | dominoes 148 | calls 230
+    Ava -> everyone: Ava here, holding. The bridge is in at 24 of 24, and I'm placing nothing. Ben, leave the bottom join alone too. Nobody moves the start before the push.
+    (Chloe held a thought)
+[  893s] 19:00 asked Ben,Chloe,Dev | dominoes 148 | calls 233
+    Chloe -> everyone: Chloe here, holding through the push. Thanks, everyone. Nobody touch the start or the joins.
+    Ben -> everyone: Got it, Ava. Bottom join stays untouched, and I'm off the table through the push.
+[  900s] 19:15 asked Ava,Ben,Chloe,Dev | dominoes 148 | calls 237
+    Chloe -> everyone: Chloe here, holding. Thanks, everyone. Nobody touch the start or the joins. Let's see what the push gives us.
+    (Ava held a thought)
+[  905s] 19:30 asked Ava,Ben,Dev | dominoes 148 | calls 240
+    Ava -> everyone: Ava here, holding. Nothing in my hands, and I'm not touching the start or the joins. Good luck, everyone. Let's see what the push gives us.
+[  910s] 19:45 asked Ben,Chloe,Dev | dominoes 148 | calls 243
+    Chloe -> everyone: Thanks, Ava. Everyone's holding, so let's see what the push gives us. Once it's over I'll report what fell.
+{
+  "size": 4,
+  "minutes": 20.0,
+  "wall_seconds": 941.4,
+  "intents": {
+    "Ava": "fish",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "single wavy dark stroke",
+      "short squiggly line",
+      "row of fallen dominoes"
+    ],
+    [
+      "a single wavy pen stroke or squiggle on a blank background",
+      "a short dark horizontal line, possibly one fallen domino seen from above",
+      "a tiny piece of a larger line drawing or sketch, mostly blank"
+    ],
+    [
+      "a short hand-drawn wavy pen stroke",
+      "a single fallen domino seen edge-on",
+      "a small crack or scribble on a blank background"
+    ]
+  ],
+  "placed": 148,
+  "fell": 12,
+  "completion": 0.081,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 88,
+  "messages_by_speaker": {
+    "Chloe": 28,
+    "Ben": 18,
+    "Ava": 14,
+    "Dev": 25,
+    "Facilitator": 3
+  },
+  "held_thoughts": 134,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 254,
+    "failed": 0,
+    "input_tokens": 514,
+    "cache_creation_tokens": 1375445,
+    "cache_read_tokens": 530882,
+    "output_tokens": 324839,
+    "seconds": 2206.8,
+    "api_equivalent_usd": 0.4429
+  }
+}

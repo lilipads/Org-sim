@@ -172,3 +172,19 @@ def test_facilitator_calls_time_and_start_status():
     g.run()
     assert any(m["speaker"] == "Facilitator" for m in a.seen[-1]["conversation"])
     assert "no start domino" in a.seen[-1]["start_status"]
+
+
+def test_fix_nudges_a_too_sharp_turn():
+    import random
+    from orgsim.dominoes import Region, World
+    from orgsim.handwork import fix_specs
+    w = World([Region("table", 0, 0, 60, 40)], {"table": 99}, EXACT)
+    rng = random.Random(0)
+    w.place([(5, 5, 0), (5.55, 5, 0), (6.1, 5, 0), (6.6, 5.3, 55), (6.9, 5.75, 55)], "a", 0, "table",
+            ["table"], rng, max_n=9, start_index=0)
+    assert len(w.reachable_from_start()) == 3
+    ops, note = fix_specs(w, {"type": "fix", "at": [6.2, 5]}, 40)
+    assert ops and ops[0][0] == "move", note
+    for op in ops:
+        w.move(op[1], *op[2], rng) if op[0] == "move" else w.place([op[1]], "a", 0, "table", ["table"], rng)
+    assert len(w.reachable_from_start()) == 5
