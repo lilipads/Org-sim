@@ -690,3 +690,13 @@ the shared picture (work can collide, be lifted, or wait on someone else's line)
 `experiments/analyze_staffing.py`: recognition, completion, words, person-time with hands busy / waiting /
 free, dominoes laid per person, top builder's share, people laying under 10, rework (lifted dominoes,
 and how many were someone else's), bumps. Build events now log lifted dominoes and whose they were.
+
+### 5.1 First results (small model, 4 games per size)
+
+Recognized 0/4 (size 1), 1/4 (size 4), 2/4 (size 10, both only half-credit). Recognition if everything
+had fallen: 0.08, 0.83, 0.38. Words spoken grow with headcount (284, 1632, 4401 per game); person-time with
+hands busy falls (54%, 20%, 11%); dominoes laid per person 88, 31, 17; at size 10, 5.5 of 10 people laid
+fewer than 10 dominoes and half of all lifted dominoes were someone else's; inspections 1.5, 23, 74.
+Reading: solo tables fail on the design (nobody to sanity-check the sketch), tables of 10 fail on
+execution (breaks, rework of others' work). Caveat: tables of 4 went 4/4 in batch 9 but 1/4 here, so
+the small model's success rate is noisy; 4 games per size is too few for firm numbers.
