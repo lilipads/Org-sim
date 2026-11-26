@@ -36,3 +36,104 @@
     Jack -> everyone: Fish it is, great call Sofia! I'll hang back on the tail until your lines get round to the back. Shout when they're near.
 [  106s] 2:15 asked Sofia | dominoes 27 | calls 29
     Sofia -> everyone: Almost done with my bit, Omar. Once it's up I'll tie it into the side of your line, so don't worry about the exact start.
+[  416s] 2:30 asked Omar,Hana,Jack | dominoes 31 | calls 33
+    Omar -> Sofia: Sounds good Sofia, keep going, I'll keep laying the arc and we'll meet in the middle.
+    Jack -> everyone: Looking great, you three! I'm still on standby for the tail, so just shout when the top and bottom lines are heading round to the back.
+[  423s] 2:45 asked Sofia | dominoes 34 | calls 34
+    Sofia -> Omar: Thanks Omar! One more domino and I'll tie into the start of your line, just past where it begins. Don't move that first bit.
+[  431s] 3:00 asked Sofia,Omar | dominoes 37 | calls 36
+    Sofia -> Omar: Tying my branch into the start of your arc now, Omar. Please don't touch that first bit.
+    Omar -> Sofia: Got it Sofia, I'll leave the start alone and keep going along the arc.
+[  436s] 3:15 asked Sofia,Omar | dominoes 41 | calls 38
+[  445s] 3:30 asked Jack | dominoes 46 | calls 39
+[  462s] 3:45 asked Hana,Jack | dominoes 50 | calls 41
+    Jack -> everyone: Okay, I'm done standing by. I'm putting the whole tail up now, starting at the narrow bit at the back of the body. Omar, when your top line gets round to the neck, just run it into the start of my tai
+    (Hana held a thought)
+[  469s] 4:00 asked Omar | dominoes 57 | calls 42
+    Omar -> everyone: Sounds good Jack, I've got a few left on the top arc. Then I'll run it into the start of your tail.
+[  475s] 4:15 asked Jack | dominoes 61 | calls 43
+    Jack -> everyone: Thanks Omar, perfect. I'll keep going on the tail.
+[  480s] 4:30 asked Omar | dominoes 68 | calls 44
+[  480s] 4:45 asked - | dominoes 73 | calls 44
+[  480s] 5:00 asked - | dominoes 79 | calls 44
+[  493s] 5:15 asked Sofia,Omar,Hana | dominoes 82 | calls 47
+    Omar -> everyone: Top arc's done. I'm hooking the end into the start of Jack's tail now.
+    (Hana held a thought)
+[  504s] 5:30 asked Hana,Jack | dominoes 87 | calls 49
+    Hana -> everyone: Heads up, the bottom wasn't connected to the nose, so I'm fixing that junction now and then running the bottom into the base of Jack's tail. The top is still pale too, near where Sofia's line meets Om
+    (Jack held a thought)
+[  512s] 5:45 asked Sofia,Omar,Jack | dominoes 92 | calls 52
+    Omar -> everyone: On it, Hana. I'll look at that join up by the neck now and fix whatever's broken there.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  522s] 6:00 asked Omar,Hana | dominoes 96 | calls 54
+    Omar -> everyone: Found it, the top arc's first domino sits at too sharp an angle off Sofia's line. I'm bridging it now.
+[  532s] 6:15 asked Sofia,Omar | dominoes 101 | calls 56
+    Sofia -> everyone: On it, Hana. That's my connect into the start of Omar's arc, nearly done. Omar, we're both on that join, so I'll leave the bridging to you once mine lands. Also, is that long line running up-left past
+    (Omar held a thought)
+[  553s] 6:30 asked Omar,Hana | dominoes 104 | calls 59
+    Omar -> Sofia: Not mine, Sofia, that long line up-left is yours. Yeah, it's not part of the fish, so take it out. Just leave the last bit right at the neck, I'm bridging into my arc from there now.
+    Hana -> everyone: Not mine, Sofia, I'm only on the bottom. But hold off taking it down yet. Right now it's the only thing the push runs through, so let's get Omar's arc connected first, then clear it.
+[  863s] 6:45 asked Sofia,Omar,Hana | dominoes 108 | calls 63
+    Hana -> everyone: Bottom's now run into the base of the tail. I'm checking the nose junction next, since the belly still looks pale there.
+    Omar -> everyone: Hmm, I can't spot the break by eye, Hana. Let me take a proper look at that join.
+    (Sofia held a thought)
+[  874s] 7:00 asked Omar,Hana | dominoes 111 | calls 65
+    Omar -> everyone: Okay, I'll nudge a bridge in at the neck. The push heads up-left there and the arc starts up-right, so that corner is too sharp.
+    (Hana held a thought)
+[  883s] 7:15 asked Omar | dominoes 117 | calls 66
+    Omar -> everyone: Okay, bridging the neck now. Sofia, leave that last bit by the join alone.
+[  890s] 7:30 asked Sofia,Omar | dominoes 119 | calls 68
+    Sofia -> everyone: Got it Omar, I'll leave the neck alone. Once your bridge is in and the top arc goes dark, I'll clear the long stray line.
+    Omar -> everyone: Okay, bridging the neck now. Sofia, leave that last bit by the join alone.
+[  899s] 7:45 asked Sofia,Omar,Jack | dominoes 125 | calls 71
+    Omar -> everyone: Okay, doing the fix at the neck properly now. Sofia, hang on to the stray line until the top goes dark.
+    (Jack held a thought)
+[  910s] 8:00 asked Sofia,Omar | dominoes 129 | calls 73
+    Omar -> everyone: Okay, bridging from just below the neck straight into the arc start, I'll check it goes dark after.
+[  910s] 8:15 asked - | dominoes 136 | calls 73
+[  910s] 8:30 asked - | dominoes 141 | calls 73
+[  923s] 8:45 asked Sofia | dominoes 146 | calls 74
+    Sofia -> everyone: I'll stay off the neck, Omar. I'm just having a look at how far the push gets along the top arc now.
+[  940s] 9:00 asked Sofia,Omar,Hana | dominoes 150 | calls 77
+    Sofia -> everyone: Staying off the neck. I'll go check the tail's lower diagonal and where the bottom meets it, since that corner looked tight.
+[  950s] 9:15 asked Sofia | dominoes 155 | calls 78
+    Sofia -> everyone: Okay, tail check done. Jack, there's a jam at the bottom corner of the tail, where the vertical meets the lower diagonal. The top corner also has nothing ahead of it. I'll fix the sharp turn where the
+[  956s] 9:30 asked Jack | dominoes 158 | calls 79
+    Jack -> everyone: Thanks Sofia, nice catch. I'll keep going on the diagonal and close it back into the base. Thanks Omar and Hana too, nice teamwork on that neck.
+[  965s] 9:45 asked Sofia,Omar,Hana | dominoes 163 | calls 82
+    Sofia -> everyone: Body-to-tail turn is fixed on my end. I'm taking another look at the tail to see what's still pale. Jack, shout if the diagonal closes.
+    (Omar held a thought)
+[  978s] 10:00 asked Sofia,Omar,Hana,Jack | dominoes 167 | calls 86
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: I'm closing the top corner of the tail, where the upper diagonal meets the vertical. Jack, you stay on the lower diagonal. Hana, the nose junction by the start still looks pale, can you check it?
+    (Jack held a thought)
+    (Omar held a thought)
+[  987s] 10:15 asked Sofia,Hana,Jack | dominoes 168 | calls 89
+    Hana -> everyone: Yep, I'm finishing the bottom's join at the nose right now. Once it lands I'll inspect the whole chain from the start and tell you what's still pale.
+    (Jack held a thought)
+[  999s] 10:30 asked Sofia,Jack | dominoes 173 | calls 91
+    Jack -> everyone: Diagonal's done, but I looked at the tail and there's a jam at the bottom corner and a small gap where the bottom meets the neck. I'll fix those two. Sofia, the neck turn and the top corner are all yo
+    (Sofia held a thought)
+[ 1005s] 10:45 asked Sofia | dominoes 179 | calls 92
+    Sofia -> everyone: Got it Jack. I'm on the top corner of the tail now, bridging the diagonal end down into the vertical. Neck turn is already fixed.
+[ 1010s] 11:00 asked Jack | dominoes 180 | calls 93
+    Jack -> everyone: Sounds good Sofia, I'm finishing the jam at the bottom corner and the little gap by the neck. Shout if anything still looks pale down there!
+[ 1014s] 11:15 asked Sofia | dominoes 180 | calls 94
+[ 1014s] 11:30 asked - | dominoes 180 | calls 94
+[ 1014s] 11:45 asked - | dominoes 180 | calls 94
+[ 1021s] 12:00 asked Omar | dominoes 180 | calls 95
+    Omar -> everyone: No worries Jack. Still finishing the bridge at the neck, I'll check it goes dark once it lands.
+[ 1028s] 12:15 asked Hana,Jack | dominoes 180 | calls 97
+    Hana -> everyone: Connect's in. I'm checking the nose now to see if the bottom goes dark, and I'll report back.
+    Jack -> everyone: Nice one Omar, shout if the neck still looks pale after. I'll keep at the tail bottom.
+[ 1038s] 12:30 asked Omar,Hana | dominoes 180 | calls 99
+    Hana -> everyone: Bottom's still pale. The nose corner is too sharp for the push to turn down into it. I'm fixing that joint now, then I'll check it again.
+    (Omar held a thought)
+[ 1051s] 12:45 asked Hana | dominoes 174 | calls 100
+    Hana -> everyone: We're out of dominoes, so I'm pulling the little stray branch that goes up and right off the nose. It's not part of the fish. Then I'll use those to curve the bottom in properly.
+[ 1059s] 13:00 asked Omar | dominoes 174 | calls 101
+    Omar -> everyone: Bridge is in, but it ran further up than I meant. I'm checking the neck now to see what actually goes dark.
+[ 1073s] 13:15 asked Sofia,Omar,Hana | dominoes 170 | calls 104
+    Omar -> everyone: My bridge went the wrong way, it's a stray line up toward the corner, not part of the fish. I'm pulling it down so we get dominoes back, then I'll join the top arc properly.
+    (Hana held a thought)

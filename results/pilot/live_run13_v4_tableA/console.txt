@@ -93,3 +93,98 @@
     Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
     Priya -> everyone: Top curve's standing again, I'm just finishing the hookup into the top line. Then I'll inspect the whole run from the start.
     (Leo held a thought)
+[  410s] 10:15 asked Leo | dominoes 164 | calls 69
+    Leo -> everyone: I'll take the little line under the mouth now, over by the right end, so I'm well away from you both. Shout when the nose and belly are hooked in.
+[  410s] 10:30 asked - | dominoes 169 | calls 69
+[  416s] 10:45 asked Leo | dominoes 173 | calls 70
+    Leo -> everyone: Mouth line's done. I'm going to check the whole run from the start now and see what still wouldn't fall.
+[  426s] 11:00 asked Leo | dominoes 178 | calls 71
+    Leo -> everyone: Check done: only about half would fall. The top of the head, where the curve meets the top line, is still broken. I'm closing that gap now, well away from you all.
+[  434s] 11:15 asked Leo | dominoes 180 | calls 72
+    Leo -> everyone: Maya, Priya, I'm re-checking the whole run from the start to see if the top of the head catches now. Nose looks like the real gap to me, so I'll stay off it.
+[  448s] 11:30 asked Maya,Priya,Leo | dominoes 180 | calls 75
+    Leo -> everyone: Inspection says the top curve and the top line still don't catch, and the lower tail arm isn't hooked into the tail point either. Maya, is the nose gap closed yet? Priya, the loose end by your hands i
+    (Maya held a thought)
+    (Priya held a thought)
+[  453s] 11:45 asked Maya,Priya | dominoes 180 | calls 77
+    Maya -> everyone: Leo, thanks, I'm still on the nose, about half done. Once it's through I'll go for the lower row and the arms at the tail. Tom, shout when the belly's hooked in.
+    (Priya held a thought)
+[  461s] 12:00 asked Tom,Leo | dominoes 180 | calls 79
+    Tom -> Maya: Nearly there Maya, about seven left on the belly join. I'll shout when it's hooked in.
+    Leo -> Maya: Sounds good, Maya. I'll keep clear of the nose. Shout when it's through and I'll re-check the whole run.
+[  467s] 12:15 asked Maya | dominoes 180 | calls 80
+    Maya -> everyone: Thanks both. Ten or so left on the nose, then I'll check the lower row and the tail arms. Tom, shout when the belly's hooked.
+[  475s] 12:30 asked Tom,Priya,Leo | dominoes 180 | calls 83
+    Tom -> Maya: Five left, nearly hooked in.
+    Priya -> everyone: Top join's in. I'm checking the whole run from the start now to see what still doesn't fall. Then I'll pull strays that can't connect and reuse them.
+[  487s] 12:45 asked Maya,Priya,Leo | dominoes 168 | calls 86
+    Priya -> everyone: Out of dominoes, so I'm pulling the loose little line inside the head, the one that doesn't hook into anything. Then I'll use those to close the top join.
+    (Leo held a thought)
+    (Maya held a thought)
+[  496s] 13:00 asked Maya,Leo | dominoes 166 | calls 88
+    Maya -> Leo: Leo, I saw you pulled one of mine up by the top left. Fine if it was a stray dead end, but don't touch the nose. I've got about seven left there, then I'll do the lower row and the tail arms.
+    Leo -> everyone: Maya, I've got a few spare dominoes from the strays, so I'm closing the nose gap now. You're far enough away that we won't bump. Shout if you've already got it covered.
+[  505s] 13:15 asked Maya,Priya,Leo | dominoes 167 | calls 91
+    Maya -> Leo: Leo, hold off on the nose, I'm nearly through it, only a few left and I'm right on it. Can you take the tail arms on the right instead? The lower one isn't hooked into the tail point. I'll do the lowe
+    Leo -> Maya: Sorry Maya, that was my mistake. The stray I pulled was a dead end, but I should have asked first. The nose is yours and I'm backing off it. Shout when it's through and I'll re-check the run.
+    Priya -> everyone: Got a few dominoes back. I'm closing the top join now, up by the head.
+[  514s] 13:30 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 95
+    Maya -> Leo: No worries Leo. Five left on the nose. Tail arms are all yours, the lower one needs hooking into the tail point. I'll shout when it's through.
+    Tom -> everyone: Belly's hooked in, Maya. The lower tail arm and the line going down from the tail still look unconnected, so I'm inspecting there now.
+    (Priya held a thought)
+    (Leo held a thought)
+[  534s] 13:45 asked Maya,Tom,Priya,Leo | dominoes 159 | calls 100
+    Leo -> everyone: Okay Maya, I'll take the tail arms. Starting with the lower one, where it meets the tail point. Tom, I'm right by you but only on that joint.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  664s] 14:00 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 105
+    Tom -> Leo: Fine by me, Leo, the joint's yours. I'm just finishing pulling the stray line underneath, so I'm not touching the arm. The break looked like one domino jammed too close, just left of where the arm sta
+    Priya -> everyone: Top join's in and I pulled the strays under it. I'm checking the whole run from the start now, so shout if the nose catches.
+    (Maya held a thought)
+    (Leo held a thought)
+[  673s] 14:15 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 109
+    Leo -> Tom: Thanks Tom. I'm closing the lower arm joint now, only that spot.
+    Priya -> everyone: Inspection says the top join still has one domino sitting off its path, so I'm fixing that now. Maya, the nose gap by the start of the top curve is the big one, since the whole top is hanging off it.
+    (Maya held a thought)
+    (Tom held a thought)
+[  684s] 14:30 asked Maya,Tom,Priya | dominoes 159 | calls 112
+    Tom -> everyone: Stray's pulled, Leo, the tail joint is yours. Maya, I'll take the lower row by the tail so you can stay on the nose.
+    (Maya held a thought)
+    (Priya held a thought)
+[  693s] 14:45 asked Maya,Priya,Leo | dominoes 161 | calls 115
+    Priya -> everyone: Maya, the nose is still the big gap, the whole top hangs off it. I'll try a quick fix on it now. If you've already got it, shout and I'll back off.
+    (Maya held a thought)
+    (Leo held a thought)
+[  701s] 15:00 asked Maya,Tom,Priya,Leo | dominoes 162 | calls 119
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Priya: Priya, I've got the nose, I'm right on it now. Stay off it so we don't bump. Can you check the belly is still hooked in after Tom's takedown?
+    Priya -> everyone: Trying the fix on the nose again. Maya, shout if you've got it and I'll back off.
+    Tom -> everyone: Working on the lower row by the tail now, just that joint.
+    (Leo held a thought)
+[  711s] 15:15 asked Maya,Tom,Priya | dominoes 164 | calls 122
+    Maya -> Priya: Priya, I'm placing the last one on the nose right now, so please stay off it. Can you check the belly join near the tail instead? Then we'll inspect the whole run.
+    Priya -> Maya: Got it Maya, backing off the nose. I'll check the belly's still hooked in now.
+    Tom -> everyone: Lower row's still loose by the tail, so I'm trying to hook it up into the main line from the other side.
+[  721s] 15:30 asked Maya,Priya | dominoes 165 | calls 124
+    Priya -> everyone: Maya, belly's good. It's dark the whole way from the split along the bottom and up into the tail, so Tom's takedown didn't hurt it. The nose is still the big one, so once you're done let's do one last
+    (Maya held a thought)
+[  729s] 15:45 asked Maya,Tom | dominoes 167 | calls 126
+    Maya -> everyone: Priya, thanks for checking the belly. The nose still looks off to me, so I'm fixing that last bit now. Please stay off it. Then we do one last run from the start.
+    (Tom held a thought)
+[ 1034s] 16:00 asked Maya,Tom,Priya | dominoes 168 | calls 130
+    Tom -> everyone: I'll leave the nose to you two. I'm just trying to hook the loose row under the head into the main line, a bit past where the nose is.
+    (Maya held a thought)
+    (Priya held a thought)
+[ 1042s] 16:15 asked Maya,Tom,Priya | dominoes 170 | calls 133
+    Maya -> everyone: Still on the nose, running one more fix on that gap. Please stay off it. Shout when your bits are done and we'll do one last run from the start.
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1054s] 16:30 asked Maya,Tom,Priya | dominoes 171 | calls 136
+    Tom -> everyone: Leo, the inspection says one domino is jammed too close right at the arm joint, just left of where the arm starts. The line going down from the tail also starts with a gap right under it, so it'll nee
+    (Maya held a thought)
+    (Priya held a thought)
+[ 1066s] 16:45 asked Maya,Priya,Leo | dominoes 172 | calls 139
+    Leo -> Tom: Thanks Tom, yes please take the line going down from the tail once my joint's closed. I'm still on the arm joint, I'll shout when it catches.
+    Maya -> everyone: Nose still breaks right at the top of the upright bit, one domino sitting off its line. Fixing that now. Please stay off it, then we do the last run.
+    (Priya held a thought)
