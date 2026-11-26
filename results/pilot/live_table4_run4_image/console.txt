@@ -3,3 +3,188 @@
     (Chloe held a thought)
     (Ava held a thought)
     (Dev held a thought)
+[   25s] 0:15 asked Chloe,Dev | dominoes 3 | calls 6
+    Chloe -> everyone: Ben's outline is better than mine, so let's do that. I'll take the start at the tail tip and run the top edge out to the nose. Ava, could you take the belly back toward the tail? Dev, keep an eye on t
+    (Dev held a thought)
+[   40s] 0:30 asked Ava,Ben,Dev | dominoes 2 | calls 9
+    Ben -> everyone: Works for me, Chloe. One thing: the start is out at (4.5, 10.5), and the fish tail is around x 18. If the chain starts out there it has to run across empty table before it reaches the body. Could we m
+    (Dev held a thought)
+    (Ava held a thought)
+[   51s] 0:45 asked Ava,Chloe,Dev | dominoes 4 | calls 12
+    Chloe -> everyone: Ben, the start's already at the tail tip, right where my top arc begins at about (23.5, 20). I don't see anything at (4.5, 10.5) in the picture now. Ava, if you've got a stray chain out there, can you
+    (Dev held a thought)
+    (Ava held a thought)
+[   64s] 1:00 asked Ava,Ben,Dev | dominoes 7 | calls 15
+    Dev -> everyone: Checked the picture: nothing at (4.5, 10.5), and the start's at about (23.5, 19.5), so the gap's gone. Two things. It's facing up, so it won't knock anything along the top edge. It needs to face right
+    (Ben held a thought)
+    (Ava held a thought)
+[   82s] 1:15 asked Ava,Ben | dominoes 10 | calls 17
+    Ben -> everyone: Dev's right, and the start's in the wrong place for the outline. I'm laying the tail run now, from the tail tip at x 18 right to about x 23, facing along the body. It stops short of the start so I don
+    (Ava held a thought)
+[  111s] 1:30 asked Chloe,Dev | dominoes 14 | calls 19
+    Chloe -> everyone: Agreed, Ben. The start moves to the tail tip, facing right, so the fall runs tail, then top edge, then nose. Could you set that start domino at the tail tip? My arc start at (23.5, 20) faces up, so it
+    (Dev held a thought)
+[  120s] 1:45 asked Ben,Dev | dominoes 18 | calls 21
+    Ben -> everyone: Setting the start at the tail tip now, (18,20), facing right. Chloe, your arc's first domino at 23.5 still faces up, so it'll need turning right before your connect. Want me to take it down, or will y
+    (Dev held a thought)
+[  137s] 2:00 asked Ben,Chloe,Dev | dominoes 17 | calls 24
+    Ben -> everyone: Start's at the tail tip now, facing right. I'm carrying the tail run on to about x 22.3 and stopping there so I don't crowd your domino at 23.5. Chloe, that one still faces up, so it won't take the fa
+    (Chloe held a thought)
+    (Dev held a thought)
+[  147s] 2:15 asked Chloe,Dev | dominoes 18 | calls 26
+    Dev -> everyone: Chloe, re-facing your arc start to 0 is quicker than taking it down. It's already at the end of Ben's run. Ben, once it faces right, a short connect from your last domino should close the gap, since 2
+    (Chloe held a thought)
+[  158s] 2:30 asked Ben,Chloe | dominoes 21 | calls 28
+    Chloe -> everyone: Dev's right, clearing it is quicker than re-facing. I'm taking out the last up-facing piece near (23.5, 19.5) now, so Ben's run at 22.3 stays clear. Then I'll rebuild the arc from about 200° and conne
+    (Ben held a thought)
+[  167s] 2:45 asked Ben,Chloe,Dev | dominoes 25 | calls 31
+    Dev -> Ava: Ava, where does your belly end near the tail? I'll hold the nose round until I know where to start it.
+    Chloe -> everyone: Clearing's done, so I'm building the top arc from 200° now. Ben, your run ends around 22.3, so I'll join it with a connect once my first domino is standing.
+    (Ben held a thought)
+[  179s] 3:00 asked Ava,Ben,Dev | dominoes 29 | calls 34
+    Dev -> everyone: Ava, your belly run looks like it faces right, so the fall would carry toward the nose instead of back to the tail. Could you check its direction, and tell me where the belly ends? I'll start the nose
+    (Ben held a thought)
+    (Ava held a thought)
+[  187s] 3:15 asked Ava | dominoes 32 | calls 35
+    Ava -> everyone: Dev, the belly's built facing left, from the nose at about (40.5, 25.5) back toward x 20. It'll end around (20, 25), about five units under the tail. Ben's tail join closes that gap. Nothing stray out
+[  207s] 3:30 asked Ava,Ben,Dev | dominoes 35 | calls 38
+    Ben -> everyone: Correction for everyone: my tail run ended at about x 21.5, y 20, facing right, not 22.3 as I said. Chloe, once your first arc domino faces right, I'll connect my last one into it. The gap from 21.5 t
+    (Dev held a thought)
+    (Ava held a thought)
+[  220s] 3:45 asked Ava,Chloe | dominoes 40 | calls 40
+    Ava -> everyone: Belly's facing left, nose at about (40.5, 25.5), and it's running back toward x 20. It should end around (20, 25), about five units under Ben's tail. Dev, you can start the nose round. Ben, once my la
+    (Chloe held a thought)
+[  232s] 4:00 asked Ben,Dev | dominoes 43 | calls 42
+    Ben -> everyone: Belly's confirmed, ending around (20,25). I'm closing the tail join from there up into the start at (18,20) now. Chloe, I'll link my tail run to your arc once your first domino faces right.
+    (Dev held a thought)
+[  247s] 4:15 asked Ben,Chloe | dominoes 48 | calls 44
+    Chloe -> Ben: Ben, got your correction: your tail run ends at about 21.5, 20. My arc's first domino is at about 23.4, 17.6. It faces up-right because it's on the curve, so don't re-face it. Make the connect from yo
+    Ben -> everyone: Ben: My tail join didn't take. The picture only shows the belly from about x 31 to 40, not down to x 20, so there's nothing at (20,25) to connect from. Ava, can you carry the belly on from your end at
+[  255s] 4:30 asked Ava,Ben | dominoes 52 | calls 46
+    Ava -> Ben: Yep, I've got it, Ben. I'm carrying the belly on from 31.5 down to about x 20, still facing left. I'll call it when the last domino's down so you can connect the tail up into the start.
+    Ben -> everyone: Chloe, I'm making the connect from my tail end at 21.5, 20 into your arc at 23.4, 17.6 now. Ava, I'll wait for the belly to reach about x 20 before the tail join.
+[  263s] 4:45 asked Ava,Ben,Chloe | dominoes 56 | calls 49
+    Ava -> Ben: Still on it, Ben. Belly's at about 31.5 and I'm carrying it on to x 20. I'll call it when the last domino is down.
+    Chloe -> everyone: Ben, the connect from 21.5 into my arc at 23.4 is good. I'm carrying the top arc on from 200° toward 300° now, 15 to go. Ava, Ben can only see the belly from about x 31 to 40 in the picture. Could you
+[  269s] 5:00 asked Ava,Ben | dominoes 62 | calls 51
+    Ava -> everyone: Belly's at about 31.5 and still going, so it doesn't reach x 20 yet. I'll call it out when the last domino is down, and Ben can make the tail join then.
+[  275s] 5:15 asked Ben | dominoes 68 | calls 52
+[  275s] 5:30 asked - | dominoes 74 | calls 52
+[  285s] 5:45 asked Ben | dominoes 79 | calls 53
+    Ben -> everyone: Tail run and the connect into Chloe's arc are standing, so that join is done. I'm holding until Ava calls the belly at x 20. Then I'll run the tail join from (20,25) up into the start at (18,20). Dev,
+[  295s] 6:00 asked Ava,Chloe,Dev | dominoes 82 | calls 56
+    Chloe -> everyone: Arc's standing from 200° and I'm carrying it on toward 300°, fifteen to go. Ava, when your last belly domino is down near x 20, call it out so Ben can close the tail join. Dev, the nose round is yours
+    (Ava held a thought)
+[  303s] 6:15 asked Ava,Ben,Dev | dominoes 85 | calls 59
+    Ava -> everyone: Belly's standing down to about x 28, still going left with about 11 to go. I'll call it when the last domino is at x 20, Ben.
+[  311s] 6:30 asked Ben,Dev | dominoes 88 | calls 61
+    Dev -> everyone: Nose arc's standing, all 17. I'm joining its bottom end into the belly's nose at (40.3,25.5) now. The top edge waits until Chloe's arc reaches (38.5,18).
+[  325s] 6:45 asked Ben,Chloe | dominoes 92 | calls 63
+    Chloe -> everyone: Dev, my arc has two dominoes to go, and it ends around (33.5,13.9) at 300°, so it won't reach (38.5,18) on this radius. Once these two are standing, I'll extend from that end toward (38.5,18) with abo
+    (Ben held a thought)
+[  338s] 7:00 asked Ben,Dev | dominoes 94 | calls 65
+    Ben -> everyone: Chloe, that's the right plan: finish the two, then extend toward (38.5,18). Dev, can you point at the exact first domino of your top edge? Chloe, shout when your arc gets there and I'll check the join
+    (Dev held a thought)
+[  353s] 7:15 asked Ava,Chloe,Dev | dominoes 97 | calls 68
+    Chloe -> everyone: Hands are free, so I'm finishing the last two arc dominoes at 300° and then running the top edge toward (38.5, 18). Dev, once you point at your first top-edge domino I'll aim the last one at it.
+    (Dev held a thought)
+    (Ava held a thought)
+[  362s] 7:30 asked Ben,Dev | dominoes 99 | calls 70
+    Dev -> everyone: Chloe, Ben: the first domino of my top edge is at (38.5, 18), facing right, curving clockwise down the side of the nose. Chloe, aim your last one from the upper left so it lands within about 0.9 behin
+[  375s] 7:45 asked Ben,Chloe,Dev | dominoes 103 | calls 73
+    Ben -> everyone: Dev, got it: top edge starts at (38.5,18), facing right. Chloe, aim your last arc domino at that from the upper left. My inspection says the join at (23,20) turns too sharply, so the arc isn't carryin
+    (Dev held a thought)
+    (Chloe held a thought)
+[  383s] 8:00 asked Ava,Chloe,Dev | dominoes 104 | calls 76
+    Ava -> everyone: Belly's standing all the way to x 20.5, last domino at (20.5, 25) facing left. Ben, go ahead and join the tail from there up into the start at (18, 20). I'm checking the belly for gaps and the kink ne
+    (Dev held a thought)
+    (Chloe held a thought)
+[  393s] 8:15 asked Ava,Ben,Dev | dominoes 107 | calls 79
+    Ben -> everyone: Ava, belly's confirmed at (20.5, 25). Joining it up into the start now. Once that's standing I'll go back to the kink at (23, 20).
+    (Ava held a thought)
+    (Dev held a thought)
+[  403s] 8:30 asked Ava,Dev | dominoes 109 | calls 81
+    Dev -> everyone: Nose join at (40, 25): my inspection shows the next domino sitting off to the side, so the belly and nose aren't carrying through yet. I'm fixing it now. Chloe, the top edge still starts at (38.5, 18)
+    (Ava held a thought)
+[  410s] 8:45 asked Ava,Chloe,Dev | dominoes 112 | calls 84
+    Chloe -> everyone: Dev, Ben: my arc finishes at 300° around (33.5,14), then I'm extending toward (38.5,18) with about ten more. My last domino should land near (37.6,17.4), facing right, about 0.7 behind your first top-
+    (Ava held a thought)
+[  420s] 9:00 asked Ava,Ben,Dev | dominoes 115 | calls 87
+    Ava -> everyone: Belly's clear from the nose to (20.5, 25) with no gaps that I can see. Ben, go ahead and join the tail up into the start. Dev, the nose kink is yours, so I'm leaving it alone. I'll stay off the table 
+    (Dev held a thought)
+    (Ben held a thought)
+[  430s] 9:15 asked Ben,Dev | dominoes 118 | calls 89
+    Dev -> everyone: Dev: nose fix at (40,25.5) is in, and the inspection shows the belly and nose carrying through. Ben, the tail join from (20.5,25) is yours. Chloe, I'm still holding the top edge at (38.5,18) until you
+    (Ben held a thought)
+[  437s] 9:30 asked Ava,Ben,Chloe | dominoes 119 | calls 92
+    Ben -> everyone: Got it, Dev. The tail join from (20.5,25) up into the start is mine. Thanks, Ava, for the belly check. Chloe, I'm not touching your arc's first domino.
+    (Chloe held a thought)
+[  449s] 9:45 asked Ava,Chloe,Dev | dominoes 121 | calls 95
+    Chloe -> everyone: Dev, Ben: my arc's last domino is going in now, aimed at the first top-edge domino at (38.5, 18). I'll call it when it's standing so you can check the join.
+    (Dev held a thought)
+[  457s] 10:00 asked Ava,Ben,Chloe,Dev | dominoes 124 | calls 99
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Dev -> everyone: Ben, agreed on the kink at (23,20). Chloe, once your last domino at (37.6,17.4) is standing, I'll check the join into (38.5,18) before the top edge goes down.
+[  467s] 10:15 asked Ava,Ben,Chloe | dominoes 127 | calls 102
+    Chloe -> everyone: Dev, Ben: still placing that last domino at (37.6,17.4), aimed at your first top-edge domino. I'll call it the moment it's standing so you can check the join.
+    (Ben held a thought)
+[  479s] 10:30 asked Ava,Ben,Dev | dominoes 128 | calls 105
+    Ava -> Ben: Ben, I'm staying off your join until the tail's standing. Then I'll inspect from the start and call out any breaks. The two loose dominoes near (19, 19) look like they're on your side, so can you chec
+    Dev -> everyone: Chloe, I'm holding until your last domino is standing. Going by the picture, (37.6,17.4) to my first domino at (38.5,18) is about 1.1 apart, which is over the 0.9 reach. If you can, nudge it in to aro
+    (Ben held a thought)
+[  491s] 10:45 asked Ava,Ben,Chloe | dominoes 131 | calls 108
+    Ava -> Ben: Ben, got it. I'm not touching the tail or the loose pair near (19,19). I'm just taking a look from the start so we know what's still broken. Shout when the tail's standing.
+    Chloe -> everyone: Dev, good catch. I'm moving my last domino to around (37.9,17.7), about 0.7 behind your first top-edge domino on the fall line. I'll call it the moment it's standing so you can check the join.
+    (Ben held a thought)
+[  501s] 11:00 asked Ava,Ben,Dev | dominoes 133 | calls 111
+    Ava -> Ben: Ben, from the start my inspection shows the tail isn't joined yet. The start only carries about 18 dominoes, and the two loose ones near (19.5,19) are still sitting off to the side. Tell me when the t
+    Ben -> Ava: Ava, yes, I'll check the two loose ones near (19,19) once the tail is standing. Still eight to place on the join.
+[  510s] 11:15 asked Ava,Ben | dominoes 135 | calls 113
+    Ava -> Ben: Ben, sounds good. Still eight on the join? If you want, I can take the last few of the tail while you do the loose pair near (19,19). Otherwise I'll keep off and wait for you to call the re-check.
+    Ben -> Ava: Ava, two dominoes left on the tail. I'll shout when it's standing, then I'll check the loose pair at (19,19) and fix the kink at (23,20).
+[  517s] 11:30 asked Ava,Ben | dominoes 138 | calls 115
+[  526s] 11:45 asked Ben | dominoes 140 | calls 116
+    Ben -> everyone: Ava, I'm placing the last two tail dominoes now from (20.5,25) up into the start. I'll call it once they're standing, then check the loose pair at (19,19).
+[  534s] 12:00 asked Ava,Dev | dominoes 142 | calls 118
+    Ava -> Ben: Got it, Ben. I'm staying off the tail. Shout when it's standing and I'll inspect from the start.
+[  544s] 12:15 asked Ben,Dev | dominoes 146 | calls 120
+    Dev -> everyone: Inspection's in. From the start we reach about 18 dominoes, and the body is cut off at the tail. That matches Ben's join from (20.5,25) into the start, which isn't standing yet, so that's the one to c
+[  554s] 12:30 asked Ava,Ben,Chloe | dominoes 148 | calls 123
+    Chloe -> everyone: Dev, Ben: I've got the gap in my arc near (33,14) open, so I'm closing it now. After that the last domino goes in at (37.9,17.7), and I'll call it as soon as it's standing.
+    (Ben held a thought)
+[  563s] 12:45 asked Ava,Ben,Dev | dominoes 150 | calls 126
+    Dev -> Chloe: Thanks, Chloe. I'll check the join when you call it.
+    Ben -> everyone: Got it, Dev. The tail join from (20.5,25) up into the start is still going. I'll shout when it's standing so Ava can recheck, then I'll check the loose pair near (19,19).
+[  573s] 13:00 asked Ava,Chloe,Dev | dominoes 152 | calls 129
+    Ava -> Ben: Ben, I'm still off the tail. Shout when it's standing and I'll inspect from the start.
+    Chloe -> Dev: Got it, Dev. Closing the gap at (33,14) first, then the last domino at (37.9,17.7). I'll call it the moment it's standing.
+    Dev -> Ben: Sounds good, Ben. I'll wait for Chloe to call her last domino before I touch the top edge.
+[  579s] 13:15 asked Ben,Dev | dominoes 152 | calls 131
+    Ben -> Ava,Dev: Still placing the last few tail dominoes from (20.5,25) up into the start. I'll shout as soon as they're standing so Ava can check from the start.
+[  586s] 13:30 asked Ava,Ben,Dev | dominoes 154 | calls 134
+[  586s] 13:45 asked - | dominoes 155 | calls 134
+[  586s] 14:00 asked - | dominoes 157 | calls 134
+[  586s] 14:15 asked - | dominoes 158 | calls 134
+[  595s] 14:30 asked Ava,Ben,Dev | dominoes 160 | calls 137
+    Ben -> everyone: Hands are free, so I'm checking the tail from (20.5,25) up into the start before I call it. Ava, I'll shout as soon as it's confirmed standing, and I'll hold the loose pair and the kink until then.
+[  604s] 14:45 asked Ava,Ben,Dev | dominoes 162 | calls 140
+    Ben -> everyone: Tail's broken at (17.5,22.5): that line ends facing up-left with nothing ahead. I'm connecting it into the start from behind now. Ava, I'll call it once it's standing.
+[  614s] 15:00 asked Ava,Ben,Chloe,Dev | dominoes 165 | calls 144
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Ava -> Ben: Ben, got it. Still keeping off the tail. Shout when the connection at (17.5,22.5) is standing and I'll inspect from the start right away.
+    Dev -> Chloe: Chloe, five minutes left. Is the last domino at (37.9,17.7) standing yet? If it's not, tell me and I'll build the top edge last, after the rest is settled.
+    Chloe -> everyone: Five minutes. I'm still closing the gap at (33,14), then the last domino goes in at (37.9,17.7). Ben, the tail join from the start is the priority. I'll call each piece as it stands.
+    (Ben held a thought)
+[  622s] 15:15 asked Ava,Ben,Chloe,Dev | dominoes 167 | calls 148
+    Chloe -> Dev: Dev, not standing yet. I'm still closing the arc gap at (33,14). Then the last domino goes in at (37.9,17.7), about 0.7 behind your first top-edge domino. I'll call it the moment it's up so you can ch
+    Ava -> everyone: Five minutes. Ben's on the tail, Chloe's on the arc gap, and Dev's holding the top edge until that last domino stands. I'm off hands, so I'm taking a full look at the table now and I'll call out any b
+    (Ben held a thought)
+[  631s] 15:30 asked Ava,Ben,Chloe,Dev | dominoes 169 | calls 152
+    Dev -> Chloe: Chloe, the top edge is about two minutes of work and it waits on that last domino. If the arc gap at (33,14) is going to take more than a minute, put the (37.9,17.7) domino down first and call it.
+    Ava -> everyone: Inspection's in. Breaks: the loose pair at (19,19) and the tail near (17,21) are Ben's, and I'm staying off them. Nobody's on the kink at (24,16) on the top arc, so I'm closing it now. Shout if you're
+    (Ben held a thought)
+    (Chloe held a thought)
+[  642s] 15:45 asked Ava,Ben,Chloe,Dev | dominoes 171 | calls 156
+    Chloe -> everyone: Dev, the arc gap is going to take more than a minute, so I'm putting the (37.9,17.7) domino down now. I'll call it the moment it's standing, then I'm back on the gap at (33,14). Thanks, Ava, the kink'
+    (Ben held a thought)
+    (Ava held a thought)
