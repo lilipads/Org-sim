@@ -30,3 +30,75 @@
     (Grace held a thought)
     (Jack held a thought)
     (Tom held a thought)
+[  378s] 0:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 2 | calls 40
+    Maya -> everyone: Sounds good, Hana, I've got the bottom line. Tracing it now.
+    Sofia -> everyone: On stroke 1 now. I'll lay the start and lead-in, then everyone's strokes hang off the nose.
+    Leo -> everyone: Okay, I've got the lower tail, stroke 5.
+    (Sam held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[  386s] 1:00 asked Tom,Omar,Hana,Jack,Sam,Grace | dominoes 10 | calls 46
+    Jack -> everyone: Love it, Hana, nice sketch! Looks like everyone's covered, so I'll float. Once the lines are up I'll walk the chain from the start and patch any breaks, especially at the nose and where it all meets a
+    (Omar held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+[  394s] 1:15 asked Tom,Sofia,Omar,Hana,Sam,Grace | dominoes 19 | calls 52
+    Sofia -> everyone: Lead-in's done and it's connected to the start. I'm going to check the nose where the top and bottom lines split off.
+    (Grace held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+[  405s] 1:30 asked Tom,Sofia,Omar,Jack,Sam,Grace | dominoes 28 | calls 58
+    Jack -> everyone: Priya, are you on the upper tail, stroke 4? If you're stuck on something I can grab it, just say. Otherwise I'll keep floating.
+    (Omar held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+[  416s] 1:45 asked Tom,Priya,Sofia,Omar,Sam,Grace | dominoes 37 | calls 64
+    Sam -> everyone: Priya hasn't said anything, so I'm taking the upper tail, stroke 4. Priya, if you've already started it, tell me and I'll stop.
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[  425s] 2:00 asked Tom,Priya,Sofia,Omar,Jack,Sam,Grace | dominoes 45 | calls 71
+    Priya -> everyone: Sam, thanks, but I've got the upper tail, stroke 4. It's queued and starts as soon as the top line reaches the tail. Could you help Leo on the lower tail, or check the joint where the two tail lines m
+    (Sam held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+[  437s] 2:15 asked Tom,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 54 | calls 78
+    Sam -> everyone: Priya, you've got the upper tail, I'm backing off that one. Leo, shout if you want a hand on the lower tail. I'll look over the tail end meanwhile.
+    (Jack held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+[  447s] 2:30 asked Tom,Priya,Leo,Sofia,Omar,Jack,Grace | dominoes 63 | calls 85
+    Leo -> everyone: Thanks Sam, I'm queued on the lower tail and it kicks in once the bottom line gets there. Most useful would be watching the middle of the tail where the two lines cross.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+[  455s] 2:45 asked Maya,Tom,Sofia,Omar,Jack,Sam,Grace | dominoes 72 | calls 92
+    Sofia -> everyone: Sounds good, Priya and Leo. I'll watch where the body lines meet at the tail and patch anything there once they arrive.
+    Sam -> everyone: Got it, Leo. I'll watch the crossing and look it over once the lines get there.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+[  464s] 3:00 asked Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 91 | calls 100
+    Tom -> everyone: Sure, Leo, I'll keep an eye on the tail crossing once the lines get there and patch anything that breaks.
+    (Priya held a thought)
+    (Jack held a thought)
+[  476s] 3:15 asked Maya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 108 | calls 108
+    Maya -> everyone: Bottom line's done and it's reached the tail. I'm going to look over the crossing to make sure everything links up.
+    (Hana held a thought)
+[  492s] 3:30 asked Maya,Tom,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 122 | calls 116
+    Sofia -> everyone: Body and crossing look connected. I'll close the back edge of the tail fin between the two tips, so shout if you're about to work there.
+    (Jack held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Maya held a thought)

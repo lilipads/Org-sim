@@ -20,3 +20,81 @@
     (Grace held a thought)
     (Leo held a thought)
     (Tom held a thought)
+[  372s] 0:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 3 | calls 30
+    Leo -> everyone: Got it, Hana. I'll trace the bottom tail line, stroke five. Priya, the top one is yours.
+    Priya -> everyone: Got it, Hana. I'll trace the top tail line, stroke 4. Leo, can you take the bottom one, stroke 5?
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+[  385s] 0:45 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 5 | calls 38
+    Hana -> Maya,Tom: Pad's ready. Maya, trace stroke 2, the top of the body. Tom, stroke 3, the bottom. I'm finishing the lead-in from the start now.
+    Jack -> everyone: Nice sketch, Hana, and thanks for taking the lead. I'll stay off the strokes you've handed out so we don't trip over each other. One idea: the tail is open at the far right. A line joining the two tai
+    (Sam held a thought)
+    (Grace held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  398s] 1:00 asked Maya,Tom,Sofia,Omar,Hana,Sam,Grace | dominoes 8 | calls 45
+    Maya -> everyone: Got it, Hana. I'm taking the top of the body, stroke 2, now.
+    Tom -> everyone: Got it, Hana. I'll take stroke 3, the bottom of the body.
+    (Hana held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  411s] 1:15 asked Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 15 | calls 51
+    Hana -> everyone: Jack, good call on the fin. It's already on the pad as stroke 6, a straight line joining the two tail tips. It's yours to build once the tail lines are up. I'm finishing the lead-in from the start now
+    (Sam held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  421s] 1:30 asked Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 22 | calls 57
+    Sofia -> Maya,Tom: Maya, Tom, you're both working right at the nose, so watch your elbows. I'll float and check for breaks in a bit.
+    Sam -> everyone: I'm fixing a jammed domino right at the split. Hana, keep the bend gentle at the tail tips, and Jack's closing line is a good call.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  434s] 1:45 asked Maya,Tom,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 30 | calls 65
+    Sofia -> Sam: Sam, I just looked at the split. The jam by the end of the lead-in is what's keeping Maya's and Tom's lines pale, so once that's cleared both should light up. I'll stay out of your way. Shout if it do
+    Hana -> everyone: Sam, thanks. Tom's bottom line is still pale, so I'm joining it to the end of the lead-in now. Tom, keep going down toward the tail.
+    (Grace held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+[  442s] 2:00 asked Tom,Sofia,Omar,Sam,Grace | dominoes 40 | calls 70
+    Tom -> everyone: Thanks Hana, got it. Bottom line's coming along, heading for the tail now. Maya, I'll keep clear of your side.
+    Sam -> everyone: Thanks Sofia. Hana, you take Tom's line, I'll join Maya's top line to the end of the lead-in.
+    (Omar held a thought)
+    (Grace held a thought)
+[  454s] 2:15 asked Maya,Tom,Sofia,Omar,Hana,Grace | dominoes 52 | calls 76
+    Sofia -> Sam: Thanks Sam. I'll keep my hands off the split. Shout when both branches are joined and I'll check that they light up.
+    Hana -> everyone: Sam, you take the top join, I'll back off so we don't bump each other. I'm going to check the split and see what the push would actually knock over.
+    (Grace held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+[  467s] 2:30 asked Sofia,Omar,Hana,Sam,Grace | dominoes 65 | calls 81
+    Sofia -> Priya,Leo: Priya, Leo, the body lines are nearly out to the tail, so go ahead and start your tail strokes off the pad. Shout if you get stuck and I'll jump in on one.
+    Hana -> everyone: Sam, what's that little line dropping down from the split, where your hands are? It isn't on the plan and it could pull the fall off course. If it's a mistake, can you lift it? I'm fixing the bottom j
+    (Grace held a thought)
+    (Omar held a thought)
+[  479s] 2:45 asked Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 69 | calls 88
+    Grace -> Sam: Sam, that pale line dropping down from the split isn't on the plan, so I'm lifting it. If you're meant to be building something else, give me a shout. Otherwise could you help Priya and Leo get ready 
+    Hana -> everyone: Sam, I'm lifting that little line going down from the split. It's not on the plan. Could you go help Priya and Leo on the tail instead? Then Jack can close the fin.
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  492s] 3:00 asked Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 84 | calls 95
+    Omar -> everyone: Priya, Leo, I don't see anyone on the tail yet and we're at three minutes gone. I'll start the bottom tail line now. Priya, can you do the top one? Leo, hop on whichever one's still open.
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Grace held a thought)

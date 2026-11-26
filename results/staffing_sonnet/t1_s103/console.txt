@@ -41,3 +41,72 @@
 [   97s] 9:15 asked - | dominoes 20 | calls 10
 [   97s] 9:30 asked - | dominoes 25 | calls 10
 [   97s] 9:45 asked - | dominoes 30 | calls 10
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Priya"
+  ],
+  "skills": {
+    "Priya": {
+      "speed": 1.0,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 135.6,
+  "intents": {
+    "Priya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "dashed arc or trajectory path",
+      "bent road or river outline"
+    ],
+    [
+      "dominoes lined up along a curved arc, seen from above",
+      "a curved line of tick marks forming an arc",
+      "a hook-shaped stroke ending in a short horizontal bar"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a dashed arc or curved trajectory path",
+      "a bent wire or track with a horizontal end piece"
+    ]
+  ],
+  "placed": 30,
+  "fell": 30,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 3,
+  "messages_by_speaker": {
+    "Facilitator": 3
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Priya": 0
+  },
+  "usage": {
+    "calls": 24,
+    "failed": 0,
+    "input_tokens": 42,
+    "cache_creation_tokens": 53630,
+    "cache_read_tokens": 44322,
+    "output_tokens": 10176,
+    "seconds": 144.5,
+    "api_equivalent_usd": 0.2436,
+    "cached": 6
+  }
+}

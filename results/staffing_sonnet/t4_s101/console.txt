@@ -1,0 +1,14 @@
+[  312s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: How about a fish? The tail fin makes it obvious from the outline. I'll sketch it now, and then we can split the strokes up.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  323s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 8
+    Maya -> everyone: Fish it is, Priya. I've got the pad so I'm sketching it now. Grab a stroke each once it's up, and I'll take the lead-in from the start.
+    (Leo held a thought)
+    (Tom held a thought)
+[  332s] 0:30 asked Tom,Priya,Leo | dominoes 1 | calls 11
+    Leo -> everyone: Looks good. I've got stroke 1 from the nose. Tom, can you take the top body line, and Priya the bottom one? Maya, the two tail strokes are yours if you're free.
+    (Priya held a thought)
+    (Tom held a thought)

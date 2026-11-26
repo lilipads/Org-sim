@@ -1,0 +1,70 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.33,
+      "error": 0.7
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 153.1,
+  "intents": {
+    "Sofia": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a forked tail",
+      "bird in flight",
+      "curved arrow with fletching"
+    ],
+    [
+      "a fish with a forked tail",
+      "a bird in flight",
+      "a curved wave or stream splitting into two branches"
+    ],
+    [
+      "fish seen from the side",
+      "bird in flight",
+      "wishbone or bow"
+    ]
+  ],
+  "placed": 60,
+  "fell": 60,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 11,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 8
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Sofia": 0
+  },
+  "usage": {
+    "calls": 24,
+    "failed": 0,
+    "input_tokens": 42,
+    "cache_creation_tokens": 55135,
+    "cache_read_tokens": 44389,
+    "output_tokens": 12219,
+    "seconds": 161.8,
+    "api_equivalent_usd": 0.2746,
+    "cached": 6
+  }
+}

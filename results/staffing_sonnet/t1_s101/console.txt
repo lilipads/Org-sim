@@ -1,0 +1,50 @@
+[  314s] 0:00 asked Maya | dominoes 0 | calls 2
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  314s] 0:15 asked - | dominoes 0 | calls 2
+[  314s] 0:30 asked - | dominoes 0 | calls 2
+[  314s] 0:45 asked - | dominoes 0 | calls 2
+[  331s] 1:00 asked Maya | dominoes 0 | calls 3
+    Maya -> everyone: Going with a fish, nose on the left, forked tail on the right. Drawing it now.
+[  331s] 1:15 asked - | dominoes 4 | calls 3
+[  331s] 1:30 asked - | dominoes 9 | calls 3
+[  331s] 1:45 asked - | dominoes 14 | calls 3
+[  331s] 2:00 asked - | dominoes 19 | calls 3
+[  331s] 2:15 asked - | dominoes 23 | calls 3
+[  331s] 2:30 asked - | dominoes 27 | calls 3
+[  331s] 2:45 asked - | dominoes 31 | calls 3
+[  337s] 3:00 asked Maya | dominoes 36 | calls 4
+[  337s] 3:15 asked - | dominoes 41 | calls 4
+[  337s] 3:30 asked - | dominoes 45 | calls 4
+[  337s] 3:45 asked - | dominoes 50 | calls 4
+[  337s] 4:00 asked - | dominoes 55 | calls 4
+[  337s] 4:15 asked - | dominoes 60 | calls 4
+[  337s] 4:30 asked - | dominoes 65 | calls 4
+[  337s] 4:45 asked - | dominoes 66 | calls 4
+[  345s] 5:00 asked Maya | dominoes 69 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Fish is mostly up, but the body isn't connected to the tail yet. Fixing the joint and adding the top of the body.
+[  345s] 5:15 asked - | dominoes 74 | calls 5
+[  345s] 5:30 asked - | dominoes 78 | calls 5
+[  345s] 5:45 asked - | dominoes 83 | calls 5
+[  345s] 6:00 asked - | dominoes 88 | calls 5
+[  345s] 6:15 asked - | dominoes 93 | calls 5
+[  345s] 6:30 asked - | dominoes 98 | calls 5
+[  345s] 6:45 asked - | dominoes 102 | calls 5
+[  360s] 7:00 asked Maya | dominoes 105 | calls 7
+    Maya -> everyone: Almost there, finishing the top of the body now, then I'll check the joint by the tail.
+[  362s] 7:15 asked - | dominoes 106 | calls 7
+[  363s] 7:30 asked - | dominoes 107 | calls 7
+[  371s] 7:45 asked Maya | dominoes 107 | calls 8
+    Maya -> everyone: Bridging the joint at the tail now so the body connects.
+[  386s] 8:00 asked Maya | dominoes 107 | calls 9
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Body still isn't lighting up, checking the joint by the tail one more time.
+[  478s] 8:15 asked Maya | dominoes 107 | calls 11
+    Maya -> everyone: Bridging the gap right at the tail now, that should light the body up.
+[  487s] 8:30 asked Maya | dominoes 104 | calls 12
+    Maya -> everyone: Retracing the lower body and fin now so they hook onto the tail.
+[  487s] 8:45 asked - | dominoes 100 | calls 12
+[  487s] 9:00 asked - | dominoes 95 | calls 12
+[  487s] 9:15 asked - | dominoes 90 | calls 12
+[  487s] 9:30 asked - | dominoes 85 | calls 12
+[  487s] 9:45 asked - | dominoes 80 | calls 12
