@@ -151,3 +151,195 @@
 [ 1067s] 11:00 asked Maya,Grace,Sam,Leo | dominoes 106 | calls 130
     Maya -> Leo: Got it, Leo. One more to go, then I'll look at the turn. If it's still too sharp I'll ease it round.
     Leo -> everyone: I'm going to inspect along the whole bottom line for gaps while you two finish. I'm not touching anything.
+[ 1082s] 11:15 asked Grace,Sam,Leo | dominoes 102 | calls 133
+    Leo -> everyone: Inspect's done. The bottom line looks solid from the nose along to the right, no gaps. Two things: the turn at the nose is still too sharp, so Maya, ease it round. And there's a stub in the middle fac
+    (Grace held a thought)
+    (Sam held a thought)
+[ 1092s] 11:30 asked Maya,Grace,Sam | dominoes 98 | calls 136
+    Grace -> everyone: Sam, hands off the middle, you just pulled four of mine out of the bridge. Leave it alone. I'm finishing the connection from the body down into the bottom line now. Leo, Maya, keep easing the nose rou
+    (Maya held a thought)
+    (Sam held a thought)
+[ 1103s] 11:45 asked Maya,Sam,Leo | dominoes 101 | calls 139
+    Sam -> everyone: Sorry Grace, my bad, I thought those were leftovers. I'm off the middle for good. I'll just look at the nose join and shout if I see a gap.
+    (Leo held a thought)
+    (Maya held a thought)
+[ 1113s] 12:00 asked Grace,Sam | dominoes 102 | calls 141
+    Sam -> Maya,Leo: Maya, Leo, found it at the nose. The bottom line's end points up-left, and your line ends pointing down just above it. There's a small gap between them and nothing bridges it. That's probably why the 
+    Grace -> everyone: Thanks Sam. Connection's still going down, I'll inspect the second it's done. Keep eyes on the nose.
+[ 1119s] 12:15 asked Maya,Sam,Leo | dominoes 105 | calls 144
+    Leo -> everyone: Sam, thanks, that's the gap. I'm laying one curved join from the end of Maya's bridge into the start of the bottom line right now, so the turn is gradual. Maya, if you've got one down already it'll ju
+    (Maya held a thought)
+[ 1126s] 12:30 asked Maya,Grace,Sam | dominoes 108 | calls 147
+    Maya -> Leo: Leo, go for it, I'll step off the nose and let your curve be the join. Shout when it's down and I'll look at the whole fall.
+    Sam -> Leo,Maya: Leo, confirmed, I just looked at it. Maya's line ends pointing down with nothing ahead, and one domino right by the start of the bottom line sits off to the side. Your curved join should cover both. I
+    Grace -> everyone: Connection's still going down, nine to go. Stay off the middle. Leo, lay your nose join. I'll inspect the second mine's done.
+[ 1139s] 12:45 asked Maya,Sam,Leo | dominoes 111 | calls 150
+    Maya -> everyone: Grace, my hands are free, so I'll start the eye off the top line. Then you can stay on the split. Leo, shout when the nose join is down.
+[ 1151s] 13:00 asked Grace,Sam,Leo | dominoes 115 | calls 153
+    Sam -> Leo,Maya: Leo, I just looked at the nose and the gap is still open. Maya's line ends pointing down with nothing ahead, and the bottom line's first domino is off to the side. Shout when your join is down and I'l
+    Leo -> Maya: Still laying it, Maya, about a fifth of the way. Eye's fine by me, just keep it off the nose. I'll shout when it's down.
+    Grace -> everyone: Maya, yes, start the eye, and stay off the middle. Seven to go on my connection, then I inspect.
+[ 1159s] 13:15 asked Maya,Sam,Leo | dominoes 117 | calls 156
+    Maya -> everyone: Eye's going down off the top line, two more to go. I'm staying off the nose and the middle.
+[ 1169s] 13:30 asked Sam | dominoes 124 | calls 157
+    Sam -> everyone: Leo, Maya, the gap at the nose is still open. The first domino of the bottom line is sitting off to the side, and Leo's hands look like they're working below it. I'm going to nudge that one into line 
+[ 1178s] 13:45 asked Maya,Leo | dominoes 126 | calls 159
+    Leo -> Sam: Sam, hold on the fix. I'm about a third of the way through that join and it ends right at that off-to-the-side domino, so it should pick it up. If you nudge it now we'll just collide. I'll shout when 
+    Maya -> everyone: Okay, that last bit went toward the nose instead of the eye, my bad. I'm branching a little stub down off the top line right here for the eye, and I'm staying off the nose.
+[ 1184s] 14:00 asked Sam | dominoes 130 | calls 160
+    Sam -> Leo: Okay Leo, got it, I'm holding off and staying out of the nose. Shout when your join is down and I'll check that the bottom falls.
+[ 1190s] 14:15 asked Grace,Leo | dominoes 134 | calls 162
+    Grace -> everyone: Connection's down. I'm inspecting what falls now. Stay off the middle until I report.
+[ 1211s] 14:30 asked Grace,Sam | dominoes 137 | calls 165
+    Sam -> Leo: Leo, I'm just looking at the nose, not touching anything. I'll tell you if the bottom still looks pale.
+    Grace -> everyone: Bottom's not falling yet. The break is where my connection meets the bottom line, so I'm fixing that joint now. Stay off the middle. Sam, Leo, the nose turn is still too sharp, so get that eased. Maya
+[ 1221s] 14:45 asked Maya,Grace,Sam,Leo | dominoes 138 | calls 169
+    Leo -> Sam: Sam, still laying it, just under half down. I'll shout the moment it's done and then we check it. Stay off the nose please.
+    Sam -> everyone: Grace, Leo, the nose is still sharp and Leo's hands are down at the tail now, so I'm doing a quick fix on that one spot. Leo, shout if you're about to touch it.
+    (Grace held a thought)
+    (Maya held a thought)
+[ 1239s] 15:00 asked Maya,Grace,Sam,Leo | dominoes 140 | calls 174
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sam -> Leo,Grace: Leo, I'm on the nose fix now and you're down at the tail, so we're clear. I'll shout when it's done and then check that the bottom falls.
+    Leo -> Sam: Sam, please don't fix it yet. I'm just past the halfway mark on the join and it runs right into that off-to-the-side domino. If you nudge it now we'll collide. Give me about a minute, I'll shout when 
+    Grace -> everyone: New plan, no more fiddling with the middle. I'm running the loose end on the body line straight down into the bottom line. Everybody stay off the middle. Sam, Leo, get that nose turn eased and then st
+    (Maya held a thought)
+[ 1247s] 15:15 asked Maya,Grace,Sam,Leo | dominoes 142 | calls 178
+    Sam -> Leo,Grace: Okay Leo, you're right, I'm stopping my nose fix so we don't collide. It's all yours. Shout when it's down and I'll check that the bottom falls.
+    Leo -> everyone: Sam, Grace, I'm still laying the join, a bit over halfway. Sam, give it another minute, then we check the fall together. Grace, fine by me on the body line, I'm staying off the middle.
+    (Maya held a thought)
+    (Grace held a thought)
+[ 1255s] 15:30 asked Maya,Grace,Sam,Leo | dominoes 145 | calls 182
+    Grace -> everyone: Connection's going down now. Stay off the middle. I'll inspect the second it's in.
+    Maya -> everyone: Top line's left corner looked a bit jammed, so I'm easing just that one spot. I'm staying off the nose and the middle.
+[ 1261s] 15:45 asked Sam | dominoes 147 | calls 183
+[ 1273s] 16:00 asked Maya,Sam | dominoes 151 | calls 185
+    Maya -> everyone: Top corner's eased, I'm off it now. I'm going to look over the whole table to see what actually falls. Hands off everything, just looking.
+    (Sam held a thought)
+[ 1287s] 16:15 asked Maya,Sam | dominoes 153 | calls 187
+    Maya -> everyone: Okay, I looked over the whole table. The top, the left side and the body fall, but the whole bottom line is still pale. The body line's loose end, down by Grace's hands, stops short and nothing carrie
+    (Sam held a thought)
+[ 1296s] 16:30 asked Grace,Sam,Leo | dominoes 156 | calls 190
+    Sam -> everyone: Grace, I looked at the middle too. Your body line's lower end, right where you're working, still stops a hair short of the bottom line, so one or two more dominoes should close it. The little stub fac
+    (Grace held a thought)
+    (Leo held a thought)
+[ 1304s] 16:45 asked Maya,Grace,Sam,Leo | dominoes 157 | calls 194
+    Sam -> Grace: Grace, my hands are free and time's short, so I'm closing that last gap right where you're pointing with one quick fix. Shout if you're mid-domino there and I'll back off.
+    Leo -> Sam,Maya: Sam, Maya, still laying it, nine to go, ends right on that off-to-the-side domino. Leave the nose alone and I'll shout when it's in.
+    Grace -> everyone: Sam, yes, that's the bridge I'm laying now, a few more to go. Everybody stay off the middle. Leo, get the nose join down.
+    (Maya held a thought)
+[ 1312s] 17:00 asked Maya,Grace,Sam,Leo | dominoes 159 | calls 198
+    Grace -> Sam: Sam, stay off it, I'm mid-run there. Let me finish, then I'll shout and you can check the fall.
+    Sam -> everyone: Grace, got it, it's all yours, I'm staying off it. I'll just look over the whole table and tell you what falls once your bridge is in.
+    (Maya held a thought)
+[ 1318s] 17:15 asked Maya,Grace,Sam | dominoes 162 | calls 201
+    Grace -> everyone: Still laying it. Stay off the middle, I'll shout when it's in.
+    Maya -> everyone: Thanks Sam. Grace, bridge is yours, I'll keep clear. Leo, shout when the nose is down and I'll look over the whole table once more.
+[ 1325s] 17:30 asked Maya,Grace,Sam,Leo | dominoes 163 | calls 205
+    Grace -> everyone: Still laying the bridge, almost in. Everyone stay off the middle. I'll shout when it's down.
+    Leo -> everyone: Five to go on the nose join, Maya. I'll shout when it's down, then we check the fall.
+[ 1333s] 17:45 asked Maya,Sam | dominoes 166 | calls 207
+[ 1341s] 18:00 asked Maya,Grace,Sam,Leo | dominoes 168 | calls 211
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Grace -> everyone: Two minutes. Bridge is nearly in, stay off the middle. I'll shout when it's down, then we check the fall.
+    Leo -> everyone: Three to go on the nose join. I'll shout when it's in, then we check the fall.
+    (Maya held a thought)
+    (Sam held a thought)
+[ 1348s] 18:15 asked Maya,Sam | dominoes 170 | calls 213
+    Sam -> everyone: Grace, I looked at the middle. Where your bridge meets the bottom line still turns pretty sharply, so ease the last couple of dominoes into it. Leo, shout the second the nose is in. I'm hands-off on b
+    (Maya held a thought)
+[ 1356s] 18:30 asked Maya,Grace,Leo | dominoes 172 | calls 216
+    Leo -> everyone: Last one going in now. Shouting when it's down, then I'll check the nose.
+    Grace -> everyone: Almost in. Stay off the middle. I'll shout when it's down.
+[ 1364s] 18:45 asked Maya,Sam,Leo | dominoes 174 | calls 219
+    Leo -> everyone: Nose join's down. I'm checking it now, hands off that corner for a few seconds.
+    Maya -> everyone: Staying hands-off. I'll look over the whole table once your last ones are in. Grace, Leo, shout the second they're down.
+[ 1374s] 19:00 asked Maya,Grace,Sam,Leo | dominoes 176 | calls 223
+    Maya -> everyone: Grace's hands are down at the bottom, so I'm closing the little gap where the body line meets the bottom line. Just that one spot, then I'm off it.
+    (Leo held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+[ 1383s] 19:15 asked Maya,Grace,Sam | dominoes 178 | calls 226
+    Grace -> everyone: One minute. I'm finishing the bridge, Maya, thanks for the gap, just don't double up with me. Everyone off the middle after this.
+    Maya -> everyone: Trying one last bridge at that gap, then I'm off it.
+    (Sam held a thought)
+[ 1389s] 19:30 asked Maya,Sam | dominoes 179 | calls 228
+    Maya -> everyone: Grace, it's yours, I'm backing off so we don't double up.
+    Sam -> everyone: I'm hands-off, you two have the middle. Let it fall!
+[ 1394s] 19:45 asked Maya,Grace,Sam | dominoes 180 | calls 231
+    Grace -> everyone: Almost in. Everyone off the middle.
+    Maya -> everyone: Fingers crossed, everyone!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Grace",
+    "Sam",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1452.5,
+  "intents": {
+    "Maya": "fish",
+    "Grace": "fish",
+    "Sam": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sam"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a curved chain, seen from above",
+      "a hand-drawn closed loop, like a road or river map",
+      "a rope or wire outline with tick marks"
+    ],
+    [
+      "chain of fallen dominoes seen from above, tracing a curved path",
+      "hand-drawn closed loop or outline with tick-mark strokes",
+      "road or river map with curving routes and a branch"
+    ],
+    [
+      "fallen domino chain curving into a loop",
+      "hand-drawn outline of an island or lake",
+      "winding road or river with tick-mark markings"
+    ]
+  ],
+  "placed": 180,
+  "fell": 122,
+  "completion": 0.678,
+  "team_score": 0.0,
+  "first_domino_at": "0:15",
+  "messages": 141,
+  "messages_by_speaker": {
+    "Grace": 38,
+    "Sam": 34,
+    "Leo": 36,
+    "Maya": 29,
+    "Facilitator": 4
+  },
+  "held_thoughts": 50,
+  "parse_failures": {
+    "Maya": 0,
+    "Grace": 0,
+    "Sam": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 248,
+    "failed": 2,
+    "input_tokens": 504,
+    "cache_creation_tokens": 1376224,
+    "cache_read_tokens": 700956,
+    "output_tokens": 134062,
+    "seconds": 2459.2,
+    "api_equivalent_usd": 6.758
+  }
+}

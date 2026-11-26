@@ -1,0 +1,74 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Grace",
+    "Sam",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1452.5,
+  "intents": {
+    "Maya": "fish",
+    "Grace": "fish",
+    "Sam": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sam"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a curved chain, seen from above",
+      "a hand-drawn closed loop, like a road or river map",
+      "a rope or wire outline with tick marks"
+    ],
+    [
+      "chain of fallen dominoes seen from above, tracing a curved path",
+      "hand-drawn closed loop or outline with tick-mark strokes",
+      "road or river map with curving routes and a branch"
+    ],
+    [
+      "fallen domino chain curving into a loop",
+      "hand-drawn outline of an island or lake",
+      "winding road or river with tick-mark markings"
+    ]
+  ],
+  "placed": 180,
+  "fell": 122,
+  "completion": 0.678,
+  "team_score": 0.0,
+  "first_domino_at": "0:15",
+  "messages": 141,
+  "messages_by_speaker": {
+    "Grace": 38,
+    "Sam": 34,
+    "Leo": 36,
+    "Maya": 29,
+    "Facilitator": 4
+  },
+  "held_thoughts": 50,
+  "parse_failures": {
+    "Maya": 0,
+    "Grace": 0,
+    "Sam": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 248,
+    "failed": 2,
+    "input_tokens": 504,
+    "cache_creation_tokens": 1376224,
+    "cache_read_tokens": 700956,
+    "output_tokens": 134062,
+    "seconds": 2459.2,
+    "api_equivalent_usd": 6.758
+  }
+}

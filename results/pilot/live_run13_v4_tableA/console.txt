@@ -1,0 +1,91 @@
+[   20s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 2 | calls 5
+    Priya -> everyone: Shall we do a fish? The run goes in from the left to the head, splits round the body top and bottom, and meets again at the tail. I'll start the lead-in line now. Maya, could you take the top curve of
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  113s] 0:15 asked Maya,Tom,Leo | dominoes 8 | calls 9
+    Leo -> everyone: Sounds good, fish it is. I'll take the tail and the eye. I'll start the tail at the far right and join it up once the body lines get there.
+    (Maya held a thought)
+    (Tom held a thought)
+[  113s] 0:30 asked - | dominoes 13 | calls 9
+[  113s] 0:45 asked - | dominoes 19 | calls 9
+[  128s] 1:00 asked Tom | dominoes 23 | calls 10
+    Tom -> everyone: Okay, I'm on the bottom curve. I'll branch off just past where Priya's line ends and curve down and round.
+[  135s] 1:15 asked Priya | dominoes 29 | calls 11
+    Priya -> everyone: Sounds good, Tom. My line runs on just a bit further, then you two branch off from there.
+[  142s] 1:30 asked Tom | dominoes 35 | calls 12
+    Tom -> everyone: Got it Priya. I'll keep going on the bottom curve, and I'll stay clear of your end so we don't bump each other.
+[  149s] 1:45 asked Priya | dominoes 40 | calls 13
+[  149s] 2:00 asked - | dominoes 46 | calls 13
+[  154s] 2:15 asked Maya,Leo | dominoes 50 | calls 15
+    Maya -> everyone: Fish works for me. I'm on the top curve, from the nose up and over to the tail.
+[  166s] 2:30 asked Tom,Priya | dominoes 54 | calls 17
+    Priya -> everyone: Lead-in's done. I'm going to check the split where Maya's and Tom's lines branch off, since the top curve still looks unconnected.
+    Tom -> everyone: Bottom curve's coming along. I'll carry on round the belly toward the tail.
+[  186s] 2:45 asked Maya,Tom,Priya | dominoes 59 | calls 21
+    Maya -> everyone: Yep, the top curve's still going, so it's not hooked in at the nose yet. If you're there and can nudge that first bit of it into the lead-in, go for it. Otherwise I'll sort the join when I've finished
+    (Priya held a thought)
+    (Tom held a thought)
+[  194s] 3:00 asked Maya,Priya | dominoes 65 | calls 23
+    Priya -> everyone: Oops, that was me. I bumped the table near the split and some came down. Standing them back up now. Tom, sorry, I'll keep clear of your branch.
+[  199s] 3:15 asked Tom | dominoes 70 | calls 24
+    Tom -> everyone: No worries Priya, my branch looks fine. I'm carrying on round the belly.
+[  205s] 3:30 asked Priya | dominoes 76 | calls 25
+    Priya -> everyone: Thanks Tom. I'm just closing the gap at the nose so Maya's top curve hooks in, then I'll stay out of your way.
+[  223s] 3:45 asked Maya,Tom,Leo | dominoes 80 | calls 28
+    Leo -> everyone: I'm adding the eye now, just above the lead-in behind the head. Tail's standing on the right, ready for the body lines to run into the point where its two arms meet.
+    (Maya held a thought)
+[  223s] 4:00 asked - | dominoes 86 | calls 28
+[  230s] 4:15 asked Tom | dominoes 91 | calls 29
+    Tom -> everyone: Belly's reaching the middle. I'm carrying it on toward the tail now.
+[  242s] 4:30 asked Leo | dominoes 96 | calls 30
+    Leo -> everyone: Eye's in. I'll keep an eye on the tail end and join the body lines into it once they get close. Maya, Tom, shout when you're near and I'll do the last hookup.
+[  257s] 4:45 asked Maya,Tom,Leo | dominoes 99 | calls 33
+    Leo -> Maya: Maya, I'm closing the little kink in your top line just behind your hands. Shout if you'd rather I leave it.
+    Tom -> everyone: Will do, Leo. The belly's about halfway to the tail. I'll shout when I'm close, then you can do the hookup.
+    (Maya held a thought)
+[  263s] 5:00 asked Maya,Leo | dominoes 104 | calls 35
+    Maya -> Leo: Thanks Leo, go ahead. I'm nearly done with the curve and I'll shout when I'm close to the tail.
+[  272s] 5:15 asked Leo | dominoes 108 | calls 36
+    Leo -> Maya: Maya, I'll join the top curve into your long top line, just where the curve ends before it meets the straight bit.
+[  281s] 5:30 asked Maya,Priya,Leo | dominoes 113 | calls 39
+    Maya -> Leo: Sounds good Leo, go for it. I've got a few left on the curve, then I'll check the nose hookup.
+    Leo -> everyone: Top curve is joined into Maya's line. I'm going to check the nose end to make sure it all hooks in from the lead-in.
+[  290s] 5:45 asked Maya,Leo | dominoes 116 | calls 41
+    Maya -> Leo: Great, thanks Leo. I'm finishing the last few on the curve, then I'll look at the nose myself.
+    Leo -> everyone: I'm hooking the nose in now, so the top curve actually gets knocked by the lead-in.
+[  295s] 6:00 asked Leo | dominoes 122 | calls 42
+[  295s] 6:15 asked - | dominoes 127 | calls 42
+[  296s] 6:30 asked - | dominoes 134 | calls 42
+[  312s] 6:45 asked Maya,Tom | dominoes 136 | calls 45
+    Maya -> Leo,Tom: Leo, my curve's done and it's right up at the tail now. Whenever you're ready, can you do the hookup there? Tom's belly is nearly there too. I'll take a close look at that end.
+    Tom -> everyone: Leo, the belly's almost at the tail. Just finishing the last couple, then I'll join it in myself unless you've got a hand free there.
+[  321s] 7:00 asked Maya,Tom,Leo | dominoes 140 | calls 48
+    Leo -> Maya,Tom: Tom, go ahead and join the belly into the tail yourself, you're right there. I'm just finishing the nose hookup. Then I'll bring Maya's top end into the tail point, and we can check the whole run toge
+    Maya -> everyone: Leo, I'm closing the little gap at the tail on my curve now. Tom, you take the belly join. Then I'll check the whole run from the start.
+    (Tom held a thought)
+[  337s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 142 | calls 52
+    Tom -> everyone: Sorry Maya, that was me bumping the tail end again. I'm standing the fallen ones back up now, then I'll hook the belly in and shout when it's done.
+    (Priya held a thought)
+    (Leo held a thought)
+[  343s] 7:30 asked Maya | dominoes 142 | calls 53
+    Maya -> Tom: Thanks Tom, no worries. I'll finish my bridge at the top of the tail, you do the belly side, and I'll keep out of your patch so we don't knock each other. Shout when it's hooked in and I'll check the 
+[  348s] 7:45 asked Tom | dominoes 144 | calls 54
+    Tom -> everyone: On it Maya, still joining the belly into the tail. I'll shout the moment it's hooked in.
+[  353s] 8:00 asked Maya | dominoes 145 | calls 55
+[  353s] 8:15 asked - | dominoes 147 | calls 55
+[  353s] 8:30 asked - | dominoes 148 | calls 55
+[  353s] 8:45 asked - | dominoes 149 | calls 55
+[  361s] 9:00 asked Maya | dominoes 150 | calls 56
+    Maya -> everyone: Bridge at the top of the tail is done. I'm going to look over the whole run from the start now, because only about half of it would fall at the moment. Tom, shout when the belly's hooked in.
+[  373s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 152 | calls 60
+    Maya -> everyone: Leo, the top curve still isn't catching from the lead-in, so I'm closing the gap at the nose now. Tom, shout when the belly's hooked in at the tail.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  382s] 9:30 asked Tom,Leo | dominoes 154 | calls 62
+    Leo -> Maya: Maya, you take the nose gap, I'll stay out of your way so we don't bump each other. I'm going to look over the whole run and see what still isn't connected.
+    Tom -> everyone: Still joining the belly in, about a third of the way. I'll shout the moment it's hooked.
+[  393s] 9:45 asked Maya,Leo | dominoes 156 | calls 64
+    Maya -> Leo: Thanks Leo. I'll finish the nose, then look at the lower row and the arms at the tail.
+    Leo -> everyone: Maya, Tom, I'm staying out of your way. Once the nose and the belly are both hooked in, shout and I'll check what still doesn't fall. The little loose line under the mouth is the one I'd look at next.

@@ -1,0 +1,38 @@
+[   15s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 1 | calls 4
+    Sofia -> everyone: Ooh, how about a fish? Big round body, triangle tail, super recognizable. I'll start the first line at the nose here on the left, and it can split round the top and bottom of the body. Omar, Hana, wan
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[   28s] 0:15 asked Omar,Hana,Jack | dominoes 5 | calls 7
+    Hana -> everyone: Fish works for me, and I'd already sketched the same idea. I'll take the bottom side, Omar can take the top, and Jack the tail. I'm putting the outline on the pad so we all aim at the same shape.
+    (Jack held a thought)
+    (Omar held a thought)
+[   38s] 0:30 asked Omar,Jack | dominoes 6 | calls 9
+    Omar -> everyone: Fish works for me. Okay, I'll take the top curve like it says on the pad, Hana's got the bottom. Sofia, shout when the split is standing and I'll hook onto it.
+    (Jack held a thought)
+[   50s] 0:45 asked Sofia,Hana,Jack | dominoes 9 | calls 12
+    Hana -> everyone: Okay, I'm starting the bottom curve off the end of the nose line now. Sofia, if you're making the split there, leave the lower side to me.
+    (Jack held a thought)
+    (Sofia held a thought)
+[   61s] 1:00 asked Sofia,Omar,Jack | dominoes 11 | calls 15
+    Sofia -> everyone: Got it, Hana, the bottom's all yours. I'm finishing the lead-in, then I'll start the top branch off the nose. Omar, hook on once it's standing.
+    (Jack held a thought)
+    (Omar held a thought)
+[   72s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 14 | calls 19
+    Hana -> Sofia: Thanks Sofia, I've got the bottom. Heads up that I'm curving down and away from the nose, so keep the top branch on your side.
+    Sofia -> everyone: Lead-in's standing. I'm starting the top branch now, curving up toward Omar. Omar, hook on when it gets near you. Hana, the bottom is yours.
+    (Omar held a thought)
+    (Jack held a thought)
+[   81s] 1:30 asked Sofia,Omar,Hana,Jack | dominoes 17 | calls 23
+    Hana -> Sofia: Sounds good, Sofia. I'm on the bottom and heading toward the belly, so the top is all yours.
+    Omar -> everyone: I'm laying the top curve from up here now, starting just above the nose. Sofia, send the upper branch up toward this end and I'll hook it in.
+    (Jack held a thought)
+[   89s] 1:45 asked Sofia,Jack | dominoes 21 | calls 25
+    Sofia -> everyone: Almost there, Omar. The top branch is climbing toward your start now, and it'll be a wide curve so it doesn't snap. Hana, bottom's all yours, I'll stay off it.
+    (Jack held a thought)
+[   96s] 2:00 asked Omar,Hana,Jack | dominoes 24 | calls 28
+    Omar -> Sofia: Nice, I see it coming up. I'll keep laying the arc, and once your branch is close I'll hook the two together.
+    Hana -> Sofia: Thanks Sofia, got it. I'm carrying on round the belly, will shout when the bottom reaches the tail end.
+    Jack -> everyone: Fish it is, great call Sofia! I'll hang back on the tail until your lines get round to the back. Shout when they're near.
+[  106s] 2:15 asked Sofia | dominoes 27 | calls 29
+    Sofia -> everyone: Almost done with my bit, Omar. Once it's up I'll tie it into the side of your line, so don't worry about the exact start.
