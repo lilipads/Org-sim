@@ -130,3 +130,24 @@
     Grace -> everyone: Sam, yes, stay off the split, my branch is down. Clear that leftover cluster in the middle. Leo, go help Maya at the nose. I'm inspecting what falls now.
     (Sam held a thought)
     (Maya held a thought)
+[ 1015s] 10:00 asked Maya,Grace,Sam,Leo | dominoes 128 | calls 116
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Leo: Leo, yes, that's my bridge. Go ahead and take out the loose end facing up-left. I'm nudging the crooked one into line now, then we'll see if the top runs into the bottom.
+    Grace -> everyone: Split's still turning too sharp. I'm fixing that joint right now, so everybody stay off it. Sam, finish clearing the middle cluster. Leo, stay with Maya on the nose.
+    (Sam held a thought)
+    (Leo held a thought)
+[ 1025s] 10:15 asked Maya,Sam,Leo | dominoes 126 | calls 119
+    Leo -> Maya: Maya, taking out the loose end now. I'll leave your bridge and the start of the bottom line alone.
+    Sam -> everyone: Thanks Grace, I'm staying off the split. I took out the one stray stub and I'm checking the bottom line now before I touch anything else in the middle.
+[ 1043s] 10:30 asked Maya,Grace,Sam,Leo | dominoes 120 | calls 123
+    Maya -> Leo: Thanks Leo, that's perfect. Three more in my bridge and then I'll check whether the top runs into the bottom.
+    Leo -> Maya: Loose end's out, Maya. I'm looking at whether your bridge runs into the start of the bottom line.
+    Grace -> everyone: Fix put nothing down, so I'm looking at the split properly. Everybody stay off it.
+    (Sam held a thought)
+[ 1057s] 10:45 asked Maya,Grace,Leo | dominoes 108 | calls 126
+    Maya -> Leo: Thanks Leo. Two more to go, then I'll check if it runs through.
+    Leo -> Maya: Maya, the inspect says the turn right at the nose is still too sharp, where the top comes down and the bottom line starts heading right. Your last three should curve gradually, down and then round to 
+    Grace -> everyone: Split's still a mess, so I'm clearing the jammed dominoes there and relaying it clean. Stay off it.
+[ 1067s] 11:00 asked Maya,Grace,Sam,Leo | dominoes 106 | calls 130
+    Maya -> Leo: Got it, Leo. One more to go, then I'll look at the turn. If it's still too sharp I'll ease it round.
+    Leo -> everyone: I'm going to inspect along the whole bottom line for gaps while you two finish. I'm not touching anything.
