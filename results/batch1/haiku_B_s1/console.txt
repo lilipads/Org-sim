@@ -4,3 +4,254 @@
     (Hana held a thought)
     (Omar held a thought)
     (Jack held a thought)
+[   30s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Fish works for me. Sofia, that spot is the tail, so the start goes there and the run goes along the top to the nose. Once your sketch is up I'll trace stroke 1 from the tail. Anyone who wants to take 
+    (Jack held a thought)
+    (Omar held a thought)
+[   40s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Jack -> everyone: Yes, Sofia, a fish is perfect, and your pad sketch is clearer than what I had in mind. Stroke 1 from the tail to the nose, then the bottom back: nice. I'll take the tail fork once the body's standing,
+    (Sofia held a thought)
+    (Omar held a thought)
+[   53s] 0:45 asked Sofia,Omar,Hana,Jack | dominoes 10 | calls 14
+    Sofia -> everyone: Yes, fish with the tail on the left. The sketch is up: top body from the tail to the nose, bottom back to the tail, and two tail fins. Hana, trace stroke 1 from the tail. I'll take stroke 2 once the t
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[   61s] 1:00 asked Omar,Hana,Jack | dominoes 24 | calls 17
+    Hana -> everyone: I'm tracing the top line from the tail to the nose now. Omar, if you're free, take the bottom run once the top is up.
+    (Omar held a thought)
+    (Jack held a thought)
+[   71s] 1:15 asked Omar,Hana | dominoes 38 | calls 19
+    Hana -> everyone: Top body's going down from the tail. I'm doing the two tail fins off the start next. Omar, the bottom run's yours if you want it.
+    (Omar held a thought)
+[   77s] 1:30 asked Omar | dominoes 56 | calls 20
+    Omar -> everyone: Yep, I've got the bottom, nose back to the tail. Hana, you've got the top. Jack's already by the tail, so let's give him the fins and the tail fork to avoid doubling up. I'll check the tail joints onc
+[   87s] 1:45 asked Hana,Jack | dominoes 71 | calls 22
+    Hana -> everyone: Omar, I'm already on the tail fins, so I'll keep them. Jack, the tail fork is yours once the body's up. Omar, the bottom run from the nose back to the tail is yours.
+    (Jack held a thought)
+[   95s] 2:00 asked Omar,Jack | dominoes 87 | calls 24
+    Omar -> Hana: Got it, Hana. Bottom's mine, nose back to the tail. You keep the top and the fins.
+    Jack -> everyone: Hana, heads up: the upper fin's standing and I'm on the lower fin off the start now. You keep going on the top body, and I'll take the tail fork once it's up.
+[  103s] 2:15 asked Hana | dominoes 102 | calls 25
+    Hana -> everyone: Jack, heads up: my trace covers both fins, the upper and the lower. If you've already started the lower one, check it lines up with mine and we'll keep only one. The tail fork is yours once the body's
+[  114s] 2:30 asked Sofia,Jack | dominoes 112 | calls 27
+    Sofia -> everyone: Heads up, everyone: my bottom run is already standing from the tail to the nose, so Omar, you don't need to lay another one. Hana's got the top and both fins, so Jack, check your lower fin against her
+    (Jack held a thought)
+[  123s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 116 | calls 31
+    Hana -> everyone: Sofia's bottom is up, so Omar, you're free. Jack, my trace covers both fins. If your lower fin is already down, line it up with mine and we keep one. I'll do the eye after the fins.
+    (Jack held a thought)
+    (Omar held a thought)
+[  133s] 3:00 asked Sofia,Omar,Jack | dominoes 122 | calls 34
+    Sofia -> everyone: Quick status: the bottom run is standing tail to nose, and the start chain reaches almost everything. The loose bits are up by Hana's top body, so Hana, those are yours. Jack, if your lower fin is dow
+    (Omar held a thought)
+    (Jack held a thought)
+[  146s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 38
+    Omar -> Sofia: Sofia, I'm done with my last domino on the top line. I'm checking the tail joints now, so tell me if you want me on the nose instead.
+    Hana -> everyone: Fins are down. I'm checking the loose bits by the top body now. Jack, if your lower fin is down, tell me and we'll keep only one.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  157s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 42
+    Omar -> Sofia: Sofia, the bottom line looks like it stops out here, short of the nose. Is that a gap, or is it just the picture?
+    Sofia -> everyone: Omar, the nose is clean, so no need there. Stay on the tail joints. Jack, is your lower fin down? If it is, line it up with Hana's and we keep only one.
+    (Hana held a thought)
+    (Jack held a thought)
+[  166s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 124 | calls 46
+    Sofia -> Omar: Omar, you're right to ask. I was going from memory, and the bottom looks like it stops out here. I'm inspecting that stretch now, and I'll tell you if it's a real gap.
+    Omar -> everyone: Sofia, the bottom line really does stop out here, about halfway to the nose. I'm carrying it on from that end to the nose now. Don't need another run.
+    (Hana held a thought)
+    (Jack held a thought)
+[  177s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 128 | calls 50
+    Sofia -> Omar: Omar, the inspection says it's a real gap, so carry on from there to the nose. I'll stay off that stretch. I'll keep an eye on the tail joints and the start chain.
+    Hana -> everyone: Fixing the loose bits by the top body now. Jack, if your lower fin is down, line it up with mine and we keep only one. Sofia, Omar says the bottom stops about halfway, so can you check that middle joi
+    (Jack held a thought)
+[  187s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 131 | calls 54
+    Jack -> everyone: Hana, your trace covers both fins, so I'm lifting my lower one. Thanks for the heads up, and the fins read nicely. Sofia, Omar, good catch on the bottom stopping halfway. I'll hold off on the tail for
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  198s] 4:30 asked Sofia,Omar,Hana | dominoes 133 | calls 57
+    Omar -> everyone: Hana, Sofia, quick one: I'm already on the gap out here, carrying the bottom from where it stops to the nose. I'll finish it. Sofia, the middle join's yours, so we don't double it.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  210s] 4:45 asked Sofia,Hana,Jack | dominoes 136 | calls 60
+    Sofia -> everyone: Got it, Omar's carrying the bottom gap to the nose, so I'm checking the middle join now and won't touch that stretch. Hana, you keep the top and the loose bits by the body. I'll shout if the join is o
+    (Hana held a thought)
+    (Jack held a thought)
+[  221s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> Hana: Hana, my lower fin's lifted, so you've got the fins. I'm keeping my hands off the tail and the start, and I'll wait for you to say the top's reached the tail before I go near the fork.
+    Sofia -> everyone: Middle join checks out: the start chain carries through it. Omar, the bottom gap is yours, so I'm not touching it. Hana, the loose bits by the top body are still the only things off the chain, so thos
+    (Hana held a thought)
+    (Omar held a thought)
+[  231s] 5:15 asked Omar,Hana,Jack | dominoes 136 | calls 67
+    Hana -> everyone: Sofia, Omar, I'm staying off the bottom and its gap. The loose bits by the top body are mine, and I'm checking my two fixes there now.
+    (Omar held a thought)
+[  239s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 71
+    Hana -> everyone: Inspect's back: seven loose ones by the top body, at the joint I'm pointing at and the one just past it. I'm closing both now. Sofia, Omar, I'm off the bottom.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  251s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 75
+    Sofia -> everyone: Whole-table inspect is back. The start chain covers everything except the seven loose ones by the top body, and Hana's closing those. Two jammed spots to check: one right at the nose, where the next d
+    (Omar held a thought)
+    (Jack held a thought)
+[  260s] 6:00 asked Omar,Hana,Jack | dominoes 136 | calls 78
+    Omar -> everyone: Sofia, Hana, the bottom's connected from the gap right through to the nose now, so nothing more on that stretch. I'm fixing the jammed domino at the nose, nothing else. Hana, the tail one's yours.
+    (Hana held a thought)
+    (Jack held a thought)
+[  270s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 82
+    Hana -> everyone: Got it, Omar. Closing the two fixes by the top body now, then I'll check the upper tail fin. I'm staying off the bottom.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  284s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 86
+    Jack -> Hana: Nice one, Hana. Those seven loose ones were the last thing off the chain. I'm keeping my hands off the top and the tail until you say it's clear.
+    Sofia -> everyone: Hana, Omar, the inspect shows about ten loose ones just left of the start, round the tail fins. Hana, are those yours with the upper fin, or should I take them? I'm holding my hands until one of you s
+    (Omar held a thought)
+[  295s] 6:45 asked Omar,Hana,Jack | dominoes 136 | calls 89
+    Hana -> everyone: Sofia, the upper fin's mine, so I'll take the loose ones up there after my top fixes. Could you take the ones nearest the start, just left of it? Don't go near the bottom or the nose.
+    (Jack held a thought)
+    (Omar held a thought)
+[  302s] 7:00 asked Sofia,Omar,Jack | dominoes 136 | calls 92
+    Jack -> everyone: Sofia, I'm right beside those with empty hands. Hana, if you're still on the upper fin, I can take whatever Sofia doesn't reach just left of the start and leave the fin to you. Just say the word.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  312s] 7:15 asked Sofia,Omar,Hana | dominoes 136 | calls 95
+    Hana -> everyone: Jack, yes please: take whatever Sofia doesn't reach just left of the start. Sofia, if you're already on those, carry on. I've got the upper fin and the jammed one at its tail. Nobody touch the bottom 
+    (Sofia held a thought)
+    (Omar held a thought)
+[  321s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 99
+    Hana -> everyone: Jack, thanks, you've got the loose ones by the start. I'm restanding the upper fin and closing the jam at its tail now. Nobody touch the bottom or the nose.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  331s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 103
+    Jack -> everyone: Got it, Hana. I'm standing up the loose ones just left of the start now. Sofia, if you've already got any of those, shout and I'll leave them to you.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  340s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 107
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Jack, Sofia, I'm restanding the upper fin now and checking the jam at its tail by eye. Staying off the bottom and the nose.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  348s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 111
+    Sofia -> everyone: Hana, Jack, I've got the tail-left cluster from the left fin down to the start's left edge. Jack, you take the bit right beside the start. I'm restanding mine now, and I'm staying off the bottom and t
+    (Omar held a thought)
+[  357s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 115
+    Hana -> everyone: Sofia, Jack, got it. You've both got the left cluster and the bit beside the start. I've got the upper fin and the jam at its tail. Restanding the fin now.
+    (Omar held a thought)
+    (Jack held a thought)
+[  366s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 119
+    Jack -> everyone: Sofia, I've got the bit right beside the start, the little stretch just left of it. Restanding that now. The rest of the left cluster is yours, and I'm keeping off the start itself.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  374s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 123
+    Hana -> everyone: Restanding the upper fin and closing the jam at its tail now. Staying off the bottom and the nose.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  382s] 9:15 asked Sofia,Omar,Jack | dominoes 136 | calls 126
+    Jack -> everyone: Sofia, Hana, I'm on the little stretch right beside the start, standing those up now. Leaving the rest of the left cluster to you, Sofia.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  391s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 136 | calls 130
+    Sofia -> everyone: Hana, Jack, the tail-left cluster is restood from the left fin down to the start's left edge. I'm checking it's joined through, and I'm staying off the bottom and the nose. Hana, the five loose ones a
+    (Jack held a thought)
+    (Omar held a thought)
+[  400s] 9:45 asked Omar,Hana,Jack | dominoes 136 | calls 133
+    Jack -> everyone: Sofia, Hana, the little stretch right beside the start is standing now. I'm checking it's joined through before the push. Hands off the start and the rest of the left cluster.
+    (Hana held a thought)
+    (Omar held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Omar": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Hana": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Jack": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 459.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish with scribbled head",
+      "leaf or seed pod",
+      "bug or shrimp"
+    ],
+    [
+      "fish facing left with scribbled head",
+      "bird or duck in side view",
+      "leaf or seed pod with scribbled edge"
+    ],
+    [
+      "fish seen from the side",
+      "leaf or seed pod with a scribbled stem",
+      "bird or insect body with scribbled head"
+    ]
+  ],
+  "placed": 136,
+  "fell": 129,
+  "completion": 0.949,
+  "team_score": 0.949,
+  "first_domino_at": "0:45",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Hana": 17,
+    "Jack": 10,
+    "Omar": 7
+  },
+  "held_thoughts": 74,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 0,
+    "input_tokens": 312,
+    "cache_creation_tokens": 808916,
+    "cache_read_tokens": 439830,
+    "output_tokens": 135779,
+    "seconds": 1221.3,
+    "api_equivalent_usd": 0.2341
+  }
+}

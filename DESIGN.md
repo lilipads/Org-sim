@@ -296,6 +296,24 @@ in shuffled orders with varied hands. 30 games each:
 - without repairs: 19/30 games at 90%+ falling, mean 86%;
 - with free hands fixing visible breaks: **25/30 at 90%+, 28/30 at 85%+, mean 94%**.
 
+### 4.4i Batch 1 and the fixes after it
+
+Batch 1 (six 10-minute AI games right after the tracing redesign): **4 of 6 recognized as a fish**,
+against 1 of 9 before. The two failures came from sketch shapes the engine didn't handle:
+- **Stroke through a junction:** a V tail drawn as one stroke through the start never counted as
+  connected. Strokes are now split at connection points, and both halves flow outward.
+- **Two lines leaving the same point at once:** both builders carried on from the same line end and
+  collided. The second now branches off the side.
+- **An impossible start:** lines leaving START in opposite directions can't be fed by one falling
+  domino, so START moves to the nearest sketch end where the lines leave within about 100°.
+- **Deadlock:** everyone waited on strokes that needed stroke 1, and nobody took stroke 1. Agents
+  hear every 2 minutes that they're still waiting, and the rulebook says stroke 1 leaves the start.
+- **Loops while tracing:** the copying hand now follows the drawn line by looking about 2 units ahead
+  along it, instead of aiming at each point in turn. It can't loop and it cuts corners smoothly.
+
+Scripted check after these fixes (20 games each, free hands repair breaks): typical fish 17/20 at
+90%+ (mean 94%); lead-in sketch 17/20 (mean 93%); V-tail sketch 10/20 at 90%+, 15/20 at 85%+ (mean 88%).
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

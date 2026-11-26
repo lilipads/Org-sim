@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Omar": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Hana": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Jack": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 459.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish with scribbled head",
+      "leaf or seed pod",
+      "bug or shrimp"
+    ],
+    [
+      "fish facing left with scribbled head",
+      "bird or duck in side view",
+      "leaf or seed pod with scribbled edge"
+    ],
+    [
+      "fish seen from the side",
+      "leaf or seed pod with a scribbled stem",
+      "bird or insect body with scribbled head"
+    ]
+  ],
+  "placed": 136,
+  "fell": 129,
+  "completion": 0.949,
+  "team_score": 0.949,
+  "first_domino_at": "0:45",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Hana": 17,
+    "Jack": 10,
+    "Omar": 7
+  },
+  "held_thoughts": 74,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 0,
+    "input_tokens": 312,
+    "cache_creation_tokens": 808916,
+    "cache_read_tokens": 439830,
+    "output_tokens": 135779,
+    "seconds": 1221.3,
+    "api_equivalent_usd": 0.2341
+  }
+}

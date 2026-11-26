@@ -4,3 +4,235 @@
     (Priya held a thought)
     (Leo held a thought)
     (Tom held a thought)
+[   28s] 0:15 asked Tom,Priya,Leo | dominoes 7 | calls 7
+    Tom -> everyone: Fish works for me. Simple and chunky, hard to miss. Tell me which piece you want me on once it's sketched, tail or the belly line, and I'll trace it.
+    (Priya held a thought)
+    (Leo held a thought)
+[   35s] 0:30 asked Priya,Leo | dominoes 10 | calls 9
+    Priya -> everyone: Fish works for me too. Maya, once the body and tail are on the pad, point me at a piece. Lower half of the body, maybe?
+    (Leo held a thought)
+[  258s] 0:45 asked Maya,Tom,Leo | dominoes 10 | calls 13
+    Maya -> everyone: Okay, it's on the pad. Tom, trace the top curve of the body, that's stroke 2. Priya, take the bottom curve, stroke 3. Leo, can you do the two tail lines, 4 and 5? I'll join the tail ends after that. T
+[  264s] 1:00 asked Tom,Priya,Leo | dominoes 13 | calls 16
+    Leo -> everyone: Sure, I'll take both tail lines, 4 and 5.
+    Priya -> everyone: On it, I've got the bottom curve, stroke 3.
+    Tom -> everyone: On it, top curve coming.
+[  279s] 1:15 asked Maya | dominoes 24 | calls 17
+[  279s] 1:30 asked - | dominoes 35 | calls 17
+[  279s] 1:45 asked - | dominoes 46 | calls 17
+[  279s] 2:00 asked - | dominoes 59 | calls 17
+[  306s] 2:15 asked Maya,Priya | dominoes 67 | calls 20
+    Maya -> Tom: Tom, hold on a sec. What's going up near the nose looks like a little circle, not the top curve of the body. The top line should lift off the nose and sweep up and over the middle of the fish, then co
+    Priya -> everyone: Tom, quick check: that top piece looks like it's curling back into a little circle by the nose. Is it meant to sweep up and across toward the top middle of the body? My bottom curve is done and it's s
+[  319s] 2:30 asked Maya,Tom,Priya | dominoes 57 | calls 23
+    Tom -> everyone: Yep, you're right, mine curled into a little circle. Sorry! I'm pulling that loop out now and I'll redo the top curve so it sweeps up and across to the tail.
+    (Maya held a thought)
+    (Priya held a thought)
+[  330s] 2:45 asked Tom,Priya | dominoes 65 | calls 25
+    Priya -> everyone: Tom, the top curve is yours, I'll stay out of your way. Leo, the tail end looks like it's curling into a loop. Is that on purpose? I'll take a closer look.
+    (Tom held a thought)
+[  341s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 69 | calls 29
+    Priya -> Leo: Leo, I looked closer and that tail end is a closed ring, not two lines. The tail should fan out from the joint, one up to the right and one down to the right, like a V. Want to pull the ring out and r
+    Leo -> everyone: Thanks Priya, no, the loop isn't meant to be there. The tail should be two straight lines fanning out. I'm going to look at it closely before I place any more.
+    (Maya held a thought)
+    (Tom held a thought)
+[  352s] 3:15 asked Maya,Priya,Leo | dominoes 58 | calls 32
+    Priya -> Leo: Leo, I'll clear the ring now so you've got a clean spot. I'll leave the joint where the body ends, and the two tail lines are all yours.
+    Maya -> everyone: Leo, I'm clearing that ring out past the joint now, so hold off placing there for a moment. Once it's gone, lay the two straight tail lines, one up-right and one down-right, off the end of the body cu
+    (Leo held a thought)
+[  369s] 3:30 asked Tom,Leo | dominoes 62 | calls 35
+    Leo -> everyone: Thanks both, ring's gone. I'll lay the two tail lines now, up-right first.
+    Tom -> everyone: Loop's gone. Carrying the top curve over the middle and down to the tail now.
+[  380s] 3:45 asked Maya,Priya | dominoes 74 | calls 37
+    Priya -> everyone: Leo, you stay on the upper tail line. I'll lay the lower one, stroke 5, so we're not both on the same spot.
+    (Maya held a thought)
+[  389s] 4:00 asked Maya,Tom,Leo | dominoes 87 | calls 40
+    Maya -> everyone: I'm closing the joint where the top curve leaves the nose so it connects to the lead-in. Tom, keep going over the top. Leo, carry on with the tail.
+    (Leo held a thought)
+    (Tom held a thought)
+[  399s] 4:15 asked Maya,Tom,Leo | dominoes 100 | calls 43
+    Maya -> everyone: Tom, the top curve looks pale just after the nose, so it isn't linked to the lead-in yet. I'm taking a close look at that bit.
+    Tom -> everyone: Top curve's past the peak, carrying it down to the tail joint now.
+    (Leo held a thought)
+[  414s] 4:30 asked Maya,Tom | dominoes 114 | calls 46
+    Maya -> everyone: Tom, found it. There's a gap just after the nose where the top curve leaves the lead-in. I'm closing it now, so keep going on the tail joint.
+    (Tom held a thought)
+[  422s] 4:45 asked Maya,Tom,Leo | dominoes 119 | calls 49
+    Tom -> everyone: Thanks Maya, nose gap sounds sorted. The top curve's down at the tail joint now. I'm pulling a stray domino just under the nose so it doesn't get in the way.
+    (Maya held a thought)
+    (Leo held a thought)
+[  443s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 55
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: The start only reaches the nose right now, so there's a gap there. I'm closing it.
+    Leo -> everyone: The start only reaches the lead-in right now, so I'm bridging from the end of the lead-in into the nose of the body.
+    (Maya held a thought)
+    (Priya held a thought)
+[  453s] 5:15 asked Maya,Tom,Leo | dominoes 128 | calls 58
+    Maya -> everyone: Tom, Leo, you've both got the nose gap, so I'll stay off it. There's still a ring of dominoes just behind the tail joint, so I'm taking a close look at that.
+    (Tom held a thought)
+    (Leo held a thought)
+[  465s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 116 | calls 62
+    Maya -> everyone: I'm clearing everything past the tail joint, the ring and the loose bits. Leo, Priya, hold off there for a moment. Once it's clear, Leo lays the upper tail and Priya the lower, both straight off the j
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  474s] 5:45 asked Priya,Leo | dominoes 109 | calls 64
+    Leo -> everyone: Nose bridge is in. I'll stay off the ring, Maya. Just looking at the upper tail while you clear, then I'll lay it straight off the joint.
+    (Priya held a thought)
+[  485s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 97 | calls 68
+    Maya -> everyone: Thanks Leo. Nearly done clearing, give me a few more seconds. Once the last bits are gone, lay the upper tail straight off the joint, and Priya takes the lower one. We've got four minutes, so let's ke
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  493s] 6:15 asked Tom,Priya,Leo | dominoes 96 | calls 71
+    Priya -> everyone: Got it, Maya, I'll stay off it. Shout when the bottom part past the joint is clear and I'll lay the lower tail straight off it. That little cluster just below the joint is the main leftover.
+    (Tom held a thought)
+    (Leo held a thought)
+[  503s] 6:30 asked Maya,Tom,Priya | dominoes 91 | calls 74
+    Maya -> everyone: Priya, nearly there, just that cluster under the joint left. I'll shout the second it's clear. Leo, hold off a moment, then lay the upper tail.
+    (Priya held a thought)
+    (Tom held a thought)
+[  513s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 101 | calls 78
+    Tom -> everyone: Joint's mostly good. There's a small gap on the upper tail just past the joint, so I'm closing that one. Leo, build the rest of the upper tail from where that ends.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  533s] 7:00 asked Maya,Tom,Leo | dominoes 105 | calls 82
+    Maya -> everyone: Cluster under the joint is clear. Priya, lower tail is yours, straight off the joint. I'm checking that the start reaches both tails.
+    (Leo held a thought)
+    (Tom held a thought)
+[  544s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 101 | calls 86
+    Priya -> everyone: Maya, cluster's gone and the lower tail is laid, but it's pale at the joint. I'm closing that break now. Leo, upper tail's yours.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  558s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 102 | calls 90
+    Maya -> everyone: Thanks Priya. I'm not touching the lower tail, I'll just check the joint is passing the fall on to both tails. Leo, make sure the upper tail runs all the way out. Two minutes, so no new stuff.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  570s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 96 | calls 94
+    Tom -> everyone: Priya, my look says the lower tail's still not connected at the joint. The upper tail is fine. I'm staying off it so we don't bump, shout if you want a hand.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  579s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 91 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> Priya: Priya, I'll just take a look at the joint from here without touching anything. Want me to bridge the lower tail if it's still pale?
+    Maya -> everyone: Priya, the lower tail still isn't connected at the joint, and there's hardly any of it standing. Just run one straight line off the joint, down-right to the same distance as the upper tail. Leo, check
+    (Priya held a thought)
+    (Leo held a thought)
+[  590s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 95 | calls 102
+    Maya -> Priya: Priya, if the little cluster under the joint is the problem, just fix that one spot and bridge it into the tail end. Don't rebuild anything. Shout if you want me to take that cluster down.
+    Tom -> everyone: Priya, I'm going in to bridge the lower tail now. Everyone else stay off that spot.
+    Priya -> everyone: Thanks Tom, Maya. Cluster's cleared, I'm laying the lower tail straight off the joint now. Tom, no need to bridge, I've got it.
+    (Leo held a thought)
+[  598s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 106
+    Maya -> everyone: Tom, let Priya have that spot, you two will bump each other. Priya, run it straight off the joint down-right and shout if it's still pale. I'm staying off.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  606s] 8:45 asked Tom,Priya,Leo | dominoes 100 | calls 109
+    Priya -> everyone: Tom, Maya, lower tail's laid. I'm checking the joint now, so please stay off that spot.
+    Tom -> everyone: Okay Priya, it's all yours. I'm staying off it, just watching the joint. Shout if it's still pale.
+    (Leo held a thought)
+[  613s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 113
+    Priya -> everyone: Still pale at the joint, so I'm fixing that one spot now. Hands off please, nearly there.
+    (Maya held a thought)
+[  621s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 101 | calls 117
+    Priya -> everyone: Trying a direct bridge into the lower tail, hands off that spot.
+[  628s] 9:30 asked Maya,Tom,Leo | dominoes 108 | calls 120
+[  628s] 9:45 asked - | dominoes 114 | calls 120
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Tom": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Priya": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 687.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "balloon tied to a string",
+      "fish with a forked tail",
+      "lasso or rope loop"
+    ],
+    [
+      "fish with tail and open mouth",
+      "balloon tied to a string",
+      "leaf or seed pod on a stem"
+    ],
+    [
+      "fish with forked tail",
+      "balloon tied to a string",
+      "spoon or ladle with handle"
+    ]
+  ],
+  "placed": 114,
+  "fell": 86,
+  "completion": 0.754,
+  "team_score": 0.377,
+  "first_domino_at": "0:00",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Tom": 12,
+    "Priya": 13,
+    "Leo": 5
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 286,
+    "cache_creation_tokens": 687578,
+    "cache_read_tokens": 406368,
+    "output_tokens": 123656,
+    "seconds": 1334.1,
+    "api_equivalent_usd": 3.8931
+  }
+}

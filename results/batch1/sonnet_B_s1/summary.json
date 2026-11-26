@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Omar": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Hana": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Jack": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1035.3,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish with fins and forked tail",
+      "bird in flight or swooping",
+      "leaf or sprout with a curled stem"
+    ],
+    [
+      "fish facing left",
+      "bird with an open beak",
+      "fishing hook with a bent line"
+    ],
+    [
+      "fish in side view",
+      "bird head with open beak",
+      "stylized swimming creature or leaf"
+    ]
+  ],
+  "placed": 129,
+  "fell": 110,
+  "completion": 0.853,
+  "team_score": 0.853,
+  "first_domino_at": "0:00",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 14,
+    "Sofia": 15,
+    "Hana": 6,
+    "Omar": 9
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 2,
+    "input_tokens": 284,
+    "cache_creation_tokens": 649508,
+    "cache_read_tokens": 406567,
+    "output_tokens": 61448,
+    "seconds": 1626.9,
+    "api_equivalent_usd": 3.1213
+  }
+}

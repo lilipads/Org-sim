@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.94,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.81,
+      "error": 0.54
+    },
+    "Hana": {
+      "speed": 0.86,
+      "error": 1.78
+    },
+    "Jack": {
+      "speed": 1.13,
+      "error": 0.8
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1363.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a fish or bird head in profile",
+      "a swoosh or rainbow-like arc"
+    ],
+    [
+      "curved line of fallen dominoes in an arc, seen from above",
+      "hand-drawn loop or arc with a small hook at the left end",
+      "outline of a fish or bird head facing left"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "dominoes toppling in a loop",
+      "swan or bird neck outline"
+    ]
+  ],
+  "placed": 222,
+  "fell": 64,
+  "completion": 0.288,
+  "team_score": 0.096,
+  "first_domino_at": "0:15",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 11,
+    "Sofia": 12,
+    "Jack": 8,
+    "Omar": 9
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 124,
+    "failed": 3,
+    "input_tokens": 254,
+    "cache_creation_tokens": 580394,
+    "cache_read_tokens": 359964,
+    "output_tokens": 74301,
+    "seconds": 1892.6,
+    "api_equivalent_usd": 2.9636
+  }
+}

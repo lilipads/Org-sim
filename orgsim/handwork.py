@@ -437,6 +437,33 @@ def end_join(world: World, d, removable: set = frozenset(), max_n: int = 14) -> 
     return []
 
 
+def follow(world: World, x: float, y: float, h: float, line: list, max_steps: int = 60,
+           clearance: float = 0.28, ignore: set = frozenset(), max_turn: float = 18.0,
+           look: float = 2.0) -> list:
+    """Follow a drawn line the way a hand copies it: always aiming a little way further
+    along the line from the closest point to where you are. Never loops; cuts corners
+    to what a domino line can turn."""
+    pts = _densify(line, 0.25)
+    cum = [0.0]
+    for (x0, y0), (x1, y1) in zip(pts, pts[1:]):
+        cum.append(cum[-1] + math.hypot(x1 - x0, y1 - y0))
+    total = cum[-1]
+    out = [(x, y, h % 360)]
+    s_at = 0.0
+    for _ in range(max_steps):
+        # closest point on the line, never going backwards
+        best_i = min((i for i in range(len(pts)) if cum[i] >= s_at - 0.5),
+                     key=lambda i: math.hypot(pts[i][0] - x, pts[i][1] - y))
+        s_at = max(s_at, cum[best_i])
+        if total - s_at < 0.4 or math.hypot(pts[-1][0] - x, pts[-1][1] - y) < 0.5:
+            break
+        target = s_at + look
+        j = next((i for i in range(len(pts)) if cum[i] >= target), len(pts) - 1)
+        x, y, h = _step(world, x, y, h, pts[j][0], pts[j][1], out, clearance, ignore, max_turn)
+        out.append((x, y, h))
+    return out
+
+
 def _densify(points: list, step: float = 0.5) -> list:
     out = []
     for (x0, y0), (x1, y1) in zip(points, points[1:]):
@@ -446,38 +473,91 @@ def _densify(points: list, step: float = 0.5) -> list:
     return out
 
 
+def _leaving(raw: dict, p: tuple, close) -> list:
+    """Directions (degrees) in which sketch lines leave point p."""
+    out = []
+    for pts in raw.values():
+        for i, q in enumerate(pts):
+            if not close(q, p):
+                continue
+            for j in (i + 1, i - 1):
+                if 0 <= j < len(pts) and not close(pts[j], p):
+                    out.append(math.degrees(math.atan2(pts[j][1] - p[1], pts[j][0] - p[0])))
+                elif 0 <= j < len(pts):
+                    k = j + (1 if j > i else -1)
+                    if 0 <= k < len(pts):
+                        out.append(math.degrees(math.atan2(pts[k][1] - p[1], pts[k][0] - p[0])))
+            break
+    return out
+
+
+def start_point(raw: dict, close) -> tuple:
+    """Where the run should start: where stroke 1 begins, unless lines leave there in
+    directions a single falling domino can't feed (more than about 100 degrees apart);
+    then the nearest sketch end where they can."""
+    def spread(p):
+        dirs = _leaving(raw, p, close)
+        return max((abs(angle_diff(a, b)) for a in dirs for b in dirs), default=0.0)
+    first = raw[min(raw)]
+    if spread(first[0]) <= 100:
+        return first[0]
+    ends = [pts[i] for pts in raw.values() for i in (0, -1)]
+    ok = [e for e in ends if spread(e) <= 100]
+    if not ok:
+        return first[0]
+    return min(ok, key=lambda e: math.hypot(e[0] - first[0][0], e[1] - first[0][1]) + (0 if e in (first[0], first[-1]) else 5))
+
+
 def sketch_flow(strokes: list, points_of) -> tuple:
     """Orient the sketch's strokes the way a domino run would flow: away from the
     start, which is where the first stroke begins. Strokes whose ends meet (within
-    1.6 units) connect. Returns (origin point, {stroke number: oriented points})."""
-    lines = {k: points_of(s) for k, s in enumerate(strokes, start=1) if s.get("type") != "label"}
-    lines = {k: p for k, p in lines.items() if len(p) >= 2}
-    if not lines:
+    1.6 units) connect. A stroke that passes *through* a connection point (the start,
+    or another stroke's end) is split there into two pieces that both flow outward.
+    Returns (origin, {stroke number: [oriented piece, ...]})."""
+    raw = {k: points_of(s) for k, s in enumerate(strokes, start=1) if s.get("type") != "label"}
+    raw = {k: p for k, p in raw.items() if len(p) >= 2}
+    if not raw:
         return None, {}
-    first = min(lines)
-    origin = lines[first][0]
     close = lambda a, b: math.hypot(a[0] - b[0], a[1] - b[1]) <= 1.6  # noqa: E731
+    origin = start_point(raw, close)
+    hubs = [origin] + [p[i] for p in raw.values() for i in (0, -1)]
+    pieces = []                            # (stroke number, points)
+    for k, p in raw.items():
+        cut = None
+        for i in range(1, len(p) - 1):
+            if any(close(p[i], h) for h in hubs) and not close(p[i], p[0]) and not close(p[i], p[-1]):
+                cut = i
+                break
+        if cut is None:
+            pieces.append((k, p))
+        else:                              # both halves start at the hub
+            pieces.append((k, p[cut::-1]))
+            pieces.append((k, p[cut:]))
     oriented: dict = {}
-    queue = [origin]                       # spread outward from the start, nearest first
+    done = set()
+    queue = [origin]
     while queue:
         here = queue.pop(0)
-        for k, p in lines.items():
-            if k in oriented:
+        for idx, (k, p) in enumerate(pieces):
+            if idx in done:
                 continue
             if close(p[0], here):
-                oriented[k] = p
+                q = p
             elif close(p[-1], here):
-                oriented[k] = p[::-1]
+                q = p[::-1]
             else:
                 continue
-            queue.append(oriented[k][-1])
-    for k, p in lines.items():          # not connected to the rest: keep as drawn
-        oriented.setdefault(k, p)
+            done.add(idx)
+            oriented.setdefault(k, []).append(q)
+            queue.append(q[-1])
+    for idx, (k, p) in enumerate(pieces):  # not connected to the rest: keep as drawn
+        if idx not in done:
+            oriented.setdefault(k, []).append(p)
     return origin, oriented
 
 
 def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
-                drift: float = 0.1, lead: tuple | None = None) -> tuple:
+                drift: float = 0.1, lead: tuple | None = None, taken: set | None = None) -> tuple:
     """Copy a sketch stroke (already oriented the way the run flows) onto the table,
     the way people copy a drawing. Where it begins on an existing line heading the same
     way, it carries on from that line's end (or branches off its side), lined up by hand.
@@ -491,7 +571,9 @@ def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
     note = "tracing the sketch"
     anchor = None
     cands = [d for d in world.near(pts[0][0], pts[0][1], 1.8) if d.state == "up"]
-    ends = [d for d in cands if not world.successors(d) and abs(angle_diff(d.angle, head0)) <= 60]
+    taken = taken if taken is not None else set()
+    ends = [d for d in cands if not world.successors(d) and d.id not in taken
+            and abs(angle_diff(d.angle, head0)) <= 60]
     if ends:
         anchor = min(ends, key=lambda d: abs(angle_diff(d.angle, head0)) + math.hypot(d.x - pts[0][0], d.y - pts[0][1]))
     elif cands:
@@ -504,16 +586,25 @@ def trace_specs(world: World, points: list, rng: random.Random, max_n: int = 60,
         anchor = None
         note = "laying the start domino, then tracing the sketch"
     elif anchor is not None:
-        x, y, h = _start_pose(world, anchor, pts[min(3, len(pts) - 1)])
+        if anchor.id in taken:             # someone is already carrying this line on: branch off it
+            r = math.radians(anchor.angle)
+            ux, uy = math.cos(r), math.sin(r)
+            tx, ty = pts[min(3, len(pts) - 1)]
+            side = 1 if ux * (ty - anchor.y) - uy * (tx - anchor.x) >= 0 else -1
+            x = anchor.x + 0.5 * ux - side * BRANCH_SIDE * uy
+            y = anchor.y + 0.5 * uy + side * BRANCH_SIDE * ux
+            h = anchor.angle + side * BRANCH_TURN
+        else:
+            x, y, h = _start_pose(world, anchor, pts[min(3, len(pts) - 1)])
+        taken.add(anchor.id)
         note = f"tracing the sketch on from the line near {where(anchor.x, anchor.y)}"
     else:
         dx, dy = rng.gauss(0, drift), rng.gauss(0, drift)
         pts = [(px_ + dx, py_ + dy) for px_, py_ in pts]
         x, y = pts[0]
         h = head0
-    way = _densify(pts, 1.0)[1:]
-    path = steer(world, x, y, h, way, arrive=0.8, max_steps=max_n, clearance=0.28, max_turn=18.0,
-                 ignore={anchor.id} if anchor else frozenset())   # lines may cross close by
+    path = follow(world, x, y, h, pts, max_steps=max_n, clearance=0.28, max_turn=18.0,
+                  ignore={anchor.id} if anchor else frozenset())   # lines may cross close by
     return (prefix + [(px_, py_, a) for px_, py_, a in path])[:max_n], note
 
 

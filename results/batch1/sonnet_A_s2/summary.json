@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.94,
+      "error": 0.72
+    },
+    "Tom": {
+      "speed": 0.81,
+      "error": 0.54
+    },
+    "Priya": {
+      "speed": 0.86,
+      "error": 1.78
+    },
+    "Leo": {
+      "speed": 1.13,
+      "error": 0.8
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1090.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a forked tail, made of dominoes",
+      "fish with a fishing line and hook",
+      "leaf or seed outline with a curled stem"
+    ],
+    [
+      "fish with a curled fin or hook",
+      "fish on a fishing line",
+      "abstract outline of a fish or bird body"
+    ],
+    [
+      "fish with a curled fin",
+      "leaf on a curved stem",
+      "bird with a raised head"
+    ]
+  ],
+  "placed": 141,
+  "fell": 118,
+  "completion": 0.837,
+  "team_score": 0.837,
+  "first_domino_at": "0:15",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 15,
+    "Priya": 15,
+    "Tom": 13,
+    "Leo": 6
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 129,
+    "failed": 2,
+    "input_tokens": 266,
+    "cache_creation_tokens": 604024,
+    "cache_read_tokens": 375099,
+    "output_tokens": 75492,
+    "seconds": 1665.5,
+    "api_equivalent_usd": 3.0628
+  }
+}

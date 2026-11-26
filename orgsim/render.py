@@ -245,9 +245,10 @@ def sketch_png(strokes: list, path: str, size: tuple = (60, 40), holder: str | N
             tags.append((mx, my, str(k)))
             sx, sy = pts[0]
             dr.ellipse([sx - 5, sy - 5, sx + 5, sy + 5], fill=(50, 50, 60))
-    first_line = next((s for s in strokes if s.get("type") != "label" and len(sketch_points(s)) >= 2), None)
-    if first_line:                  # the run starts where stroke 1 begins
-        sx, sy = px(*sketch_points(first_line)[0])
+    from .handwork import sketch_flow
+    origin, _ = sketch_flow(strokes, sketch_points)
+    if origin:                      # where the run starts (stroke 1's beginning, unless that can't work)
+        sx, sy = px(*origin)
         dr.ellipse([sx - 12, sy - 12, sx + 12, sy + 12], outline=(30, 140, 70), width=3)
         dr.text((sx - 10, sy - 32), "START", fill=(30, 130, 60), font=font)
     for mx, my, t in tags:          # stroke numbers, for "trace stroke 3"

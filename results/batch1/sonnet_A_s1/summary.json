@@ -1,0 +1,93 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Tom": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Priya": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 687.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.5,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "balloon tied to a string",
+      "fish with a forked tail",
+      "lasso or rope loop"
+    ],
+    [
+      "fish with tail and open mouth",
+      "balloon tied to a string",
+      "leaf or seed pod on a stem"
+    ],
+    [
+      "fish with forked tail",
+      "balloon tied to a string",
+      "spoon or ladle with handle"
+    ]
+  ],
+  "placed": 114,
+  "fell": 86,
+  "completion": 0.754,
+  "team_score": 0.377,
+  "first_domino_at": "0:00",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Tom": 12,
+    "Priya": 13,
+    "Leo": 5
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 286,
+    "cache_creation_tokens": 687578,
+    "cache_read_tokens": 406368,
+    "output_tokens": 123656,
+    "seconds": 1334.1,
+    "api_equivalent_usd": 3.8931
+  }
+}

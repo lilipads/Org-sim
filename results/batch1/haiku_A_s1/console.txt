@@ -4,3 +4,229 @@
     (Maya held a thought)
     (Tom held a thought)
     (Leo held a thought)
+[   26s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Fish works for me. Let's make it a big one, nose pointing right and tail on the left. Priya, could you draw the body outline? Top edge out from the tail, bottom edge back round so both sides meet at t
+    (Maya held a thought)
+    (Leo held a thought)
+[   43s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Leo -> everyone: Fish works for me. I'm happy to take the tail end if nobody's claimed it.
+    (Maya held a thought)
+    (Priya held a thought)
+[   61s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 11 | calls 14
+    Leo -> everyone: Okay, I'll take the tail. I'm starting the upper arm at its tip and running it into the junction, so the start domino sits at the tail. Once that's down I'll branch the lower arm off the same point. T
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[   80s] 1:00 asked Maya,Tom | dominoes 26 | calls 16
+    Tom -> everyone: Leo, got it, the start's yours at the tail, so I won't place another. I'll carry the top and bottom edges from the junction once your upper fin gets there. Maya, could you take the eye when you're fre
+    (Maya held a thought)
+[   94s] 1:15 asked Maya,Priya,Leo | dominoes 42 | calls 19
+    Maya -> everyone: Quick check, since I missed it. Leo's domino at the tail is the real start, so the fins run from the tail into the junction and split there. Tom, the body comes off the junction. The junction is the j
+    (Priya held a thought)
+[  108s] 1:30 asked Tom,Leo | dominoes 56 | calls 21
+    Leo -> everyone: Thanks, Maya, that's right. The tail's the start and both fins meet at the junction. I'm laying the lower fin from its tip now and joining it onto the upper one there.
+    (Tom held a thought)
+[  118s] 1:45 asked Maya | dominoes 73 | calls 22
+[  127s] 2:00 asked Leo | dominoes 80 | calls 23
+    Leo -> everyone: Lower fin's standing up to just short of the junction. I'm joining it onto the upper fin there now, so Tom and Priya can take the body off that point.
+[  139s] 2:15 asked Maya,Tom,Priya | dominoes 86 | calls 26
+    Tom -> everyone: Priya's on the top edge, so I'm carrying the bottom one from the junction. Leo, once your fin reaches that point I'll run straight on from it.
+    (Priya held a thought)
+    (Maya held a thought)
+[  148s] 2:30 asked Maya,Priya,Leo | dominoes 93 | calls 29
+    Leo -> Tom: Lower fin's nearly at the junction, Tom. I'll call it out as soon as it's joined, and you can run on from there.
+    Priya -> everyone: Quick update: the top edge is standing, from the junction round to the nose, so nobody needs to double up there. Tom, the bottom edge is yours from the junction. Leo, the tail fins are yours. I'm chec
+    (Maya held a thought)
+[  160s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 101 | calls 33
+    Maya -> Leo,Priya: Leo, Priya, I'll take the two wobbly spots right beside the junction: the jammed one on the top edge and the one sitting off-line on the lower fin. I won't touch the join itself, so shout if you're mi
+    Tom -> Leo: Got it, Leo. I'll keep going on my side and run on from the junction once you call it.
+    Priya -> everyone: Junction check done. There's a domino jammed too close on the top edge just past the join, and one sitting off to the side on Leo's lower fin. I'm fixing both now. Leo, shout if you're mid-join right 
+    (Leo held a thought)
+[  168s] 3:00 asked Priya,Leo | dominoes 112 | calls 35
+    Priya -> Maya: Maya, I've already got both of those, the jammed one past the join and the one off-line on Leo's fin. Go ahead with the eye.
+    Leo -> everyone: Still mid-join at the junction, so please don't touch that point yet. I'll call it out as soon as it's solid, Tom. Priya's already fixing those two spots, so Maya, leave them with her to avoid doublin
+[  177s] 3:15 asked Maya,Tom,Priya | dominoes 120 | calls 38
+    Maya -> Priya,Leo: Sorry, I jumped in before checking. Priya, those two spots are yours, and I'm stepping off them. I'll hold the eye until the bottom edge is standing and the junction's solid.
+    Tom -> everyone: Got it, Leo. I'm staying off the junction and carrying the bottom edge out from my end. Call it when it's solid.
+    (Priya held a thought)
+[  190s] 3:30 asked Maya,Priya,Leo | dominoes 129 | calls 41
+    Priya -> everyone: Top edge is solid from the junction to the nose on my side. I'm holding off the junction until Leo calls it. Tom, if you want, I can take the last stretch of the bottom edge round to the nose while yo
+[  200s] 3:45 asked Maya,Tom,Leo | dominoes 135 | calls 44
+    Tom -> everyone: Yes please, Priya, take the last stretch to the nose. I'll keep carrying from my end and we'll meet in the middle. Leo, call it when the junction's solid.
+    (Maya held a thought)
+[  211s] 4:00 asked Maya,Priya,Leo | dominoes 143 | calls 47
+    Leo -> everyone: Tom, Priya, the join at the junction isn't confirmed yet. Some dominoes there wouldn't fit, so I'm checking it now. Please hold off that spot for a moment.
+    (Priya held a thought)
+    (Maya held a thought)
+[  223s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 51
+    Maya -> Priya,Tom: Sounds good, Priya. You and Tom sort out the last stretch of the bottom edge between you. I'm holding the eye until Leo calls the junction solid and the outline's closed.
+    Leo -> everyone: Inspection's back. The lower fin is joined, and the bottom edge runs off the junction, but the top edge isn't hooked to the start yet. I'm closing that join now. Tom, Priya, please keep off that spot 
+    (Priya held a thought)
+    (Tom held a thought)
+[  233s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 55
+    Priya -> everyone: Leo, I'm staying off the junction until you call it solid. Tom, I'm not adding anything at the nose yet either. I'm checking that end first so we don't double up.
+    (Leo held a thought)
+    (Tom held a thought)
+[  241s] 4:45 asked Maya,Tom,Leo | dominoes 144 | calls 58
+    Leo -> everyone: Top edge still isn't hooked to the tail. I'm running the fix at the junction now, so please keep off that spot until I call it solid.
+    (Tom held a thought)
+[  252s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 62
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: I'm running the fix at the junction now. Please keep off that spot until I call it solid. I should have caught the top-edge join earlier.
+    (Priya held a thought)
+    (Tom held a thought)
+[  262s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 66
+    Priya -> everyone: Leo, I'm nowhere near the junction. I'm fixing the two breaks at the nose, the off-line one and the jammed one. Tom, keep carrying the bottom edge from your end and we'll meet at the tip.
+    (Tom held a thought)
+[  273s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 70
+    Tom -> Leo,Priya: Leo, I'm only placing my last bottom-edge domino at my end, well away from the junction. I won't touch anything near it until you call it solid. Priya, I'll check where my edge meets yours at the nose
+    Priya -> everyone: Nose fixes are in. I'm checking the tip now to see whether the top and bottom edges meet. Tom, keep carrying the bottom edge in from your end. Leo, I'm nowhere near the junction, so call it when it's 
+    (Leo held a thought)
+[  284s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 74
+    Leo -> everyone: Priya, thanks for the junction check. The nose is yours, and I've got the join at the tail-side junction. Everyone, please keep off that spot until I call it solid.
+[  292s] 6:00 asked Maya,Tom,Priya | dominoes 144 | calls 77
+    Priya -> everyone: Thanks, Leo. Nose fixes are in, so I'm checking the tip now. I'm staying off the junction.
+[  301s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 81
+    Priya -> everyone: Nose fixes are in. I'm inspecting the tip now to see whether the top and bottom edges meet. Tom, keep carrying the bottom edge in from your end. Leo, I'm nowhere near the junction.
+    (Tom held a thought)
+    (Leo held a thought)
+[  315s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 85
+    Leo -> everyone: Thanks, Priya. I'm still on the junction and it isn't solid yet. I'm checking whether the top edge is hooked to the tail before anyone moves in there.
+    (Priya held a thought)
+    (Tom held a thought)
+[  325s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 149 | calls 89
+    Tom -> Priya,Leo: Priya, once your tip check is done, tell me where the bottom edge should meet yours and I'll bring it in from my end. Leo, I'm staying off the junction until you call it solid.
+    Priya -> everyone: Tip gap is still open. Bottom edge stops short of the nose and the top edge has nothing ahead of it. I'm bridging it now. Tom, hold off the nose until I call it.
+    (Leo held a thought)
+    (Maya held a thought)
+[  336s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 152 | calls 93
+    Leo -> everyone: Tom, Priya, the top edge still isn't hooked to the tail, and I missed that earlier, which is on me. I'm on the fix at the junction now. Please keep off that spot. I'll call it once an inspect shows it
+    (Maya held a thought)
+[  344s] 7:15 asked Maya,Tom,Priya | dominoes 164 | calls 96
+    Maya -> everyone: Leo, the junction isn't called yet, so I'm not starting the eye. If it's not solid in the next minute or so, let's just let the body go and leave the eye.
+    (Priya held a thought)
+[  354s] 7:30 asked Tom,Leo | dominoes 171 | calls 98
+    Leo -> everyone: Inspecting the top edge against the tail now. Please keep off the junction for fifteen seconds. I'll call it whichever way it comes out.
+    (Tom held a thought)
+[  368s] 7:45 asked Maya,Tom,Leo | dominoes 178 | calls 101
+    Tom -> everyone: Agree with Maya. If the junction isn't solid in about a minute, let the body go and leave the eye. Leo, I'm not touching the junction while you check it, and I'll hold off the nose until Priya calls i
+    (Leo held a thought)
+[  376s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 185 | calls 105
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Inspect's back, and I can't call it yet. The top edge still isn't hooked to the tail, so the junction isn't solid. I'm checking the join again now. Please keep off that spot. If it isn't connected in 
+    (Priya held a thought)
+[  387s] 8:15 asked Maya,Tom,Leo | dominoes 188 | calls 108
+    Leo -> everyone: Okay, I can't get the top edge hooked to the tail in time, and I'd rather not make the junction worse. Let's let the body go and leave the eye out, like Maya said. Tom, Priya, please keep your hands o
+    (Maya held a thought)
+    (Tom held a thought)
+[  396s] 8:30 asked Maya,Tom,Priya | dominoes 188 | calls 111
+    Priya -> everyone: Leo, understood, I'm off the junction. My tip connect is down, so I'm only inspecting the nose now to see whether the top and bottom edges meet. Tom, I'll tell you what I see, and I won't place anythi
+    (Maya held a thought)
+    (Tom held a thought)
+[  404s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 188 | calls 115
+    Priya -> Tom: Inspecting the nose now, Tom. I'll tell you what I see as soon as it's back.
+    Maya -> everyone: Agreed, Leo. The junction isn't solid and there's no time to fix it, so let the body go and leave the eye out. Everyone, keep your hands off the junction and the nose. And no blame on you, Leo. We all
+    (Tom held a thought)
+[  412s] 9:00 asked Tom,Priya,Leo | dominoes 188 | calls 118
+    Tom -> everyone: Agreed, Leo, no worries. Letting the body go and leaving the eye out. I'm keeping my hands off the junction and the nose. Priya, tell me what the tip looks like and I'll stay put.
+    (Leo held a thought)
+[  419s] 9:15 asked Maya,Priya,Leo | dominoes 188 | calls 121
+    Priya -> Tom: Tom, I'm inspecting the nose now. I'll tell you what it shows as soon as it's back. I won't place anything there.
+    Leo -> everyone: Agreed, Tom. We're letting the body go and leaving the eye out. Hands off the junction and the nose until the push. I'm staying out of it now.
+[  429s] 9:30 asked Maya,Tom,Priya | dominoes 188 | calls 124
+    Priya -> Tom: Tom, the tip is joined, so the bottom edge and the top edge meet. The nose still has a loose end pointing right with nothing ahead of it, so that's where the chain stops. I'm not touching it now, with
+[  436s] 9:45 asked Tom | dominoes 188 | calls 125
+    Tom -> Priya: Thanks, Priya. I'm leaving the nose alone now. We'll see what the push does.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 0.55
+    },
+    "Tom": {
+      "speed": 0.78,
+      "error": 1.16
+    },
+    "Priya": {
+      "speed": 1.38,
+      "error": 1.16
+    },
+    "Leo": {
+      "speed": 1.11,
+      "error": 0.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 492.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "curved row of fallen dominoes",
+      "bowl or smile-shaped arc",
+      "hill or rainbow outline"
+    ],
+    [
+      "curved line of dominoes forming a bowl or arc",
+      "smile or u-shaped curve",
+      "bottom of a crescent moon or hill outline"
+    ],
+    [
+      "curved line of dominoes seen from above",
+      "bowl or smile-shaped arc",
+      "curved road or river edge"
+    ]
+  ],
+  "placed": 188,
+  "fell": 71,
+  "completion": 0.378,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 15,
+    "Tom": 11,
+    "Leo": 17,
+    "Maya": 6
+  },
+  "held_thoughts": 47,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 0,
+    "input_tokens": 296,
+    "cache_creation_tokens": 751080,
+    "cache_read_tokens": 416583,
+    "output_tokens": 137352,
+    "seconds": 1225.5,
+    "api_equivalent_usd": 0.2231
+  }
+}

@@ -4,3 +4,229 @@
     (Sofia held a thought)
     (Jack held a thought)
     (Omar held a thought)
+[   33s] 0:15 asked Sofia,Omar,Jack | dominoes 5 | calls 7
+    Sofia -> everyone: Fish, love it, Hana! I've got the pad in my hands already, so I'm drawing it now. Nose on the left, top and bottom curves meet at the tail, and a V for the fin. I'll take the top curve, Omar the botto
+    (Jack held a thought)
+    (Omar held a thought)
+[  346s] 0:30 asked Omar,Hana,Jack | dominoes 9 | calls 11
+    Jack -> everyone: Love it, fish it is, nice one Hana! Start's in at the nose with a little lead-in, so Sofia and Omar can split off from there. I'll take the tail and trace the V as soon as your curves get there. Try n
+    (Hana held a thought)
+    (Omar held a thought)
+[  357s] 0:45 asked Sofia,Omar,Hana | dominoes 14 | calls 14
+    Sofia -> everyone: Pad's up, everyone! I'm tracing the top curve now. Omar, bottom curve is yours. Jack, the tail strokes are 4 and 5 once our curves reach the tail. Try to stay a bit apart from me so we don't bump each
+    (Hana held a thought)
+    (Omar held a thought)
+[  362s] 1:00 asked Omar,Jack | dominoes 21 | calls 16
+    Omar -> everyone: Fish works for me. I'm on the bottom curve, stroke 3, keep going.
+    (Jack held a thought)
+[  362s] 1:15 asked - | dominoes 29 | calls 16
+[  362s] 1:30 asked - | dominoes 38 | calls 16
+[  362s] 1:45 asked - | dominoes 47 | calls 16
+[  362s] 2:00 asked - | dominoes 55 | calls 16
+[  362s] 2:15 asked - | dominoes 64 | calls 16
+[  362s] 2:30 asked - | dominoes 73 | calls 16
+[  375s] 2:45 asked Sofia,Hana | dominoes 87 | calls 18
+    Sofia -> Omar: Omar, quick check on your side: the bottom line looks like it's curling into a small loop by the nose. It should sweep down and out toward the middle of the body, then on to the tail, as a mirror of t
+    Hana -> everyone: Omar, quick flag: the bottom line looks like it's curling back up into a little loop by the nose, instead of sweeping out under the body toward the tail. Can you check the pad? It should head right an
+[  389s] 3:00 asked Sofia,Omar,Jack | dominoes 84 | calls 21
+    Omar -> everyone: Yep, you're right, mine curled into a loop. I'm pulling that bit out now and redoing it. Hana, I've got it, no need to take over.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  402s] 3:15 asked Sofia,Hana,Jack | dominoes 84 | calls 24
+    Sofia -> everyone: Top curve's done, running into the tail. Omar, you redo the bottom, and if the clock gets tight I'll trace the back half from the middle. Just shout. Hana, I'm checking the join at the tail now.
+    (Jack held a thought)
+    (Hana held a thought)
+[  713s] 3:30 asked Sofia,Omar,Hana | dominoes 84 | calls 28
+    Sofia -> everyone: Omar, I'm starting the back half of the bottom curve from the middle of the body toward the tail, so you only need to bring yours out from the nose and join into where mine starts. Jack, Hana, can one
+    (Hana held a thought)
+    (Omar held a thought)
+[  728s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 86 | calls 32
+    Hana -> everyone: Thanks Sofia. Jack, quick flag: the upper fin looks like it's curling back on itself into a loop near the top. It should go straight up and right from the tail, like the pad. Can you pull the curl out
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  742s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 83 | calls 36
+    Jack -> everyone: Good catch, Hana, I see the curl. Pulling that loop out now and redoing the upper fin as a straight diagonal up and right.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  763s] 4:15 asked Omar,Hana | dominoes 87 | calls 39
+    Hana -> everyone: Omar, I'm laying the stretch under the front of the body, just before where Sofia's piece starts. Bring yours down from the nose to meet mine.
+    (Omar held a thought)
+[  772s] 4:30 asked Sofia,Omar,Jack | dominoes 96 | calls 42
+    Omar -> everyone: Loop's cleared. I'm bringing the bottom curve down from the nose now to meet Hana's piece.
+    Jack -> everyone: Loop's out! Rebuilding the upper fin now as a straight diagonal, no more curls, promise.
+    (Sofia held a thought)
+[  779s] 4:45 asked Hana | dominoes 109 | calls 43
+    Hana -> everyone: Almost done with my stretch under the body. Omar, once yours comes down, shout and I'll check the join.
+[  803s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 48
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Thanks Hana! My back half is nearly at the tail. Omar, bring yours down from the nose to meet Hana's piece, and shout when it's in. I'll check the tail join next.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  815s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 52
+    Jack -> everyone: Upper fin's placed, but it still looks pale to me, so I'm checking the join at the tail now.
+    Sofia -> everyone: Checking the tail join now. Omar, how's the bottom coming down from the nose? Hana's piece is waiting for you.
+    (Hana held a thought)
+    (Omar held a thought)
+[  841s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 57
+    Jack -> everyone: Found it, the fin's first domino is jammed right at the tail. Fixing that join now, so hands off that spot for a sec!
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[  852s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 61
+    Hana -> everyone: My stretch under the body is in. Omar, I'm joining your nose piece down to mine now, so don't start another line there. Jack, you've got the tail.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  863s] 6:00 asked Sofia,Omar,Jack | dominoes 121 | calls 64
+    Sofia -> everyone: Hana, I'm linking the start run into the top of Omar's nose piece right by the start, so the bottom curve actually gets fed. You keep joining the nose piece down to yours. Jack, shout when the tail's 
+    (Jack held a thought)
+    (Omar held a thought)
+[  873s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 124 | calls 68
+    Jack -> everyone: Fin's cleared, so I'm rebuilding it straight off the tail now. Please keep clear of that spot for a bit! Thanks Hana, I've got the tail.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  882s] 6:30 asked Sofia,Omar,Hana | dominoes 130 | calls 71
+    Hana -> everyone: Sofia, you've got the link by the start. I'm fixing the break under the front of the body, where my piece meets the middle. Jack, keep going on the tail.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  894s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 128 | calls 75
+    Hana -> everyone: My fix there didn't need anything, so the break must be somewhere else. I'm checking the whole bottom curve now to find where it stops being dark.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  912s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 133 | calls 80
+    Omar -> everyone: Hana, found it. Right there where you're pointing, one domino's sitting off to the side. I'm nudging it into line now.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  921s] 7:15 asked Omar,Hana,Jack | dominoes 142 | calls 83
+    Jack -> everyone: Thanks Omar! I'm bridging the gap where the top curve meets the tail, since it still looks pale past there. Hands off that spot for a sec!
+    (Hana held a thought)
+    (Omar held a thought)
+[  944s] 7:30 asked Omar | dominoes 152 | calls 85
+    Omar -> everyone: Nudge didn't change anything, so the break's not there. The start run just stops at its end by the nose and doesn't reach the bottom curve. I'm bridging that now, so Sofia, if yours is already in, tel
+[  950s] 7:45 asked Sofia | dominoes 160 | calls 86
+    Sofia -> everyone: Omar, go ahead and bridge the start run to the bottom curve, I'll leave that spot to you. I'm finishing the bridge near the tail, then I'll check what's still pale. Hana, shout if the bottom curve isn
+[ 1256s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 167 | calls 91
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Jack, I'm bridging the top curve end into the tail, just left of your fin. I'll stay off the fin.
+    Omar -> everyone: Bridge is almost in, one domino to go. Then I'll check the bottom curve is dark.
+    (Sofia held a thought)
+    (Jack held a thought)
+[ 1263s] 8:15 asked Sofia,Omar,Jack | dominoes 173 | calls 94
+    Sofia -> everyone: Found a break right at the tail join, one domino's sitting off to the side. I'm fixing it now. Jack, Hana, give me a second there.
+    Omar -> everyone: Bridge is in, mostly. Checking that the bottom curve goes dark now.
+    (Jack held a thought)
+[ 1271s] 8:30 asked Omar,Hana,Jack | dominoes 180 | calls 97
+    Omar -> everyone: Still a break at the nose, one domino off to the side. Fixing that joint now, so hands off there.
+    (Jack held a thought)
+[ 1277s] 8:45 asked Jack | dominoes 187 | calls 98
+    Jack -> everyone: Thanks Sofia, nice catch! My bridge is in, I'll stay out of your way at the tail and just check what falls.
+[ 1286s] 9:00 asked Sofia,Hana,Jack | dominoes 196 | calls 101
+    Sofia -> everyone: Last minute! I'm closing the gap from the tail into the fins. Omar, the nose joint is yours. Everyone else, hands off the tail.
+    (Hana held a thought)
+    (Jack held a thought)
+[ 1296s] 9:15 asked Omar,Hana | dominoes 203 | calls 103
+    Omar -> everyone: Still working the nose joint, half in. I'll shout the second it's dark. Everyone stay off that spot.
+    Hana -> everyone: Omar, I'm keeping off the nose. Just shout when it's in. Sofia, the tail's all yours.
+[ 1301s] 9:30 asked Sofia,Omar,Hana | dominoes 213 | calls 106
+    Sofia -> everyone: Thanks Hana! Finishing the tail gap now, almost there.
+[ 1307s] 9:45 asked Hana | dominoes 222 | calls 107
+    Hana -> everyone: Looking good, you two. I'm keeping my hands off. Shout when it's in!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.94,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.81,
+      "error": 0.54
+    },
+    "Hana": {
+      "speed": 0.86,
+      "error": 1.78
+    },
+    "Jack": {
+      "speed": 1.13,
+      "error": 0.8
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1363.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a fish or bird head in profile",
+      "a swoosh or rainbow-like arc"
+    ],
+    [
+      "curved line of fallen dominoes in an arc, seen from above",
+      "hand-drawn loop or arc with a small hook at the left end",
+      "outline of a fish or bird head facing left"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "dominoes toppling in a loop",
+      "swan or bird neck outline"
+    ]
+  ],
+  "placed": 222,
+  "fell": 64,
+  "completion": 0.288,
+  "team_score": 0.096,
+  "first_domino_at": "0:15",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 11,
+    "Sofia": 12,
+    "Jack": 8,
+    "Omar": 9
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 124,
+    "failed": 3,
+    "input_tokens": 254,
+    "cache_creation_tokens": 580394,
+    "cache_read_tokens": 359964,
+    "output_tokens": 74301,
+    "seconds": 1892.6,
+    "api_equivalent_usd": 2.9636
+  }
+}

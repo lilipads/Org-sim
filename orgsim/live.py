@@ -131,6 +131,7 @@ class LiveGame:
         self.pad_holder: str | None = None
         self.pad_strokes: list = []
         self._start_claimed = False
+        self._taken: set = set()                    # line ends someone is already carrying on
         self.t = 0.0
         self.log: dict = {"engine": "live", "config": asdict(cfg),
                           "regions": [asdict(r) for r in world.regions.values()],
@@ -502,7 +503,8 @@ class LiveGame:
                             bad.append(f"there's no sketch stroke {s.get('stroke')} on the pad to trace")
                             continue
                         origin, flow = sketch_flow(drawn, sketch_points)
-                        pts_src = flow.get(k) or sketch_points(drawn[k - 1])
+                        segs = flow.get(k) or [sketch_points(drawn[k - 1])]
+                        pts_src = segs[0]
                         err = self.cfg.skills.get(n, {}).get("error", 1.0)
                         has_start = any(x.start for x in self.world.dominoes.values()
                                         if x.region == self.location[n]) or self._start_claimed
@@ -513,7 +515,8 @@ class LiveGame:
                             # the run starts where the sketch starts: the start domino faces between
                             # all the lines leaving that point, and they split off just after it
                             heads = [math.atan2(p[min(2, len(p) - 1)][1] - p[0][1], p[min(2, len(p) - 1)][0] - p[0][0])
-                                     for p in flow.values() if math.hypot(p[0][0] - origin[0], p[0][1] - origin[1]) <= 1.0]
+                                     for ps in flow.values() for p in ps
+                                     if math.hypot(p[0][0] - origin[0], p[0][1] - origin[1]) <= 1.0]
                             bis = math.degrees(math.atan2(sum(math.sin(a) for a in heads), sum(math.cos(a) for a in heads)))
                             lead = (origin[0] - SPACING_ * math.cos(math.radians(bis)),
                                     origin[1] - SPACING_ * math.sin(math.radians(bis)), bis % 360)
@@ -523,16 +526,21 @@ class LiveGame:
                         begin = pts_src[0]
                         feeds_in = lead is None and (
                             at_origin or any(math.hypot(p[-1][0] - begin[0], p[-1][1] - begin[1]) <= 1.6
-                                             for kk, p in flow.items() if kk != k))
+                                             for kk, ps in flow.items() for p in ps if p is not pts_src))
                         if feeds_in and not specs and not any(
                                 x.state == "up" for x in self.world.near(begin[0], begin[1], 1.4)):
-                            pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin}
+                            pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin,
+                                       "more": segs[1:]}
                             notes.append(f"waiting for the run to reach the start of stroke {k}")
                             continue
                         pts, note = trace_specs(self.world, pts_src, self.rng, max(0, room),
-                                                drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead)
+                                                drift=self.cfg.freehand_sigma * 0.5 * err, lead=lead,
+                                                taken=self._taken)
                         notes.append(f"{note} (stroke {k})")
                         specs += [("place", sp) for sp in pts]
+                        if len(segs) > 1:      # the other half of a stroke through a junction
+                            pending = {"k": k, "pts": segs[1], "err": err, "room": max(0, room - len(pts)),
+                                       "begin": segs[1][0], "more": segs[2:]}
                         continue
                     if s.get("type") == "fix":
                         ops, note = fix_specs(self.world, s, max(0, room))
@@ -602,11 +610,13 @@ class LiveGame:
                 bx, by = pend["begin"]
                 if any(x.state == "up" for x in self.world.near(bx, by, 1.4)):
                     pts, note = trace_specs(self.world, pend["pts"], self.rng, pend["room"],
-                                            drift=self.cfg.freehand_sigma * 0.5 * pend["err"])
+                                            drift=self.cfg.freehand_sigma * 0.5 * pend["err"], taken=self._taken)
                     task["queue"] = [("place", sp) for sp in pts]
                     task["total"] += len(pts)
                     task["label"] = f"{note} (stroke {pend['k']})"
-                    task["pending"] = None
+                    more = pend.get("more") or []
+                    task["pending"] = ({**pend, "pts": more[0], "begin": more[0][0], "more": more[1:]}
+                                       if more else None)
                     self.inbox[n].append(f"The run has reached the start of stroke {pend['k']}, so you carry it on.")
                 else:
                     continue
@@ -692,6 +702,8 @@ class LiveGame:
         return placed_at
 
     def _finish_build(self, n: str, task: dict):
+        if task.get("pending"):                       # more of this stroke to come once the run arrives
+            return
         if self.cfg.snap and not task.get("begun") and task["placed"]:
             task["begun"] = True
             first = self.world.dominoes.get(task["placed"][0])
