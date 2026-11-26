@@ -405,42 +405,49 @@ class Game:
         return self.push()
 
     def push(self) -> dict:
-        """Push the start domino on a copy of the world, so the standing picture
-        survives (round-1 pictures carry into round 2). The toppled copy is kept
-        in self.pushed_world for rendering."""
-        import copy
-        before = self.world.snapshot()
-        w = self.pushed_world = copy.deepcopy(self.world)
-        standing = {d.id for d in w.dominoes.values() if d.state == "up"}
-        early = {d.id for d in w.dominoes.values() if d.state == "down"}
-        regions = [r.name for r in w.regions.values() if r.kind == "table"]
-        pushes = [self.start_region] if self.start_region else regions
-        times: dict = {}
-        for reg in pushes:
-            starts = [d.id for d in w.dominoes.values() if d.start and d.region == reg and d.state == "up"]
-            times.update(w.topple(starts[:1]))
-        per_table = {}
-        limit = self.cfg.time_limit
-        for reg in regions:
-            ids = {d.id for d in w.dominoes.values() if d.region == reg}
-            st = ids & standing
-            fell = [i for i in st if i in times]
-            in_time = [i for i in fell if limit is None or times[i] <= limit]
-            per_table[reg] = {"placed": len(ids), "standing_at_push": len(st), "fell": len(fell),
-                              "fell_in_time": len(in_time), "early_down": len(ids & early),
-                              "completion": round(len(in_time) / len(st), 3) if st else 0.0,
-                              "revealed": bool(st) and len(in_time) / len(st) >= self.cfg.reveal_threshold}
-        out = {"times": {str(k): round(v, 2) for k, v in times.items()},
-               "duration": round(max(times.values()), 2) if times else 0.0,
-               "per_table": per_table,
-               "row_success": all(v["revealed"] for v in per_table.values()) if self.start_region else None,
-               "before_push": before}
+        """Push the start domino on a copy of the world (see push_world)."""
+        out, self.pushed_world = push_world(self.world, self.start_region, self.cfg.time_limit,
+                                            self.cfg.reveal_threshold)
         self.log["push"] = out
         return out
 
     def save(self, path: str):
         with open(path, "w") as f:
             json.dump(self.log, f)
+
+
+def push_world(world: World, start_region: str | None = None, time_limit: float | None = None,
+               reveal_threshold: float = 0.5) -> tuple:
+    """Push on a copy of the world, so the standing picture survives (round-1 pictures
+    carry into round 2). Round 1 pushes every table's start; round 2 only the first
+    table's. Returns (scores, toppled copy)."""
+    import copy
+    before = world.snapshot()
+    w = copy.deepcopy(world)
+    standing = {d.id for d in w.dominoes.values() if d.state == "up"}
+    early = {d.id for d in w.dominoes.values() if d.state == "down"}
+    regions = [r.name for r in w.regions.values() if r.kind == "table"]
+    pushes = [start_region] if start_region else regions
+    times: dict = {}
+    for reg in pushes:
+        starts = [d.id for d in w.dominoes.values() if d.start and d.region == reg and d.state == "up"]
+        times.update(w.topple(starts[:1]))
+    per_table = {}
+    for reg in regions:
+        ids = {d.id for d in w.dominoes.values() if d.region == reg}
+        st = ids & standing
+        fell = [i for i in st if i in times]
+        in_time = [i for i in fell if time_limit is None or times[i] <= time_limit]
+        per_table[reg] = {"placed": len(ids), "standing_at_push": len(st), "fell": len(fell),
+                          "fell_in_time": len(in_time), "early_down": len(ids & early),
+                          "completion": round(len(in_time) / len(st), 3) if st else 0.0,
+                          "revealed": bool(st) and len(in_time) / len(st) >= reveal_threshold}
+    out = {"times": {str(k): round(v, 2) for k, v in times.items()},
+           "duration": round(max(times.values()), 2) if times else 0.0,
+           "per_table": per_table,
+           "row_success": all(v["revealed"] for v in per_table.values()) if start_region else None,
+           "before_push": before}
+    return out, w
 
 
 def table_world(name: str = "table", width: float = 60, height: float = 40, supply: int = 250,

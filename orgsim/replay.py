@@ -136,6 +136,7 @@ function side() {
   const el = document.getElementById('side');
   if (cur === 0) { el.innerHTML = '<h2>Before the first turn</h2><p class="ev">Use ▶ to step through turns, or Push to watch the final push.</p>'; return; }
   const t = LOG.turns[cur - 1];
+  if (t.clock !== undefined) { liveSide(el, t); return; }
   let h = `<h2>Turn ${t.turn}</h2>`;
   for (const [n, d] of Object.entries(t.decisions))
     h += `<div class="act"><span class="sw" style="background:${color(n)}"></span><span class="who">${esc(n)}</span> ${esc(describe(d))}</div>`;
@@ -153,6 +154,35 @@ function side() {
   }
   el.innerHTML = h;
 }
+function liveDo(d) {
+  const k = d.do || 'continue';
+  if (k === 'build') return `starts building (${(d.strokes || []).map(s => s.type).join(', ') || 're-standing'})${d.start ? ', marks start' : ''}`;
+  if (k === 'take_down') return 'starts taking down dominoes';
+  if (k === 'inspect') return 'inspects';
+  if (k === 'stop') return 'stops and watches';
+  if (k === 'walk') return `walks to ${d.where}`;
+  return 'keeps going';
+}
+function liveSide(el, t) {
+  let h = `<h2>${esc(t.clock)}</h2>`;
+  for (const [n, d] of Object.entries(t.decisions))
+    h += `<div class="act"><span class="sw" style="background:${color(n)}"></span><span class="who">${esc(n)}</span> ${esc(liveDo(d))}${d.thinking ? ` <span class="ev">· ${esc(d.thinking)}</span>` : ''}</div>`;
+  for (const x of (t.held || [])) h += `<div class="ev">🤐 ${esc(x.who)} held a thought; ${esc(x.yielded_to)} spoke first</div>`;
+  for (const e of t.events) {
+    if (e.type === 'bump') h += `<div class="ev">💥 ${esc(e.who)} bumped the table near ${esc(e.near)}: ${e.knocked} fell</div>`;
+    if (e.type === 'take_down') h += `<div class="ev">✋ ${esc(e.who)} took down ${e.ids.length}</div>`;
+  }
+  h += '<h2>Conversation so far</h2>';
+  const msgs = [];
+  for (const r of LOG.turns.slice(0, cur)) for (const c of r.conversations) for (const m of c.messages)
+    msgs.push([r.clock, m]);
+  for (const [clk, m] of msgs.slice(-40)) {
+    const to = Array.isArray(m.to) ? m.to.join(', ') : (m.to || 'everyone');
+    h += `<div class="msg"><span class="ev">${esc(clk)}</span> <span class="who" style="color:${color(m.speaker)}">${esc(m.speaker)}</span> <span class="ev">→ ${esc(to)}</span>: ${esc(m.message)}</div>`;
+  }
+  el.innerHTML = h;
+  el.scrollTop = el.scrollHeight;
+}
 function stats() {
   const p = LOG.push, el = document.getElementById('stats');
   let h = '';
@@ -168,7 +198,8 @@ const slider = document.getElementById('turn');
 slider.max = frames.length - 1;
 function go(i) { if (anim) { cancelAnimationFrame(anim); anim = null; }
   cur = Math.max(0, Math.min(frames.length - 1, i)); slider.value = cur;
-  document.getElementById('tlabel').textContent = cur === 0 ? 'start' : `turn ${cur} of ${frames.length - 1}`;
+  const tt = cur > 0 ? LOG.turns[cur - 1] : null;
+  document.getElementById('tlabel').textContent = cur === 0 ? 'start' : (tt.clock !== undefined ? tt.clock : `turn ${cur} of ${frames.length - 1}`);
   draw(); side(); }
 slider.oninput = () => go(+slider.value);
 document.getElementById('prev').onclick = () => go(cur - 1);
@@ -183,7 +214,9 @@ document.getElementById('push').onclick = () => {
 };
 document.getElementById('legend').innerHTML = LOG.agents.map(a =>
   `<span><span class="sw" style="background:${color(a.name)}"></span>${esc(a.name)}</span>`).join('');
-document.getElementById('sub').textContent = `${LOG.agents.length} agents · ${LOG.turns.length} turns · round ${LOG.config.round_no}`;
+document.getElementById('sub').textContent = LOG.engine === 'live'
+  ? `${LOG.agents.length} agents · ${Math.round(LOG.config.duration / 60)} minutes · round ${LOG.config.round_no}`
+  : `${LOG.agents.length} agents · ${LOG.turns.length} turns · round ${LOG.config.round_no}`;
 stats();
 window.addEventListener('resize', fit);
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => draw());

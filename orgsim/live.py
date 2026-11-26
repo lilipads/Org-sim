@@ -1,0 +1,463 @@
+"""Real-time engine (interaction model v2, DESIGN.md §4).
+
+The clock runs in short beats (15 s by default). Agents are not polled every
+beat. They are asked to decide only when something calls for it:
+  * the round starts;
+  * they hear something they asked to be interrupted for (anything said to the
+    table, or only things said to them);
+  * their task finishes, or something happens to their work (bump, take-down);
+  * they held a thought because someone else took the floor;
+  * they've been quiet too long (a periodic check-in).
+Each time, an agent can say something AND do something with their hands. Work is
+"head down": a build is a queue of dominoes the engine places over time, at about
+10 s per domino (slower while talking).
+
+Taking the floor: if several people start talking to the table in the same beat,
+the most eager one speaks; the others hold their thought and are asked again next
+beat, having heard the speaker.
+"""
+from __future__ import annotations
+
+import json
+import math
+import random
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import asdict, dataclass, field
+
+from .dominoes import World, expand_stroke
+from .game import push_world
+from .render import ascii_map
+
+DOS = ("continue", "build", "take_down", "inspect", "stop", "walk")
+
+
+@dataclass
+class LiveConfig:
+    round_no: int = 1
+    duration: float = 1200.0         # seconds of game time (20 minutes)
+    beat: float = 15.0
+    seconds_per_domino: float = 10.0  # ~12 dominoes per 2 minutes of focused work
+    talk_slowdown: float = 0.5       # hands work at this speed in a beat you speak
+    take_down_per_beat: int = 6
+    take_down_max: int = 30          # per take-down task
+    inspect_seconds: float = 15.0
+    max_quiet: float = 120.0         # longest an agent goes without being asked
+    idle_quiet: float = 30.0         # same, for an agent with nothing to do
+    max_queue: int = 40              # dominoes per build task
+    history_seconds: float = 300.0   # how much recent conversation an agent sees
+    max_words: int = 80
+    words_per_beat: int = 40         # how much talk fits in one beat at one table (~2.5 words/s)
+    time_limit: float | None = None  # round 2
+    shared_pool: str | None = None
+    reveal_threshold: float = 0.5
+    seed: int = 0
+
+
+@dataclass
+class Decision:
+    say: str = ""
+    to: object = "everyone"
+    eagerness: int = 5
+    do: str = "continue"
+    strokes: list = field(default_factory=list)
+    restand: list | None = None
+    start: bool = False
+    area: list | None = None
+    where: str | None = None
+    interrupt: str = "any"           # any | addressed
+    notes: str | None = None
+    thinking: str = ""
+
+    def brief(self) -> dict:
+        d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
+        d.pop("notes", None)
+        if not self.say:
+            d.pop("to", None)
+            d.pop("eagerness", None)
+        return d
+
+
+class LiveAgentBase:
+    def __init__(self, name: str, home: str, persona: str = ""):
+        self.name, self.home, self.persona = name, home, persona
+
+    def act(self, obs: dict) -> Decision:  # pragma: no cover - interface
+        raise NotImplementedError
+
+
+def clock(t: float) -> str:
+    return f"{int(t // 60)}:{int(t % 60):02d}"
+
+
+class LiveGame:
+    def __init__(self, world: World, agents: list, cfg: LiveConfig, start_region: str | None = None):
+        self.world, self.agents, self.cfg = world, agents, cfg
+        self.start_region = start_region
+        self.rng = random.Random(cfg.seed)
+        self.by_name = {a.name: a for a in agents}
+        n = [a.name for a in agents]
+        self.location = {a.name: a.home for a in agents}
+        self.notes = dict.fromkeys(n, "")
+        self.interrupt = dict.fromkeys(n, "any")
+        self.task: dict = dict.fromkeys(n)
+        self.credit = dict.fromkeys(n, 0.0)
+        self.heard: dict = {a: [] for a in n}        # [{t, speaker, to, text, side}]
+        self.inbox: dict = {a: [] for a in n}        # things since last asked: notices, results
+        self.wake: dict = {a: ["the round is starting"] for a in n}
+        self.last_asked = dict.fromkeys(n, -1e9)
+        self.last_seen_msg = dict.fromkeys(n, 0)
+        self.held: dict = {}
+        self.t = 0.0
+        self.log: dict = {"engine": "live", "config": asdict(cfg),
+                          "regions": [asdict(r) for r in world.regions.values()],
+                          "agents": [{"name": a.name, "home": a.home, "persona": a.persona} for a in agents],
+                          "initial": world.snapshot(), "turns": []}
+
+    # ---- helpers ------------------------------------------------------------
+    def pools_for(self, name: str) -> list:
+        pools = [self.by_name[name].home]
+        if self.cfg.shared_pool:
+            pools.append(self.cfg.shared_pool)
+        return pools
+
+    def pool_for_region(self, region: str) -> str:
+        r = self.world.regions[region]
+        return region if r.kind == "table" else (self.cfg.shared_pool or region)
+
+    def here(self, name: str) -> list:
+        return [o for o in self.by_name if o != name and self.location[o] == self.location[name]]
+
+    def task_status(self, name: str) -> str:
+        task = self.task[name]
+        if not task:
+            return "Nothing in your hands right now."
+        if task["kind"] == "build":
+            done, total = task["done"], task["total"]
+            return (f"Building ({task['label']}): {done} of {total} placed so far"
+                    + (f", {len(task['queue'])} still to go." if task["queue"] else "."))
+        if task["kind"] == "take_down":
+            return f"Taking down dominoes in {task['area']}: {task['removed']} removed so far."
+        if task["kind"] == "inspect":
+            return f"Inspecting {task['area']}."
+        return task["kind"]
+
+    def observe(self, name: str) -> dict:
+        a = self.by_name[name]
+        loc = self.world.regions[self.location[name]]
+        new_from = self.last_seen_msg[name]
+        recent = [dict(m, new=(i >= new_from)) for i, m in enumerate(self.heard[name])
+                  if m["t"] >= self.t - self.cfg.history_seconds]
+        obs = {
+            "name": name, "persona": a.persona, "round": self.cfg.round_no,
+            "clock": clock(self.t), "elapsed": self.t,
+            "remaining": max(0.0, self.cfg.duration - self.t),
+            "why_now": list(self.wake[name]), "location": loc.name, "people_here": self.here(name),
+            "supply": {p: self.world.supply.get(p, 0) for p in self.pools_for(name)},
+            "map": ascii_map(self.world, loc.x0, loc.y0, loc.x1, loc.y1),
+            "conversation": recent,
+            "inbox": list(self.inbox[name]), "task": self.task_status(name),
+            "interrupt": self.interrupt[name], "notes": self.notes[name],
+        }
+        if len(self.world.regions) > 1:
+            obs["room_overview"] = ascii_map(self.world, 0, 0, self.world.width, self.world.height, step=3.0)
+        return obs
+
+    # ---- one beat -------------------------------------------------------------
+    def due(self) -> list:
+        out = []
+        for n in self.by_name:
+            quiet = self.t - self.last_asked[n]
+            limit = self.cfg.idle_quiet if not self.task[n] else self.cfg.max_quiet
+            if quiet >= limit:
+                self.wake[n].append(f"a check-in: {int(quiet)} seconds since you last took stock")
+            if self.wake[n]:
+                out.append(n)
+        return out
+
+    def step(self) -> dict:
+        cfg = self.cfg
+        rec = {"turn": len(self.log["turns"]) + 1, "time": self.t, "clock": clock(self.t),
+               "asked": [], "decisions": {}, "conversations": [], "held": [], "events": []}
+        asked = self.due()
+        decisions: dict = {}
+        if asked:
+            obs = {n: self.observe(n) for n in asked}
+
+            def call(n):
+                try:
+                    return self.by_name[n].act(obs[n])
+                except Exception as e:  # an agent failing must not stop the game
+                    return Decision(thinking=f"[error: {e}]")
+
+            with ThreadPoolExecutor(max_workers=min(16, len(asked))) as ex:
+                decisions = dict(zip(asked, ex.map(call, asked)))
+            for n in asked:
+                self.wake[n] = []
+                self.inbox[n] = []
+                self.last_asked[n] = self.t
+                self.last_seen_msg[n] = len(self.heard[n])
+            rec["asked"] = asked
+            rec["decisions"] = {n: d.brief() for n, d in decisions.items()}
+
+        # walking first (free), then notes and interrupt preferences
+        for n, d in decisions.items():
+            if d.notes is not None:
+                self.notes[n] = d.notes[:2500]
+            if d.interrupt in ("any", "addressed"):
+                self.interrupt[n] = d.interrupt
+            dest = d.where if d.do == "walk" else None
+            if dest and dest in self.world.regions and dest != self.location[n]:
+                self.location[n] = dest
+                rec["events"].append({"type": "move", "who": n, "where": dest})
+
+        for n, d in decisions.items():
+            self._start_task(n, d, rec)
+        spoke = self._speech(decisions, rec)
+        placed_at = self._work(spoke, rec)
+        self._bumps(placed_at, rec)
+        rec["notes"] = dict(self.notes)
+        rec["supply"] = dict(self.world.supply)
+        rec["locations"] = dict(self.location)
+        rec["tasks"] = {n: self.task_status(n) for n in self.by_name}
+        rec["snapshot"] = self.world.snapshot()
+        self.log["turns"].append(rec)
+        self.t += cfg.beat
+        return rec
+
+    def _speech(self, decisions: dict, rec: dict) -> set:
+        """Resolve who gets the floor. Returns the set of agents who spoke."""
+        spoke = set()
+        wanting = [(n, d) for n, d in decisions.items() if d.say.strip()]
+        table_talk: dict = {}
+        for n, d in wanting:
+            to = d.to
+            if to in (None, "", "everyone", "all", ["everyone"]):
+                table_talk.setdefault(self.location[n], []).append((n, d))
+            else:
+                names = [to] if isinstance(to, str) else list(to)
+                self._say(n, d, [m for m in names if m in self.by_name and m != n], rec)
+                spoke.add(n)
+        for loc, cands in table_talk.items():
+            # Most eager first; others get in too while the beat has room for their words.
+            self.rng.shuffle(cands)
+            cands.sort(key=lambda nd: -int(nd[1].eagerness or 0))
+            used, first = 0, cands[0][0]
+            for k, (n, d) in enumerate(cands):
+                words = len(d.say.split())
+                if k == 0 or used + words <= self.cfg.words_per_beat:
+                    self._say(n, d, "everyone", rec)
+                    spoke.add(n)
+                    used += words
+                else:
+                    self.wake[n].append(f"you were about to speak but {first} started talking first")
+                    self.inbox[n].append(f"You held your thought (you were going to say: \"{d.say.strip()}\") "
+                                         f"because {first} started talking first.")
+                    rec["held"].append({"who": n, "message": d.say.strip(), "yielded_to": first})
+        return spoke
+
+    def _say(self, n: str, d: Decision, audience, rec: dict):
+        words = d.say.strip().split()
+        text = " ".join(words[: self.cfg.max_words]) + (" ..." if len(words) > self.cfg.max_words else "")
+        here = self.here(n)
+        if audience == "everyone":
+            hearers, missing = here, []
+        else:
+            hearers = [m for m in audience if m in here]
+            missing = [m for m in audience if m not in here]
+            if missing:
+                self.inbox[n].append(f"Not here, so they didn't hear you: {', '.join(missing)}.")
+        msg = {"t": self.t, "clock": clock(self.t), "speaker": n,
+               "to": "everyone" if audience == "everyone" else hearers, "text": text}
+        self.heard[n].append(dict(msg, side=False))
+        for m in hearers:
+            self.heard[m].append(dict(msg, side=False))
+            addressed = audience != "everyone"
+            if addressed or self.interrupt[m] == "any" or not self.task[m]:
+                reason = f"{n} said something to you" if addressed else f"{n} said something to the table"
+                if reason not in self.wake[m]:
+                    self.wake[m].append(reason)
+        if audience != "everyone":
+            for m in here:
+                if m not in hearers:
+                    self.inbox[m].append(f"[{clock(self.t)}] {n} said something quietly to {', '.join(hearers)}.")
+        rec["conversations"].append({"members": [n] + list(hearers), "pulled_in": [], "location": self.location[n],
+                                     "messages": [{"speaker": n, "to": msg["to"], "message": text}]})
+
+    def _start_task(self, n: str, d: Decision, rec: dict):
+        if d.do in ("continue", "walk") or d.do not in DOS:
+            return
+        if d.do == "stop":
+            self.task[n] = None
+            return
+        if d.do == "build":
+            specs, bad = [], []
+            for s in d.strokes or []:
+                try:
+                    specs += [("place", sp) for sp in expand_stroke(s)]
+                except Exception as e:
+                    bad.append(f"{s!r}: {e}")
+            if d.restand and len(d.restand) == 4:
+                x0, y0, x1, y1 = (float(v) for v in d.restand)
+                down = [dd.id for dd in self.world.dominoes.values() if dd.state == "down"
+                        and min(x0, x1) <= dd.x <= max(x0, x1) and min(y0, y1) <= dd.y <= max(y0, y1)]
+                specs = [("restand", i) for i in down] + specs
+            cut = max(0, len(specs) - self.cfg.max_queue)
+            specs = specs[: self.cfg.max_queue]
+            label = ", ".join(s.get("type", "?") for s in (d.strokes or [])) or "re-standing"
+            self.task[n] = {"kind": "build", "queue": specs, "total": len(specs), "done": 0,
+                            "start": bool(d.start), "label": label, "placed": [], "blocked": [],
+                            "at": self.location[n]}
+            if bad:
+                self.inbox[n].append("Didn't understand: " + "; ".join(bad[:3]))
+            if cut:
+                self.inbox[n].append(f"That was more than {self.cfg.max_queue} dominoes in one go; the last {cut} "
+                                     "were left out. Ask for them again when this batch is done.")
+            if not specs:
+                self.task[n] = None
+                self.wake[n].append("your build had nothing to place")
+        elif d.do in ("take_down", "inspect"):
+            loc = self.world.regions[self.location[n]]
+            area = d.area if d.area and len(d.area) == 4 else [loc.x0, loc.y0, loc.x1, loc.y1]
+            x0, y0, x1, y1 = (float(v) for v in area)
+            area = [max(min(x0, x1), loc.x0), max(min(y0, y1), loc.y0),
+                    min(max(x0, x1), loc.x1), min(max(y0, y1), loc.y1)]
+            if d.do == "take_down":
+                self.task[n] = {"kind": "take_down", "area": area, "removed": 0}
+            else:
+                self.task[n] = {"kind": "inspect", "area": area, "ends": self.t + self.cfg.inspect_seconds}
+
+    def _work(self, spoke: set, rec: dict) -> dict:
+        cfg = self.cfg
+        placed_at = {}
+        for n, task in list(self.task.items()):
+            if not task:
+                continue
+            if task["kind"] == "build":
+                rate = cfg.beat / cfg.seconds_per_domino * (cfg.talk_slowdown if n in spoke else 1.0)
+                self.credit[n] += rate
+                k = int(self.credit[n])
+                self.credit[n] -= k
+                batch, task["queue"] = task["queue"][:k], task["queue"][k:]
+                pts, new, restood = [], [], []
+                for kind, item in batch:
+                    if kind == "restand":
+                        restood += self.world.restand([item], self.rng)
+                    else:
+                        start_idx = 0 if task["start"] and not task["placed"] and not new else None
+                        res = self.world.place([item], n, rec["turn"], self.location[n], self.pools_for(n),
+                                               self.rng, max_n=1, start_index=start_idx)
+                        new += res.placed
+                        task["blocked"] += res.blocked
+                task["done"] += len(batch)
+                task["placed"] += [d.id for d in new]
+                pts = [(d.x, d.y) for d in new + restood]
+                if pts:
+                    placed_at[n] = (sum(p[0] for p in pts) / len(pts), sum(p[1] for p in pts) / len(pts))
+                if new or restood:
+                    rec["events"].append({"type": "build", "who": n, "placed": [d.id for d in new],
+                                          "restood": [[d.id, d.builder] for d in restood],
+                                          "start": any(d.start for d in new)})
+                if not task["queue"]:
+                    self._finish_build(n, task)
+            elif task["kind"] == "take_down":
+                x0, y0, x1, y1 = task["area"]
+                cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
+                inside = sorted((d for d in self.world.dominoes.values()
+                                 if x0 <= d.x <= x1 and y0 <= d.y <= y1),
+                                key=lambda d: (d.x - cx) ** 2 + (d.y - cy) ** 2)
+                room = min(cfg.take_down_per_beat, cfg.take_down_max - task["removed"])
+                chosen = inside[:room]
+                whose: dict = {}
+                for d in chosen:
+                    whose[d.builder] = whose.get(d.builder, 0) + 1
+                    self.world.remove([d.id], self.pool_for_region(d.region))
+                task["removed"] += len(chosen)
+                if chosen:
+                    rec["events"].append({"type": "take_down", "who": n, "ids": [d.id for d in chosen],
+                                          "whose": whose, "area": task["area"]})
+                    for owner, k in whose.items():
+                        if owner != n and owner in self.by_name:
+                            self.inbox[owner].append(f"[{clock(self.t)}] {n} took down {k} of your dominoes "
+                                                     f"around ({cx:.0f}, {cy:.0f}).")
+                            if self.location[owner] == self.location[n]:
+                                self.wake[owner].append(f"{n} is taking down your dominoes")
+                if len(inside) <= room or task["removed"] >= cfg.take_down_max:
+                    left = max(0, len(inside) - room)
+                    self.inbox[n].append(f"Done taking down: {task['removed']} removed from {task['area']}"
+                                         + (f"; {left} still there." if left else "."))
+                    self.wake[n].append("you finished taking down")
+                    self.task[n] = None
+            elif task["kind"] == "inspect" and self.t + cfg.beat >= task["ends"]:
+                rep = self.world.inspect(*task["area"])
+                lines = [f"Inspection of {task['area']}: {rep['count']} dominoes, {rep['knocked_over']} knocked over, "
+                         f"{rep['not_reached_from_start']} standing ones the start can't reach"
+                         + ("" if rep["has_start"] else " (there is no start domino yet)") + "."]
+                if rep["line_ends"]:
+                    lines.append("Line ends (these knock nothing over): " + "; ".join(
+                        f"#{e['id']} at ({e['x']},{e['y']}) facing {e['angle']}: {e['why']}" for e in rep["line_ends"]))
+                lines.append("Dominoes [id, x, y, angle, state]: " + json.dumps(rep["dominoes"]))
+                self.inbox[n].append("\n".join(lines))
+                self.wake[n].append("your inspection finished")
+                rec["events"].append({"type": "inspect", "who": n, "area": task["area"],
+                                      "line_ends": len(rep["line_ends"])})
+                self.task[n] = None
+        return placed_at
+
+    def _finish_build(self, n: str, task: dict):
+        ids = task["placed"]
+        doms = [self.world.dominoes[i] for i in ids if i in self.world.dominoes]
+        msg = f"Finished building ({task['label']}): placed {len(ids)}."
+        if doms:
+            first, last = doms[0], doms[-1]
+            msg += (f" First #{first.id} at ({first.x:.2f},{first.y:.2f}) facing {first.angle:.0f}; "
+                    f"last #{last.id} at ({last.x:.2f},{last.y:.2f}) facing {last.angle:.0f}.")
+            if any(d.start for d in doms):
+                msg += " It includes the start domino."
+        if task["blocked"]:
+            msg += " Couldn't place: " + "; ".join(f"({x:.1f},{y:.1f}) {why}" for x, y, why in task["blocked"][:5])
+        self.inbox[n].append(msg)
+        self.wake[n].append("you finished what you were building")
+        self.task[n] = None
+
+    def _bumps(self, placed_at: dict, rec: dict):
+        p = self.world.phys
+        chance = p.bump_chance * self.cfg.beat / 120.0
+        for i, (xi, yi) in placed_at.items():
+            for j, (xj, yj) in placed_at.items():
+                if j == i or math.hypot(xi - xj, yi - yj) > p.bump_radius or self.rng.random() >= chance:
+                    continue
+                cand = [d for d in self.world.near(xi, yi, p.bump_reach) if d.state == "up"]
+                if not cand:
+                    continue
+                times = self.world.topple([self.rng.choice(cand).id], cause="bump")
+                whose: dict = {}
+                for k in times:
+                    b = self.world.dominoes[k].builder
+                    whose[b] = whose.get(b, 0) + 1
+                rec["events"].append({"type": "bump", "who": i, "near": j, "at": [round(xi, 1), round(yi, 1)],
+                                      "knocked": len(times), "whose": whose})
+                for m in self.by_name:
+                    if self.location[m] == self.location[i]:
+                        who = "You" if m == i else i
+                        self.inbox[m].append(f"[{clock(self.t)}] {who} bumped the table while working next to {j}: "
+                                             f"{len(times)} dominoes fell near ({xi:.0f}, {yi:.0f}).")
+                        if m in whose or m == i:
+                            self.wake[m].append("a bump knocked over dominoes")
+
+    # ---- whole round ------------------------------------------------------------
+    def run(self, progress=None) -> dict:
+        while self.t < self.cfg.duration:
+            self.step()
+            if progress:
+                progress(self)
+        return self.push()
+
+    def push(self) -> dict:
+        out, self.pushed_world = push_world(self.world, self.start_region, self.cfg.time_limit,
+                                            self.cfg.reveal_threshold)
+        self.log["push"] = out
+        return out
+
+    def save(self, path: str):
+        with open(path, "w") as f:
+            json.dump(self.log, f)
