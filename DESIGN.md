@@ -172,15 +172,33 @@ rulebook also framed talking as a cost, and agents avoided it. Version 2 replace
   time without asking the agent again. Take-downs and inspections are tasks too: an inspection takes
   15 seconds and reports when done.
 
+### 4.4a No rulers: building by hand and eye
+
+There are no rulers at the table, so agents never get exact numbers:
+- **Free-hand strokes** (a line, an arc, or a single domino aimed at a coordinate) land about a third of
+  a unit off where they were aimed, turned a few degrees. Spacing within a stroke stays even.
+- **Anchored strokes** are precise, because your hands line the new domino up against a real one:
+  - `extend`: carry on from the line end nearest a spot (or branch off a line), curving toward another
+    spot;
+  - `connect`: join two pieces, from a line end to the domino nearest a target, arriving squarely behind
+    it. The engine plans a smooth, buildable curve that routes around what's already on the table. It
+    succeeds 99 times in 100 on random layouts with normal hand error.
+- **Pointing:** while talking, an agent can point at a spot. Everyone sees the pointer's initial on
+  their map, and the words say what is there ("the end of a line, facing right").
+- **Seeing others' hands:** each agent sees roughly where the others are working ("Ava is building
+  around (14, 18), on the left side of the table").
+- **Looking closely** (inspect) reports in words and rough positions, with no domino numbers: where the
+  chain looks broken and why, where lines end, and, tracing by eye from the start, how much of the table
+  would fall and which pieces aren't connected.
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:
 - the round starts;
-- someone talks to them by name, or talks to the table. Agents choose which applies: "interrupt me for
-  anything said to the table," or "only when someone talks to me." Either way they hear everything said
-  to the table; the choice only decides whether it pulls their attention right away;
+- someone talks to them, or says their name. If their hands are free, anything said to the table also
+  gets their attention. Busy builders still hear table talk and catch up on it the next time they're
+  asked;
 - their task finishes, or something happens to their work (a bump, someone taking it down);
-- they were about to speak but someone else took the floor;
 - a check-in: 2 minutes without being asked while busy, or 30 seconds while idle.
 
 Each time, the agent can **say something and do something** in one decision:
@@ -193,7 +211,8 @@ Each time, the agent can **say something and do something** in one decision:
 
 - **Taking the floor.** If several people start talking to the table in the same beat, the most eager
   speaks first. Others also get in while the beat has room (about 40 words, roughly 15 seconds of
-  speech). Anyone left over holds the thought and is asked again next beat, having heard what was said.
+  speech). Anyone left over doesn't get to speak. They're told so next time they're asked, and can say
+  it then if it still matters. This doesn't trigger an extra call.
 - **Who hears what.** Everyone at the table hears what's said to the table. Words said to named people
   are heard only by them; the others notice "Ava said something quietly to Ben."
 - **Being addressed** no longer cancels your work: it gets your attention (you're asked), and you choose
@@ -385,7 +404,20 @@ Open tuning questions for stage 3: dominoes per build (8 is conservative; carefu
   the behavior was unrealistic: two agents built before anyone spoke, two proposed at once, and nobody
   owned the joins. 33% of dominoes fell and the judges saw "a hill." This led to interaction model v2
   (§4.4–4.6).
-- **Run 2 (real-time, table of 4):** in progress.
+- **Run 2 (real-time, table of 4).** Much more human: Chloe emerged as the leader, Ben pushed back,
+  and Ava and Chloe collided. But the plan made everyone wait for Ava's exact end coordinates, so Ben
+  and Dev idled for about 12 minutes. Only 70 dominoes were placed and 43% of them fell. The animal
+  drifted from snake to "giraffe" and "swan." It took 236 calls. This led to: no rulers, pointing,
+  anchored building (extend and connect), seeing others' hands, cheaper chatter, and story transcripts.
+- **Run 3 (real-time with no rulers, table of 4):** in progress.
+
+### 10.3 Transcripts
+
+Each run writes two transcripts:
+- `story.md`: readable as a story. A short recap written by the model (told to stick strictly to the
+  log), then minute by minute: dialogue, plain-language actions, bumps and take-downs. No coordinates in
+  the narration, no private thoughts, no held-back remarks.
+- `transcript_detailed.md`: everything, including private reasoning.
 
 ## 11. Deliverables
 
