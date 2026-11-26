@@ -38,6 +38,7 @@ def main():
     ap.add_argument("--view", choices=["text", "image"], default="text")
     ap.add_argument("--pad-minutes", type=float, default=2.0, help="scratch pad until this minute; 0 = no pad")
     ap.add_argument("--model", default=None, help="model for the agents (judges keep the default)")
+    ap.add_argument("--names", default=None, help="comma-separated persona names to seat (overrides --size)")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -55,7 +56,11 @@ def main():
         phys = Physics()
         freehand = 0.3
     world = table_world("table", W, H, supply, phys)
-    names = names_for(args.size)
+    names = [n.strip() for n in args.names.split(",")] if args.names else names_for(args.size)
+    unknown = [n for n in names if n not in PERSONAS_V2]
+    if unknown:
+        raise SystemExit(f"unknown persona(s): {unknown}; choose from {list(PERSONAS_V2)}")
+    args.size = len(names)
     import tempfile
     cfg = LiveConfig(duration=args.minutes * 60, seed=args.seed, view=args.view,
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
