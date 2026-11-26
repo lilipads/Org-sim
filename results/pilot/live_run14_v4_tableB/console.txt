@@ -137,3 +137,39 @@
 [ 1073s] 13:15 asked Sofia,Omar,Hana | dominoes 170 | calls 104
     Omar -> everyone: My bridge went the wrong way, it's a stray line up toward the corner, not part of the fish. I'm pulling it down so we get dominoes back, then I'll join the top arc properly.
     (Hana held a thought)
+[ 1084s] 13:30 asked Sofia,Hana | dominoes 165 | calls 106
+    Hana -> everyone: Stray branch is down. I'm bridging the bottom into the nose with the freed dominoes, then I'll check what's still pale.
+    (Sofia held a thought)
+[ 1092s] 13:45 asked Sofia,Hana | dominoes 162 | calls 108
+    Sofia -> everyone: That's fine, Omar, pull it. I'm still finishing the top corner of the tail, then I'll inspect what the push actually reaches.
+    (Hana held a thought)
+[ 1106s] 14:00 asked Sofia,Omar,Hana | dominoes 169 | calls 111
+    Hana -> everyone: Fix found nothing, so the bottom's first domino is just too far off the start line. I'm bridging from the line into it now. Then I'll check whether it goes dark.
+    (Omar held a thought)
+[ 1113s] 14:15 asked Hana,Jack | dominoes 172 | calls 113
+    Hana -> everyone: Bridge is in. Inspecting the nose now to see if the bottom goes dark.
+    (Jack held a thought)
+[ 1122s] 14:30 asked Hana | dominoes 178 | calls 114
+    Hana -> everyone: Bottom's still pale, the bridge domino sits off to the side. Trying a fix right at that joint, then I'll check again.
+[ 1130s] 14:45 asked Hana | dominoes 178 | calls 115
+    Hana -> everyone: Bottom's still pale, so I'm pulling the crooked bridge dominoes at the nose and re-laying that joint cleanly.
+[ 1138s] 15:00 asked Sofia,Omar,Hana,Jack | dominoes 175 | calls 119
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Stray's down soon. I'm pulling that tall curve at the top left, it's not part of the fish, so we get dominoes back. Then I'll finish the hop from the neck into the top arc.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[ 1148s] 15:15 asked Sofia | dominoes 172 | calls 120
+    Sofia -> everyone: Tail corner's done. I'm inspecting the whole chain now. From what I can see, the dark line going up from the nose should hit the top arc, and the bottom still isn't joined. We need those two joins bef
+[ 1157s] 15:30 asked Sofia | dominoes 173 | calls 121
+    Sofia -> everyone: I'm joining the top now. The dark line coming up from the nose stops just short of the start of the top arc, so I'm bridging that gap with a few dominoes. Hana, can you keep on the bottom joint? Omar,
+[ 1178s] 15:45 asked Sofia,Omar,Hana | dominoes 175 | calls 125
+    Sofia -> everyone: Fine, Omar, that's the stray. Keep sending the freed dominoes my way. I'm closing the top gap now.
+    Omar -> everyone: Stray's gone, so we've got dominoes back. Sofia, I'll check your join at the top and tell you if it goes dark.
+    (Hana held a thought)
+[ 1186s] 16:00 asked Sofia,Omar | dominoes 177 | calls 127
+    Omar -> everyone: Sofia, the neck still has a crooked spot just below where you're working. I'm nudging it into line so the push climbs up to your join.
+    (Sofia held a thought)
+[ 1191s] 16:15 asked Sofia,Omar | dominoes 179 | calls 129
+    Omar -> everyone: Nothing fit at the neck, so it was probably already close enough. I'm looking at that spot again to see whether it goes dark up to Sofia's join.
+    (Sofia held a thought)

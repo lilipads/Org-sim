@@ -1,0 +1,35 @@
+[   12s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 9 | calls 4
+    Hana -> everyone: Can I suggest a fish? It's easy to recognise: an oval body, a triangle tail, and a dot for the eye. I'm sketching it now. One start domino at the nose, which splits into a top line and a bottom line t
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[   26s] 0:15 asked Sofia,Omar,Jack | dominoes 15 | calls 7
+    Sofia -> everyone: Love the fish, Hana, let's go with it! I'll take the top of the body. Jack, you're already building up from the start. Do you want to carry on as the beginning of the top curve, or swing over to the t
+    (Omar held a thought)
+    (Jack held a thought)
+[   46s] 0:30 asked Omar,Hana,Jack | dominoes 11 | calls 10
+    Jack -> everyone: Fish is great, Hana! I'll keep going on this top curve since I've already started it from the nose, then I'll do the tail and eye. Sofia, could you take the belly underneath with Omar? Whoever's quick
+    (Hana held a thought)
+    (Omar held a thought)
+[   60s] 0:45 asked Sofia,Omar,Hana | dominoes 22 | calls 13
+    Hana -> everyone: Okay, Jack, keep going on the top, that's the front of the top curve. Sofia, carry on from where his line ends and arc over the back. Change for the bottom: the start only faces up, so Omar, build the
+    (Sofia held a thought)
+    (Omar held a thought)
+[   76s] 1:00 asked Sofia,Omar,Jack | dominoes 30 | calls 16
+    Sofia -> everyone: Okay, Jack, your curve is already up at the top, so I'll carry on from the end of your line and run it over the back to the tail. You can go do the tail and eye. I'll clear my stray ones just below.
+    (Omar held a thought)
+    (Jack held a thought)
+[   92s] 1:15 asked Hana,Jack | dominoes 38 | calls 18
+    Hana -> Omar: Omar, quick check on your bottom line by the tail: the little ticks look like they point up toward the tail. It needs to fall the other way, from the tail round the belly back toward the nose. Can you
+    Jack -> everyone: Got it, Hana! Sofia, the end of my line is all yours, shout if it looks off. I'm heading over to do the tail. Omar, I'll try not to bump you!
+[  107s] 1:30 asked Sofia,Omar,Hana | dominoes 42 | calls 21
+    Omar -> everyone: Got it, Hana, thanks. Mine are facing the wrong way. I'm pulling those up and redoing the belly from the tail end back toward the nose. Sofia, Jack, aim the top line at the tail point so mine picks up
+    (Hana held a thought)
+    (Sofia held a thought)
+[  116s] 1:45 asked Sofia,Hana,Jack | dominoes 50 | calls 24
+    Sofia -> everyone: Got it, Omar! I'll run the top over the back and aim it right at the tail point where yours picks up.
+    (Hana held a thought)
+    (Jack held a thought)
+[  127s] 2:00 asked Sofia,Omar | dominoes 60 | calls 26
+    Sofia -> everyone: My stretch looks a touch low where it meets Jack's end, so I'm closing that joint now. Hana, is the gap before your piece near the top right okay, or do you want me to bridge it?
+    (Omar held a thought)

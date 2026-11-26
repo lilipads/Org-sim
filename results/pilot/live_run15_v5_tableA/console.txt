@@ -3,3 +3,38 @@
     (Maya held a thought)
     (Tom held a thought)
     (Leo held a thought)
+[   19s] 0:15 asked Leo | dominoes 14 | calls 5
+    Leo -> everyone: Fish works for me. I'll take the bottom curve once the lead-in's down. Priya, just shout where the nose ends up and I'll start from there.
+[   30s] 0:30 asked Tom,Priya | dominoes 17 | calls 7
+    Priya -> Leo: Leo, nose ends up right about here, where the lead-in stops. Bottom curve sweeps back from there round to the tail. I'll keep laying the lead-in.
+    Tom -> everyone: Fish sounds good, I'm in. I'll take the top curve. Priya, I put a few dominoes down ahead of your lead-in, so tell me if they're in the way. Where's the nose going to land?
+[   46s] 0:45 asked Priya,Leo | dominoes 19 | calls 9
+    Priya -> everyone: Tom, your dominoes are perfect, they're right on the line. The nose is about where you're standing, just where my lead-in runs into yours. Top curve sweeps up and back from there toward the tail, and 
+    (Leo held a thought)
+[   55s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 25 | calls 13
+    Leo -> everyone: Got it, I'll carry on with the bottom curve from the nose. Tom, I'll stay under your line so we don't bump each other. Maya, I'm just below you here, shout if I'm in your way.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[   67s] 1:15 asked Maya,Tom,Priya | dominoes 33 | calls 16
+    Priya -> everyone: Lead-in runs through fine, joint looks good. I'll build the tail out at the right end, a forked fin. You two aim your curves to meet at the narrow bit just before it.
+    (Maya held a thought)
+    (Tom held a thought)
+[   84s] 1:30 asked Maya,Leo | dominoes 43 | calls 18
+    Maya -> everyone: Fish is good with me. Lead-in's down and it looks like it runs through. I'll do the eye once the head curves are in, so I'm not crowding Tom and Leo. Priya, if the tail fork gets fiddly, shout and I'l
+    (Leo held a thought)
+[   94s] 1:45 asked Tom,Priya,Leo | dominoes 49 | calls 21
+    Priya -> Maya: Thanks Maya, yes please! I'll do the upper prong of the tail, you take the lower one when your hands are free. Just start it at the narrow bit, pointing at where the fork splits.
+    Tom -> everyone: Got it, carrying on with the top curve over the back toward the tail. I'll stay out of Maya's way.
+[  104s] 2:00 asked Maya,Leo | dominoes 60 | calls 23
+    Maya -> Priya: On it Priya, I'll do the lower prong from the narrow bit, angled down and out.
+    Leo -> everyone: Bottom curve's reaching the belly now, I'll sweep it up toward the narrow bit before the tail.
+[  110s] 2:15 asked Priya | dominoes 72 | calls 24
+    Priya -> everyone: Perfect, thanks Maya. Tom, Leo, once your curves are done, bring them in toward the narrow bit just before the tail so everything joins up.
+[  119s] 2:30 asked Maya,Tom,Leo | dominoes 84 | calls 27
+    Tom -> everyone: Yep, on it. Just finishing this stretch, then I'll arch it down to the narrow bit before the tail. Leo, we'll meet around there from above and below.
+    (Leo held a thought)
+    (Maya held a thought)
+[  127s] 2:45 asked Tom,Leo | dominoes 91 | calls 29
+    Tom -> everyone: Carrying the top curve down to the tail now. Leo, we should meet right at the narrow bit.
+    Leo -> everyone: Belly's reached the tail end. I'm joining it into the fork now, Priya, so shout if I'm in your way.

@@ -1,0 +1,72 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1191.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [],
+  "judge_guesses": [
+    [
+      "a road or river network with a branch and a fork",
+      "a hand-drawn line sketch of a bird or wing",
+      "a single stroke of a checkmark or script letter"
+    ],
+    [
+      "a river or stream splitting into two branches",
+      "a railway or road junction with a side track",
+      "a hand-drawn broken line sketch of a path"
+    ],
+    [
+      "river or stream branching into two channels",
+      "road or path that forks around a bend",
+      "hand-drawn pen stroke or squiggle"
+    ]
+  ],
+  "placed": 180,
+  "fell": 75,
+  "completion": 0.417,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 96,
+  "messages_by_speaker": {
+    "Priya": 17,
+    "Leo": 27,
+    "Tom": 25,
+    "Maya": 24,
+    "Facilitator": 3
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 178,
+    "failed": 2,
+    "input_tokens": 374,
+    "cache_creation_tokens": 884440,
+    "cache_read_tokens": 506496,
+    "output_tokens": 136167,
+    "seconds": 1809.0,
+    "api_equivalent_usd": 4.7998
+  }
+}

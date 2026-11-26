@@ -188,3 +188,106 @@
     Leo -> Tom: Thanks Tom, yes please take the line going down from the tail once my joint's closed. I'm still on the arm joint, I'll shout when it catches.
     Maya -> everyone: Nose still breaks right at the top of the upright bit, one domino sitting off its line. Fixing that now. Please stay off it, then we do the last run.
     (Priya held a thought)
+[ 1076s] 17:00 asked Maya,Tom | dominoes 176 | calls 141
+    Tom -> Leo: Okay Leo, I'll wait for your shout on the arm joint, then I'll hook the down line in. Looking at it from a distance for now.
+    Maya -> everyone: Top of the nose is done. I'm doing the joint where the nose comes off the main line now, then we do the last run. Stay off it please.
+[ 1085s] 17:15 asked Maya,Tom,Leo | dominoes 177 | calls 144
+    Tom -> Leo: Leo, about two and a half minutes left. How's the arm joint? As soon as it catches, I'll hook the down line in.
+    Leo -> Tom: Still closing the arm joint, Tom, about ten left. I'll shout the moment it catches, then the down line is yours.
+    Maya -> everyone: Still on the nose joint, stay off it please. Then straight to the last run.
+[ 1093s] 17:30 asked Tom,Leo | dominoes 180 | calls 146
+    Tom -> Leo: Okay Leo, take your time on the joint. I'll look over the down line for other breaks while I wait.
+[ 1103s] 17:45 asked Tom,Leo | dominoes 180 | calls 148
+    Tom -> Leo: Leo, time's nearly gone, so I'm closing just the gap under your joint on the down line now. Keep going on yours.
+    Leo -> Tom: Almost there, Tom, a handful left. Go ahead and look over the down line, I'll shout when it catches.
+[ 1110s] 18:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 152
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> Leo: Closing the gap under your joint now, Leo. Shout when yours catches and we'll do the last run.
+    Leo -> Tom: Seven left, Tom. I'll shout the second it catches.
+    Maya -> everyone: Two minutes, so I'm staying on the nose bridge. Please keep off it. Priya, can you run an inspect from the start once I shout?
+    (Priya held a thought)
+[ 1115s] 18:15 asked Tom,Priya,Leo | dominoes 180 | calls 155
+    Priya -> Maya: Maya, I'm staying off the nose. Finishing the join at the head so the lower row catches. Shout when you're done and I'll run the check.
+    Leo -> Tom: Still on it, Tom, a few left. Shout when it catches.
+[ 1119s] 18:30 asked Maya,Tom | dominoes 180 | calls 157
+[ 1119s] 18:45 asked - | dominoes 180 | calls 157
+[ 1119s] 19:00 asked - | dominoes 180 | calls 157
+[ 1119s] 19:15 asked - | dominoes 180 | calls 157
+[ 1126s] 19:30 asked Priya,Leo | dominoes 180 | calls 159
+    Leo -> Tom: Tom, my joint's finished. The down line is yours, so close whatever gap is left under it. No dominoes left, so that's all we can do.
+    Priya -> everyone: Thirty seconds, no dominoes left. Everybody hands off so nobody bumps anything. Fingers crossed!
+[ 1132s] 19:45 asked Tom,Leo | dominoes 180 | calls 161
+    Tom -> everyone: Thanks Leo. Hands off everyone, fingers crossed!
+    Leo -> everyone: Hands off, fingers crossed!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "agent_model": "sonnet",
+  "wall_seconds": 1191.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [],
+  "judge_guesses": [
+    [
+      "a road or river network with a branch and a fork",
+      "a hand-drawn line sketch of a bird or wing",
+      "a single stroke of a checkmark or script letter"
+    ],
+    [
+      "a river or stream splitting into two branches",
+      "a railway or road junction with a side track",
+      "a hand-drawn broken line sketch of a path"
+    ],
+    [
+      "river or stream branching into two channels",
+      "road or path that forks around a bend",
+      "hand-drawn pen stroke or squiggle"
+    ]
+  ],
+  "placed": 180,
+  "fell": 75,
+  "completion": 0.417,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 96,
+  "messages_by_speaker": {
+    "Priya": 17,
+    "Leo": 27,
+    "Tom": 25,
+    "Maya": 24,
+    "Facilitator": 3
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 178,
+    "failed": 2,
+    "input_tokens": 374,
+    "cache_creation_tokens": 884440,
+    "cache_read_tokens": 506496,
+    "output_tokens": 136167,
+    "seconds": 1809.0,
+    "api_equivalent_usd": 4.7998
+  }
+}
