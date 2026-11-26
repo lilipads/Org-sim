@@ -1,0 +1,45 @@
+{
+ "intent": "fish",
+ "judges": [
+  {
+   "guesses": [
+    "fish",
+    "bird in flight",
+    "rocket or airplane"
+   ],
+   "matches": [
+    true,
+    false,
+    false
+   ],
+   "score": 1.0
+  },
+  {
+   "guesses": [
+    "fish",
+    "shark",
+    "bird"
+   ],
+   "matches": [
+    true,
+    false,
+    false
+   ],
+   "score": 1.0
+  },
+  {
+   "guesses": [
+    "fish with a forked tail",
+    "bird with raised wings",
+    "stylized insect or bee"
+   ],
+   "matches": [
+    true,
+    false,
+    false
+   ],
+   "score": 1.0
+  }
+ ],
+ "recognition": 1.0
+}

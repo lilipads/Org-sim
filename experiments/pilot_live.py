@@ -82,9 +82,17 @@ def main():
     png = picture_png(game.pushed_world, os.path.join(args.out, "judge.png"))
     picture_png(game.pushed_world, os.path.join(args.out, "before_push.png"), show_standing=True)
     judging = judge_picture(png, intent, 3, calls)
+    # Design legibility, separate from integration: judge the whole layout as if everything fell.
+    import copy
+    allfell = copy.deepcopy(game.world)
+    for d in allfell.dominoes.values():
+        d.state = "down"
+    png_all = picture_png(allfell, os.path.join(args.out, "judge_if_all_fell.png"))
+    judging_all = judge_picture(png_all, intent, 3, calls)
     topple_gif(game.pushed_world, {int(i): t for i, t in res["times"].items()},
                os.path.join(args.out, "push.gif"), speedup=2.0)
     game.log["intents"], game.log["judging"] = intents, judging
+    game.log["judging_if_all_fell"] = judging_all
     game.save(os.path.join(args.out, "log.json"))
     title = f"AI pilot (real-time) · table of {args.size}"
     write_replay(game.log, os.path.join(args.out, "replay.html"), title)
@@ -107,6 +115,9 @@ def main():
     summary = {
         "size": args.size, "minutes": args.minutes, "view": args.view, "pad_minutes": args.pad_minutes, "wall_seconds": round(time.time() - t0, 1),
         "intents": intents, "team_intent": intent, "recognition": judging["recognition"],
+        "recognition_if_all_fell": judging_all["recognition"],
+        "pad_holders": [e.get("who") for r in game.log["turns"] for e in r["events"]
+                        if e["type"] == "pad" and e.get("what") in ("picked up", "gave")],
         "judge_guesses": [j["guesses"] for j in judging["judges"]],
         "placed": tab["placed"], "fell": tab["fell"], "completion": tab["completion"],
         "team_score": round(judging["recognition"] * tab["completion"], 3),

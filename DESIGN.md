@@ -119,6 +119,10 @@ Teams **are not told about round 2** until round 1 is over.
   top 3, and 0 otherwise. The three judges are averaged. A separate small-model call decides whether a
   guess matches the intent ("fox" vs. "red fox" counts as a match).
 - Aesthetics are **not** scored.
+- **Design legibility** (diagnostic): the same blind judging on the whole layout as if every domino had
+  fallen. It separates "did the team share a clear picture?" from "did the chain hold together?" In
+  the first runs it was 0 without the scratch pad ("a cap with a brim") and 1.0 with it ("fish"), while
+  actual recognition was 0 in both because the chain broke early.
 - **Team score (round 1)** = recognition × completion. Completion is the share of placed dominoes that
   fell from the push.
 

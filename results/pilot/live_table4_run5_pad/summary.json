@@ -1,0 +1,62 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 2.0,
+  "wall_seconds": 724.6,
+  "intents": {
+    "Ava": "fish",
+    "Ben": "fish",
+    "Chloe": "fish",
+    "Dev": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "judge_guesses": [
+    [
+      "hand-drawn letter y on a blank background",
+      "slingshot or tuning fork outline",
+      "small bare twig or sprout"
+    ],
+    [
+      "letter y",
+      "small bare twig or sprout",
+      "slingshot or tuning fork"
+    ],
+    [
+      "letter y drawn in dark strokes",
+      "small forked twig or sprout",
+      "tuning fork or slingshot shape"
+    ]
+  ],
+  "placed": 247,
+  "fell": 10,
+  "completion": 0.04,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 94,
+  "messages_by_speaker": {
+    "Ben": 26,
+    "Chloe": 26,
+    "Ava": 27,
+    "Dev": 11,
+    "Facilitator": 4
+  },
+  "held_thoughts": 69,
+  "parse_failures": {
+    "Ava": 0,
+    "Ben": 0,
+    "Chloe": 0,
+    "Dev": 0
+  },
+  "usage": {
+    "calls": 200,
+    "failed": 0,
+    "input_tokens": 406,
+    "cache_creation_tokens": 1135607,
+    "cache_read_tokens": 506572,
+    "output_tokens": 230858,
+    "seconds": 1529.5,
+    "api_equivalent_usd": 0.3477
+  }
+}

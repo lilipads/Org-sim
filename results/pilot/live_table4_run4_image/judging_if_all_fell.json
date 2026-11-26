@@ -1,0 +1,45 @@
+{
+ "intent": "fish",
+ "judges": [
+  {
+   "guesses": [
+    "a cap or hat with a brim and button",
+    "a loaf of bread or a dome-shaped mound",
+    "a cloud or a sleeping animal"
+   ],
+   "matches": [
+    false,
+    false,
+    false
+   ],
+   "score": 0.0
+  },
+  {
+   "guesses": [
+    "a cap or hat with a brim, seen from the side",
+    "a cartoon slug or mouse-like creature with a raised head",
+    "a loaf of bread or a lumpy cloud"
+   ],
+   "matches": [
+    false,
+    false,
+    false
+   ],
+   "score": 0.0
+  },
+  {
+   "guesses": [
+    "hat or cap with a brim",
+    "shoe or slipper in side view",
+    "cloud or blob shape"
+   ],
+   "matches": [
+    false,
+    false,
+    false
+   ],
+   "score": 0.0
+  }
+ ],
+ "recognition": 0.0
+}
