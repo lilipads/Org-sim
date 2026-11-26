@@ -173,3 +173,6 @@
 [ 1191s] 16:15 asked Sofia,Omar | dominoes 179 | calls 129
     Omar -> everyone: Nothing fit at the neck, so it was probably already close enough. I'm looking at that spot again to see whether it goes dark up to Sofia's join.
     (Sofia held a thought)
+[ 1201s] 16:30 asked Sofia,Omar | dominoes 178 | calls 131
+    Sofia -> everyone: Thanks Omar, still laying the top join. Shout the moment the top arc goes dark, and send any freed dominoes my way.
+    (Omar held a thought)

@@ -33,3 +33,10 @@
 [  127s] 2:00 asked Sofia,Omar | dominoes 60 | calls 26
     Sofia -> everyone: My stretch looks a touch low where it meets Jack's end, so I'm closing that joint now. Hana, is the gap before your piece near the top right okay, or do you want me to bridge it?
     (Omar held a thought)
+[  135s] 2:15 asked Sofia,Hana,Jack | dominoes 70 | calls 29
+    Hana -> everyone: Sofia, yes please, bridge it into the start of my piece, the first pale domino just past your end. I'm coming down from there into the tail. Omar, the belly looks the right way now, thanks.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  142s] 2:30 asked Sofia,Omar | dominoes 78 | calls 31
+    Sofia -> everyone: Hana, I'm bridging that gap into your first pale domino now. Carry on down toward the tail.
+    Omar -> everyone: Thanks Hana, belly's flowing the right way now. I'll keep going round the bottom and head back toward the nose.
