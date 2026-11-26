@@ -145,18 +145,20 @@ class CallLog:
 
 def call_model(system: str, prompt: str, log: CallLog | None = None, tag: str = "",
                model: str = MODEL, tools: str = "", cwd: str | None = None,
-               image: str | None = None) -> str:
+               image: str | list | None = None) -> str:
     """One stateless call through Claude Code's non-interactive mode. Returns the text.
-    With `image` (a PNG path), the picture is attached to the message itself."""
+    With `image` (a PNG path, or a list of them), the pictures are attached to the message."""
     cmd = ["claude", "-p", "--model", model, "--system-prompt", system,
            "--tools", tools, "--no-session-persistence", "--strict-mcp-config", "--setting-sources", ""]
     if image:
         import base64
-        with open(image, "rb") as f:
-            data = base64.b64encode(f.read()).decode()
-        stdin = json.dumps({"type": "user", "message": {"role": "user", "content": [
-            {"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": data}},
-            {"type": "text", "text": prompt}]}}) + "\n"
+        content = []
+        for path in ([image] if isinstance(image, str) else image):
+            with open(path, "rb") as f:
+                data = base64.b64encode(f.read()).decode()
+            content.append({"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": data}})
+        content.append({"type": "text", "text": prompt})
+        stdin = json.dumps({"type": "user", "message": {"role": "user", "content": content}}) + "\n"
         cmd += ["--input-format", "stream-json", "--output-format", "stream-json", "--verbose"]
     else:
         stdin = prompt

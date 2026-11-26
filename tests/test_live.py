@@ -19,6 +19,7 @@ class Fake(LiveAgentBase):
 
 def game(agents, duration=120.0, **kw):
     kw.setdefault("announce_at", ())
+    kw.setdefault("scratchpad_until", None)
     return LiveGame(table_world(phys=EXACT), agents, LiveConfig(duration=duration, **kw))
 
 
@@ -188,3 +189,24 @@ def test_fix_nudges_a_too_sharp_turn():
     for op in ops:
         w.move(op[1], *op[2], rng) if op[0] == "move" else w.place([op[1]], "a", 0, "table", ["table"], rng)
     assert len(w.reachable_from_start()) == 5
+
+
+def test_scratch_pad_pick_up_sketch_pass_and_taken_away():
+    sketch = [{"type": "curve", "points": [[10, 10], [20, 8], [30, 10]]}, {"type": "label", "x": 20, "y": 12, "text": "fish"}]
+    a = Fake("A", [Decision(pad="take", eagerness=8, do="build", strokes=[LINE]),
+                   Decision(sketch=sketch, pad="give", pad_to="B")])
+    b = Fake("B", [Decision(pad="take", eagerness=2), Decision(), Decision()])
+    g = LiveGame(table_world(phys=EXACT), [a, b], LiveConfig(duration=150, idle_quiet=15, max_quiet=15,
+                                                           announce_at=(), scratchpad_until=60, seed=0))
+    g.step()
+    assert g.pad_holder == "A"
+    assert any("picked up the scratch pad before you" in x for x in g.inbox["B"])
+    built_before = len(g.world.dominoes)
+    g.step()                                       # A sketches (hands busy), then hands the pad to B
+    assert g.pad_holder == "B" and len(g.pad_strokes) == 2
+    assert len(g.world.dominoes) == built_before   # no building in a beat spent sketching
+    assert "B's hands" in g.pad_status("A")
+    while g.t < 75:
+        g.step()
+    assert not g.pad_exists and g.log["scratchpad"]["final"] == sketch
+    assert "gone" in g.pad_status("A")

@@ -203,6 +203,20 @@ Agents can see the table in one of two ways (a dial, `--view`):
   in green, and pointing and working hands are labelled. Grid lines are 1 unit apart and labelled
   every 5, so agents can still aim by coordinates. This is closest to what a person at the table sees.
 
+### 4.4c The scratch pad (internal communication only)
+
+A paper scratch pad lies on the table at the start. **Nobody holds it**, and anyone can pick it up.
+- One holder at a time. The holder can sketch on it (curves, lines, circles and short labels, in table
+  coordinates), hand it to someone, or put it down.
+- Everyone at the table sees what's on it. With the picture view it's attached as a second picture.
+- Sketching keeps your hands busy, so you place no dominoes in a beat spent sketching.
+- At **2:00** the facilitator takes it away for good (`--pad-minutes`; 0 = no pad). After that, people
+  work from memory and their own notes.
+- It's **only a communication tool**. The final picture is never judged against the sketch. The sketch
+  history is logged so we can see who picked it up and how it was used.
+- It's a dial for the symmetry-breaking question: who reaches for the pad, and does holding it make
+  them the leader?
+
 ### 4.5 When an agent is asked to decide
 
 An agent is asked only when something calls for it:

@@ -36,6 +36,7 @@ def main():
     ap.add_argument("--out", default="results/pilot/live_table4_run1")
     ap.add_argument("--evaluation", default=NO_EVALUATION)
     ap.add_argument("--view", choices=["text", "image"], default="text")
+    ap.add_argument("--pad-minutes", type=float, default=2.0, help="scratch pad until this minute; 0 = no pad")
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
     calls = CallLog(os.path.join(args.out, "calls.jsonl"))
@@ -45,11 +46,16 @@ def main():
     names = names_for(args.size)
     import tempfile
     cfg = LiveConfig(duration=args.minutes * 60, seed=args.seed, view=args.view,
+                     scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
                      view_dir=tempfile.mkdtemp(prefix="views_") if args.view == "image" else None)
     agents = []
     for n in names:
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=60, h=40,
-                                supply=world.supply["table"], view_rules=VIEW_RULES[args.view])
+                                supply=world.supply["table"], view_rules=VIEW_RULES[args.view],
+                                pad_minutes=f"{int(args.pad_minutes)}:{int(args.pad_minutes * 60) % 60:02d}")
+        if args.pad_minutes <= 0:
+            import re
+            rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
         agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls))
     game = LiveGame(world, agents, cfg)
     t0 = time.time()
@@ -99,7 +105,7 @@ def main():
     first_build = next((r["clock"] for r in game.log["turns"]
                         if any(e["type"] == "build" and e["placed"] for e in r["events"])), None)
     summary = {
-        "size": args.size, "minutes": args.minutes, "view": args.view, "wall_seconds": round(time.time() - t0, 1),
+        "size": args.size, "minutes": args.minutes, "view": args.view, "pad_minutes": args.pad_minutes, "wall_seconds": round(time.time() - t0, 1),
         "intents": intents, "team_intent": intent, "recognition": judging["recognition"],
         "judge_guesses": [j["guesses"] for j in judging["judges"]],
         "placed": tab["placed"], "fell": tab["fell"], "completion": tab["completion"],

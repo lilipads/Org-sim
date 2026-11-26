@@ -59,6 +59,17 @@ PEOPLE AT THESE OFFSITES
 Most people enjoy getting their hands on the dominoes. When their hands are free and nobody needs
 them right now, they usually pick something useful to build or fix rather than wait.
 
+THE SCRATCH PAD
+At the start a paper scratch pad lies on the table. Anyone can pick it up ("pad": "take"); only one
+person holds it at a time. Whoever holds it can sketch on it ("sketch": strokes, below) and everyone
+at the table can see what's on it. The holder can hand it to someone ("pad": "give", "pad_to": name)
+or put it down ("pad": "put_down"). Sketching keeps your hands busy, so you don't place dominoes in
+that moment. At {pad_minutes} the facilitator takes the pad away for good; after that, work from memory.
+Sketch strokes use the table's coordinates:
+  {{"type":"curve","points":[[x,y],[x,y],...]}}   {{"type":"line","x0":..,"y0":..,"x1":..,"y1":..}}
+  {{"type":"circle","cx":..,"cy":..,"r":..}}      {{"type":"label","x":..,"y":..,"text":"eye"}}
+"sketch_clear": true wipes the pad first.
+
 WHAT YOU CAN DO WITH YOUR HANDS
 - build: place dominoes along strokes (below), and/or stand knocked-over dominoes back up in an area.
   You keep working on it until it's done; you're asked again when it's finished. You can see roughly
@@ -97,6 +108,8 @@ OUTPUT_FORMAT = """Reply with one JSON object and nothing else. Leave out fields
   "to": "everyone" or ["Name", ...],
   "eagerness": 1-10 (how strongly you want the floor right now),
   "point": [x, y] (optional: where you're pointing as you speak),
+  "pad": "take | give | put_down" (optional, the scratch pad), "pad_to": "Name" (with give),
+  "sketch": [...] (optional: strokes to draw on the pad, if you hold it), "sketch_clear": false,
   "do": "continue | build | take_down | inspect | stop",
   "strokes": [...], "start": false, "restand": [x0, y0, x1, y1],   (build)
   "area": [x0, y0, x1, y1],                                        (take_down, inspect)
@@ -170,6 +183,7 @@ class LiveLLMAgent(LiveAgentBase):
             f"Dominoes left: {sup}.",
             f"Your hands: {obs['task']}",
             obs.get("start_status", ""),
+            obs.get("pad_status", ""),
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
             "THE TABLE NOW:",
@@ -186,12 +200,13 @@ class LiveLLMAgent(LiveAgentBase):
         ])
 
     @staticmethod
-    def _image(obs: dict) -> str | None:
+    def _image(obs: dict) -> list | None:
         import os
         if not obs.get("view_dir"):
             return None
-        path = os.path.join(obs["view_dir"], "table.png")
-        return path if os.path.exists(path) else None
+        paths = [os.path.join(obs["view_dir"], f) for f in ("table.png", "pad.png")]
+        paths = [p for p in paths if os.path.exists(p)]
+        return paths or None
 
     def act(self, obs: dict) -> Decision:
         prompt = self.situation(obs) + "\n\nWhat do you say and do now?\n" + OUTPUT_FORMAT
@@ -226,6 +241,10 @@ class LiveLLMAgent(LiveAgentBase):
             area=d.get("area") if isinstance(d.get("area"), list) else None,
             where=d.get("where"),
             point=d.get("point") if isinstance(d.get("point"), list) else None,
+            pad=str(d.get("pad") or "").lower().replace(" ", "_").replace("-", "_"),
+            pad_to=d.get("pad_to") if isinstance(d.get("pad_to"), str) else None,
+            sketch=[x for x in (d.get("sketch") or []) if isinstance(x, dict)] if isinstance(d.get("sketch"), list) else [],
+            sketch_clear=bool(d.get("sketch_clear")),
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 

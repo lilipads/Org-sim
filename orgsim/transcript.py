@@ -178,6 +178,20 @@ def story_transcript(log: dict, title: str = "Story", recap: str = "") -> str:
                     lines.append(f"*{e['who']} removes {', '.join(f'{v} of {k}' + chr(39) + 's' for k, v in others.items())} dominoes.*")
             elif e["type"] == "move":
                 lines.append(f"*{e['who']} walks over to {e['where']}.*")
+            elif e["type"] == "pad":
+                what = e.get("what")
+                if what == "picked up":
+                    lines.append(f"*{e['who']} picks up the scratch pad.*")
+                elif what == "sketched":
+                    labels = [s.get("text") for s in e.get("strokes", []) if s.get("type") == "label" and s.get("text")]
+                    extra = f", labelling {', '.join(labels)}" if labels else ""
+                    lines.append(f"*{e['who']} sketches on the pad{extra}.*")
+                elif what == "gave":
+                    lines.append(f"*{e['who']} hands the scratch pad to {e['to']}.*")
+                elif what == "put down":
+                    lines.append(f"*{e['who']} puts the scratch pad down.*")
+                elif what == "taken away":
+                    lines.append("*The facilitator collects the scratch pad.*")
         if not lines:
             continue
         minute = int(rec["time"] // 60)

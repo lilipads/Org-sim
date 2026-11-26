@@ -178,3 +178,62 @@ def agent_view_png(world: World, region, path: str, markers: dict | None = None,
         dr.text((cx, cy), text, fill=color, font=font)
     img.save(path)
     return path
+
+
+def sketch_points(s: dict) -> list:
+    """Points of one scratch-pad stroke, in table coordinates."""
+    t = s.get("type", "curve")
+    try:
+        if t in ("curve", "polyline"):
+            return [(float(x), float(y)) for x, y in s.get("points", [])]
+        if t == "line":
+            return [(float(s["x0"]), float(s["y0"])), (float(s["x1"]), float(s["y1"]))]
+        if t in ("circle", "arc"):
+            cx, cy, r = float(s["cx"]), float(s["cy"]), float(s["r"])
+            a0, a1 = float(s.get("a0", 0)), float(s.get("a1", 360))
+            n = max(8, int(abs(a1 - a0) / 10))
+            return [(cx + r * math.cos(math.radians(a0 + (a1 - a0) * k / n)),
+                     cy + r * math.sin(math.radians(a0 + (a1 - a0) * k / n))) for k in range(n + 1)]
+    except (KeyError, TypeError, ValueError):
+        return []
+    return []
+
+
+def sketch_png(strokes: list, path: str, size: tuple = (60, 40), holder: str | None = None,
+               scale: int = 14) -> str:
+    """The scratch pad: pencil strokes and labels on paper, with the table's grid
+    lightly marked so a sketch can be read against the table."""
+    _require_pil()
+    from PIL import Image, ImageDraw, ImageFont
+    W, H = size
+    pad = 26
+    img = Image.new("RGB", (int(W * scale) + 2 * pad, int(H * scale) + 2 * pad + 30), (255, 253, 240))
+    dr = ImageDraw.Draw(img)
+    try:
+        font = ImageFont.load_default(size=16)
+    except TypeError:
+        font = ImageFont.load_default()
+
+    def px(x, y):
+        return (pad + x * scale, pad + 30 + y * scale)
+
+    title = "SCRATCH PAD" + (f" (held by {holder})" if holder else "")
+    dr.text((pad, 6), title, fill=(120, 100, 60), font=font)
+    for gx in range(0, int(W) + 1, 5):
+        dr.line([px(gx, 0), px(gx, H)], fill=(226, 222, 200), width=1)
+        dr.text((px(gx, 0)[0] - 5, pad + 12), str(gx), fill=(170, 160, 130), font=font)
+    for gy in range(0, int(H) + 1, 5):
+        dr.line([px(0, gy), px(W, gy)], fill=(226, 222, 200), width=1)
+        dr.text((4, px(0, gy)[1] - 8), str(gy), fill=(170, 160, 130), font=font)
+    for s in strokes:
+        if s.get("type") == "label":
+            try:
+                dr.text(px(float(s["x"]), float(s["y"])), str(s.get("text", ""))[:24], fill=(60, 60, 140), font=font)
+            except (KeyError, TypeError, ValueError):
+                pass
+            continue
+        pts = [px(x, y) for x, y in sketch_points(s)]
+        if len(pts) >= 2:
+            dr.line(pts, fill=(50, 50, 60), width=4, joint="curve")
+    img.save(path)
+    return path

@@ -30,7 +30,7 @@ from .dominoes import World
 from .handwork import (anchored_specs, area_words, describe_spot, direction, eye_inspect,
                        fix_specs, freehand_specs, where)
 from .game import push_world
-from .render import agent_view_png, ascii_map
+from .render import agent_view_png, ascii_map, sketch_png
 
 DOS = ("continue", "build", "take_down", "inspect", "stop", "walk")
 
@@ -58,6 +58,7 @@ class LiveConfig:
     seed: int = 0
     view: str = "text"               # text (ASCII map) | image (rendered picture of the table)
     view_dir: str | None = None      # where image views are written
+    scratchpad_until: float | None = 120.0  # a scratch pad lies on the table until then (None: no pad)
 
 
 @dataclass
@@ -72,6 +73,10 @@ class Decision:
     area: list | None = None
     where: str | None = None
     point: list | None = None        # [x, y]: point at a spot while talking
+    pad: str = ""                    # scratch pad: take | put_down | give
+    pad_to: str | None = None        # give the pad to this person
+    sketch: list = field(default_factory=list)   # strokes to draw on the pad (if you hold it)
+    sketch_clear: bool = False       # wipe the pad before drawing
     interrupt: str = ""              # unused (kept so old logs still load)
     notes: str | None = None
     thinking: str = ""
@@ -115,11 +120,15 @@ class LiveGame:
         self.last_asked = dict.fromkeys(n, -1e9)
         self.last_seen_msg = dict.fromkeys(n, 0)
         self.markers: dict = {}                     # name -> (x, y, t, description)
+        self.pad_exists = cfg.scratchpad_until is not None
+        self.pad_holder: str | None = None
+        self.pad_strokes: list = []
         self.t = 0.0
         self.log: dict = {"engine": "live", "config": asdict(cfg),
                           "regions": [asdict(r) for r in world.regions.values()],
                           "agents": [{"name": a.name, "home": a.home, "persona": a.persona} for a in agents],
                           "initial": world.snapshot(), "turns": []}
+        self.log["scratchpad"] = {"until": cfg.scratchpad_until, "history": []}
 
     # ---- helpers ------------------------------------------------------------
     def pools_for(self, name: str) -> list:
@@ -195,6 +204,7 @@ class LiveGame:
             "inbox": list(self.inbox[name]), "task": self.task_status(name),
             "hands": self.hands(name), "notes": self.notes[name],
             "start_status": self.start_status(name),
+            "pad_status": self.pad_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
         if self.cfg.view == "image":
@@ -214,6 +224,9 @@ class LiveGame:
                     hands[o] = ((a0 + a1) / 2, (b0 + b1) / 2)
             agent_view_png(self.world, loc, os.path.join(folder, "table.png"), markers, hands)
             obs["view_dir"] = folder
+            if self.pad_exists and self.pad_strokes and self.location[name] == loc.name:
+                sketch_png(self.pad_strokes, os.path.join(folder, "pad.png"), (loc.x1 - loc.x0, loc.y1 - loc.y0),
+                           self.pad_holder)
         if len(self.world.regions) > 1:
             obs["room_overview"] = ascii_map(self.world, 0, 0, self.world.width, self.world.height, step=3.0)
         return obs
@@ -265,10 +278,11 @@ class LiveGame:
                 self.location[n] = dest
                 rec["events"].append({"type": "move", "who": n, "where": dest})
 
+        sketched = self._pad(decisions, rec)
         for n, d in decisions.items():
             self._start_task(n, d, rec)
         spoke = self._speech(decisions, rec)
-        placed_at = self._work(spoke, rec)
+        placed_at = self._work(spoke, rec, sketched)
         self._bumps(placed_at, rec)
         rec["notes"] = dict(self.notes)
         rec["supply"] = dict(self.world.supply)
@@ -279,22 +293,96 @@ class LiveGame:
         self.t += cfg.beat
         return rec
 
+    def _facilitator(self, text: str, rec: dict, reason: str):
+        msg = {"t": self.t, "clock": clock(self.t), "speaker": "Facilitator", "to": "everyone",
+               "text": text, "side": False}
+        for n in self.by_name:
+            self.heard[n].append(dict(msg))
+            self.wake[n].append(reason)
+        rec["conversations"].append({"members": ["Facilitator"], "pulled_in": [], "location": None,
+                                     "messages": [{"speaker": "Facilitator", "to": "everyone", "message": text}]})
+
     def _announce(self, rec: dict):
-        """The facilitator calls time, as at a real offsite."""
+        """The facilitator calls time, as at a real offsite, and collects the scratch pad."""
         for m in self.cfg.announce_at:
             at = self.cfg.duration - m * 60
             if at < 0 or not (at <= self.t < at + self.cfg.beat):
                 continue
-            text = (f"{m} minutes left! When time's up I'll push your start domino; "
-                    "only what's connected to it will fall.")
-            msg = {"t": self.t, "clock": clock(self.t), "speaker": "Facilitator", "to": "everyone",
-                   "text": text, "side": False}
+            self._facilitator(f"{m} minutes left! When time's up I'll push your start domino; "
+                              "only what's connected to it will fall.", rec, "the facilitator called time")
+        until = self.cfg.scratchpad_until
+        if self.pad_exists and until is not None and self.t >= until:
+            self.pad_exists = False
+            self.log["scratchpad"]["taken_at"] = self.t
+            self.log["scratchpad"]["final"] = list(self.pad_strokes)
+            self.log["scratchpad"]["holder_when_taken"] = self.pad_holder
+            self.pad_holder = None
+            self._facilitator("Time's up for the scratch pad, I'm taking it away now. From here on, "
+                              "work from what you remember.", rec, "the facilitator took the scratch pad away")
+            rec["events"].append({"type": "pad", "what": "taken away"})
+
+    def pad_status(self, name: str) -> str:
+        if self.cfg.scratchpad_until is None:
+            return ""
+        if not self.pad_exists:
+            return "The scratch pad is gone: the facilitator took it away."
+        left = max(0, self.cfg.scratchpad_until - self.t)
+        when = f"The facilitator will take it away in {int(left)} seconds."
+        if self.pad_holder is None:
+            what = "is lying on the table; anyone can pick it up"
+        elif self.pad_holder == name:
+            what = "is in your hands"
+        else:
+            what = f"is in {self.pad_holder}'s hands"
+        drawn = (f" It has a sketch on it (attached as the second picture)." if self.pad_strokes
+                 else " Nothing is drawn on it yet.")
+        return f"The scratch pad {what}.{drawn} {when}"
+
+    def _pad(self, decisions: dict, rec: dict) -> set:
+        """Picking up, passing, putting down and sketching. Returns who sketched this beat
+        (their hands were busy with the pad, not dominoes)."""
+        sketched = set()
+        if not self.pad_exists:
+            return sketched
+        names = list(decisions)
+        self.rng.shuffle(names)
+        h = self.pad_holder                     # 1. the holder draws
+        if h and h in decisions and (decisions[h].sketch or decisions[h].sketch_clear):
+            d = decisions[h]
+            if d.sketch_clear:
+                self.pad_strokes = []
+            good = [s for s in d.sketch if isinstance(s, dict)][:20]
+            self.pad_strokes = (self.pad_strokes + good)[-60:]
+            sketched.add(h)
+            rec["events"].append({"type": "pad", "who": h, "what": "sketched", "strokes": good,
+                                  "cleared": bool(d.sketch_clear)})
+            self.log["scratchpad"]["history"].append({"t": self.t, "who": h, "strokes": good,
+                                                      "cleared": bool(d.sketch_clear)})
             for n in self.by_name:
-                self.heard[n].append(dict(msg))
-                self.wake[n].append("the facilitator called time")
-            rec["conversations"].append({"members": ["Facilitator"], "pulled_in": [], "location": None,
-                                         "messages": [{"speaker": "Facilitator", "to": "everyone",
-                                                       "message": text}]})
+                if n != h and self.location[n] == self.location[h] and not self.task[n]:
+                    self.wake[n].append(f"{h} sketched on the scratch pad")
+        if h and h in decisions:                # 2. then passes it on or puts it down
+            d = decisions[h]
+            if d.pad == "put_down":
+                self.pad_holder = None
+                rec["events"].append({"type": "pad", "who": h, "what": "put down"})
+            elif d.pad == "give" and d.pad_to in self.by_name and d.pad_to != h:
+                self.pad_holder = d.pad_to
+                self.wake[d.pad_to].append(f"{h} handed you the scratch pad")
+                rec["events"].append({"type": "pad", "who": h, "what": "gave", "to": d.pad_to})
+        takers = [n for n in names if decisions[n].pad == "take" and n != self.pad_holder]
+        if takers:                              # 3. someone picks it up if it's free
+            if self.pad_holder is None:
+                taker = max(takers, key=lambda n: decisions[n].eagerness)
+                self.pad_holder = taker
+                rec["events"].append({"type": "pad", "who": taker, "what": "picked up"})
+                for n in takers:
+                    if n != taker:
+                        self.inbox[n].append(f"{taker} picked up the scratch pad before you could.")
+            else:
+                for n in takers:
+                    self.inbox[n].append(f"{self.pad_holder} has the scratch pad; ask them for it.")
+        return sketched
 
     def start_status(self, name: str) -> str:
         loc = self.location[name]
@@ -435,7 +523,7 @@ class LiveGame:
             else:
                 self.task[n] = {"kind": "inspect", "area": area, "ends": self.t + self.cfg.inspect_seconds}
 
-    def _work(self, spoke: set, rec: dict) -> dict:
+    def _work(self, spoke: set, rec: dict, sketched: set = frozenset()) -> dict:
         cfg = self.cfg
         placed_at = {}
         for n, task in list(self.task.items()):
@@ -443,6 +531,8 @@ class LiveGame:
                 continue
             if task["kind"] == "build":
                 rate = cfg.beat / cfg.seconds_per_domino * (cfg.talk_slowdown if n in spoke else 1.0)
+                if n in sketched:
+                    rate = 0.0                   # hands are on the pad this beat
                 self.credit[n] += rate
                 k = int(self.credit[n])
                 self.credit[n] -= k
