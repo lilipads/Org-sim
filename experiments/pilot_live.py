@@ -137,6 +137,8 @@ def main():
     game.log["intents"], game.log["judging"] = intents, judging
     game.log["judging_if_all_fell"] = judging_all
     game.save(os.path.join(args.out, "log.json"))
+    from orgsim.sketch_record import record as record_sketch
+    record_sketch(args.out, game.log)          # sketch.json + sketch.png: the pad as the team left it
     title = f"AI pilot (real-time) · table of {args.size}"
     write_replay(game.log, os.path.join(args.out, "replay.html"), title)
     recap = call_model("You write short, vivid recaps for a blog about teamwork.", recap_prompt(game.log),

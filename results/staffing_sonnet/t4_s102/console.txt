@@ -12,3 +12,25 @@
     Hana -> everyone: Fish looks good, Sofia. One catch: the tail is a triangle with sharp corners, and the fall won't turn those. If I trace it as drawn, only the lower diagonal falls. Can you hand me the pad when you're 
     (Jack held a thought)
     (Omar held a thought)
+[   70s] 0:45 asked Sofia,Jack | dominoes 21 | calls 12
+    Sofia -> everyone: Good catch, Hana, you're right about the corners. Here's the pad, go ahead and redraw the tail as two lines off the back joint. I'll keep going on the top line.
+    (Jack held a thought)
+[   81s] 1:00 asked Hana,Jack | dominoes 35 | calls 14
+    Hana -> everyone: Got it, thanks Sofia. I've drawn the tail as two open curves off the back joint, and I'm building them now. Please don't trace the old triangle one.
+    (Jack held a thought)
+[   87s] 1:15 asked Sofia,Jack | dominoes 48 | calls 16
+    Jack -> everyone: Good catch on the tail corners, Hana, you're right. Sofia and Omar, nice speed on the body lines, I'm coming for you! I'll grab the pad for the eye once Hana's done with it.
+    (Sofia held a thought)
+[   97s] 1:30 asked Sofia,Omar,Hana,Jack | dominoes 61 | calls 20
+    Hana -> everyone: Jack, the pad's yours for the eye. The tail is already drawn and I'm waiting on it, so it's all good. Just don't trace the old triangle's straight back edge.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  103s] 1:45 asked Jack | dominoes 76 | calls 21
+    Jack -> everyone: Thanks Hana! Nice work, you two, those curves look great. I think we can skip the eye, the outline already reads as a fish. Once the body lines meet at the back and Hana's tail is in, I'll check the j
+[  110s] 2:00 asked Omar,Hana | dominoes 80 | calls 23
+    Hana -> everyone: Thanks Jack, yes please: take the upper tail line, stroke 4 on the pad, and I'll finish the lower one. Still skip the old triangle's back edge. Then a quick check of the joint at the back would be gre
+    (Omar held a thought)
+[  118s] 2:15 asked Omar,Jack | dominoes 86 | calls 25
+    Jack -> everyone: On it, Hana! Tracing the upper tail line now. I'll skip the triangle's back edge. Sofia, I'll be near the back joint, so shout if we get in each other's way.
+    (Omar held a thought)

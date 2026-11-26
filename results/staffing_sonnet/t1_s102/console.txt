@@ -16,3 +16,36 @@
 [   68s] 2:45 asked - | dominoes 60 | calls 4
 [   68s] 3:00 asked - | dominoes 66 | calls 4
 [   68s] 3:15 asked - | dominoes 70 | calls 4
+[   75s] 3:30 asked Sofia | dominoes 67 | calls 5
+    Sofia -> everyone: Lower tail fork didn't land, so I'm laying it again now.
+[   75s] 3:45 asked - | dominoes 60 | calls 5
+[   75s] 4:00 asked - | dominoes 53 | calls 5
+[   75s] 4:15 asked - | dominoes 47 | calls 5
+[   75s] 4:30 asked - | dominoes 40 | calls 5
+[   75s] 4:45 asked - | dominoes 33 | calls 5
+[   83s] 5:00 asked Sofia | dominoes 30 | calls 6
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Five minutes left. I'm finishing the lower tail fork, then the belly and the rest of the upper tail.
+[   92s] 5:15 asked Sofia | dominoes 33 | calls 7
+    Sofia -> everyone: Belly and both tail forks are going down now, so the fish should be whole soon.
+[   92s] 5:30 asked - | dominoes 40 | calls 7
+[   92s] 5:45 asked - | dominoes 47 | calls 7
+[   92s] 6:00 asked - | dominoes 53 | calls 7
+[   92s] 6:15 asked - | dominoes 60 | calls 7
+[   92s] 6:30 asked - | dominoes 66 | calls 7
+[   92s] 6:45 asked - | dominoes 70 | calls 7
+[  100s] 7:00 asked Sofia | dominoes 67 | calls 8
+    Sofia -> everyone: Upper tail is up, but the lower tail fork didn't land. Laying it again now, then I'll check the whole chain.
+[  100s] 7:15 asked - | dominoes 60 | calls 8
+[  100s] 7:30 asked - | dominoes 53 | calls 8
+[  100s] 7:45 asked - | dominoes 47 | calls 8
+[  108s] 8:00 asked Sofia | dominoes 40 | calls 9
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  108s] 8:15 asked - | dominoes 33 | calls 9
+[  108s] 8:30 asked - | dominoes 30 | calls 9
+[  118s] 8:45 asked Sofia | dominoes 34 | calls 10
+    Sofia -> everyone: Tails and belly are all missing, so I'm laying them down now, tails first, then the belly!
+[  118s] 9:00 asked - | dominoes 40 | calls 10
+[  118s] 9:15 asked - | dominoes 47 | calls 10
+[  118s] 9:30 asked - | dominoes 54 | calls 10
+[  118s] 9:45 asked - | dominoes 60 | calls 10

@@ -20,3 +20,13 @@
     (Grace held a thought)
     (Leo held a thought)
     (Tom held a thought)
+[   71s] 0:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 30
+    Hana -> everyone: Sketch is up. Stroke 1 is the short lead-in to the nose, and Sofia has it. I'm taking stroke 2, the top of the body. Maya, can you take 3, the bottom of the body? Priya, you take 4, the upper tail. Le
+    (Maya held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
