@@ -204,3 +204,200 @@
     Maya -> everyone: Still can't get that gap past the fork to catch, so I'm bridging it straight across now. Priya, I'm staying off the back curve.
     (Priya held a thought)
     (Leo held a thought)
+[  916s] 13:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 172
+    Priya -> everyone: Maya, got it, I'm staying off your prong. Tom, thanks, I'm still bridging the top of the back curve. I'll shout when it's done so you can look along it again.
+    (Maya held a thought)
+    (Leo held a thought)
+[  927s] 13:15 asked Maya,Tom,Leo | dominoes 179 | calls 175
+    Tom -> Priya: Priya, I looked again. Right at the very top the line still turns too sharply, and the domino just below it sits off to the side, so the chain stops there. The tip has nothing ahead of it too. If you 
+    Maya -> everyone: Bridge on my prong is in and the look says it's catching down to the tail tip now. One stray pale one by the tip, so I'm lifting that to free a domino. Priya, the back curve's the only pale bit left, 
+    (Leo held a thought)
+[  935s] 13:30 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 179
+    Leo -> everyone: Eye ring's gap is near the bottom where it meets the lead-in. I've got the last domino, trying to close it now. Staying clear of the fork.
+    (Priya held a thought)
+    (Maya held a thought)
+[  946s] 13:45 asked Maya,Tom,Leo | dominoes 179 | calls 182
+    Maya -> everyone: Prong's done and catching right to the tail tip. I've looked over the whole table: most of it falls, the only pale bits are the back curve up top and the little gap at the eye. Priya, the break looks 
+    (Leo held a thought)
+[  957s] 14:00 asked Tom,Priya,Leo | dominoes 179 | calls 185
+    Tom -> Priya: Priya, same two spots as before. The domino just below the top still sits off to the side, and right at the very top the turn's too sharp. If you'd rather not fight the sharp bit, pull those last tip 
+    Priya -> everyone: Thanks Tom, that's the spot I'm on. I'm straightening that bend and the sideways one just below it now. Maya, lifting the stray at the tail is fine. I'll shout when the top is done so we can all look 
+    (Leo held a thought)
+[  965s] 14:15 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 189
+    Maya -> everyone: Okay Priya, I'll stay off the top. I'm having a look at the bottom of the back curve by the fork to see it's joined there, hands off. Shout when the top's done.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  973s] 14:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 193
+    Maya -> everyone: Priya, I looked at the bottom of the back curve by the fork and it seems to be sitting right behind the line, so I don't think the break is down there. It's up at the top. About four minutes left, so 
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  984s] 14:45 asked Tom,Priya,Leo | dominoes 180 | calls 196
+    Priya -> everyone: Thanks Maya, thanks Tom. I'm out of dominoes, so I'm just nudging that sideways one into line now. If it still won't catch, I'll pull the last tip ones and let the curve end lower. I'll shout when it'
+    (Leo held a thought)
+    (Tom held a thought)
+[  993s] 15:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 200
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Priya, I'm having a look along the top of the back curve now, hands off. If your nudge still doesn't catch, pulling the last tip ones and ending the curve lower is fine. A connected shorter curve beat
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1002s] 15:15 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 204
+    Maya -> everyone: Priya, my look says the break is right at that sideways one just above the crowded spot, and the very top tip has a sharp turn. I'm going to pull the top tip ones above it to free a few dominoes, then
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1010s] 15:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 208
+    Priya -> everyone: Yes, go for it Maya, that's the plan I had too. I'll step back so we don't bump. Pull the tip ones, bridge that sideways spot, and let the curve end lower. Tell me when it's in and I'll look along it.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[ 1020s] 15:45 asked Maya,Tom,Leo | dominoes 176 | calls 211
+    Maya -> everyone: Tip ones are off, Priya. Bridging that sideways one now, just for a moment. Then I'll look along the whole thing.
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1026s] 16:00 asked Tom,Priya,Leo | dominoes 177 | calls 214
+    Leo -> everyone: Ring's still pale at the lead-in. I lifted a few from the far side of the eye and I'm closing the gap now. Staying clear of the fork and the top.
+    (Tom held a thought)
+    (Priya held a thought)
+[ 1031s] 16:15 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 218
+    Maya -> everyone: Bridge is in. I'm looking along the whole thing now, hands off, so everyone stay clear of the top and the eye.
+    Leo -> everyone: Bridge at the eye is in. I'm taking a quick look to see if it catches now.
+    (Priya held a thought)
+[ 1042s] 16:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 222
+    Priya -> everyone: Maya, my look still shows that one spot at the top where the next domino sits off to the side. Since you're hands off, I'm going to use the last few dominoes I've got to close it right now. Stay clear
+    (Maya held a thought)
+    (Leo held a thought)
+[ 1048s] 16:45 asked Maya,Tom | dominoes 180 | calls 224
+    Maya -> everyone: Okay Priya, go for it, I'm staying clear of the top. Shout when it's in and I'll look along the whole thing. If it still won't catch, we pull the tip ones and end the curve lower. Leo, how's the eye?
+    (Tom held a thought)
+[ 1058s] 17:00 asked Tom,Priya,Leo | dominoes 180 | calls 227
+    Leo -> everyone: Eye's still pale at the lead-in. I'm trying one last fix with my last few dominoes. If it doesn't catch, I'll leave it, since pale ones are invisible anyway. Staying clear of the top and the fork.
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1068s] 17:15 asked Maya,Tom,Priya | dominoes 179 | calls 230
+    Priya -> everyone: Maya, Leo, I'm out of dominoes and the top bridge didn't place anything. I'm pulling the pale tip ones at the top right to free a few, then I'll close that sideways spot. Stay clear of the top for a f
+    (Maya held a thought)
+    (Tom held a thought)
+[ 1076s] 17:30 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 234
+    Priya -> everyone: Tip ones are off and I've got a few dominoes back. Closing that sideways spot now. Stay clear of the top for a few seconds, then Maya, look along it.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1082s] 17:45 asked Maya,Tom | dominoes 180 | calls 236
+    Maya -> everyone: Okay Priya, I'm staying clear. Whatever doesn't catch by the push is invisible anyway, so if it still won't join, leave the curve ending lower. Leo, same for the eye.
+[ 1088s] 18:00 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 240
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Thanks Priya, Maya. Three left on the eye bridge, nearly in. If it won't catch I'll leave it. Staying clear of the top and the fork.
+    Priya -> everyone: Almost in at the top. Maya, give it a look in a few seconds.
+[ 1098s] 18:15 asked Maya,Tom,Priya,Leo | dominoes 180 | calls 244
+    Maya -> everyone: Priya, my look says the very top tip still turns too sharp, so give it one last nudge there. If it doesn't catch by the last half minute, leave it. The main body falls and that's the animal. Leo, same
+    (Leo held a thought)
+[ 1104s] 18:30 asked Tom,Priya,Leo | dominoes 180 | calls 247
+    Priya -> everyone: Got it Maya. Last nudge at the tip going in now. If it doesn't catch, I'll leave it ending lower. Everyone stay off the fork.
+    (Leo held a thought)
+[ 1110s] 18:45 asked Maya,Tom,Leo | dominoes 180 | calls 250
+    Leo -> everyone: Eye bridge is in but it's still pale, and I'm out of dominoes, so I'll leave it. Hands off the fork and the top.
+    Maya -> everyone: Okay, hands off everyone, let it be. Whatever's connected falls and that's our animal.
+[ 1117s] 19:00 asked Maya,Tom,Leo | dominoes 180 | calls 253
+    Tom -> everyone: Hands off, all good. Fingers crossed it falls the whole way.
+[ 1123s] 19:15 asked Maya,Leo | dominoes 180 | calls 255
+    Leo -> everyone: Agreed Tom, hands off. Fingers crossed.
+    Maya -> everyone: Yep, hands off. Fingers crossed, let's watch it go.
+[ 1129s] 19:30 asked Maya,Tom,Leo | dominoes 180 | calls 258
+    Tom -> everyone: Here goes nothing. Great work, everyone.
+[ 1135s] 19:45 asked Maya,Leo | dominoes 180 | calls 260
+    Leo -> everyone: Good luck all, nice work everyone.
+    Maya -> everyone: Nice work, all. Let it go!
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.02,
+      "error": 1.96
+    },
+    "Tom": {
+      "speed": 1.21,
+      "error": 1.54
+    },
+    "Priya": {
+      "speed": 1.11,
+      "error": 0.78
+    },
+    "Leo": {
+      "speed": 1.43,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 5.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1193.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [],
+  "judge_guesses": [
+    [
+      "road or river network sketch with a loop and branches",
+      "hand-drawn tree or vine with curling limbs",
+      "curved chain of fallen dominoes seen from above"
+    ],
+    [
+      "road or highway map with a loop and junctions",
+      "river or stream network around a lake",
+      "tangled cable or wire routing"
+    ],
+    [
+      "fallen dominoes in a looping, branching chain",
+      "road or river network with a loop and junctions",
+      "tree branch or root system with twigs"
+    ]
+  ],
+  "placed": 180,
+  "fell": 133,
+  "completion": 0.739,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 101,
+  "messages_by_speaker": {
+    "Priya": 26,
+    "Leo": 20,
+    "Tom": 18,
+    "Maya": 34,
+    "Facilitator": 3
+  },
+  "held_thoughts": 131,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 277,
+    "failed": 1,
+    "input_tokens": 564,
+    "cache_creation_tokens": 1501611,
+    "cache_read_tokens": 777820,
+    "output_tokens": 150298,
+    "seconds": 2375.2,
+    "api_equivalent_usd": 7.4286
+  }
+}

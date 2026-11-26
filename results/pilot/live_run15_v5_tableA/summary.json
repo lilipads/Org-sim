@@ -1,0 +1,91 @@
+{
+  "size": 4,
+  "minutes": 20.0,
+  "view": "image",
+  "pad_minutes": 20.0,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.02,
+      "error": 1.96
+    },
+    "Tom": {
+      "speed": 1.21,
+      "error": 1.54
+    },
+    "Priya": {
+      "speed": 1.11,
+      "error": 0.78
+    },
+    "Leo": {
+      "speed": 1.43,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 5.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1193.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [],
+  "judge_guesses": [
+    [
+      "road or river network sketch with a loop and branches",
+      "hand-drawn tree or vine with curling limbs",
+      "curved chain of fallen dominoes seen from above"
+    ],
+    [
+      "road or highway map with a loop and junctions",
+      "river or stream network around a lake",
+      "tangled cable or wire routing"
+    ],
+    [
+      "fallen dominoes in a looping, branching chain",
+      "road or river network with a loop and junctions",
+      "tree branch or root system with twigs"
+    ]
+  ],
+  "placed": 180,
+  "fell": 133,
+  "completion": 0.739,
+  "team_score": 0.0,
+  "first_domino_at": "0:00",
+  "messages": 101,
+  "messages_by_speaker": {
+    "Priya": 26,
+    "Leo": 20,
+    "Tom": 18,
+    "Maya": 34,
+    "Facilitator": 3
+  },
+  "held_thoughts": 131,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 277,
+    "failed": 1,
+    "input_tokens": 564,
+    "cache_creation_tokens": 1501611,
+    "cache_read_tokens": 777820,
+    "output_tokens": 150298,
+    "seconds": 2375.2,
+    "api_equivalent_usd": 7.4286
+  }
+}
