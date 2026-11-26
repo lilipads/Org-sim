@@ -1,0 +1,39 @@
+[   22s] 0:00 asked Maya | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Fish! Simple outline, big tail fin so it reads. I've got the pad and I'll lay the first stroke from the tail tip, so I'm placing the start.
+[   36s] 0:15 asked Maya | dominoes 0 | calls 2
+    Maya -> everyone: Sketching the fish now: tail on the left, eye up top. I'm laying stroke 1 from the start myself, so shout if you want to take the fin.
+[   36s] 0:30 asked - | dominoes 4 | calls 2
+[   36s] 0:45 asked - | dominoes 9 | calls 2
+[   36s] 1:00 asked - | dominoes 14 | calls 2
+[   36s] 1:15 asked - | dominoes 19 | calls 2
+[   36s] 1:30 asked - | dominoes 23 | calls 2
+[   36s] 1:45 asked - | dominoes 27 | calls 2
+[   36s] 2:00 asked - | dominoes 32 | calls 2
+[   54s] 2:15 asked Maya | dominoes 37 | calls 3
+[   54s] 2:30 asked - | dominoes 39 | calls 3
+[   67s] 2:45 asked Maya | dominoes 41 | calls 4
+    Maya -> everyone: Snout join's open, so I'm bridging the belly onto the top line now. Shout if you need the pad.
+[   67s] 3:00 asked - | dominoes 46 | calls 4
+[   67s] 3:15 asked - | dominoes 51 | calls 4
+[   67s] 3:30 asked - | dominoes 55 | calls 4
+[   69s] 3:45 asked - | dominoes 59 | calls 4
+[   69s] 4:00 asked - | dominoes 60 | calls 4
+[   69s] 4:15 asked - | dominoes 60 | calls 4
+[   81s] 4:30 asked Maya | dominoes 61 | calls 5
+    Maya -> everyone: Bridging the snout join now so the belly carries on from the top line. Then I'm checking the tail.
+[   81s] 4:45 asked - | dominoes 66 | calls 5
+[   88s] 5:00 asked Maya | dominoes 68 | calls 6
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Still bridging the snout, then the belly carries on from the top line. After that I'm checking the tail join. Nobody's on the fin, so grab it if you're free.
+[   88s] 5:15 asked - | dominoes 73 | calls 6
+[   92s] 5:30 asked - | dominoes 76 | calls 6
+[  108s] 5:45 asked Maya | dominoes 74 | calls 7
+    Maya -> everyone: Fin's empty and it has to close back to START, so I'm tracing stroke 3 now. Belly bridge after that.
+[  108s] 6:00 asked - | dominoes 69 | calls 7
+[  108s] 6:15 asked - | dominoes 64 | calls 7
+[  108s] 6:30 asked - | dominoes 59 | calls 7
+[  108s] 6:45 asked - | dominoes 54 | calls 7
+[  108s] 7:00 asked - | dominoes 50 | calls 7
+[  108s] 7:15 asked - | dominoes 45 | calls 7
+[  108s] 7:30 asked - | dominoes 40 | calls 7

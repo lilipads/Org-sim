@@ -1,0 +1,22 @@
+[   37s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish. The tail fin makes it obvious from the outline alone. I'm sketching it now, start at the tail end and we run along the top and bottom.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   58s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Leo -> everyone: Good call, Maya, the forked tail will make it readable. Once the top edge is on the pad, I'll trace it out from the tail. Can we keep the spot where the start domino goes clear until then?
+    (Tom held a thought)
+    (Priya held a thought)
+[   78s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 10
+    Maya -> everyone: Sure, I'll keep the start spot clear. I'm sketching the body on the pad now, so the top edge will be up in a minute.
+    (Priya held a thought)
+    (Tom held a thought)
+[   90s] 0:45 asked Tom,Priya,Leo | dominoes 1 | calls 13
+    Leo -> everyone: Top edge is up, so I'm taking stroke one from the tail now and laying the start there. Maya, the fork at the tail is the thing to get right in the outline, so shout if the back line looks off.
+    (Priya held a thought)
+    (Tom held a thought)
+[  106s] 1:00 asked Maya,Tom,Priya | dominoes 5 | calls 16
+    Priya -> Maya,Leo: Sounds good, Maya. Keep the tail fin big so it reads from the outline. Once the body's on the pad, I can trace whichever stroke you want, and I'll leave the start spot alone till Leo's on it.
+    Maya -> everyone: Go for it, Leo. The top edge reads well and the bottom edge leaves the start the same way, so that's fine. I'll sort the fin out as a branch off the body rather than from the start, so it doesn't figh
+    (Tom held a thought)

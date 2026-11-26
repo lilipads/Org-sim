@@ -1,0 +1,31 @@
+[   35s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 10
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish! Big round body, forked tail, eye on the head. Stroke one starts at the nose and runs back along the top and bottom. I've got the pad, so give me a sec to sketch it.
+    (Maya held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+[   57s] 0:15 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 19
+    Omar -> everyone: Fish is a great call, Sofia. One thing before you sketch: could stroke one start at the tail end, not the nose? Then the top and bottom edges both leave the start going the same way, so the fall can r
+    (Priya held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   82s] 0:30 asked Maya,Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 0 | calls 28
+    Sofia -> everyone: Good thinking, Omar. We don't need to move the start: the nose stub splits, and both edges run back the same way. I'm sketching the fish now. Once the top edge is down, could you take the bottom one?
+    (Grace held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)

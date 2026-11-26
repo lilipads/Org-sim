@@ -1,0 +1,41 @@
+[   24s] 0:00 asked Priya | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: I'm grabbing the pad to sketch a fish. The tail fin is the giveaway, so I'll draw that clearly. Stroke one starts right at the tail. Shout if you'd rather do a different animal.
+[   24s] 0:15 asked - | dominoes 0 | calls 1
+[   24s] 0:30 asked - | dominoes 0 | calls 1
+[   24s] 0:45 asked - | dominoes 0 | calls 1
+[   35s] 1:00 asked Priya | dominoes 0 | calls 2
+    Priya -> everyone: Fish it is. I'm drawing it on the pad now, then starting the body from the tail end. If anyone's free, the tail fin is a quick one to pick up once it's on the table.
+[   35s] 1:15 asked - | dominoes 5 | calls 2
+[   35s] 1:30 asked - | dominoes 10 | calls 2
+[   35s] 1:45 asked - | dominoes 12 | calls 2
+[   35s] 2:00 asked - | dominoes 17 | calls 2
+[   35s] 2:15 asked - | dominoes 22 | calls 2
+[   35s] 2:30 asked - | dominoes 25 | calls 2
+[   51s] 2:45 asked Priya | dominoes 27 | calls 3
+    Priya -> everyone: Fin's down and connected back to the start. Doing the top and bottom of the body from the tail base now.
+[   51s] 3:00 asked - | dominoes 32 | calls 3
+[   51s] 3:15 asked - | dominoes 37 | calls 3
+[   51s] 3:30 asked - | dominoes 42 | calls 3
+[   51s] 3:45 asked - | dominoes 46 | calls 3
+[   51s] 4:00 asked - | dominoes 51 | calls 3
+[   51s] 4:15 asked - | dominoes 56 | calls 3
+[   51s] 4:30 asked - | dominoes 61 | calls 3
+[   60s] 4:45 asked Priya | dominoes 64 | calls 4
+    Priya -> everyone: Fin's connected. Body's going on from the tail base now, top and bottom. I'll check where they meet at the nose when they get there.
+[   73s] 5:00 asked Priya | dominoes 69 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   73s] 5:15 asked - | dominoes 71 | calls 5
+[   84s] 5:30 asked Priya | dominoes 69 | calls 6
+    Priya -> everyone: Top's reached the nose, but the bottom's still a few short of it. Laying the rest of the bottom from where it stops now. If someone's free, the eye's a small circle on the pad, but only if we have the
+[   84s] 5:45 asked - | dominoes 64 | calls 6
+[   84s] 6:00 asked - | dominoes 59 | calls 6
+[   84s] 6:15 asked - | dominoes 54 | calls 6
+[   84s] 6:30 asked - | dominoes 49 | calls 6
+[   84s] 6:45 asked - | dominoes 44 | calls 6
+[   84s] 7:00 asked - | dominoes 39 | calls 6
+[   84s] 7:15 asked - | dominoes 34 | calls 6
+[   95s] 7:30 asked Priya | dominoes 31 | calls 7
+    Priya -> everyone: Three more on the bottom, then I'll check where it meets the nose. Nobody's free for the eye, so we're skipping it.
+[  106s] 7:45 asked Priya | dominoes 31 | calls 8
+    Priya -> everyone: Bottom's down. Checking the nose join and the tail base now, then I'll stop building with about a minute to spare.

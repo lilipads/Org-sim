@@ -1,0 +1,26 @@
+[   26s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Let's do a fish. The forked tail fin is what'll make the judge get it. I'm sketching it on the pad now, start at the tail tip.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   37s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Good call on the fish, Maya. I agree the forked tail is what'll make it readable, so let's make sure those tail lines are clean. When you've got the top outline down, I'll trace it and get it standing
+    (Priya held a thought)
+    (Leo held a thought)
+[   57s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Sketching it now. Upper tail tip starts stroke one, runs along the back to the nose. Stroke two comes back along the belly, and stroke three is the lower fin. I'll take stroke one myself once it's dow
+    (Priya held a thought)
+    (Leo held a thought)
+[   78s] 0:45 asked Tom,Priya,Leo | dominoes 0 | calls 13
+    Priya -> everyone: Fish works for me, Maya. Once your tail's drawn, can the fin close back to the tip? That way the judge sees a fork, not an open line. I can take the back edge when you're done.
+    (Leo held a thought)
+    (Tom held a thought)
+[   90s] 1:00 asked Maya,Tom,Leo | dominoes 5 | calls 16
+    Leo -> everyone: Sounds good, Priya. Maya, you take stroke one from the tail tip, since that lays the start. I'll take the belly, stroke two, once your top line's down, and I'll shout before I touch the start end. Pri
+    (Tom held a thought)
+    (Maya held a thought)
+[  103s] 1:15 asked Maya,Tom,Priya | dominoes 7 | calls 19
+    Maya -> everyone: Quick one before I hit the start end: Leo, Priya, please don't close the fin back to the tip. Keep the fork open at the body joint. That split is what reads as a fish tail. A closed loop looks like a 
+    (Priya held a thought)
+    (Tom held a thought)

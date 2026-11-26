@@ -1,0 +1,25 @@
+[   27s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, I'm grabbing the pad. Let's do a fish: a clear outline with a forked tail fin is easy to recognise when it falls. I'll sketch it now, and then we can trace it in pieces.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   37s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Fish works for me. Sofia, can you start the first line right where you're pointing, at the tail end, and run the top outline out to the nose? Then I'll take the tail fin once it's drawn.
+    (Omar held a thought)
+    (Jack held a thought)
+[   57s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Sofia -> everyone: Sounds good, Hana. I'll sketch the fish on the pad now, starting the top edge at the tail. Then I'll lay stroke 1 myself so the run leaves the start properly.
+    (Jack held a thought)
+    (Omar held a thought)
+[   77s] 0:45 asked Omar,Hana,Jack | dominoes 0 | calls 13
+    Omar -> everyone: Sounds good. Sofia, stroke one starts at the tail, where START is, and runs to the nose, so the fall goes the right way. Hana, the tail fin's yours. I'll take the bottom outline once it's on the pad.
+    (Jack held a thought)
+    (Hana held a thought)
+[   89s] 1:00 asked Sofia,Hana,Jack | dominoes 3 | calls 16
+    Sofia -> everyone: Okay, I'm laying stroke one now, from START at the tail along the top edge to the nose. Omar, stroke two's yours, the bottom edge back from the nose. Hana, the tail fork's yours once the top edge is s
+    (Hana held a thought)
+    (Jack held a thought)
+[  106s] 1:15 asked Omar,Hana | dominoes 9 | calls 18
+    Hana -> everyone: Agreed, Sofia, stroke one from START out to the nose. Omar has stroke two. Once the top edge is standing I'll trace the fin off START, and I'll keep those lines heading the same way as the body so the
+    (Omar held a thought)

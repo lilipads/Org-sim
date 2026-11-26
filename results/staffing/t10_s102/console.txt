@@ -1,0 +1,52 @@
+[   36s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 10
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, facing left with the tail fin on the right. I've got the pad and I'm sketching it now. The run starts at the top of the tail and goes along the back to the nose.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[   57s] 0:15 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 19
+    Sofia -> everyone: Okay, I'm backing Leo's fish, facing left with the tail on the right. It's the quickest way to get going. Maya, could you hand the pad to Leo so he can sketch it properly? Once it's drawn I'll take th
+    (Maya held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   75s] 0:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 28
+    Maya -> everyone: Leo already has the pad, so it's all yours. Once the sketch is up, I'll take the back and the tail fin. Make the start the top of the tail, and put the eye near the nose so the judge can see it's a fi
+    (Sam held a thought)
+    (Leo held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[   88s] 0:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 3 | calls 38
+    Priya -> everyone: I'm in on the fish too, facing left with the tail on this side. Leo, once you've finished the sketch, I'll take the tail fin. That's the part that makes it read as a fish.
+    (Tom held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+[  105s] 1:00 asked Maya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 11 | calls 46
+    Hana -> everyone: Quick check before we trace: the run has to leave START at the top of the tail. Right now stroke 1 starts at the nose, so it would flow the wrong way. Leo, could it begin at the tail and run to the no
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Leo held a thought)

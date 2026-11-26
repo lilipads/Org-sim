@@ -1,0 +1,43 @@
+[   33s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 10
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Right, I'll take the pad. Let's do a fish, facing right with the tail on this side. I'm starting the top edge from the tail tip now. Can someone take the bottom edge? It starts from the same tail tip.
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+[   48s] 0:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 20
+    Maya -> everyone: I'll take the bottom edge. I'll trace it from the tail tip once your top line's down, so they meet clean. Hana, can you add the eye and the tail fin on the pad too?
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[   69s] 0:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 3 | calls 30
+    Sofia -> everyone: Maya's got the bottom edge, so I'll keep my hands off it. The tail fin is still open. Hana, when you add it to the pad, I'll trace it, and I'll check the tail-tip joint with Maya once both edges are d
+    (Hana held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+[   86s] 0:45 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 7 | calls 39
+    Omar -> Hana: Hana, stroke 2 on the pad is already the bottom edge, so Maya can trace it as soon as your top line's down. Sofia's got the tail fin, so I'll keep off it and give you a hand wherever the top edge need
+    Sam -> Hana,Maya: Hana, once you're past the nose, pass me the pad and I'll sketch the tail fin off the tail tip. Maya, your bottom edge is already on the pad as stroke 2, so you can trace it once the top edge reaches 
+    Grace -> Hana: Hana, the outline reads well. Could you add a small V notch in the tail, between the two tail corners? That's what will make the judge see a fish. I can trace it once the edges are down.
+    Hana -> everyone: Sorry, I started before I'd said the plan. Top edge from the tail tip is going down now, and Maya's taking the bottom. I've just put the tail fin on the pad: two short strokes off the top and bottom e
+    (Priya held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Jack held a thought)

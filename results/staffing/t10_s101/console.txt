@@ -1,0 +1,42 @@
+[   36s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 10
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Right, let's do a fish. I've got the pad, so I'll sketch it with the tail fin out so the judge gets it. Start the run up here at the top of the tail, and it'll swim left to right.
+    (Grace held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   59s] 0:15 asked Maya,Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 0 | calls 19
+    Sofia -> everyone: Fish, yes! Two fixes: Jack has the pad, not Omar, so Jack, could you pass it over? And Omar, can START go at the tail tip on the left, not up at the top of the tail? Everything has to leave the start 
+    (Hana held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+[   95s] 0:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 28
+    Hana -> everyone: Sofia's right, START goes at the top tip of the tail, so every line leaves heading right. Jack, can I take the pad? I'll sketch the fish that way now.
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+[  107s] 0:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 0 | calls 37
+    Sofia -> everyone: Yes, Hana, that's the one. START at the tail tip, and the fin splits off going right. Once it's drawn I'll lay stroke one from the start.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Priya held a thought)

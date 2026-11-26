@@ -1,0 +1,33 @@
+[   26s] 0:00 asked Sofia | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Right, I've got the pad. Let's do a fish: long body, a forked tail, and an eye. I'm laying the first line from the start now, so the rest can branch off it.
+[   44s] 0:15 asked Sofia | dominoes 0 | calls 2
+    Sofia -> everyone: Okay, I'm sketching the fish on the pad now: body first, then the back line, then the fins. Once the body's standing I'll trace it. Someone grab the bottom line when it's up.
+[   44s] 0:30 asked - | dominoes 6 | calls 2
+[   44s] 0:45 asked - | dominoes 13 | calls 2
+[   44s] 1:00 asked - | dominoes 19 | calls 2
+[   44s] 1:15 asked - | dominoes 26 | calls 2
+[   44s] 1:30 asked - | dominoes 33 | calls 2
+[   44s] 1:45 asked - | dominoes 36 | calls 2
+[   55s] 2:00 asked Sofia | dominoes 43 | calls 3
+[   55s] 2:15 asked - | dominoes 50 | calls 3
+[   55s] 2:30 asked - | dominoes 56 | calls 3
+[   55s] 2:45 asked - | dominoes 63 | calls 3
+[   55s] 3:00 asked - | dominoes 70 | calls 3
+[   55s] 3:15 asked - | dominoes 76 | calls 3
+[   63s] 3:30 asked Sofia | dominoes 76 | calls 4
+    Sofia -> everyone: Body and both fins are standing, and the start reaches every domino. I'm going to check the nose and tail joints now, then add the eye if there's time.
+[   76s] 3:45 asked Sofia | dominoes 76 | calls 5
+    Sofia -> everyone: The whole fish is connected from the start now. There's a jammed pair up by the nose, so I'm easing that one into line before I add anything else.
+[   87s] 4:00 asked Sofia | dominoes 76 | calls 6
+    Sofia -> everyone: Nose pair's eased into line. I'm going to look over that joint before I touch anything else, so we know the fall carries all the way to the tip.
+[  100s] 4:15 asked Sofia | dominoes 76 | calls 7
+    Sofia -> everyone: Nose checks out. The fall carries from the start all the way to the tip, and both fins are connected. I'm not adding the eye stub with this time left, so let's leave the fish as it is and keep hands o
+[  100s] 4:30 asked - | dominoes 76 | calls 7
+[  100s] 4:45 asked - | dominoes 76 | calls 7
+[  107s] 5:00 asked Sofia | dominoes 76 | calls 8
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Fish is done and connected all the way from the tail to the nose. Let's keep hands off the line so nothing gets bumped before the push.
+[  107s] 5:15 asked - | dominoes 76 | calls 8
+[  107s] 5:30 asked - | dominoes 76 | calls 8
+[  107s] 5:45 asked - | dominoes 76 | calls 8

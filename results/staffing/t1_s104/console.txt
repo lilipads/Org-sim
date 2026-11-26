@@ -1,0 +1,36 @@
+[   30s] 0:00 asked Hana | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: I'm taking the pad to sketch a fish, side on. Stroke one starts at the tail tip and runs along the top edge, and the bottom edge will come off the same start. Once I've drawn it, can someone take the 
+[   30s] 0:15 asked - | dominoes 0 | calls 1
+[   30s] 0:30 asked - | dominoes 0 | calls 1
+[   30s] 0:45 asked - | dominoes 0 | calls 1
+[   45s] 1:00 asked Hana | dominoes 0 | calls 2
+    Hana -> everyone: Fish is on the pad. The tail tip on the left is the start. I'm laying the top edge now. Could someone take the bottom edge, stroke two, from that same tail tip?
+[   45s] 1:15 asked - | dominoes 4 | calls 2
+[   45s] 1:30 asked - | dominoes 8 | calls 2
+[   45s] 1:45 asked - | dominoes 12 | calls 2
+[   45s] 2:00 asked - | dominoes 17 | calls 2
+[   45s] 2:15 asked - | dominoes 21 | calls 2
+[   45s] 2:30 asked - | dominoes 25 | calls 2
+[   45s] 2:45 asked - | dominoes 29 | calls 2
+[   58s] 3:00 asked Hana | dominoes 31 | calls 3
+    Hana -> everyone: Top edge is nearly done. If nobody's free for stroke two, I'll trace the bottom edge myself once this is down.
+[   58s] 3:15 asked - | dominoes 36 | calls 3
+[   58s] 3:30 asked - | dominoes 40 | calls 3
+[   79s] 3:45 asked Hana | dominoes 42 | calls 4
+    Hana -> everyone: Top edge is down, but it stops a bit short of the nose, so I'm extending it. I'm also laying the bottom edge now, from the tail tip. If anyone's free, the nose end is the spot to help with.
+[   79s] 4:00 asked - | dominoes 46 | calls 4
+[   79s] 4:15 asked - | dominoes 51 | calls 4
+[   79s] 4:30 asked - | dominoes 55 | calls 4
+[   79s] 4:45 asked - | dominoes 59 | calls 4
+[   90s] 5:00 asked Hana | dominoes 61 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Five minutes. I've got both edges going, and the nose end of the top edge is the gap I'm closing now. If anyone's free, that's the spot to help with.
+[   90s] 5:15 asked - | dominoes 65 | calls 5
+[   90s] 5:30 asked - | dominoes 70 | calls 5
+[   90s] 5:45 asked - | dominoes 74 | calls 5
+[   90s] 6:00 asked - | dominoes 78 | calls 5
+[   92s] 6:15 asked - | dominoes 80 | calls 5
+[  109s] 6:30 asked Hana | dominoes 83 | calls 6
+    Hana -> everyone: Closing the last gap on the top edge at the nose now. Then I'll check the bottom edge joins the start.
+[  109s] 6:45 asked - | dominoes 86 | calls 6
