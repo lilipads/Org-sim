@@ -125,6 +125,32 @@ def main():
                          f"{p['sound_work']} | {p['fixes']} | {p['open_breaks_owned']} | {p['planning']} | {p['laid']} | {p['redundant']} | "
                          f"{p['off_plan']} | {p['words']} | {p['private_msgs']} | {p['inspections']} |")
         lines.append("")
+    # by condition (main run only: seeds >= 402)
+    import statistics as st
+    by = defaultdict(list)
+    for g in games:
+        if int(g["game"].rsplit("_s", 1)[1]) >= 402:
+            by[g["condition"]].append(g)
+    order = ["none", "individual", "team", "manager", "peer", "forced"]
+    head = ["| condition | games | recognised | share fell | dominoes placed | plan size | redundant | words | private msgs | rho(rating, oracle) | rho(rating, +planning) | rho(rating, words) | rating spread |",
+            "|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
+    def mean(v):
+        v = [x for x in v if x is not None]
+        return round(st.mean(v), 2) if v else None
+    for c in order:
+        gs = by.get(c, [])
+        if not gs:
+            continue
+        spread = [max(p["rating"] for p in g["people"].values()) - min(p["rating"] for p in g["people"].values())
+                  for g in gs if all(p["rating"] is not None for p in g["people"].values())]
+        head.append(f"| {c} | {len(gs)} | {sum(g['recognition'] >= 0.5 for g in gs)}/{len(gs)} | "
+                    f"{mean([g['completion'] for g in gs])} | {mean([g['placed'] for g in gs])} | "
+                    f"{mean([g['plan_dominoes'] for g in gs])} | {mean([sum(p['redundant'] for p in g['people'].values()) for g in gs])} | "
+                    f"{mean([sum(p['words'] for p in g['people'].values()) for g in gs])} | "
+                    f"{mean([sum(p['private_msgs'] for p in g['people'].values()) for g in gs])} | "
+                    f"{mean([g['rho_contribution'] for g in gs])} | {mean([g['rho_with_planning'] for g in gs])} | "
+                    f"{mean([g['rho_words'] for g in gs])} | {mean(spread)} |")
+    lines = ["# By condition (seeds 402+)", ""] + head + [""] + lines
     out = "\n".join(lines)
     print(out)
     with open(os.path.join(root, "analysis.md"), "w") as f:
