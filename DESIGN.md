@@ -709,3 +709,11 @@ so there was no standing start at the push. A team failure, not an engine bug.
 Designed in AGENT_STUDY.md (not started): tool agents that get delegated work, a client with hidden
 preferences, private vs shared pads, sign-off and risk, and four experiments (E1 bottleneck, E2 what
 requires a human, E3 cheap options vs fragmentation, E4 accountability for agent output).
+
+### 5.2 Sonnet rerun (same seeds)
+
+Recognized 1/4 (size 1), 4/4 (size 4), 4/4 (size 10). Share fallen 50%, 87%, 92%. Words per game 57, 1258,
+1726; hands busy 76%, 21%, 12%; dominoes laid per person 107, 36, 18; people laying fewer than 10: 0, 0, 4;
+top builder's share 100%, 35%, 23%; inspections 0.25, 22, 74. With the larger model, ten people still
+reach the goal, but with less than half the per-person output of four and four people as passengers;
+solo players still fail, mostly on a broken or abandoned build (60 dominoes lifted per solo game).

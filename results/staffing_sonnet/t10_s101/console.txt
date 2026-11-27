@@ -85,3 +85,348 @@
     (Jack held a thought)
 [ 1039s] 2:45 asked Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 96 | calls 102
     Sofia -> everyone: Maya's top line is almost at the tail. I'll check the joint once it lands.
+[ 1051s] 3:00 asked Maya,Tom,Omar,Hana,Jack,Sam,Grace | dominoes 108 | calls 109
+    Grace -> everyone: Heads up, there's a sharp turn right at the tail joint where the lower fin branches off. I'm patching that spot now. Leo, keep going on the lower fin.
+    (Tom held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[ 1062s] 3:15 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 115 | calls 118
+    Hana -> everyone: Body looks great, everything's connected from the nose. Grace has the tail joint. Priya, Leo, keep going on the fins. When you finish, shout so we can check the notch in the tail is joined up before t
+    (Jack held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[ 1074s] 3:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 118 | calls 127
+    Priya -> everyone: Upper fin's down, it loops over the top and comes back in to the notch. I'm going to look over the tail joint and the notch for gaps. Leo, shout if you want a hand closing the lower fin.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+[ 1084s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 122 | calls 137
+    Jack -> everyone: Nice work, everyone, the whole body is connected from the nose. I'll keep clear of Leo and Priya's hands so nobody bumps anything, and once the lower fin is down I'll check the notch.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1094s] 4:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 126 | calls 146
+    Hana -> everyone: Nice work, Priya. Leo, how far along are you on the lower fin? I'll keep my hands off the tail so we don't bump you. Shout if you want a hand closing the notch.
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[ 1104s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 127 | calls 155
+    Leo -> everyone: Thanks Grace, Priya. Lower fin's nearly there, one domino left. Once it lands I'll check the notch, and I'll shout if I need a hand.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+[ 1119s] 4:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 127 | calls 166
+    Priya -> everyone: Tail joint looks solid, and everything's connected from the nose. Leo, once that last domino lands, shout and I'll check that the two fins meet at the notch. I'll stay out of your way till then.
+    (Sam held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[ 1131s] 4:45 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 127 | calls 175
+    Leo -> everyone: Priya, last domino's down. The notch still looks a bit sharp where the two fins meet, so I'm closing that now. Stay clear for a moment and I'll shout when it's done.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+[ 1139s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 127 | calls 185
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Leo, my look at the notch says the spot just right of where the two fins meet, on the left side of the notch, still has a slightly wide gap to the next domino. That's the one to close. Everything else
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+[ 1147s] 5:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 127 | calls 194
+    Leo -> everyone: Jack, thanks, I saw that one too. I'm closing it now, so everyone stay clear of the notch for a moment.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[ 1158s] 5:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 126 | calls 204
+    Leo -> everyone: Heads up, the notch gap is too wide for a patch, so I'm re-laying the lower fin now. Please keep clear of the tail until I shout.
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+[ 1167s] 5:45 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 122 | calls 213
+    Hana -> everyone: Okay Leo, go for it. Everyone keep clear of the tail. Shout the moment the lower fin's down and I'll check that the notch is joined before the push.
+    (Maya held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Sofia held a thought)
+[ 1177s] 6:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 118 | calls 222
+    Priya -> everyone: Got it Leo, I'll stay clear. Shout when it's done and I'll do a last check from the nose.
+    Sofia -> everyone: Got it Leo, hands off the tail. Shout when the lower fin's down and I'll look it over.
+    (Maya held a thought)
+[ 1186s] 6:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 116 | calls 232
+    Maya -> everyone: Sounds good Leo, I'm keeping my hands off the tail. Shout when the lower fin's down and I'll do a last look over the whole line.
+    Leo -> everyone: Thanks both. Still laying the lower fin, I'll shout the moment it's down.
+[ 1197s] 6:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 112 | calls 242
+[ 1207s] 6:45 asked Hana | dominoes 109 | calls 243
+[ 1207s] 7:00 asked - | dominoes 105 | calls 243
+[ 1207s] 7:15 asked - | dominoes 101 | calls 243
+[ 1219s] 7:30 asked Maya,Tom,Priya,Sofia,Omar,Jack,Sam,Grace | dominoes 103 | calls 251
+    Grace -> everyone: Leo, I can't see the lower fin down yet and we've got about two minutes. Want me to lay the far half, the part coming back up to the notch, while you do the part off the tail? Shout if so.
+    (Sam held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[ 1236s] 7:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 112 | calls 261
+    Sam -> everyone: Grace, yes, go. Lay the far half coming back up to the notch now. Leo, keep going off the tail and shout where your end stops so Grace can meet it. I'll stay clear and check the joint once it's down.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+[ 1249s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 119 | calls 271
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Grace, please hold off, I'm only a few dominoes from done on the lower fin. If you trace it too, it'll lift what I just laid. Stay clear of the tail, I'll shout the second it's down.
+    (Grace held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[ 1262s] 8:15 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 123 | calls 280
+    Grace -> Leo: Leo, I'm not re-tracing, just extending from the far tip back up toward the notch, so I won't lift yours. I'll stay clear of the tail end near you. Shout where your end stops so we meet there.
+    Hana -> everyone: Okay, Leo's on it. Grace, hold off so you don't lift his dominoes. Leo, shout the second the last one's down and we'll check the notch is joined. Everyone else, stay clear of the tail.
+    (Priya held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+[ 1276s] 8:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 128 | calls 289
+    Sam -> everyone: Leo, the lower fin's in, nice. I'm carrying it up from the far corner to the notch now, so keep your hands off that stretch.
+    Grace -> everyone: Carrying the far half up to the notch now, Leo. I'm not touching your part.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+[ 1287s] 8:45 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack | dominoes 131 | calls 296
+    Omar -> everyone: Sam, Grace, you're both on the same stretch. Sam, you take it up to the notch, and Grace, stay off it so nothing gets lifted. Nice one, everyone!
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+[ 1298s] 9:00 asked Maya,Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 131 | calls 305
+    Sam -> everyone: Tail's joined, the fall runs from the nose all the way round the notch. Only one stray left, and it's harmless. Everybody hands off now, nobody touch the tail, and let's not bump it in the last minute
+    (Leo held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+[ 1306s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 131 | calls 314
+    Jack -> everyone: Nice work Sam and Grace, and Leo too! Looks connected from the nose all the way round, so hands off and let the fish fall.
+    Hana -> everyone: Great work all. Hands off, nobody touch the tail till the push.
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[ 1313s] 9:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 131 | calls 324
+    Leo -> everyone: Thanks Sam, Grace. My part's down and I'm hands-off. Nobody touch the tail now, let's let it ride.
+    Sofia -> everyone: Agreed, Jack and Hana. Looks connected from the nose all the way round. Hands off, everyone. Nice work, fish team!
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[ 1321s] 9:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 131 | calls 334
+    Jack -> everyone: Hands off, everyone. Nice teamwork, that's a good-looking fish. Fingers crossed!
+    Tom -> everyone: Looks great, everyone. Hands in pockets, let the fish swim.
+    Maya -> everyone: Nice work everyone. Hands off the tail and let it stand.
+    Leo -> everyone: All set, hands off. Let it fall.
+    (Omar held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 2.0
+    },
+    "Tom": {
+      "speed": 0.96,
+      "error": 0.76
+    },
+    "Priya": {
+      "speed": 1.56,
+      "error": 1.44
+    },
+    "Leo": {
+      "speed": 0.75,
+      "error": 1.92
+    },
+    "Sofia": {
+      "speed": 1.32,
+      "error": 1.78
+    },
+    "Omar": {
+      "speed": 0.82,
+      "error": 0.68
+    },
+    "Hana": {
+      "speed": 1.45,
+      "error": 0.9
+    },
+    "Jack": {
+      "speed": 1.22,
+      "error": 1.28
+    },
+    "Sam": {
+      "speed": 1.4,
+      "error": 0.79
+    },
+    "Grace": {
+      "speed": 0.91,
+      "error": 0.97
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1381.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with forked tail",
+      "stylized fish drawing",
+      "looped line with crossing path"
+    ],
+    [
+      "fish with forked tail",
+      "fish outline, crossed body",
+      "figure-eight loop with tail"
+    ],
+    [
+      "fish with forked tail",
+      "infinity or figure-eight loop",
+      "bird or swan outline"
+    ]
+  ],
+  "placed": 131,
+  "fell": 130,
+  "completion": 0.992,
+  "team_score": 0.992,
+  "first_domino_at": "0:45",
+  "messages": 53,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 8,
+    "Maya": 4,
+    "Tom": 3,
+    "Jack": 5,
+    "Sofia": 7,
+    "Omar": 3,
+    "Priya": 4,
+    "Leo": 9,
+    "Grace": 4,
+    "Sam": 3
+  },
+  "held_thoughts": 197,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 357,
+    "failed": 3,
+    "input_tokens": 720,
+    "cache_creation_tokens": 1749485,
+    "cache_read_tokens": 1108828,
+    "output_tokens": 161058,
+    "seconds": 3870.9,
+    "api_equivalent_usd": 8.5809,
+    "cached": 0
+  }
+}
