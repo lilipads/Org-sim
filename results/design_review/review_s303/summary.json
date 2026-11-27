@@ -1,0 +1,234 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 11.4,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 158,
+  "fell": 158,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 13,
+    "Maya": 14,
+    "Leo": 8,
+    "Tom": 12
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 132,
+    "failed": 0,
+    "input_tokens": 0,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 0,
+    "output_tokens": 0,
+    "seconds": 0.0,
+    "api_equivalent_usd": 0.0,
+    "cached": 132
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "review",
+  "designer": "Tom",
+  "locked_at": 45.0,
+  "reviews": {
+    "Maya": "Body along the bottom from the tail is good, and one long spiral is the right call. Three things to change. First, the shell comes off the body heading up and back to the left, which is far too steep, so it would never fall. Have it peel off further right along the body, heading forward and up at a shallow angle, then curve up and over counterclockwise and spiral inward. Second, the stalk on the left leans backward and the other is near vertical. Let the body curve gently upward into the head, then have both stalks lean forward off it, each within about 40 degrees of the line they leave. Third",
+    "Priya": "I like it. The big spiral is what the client asked for, and the long low body reads as a snail straight away. Two tweaks. First, the stalks should lean forward off the head. The left one currently tips back a bit, so push both toward the right. Second, the tight middle of the spiral is fiddly, so open the last turn up a little so it doesn't jam. Otherwise good to lock. Once it's built I can show it to the client.",
+    "Leo": "Snail shape reads well and the foot as one long run from the tail is good. Three things have to change or half of it won't fall. (1) The spiral peels off the foot going steeply up and back to the left. That's well past the shallow angle a branch needs. Have it leave the foot heading forward (to the right) and rising gently, then sweep up and over and round to the left, so the first bit of the shell follows the flow of the body. (2) Both eye stalks go almost straight up off the body. They need to lean forward off the head at a shallow angle, and the body should rise toward the head gradually in"
+  },
+  "aesthetics": 0.5,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": ""
+    },
+    {
+      "score": 5.0,
+      "why": ""
+    },
+    {
+      "score": 5.0,
+      "why": ""
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 10,
+    "per_stroke": {
+      "1": 0.26,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 0,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}
