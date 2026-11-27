@@ -400,6 +400,8 @@ and addressed agents pulled into conversations.
 
 ## 6. Performance-review conditions
 
+*Refined into a buildable plan in PERF_REVIEW_STUDY.md (manager presence, self-assessments, leave-one-out ground truth).*
+
 Agents are **told up front** whether they are evaluated, and they are given the explicit rubric. To give
 the incentives some weight, evaluated agents are also told: *"Your rating decides your promotion and
 bonus this cycle. You care about your career."*
