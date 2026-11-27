@@ -73,3 +73,15 @@
     (Jack held a thought)
     (Omar held a thought)
     (Sam held a thought)
+[ 1021s] 2:15 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 62 | calls 89
+    Leo -> everyone: Sofia, I've got the lower fin, stroke 4, it's queued and starts as soon as the belly reaches the tail. No need to take it. Could you keep an eye on the tail joint once it's down?
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[ 1030s] 2:30 asked Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 80 | calls 95
+    Sofia -> everyone: Sounds good Leo, you've got the lower fin, I'll back off. I'll check the tail joint once the body lines get there.
+    Omar -> everyone: Sounds good, Leo's on the lower fin, Sofia and I will watch the tail joint.
+    (Jack held a thought)
+[ 1039s] 2:45 asked Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 96 | calls 102
+    Sofia -> everyone: Maya's top line is almost at the tail. I'll check the joint once it lands.
