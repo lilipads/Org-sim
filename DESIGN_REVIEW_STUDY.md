@@ -77,3 +77,24 @@ shark). Then a cheap small-model test game per condition.
 * Both tables locked at 0:45: reviews came before anyone ran a check; the checks were used after the
   lock, to repair. Art panel scores are low overall (2-5 of 10), so aesthetics mostly separates
   conditions rather than rating absolute quality.
+
+## 8. Results, 4 rounds x 5 conditions (Sonnet, seeds 301-304)
+
+| Condition | Final | Recognised | Share fell | Aesthetics | Locked sketch recognised | Lock at (s) | Checks before lock | Re-sketches after lock |
+|---|---|---|---|---|---|---|---|---|
+| Lone Eng | **0.30** | 3/4 | 85% | 0.48 | 0.29 | 101 | 6.3 | 0 |
+| Open discussion | 0.22 | 2/4 | 85% | 0.43 | 0.50 | 53 | 0.3 | 1.0 |
+| Lone Design | 0.14 | 1/4 | 65% | 0.38 | 0.75 | 49 | 1.8 | 0.8 |
+| Design review | 0.10 | 1/4 | 75% | 0.40 | 0.75 | 45 | 0.5 | 1.8 |
+| Lone PM | 0.06 | 1/4 | 81% | 0.38 | 0.88 | 90 | 3.3 | 1.5 |
+
+Readings (4 games each, so directions only):
+* Every table picked the client's favourite animal in every condition: one sentence from the PM is enough,
+  so the client axis doesn't separate conditions.
+* Teams lock almost at once (45-100 s). Reviews come before anyone runs a check (0.5 checks before the
+  lock in review games); the checks are used after the lock, to repair, and designs keep changing after
+  the lock. The review is a rubber stamp.
+* Design and PM lock sketches that read well on paper (0.75-0.88), but the built pictures read far worse:
+  the build drifts from the sketch, or the sketch breaks. The lone Eng locks later, after dry runs, with
+  a plainer sketch that gets built faithfully, and wins.
+* Whale failed nearly everywhere (hard to draw); snail, swan and butterfly can succeed.
