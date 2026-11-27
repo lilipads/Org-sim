@@ -1,0 +1,32 @@
+[  315s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 12
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Okay, idea: a big fish facing left! Start at the nose, the line splits round the top and bottom of the body, then meets again at a triangle tail. I'm sketching it now. Someone grab the first little li
+    (Hana held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+[  327s] 0:15 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 21
+    Leo -> everyone: I've got the pad, so I'll put Sofia's fish on it now. I'm taking the first line from the nose and the top curve. Someone grab the bottom curve, and someone the tail.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[  370s] 0:30 asked Maya,Tom,Priya,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 6 | calls 31
+    Hana -> everyone: Nice sketch, Leo. I've got the bottom curve. Someone take the tail, and Leo, keep the nose start going.
+    Jack -> everyone: Nice sketch, Leo, and great idea, Sofia! I'll take the bottom curve, stroke 2. Can someone grab the tail, stroke 3?
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
