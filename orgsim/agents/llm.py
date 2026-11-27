@@ -239,10 +239,11 @@ def _call_model_uncached(system: str, prompt: str, log: CallLog | None, tag: str
         elif p.stdout.strip().startswith("{"):
             out = json.loads(p.stdout)
         text = out.get("result", "") or ""
-        rec.update(ok=bool(text) and not out.get("is_error"), usage=out.get("usage"),
+        failed = bool(out.get("is_error")) or text.startswith("You've hit your")
+        rec.update(ok=bool(text) and not failed, usage=out.get("usage"),
                    cost_usd=out.get("total_cost_usd"), seconds=round(time.time() - t0, 2),
                    result=text[:4000], stderr=p.stderr[-500:] if p.returncode else "")
-        return text
+        return "" if failed else text          # an error message is not an answer (and must not be cached)
     except Exception as e:
         rec.update(ok=False, error=str(e), seconds=round(time.time() - t0, 2))
         return ""
