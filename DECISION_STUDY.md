@@ -127,8 +127,10 @@ Two additions, both with agents as tools (as in AGENT_STUDY.md):
 
 ## 9. First runs (rounds 201-202) and a problem
 
-The 5-hour usage limit hit mid-run: rounds 203-204 and two round-202 games failed (removed; the runner
-redoes them). Of the 8 valid games, **none was recognised**, even if every domino had fallen: the
+The 5-hour usage limit hit mid-run, partly because a stuck launcher also started all 8 rounds alongside the
+intended run (my mistake). Rounds 203-208 and two round-202 games failed with no output and were removed.
+The two runners may also have written into the same round-201/202 folders at once, so treat those 8
+games as a pilot only. Of the 8 valid games, **none was recognised**, even if every domino had fallen: the
 client's best animals (cat, hen, hare, sea turtle) and the teams' other picks (elephant, donkey) are
 much harder to draw in dominoes than the fish every earlier table chose. Judges saw a boot, a horse's
 head, a long-beaked bird, a tulip. With recognition at zero the final score can't separate conditions,
