@@ -14,3 +14,12 @@
     (Leo held a thought)
     (Tom held a thought)
     (Maya held a thought)
+[   58s] 0:45 asked Maya,Tom,Leo | dominoes 11 | calls 15
+    Leo -> everyone: Nice sketch, Priya. You've got the nose and the top line, Tom's on the bottom line, so I'll take the tail. Maya, if you're free, grab the top half of the tail fork and I'll do the lower half. Shout if
+    (Tom held a thought)
+    (Maya held a thought)
+[   70s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 20 | calls 19
+    Leo -> everyone: There's no tail stroke on the pad yet, so I'm adding it now. Top half and bottom half, both meeting at the notch. Maya, once it's drawn you can take the top half.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)

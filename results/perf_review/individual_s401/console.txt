@@ -22,3 +22,7 @@
     Priya -> everyone: Got it, I'm on the tail now. It'll hook up once the top and belly lines reach the back of the body.
     (Maya held a thought)
 [   52s] 1:15 asked - | dominoes 9 | calls 17
+[   58s] 1:30 asked Leo | dominoes 20 | calls 18
+    Leo -> everyone: Lead-in's done and it connects to the start. I'll check the joint where the top and belly lines leave it, and shout if anything needs closing.
+[   68s] 1:45 asked Leo | dominoes 32 | calls 19
+    Leo -> everyone: Joint at the back of the lead-in looks good. Everything standing is connected to the start, and both body lines are heading out. Priya, the tail should hook on once the top and belly lines reach it. I
