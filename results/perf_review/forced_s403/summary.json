@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 515.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish drawn with a simple outline",
+      "ichthys-style fish symbol",
+      "stylized fish with forked tail"
+    ],
+    [
+      "ichthys fish symbol",
+      "simple line drawing of a fish",
+      "fish outline with a crossed-over head"
+    ],
+    [
+      "fish outline, side view",
+      "ichthys christian fish symbol",
+      "stylized fish with forked tail"
+    ]
+  ],
+  "placed": 111,
+  "fell": 100,
+  "completion": 0.901,
+  "team_score": 0.901,
+  "first_domino_at": "0:30",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 9,
+    "Leo": 6,
+    "Manager": 5,
+    "Tom": 11
+  },
+  "held_thoughts": 63,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 0,
+    "input_tokens": 318,
+    "cache_creation_tokens": 784378,
+    "cache_read_tokens": 458289,
+    "output_tokens": 85109,
+    "seconds": 1266.2,
+    "api_equivalent_usd": 3.8846,
+    "cached": 0
+  },
+  "review": "forced",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "She set the sketch and split the strokes so everyone was building within the first minute, and she laid the top line and kept the team's morale up. Against that, the top line wasn't connected at the nose until Priya fixed it, and she overstated that the strays were cleaned up while some remained."
+    },
+    "Tom": {
+      "rating": 1,
+      "why": "He built the belly line, coordinated well and pushed for hands-off, but I saw a repeated pattern of inaccurate reporting to me. He twice overstated stray clean-up while strays remained, claimed a walk-through I never saw, and misattributed Leo's work. His upper fork also failed and had to be redone by Leo."
+    },
+    "Priya": {
+      "rating": 5,
+      "why": "She found and bridged the nose gap, the last thing keeping the top line from connecting. Others credited her with it across several visits, and her own account is candid about her slips and consistent with what I heard. She also pushed for hands-off at the end, though I saw little of her directly."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "He laid the lower fork and relayed the upper fork, which Tom's account corroborates, and he flagged the nose and stray-line problems to the right people instead of touching them. He corrected Tom's credit accurately, though his first correction was too narrow. He did not lead and offered little during the long hands-off stretch."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

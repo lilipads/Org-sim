@@ -1,0 +1,125 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 733.2,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish seen from the side",
+      "bird in flight",
+      "bow tie or ribbon"
+    ],
+    [
+      "fish with a forked tail",
+      "bird in flight",
+      "butterfly"
+    ],
+    [
+      "fish with a forked tail",
+      "bird in flight",
+      "leaf or a stylized cloud shape"
+    ]
+  ],
+  "placed": 196,
+  "fell": 179,
+  "completion": 0.913,
+  "team_score": 0.913,
+  "first_domino_at": "0:30",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 3,
+    "Maya": 15,
+    "Tom": 6,
+    "Manager": 5,
+    "Leo": 9
+  },
+  "held_thoughts": 65,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 2,
+    "input_tokens": 312,
+    "cache_creation_tokens": 762495,
+    "cache_read_tokens": 446981,
+    "output_tokens": 95526,
+    "seconds": 1490.9,
+    "api_equivalent_usd": 3.9242,
+    "cached": 1
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She redrew the plan to fit the start, led the top body and spine, and made the hands-off call that protected the dark connected outline; her status reports to me were accurate and consistent across visits. Her early premature 'connected' claims and the time lost to the redraw hold her just below top, but she owned both openly."
+    },
+    "Tom": {
+      "rating": 2,
+      "why": "Across five visits I saw standby and echoing but no concrete build contribution, and Maya's account doesn't mention him; his self-assessment claims a nose-to-top stretch and joint check that I couldn't confirm, though it is candid that his contribution was modest. Credit for flagging the stale pad drawing and staying hands-off keeps him from the bottom, but I'll ask the others what he built before finalizing."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She set the initial fish direction and her nose claim held up, and her calibration improved after overconfident claims at 4:00 and 4:30, but her original start-at-nose plan was wrong. Beyond that I saw little concrete build or verification from her, and she says herself that her impact was modest."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He built most of the bottom line and the nose-end top body, caught the premature 'connected' call, and reported honestly, including the failed diagonal bridge, and he recommended hands-off to protect the outline. The tail diagonal and forks stayed unfinished and he overlapped with Tom early, so the result is strong but not flawless."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

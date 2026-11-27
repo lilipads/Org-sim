@@ -1,0 +1,29 @@
+{
+ "condition": "team",
+ "evaluation_text": "Everyone at your table receives the same rating: the team's score, which is whether the judges recognise the animal, times the share of the dominoes that fall. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.07,
+   "error": 0.67
+  },
+  "Tom": {
+   "speed": 1.95,
+   "error": 1.36
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 1.1
+  },
+  "Leo": {
+   "speed": 1.81,
+   "error": 2.57
+  }
+ },
+ "manager_schedule": null
+}

@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 781.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish drawn with a line outline",
+      "fish with forked tail and fins",
+      "simple cartoon fish outline"
+    ],
+    [
+      "a fish drawn as a simple outline",
+      "a leaf or almond shape with a stem",
+      "a stylized bird or flying shape"
+    ],
+    [
+      "fish with forked tail and fins",
+      "fish outline drawn in simple line strokes",
+      "leaf or lens shape with a stem"
+    ]
+  ],
+  "placed": 199,
+  "fell": 110,
+  "completion": 0.567,
+  "team_score": 0.567,
+  "first_domino_at": "0:30",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 22,
+    "Maya": 9,
+    "Tom": 14,
+    "Priya": 7
+  },
+  "held_thoughts": 81,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 161,
+    "failed": 2,
+    "input_tokens": 330,
+    "cache_creation_tokens": 847915,
+    "cache_read_tokens": 492264,
+    "output_tokens": 84485,
+    "seconds": 1579.3,
+    "api_equivalent_usd": 4.1511,
+    "cached": 0
+  },
+  "review": "peer",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4.0
+    },
+    "Tom": {
+      "rating": 4.0
+    },
+    "Priya": {
+      "rating": 4.33
+    },
+    "Leo": {
+      "rating": 3.0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

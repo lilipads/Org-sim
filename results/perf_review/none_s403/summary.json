@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 543.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a fish outline with a crossed tail",
+      "a stylized fish symbol (ichthys-like)",
+      "a looped line forming an eye or leaf shape"
+    ],
+    [
+      "fish drawn as a single outline with a crossed body",
+      "ichthys-style fish symbol",
+      "stylized figure eight with a pointed tail"
+    ],
+    [
+      "stylized fish with a crossed tail",
+      "ichthys (christian fish symbol) outline",
+      "figure-eight or infinity loop with a bow"
+    ]
+  ],
+  "placed": 123,
+  "fell": 117,
+  "completion": 0.951,
+  "team_score": 0.951,
+  "first_domino_at": "0:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 10,
+    "Maya": 15,
+    "Leo": 7,
+    "Tom": 12
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 133,
+    "failed": 1,
+    "input_tokens": 276,
+    "cache_creation_tokens": 628685,
+    "cache_read_tokens": 395558,
+    "output_tokens": 58155,
+    "seconds": 1122.2,
+    "api_equivalent_usd": 2.9982,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

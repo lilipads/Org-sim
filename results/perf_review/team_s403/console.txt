@@ -1,0 +1,203 @@
+[   27s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, facing left. I'm sketching it now. I'll take the top of the body, so Maya can take the bottom, Tom the upper tail fin and Priya the lower tail fin.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   42s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 8
+    Maya -> everyone: Going with Leo's fish. I've got the pad so I'm drawing it now. Leo top of the body, me the bottom and the start, Tom upper tail, Priya lower tail. Head's on the left, tail on the right.
+    (Tom held a thought)
+    (Priya held a thought)
+[   51s] 0:30 asked Tom,Priya,Leo | dominoes 14 | calls 11
+    Tom -> everyone: Fish works for me, nice sketch Maya. I'll trace the upper tail fin, and it'll pick up once the top line gets there. Can someone get the line from the nose going right away?
+    (Priya held a thought)
+    (Leo held a thought)
+[   57s] 0:45 asked Maya | dominoes 25 | calls 12
+    Maya -> everyone: Nose line's already down, Tom, and it's connected to the start. Leo's top arc is growing off it now. I'm on the bottom arc, then it'll meet the tail lines at the middle.
+[   63s] 1:00 asked Tom,Leo | dominoes 34 | calls 14
+    Leo -> everyone: Pad looks good, Maya. I'm on the top body and it's picking up off your start line fine. I'll check the joints once it's done.
+    (Tom held a thought)
+[   70s] 1:15 asked Maya | dominoes 43 | calls 15
+    Maya -> everyone: Got you, Leo. Bottom arc's on its way, the top one looks good from here. I'll check the joints once mine's done.
+[   79s] 1:30 asked Leo | dominoes 57 | calls 16
+    Leo -> everyone: Top arc is all down, but the last few at the right end look pale, so there's a break near the end. I'm checking it now. Maya, your bottom arc looks pale at the start where it leaves the stub, so keep 
+[   89s] 1:45 asked Maya,Leo | dominoes 72 | calls 18
+    Leo -> everyone: I'm closing the gap at the end of the top arc now, where I'm pointing. Maya, your bottom arc still looks pale where it leaves the stub. Can you check that joint, or tell me and I'll take a look?
+    (Maya held a thought)
+[   97s] 2:00 asked Maya,Leo | dominoes 82 | calls 20
+    Maya -> everyone: Thanks Leo. Still laying the bottom arc. Once it's done I'll fix the join where it leaves the stub, that's why the whole thing looks pale. Can you keep going on the gap at the end of the top arc? Tom'
+    (Leo held a thought)
+[  106s] 2:15 asked Tom,Leo | dominoes 91 | calls 22
+    Tom -> everyone: Upper tail's down and it's connected, Leo's gap fix worked. I'm free, so I'll close the pale join where the bottom arc leaves the stub. Maya, keep going on the bottom arc. Priya, how's the lower tail?
+    (Leo held a thought)
+[  117s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 94 | calls 26
+    Priya -> everyone: Lower tail's going down now, five of the run placed. It'll connect once the bottom arc reaches the tail joint. Maya, how's the bottom arc looking near the middle?
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  132s] 2:45 asked Maya,Tom,Leo | dominoes 100 | calls 29
+    Maya -> everyone: Bottom arc's all down, Priya, right out to where you're working. It's pale only because of the join at the stub, and Tom's closing that now. Once it lights up it should carry straight into your lower 
+    (Tom held a thought)
+    (Leo held a thought)
+[  141s] 3:00 asked Tom,Priya,Leo | dominoes 105 | calls 32
+    Tom -> everyone: Bridge is in but it's sitting a bit off to the side, so I'm nudging it into line now. Maya, Priya, shout if the bottom arc is still pale after this.
+    (Leo held a thought)
+    (Priya held a thought)
+[  152s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 36
+    Maya -> everyone: Nice one, Tom, the whole thing's lit up now. By my count nearly everything falls, so the bottom arc runs right into Priya's lower tail. Priya, keep going up the back edge of the tail and stop short of
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  163s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 40
+    Tom -> everyone: Almost everything lights up now. One stray piece left at the stub, so I'm giving it a last nudge. Priya, the gap between the upper tail's end and your back edge is the last bit to close.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  176s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 44
+    Maya -> everyone: Looks good everyone. Priya, the two back-edge ends should meet at the notch in the middle of the tail, so just close that gap. I'll stay out of your way and look over the tail once you're done.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  186s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 48
+    Priya -> everyone: Tail looks clean to me. The two back edges meet at the notch and both are lit, so nothing's broken there. The only stray left is the one at the stub, Tom, and you've got that. I'll keep my hands off s
+    (Tom held a thought)
+    (Maya held a thought)
+[  194s] 4:15 asked Maya,Tom,Leo | dominoes 112 | calls 51
+    Tom -> everyone: Stray at the stub is out. The whole fish lights up from the start now, so everything should fall. I'm keeping my hands off from here so we don't knock anything over.
+    (Leo held a thought)
+    (Maya held a thought)
+[  203s] 4:30 asked Maya,Priya,Leo | dominoes 112 | calls 54
+    Maya -> everyone: Tail's fine, both back edges are fed from their own arcs. By my eye the whole run lights up, 112 of 112. Tom's cleared the stub stray, so nobody touch anything and we're done.
+    (Leo held a thought)
+[  209s] 4:45 asked Tom,Priya,Leo | dominoes 112 | calls 57
+    Tom -> everyone: Agreed, looks good to me. Hands off from here, let's let it stand.
+    Leo -> everyone: I re-checked as well and it's all connected, stub included. The fish looks done, so let's leave it alone.
+    Priya -> everyone: Agreed, looks solid from here. Hands off, everyone.
+[  216s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 61
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  216s] 5:15 asked - | dominoes 112 | calls 61
+[  216s] 5:30 asked - | dominoes 112 | calls 61
+[  216s] 5:45 asked - | dominoes 112 | calls 61
+[  222s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 65
+[  222s] 6:15 asked - | dominoes 112 | calls 65
+[  222s] 6:30 asked - | dominoes 112 | calls 65
+[  222s] 6:45 asked - | dominoes 112 | calls 65
+[  228s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 69
+[  228s] 7:15 asked - | dominoes 112 | calls 69
+[  228s] 7:30 asked - | dominoes 112 | calls 69
+[  228s] 7:45 asked - | dominoes 112 | calls 69
+[  234s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 73
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  234s] 8:15 asked - | dominoes 112 | calls 73
+[  234s] 8:30 asked - | dominoes 112 | calls 73
+[  234s] 8:45 asked - | dominoes 112 | calls 73
+[  241s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 77
+[  241s] 9:15 asked - | dominoes 112 | calls 77
+[  241s] 9:30 asked - | dominoes 112 | calls 77
+[  241s] 9:45 asked - | dominoes 112 | calls 77
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 275.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a forked tail",
+      "fish with a fishing line trailing from its mouth",
+      "cartoon fish shape drawn in dominoes"
+    ],
+    [
+      "a fish outline (body with forked tail and a line out the front)",
+      "a fish-shaped doodle or cartoon fish",
+      "a fish with a fishing line or hook trailing from its mouth"
+    ],
+    [
+      "fish outline with forked tail",
+      "fish with a fishing line at the mouth",
+      "cartoon fish drawn with thick dashed strokes"
+    ]
+  ],
+  "placed": 112,
+  "fell": 112,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 25,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 5,
+    "Maya": 8,
+    "Tom": 6,
+    "Priya": 3
+  },
+  "held_thoughts": 32,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 94,
+    "failed": 0,
+    "input_tokens": 182,
+    "cache_creation_tokens": 404028,
+    "cache_read_tokens": 264621,
+    "output_tokens": 41937,
+    "seconds": 685.8,
+    "api_equivalent_usd": 1.9891,
+    "cached": 6
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.07,
+   "error": 0.67
+  },
+  "Tom": {
+   "speed": 1.95,
+   "error": 1.36
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 1.1
+  },
+  "Leo": {
+   "speed": 1.81,
+   "error": 2.57
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "He kept running checks from the start and reported them clearly, and he stayed out of Leo's way, though his bump at the joint knocked a few dominoes over and cost some time."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She finished the top arm and closing edge cleanly, spotted my stray line and asked me to lift it before it could distort the fish, and kept to her own area without colliding with anyone."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "He chose the fish and organised the strokes well at the start, but he then held onto the lower arm and told everyone to stay clear while it still had breaks at the end, and he reported it fixed more than once before it was."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "Maya got the sketch up quickly, laid the top line into the joint, cleared the stray curves, and kept the table coordinated and out of the way, though she did nearly wire in a stray and had little hand in the lower arm."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya built her top arm and closing edge cleanly so they fall from the start, stayed in her lane, and communicated clearly, but she mostly waited once her part was done instead of helping with the lower arm."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "Leo set the fish plan and was careful and communicative, but by taking the lower arm and the joint himself and repeatedly asking others to keep their hands off, he left the lower arm still breaking near the tip at the end, which put the fish's tail at risk."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "Maya sketched the fish clearly, got the top line down, caught and removed her own stray curve, and kept the table coordinated by staying off the joint."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom built the bottom line to the joint and ran useful checks from the start, though his nudge at the joint bumped over a few dominoes that Leo then had to wait on."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "Leo set a clear fish plan and took on the hard lower-arm joint, but he kept it to himself for most of the run, and the lower arm still wasn't fully connected at the end."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "She sketched the fish, laid the top line to the joint, cleared the stray curves she'd started, and kept everyone coordinated and calm, though the pad sketch left the lower tail join as a sharp turn."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "His bottom line reached the joint and his repeated run-checks from the start gave the table accurate information on the break, though his bump at the joint knocked a few dominoes down and cost some time."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She finished the top arm and closing edge so they fell from the start, communicated clearly and stayed out of others' way, though some strays inside the tail needed clearing and she could have offered more help on the broken lower arm."
+   }
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.0
+  },
+  "Tom": {
+   "rating": 4.0
+  },
+  "Priya": {
+   "rating": 4.33
+  },
+  "Leo": {
+   "rating": 3.0
+  }
+ }
+}

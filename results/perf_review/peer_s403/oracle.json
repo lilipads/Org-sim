@@ -1,0 +1,265 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 44,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 0
+  },
+  "Tom": {
+   "sound_work": 34,
+   "fixes": 1,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  },
+  "Priya": {
+   "sound_work": 10,
+   "fixes": 0,
+   "open_breaks_owned": 4,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 12
+  },
+  "Leo": {
+   "sound_work": 14,
+   "fixes": 1,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 39
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 112,
+   "to": 107,
+   "owner": "Maya",
+   "stranded": 10,
+   "dir": 357.4,
+   "piece": [
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    24.6,
+    10.7
+   ]
+  },
+  {
+   "from": 115,
+   "to": 106,
+   "owner": "Priya",
+   "stranded": 11,
+   "dir": 293.3,
+   "piece": [
+    106,
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    25.5,
+    10.2
+   ]
+  },
+  {
+   "from": 116,
+   "to": 105,
+   "owner": "Priya",
+   "stranded": 12,
+   "dir": 282.6,
+   "piece": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    25.8,
+    9.8
+   ]
+  },
+  {
+   "from": 134,
+   "to": 84,
+   "owner": "Priya",
+   "stranded": 18,
+   "dir": 291.7,
+   "piece": [
+    84,
+    85,
+    86,
+    94,
+    95,
+    96,
+    105,
+    106,
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    26.5,
+    7.6
+   ]
+  },
+  {
+   "from": 135,
+   "to": 82,
+   "owner": "Priya",
+   "stranded": 20,
+   "dir": 292.5,
+   "piece": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    94,
+    95,
+    96,
+    105,
+    106,
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    26.1,
+    6.9
+   ]
+  },
+  {
+   "from": 217,
+   "to": 75,
+   "owner": "Leo",
+   "stranded": 22,
+   "dir": -27.799999999999955,
+   "piece": [
+    75,
+    76,
+    82,
+    83,
+    84,
+    85,
+    86,
+    94,
+    95,
+    96,
+    105,
+    106,
+    107,
+    108,
+    109,
+    117,
+    118,
+    119,
+    168,
+    169,
+    170,
+    185
+   ],
+   "at": [
+    24.7,
+    6.4
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "4:30",
+   "who": "Tom",
+   "at": [
+    22.0,
+    10.3
+   ],
+   "gap_owner": "Leo"
+  },
+  {
+   "clock": "7:30",
+   "who": "Leo",
+   "at": [
+    24.9,
+    14.0
+   ],
+   "gap_owner": "Tom"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Maya": 39,
+   "Tom": 39,
+   "Priya": -10,
+   "Leo": 14
+  },
+  "10": {
+   "Maya": 34,
+   "Tom": 44,
+   "Priya": -30,
+   "Leo": 14
+  },
+  "20": {
+   "Maya": 24,
+   "Tom": 54,
+   "Priya": -70,
+   "Leo": 14
+  }
+ },
+ "contribution": {
+  "Maya": 34,
+  "Tom": 44,
+  "Priya": -30,
+  "Leo": 14
+ },
+ "with_planning": {
+  "Maya": 59.5,
+  "Tom": 44.0,
+  "Priya": -30.0,
+  "Leo": 14.0
+ }
+}
