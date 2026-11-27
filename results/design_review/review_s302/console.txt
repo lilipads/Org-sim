@@ -115,3 +115,7 @@
     (Hana held a thought)
     (Jack held a thought)
     (Omar held a thought)
+[  678s] 7:30 asked Sofia,Omar,Jack | dominoes 64 | calls 97
+    Sofia -> everyone: Both nudges are in. Running a dry run now to see if the back line carries through. Omar, is the start in yet? We've got two minutes and nothing falls without it.
+    (Jack held a thought)
+    (Omar held a thought)
