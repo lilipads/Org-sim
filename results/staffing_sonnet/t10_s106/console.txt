@@ -9,3 +9,43 @@
     (Sam held a thought)
     (Jack held a thought)
     (Omar held a thought)
+[   46s] 0:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 21
+    Maya -> Sofia: Sofia, you've got the pad. Can you pass it over so I can sketch the fish? Or draw it yourself if you've got a picture in your head: nose on the left, big body, tail fin on the right.
+    Sofia -> everyone: Love the fish, Maya! The pad ended up with me, so I've put a quick sketch on it. Lead-in line first, then the top and bottom curves, then the tail. I'll take the lead-in, can someone grab the top curv
+    (Jack held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+[   55s] 0:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 7 | calls 31
+    Maya -> everyone: Sofia, that sketch is perfect, let's go with it. You've got the lead-in, I'm taking the top curve. Can someone grab the bottom curve, and someone else the tail fin? Tom, Priya, maybe you two?
+    (Hana held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+[   63s] 0:45 asked Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 19 | calls 39
+    Grace -> everyone: I'll grab the bottom curve. Tom, Priya, can one of you take the tail fin? Sofia, shout if the lead-in gets bumped, since everything hangs off it.
+    (Tom held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+[   73s] 1:00 asked Tom,Priya,Leo,Sofia,Hana,Jack,Sam,Grace | dominoes 28 | calls 47
+    Tom -> everyone: Grace, I'm already partway down the bottom curve, so you could grab the tail fin instead. Priya, can you give her a hand on the tail if she needs it?
+    (Sofia held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
