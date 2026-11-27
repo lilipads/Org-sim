@@ -1,0 +1,18 @@
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish, since the tail fin makes it obvious. I'm sketching it on the pad now. Start is at the tail, one line runs along the middle, then it splits round the top and bottom of the body and mee
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    0s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Fish works for me, let's go with Sofia's plan. Sofia, get the sketch up fast, with the tail fat and clearly forked. I'll take the tail V. Omar, you take the top of the body and Jack the bottom. Everyo
+    (Jack held a thought)
+    (Omar held a thought)
+[    0s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Sofia -> everyone: Sketch is up. Start is at the top tip of the tail. Stroke 1 runs down to the neck, 2 is the top of the body, 3 the bottom, and 4 is the bottom arm of the tail. Hana, you've got stroke 4. Omar, take 2.
+    (Jack held a thought)
+    (Omar held a thought)
+[    8s] 0:45 asked Omar,Hana,Jack | dominoes 16 | calls 13
+    Omar -> everyone: Sounds good, I've got the top of the body. Tracing stroke 2 now, Sofia, shout if the split point needs a hand.
+    Jack -> everyone: Sounds good, Hana. I've got the bottom of the body, tracing stroke 3 now.
+    (Hana held a thought)

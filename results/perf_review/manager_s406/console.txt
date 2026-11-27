@@ -1,0 +1,25 @@
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Let's do a fish, facing left. The tail fin makes it obvious from the outline alone. I'm sketching it now and I'll lay the top of the body from the nose. Sofia, take the bottom line of the body. Omar a
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    0s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Hana -> everyone: Sketch is up on the pad: strokes 1 and 2 are the top and bottom of the body, 3 and 4 are the tail fin. I'm on stroke 1 now. Sofia, take stroke 2. Omar, take 3. Jack, take 4.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    1s] 0:30 asked Sofia,Omar,Jack | dominoes 5 | calls 11
+    Omar -> everyone: Got it, I've got the top tail fin. Starting on it now, it'll pick up once the body reaches the tail.
+    Jack -> everyone: Sounds good Hana, nice sketch. I've got stroke 4, the lower tail fin.
+    (Sofia held a thought)
+[    1s] 0:45 asked Hana | dominoes 18 | calls 12
+    Hana -> everyone: Great, thanks both. I'm carrying on along the top of the body. Sofia, you're on the bottom line, right? Shout when the body reaches the tail so we can check the joint.
+[    1s] 1:00 asked Sofia | dominoes 30 | calls 13
+    Sofia -> everyone: Got it, Hana. I'm on stroke 2, the belly, and it's going down now. I'll shout when it reaches the tail so we can check the joint.
+[    1s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 41 | calls 17
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Sofia -> everyone: Going well! We're doing a fish facing left. I'm on the belly line, about halfway along, and everything standing is connected to the start. Hana has the top of the body, and Omar and Jack have the two 
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)

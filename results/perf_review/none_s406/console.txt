@@ -1,0 +1,17 @@
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Ten minutes, so let's keep it simple: a fish facing left. Big oval body with a forked tail is easy to read from the outline. I'll sketch it now. I'll lay the start and the top of the body. Omar, take 
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    1s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Hana -> everyone: Pad's drawn. Fish faces left, and the start is at the nose. I'm laying the lead-in and the top line. Omar, take the belly (stroke 3). Sofia, upper tail (4) and lower tail (5). Jack, the tail's back ed
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    1s] 0:30 asked Sofia,Omar,Jack | dominoes 5 | calls 11
+    Sofia -> everyone: Got it, taking the upper and lower tail now. Jack, the back edge is yours once my two reach the tips.
+    Omar -> everyone: Fish facing left, love it. Got the belly, tracing it now.
+    (Jack held a thought)
+[    1s] 0:45 asked Jack | dominoes 17 | calls 12
+    Jack -> everyone: Got it, Hana, nice fish. I'm on the back edge of the tail, and I'll start as soon as Sofia's upper tail reaches the tip.

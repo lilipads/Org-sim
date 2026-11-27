@@ -1,0 +1,15 @@
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Idea: let's do a fish! Big oval body with a triangle tail is easy to read. I've sketched it on the pad. I'll lay the top line from the nose, Omar can you take the bottom line, Hana the tail, and Jack,
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[    0s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 9
+    Sofia -> everyone: Sorry, the pad was actually blank. It's drawn now. I'm starting on the top line from the nose. Omar, you take the bottom line, and Hana, you take the tail. Jack, you can add an eye or a fin once the l
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[    1s] 0:30 asked Omar,Hana,Jack | dominoes 18 | calls 12
+    Jack -> everyone: Fish sounds great, Sofia, the tail makes it instantly readable. I'll grab the pad and add a fin on top, branching off your top line. Shout if you need the pad back.
+    (Hana held a thought)
+    (Omar held a thought)

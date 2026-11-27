@@ -1,0 +1,20 @@
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Quick idea: let's do a fish, since the tail fin makes it unmistakable. I'm sketching it now. Once it's up, I'll take the top of the body, Omar the bottom, Hana and Jack one tail line each.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[    0s] 0:15 asked Omar,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Fish works for me, I'm in. I'll take a tail line. Sofia, draw the body as one run from the nose, splitting top and bottom, and put the tail fin big on the right. Whoever lays stroke 1 does the start, 
+    (Omar held a thought)
+    (Jack held a thought)
+[    0s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Sofia -> everyone: Pad's ready! One run in from the left nose, splitting top and bottom, big forked tail on the right. I'm laying the top line now. Omar, bottom line. Hana and Jack, one tail half each, the top one and t
+    (Jack held a thought)
+    (Omar held a thought)
+[    1s] 0:45 asked Omar,Hana,Jack | dominoes 8 | calls 13
+    Jack -> everyone: Fish works for me, Sofia. I've got the bottom tail line, stroke 4, starting now.
+    Omar -> everyone: Love it, fish it is. I've got the bottom of the body, tracing it now. Sofia, shout when the nose and split are down.
+    (Hana held a thought)
+[    1s] 1:00 asked Sofia | dominoes 27 | calls 14
+    Sofia -> everyone: Nose and split are down, Omar. Go ahead with the bottom line. I'm carrying on along the top. Let's stay out of each other's way so we don't bump the table.
