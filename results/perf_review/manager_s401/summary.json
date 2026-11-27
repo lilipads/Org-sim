@@ -1,0 +1,126 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 445.4,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Leo",
+    "Leo",
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with forked tail",
+      "tadpole or teardrop shape",
+      "bird silhouette"
+    ],
+    [
+      "fish outline facing left",
+      "fish or tadpole silhouette",
+      "tadpole or bird with a tail"
+    ],
+    [
+      "fish outline",
+      "fish body with forked tail",
+      "closed loop of dominoes shaped like a fish"
+    ]
+  ],
+  "placed": 113,
+  "fell": 113,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Leo": 11,
+    "Priya": 12,
+    "Tom": 2
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 133,
+    "failed": 0,
+    "input_tokens": 260,
+    "cache_creation_tokens": 640916,
+    "cache_read_tokens": 378067,
+    "output_tokens": 78754,
+    "seconds": 1071.1,
+    "api_equivalent_usd": 3.3155,
+    "cached": 6
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "She picked the fish, which suited the outline-only judge, and checked the start early, but my direct observation of her is thin and she says her hands-on contribution was modest. She also added to the numbering confusion by claiming a stroke that wasn't hers; I'm holding this rating provisional until I hear from her and her peers."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He laid a solid share of the bottom line, the longest stretch, and was courteous and cooperative, but he told Priya the stray stub was gone when it wasn't and then mostly watched rather than fixing it. He is honest about this and about not leading, but he showed little initiative beyond his assigned stroke."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "I saw her communicate clearly and hold the team hands-off at the close, and she checked and fixed small issues like the kink and lower tip while laying the start and top line. Her self-assessment matches what I saw, including owning the early 'sketch done' slip, though the unbuilt eye and unused dominoes show she played it safe."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He set the plan quickly, took the back edge of the tail (the part that makes it read as a fish; this rests mainly on his own account), and called the freeze at the end. He also candidly owned the stroke-numbering confusion that cost the table a couple of minutes, and I'd want to hear how he'd avoid that next time."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 623.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline (body, tail, and fin)",
+      "fish drawn as a single outlined line",
+      "fish shape traced with fallen dominoes"
+    ],
+    [
+      "fish",
+      "fish seen from the side with a tail fin",
+      "cartoon fish outline with a fishing line"
+    ],
+    [
+      "fish outline facing left",
+      "fish with a fishing line",
+      "stylized fish or sea creature"
+    ]
+  ],
+  "placed": 123,
+  "fell": 123,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 10,
+    "Priya": 15,
+    "Maya": 8,
+    "Tom": 7
+  },
+  "held_thoughts": 41,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 124,
+    "failed": 1,
+    "input_tokens": 258,
+    "cache_creation_tokens": 567481,
+    "cache_read_tokens": 370243,
+    "output_tokens": 45592,
+    "seconds": 1116.1,
+    "api_equivalent_usd": 2.6273,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "dominoes_fell": 62
+    },
+    "Tom": {
+      "dominoes_fell": 12
+    },
+    "Priya": {
+      "dominoes_fell": 40
+    },
+    "Leo": {
+      "dominoes_fell": 9
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,9 +1,9 @@
-## plumb2_individual (individual): fish, recognition 0.833, fell 121/121, plan needs ~122 dominoes
-rating vs oracle rho 1.0 (with planning 0.8); rating vs words rho -0.8
+## none_s401 (none): fish, recognition 1.0, fell 138/138, plan needs ~143 dominoes
+rating vs oracle rho None (with planning None); rating vs words rho None
 | who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | stray | words | private | inspect |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sofia | checker | 32 | 29 | 29.0 | 29 | 0 | 0 | 0.0 | 32 | 3 | 323 | 0 | 3 |
-| Omar | connector | 51 | 51 | 51.0 | 51 | 0 | 0 | 0.0 | 51 | 0 | 183 | 0 | 0 |
-| Hana | organiser | 0 | 0 | 29.5 | 0 | 0 | 0 | 1.0 | 0 | 0 | 764 | 0 | 10 |
-| Jack | builder | 38 | 38 | 38.0 | 38 | 0 | 0 | 0.0 | 38 | 0 | 394 | 0 | 2 |
+| Maya | builder | None | 49 | 49.0 | 58 | 0 | 0 | 0.0 | 58 | 0 | 291 | 0 | 9 |
+| Tom | checker | None | 36 | 36.0 | 36 | 0 | 0 | 0.0 | 36 | 0 | 171 | 0 | 5 |
+| Priya | connector | None | 7 | 41.5 | 7 | 0 | 0 | 1.0 | 21 | 0 | 487 | 0 | 9 |
+| Leo | organiser | None | 47 | 47.0 | 37 | 1 | 0 | 0.0 | 37 | 0 | 390 | 0 | 9 |
 

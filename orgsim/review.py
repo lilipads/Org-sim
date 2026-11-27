@@ -29,6 +29,16 @@ EVALUATIONS = {
 }
 HAS_MANAGER = ("manager", "forced")
 
+# the one-line reminder shown with every decision (people keep their review in mind)
+REMINDERS = {
+    "none": "",
+    "individual": "by how many of the dominoes you placed fall in the final picture (it decides your promotion and bonus).",
+    "team": "everyone gets the team's score (it decides your promotion and bonus).",
+    "manager": "your manager's 1-5 rating on impact, execution, collaboration and leadership (it decides your promotion and bonus).",
+    "peer": "your teammates' 1-5 ratings on impact, execution, collaboration and leadership (they decide your promotion and bonus).",
+    "forced": "your manager's rating on a fixed curve: one person top, two middle, one bottom (it decides your promotion and bonus).",
+}
+
 STYLES = {
     "organiser": "You naturally take charge: you like to set the plan and keep everyone coordinated.",
     "builder": "You like to pick a piece of work and get it done, quietly and well.",

@@ -136,6 +136,7 @@ def main():
     from orgsim import review as reviewmod
     styles = reviewmod.assign_styles(names, args.seed) if args.styles else {}
     manager = None
+    cfg.show_tally = args.review == "individual"     # output-based reviews come with the metric on display
     if args.review in reviewmod.HAS_MANAGER:
         cfg.manager_schedule = reviewmod.manager_schedule(args.seed, cfg.duration, cfg.beat)
         manager = reviewmod.Manager(names, cfg.manager_schedule, calls, args.model, f"seed{args.seed}",
@@ -190,6 +191,8 @@ def main():
                     "it; if they're away, it waits for them)\".")
         agents.append(LiveLLMAgent(n, "table", persona, rules, evaluation, calls, **extra))
         agents[-1].extra_format = fmt
+        if args.review:
+            agents[-1].eval_line = reviewmod.REMINDERS[args.review]
         agents[-1].cache_salt = f"seed{args.seed}"
     game = LiveGame(world, agents, cfg, checker=checker)
     t0 = time.time()

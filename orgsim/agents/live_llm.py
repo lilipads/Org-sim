@@ -175,6 +175,7 @@ class LiveLLMAgent(LiveAgentBase):
         self.model, self.log = model, log
         self.system = (f"You are {name}.\n{persona}\n\n{rules}\n\nHOW YOU'RE EVALUATED\n{evaluation}")
         self.extra_format = ""          # extra output fields for this game's rules (decide / aligned)
+        self.eval_line = ""             # a one-line reminder of how they're evaluated, shown every decision
         self.cache_salt = ""            # set to the run's seed: same seed replays, new seed samples afresh
         self.failures = 0
 
@@ -195,6 +196,8 @@ class LiveLLMAgent(LiveAgentBase):
             obs.get("start_status", ""),
             obs.get("decision_status", ""),
             obs.get("manager_status", ""),
+            (f"How you're evaluated: {self.eval_line}" if self.eval_line else ""),
+            obs.get("tally", ""),
             obs.get("pad_status", ""),
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",

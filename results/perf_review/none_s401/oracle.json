@@ -1,0 +1,76 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 58,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 11,
+   "planning": 0.0
+  },
+  "Tom": {
+   "sound_work": 36,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Priya": {
+   "sound_work": 7,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 1.0
+  },
+  "Leo": {
+   "sound_work": 37,
+   "fixes": 1,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [],
+ "fixes": [
+  {
+   "clock": "7:15",
+   "who": "Leo",
+   "at": [
+    11.8,
+    5.8
+   ],
+   "gap_owner": "Leo"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Maya": 47,
+   "Tom": 36,
+   "Priya": 7,
+   "Leo": 42
+  },
+  "10": {
+   "Maya": 47,
+   "Tom": 36,
+   "Priya": 7,
+   "Leo": 47
+  },
+  "20": {
+   "Maya": 47,
+   "Tom": 36,
+   "Priya": 7,
+   "Leo": 57
+  }
+ },
+ "contribution": {
+  "Maya": 47,
+  "Tom": 36,
+  "Priya": 7,
+  "Leo": 47
+ },
+ "with_planning": {
+  "Maya": 47.0,
+  "Tom": 36.0,
+  "Priya": 41.5,
+  "Leo": 47.0
+ }
+}

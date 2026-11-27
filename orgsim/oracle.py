@@ -210,6 +210,7 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
 
     # destruction: someone else's dominoes lifted, sound at the time, where nothing sound stands at the push
     destroyed = {n: 0 for n in names}
+    took_over = {n: 0 for n in names}       # someone else's sound dominoes lifted, replaced or not (turf)
     final_sound = set()
     for n in names:
         fell_n, _ = fed_fall(final, plan, bumps, skip_owner=n)
@@ -228,8 +229,9 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
             for who, (did, owner) in lifts:
                 if owner == who or did not in sound0 or who not in destroyed:
                     continue
+                took_over[who] += 1
                 d0 = w0.dominoes[did]
-                if not any(i in final_sound for i in [x.id for x in final.near(d0.x, d0.y, 0.6)]):
+                if not any(i in final_sound for i in [x.id for x in final.near(d0.x, d0.y, 2.0)]):
                     destroyed[who] += 1
         prev_rows = t["snapshot"]
 
@@ -258,7 +260,7 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     out = {"people": {}, "open_breaks": open_breaks, "fixes": fix_log, "weights": {}}
     for n in names:
         out["people"][n] = {"sound_work": sound[n], "fixes": fixes[n], "open_breaks_owned": breaks_owned[n],
-                            "destroyed": destroyed[n], "planning": planning[n]}
+                            "destroyed": destroyed[n], "took_over": took_over[n], "planning": planning[n]}
     for wgt in sorted(set(weights) | {5, FIX_W, 20}):
         out["weights"][str(wgt)] = {n: sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
                                     for n in names}

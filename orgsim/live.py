@@ -74,6 +74,7 @@ class LiveConfig:
     designer: str | None = None      # with design_mode lone / review
     check_seconds: dict = field(default_factory=lambda: {"dry_run": 30.0, "squint": 30.0, "ask_client": 45.0})
     manager_schedule: list | None = None   # [[start, end], ...] seconds when a manager is at the table
+    show_tally: bool = False         # each player sees how many of their dominoes are connected to the start
 
 
 @dataclass
@@ -242,6 +243,7 @@ class LiveGame:
             "start_status": self.start_status(name),
             "decision_status": self.decision_status(name),
             "manager_status": self.manager_status(name),
+            "tally": self.tally(name),
             "pad_status": self.pad_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
@@ -343,8 +345,38 @@ class LiveGame:
         rec["conversations"].append({"members": ["Facilitator"], "pulled_in": [], "location": None,
                                      "messages": [{"speaker": "Facilitator", "to": "everyone", "message": text}]})
 
+    def _manager_comes_and_goes(self, rec: dict):
+        if self.cfg.manager_schedule is None:
+            return
+        now, before = self.manager_present(self.t), self.manager_present(self.t - self.cfg.beat)
+        if now and not before:
+            text = "Hi all, just checking in. How's it going? What's everyone working on?"
+            msg = {"t": self.t, "clock": clock(self.t), "speaker": "Manager", "to": "everyone", "text": text,
+                   "side": False}
+            for n in self.by_name:
+                self.heard[n].append(dict(msg))
+                self.inbox[n].append(f"[{clock(self.t)}] The manager has come over to your table.")
+                self.wake[n].append("the manager came over to your table")
+            rec["conversations"].append({"members": ["Manager"], "pulled_in": [], "location": None,
+                                         "messages": [{"speaker": "Manager", "to": "everyone", "message": text}]})
+            rec["events"].append({"type": "manager", "what": "arrived"})
+        elif before and not now:
+            for n in self.by_name:
+                self.inbox[n].append(f"[{clock(self.t)}] The manager has moved on to another table.")
+            rec["events"].append({"type": "manager", "what": "left"})
+
+    def tally(self, name: str) -> str:
+        if not self.cfg.show_tally:
+            return ""
+        loc = self.location[name]
+        mine = [d for d in self.world.dominoes.values() if d.builder == name and d.region == loc and d.state == "up"]
+        reach = self.world.reachable_from_start(loc)
+        return (f"Your count so far: {len(mine)} of the dominoes you placed are standing, and "
+                f"{sum(1 for d in mine if d.id in reach)} of them are connected to the start.")
+
     def _announce(self, rec: dict):
         """The facilitator calls time, as at a real offsite, and collects the scratch pad."""
+        self._manager_comes_and_goes(rec)
         for m in self.cfg.announce_at:
             at = self.cfg.duration - m * 60
             if at < 0 or not (at <= self.t < at + self.cfg.beat):

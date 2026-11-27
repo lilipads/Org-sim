@@ -401,3 +401,17 @@ def test_tracing_again_carries_on_and_redo_keeps_the_start():
     lifted = [l for t in g.log["turns"] for e in t["events"] if e["type"] == "build" for l in e.get("lifted", [])]
     assert lifted and start_before[0] not in [l[0] for l in lifted]
     assert [d.id for d in g.world.dominoes.values() if d.start] == start_before
+
+
+def test_manager_arrives_visibly_and_private_messages_are_logged():
+    a = Fake("A", [Decision(), Decision(to_manager="I laid the whole top line")] + [Decision()] * 20)
+    g = LiveGame(table_world(phys=EXACT), [a], LiveConfig(duration=120, idle_quiet=15, max_quiet=15, announce_at=(),
+                                                           scratchpad_until=None, manager_schedule=[[15.0, 45.0]]))
+    for _ in range(4):
+        g.step()
+    evs = [e for t in g.log["turns"] for e in t["events"]]
+    assert {"type": "manager", "what": "arrived"} in evs and {"type": "manager", "what": "left"} in evs
+    assert any(e["type"] == "to_manager" and e["text"] == "I laid the whole top line" for e in evs)
+    assert any("The manager has come over" in x for o in a.seen for x in o["inbox"])
+    talk = [m for t in g.log["turns"] for c in t["conversations"] for m in c["messages"]]
+    assert all(m["message"] != "I laid the whole top line" for m in talk)   # private: never said aloud
