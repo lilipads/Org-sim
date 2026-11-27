@@ -495,8 +495,8 @@ def _leaving(raw: dict, p: tuple, close) -> list:
 
 
 # A separate shape (an eye, a dot, a stroke touching nothing else) can't be where the run starts.
-# Off until the overstaffing runs that started under the old rule have finished (DESIGN_REVIEW_STUDY.md).
-SKIP_DETACHED_START = False
+# (On from Study 3; the overstaffing games ran before this fix.)
+SKIP_DETACHED_START = True
 
 
 def _detached(raw: dict, close) -> set:

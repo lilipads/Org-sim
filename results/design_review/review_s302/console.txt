@@ -106,3 +106,12 @@
     Hana -> everyone: Yes Sofia, I've got the back of the neck, already queued from the end of your back line up to the beak, so don't take it. Omar, start domino first please. Shout if your back line stalls and I'll help.
     (Jack held a thought)
     (Omar held a thought)
+[  664s] 7:00 asked Sofia,Omar,Jack | dominoes 65 | calls 90
+    Sofia -> everyone: Dry run's back. Only the front line falls cleanly, and the back line breaks partway. The extra neck sketches on the pad aren't connected to anything that falls, so nobody lay those, just Hana's piece 
+    (Omar held a thought)
+    (Jack held a thought)
+[  673s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 59 | calls 94
+    Sofia -> everyone: Back line breaks at two spots near the tail, where the next domino sits off the path. I'm nudging both into line now, no retrace. Omar, the start domino still has to go in.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
