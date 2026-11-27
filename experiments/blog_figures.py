@@ -8,6 +8,7 @@ import glob
 import json
 import os
 import statistics as st
+import sys
 
 import matplotlib
 matplotlib.use("Agg")
@@ -180,3 +181,76 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def fig_timelapse(game="t10_s101", name="timelapse.gif", scale=20):
+    """The build, one frame per 15-second beat with what was said, then the push."""
+    import tempfile
+    import textwrap
+    import sys
+    sys.path.insert(0, ".")
+    from orgsim.dominoes import Domino
+    from orgsim.game import table_world
+    from orgsim.render import picture_png
+    log = json.load(open(os.path.join(ROOT, game, "log.json")))
+    tmp = tempfile.mkdtemp()
+    try:
+        font = ImageFont.truetype("DejaVuSans.ttf", 17)
+        bold = ImageFont.truetype("DejaVuSans-Bold.ttf", 19)
+    except OSError:
+        font = bold = ImageFont.load_default()
+
+    def world_of(rows, fallen=frozenset()):
+        w = table_world("table", 30, 20, 10000)
+        for r in rows:
+            d = Domino(r[0], r[1], r[2], r[3], r[5], 0, "table")
+            d.state = "down" if (r[0] in fallen or r[4] == "down") else "up"
+            d.start = bool(r[6])
+            w.dominoes[d.id] = d
+        return w
+
+    def frame(w, header, caption, fallen=None):
+        p = os.path.join(tmp, "f.png")
+        picture_png(w, p, scale=scale, show_standing=True, fallen=fallen)
+        im = Image.open(p).convert("RGB")
+        cap_lines = textwrap.wrap(caption, 56) if caption else []
+        if len(cap_lines) > 3:
+            cap_lines = cap_lines[:3]
+            cap_lines[-1] = cap_lines[-1].rstrip(" .,") + " …”"
+        out = Image.new("RGB", (im.width, im.height + 44 + 24 * 3), "white")
+        out.paste(im, (0, 40))
+        dr = ImageDraw.Draw(out)
+        dr.text((12, 10), header, fill=INK, font=bold)
+        for k, line in enumerate(cap_lines):
+            dr.text((12, im.height + 50 + 24 * k), line, fill=INK2, font=font)
+        return out.convert("P", palette=Image.ADAPTIVE)
+
+    frames, durations = [], []
+    last_caption = ""
+    for t in log["turns"]:
+        msgs = [m for c in t["conversations"] for m in c["messages"] if m["speaker"] != "Facilitator"]
+        if msgs:
+            m = max(msgs, key=lambda m: len(m["message"]))
+            last_caption = f"{m['speaker']}: “{m['message']}”"
+        up = sum(1 for r in t["snapshot"] if r[4] == "up")
+        frames.append(frame(world_of(t["snapshot"], fallen={r[0] for r in t["snapshot"]}),
+                            f"{t['clock']}  ·  {up} dominoes standing",
+                            last_caption))
+        durations.append(700)
+    rows = log["turns"][-1]["snapshot"]
+    times = {int(k): v for k, v in log["push"]["times"].items()}
+    w = world_of(rows)
+    t_end = max(times.values()) if times else 0
+    steps = 24
+    for k in range(steps + 1):
+        tt = t_end * k / steps
+        fallen = {i for i, ti in times.items() if ti <= tt}
+        frames.append(frame(w, "10:00  ·  the push", f"{len(fallen)} of {len(rows)} dominoes down", fallen=fallen))
+        durations.append(80)
+    durations[-1] = 2500
+    frames[0].save(os.path.join(OUT, name), save_all=True, append_images=frames[1:], duration=durations, loop=0,
+                   optimize=True)
+
+
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "gif":
+    fig_timelapse()

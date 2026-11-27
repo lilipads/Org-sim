@@ -58,6 +58,9 @@ realistic and measurable.
 Every message, every domino and every decision is logged, so each game can be replayed, counted and
 read as a story.
 
+![A ten-person game, one frame per 15 seconds, then the push](img/timelapse.gif)
+*A ten-person game: the build, one frame every 15 seconds with a line of what was said, then the push.*
+
 ## The experiment
 
 Tables of **1, 4 and 10** agents, with everything else identical: the same 30 × 20 table, the same 250
@@ -66,7 +69,26 @@ and personalities, all played by the same model. That's 24 games in total.
 
 ## What happened
 
-Every table chose a fish.
+Every table chose a fish. Here's how one ten-person table got going:
+
+> **Hana:** Ten minutes, so let's lock a plan. I suggest a fish facing left: the outline plus a forked tail
+> reads clearly. I'm sketching it now. Start is at the nose; one line goes over the top, one under the belly,
+> and both meet at the tail. Maya, can you trace stroke 1, the top? Tom, stroke 2, the belly. Priya, stroke 3
+> and Leo, stroke 4, the tail fins.
+>
+> **Maya:** Fish works for me, I'm in. I'll take stroke 1 as soon as it's on the pad.
+>
+> **Tom:** Fish works for me. I'll take the belly once it's on the pad.
+>
+> **Hana:** Pad's ready. […] Sofia, Omar, Jack, Sam and Grace, once the lines are down, watch for gaps and
+> bumps and fix them.
+>
+> **Jack:** Love it Hana, fish it is. I'll back up whoever needs a hand, and I'll check the joints at the tail.
+>
+> **Omar:** Fish works for me too, Hana, nice sketch. I'll float and cover gaps once the lines are down.
+
+Within a minute, four people had work and six had volunteered to watch. The numbers across all 24 games
+tell the same story.
 
 | Per game, on average | 1 person | 4 people | 10 people |
 |---|---|---|---|
@@ -104,10 +126,14 @@ laid ten or more dominoes. The rest found other things to do.
 
 ![One ten-person table: four people built the fish](img/who_did_what.png)
 
-They weren't lazy. They did what conscientious people do when the work is already spoken for:
+They weren't lazy. They did what conscientious people do when the work is already spoken for. They
+offered to help, and were politely turned away:
 
-> **Omar:** Quick sort-out: Leo's on the tail edge, so I'll leave that one with him. I'm floating to
-> patch breaks.
+> **Sofia:** Nose looks solid, everything's connected so far. Priya, Leo, I don't see your hands on the tail
+> yet. I'll start on the upper fin, stroke 3.
+>
+> **Priya:** Thanks Sofia, but I've already got the upper fin queued. It'll start as soon as the top line
+> reaches the tail, so no need to double up.
 
 "Floating" was the most common role that nobody assigned. Floaters inspected the work (84 close
 inspections per ten-person game, against 20 at four), offered help, checked joins, and stepped back
