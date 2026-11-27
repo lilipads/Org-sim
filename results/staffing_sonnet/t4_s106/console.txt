@@ -74,3 +74,6 @@
 [  479s] 5:15 asked Sofia,Omar,Jack | dominoes 98 | calls 58
     Omar -> everyone: Thanks Hana, old hook looks gone from here. Shout when the lower lobe's down and I'll do a last check on the whole run. I'll just eyeball the joint from a distance.
     (Jack held a thought)
+[  485s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 100 | calls 62
+    Hana -> everyone: Almost there, a few more dominoes on the lower lobe. I'll shout when it's down, then Omar, you do the last full check.
+    (Jack held a thought)
