@@ -1,6 +1,6 @@
-"""Figures for blog/01-overstaffing.md (Sonnet overstaffing run, 8 games per table size).
+"""Figures for writeup/01-overstaffing.md (Sonnet overstaffing run, 8 games per table size).
 
-    python3 experiments/blog_figures.py
+    python3 experiments/writeup_figures.py
 """
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt  # noqa: E402
 from PIL import Image, ImageDraw, ImageFont  # noqa: E402
 
 ROOT = "results/staffing_sonnet"
-OUT = "blog/img"
+OUT = "writeup/img"
 INK, INK2, GRID = "#191919", "#666666", "#e6e6e6"
 SIZE_COLOR = {1: "#257de0", 4: "#f47230", 10: "#00b894"}   # categorical slots 1-3 (validated)
 GRAY = "#b8b8b8"

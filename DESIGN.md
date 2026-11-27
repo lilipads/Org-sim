@@ -726,4 +726,4 @@ only 16-30 dominoes standing after lifting and re-laying their own work (60 lift
 Recognized 2/8, 8/8, 7/8; mean recognition 0.25, 0.98, 0.81; share fallen 56%, 90%, 76%; 90% of the final
 picture laid at 7:49, 5:32, 6:45; words 69, 1170, 1848; hands busy 74%, 20%, 16%; laid per person 100, 35, 22;
 people laying under 10: 0, 0.1, 3.6; inspections 0.25, 20, 84. With more games, ten people are slightly
-worse than four, not just less efficient. Written up in blog/01-overstaffing.md.
+worse than four, not just less efficient. Written up in writeup/01-overstaffing.md.
