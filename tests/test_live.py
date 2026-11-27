@@ -298,3 +298,31 @@ def test_redrawing_start_moves_the_start_when_stroke_1_is_traced_again():
     g.run()
     starts = [d for d in g.world.dominoes.values() if d.start]
     assert len(starts) == 1 and starts[0].x > 15 and starts[0].y > 12
+
+
+def test_dictator_gates_building_and_the_pad():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    tr = {"type": "trace", "stroke": 1}
+    d = Fake("D", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[tr]), Decision(decide="Fish")] + [Decision(do="continue")] * 30)
+    o = Fake("O", [Decision(pad="take", eagerness=10)] + [Decision()] * 40)
+    g = LiveGame(table_world(phys=EXACT), [d, o], LiveConfig(duration=300, idle_quiet=15, max_quiet=15, pad_only=True,
+                 announce_at=(), scratchpad_until=300, decision="dictator", dictator="D"))
+    for _ in range(3):
+        g.step()
+    assert g.pad_strokes and not g.world.dominoes          # D drew; build refused before the call
+    assert any("Only D draws" in x for ob in o.seen for x in ob["inbox"])
+    assert any("can't start building yet" in x for x in g.inbox["D"] + [y for ob in d.seen for y in ob["inbox"]])
+    g.step()
+    assert g.decided == "fish" and g.building_open()
+
+
+def test_consensus_opens_only_when_everyone_agrees():
+    a = Fake("A", [Decision(aligned="fish"), Decision(), Decision()])
+    b = Fake("B", [Decision(aligned="cat"), Decision(aligned="Fish"), Decision()])
+    g = LiveGame(table_world(phys=EXACT), [a, b], LiveConfig(duration=120, idle_quiet=15, max_quiet=15,
+                 announce_at=(), scratchpad_until=None, decision="consensus"))
+    g.step()
+    assert not g.building_open()
+    g.step()
+    assert g.building_open() and g.decided == "fish"

@@ -67,3 +67,166 @@
 [  494s] 4:15 asked Tom,Leo | dominoes 100 | calls 53
     Leo -> everyone: I'll take the closing edge, Maya. It'll start from the top corner once Priya's diagonal gets there, and I'll stay clear of her hands. Priya, shout when the bottom diagonal is down.
     (Tom held a thought)
+[  504s] 4:30 asked Maya,Tom,Priya | dominoes 103 | calls 56
+    Priya -> everyone: Leo, the bottom diagonal's almost there, just a couple more dominoes to the bottom corner. I'll shout the moment it's down. The top one already looks like it reaches your corner.
+    (Maya held a thought)
+    (Tom held a thought)
+[  514s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 60
+    Priya -> everyone: Leo, the bottom diagonal's down and reaches its corner. One heads-up: the top corner of the tail ended up a bit further right than the vertical edge on the pad, so the closing edge will need to slant 
+    (Maya held a thought)
+    (Tom held a thought)
+[  525s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Sounds good, Leo, the closing edge is yours. The top corner sits a bit further right than my sketch, so just let it run corner to corner. No need for me to redraw it. I'll stay off the tail and check 
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  535s] 5:15 asked Tom,Priya,Leo | dominoes 112 | calls 67
+    Leo -> everyone: Closing edge is down, but it still looks pale, so it's not hooked to the top corner yet. I'm checking that end now.
+    (Priya held a thought)
+    (Tom held a thought)
+[  550s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 71
+    Maya -> Leo: Leo, I think the gap is up top: the edge starts a good bit below the top corner. Connect from the top corner down into the start of the edge and it should hook up. I'll stay off it and check the rest 
+    Priya -> everyone: Leo, you stay on the top end. I'll nudge the bottom corner of the closing edge, where it sits a bit off the diagonal. That's well clear of your hands.
+    (Tom held a thought)
+    (Leo held a thought)
+[  562s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 75
+    Tom -> Leo: Leo, the pale edge stops a good stretch short of the top corner, right where I'm pointing. Want me to run a few dominoes up from there, or have you got it? I'll keep clear till you say.
+    Leo -> everyone: Thanks Maya, that's the gap. I'm bridging it from the top corner down now, so please stay off that end.
+    (Priya held a thought)
+[  573s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 79
+    Leo -> Tom: Thanks Tom, I've got it. Just keep clear of that end for a minute.
+    Priya -> everyone: Leo, I looked over the bottom corner and it's fine. The only gap left is up top where you're bridging, so I'll stay off. Shout when the edge goes dark and we'll check the whole run.
+    (Maya held a thought)
+[  583s] 6:15 asked Maya,Tom,Leo | dominoes 112 | calls 82
+    Maya -> everyone: Sounds good Leo, I'll stay clear. Shout when the bridge is in and I'll check the whole run.
+[  592s] 6:30 asked Tom,Priya,Leo | dominoes 113 | calls 85
+[  611s] 6:45 asked Tom,Priya,Leo | dominoes 113 | calls 88
+    Leo -> everyone: Bridge didn't go in properly. The top corner is right against the table edge, so the rest wouldn't fit. I'm looking at that corner now. Please keep clear of it. If the edge won't hook up, the open tai
+    (Priya held a thought)
+[  624s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 92
+    Leo -> everyone: Okay, calling it. The top corner is right at the table edge and the edge can't hook on without a sharp turn, so I'm dropping the closing edge. The open tail still reads as a fish. The loose ones on th
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  632s] 7:15 asked Maya,Tom,Priya | dominoes 113 | calls 95
+    Maya -> everyone: Sounds good, Leo, leave the tail open. I checked the body lines and they run all the way from the start through the joint into both tail diagonals. Only the loose bits on the far right won't fall. Let
+    (Priya held a thought)
+    (Tom held a thought)
+[  644s] 7:30 asked Tom,Priya,Leo | dominoes 113 | calls 98
+    Priya -> everyone: Agreed, Leo and Maya. My last look matches: the body runs through the joint into both tail diagonals. One domino near the joint sits a little off to the side, but the chain still carries through it, s
+    (Tom held a thought)
+[  650s] 7:45 asked Maya,Tom,Leo | dominoes 113 | calls 101
+    Tom -> everyone: Agreed, all of you. Body's connected from the start, so I'm keeping my hands off. Nice fish, team.
+    Maya -> everyone: All good from me, hands off. Nice fish, team!
+[  661s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 105
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  661s] 8:15 asked - | dominoes 113 | calls 105
+[  661s] 8:30 asked - | dominoes 113 | calls 105
+[  661s] 8:45 asked - | dominoes 113 | calls 105
+[  669s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 109
+    Priya -> everyone: Fingers crossed, everyone. Nice work, I'm hands off and just enjoying the show.
+[  679s] 9:15 asked Maya,Tom,Leo | dominoes 113 | calls 112
+    Tom -> everyone: Here goes nothing. Go little fish!
+    Maya -> everyone: Here we go. Fingers crossed, fish!
+[  689s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 116
+    Tom -> everyone: Fingers crossed, here it comes!
+    Priya -> everyone: Go, little fish!
+    Leo -> everyone: Go fish go!
+[  697s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 120
+    Priya -> everyone: Look at it go! Nice work, everyone.
+    Maya -> everyone: Look at it go!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.0,
+      "error": 1.21
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.94
+    },
+    "Priya": {
+      "speed": 1.24,
+      "error": 0.79
+    },
+    "Leo": {
+      "speed": 1.4,
+      "error": 0.71
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 783.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a crossed tail, like the ichthys symbol",
+      "simple hand-drawn fish doodle in profile",
+      "stylized fish or leaf-like shape drawn with a single line"
+    ],
+    [
+      "fish outline facing left, with a forked tail",
+      "ichthys fish symbol with crossed lines at the tail",
+      "leaf or lens-shaped outline with a stem"
+    ],
+    [
+      "fish outline (simple sketch with tail and fin)",
+      "fish symbol, ichthys-style curve",
+      "leaf or almond shape with a stem"
+    ]
+  ],
+  "placed": 113,
+  "fell": 104,
+  "completion": 0.92,
+  "team_score": 0.92,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 13,
+    "Priya": 15,
+    "Tom": 6,
+    "Leo": 12
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 1,
+    "input_tokens": 284,
+    "cache_creation_tokens": 658524,
+    "cache_read_tokens": 408778,
+    "output_tokens": 65012,
+    "seconds": 1511.1,
+    "api_equivalent_usd": 3.1794,
+    "cached": 0
+  }
+}

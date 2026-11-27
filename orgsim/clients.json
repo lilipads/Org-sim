@@ -1,0 +1,69 @@
+{
+  "_note": "Client profiles for the decision study (DECISION_STUDY.md). Hand-written and fixed. Shared notes point to an obvious answer; the unique notes, one per person, together point to the best one. 'rumour' is plausible but wrong. 'guide' scores an animal 0-1 for how happy the client would be; anything not listed gets 'default'.",
+  "profiles": [
+    {
+      "id": "aquarium",
+      "commission": "The client runs a children's aquarium and wants a domino animal for the entrance hall.",
+      "shared": ["It's for the entrance of a children's aquarium.", "They asked for something big and bold that people notice."],
+      "unique": [
+        "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+        "The client told you their best-loved exhibit, by far, is the sea-turtle pool.",
+        "The client stressed it has to read from across the lobby: one simple, chunky shape.",
+        "The client said it should be something that lives in the water."
+      ],
+      "rumour": "You overheard a staff member say the director loves octopuses.",
+      "best": "sea turtle",
+      "guide": {"sea turtle": 1.0, "turtle": 1.0, "tortoise": 0.6, "whale": 0.6, "fish": 0.5, "dolphin": 0.5,
+                "octopus": 0.3, "seal": 0.4, "crab": 0.3, "starfish": 0.3, "jellyfish": 0.2, "shark": 0.0},
+      "default": 0.1
+    },
+    {
+      "id": "cafe",
+      "commission": "The client owns a café on a small farm and wants a domino animal for the café's front window.",
+      "shared": ["It's for the window of a café on a farm.", "They want something cheerful that everyone recognises instantly."],
+      "unique": [
+        "The client told you the café is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "The client said they're famous for their eggs and egg custard tarts.",
+        "The client mentioned their own hens wander round the tables and the kids love them.",
+        "The client said they'd like something small and friendly, not a big farm beast."
+      ],
+      "rumour": "Someone mentioned the owner used to keep a donkey.",
+      "best": "hen",
+      "guide": {"hen": 1.0, "chicken": 1.0, "rooster": 0.8, "chick": 0.8, "duck": 0.5, "goose": 0.4,
+                "rabbit": 0.3, "donkey": 0.2, "horse": 0.2, "cat": 0.2, "dog": 0.2, "cow": 0.0, "pig": 0.0, "sheep": 0.0},
+      "default": 0.1
+    },
+    {
+      "id": "lodge",
+      "commission": "The client runs a mountain lodge with a ski school and wants a domino animal for the lodge's welcome wall.",
+      "shared": ["It's for the welcome wall of a mountain lodge.", "They want an animal of the mountains."],
+      "unique": [
+        "The client said that after last winter's bear scare, nothing with fangs or claws: no bears, no wolves.",
+        "The client told you the ski school's mascot is a white snow hare called Pip.",
+        "The client said the main audience is the small kids at the ski school; it should look cute.",
+        "The client mentioned that from far away kids spot an animal by its ears or its tail."
+      ],
+      "rumour": "You heard the owner is a keen birdwatcher who loves eagles.",
+      "best": "hare",
+      "guide": {"hare": 1.0, "rabbit": 1.0, "bunny": 1.0, "mountain goat": 0.5, "goat": 0.5, "squirrel": 0.5,
+                "marmot": 0.5, "deer": 0.4, "fox": 0.3, "owl": 0.3, "eagle": 0.2, "bear": 0.0, "wolf": 0.0},
+      "default": 0.1
+    },
+    {
+      "id": "bookshop",
+      "commission": "The client owns a children's bookshop and wants a domino animal for the shop window.",
+      "shared": ["It's for the window of a children's bookshop.", "They want something that feels calm and wise."],
+      "unique": [
+        "The client said they had an owl sign for years and really want a change from owls.",
+        "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+        "The client said regulars bring treats for the shop cat every day.",
+        "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+      ],
+      "rumour": "Someone said the owner's favourite book is about a fox.",
+      "best": "cat",
+      "guide": {"cat": 1.0, "kitten": 1.0, "dog": 0.4, "bear": 0.3, "rabbit": 0.3, "fox": 0.3, "tortoise": 0.4,
+                "turtle": 0.4, "elephant": 0.3, "mouse": 0.3, "owl": 0.0},
+      "default": 0.1
+    }
+  ]
+}

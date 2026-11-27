@@ -1,0 +1,94 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.0,
+      "error": 1.21
+    },
+    "Tom": {
+      "speed": 1.07,
+      "error": 1.94
+    },
+    "Priya": {
+      "speed": 1.24,
+      "error": 0.79
+    },
+    "Leo": {
+      "speed": 1.4,
+      "error": 0.71
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 783.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a crossed tail, like the ichthys symbol",
+      "simple hand-drawn fish doodle in profile",
+      "stylized fish or leaf-like shape drawn with a single line"
+    ],
+    [
+      "fish outline facing left, with a forked tail",
+      "ichthys fish symbol with crossed lines at the tail",
+      "leaf or lens-shaped outline with a stem"
+    ],
+    [
+      "fish outline (simple sketch with tail and fin)",
+      "fish symbol, ichthys-style curve",
+      "leaf or almond shape with a stem"
+    ]
+  ],
+  "placed": 113,
+  "fell": 104,
+  "completion": 0.92,
+  "team_score": 0.92,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 13,
+    "Priya": 15,
+    "Tom": 6,
+    "Leo": 12
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 1,
+    "input_tokens": 284,
+    "cache_creation_tokens": 658524,
+    "cache_read_tokens": 408778,
+    "output_tokens": 65012,
+    "seconds": 1511.1,
+    "api_equivalent_usd": 3.1794,
+    "cached": 0
+  }
+}

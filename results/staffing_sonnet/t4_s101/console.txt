@@ -12,3 +12,97 @@
     Leo -> everyone: Looks good. I've got stroke 1 from the nose. Tom, can you take the top body line, and Priya the bottom one? Maya, the two tail strokes are yours if you're free.
     (Priya held a thought)
     (Tom held a thought)
+[  642s] 0:45 asked Maya,Tom,Priya | dominoes 5 | calls 15
+    Priya -> everyone: Sounds good, Leo. I'll take the bottom body line. Tom's on the top, and Maya's got the two tail tips.
+    Tom -> everyone: Sure Leo, I'll take the top body line. Maya, the tail's yours then.
+    (Maya held a thought)
+[  652s] 1:00 asked Maya,Tom,Leo | dominoes 7 | calls 18
+    Tom -> everyone: Priya, looks like you're already on the top line, so I'll swap and take the bottom one. Shout if you'd rather switch back.
+    Leo -> everyone: Great, we're all set. I'll finish the lead-in and then check the joins.
+    (Maya held a thought)
+[  663s] 1:15 asked Tom,Priya | dominoes 12 | calls 20
+    Priya -> Tom: Tom, small mix-up, I'm actually on the bottom line already, so could you stay on the top one? Sorry for the confusion! I'll keep going on the bottom.
+    Tom -> everyone: Priya, you're on the bottom line, so I'll take the top one after all. Sorry for the swap-flip-flop. Maya's still got the tail tips.
+[  672s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 21 | calls 24
+    Priya -> Tom: No worries, Tom, thanks! I'm on the bottom line, you've got the top.
+    Maya -> everyone: Tom, no worries. I've already got the top body line and the top tail tip queued, so I'll keep those. You take the bottom tail tip, and Priya's got the bottom body line. Sound good?
+    (Leo held a thought)
+    (Tom held a thought)
+[  689s] 1:45 asked Maya,Tom,Priya,Leo | dominoes 33 | calls 28
+    Leo -> everyone: Join at the split is good, everything's connected so far. Tom's already on the top body line and Priya's on the bottom, so let's leave them there. Maya, you keep the top tail tip. I'll take the bottom
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  698s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 42 | calls 32
+    Maya -> everyone: Sounds good, Leo. I've got the top tail tip, and the bottom one's yours.
+    Priya -> everyone: Works for me, Leo. You take the bottom tail tip, Maya the top one. I'll keep going on the bottom body.
+    (Tom held a thought)
+    (Leo held a thought)
+[  711s] 2:15 asked Maya,Leo | dominoes 55 | calls 34
+    Leo -> everyone: Okay, bottom tail tip is mine, Maya keeps the top one. I'm starting it now and will check the joins when the body lines reach the tail.
+    (Maya held a thought)
+[  720s] 2:30 asked Maya | dominoes 71 | calls 35
+    Maya -> everyone: Thanks Leo, sounds good. I'm waiting on the top tail tip and I'll check the tail joints once the body lines get there.
+[  728s] 2:45 asked Priya,Leo | dominoes 83 | calls 37
+    Priya -> everyone: Bottom body's done. I'll check the tail joins while you two finish the top line and the tips.
+[  742s] 3:00 asked Priya | dominoes 96 | calls 38
+    Priya -> everyone: Bottom body joins the tail fine. The top line just needs to reach the tail junction, then both tips hang off it. Shout if you want a hand finishing a tip.
+[  752s] 3:15 asked Tom | dominoes 105 | calls 39
+    Tom -> everyone: Top body's done and it reaches the tail. From the start it looks like everything falls. I'll take a close look at the tail joint to make sure it's solid.
+[  765s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 43
+    Tom -> everyone: Found a small hitch right at the tail joint, the next domino's sitting a bit off to the side. I'm nudging it into line now. Leo, can you check the bottom tail tip? It looks like there might be a gap p
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  781s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 47
+    Maya -> everyone: Heads up Tom, the top tail tip is showing pale, so it's not connected right now. The start only gets 91 of 105. It looks like the gap is right at that joint where you're nudging. I'll bridge it from m
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  794s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 107 | calls 51
+    Maya -> everyone: Bridging the top tail tip now, Tom. Hands off that joint for a sec so we don't bump it.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  802s] 4:15 asked Tom,Priya,Leo | dominoes 111 | calls 54
+    Tom -> everyone: Okay Maya, you take the bridge, my hands wouldn't fit in there anyway. I looked closely: the top tip is still pale and not hooked in, and one line end near the junction points down with nothing after 
+    (Priya held a thought)
+    (Leo held a thought)
+[  812s] 4:30 asked Maya,Priya,Leo | dominoes 116 | calls 57
+    Priya -> everyone: Maya, you've got the bridge, I'll keep my hands off that joint. I'm taking a look at the tail from a distance, and I'll shout if it still shows pale.
+    (Leo held a thought)
+    (Maya held a thought)
+[  828s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 61
+    Priya -> everyone: Maya, the top tip still looks pale. It seems to start down by your hands, under the bottom line, with a gap before it. Could it hang off the end of the top body line instead? I'll keep clear, but shou
+    (Maya held a thought)
+[  846s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 116 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Maya, Tom, nobody's hands seem to be on the top tail tip right now, so I'm going to redo it from the end of the top body line. Please keep clear of that joint for a minute. We've got time.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  856s] 5:15 asked Maya,Tom,Leo | dominoes 102 | calls 68
+    Leo -> everyone: Priya, hold off on redoing the top tip. I just hooked the top body end into it, just above the junction. I'm checking now whether it's dark.
+    (Maya held a thought)
+    (Tom held a thought)
+[  868s] 5:30 asked Tom,Priya,Leo | dominoes 102 | calls 71
+    Leo -> everyone: Top tip's still mostly missing, so I'm laying that stroke fresh from the end of the top body line. Priya, Maya, could you keep clear of that corner for a moment? Maya, those stray pale ones under the 
+    (Priya held a thought)
+    (Tom held a thought)
+[  876s] 5:45 asked Maya,Tom,Priya | dominoes 106 | calls 74
+    Maya -> everyone: Thanks Leo, Priya, go ahead with the top tip, I'm staying clear of that corner. My stray bridge pieces are cleared. I'll look over the tail once it's laid. Just make sure only one of you is laying it 
+    (Tom held a thought)
+    (Priya held a thought)
+[  887s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 78
+    Priya -> everyone: Maya, Leo's the one laying the top tip, so I'm staying clear. Leo, shout when it's down and I'll check that it's dark. We've got time.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  894s] 6:15 asked Maya,Tom,Leo | dominoes 110 | calls 81
+    Tom -> everyone: Sounds good, Leo, I'll keep my hands out of there. Shout when it's laid and I'll look from here and tell you what falls.
+    Leo -> everyone: Thanks Priya. Three more to go on the top tip, then I'll check it's dark.
+    (Maya held a thought)
+[  904s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 85
+    Leo -> everyone: Almost there, one more domino on the top tip. Then I'll check that it all falls.
+    Maya -> everyone: Leo, the top tip is yours. I'm just clearing the last strays under the junction, nowhere near your corner.
+    (Priya held a thought)

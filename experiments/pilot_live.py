@@ -43,6 +43,10 @@ def main():
     ap.add_argument("--seconds-per-domino", type=float, default=3.0, help="average hand speed")
     ap.add_argument("--same-hands", action="store_true", help="everyone builds at the same speed and accuracy")
     ap.add_argument("--free-hand", action="store_true", help="also allow free-hand strokes (line, arc, extend, connect)")
+    ap.add_argument("--client", default="none",
+                    help="none | auto (by seed) | a profile id from orgsim/clients.json")
+    ap.add_argument("--decision", choices=["free", "dictator", "consensus"], default="free")
+    ap.add_argument("--dictator", default="random", help="random | worst | best | a name (with --decision dictator)")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -78,6 +82,25 @@ def main():
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
                      freehand_sigma=freehand, show_reach=(args.view == "image"), pad_only=not args.free_hand,
                      view_dir=tempfile.mkdtemp(prefix="views_") if args.view == "image" else None)
+    # the client: who the picture is for, and what each person privately knows about them
+    from orgsim import client as clientmod
+    profile = clientmod.profile_for(args.seed, args.client) if args.client != "none" else None
+    notes, pitches, dictator = {}, [], None
+    if profile:
+        notes = clientmod.deal_notes(profile, names, args.seed)
+        with ThreadPoolExecutor(len(names)) as ex:
+            pitches = list(ex.map(lambda n: clientmod.pitch(n, PERSONAS_V2[n], profile, notes[n], calls, args.model,
+                                                            f"seed{args.seed}"), names))
+        print("pitches:", [(p["name"], p["animal"], p["score"]) for p in pitches], flush=True)
+    if args.decision == "dictator":
+        rank = clientmod.taste_ranking(pitches) if pitches else list(names)
+        dictator = {"random": _random.Random(f"dictator/{args.seed}").choice(sorted(names)),
+                    "worst": rank[0], "best": rank[-1]}.get(args.dictator, args.dictator)
+        if dictator not in names:
+            raise SystemExit(f"dictator {dictator!r} isn't at the table")
+        cfg.decision, cfg.dictator = "dictator", dictator
+    elif args.decision == "consensus":
+        cfg.decision = "consensus"
     agents = []
     for n in names:
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=W, h=H,
@@ -96,8 +119,30 @@ def main():
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
+        if profile:
+            rules = rules.replace("THE TABLE\n", clientmod.client_rules(profile, notes[n]) + "\nTHE TABLE\n", 1)
+        fmt = ""
+        if args.decision == "dictator":
+            if n == dictator:
+                rules = rules.replace("THE TABLE\n", "WHO DECIDES\nYou alone decide what the table builds. Others may "
+                                      "advise; the call is yours. Only you draw on the scratch pad, and nobody can lay a "
+                                      "domino until you call the decision (say which animal, with \"decide\").\n\nTHE TABLE\n", 1)
+                fmt = ('\nTo call the decision, add "decide": "<name of the animal>" (you can do this together with '
+                       "anything else).")
+            else:
+                rules = rules.replace("THE TABLE\n", f"WHO DECIDES\n{dictator} alone decides what the table builds. You can "
+                                      f"advise, but the call is {dictator}'s. Only {dictator} draws on the scratch pad, and "
+                                      f"nobody can lay a domino until {dictator} calls the decision.\n\nTHE TABLE\n", 1)
+        elif args.decision == "consensus":
+            rules = rules.replace("THE TABLE\n", "WHO DECIDES\nThe table decides by consensus. Nobody can lay a domino "
+                                  "until every person has said they're aligned on the same animal (with \"aligned\"). "
+                                  "Talk it through until you all agree. You can change or withdraw your alignment "
+                                  "later, but while the table isn't aligned, no new building starts.\n\nTHE TABLE\n", 1)
+            fmt = ("\nTo say you're on board, add \"aligned\": \"<name of the animal>\" (or \"\" to withdraw). "
+                   "You can do this together with anything else.")
         extra = {"model": args.model} if args.model else {}
         agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls, **extra))
+        agents[-1].extra_format = fmt
         agents[-1].cache_salt = f"seed{args.seed}"
     game = LiveGame(world, agents, cfg)
     t0 = time.time()
@@ -172,6 +217,18 @@ def main():
         "held_thoughts": sum(len(r["held"]) for r in game.log["turns"]),
         "parse_failures": {a.name: a.failures for a in agents}, "usage": calls.totals(),
     }
+    if profile:
+        built = clientmod.rate_animal(profile, intent, calls)
+        summary.update({
+            "client": profile["id"], "client_best": profile["best"], "notes": notes, "pitches": pitches,
+            "taste_ranking_worst_first": clientmod.taste_ranking(pitches),
+            "client_score": built["score"], "client_matched": built["matched"],
+            "final_score": round(judging["recognition"] * built["score"], 3),
+            "notes_surfaced": clientmod.notes_surfaced(profile, notes, game.log, calls),
+        })
+    dec = game.log.get("decision") or {}
+    summary.update({"decision": args.decision, "dictator": dictator, "decided": dec.get("animal"),
+                    "decision_open_at": dec.get("open_at")})
     with open(os.path.join(args.out, "summary.json"), "w") as f:
         json.dump(summary, f, indent=2)
     print(json.dumps(summary, indent=2))

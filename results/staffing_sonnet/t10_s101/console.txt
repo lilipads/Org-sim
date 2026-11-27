@@ -29,3 +29,17 @@
     (Jack held a thought)
     (Omar held a thought)
     (Sofia held a thought)
+[  666s] 0:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 4 | calls 43
+    Jack -> everyone: Love it Hana, fish it is, the forked tail will read nicely. I'll back up whoever needs a hand, and I'll check the joints at the tail so nothing breaks.
+    Maya -> everyone: On it, tracing the top now.
+    Tom -> everyone: On the belly now.
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+[  679s] 1:00 asked Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 14 | calls 49
+    Hana -> everyone: Priya, Leo, start tracing the tail fins now, three and four. They'll wait for the body lines to reach the tail, so no rush on timing. Maya, Tom, you're close together at the nose, so watch for bumps t
+    (Omar held a thought)
+    (Sofia held a thought)

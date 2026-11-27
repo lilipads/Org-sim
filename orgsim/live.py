@@ -67,6 +67,8 @@ class LiveConfig:
     show_reach: bool = False         # draw what the start dominoes would knock over darker than the rest
     pad_only: bool = False           # builds come from the pad (trace) plus small repairs (fix, restand)
     skills: dict = field(default_factory=dict)  # name -> {"speed": x, "error": y}; 1.0 = average hands
+    decision: str = "free"           # who decides what to build: free | dictator | consensus
+    dictator: str | None = None      # with decision="dictator"
 
 
 @dataclass
@@ -88,6 +90,8 @@ class Decision:
     interrupt: str = ""              # unused (kept so old logs still load)
     notes: str | None = None
     thinking: str = ""
+    decide: str = ""                 # dictator: the table builds this animal (opens building)
+    aligned: str | None = None       # consensus: the animal I'm on board with ("" = withdraw)
 
     def brief(self) -> dict:
         d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
@@ -132,6 +136,9 @@ class LiveGame:
         self.pad_holder: str | None = None
         self.pad_strokes: list = []
         self._start_claimed = False
+        self.decided: str | None = None             # dictator's call
+        self.aligned: dict = {}                     # consensus: name -> animal
+        self.decision_at: float | None = None       # when building was opened
         self._taken: set = set()                    # line ends someone is already carrying on
         self.traced: dict = {}                      # sketch stroke number -> domino ids laid for it
         self.t = 0.0
@@ -215,6 +222,7 @@ class LiveGame:
             "inbox": list(self.inbox[name]), "task": self.task_status(name),
             "hands": self.hands(name), "notes": self.notes[name],
             "start_status": self.start_status(name),
+            "decision_status": self.decision_status(name),
             "pad_status": self.pad_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
@@ -290,6 +298,7 @@ class LiveGame:
                 self.location[n] = dest
                 rec["events"].append({"type": "move", "who": n, "where": dest})
 
+        self._decisions(decisions, rec)
         sketched = self._pad(decisions, rec)
         for n, d in decisions.items():
             self._start_task(n, d, rec)
@@ -351,6 +360,71 @@ class LiveGame:
                  else " Nothing is drawn on it yet.")
         return f"The scratch pad {what}.{drawn} {when}"
 
+    # ---- who decides -----------------------------------------------------
+    @staticmethod
+    def _animal(s) -> str:
+        a = " ".join(str(s or "").lower().replace("-", " ").strip("<>").split())
+        return "" if a in ("the animal", "name of the animal", "animal") else a
+
+    def building_open(self) -> bool:
+        if self.cfg.decision == "dictator":
+            return self.decided is not None
+        if self.cfg.decision == "consensus":
+            vals = [self.aligned.get(n) for n in self.by_name]
+            return all(vals) and len(set(vals)) == 1
+        return True
+
+    def decision_status(self, name: str) -> str:
+        mode = self.cfg.decision
+        if mode == "dictator":
+            d = self.cfg.dictator
+            if self.decided:
+                return f"{'You' if d == name else d} called it: the table is building a {self.decided}."
+            return (f"Nothing can be built until {'you call' if d == name else d + ' calls'} the decision "
+                    "(what animal the table builds).")
+        if mode == "consensus":
+            if self.building_open():
+                return f"Everyone is aligned on a {next(iter(self.aligned.values()))}; building is open."
+            mine = self.aligned.get(name)
+            others = [f"{n}: {self.aligned[n] or '-'}" if self.aligned.get(n) else f"{n}: not yet"
+                      for n in self.by_name if n != name]
+            return ("Nothing can be built until everyone is aligned on the same animal. "
+                    f"You: {mine or 'not aligned yet'}; " + ", ".join(others) + ".")
+        return ""
+
+    def _decisions(self, decisions: dict, rec: dict):
+        mode = self.cfg.decision
+        was_open = self.building_open()
+        for n, d in decisions.items():
+            if mode == "dictator" and self._animal(d.decide):
+                if n != self.cfg.dictator:
+                    self.inbox[n].append(f"Only {self.cfg.dictator} can call the decision.")
+                    continue
+                self.decided = self._animal(d.decide)
+                rec["events"].append({"type": "decide", "who": n, "animal": self.decided})
+                for m in self.by_name:
+                    if m != n:
+                        self.inbox[m].append(f"[{clock(self.t)}] {n} called the decision: a {self.decided}.")
+                        self.wake[m].append(f"{n} called the decision")
+            if mode == "consensus" and d.aligned is not None:
+                a = self._animal(d.aligned)
+                if self.aligned.get(n, "") != a:
+                    self.aligned[n] = a
+                    rec["events"].append({"type": "aligned", "who": n, "animal": a})
+        if not was_open and self.building_open():
+            self.decision_at = self.t
+            if mode == "consensus":
+                self.decided = next(iter(self.aligned.values()))
+            rec["events"].append({"type": "building_open", "t": self.t, "animal": self.decided})
+            if mode == "consensus":
+                for m in self.by_name:
+                    self.inbox[m].append(f"[{clock(self.t)}] Everyone is aligned on a {self.decided}: building is open.")
+                    self.wake[m].append("everyone is aligned")
+        elif was_open and not self.building_open() and mode == "consensus":
+            rec["events"].append({"type": "building_closed", "t": self.t})
+            for m in self.by_name:
+                self.inbox[m].append(f"[{clock(self.t)}] Someone withdrew: the table is no longer aligned, so no new building starts.")
+
     def _pad(self, decisions: dict, rec: dict) -> set:
         """Picking up, passing, putting down and sketching. Returns who sketched this beat
         (their hands were busy with the pad, not dominoes)."""
@@ -384,6 +458,11 @@ class LiveGame:
                 self.wake[d.pad_to].append(f"{h} handed you the scratch pad")
                 rec["events"].append({"type": "pad", "who": h, "what": "gave", "to": d.pad_to})
         takers = [n for n in names if decisions[n].pad == "take" and n != self.pad_holder]
+        if self.cfg.decision == "dictator":          # only the dictator draws the plan
+            for n in takers:
+                if n != self.cfg.dictator:
+                    self.inbox[n].append(f"Only {self.cfg.dictator} draws on the pad: the plan is theirs to make.")
+            takers = [n for n in takers if n == self.cfg.dictator]
         if takers:                              # 3. someone picks it up if it's free
             if self.pad_holder is None:
                 taker = max(takers, key=lambda n: decisions[n].eagerness)
@@ -496,6 +575,9 @@ class LiveGame:
             return
         if d.do == "stop":
             self.task[n] = None
+            return
+        if d.do == "build" and not self.building_open():
+            self.inbox[n].append("You can't start building yet: " + self.decision_status(n))
             return
         if d.do == "build":
             cur = self.task.get(n)
@@ -834,6 +916,9 @@ class LiveGame:
         out, self.pushed_world = push_world(self.world, self.start_region, self.cfg.time_limit,
                                             self.cfg.reveal_threshold)
         self.log["push"] = out
+        self.log["decision"] = {"mode": self.cfg.decision, "dictator": self.cfg.dictator,
+                                "animal": self.decided, "open_at": self.decision_at,
+                                "aligned": dict(self.aligned)}
         return out
 
     def save(self, path: str):

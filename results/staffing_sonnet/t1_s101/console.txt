@@ -48,3 +48,73 @@
 [  487s] 9:15 asked - | dominoes 90 | calls 12
 [  487s] 9:30 asked - | dominoes 85 | calls 12
 [  487s] 9:45 asked - | dominoes 80 | calls 12
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.96,
+      "error": 2.0
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 522.4,
+  "intents": {
+    "Maya": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or background with no dominoes",
+      "faint or invisible drawing on a plain cream background"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or placeholder background image",
+      "faint, very low-contrast content too subtle to see"
+    ],
+    [
+      "blank off-white canvas",
+      "empty placeholder image",
+      "very faint or invisible line art"
+    ]
+  ],
+  "placed": 80,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 10,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Maya": 0
+  },
+  "usage": {
+    "calls": 26,
+    "failed": 2,
+    "input_tokens": 48,
+    "cache_creation_tokens": 57503,
+    "cache_read_tokens": 57799,
+    "output_tokens": 22629,
+    "seconds": 529.5,
+    "api_equivalent_usd": 0.3921,
+    "cached": 6
+  }
+}

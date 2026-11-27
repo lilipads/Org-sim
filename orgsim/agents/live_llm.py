@@ -173,6 +173,7 @@ class LiveLLMAgent(LiveAgentBase):
         super().__init__(name, home, persona)
         self.model, self.log = model, log
         self.system = (f"You are {name}.\n{persona}\n\n{rules}\n\nHOW YOU'RE EVALUATED\n{evaluation}")
+        self.extra_format = ""          # extra output fields for this game's rules (decide / aligned)
         self.cache_salt = ""            # set to the run's seed: same seed replays, new seed samples afresh
         self.failures = 0
 
@@ -191,6 +192,7 @@ class LiveLLMAgent(LiveAgentBase):
             f"Dominoes left: {sup}.",
             f"Your hands: {obs['task']}",
             obs.get("start_status", ""),
+            obs.get("decision_status", ""),
             obs.get("pad_status", ""),
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
@@ -217,7 +219,7 @@ class LiveLLMAgent(LiveAgentBase):
         return paths or None
 
     def act(self, obs: dict) -> Decision:
-        prompt = self.situation(obs) + "\n\nWhat do you say and do now?\n" + OUTPUT_FORMAT
+        prompt = self.situation(obs) + "\n\nWhat do you say and do now?\n" + OUTPUT_FORMAT + self.extra_format
         for _ in range(2):
             text = call_model(self.system, prompt, self.log, f"{self.name}/{obs['clock']}", self.model,
                               image=self._image(obs), cache_salt=f"{self.cache_salt}/try{_}")
@@ -253,6 +255,8 @@ class LiveLLMAgent(LiveAgentBase):
             pad_to=d.get("pad_to") if isinstance(d.get("pad_to"), str) else None,
             sketch=[x for x in (d.get("sketch") or []) if isinstance(x, dict)] if isinstance(d.get("sketch"), list) else [],
             sketch_clear=bool(d.get("sketch_clear")),
+            decide=str(d.get("decide") or "") if isinstance(d.get("decide"), str) else "",
+            aligned=d.get("aligned") if isinstance(d.get("aligned"), str) else None,
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 

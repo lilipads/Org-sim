@@ -98,3 +98,212 @@
     (Priya held a thought)
     (Jack held a thought)
     (Grace held a thought)
+[  506s] 3:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 94 | calls 103
+    Leo -> Omar: Omar, thanks, but I'm already lined up on the bottom tail line and I'll go as soon as Tom's line gets there. Could you take the closing line at the back of the fin, or stand by to fix any gaps once To
+    Sofia -> Omar,Leo: Omar, Leo's already laying the bottom tail line, so sync up with him and don't double up. I'll stay off the tail and check the joins out there.
+    Hana -> Sam: Sam, that new line going down on the left isn't on the plan either, so please lift it. Then head over to the tail with Priya and Leo, because that's where we're thin. I'm checking the split again.
+    Grace -> everyone: Sam, I'm lifting the leftover pale line down by your hands, it's not part of the fish. Could you jump over to the tail and help Omar and Priya? Jack, the closing line is yours as soon as both tail tip
+    (Sam held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+[  525s] 3:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 98 | calls 111
+    Priya -> everyone: Thanks Omar, I'm already on the top tail, stroke 4, one domino left. Tom's bottom body line is just reaching the tail, so Omar, you or Leo take stroke 5, but only one of you so we don't double up.
+    (Omar held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  538s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 108 | calls 120
+    Sam -> everyone: Bottom branch is still pale at the split. I'm joining it to the end of the lead-in now, so hands off that spot for a minute. Hana, shout if you've already got it.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+[  551s] 4:00 asked Maya,Tom,Priya,Sofia,Omar,Hana,Sam,Grace | dominoes 111 | calls 128
+    Priya -> Jack: Jack, quick check before you go further. The pale line by your hands is heading up and to the right, but the closing line should drop straight down from the top tail tip to the bottom tail tip. Can yo
+    Grace -> Jack: Jack, your pale line out at the right edge looks too far over. The closing line should drop straight down between the two tail tips, back where the top tail turns. Can you check it against stroke six 
+    Maya -> everyone: Top body's done and connected. Sam, the bottom join is all yours, I'm staying off it. Jack, your line on the right is angling up toward the corner. Isn't the closing line supposed to run straight down
+    (Hana held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+[  570s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 104 | calls 138
+    Maya -> Jack: Jack, that line looks like it's drifting off to the upper right. If you trace stroke 6 straight off the pad it'll drop down from the top tail to the bottom tail tip. Want me to lift the crooked bit so
+    Omar -> Jack: Jack, quick eye check on the closing line. It's leaning right and stopping short, and the top tail curls out past where the pad had it. Can you aim it so it meets the very end of the top tail, up by t
+    Grace -> Jack: Jack, I'm lifting that slanted pale bit on the far right. Could you trace stroke six fresh from the pad? It should start where the top tail turns and drop straight down to the bottom tail tip.
+    Sofia -> everyone: Jack, I just looked over the tail. Your closing line starts a bit past the top tail tip and leans off toward the edge, so nothing from the tail reaches it. Can you bring it up to the tip and then run 
+    (Hana held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+[  591s] 4:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 115 | calls 147
+    Leo -> Jack: Jack, bottom tail's up and standing. Your closing line is drifting up and to the right, and it should run straight up and down between the two tail tips. Want me to lift it and re-lay it from the pad?
+    Hana -> everyone: Jack, your closing line is leaning off toward the right edge, so the tail doesn't feed into it. Can you trace stroke 6 off the pad again? It should start at the top tail tip and run straight down to t
+    (Sam held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+[  618s] 4:45 asked Maya,Tom,Priya,Leo,Sofia,Jack,Grace | dominoes 127 | calls 155
+    Sofia -> everyone: On it, Hana. Jack, you keep the bottom end. I'll take the top and run it straight down from the top tail to meet yours. Everyone else, stay clear of that spot.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[  631s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 135 | calls 165
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Omar,Sam: Omar, Sam, the top tail is curling off past the corner. Can you pause there so Sofia's line can pick up from the tip? I'll stay clear and look it over.
+    Jack -> everyone: Thanks all, good eyes, and thanks for lifting the slanted bit. Sofia, the top end is yours, so run it down from the top tail to meet the stretch I've got standing at the bottom. I'll keep my hands off
+    (Omar held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+[  648s] 5:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 129 | calls 175
+    Priya -> everyone: Sofia, my middle stretch curled off to the left instead of running straight, so I'm lifting that curl now. Come down from the top tail and I'll bring the middle up straight to meet you.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  664s] 5:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 129 | calls 185
+    Hana -> everyone: Sofia, the bottom of the fin is standing, so bring your line down until it meets the top of it and keep the spacing tight. Jack, once she's through, check the bottom end where the lower tail tip feeds
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+[  682s] 5:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 131 | calls 195
+    Sofia -> everyone: Top end's down. I'm bridging the last gap into Jack's stretch now, so everyone stay off that spot. Priya, if you're bringing the middle up, keep it just under my last domino.
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+[  698s] 6:00 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 131 | calls 204
+    Priya -> everyone: Sofia, nice. Curl's out and the push still reaches nearly everything. Two things to watch on the fin: the bottom end looked a bit jammed, and there's a small sideways wobble near the top tail. If eith
+    (Omar held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  713s] 6:15 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 213
+    Sam -> everyone: Push reaches nearly everything, just strays at the split that don't matter. I'm closing one small offset in the fin near the middle. Everyone else stay off it for a minute.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  725s] 6:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 223
+    Sofia -> everyone: Thanks Priya. Sam's got the offset in the middle of the fin, so I'm taking the little wobble up by the top tail. Everyone stay clear of it for a few seconds.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+[  738s] 6:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 233
+    Sam -> everyone: Fin middle's closed and connected from here. Sofia has the wobble at the top, so everyone else keep clear. After that I'd stop building and leave it alone for the push.
+    (Hana held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[  752s] 7:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 132 | calls 242
+    Sofia -> everyone: Wobble's nudged in and I've looked over the fin. The push reaches nearly everything, and the only leftovers are a few little strays that don't matter. I'd say we all hands off now so nobody bumps it b
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  764s] 7:15 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 251
+    Jack -> everyone: Thanks Hana, and thanks Sofia and Priya for closing the fin. I checked it end to end and the push reaches nearly everything. Let's keep our hands off the fin and the tail now. Great teamwork, everyone
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+[  776s] 7:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 132 | calls 260
+    Leo -> everyone: Agreed, looks good from here. I'm hands off so nobody bumps anything.
+    Maya -> everyone: Agreed, nice work everyone. Hands off now so nobody bumps it. I'll just keep an eye on it.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+[  789s] 7:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 270
+    Priya -> everyone: Agreed, Jack. Bottom tail checked out fine and the push reaches nearly everything, so hands off, everybody. Let our fish stand!
+    Sofia -> everyone: Agreed, Jack. Hands off everyone, and nice work. Fish looks great!
+    (Hana held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+[  800s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 280
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Two minutes to go and she's standing tall. Great work, everyone, hands off and let the fish fall!
+    Hana -> everyone: Agreed, Jack. Hands off everyone unless something's actually broken, and shout before you touch anything. Nice work, all.
+    (Tom held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+[  809s] 8:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 290
+    Priya -> everyone: Fingers crossed, everyone. Hands in pockets, and let's see this fish swim!
+    Omar -> everyone: Nice work everyone, that's a proper fish. Hands off now, let's enjoy the fall.
+    Sam -> everyone: Agreed, hands off. Fish is standing, let it fall.
+    (Tom held a thought)
+[  817s] 8:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 300
+    Tom -> everyone: Agreed, looks good from here. Hands off, and let's hope nobody sneezes on the table.
+    Jack -> everyone: Here we go, everyone. Hands off and enjoy the fall. Great work, team, that's a proper fish!
+[  826s] 8:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 310
+    Jack -> everyone: Fingers crossed, team. Whatever happens, that was a great build, thanks everyone!
+    Tom -> everyone: Fingers crossed, everybody. Go little fish!
+    Priya -> everyone: Ha, deep breaths everyone. Swim, little fish!
+    Sofia -> everyone: Fingers crossed, go fish go!
+[  838s] 9:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 320
+    Maya -> everyone: Go fish go! Nice work, everyone.
+    Omar -> everyone: Hands in pockets, everybody. Go fish!
+    Jack -> everyone: Here goes, everyone. Great teamwork, nice work all!
+[  846s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 330
+    Priya -> everyone: Ha, here it goes. Swim, little fish!
+    Maya -> everyone: Here we go, go fish go!
+    Sam -> everyone: Hands off. Fish is standing, let it fall.
+    Sofia -> everyone: Go fish go!
+    Jack -> everyone: Here it comes, great work everyone!
+    Tom -> everyone: Go little fish!
+    Omar -> everyone: Swim, little fish!
+[  855s] 9:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 132 | calls 340
+[  855s] 9:45 asked - | dominoes 132 | calls 340

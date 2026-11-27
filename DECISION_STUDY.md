@@ -4,7 +4,8 @@ When a team has to read what a client wants, does it matter who makes the call, 
 compares a dictator picked at random, a dictator with the worst taste, a dictator with the best taste,
 and full consensus, then adds agents to see how they change the answer.
 
-Status: designed; the client and decision rules are being built. No AI runs yet.
+Status: built (client, notes, pitches, decision modes, notes-surfaced check); runner in
+`results/decision/run_all.sh`. A 3-minute test game ran end to end.
 
 ## 1. The client
 

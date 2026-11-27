@@ -12,3 +12,95 @@
     Hana -> everyone: Fish is up on the pad. I've got the start and nose. Jack, top body line is stroke 2. Omar, take the bottom line, stroke 3. Sofia, the forked tail, stroke 4. Shout if a line looks off.
     (Sofia held a thought)
     (Omar held a thought)
+[  644s] 0:45 asked Sofia,Omar,Jack | dominoes 8 | calls 16
+    Sofia -> everyone: Sounds good! I've got the tail fork, stroke 4. I'm starting on it now and it'll carry on once the top and bottom lines reach the tail end.
+    (Jack held a thought)
+    (Omar held a thought)
+[  644s] 1:00 asked - | dominoes 16 | calls 16
+[  653s] 1:15 asked Hana | dominoes 25 | calls 17
+    Hana -> everyone: Start and nose are down and the chain looks connected into both body lines. I'm going to check the joint where they split, then keep an eye on the tail end.
+[  665s] 1:30 asked Hana | dominoes 33 | calls 18
+    Hana -> everyone: Split joint is good, everything standing falls from the start. Omar's bottom line is a bit behind Jack's top one. Shout if you want a hand, otherwise I'll check the tail joint once both lines get ther
+[  676s] 1:45 asked Omar,Jack | dominoes 40 | calls 20
+    Jack -> everyone: On it, Hana, I'm on the top body line, stroke 2, about halfway there. Nice sketch, that tail reads great! Omar, I'm a bit ahead, so shout if you want me to help on the bottom.
+    (Omar held a thought)
+[  690s] 2:00 asked Omar,Hana | dominoes 45 | calls 22
+    Omar -> everyone: Got it, bottom line's mine, stroke 3. I'm partway along, no help needed yet. Fish is looking good!
+    (Hana held a thought)
+[  698s] 2:15 asked Hana | dominoes 54 | calls 23
+    Hana -> everyone: Thanks Jack, looks good from here. Omar, if the bottom line feels slow, say so and Jack can swing over once the top is done. I'll stay out of your way and check the tail joint when both lines get ther
+[  715s] 2:30 asked Omar,Hana,Jack | dominoes 60 | calls 26
+    Hana -> everyone: Top line's nearly at the tail now, nice. Bottom still has a way to go, so Omar, shout if you want Jack to join once he's done. Sofia, your tail should be able to start soon.
+    (Omar held a thought)
+    (Jack held a thought)
+[  725s] 2:45 asked Sofia,Omar,Jack | dominoes 68 | calls 29
+    Jack -> everyone: Top line's done and reaching the tail, Hana! Omar, nice progress on the bottom. I'll check the tail joint while you finish, and shout if you want a hand.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  736s] 3:00 asked Omar,Hana,Jack | dominoes 75 | calls 32
+    Hana -> everyone: Thanks Jack. I'll take a close look at the tail joint now. Omar, you're close to the end of the bottom line. Say if you want a hand closing the last bit.
+    (Omar held a thought)
+    (Jack held a thought)
+[  747s] 3:15 asked Omar,Hana,Jack | dominoes 82 | calls 35
+    Jack -> everyone: Tail joint looks good, Sofia, the top line runs right into your fork. Omar, you're nearly there on the bottom. I'll stay out of your way so nobody gets bumped, but shout if you want a hand.
+    (Omar held a thought)
+[  761s] 3:30 asked Sofia,Omar,Hana | dominoes 87 | calls 38
+    Hana -> everyone: Sofia, the tail is a lot for one pair of hands. I'll build the lower fork, from the bottom line's end down to the bottom tip. You keep the top fork and the upright edge down the back. Shout if you'd r
+    (Omar held a thought)
+    (Sofia held a thought)
+[  775s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 89 | calls 42
+    Sofia -> everyone: Thanks Hana, yes please, take the lower fork. I've got the top fork and the back edge, still going on it.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  803s] 4:00 asked Omar,Hana,Jack | dominoes 95 | calls 46
+    Hana -> everyone: Sorry, the lower fork wasn't on the pad before. It is now, and I'm building it from the end of the bottom line down to the bottom tip. Sofia, you keep the top fork and the back edge.
+    (Jack held a thought)
+    (Omar held a thought)
+[  815s] 4:15 asked Sofia,Omar,Jack | dominoes 104 | calls 49
+    Omar -> everyone: Bottom line's done, folks. Hana, the lower fork is yours. I'll nudge that one domino by the tail joint into line so it all still falls.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  825s] 4:30 asked Omar,Hana,Jack | dominoes 112 | calls 52
+    Omar -> everyone: Going to take a close look at the tail joint to make sure both forks get fed. Sofia, Hana, shout if you want a hand on the back edge.
+    (Jack held a thought)
+    (Hana held a thought)
+[  840s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 116 | calls 56
+    Sofia -> everyone: Got it Hana, thanks! Still laying the top fork and back edge, nearly there. Then I'll check the tail joint.
+    Hana -> everyone: Thanks Omar. Lower fork is nearly down, one more domino. Then I'll check the whole tail falls.
+    (Omar held a thought)
+    (Jack held a thought)
+[  849s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 120 | calls 60
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Tail's looking good from here, folks. I'll have a last look at the bottom right to make sure both tips get fed. Not touching anything, so no bumps.
+    (Hana held a thought)
+    (Jack held a thought)
+[  862s] 5:15 asked Omar,Hana,Jack | dominoes 122 | calls 63
+    Hana -> everyone: Lower fork's down and the whole tail falls from the start, nothing disconnected that I can see. Sofia, that little piece by the bottom tip pointing back up-left looks like a stray. If it isn't meant t
+    (Jack held a thought)
+    (Omar held a thought)
+[  872s] 5:30 asked Sofia,Omar,Jack | dominoes 118 | calls 66
+    Sofia -> everyone: Good catch, Hana. That stray hook by the bottom tip is mine, so I'm pulling just that bit. Everyone else hands off, and then we're done.
+    (Jack held a thought)
+    (Omar held a thought)
+[  879s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 70
+    Sofia -> everyone: Stray hook's gone. Tail looks clean from here, so hands off everyone and let's just wait for the push.
+    Hana -> everyone: Thanks Sofia. Hands off from here, I'll just watch the push.
+    Omar -> everyone: Sounds good, Sofia. Fish looks great, hands off from here!
+    (Jack held a thought)
+[  885s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 74
+    Jack -> everyone: Nice work, everyone! Sofia, Hana, Omar, that fish reads really clearly. Hands off now and let's watch it go.
+    Omar -> everyone: All good from me. Just popcorn and the push now.
+[  890s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 78
+    Sofia -> everyone: Thanks Jack! Great teamwork, everybody. Fingers crossed for the push!
+    Jack -> everyone: Ha, popcorn it is. Fingers crossed for a clean fall, great teamwork, all of you!
+    Hana -> everyone: Thanks Jack. All good here, hands off and let's watch it go.
+    (Omar held a thought)
+[  896s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 82
+    Omar -> everyone: Ha, fingers crossed. Fish looks lovely, push away!
+    Jack -> everyone: Ha, no more talking from me, I don't want to bump anything. Great job, team, that fish looks like a fish!
+[  902s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 86
+[  902s] 7:00 asked - | dominoes 118 | calls 86
+[  902s] 7:15 asked - | dominoes 118 | calls 86
+[  902s] 7:30 asked - | dominoes 118 | calls 86
+[  907s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 90
