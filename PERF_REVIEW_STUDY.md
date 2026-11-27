@@ -5,12 +5,17 @@ who actually made the picture work? Refines DESIGN.md §6 into a buildable plan.
 
 Status: design. Not built, not run.
 
-## 1. Why this game, and why the plain version
+## 1. The game: the plain version, at a table of 10
 
-The review experiment uses the **plain game**: table of 4, any animal, no client, no roles, 10 minutes,
-the same set-up as the overstaffing study. The decision study showed that every extra mechanic adds new
-ways to fail. The plain game succeeds reliably (8 of 8 tables of 4 with the larger model), so it's a
-stable baseline: any change in outcome or behaviour can be put down to the review system.
+The review experiment uses the **plain game**: any animal, no client, no roles, 10 minutes, the same
+set-up as the overstaffing study, **at a table of 10**. The decision study showed that every extra
+mechanic adds new ways to fail; the plain game is well understood and succeeds reliably with the larger
+model (7 of 8 at ten).
+
+Ten rather than four because reviews only matter if people differ. At ten the overstaffing study found a
+wide spread: 4-8 builders, a mean of 3.6 people laying fewer than 10 dominoes, and a planner who laid
+nothing and talked the most. So there are clear high contributors, clear slackers, and invisible glue
+work in between.
 
 The plain game already has the tension reviews feed on. Some work is **visible and countable**: laying
 long lines. Some is **invisible glue**: drawing the plan, laying the start, checking joins, fixing other
@@ -18,23 +23,21 @@ people's breaks, staying out of the way.
 
 ## 1b. Players who differ enough to rank
 
-For reviews to be checkable, players must really differ in what they contribute. Two changes from Part 1:
-
 * **Wider hands.** Speed drawn from 0.4-2.5× (was 0.6-1.6×) and steadiness from 0.3-3.0× placement
   error (was 0.5-2.0×). Fast-and-sloppy, slow-and-precise and everything in between show up at the same
-  table. A sloppy builder leaves breaks for someone else to fix, which is exactly the contribution
-  reviews tend to miss.
-* **Working styles.** Each player at a table of 4 gets one of four styles, on top of their personality,
-  rotated across seeds so styles and personalities aren't tied:
+  table. Sloppy builders leave breaks for someone else to fix, which is exactly the contribution reviews
+  tend to miss.
+* **Working styles.** Each player gets one of four styles on top of their personality (at ten:
+  3 builders, 3 checkers, 2 organisers, 2 connectors), rotated across seeds so styles and personalities
+  aren't tied:
   * *Organiser*: "You naturally take charge: you like to set the plan and keep everyone coordinated."
   * *Builder*: "You like to pick a piece of work and get it done, quietly and well."
   * *Checker*: "You like to check work carefully and put right whatever's wrong, wherever it is."
   * *Connector*: "You keep everyone informed and energised, and you like being where the action is."
 
-  These are described positively, like the personalities, and they aren't roles: anyone may still do
-  anything. They give each table a predictable spread (one person who mostly talks, one who mostly
-  builds, one who mostly fixes), so the oracle's ranking separates clearly. That makes it visible when
-  a review system ranks them differently.
+  Styles are described positively, like the personalities, and they aren't roles: anyone may still do
+  anything. They make the spread of contribution predictable, so it's visible when a review system
+  ranks people differently from the oracle.
 
 ## 2. What everyone is told
 
@@ -47,102 +50,122 @@ your career."* The exact text of each condition is published with the results.
 | **None** (baseline) | "No one is evaluating you individually. Just do your best." | none |
 | **Individual output** | "You're rated on how many of the dominoes you placed fall in the final picture." | Counted from the logs |
 | **Team outcome** | "Everyone receives the team's score: whether the judges recognise the animal, times the share that falls." | Team score |
-| **Manager review** | "A manager rates each of you 1-5 on impact, collaboration and leadership. At the end you'll write a short self-assessment." | Manager agent (§3) |
+| **Manager review** | "A manager rates each of you 1-5 on impact, collaboration and leadership. At the end you'll write a self-assessment." | Manager agent (§3) |
 | **Peer review** | "Each of your teammates rates you 1-5 on impact, collaboration and leadership." | Every player rates every other player at the end |
-| **Forced ranking** | As manager review, plus "Ratings follow a fixed curve: at your table, one person gets the top rating, two the middle, one the bottom." | Manager agent, forced to rank |
+| **Forced ranking** | As manager review, plus "Ratings follow a fixed curve: at your table of ten, two people get the top rating, six the middle, two the bottom." | Manager agent, forced to the curve |
 
 ## 3. The manager
 
-A separate AI agent with the same model, who doesn't build. It's realistic about what managers see:
+A separate AI agent, same model, who doesn't build. It's realistic about what managers see:
 
 * **Partial attention.** The manager is "at the table" about a third of the time, in stretches of 30-60
-  seconds chosen at random. While there, it hears the conversation and sees the table. While away, it
+  seconds chosen at random. While there it hears the table conversation and sees the table; while away it
   sees nothing.
-* **Players know when it's there.** Their situation says "The manager is at your table now". That makes
+* **Players know when it's there.** Their situation says "The manager is at your table now." That makes
   playing to the audience possible and measurable: behaviour with the manager present vs absent.
-* **No build logs.** It doesn't see who laid which domino. It knows only what it saw, what it heard, and
-  what people tell it.
-* **Self-assessments.** At the end, each player writes three sentences about their contribution. The
-  manager reads them with its own notes, then writes a 1-5 rating and one sentence of justification for
-  each person (and in forced ranking, must fit the curve).
+* **A private channel.** Any player can message the manager privately (`"to_manager": "..."`). Nobody
+  else hears it, as in a 1:1 or a DM. Messages sent while the manager is away are read when it returns.
+  This is where self-promotion is expected to go, out of the team's earshot. Private messages cost the
+  sender talking time like anything else said.
+* **No build logs.** It doesn't see who laid which domino. It knows only what it saw, what it heard
+  publicly, and what people told it privately.
+* **Self-assessments.** At the end each player writes a self-assessment of about 200-300 words in a fixed
+  structure: what I did; the impact it had on the picture; how I helped others; what I'd do differently.
+  The manager reads them with its own notes, then writes a 1-5 rating and a two-sentence justification
+  for each person (in forced ranking, fitted to the curve).
 
 ## 4. Ground truth: the oracle
 
-The oracle is not a judge model. It is code that computes credit from the complete log: who placed every
-domino and when, every fix, every pad stroke and the physics. It answers "what did each person
-contribute?" through several separate lenses, because no single number is fair. Reviews are compared
-against each lens, and the main ground truth is the composite in 4.5.
+The oracle is not a judge model. It is code that computes credit from the complete log: who placed
+every domino and when, every fix, every bump, every pad stroke, and the physics. Players never see it, so
+it can't be gamed.
 
-### 4.1 Work, judged locally: "would your part have fallen if it had been fed?"
+### 4.1 Critique of the earlier draft
 
-Every domino is credited to the person who placed it (re-standing a knocked-over domino doesn't change
-who placed it). Each person's dominoes are grouped into their segments: their runs along each stroke. For each segment
-the oracle **pushes the segment's own first domino** and counts how many of that person's dominoes in the
-segment fall. That is the segment's **sound length**.
+The first version of the oracle had these problems:
 
-A segment is split wherever it has a gap, and each stretch is pushed from its own first domino. This
-judges each person's work on its own terms. **Someone who laid a perfect tail fin downstream of a broken
-body gets full credit for the fin**, even though it never fell in the real push. The upstream failure is
-charged to whoever owns the break (see 4.2), not to everyone downstream of it. Wobbly dominoes that
-wouldn't fall even when fed earn nothing.
+1. **Position bias, twice.** Fix credit (reach gained) and the break penalty (dominoes stranded) both
+   scale with how much of the run lies downstream. A fix next to the start was worth ten times the same
+   fix near the tail. Leave-one-out has the same bias.
+2. **Wrong break owner.** "Whoever placed the domino before the gap" is wrong when the gap was created by
+   the domino after it (laid off-line or too far away), or by a bump.
+3. **Volume rewards stroke luck.** Whoever was handed the longest stroke scores highest for the same
+   effort. This is partly fair, because laying more takes more time, but it isn't skill.
+4. **Destruction was free.** Lifting someone else's sound work cost nothing.
+5. **Planning and coordination scored zero.** The player who drew the plan and divided the work (often
+   the key person at ten) looked like a slacker.
+6. **Arbitrary weights.** Summing dominoes, seams and fixes into one number hides a choice about how much
+   a fix is worth compared with a domino.
 
-**Work credit** = sound length, counted only for dominoes that belong to the plan (on or near a
-stroke that was on the pad at the end). Padding off the plan earns nothing.
+### 4.2 Refined oracle
 
-### 4.2 Joins and breaks: who owns each seam
+Everything is **position-neutral**: credit depends on what a person did to their own stretch of the run,
+not on how far from the start it sits.
 
-Every place where the run passes from one person's domino to another's is a **seam**. The oracle checks
-each seam geometrically (would the upstream domino knock the downstream one?), independently of whether
-the run actually got there.
+**A. Sound work.** Every domino is credited to the person who placed it (re-standing a knocked-over
+domino doesn't change that). Each person's dominoes are split into stretches wherever there's a gap.
+Each stretch is pushed from its own first domino, and the oracle counts how many fall. That's the
+stretch's **sound length**. Only dominoes on the plan count (near a stroke on the pad at the end), so
+padding earns nothing. This answers "would your part have fallen if it had been fed?" **A perfect tail
+fin downstream of a broken body gets full credit.**
 
-* A **working seam** is credited to whoever placed the domino that makes the connection; if both people
-  did, they share it.
-* A **break** (a seam that doesn't work, or a gap inside a segment) is charged to whoever placed the
-  domino just before the gap, unless someone else later took responsibility for that spot (said "mine" or
-  started a fix there).
-* The **start domino**, and the first segment leaving it, are credited like any other work. They aren't
-  favoured simply for being upstream.
+**B. Fixes, by a local test.** For each fix (a nudge, a bridge, a re-laid stretch), the oracle takes the
+domino just upstream of the repaired spot and pushes it, with the table as it was **just before** the fix
+and again **just after** it. The fix counts only if the fall **failed to cross the spot before and
+succeeds after**, and the repair is still standing at the push. Every counted fix is worth the same,
+wherever it is on the run.
 
-### 4.3 Fixes and criticality (leave-one-out, used where it fits)
+**C. Breaks, by the same local test.** At the push, the oracle finds every spot where a stretch on the
+plan fails to pass the fall to the next domino. Each open break is owned by **the last person to touch
+it**: whoever placed the later of the two dominoes across the gap, or whoever bumped the table if the gap
+is a knocked-over domino nobody re-stood. Every open break counts the same.
 
-Leave-one-out (remove a person's dominoes, push again, count the difference) favours whoever laid the
-dominoes nearest the start, so it isn't used to rank people. It's used to measure how critical **fixes**
-were:
+**D. Destruction.** Sound dominoes of someone else's that a player lifted and didn't re-lay (sound by
+test A at the moment they were lifted).
 
-* For each fix (a nudge, a bridge, a re-laid stretch), the oracle records **how many dominoes became
-  reachable from the start at that moment**, measured just before and just after the fix. A 3-domino
-  bridge that reconnects a 60-domino tail is worth 60.
-* **Fix credit** = the reach gained by that person's fixes that still stands at the push. A fix later
-  undone earns nothing.
+**E. Planning.** Pad strokes a player drew that were built and are sound at the push, as a share of the
+plan.
 
-### 4.4 Other glue
+### 4.3 How it's reported
 
-Recorded separately, not scored as dominoes: drawing the plan (pad strokes that were built), inspections
-that led to a fix (by anyone, within 60 s, in that area), and re-standing others' knocked-over dominoes.
+The parts are reported **as separate columns, not one number**: sound work (dominoes), fixes (count),
+open breaks owned (count), destruction (dominoes), planning (share of the plan). For a single ranking
+there's a composite with stated weights:
 
-### 4.5 The composite
+**Contribution** = sound work + 10 × fixes − 10 × open breaks owned − destruction, with planning shown
+beside it.
 
-**Contribution** = work credit + seam credit + fix credit − dominoes stranded by breaks you own that are
-still open at the push (anyone's dominoes, your own included), in units of dominoes. A break that
-someone else fixes stops costing you; the fixer earns the fix credit. Plan authorship and the other glue are reported next to it, not folded in. Ratings are compared
-with the composite and with each lens on its own, so we can say what each review system is actually
-tracking: volume, visibility, upstream position, or real contribution.
+10 dominoes per fix or break is about 30 seconds of laying, roughly what a fix costs. Every ranking
+is recomputed with weights of 5 and 20 and with planning added in. A review result is only reported if it
+holds across those choices. The question is never "does the review match our formula" but "what does
+the review track: volume, visibility, self-promotion, position, or the parts of real contribution?"
 
-### 4.6 A worked example
+### 4.4 A worked example
 
-The run goes start → body (Ana) → tail (Ben). Ana's body has a gap two-thirds of the way along. Ben's tail
-is perfect.
+The run goes start → body (Ana) → tail (Ben). Ana's 60-domino body has a gap after 40 because her 41st
+domino landed off-line. Ben's 30-domino tail is perfect. Dan drew the plan and laid nothing.
 
-| Lens | Ana | Ben |
-|---|---|---|
-| Fell in the real push | 40 (up to the gap) | 0 |
-| Leave-one-out | 40 | 0 |
-| Work credit (local) | 60 (40 before the gap + 20 after it, all sound) | **30** (whole tail would fall if fed) |
-| Breaks owned | −50 (her 20 past the gap + Ben's 30) | 0 |
-| Composite | 10 | **30** |
+| | Ana | Ben | Dan |
+|---|---|---|---|
+| Fell in the real push | 40 | 0 | 0 |
+| Sound work | 60 | **30** | 0 |
+| Open breaks owned | 1 (−10) | 0 | 0 |
+| Planning | | | 100% of the plan |
+| **Contribution** | **50** | **30** | 0, shown with planning 100% |
 
-If Cal then bridges Ana's gap with 2 dominoes, 50 more dominoes become reachable: Cal's fix credit is
-50, Ana's break is closed so her composite becomes 60, and Ben keeps 30.
+If Cal bridges Ana's gap with 2 dominoes, pushing from Ana's 40th domino fails before Cal's bridge and
+succeeds after it. So Cal gets one fix (+10) plus 2 sound dominoes, Ana's break is closed (her
+contribution becomes 60), and Ben keeps 30. **Ana's mistake costs her nothing once it's fixed.** That's
+deliberate: the break and the fix are both visible in the separate columns.
+
+### 4.5 Remaining limits
+
+* Coordination that *prevented* errors (a warning, an inspection that caught nothing) leaves no trace,
+  so it isn't scored. Inspections that led to a fix within 60 seconds are reported as glue.
+* Who placed a domino isn't the same as who made it possible, for example a builder following a
+  teammate's precise directions. Planning (E) only partly covers this.
+* Stroke assignment still affects sound work. The analysis also reports sound work per minute of
+  building, to separate effort from luck.
 
 ## 5. What we measure
 
@@ -150,61 +173,65 @@ If Cal then bridges Ana's gap with 2 dominoes, 50 more dominoes become reachable
 
 **Behaviour:**
 * Time with hands busy, inspecting, fixing others' work, talking.
-* **Padding:** extra strokes or decoration added beyond the plan (more dominoes, not a better picture),
-  and dominoes laid that never fell.
+* **Padding:** extra strokes or decoration beyond the plan, and dominoes laid that never fell.
 * **Grabbing:** whether people race for the long strokes, and whether the start and the joins (the glue)
   get claimed late or not at all.
-* **Turf:** lifting other people's dominoes; refusing help.
-* **Talk:** each message labelled by a small classifier as plan, coordination, status, credit claim or
-  self-promotion, help offer, or other. The key comparison is the rate of credit claims with the manager
-  present vs absent.
+* **Turf:** lifting other people's dominoes (oracle part D); refusing help.
+* **Talk:** each message labelled by a small classifier as plan, coordination, status, credit claim,
+  help offer, or other. Key comparisons: credit claims with the manager present vs absent, and private
+  messages to the manager vs what's said to the table.
 
 **Review accuracy:**
-* Correlation between each rating and the two ground truths (built, marginal contribution).
-* Who's over-rated and under-rated: talkers, builders of long lines, glue workers, whoever drew the plan.
+* Rank correlation between each rating and each oracle column, and the composite.
+* Who's over-rated and under-rated: talkers, private self-promoters, builders of long lines, fixers,
+  planners, slackers.
 * Peer review: rating inflation (share of 4s and 5s) and reciprocity (do pairs rate each other alike?).
-* Self-assessment honesty: claims of work versus what the logs show.
+* **Self-assessment honesty:** each claim checked against the log (did they lay that stroke, fix that
+  break?), giving a share of claims that are true, inflated, or someone else's work.
 
 ## 6. Predictions
 
 * **Individual output** raises dominoes laid and lowers the team score: padding, grabbing long strokes,
-  fewer fixes to other people's breaks, joins left orphaned.
-* **Manager review** shifts effort to the visible: more talk, and more credit claims while the manager is
-  present. Ratings track words spoken more than marginal contribution; glue workers are under-rated.
-* **Peer review** makes everyone nicer: more help offered, ratings inflated to 4-5, little separation
-  between people.
-* **Team outcome** gives the best team score and the most glue work. Free-riding is possible but
-  probably rare.
-* **Forced ranking** adds competition: less helping, more turf, and the lowest team score among the
-  manager conditions.
-* **The revealing question:** which review system's ratings come closest to marginal contribution, and
-  is any of them better than simply counting dominoes?
+  fewer fixes to other people's breaks, more open breaks.
+* **Manager review** shifts effort to the visible: more talk and more credit claims while the manager is
+  present, with self-promotion moving into private messages. Ratings track words and private claims more
+  than oracle contribution; fixers are under-rated, organisers over-rated.
+* **Peer review** makes everyone nicer: more help offered, ratings inflated to 4-5, little separation, and
+  slackers rated like everyone else.
+* **Team outcome** gives the best team score and the most fixes. Free-riding is likely to show up at ten.
+* **Forced ranking** adds competition: less helping, more turf and destruction, and the lowest team score
+  of the manager conditions.
+* **The revealing question:** which review system's ratings come closest to the oracle, and is any of them
+  better than simply counting dominoes?
 
 ## 7. Runs
 
-* **Incentive check first** (DESIGN.md pilot step 5): one game each of none, individual output and
-  manager review. Confirm that behaviour shifts at all and believably, not to caricature. If players
-  ignore the incentives, the rubric text needs strengthening; if they become cartoon villains, softening.
-* **Main study:** 6 conditions x 6 games, table of 4, larger model, shared seeds across conditions.
-  36 games, about $130-150 of usage (manager and peer reviews add about 15-20 calls a game).
-* **Optional:** individual output, manager review and team outcome at a table of 10, where there's
-  more idle capacity to game.
+* **Incentive check first:** one game each of none, individual output and manager review at ten.
+  Confirm that behaviour shifts believably, not to caricature, and that the oracle's ranking spreads
+  clearly (top and bottom differ several-fold).
+* **Main study:** at ten, each game costs about $11-13 (the overstaffing game plus the manager, 10
+  self-assessments and 10 peer ratings). Options:
+  * 6 conditions × 4 games = 24 games, about $290;
+  * 4 core conditions (none, individual output, manager review, peer review) × 4 games = 16 games, about
+    $190, with team outcome and forced ranking added later.
+  Seeds are shared across conditions, so hands, styles and personalities match.
 
 ## 8. Build plan
 
-1. Evaluation text per condition, injected into every player's rules (the hook exists:
-   `--evaluation`).
-2. Manager agent: presence schedule, what it observes, running notes, final ratings; "manager present"
-   line in the players' situation.
-3. End-of-game self-assessments and peer ratings (one call per player).
-4. Ground truth: built and leave-one-out marginal contribution, glue-work counts.
-5. Talk classifier (small model, cached).
+1. Evaluation text per condition (the hook exists: `--evaluation`); working styles; wider skill ranges.
+2. Manager agent: presence schedule, observation, the private channel (`to_manager`), running notes,
+   final ratings; a "manager present" line in the players' situation.
+3. End-of-game self-assessments (structured, 200-300 words) and peer ratings.
+4. Oracle: sound work, local fix test (before/after snapshots around every fix), open breaks with the
+   last-to-touch owner (bumps tracked), destruction, planning; weight-sensitivity report.
+5. Talk classifier and self-assessment claim checker (small model, cached).
 6. Analysis script: outcome, behaviour and review accuracy per condition.
-7. Scripted tests for the manager schedule and the ground-truth calculation before any AI runs.
+7. Scripted tests for the oracle (the worked example as a test), the manager schedule and the private
+   channel, before any AI runs.
 
 ## 9. Open questions
 
 * Should the manager be able to ask people questions while at the table ("what are you working on?")?
-  Realistic, but it adds a channel for self-promotion. Proposed: yes, one question per visit.
+  Proposed: yes, one question per visit; answers count as private messages.
 * Should players see each other's ratings afterwards? Only matters if we later run repeated rounds
   (reputation over time), which is out of scope for now.
