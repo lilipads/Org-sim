@@ -2,12 +2,12 @@
 
 | condition | games | recognised | share fell | dominoes placed | plan size | redundant | words | private msgs | rho(rating, oracle) | rho(rating, +planning) | rho(rating, words) | rating spread |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| none | 4 | 2/4 | 0.61 | 213 | 139 | 37.5 | 1462.5 | 0 | None | None | None | None |
-| individual | 4 | 3/4 | 0.66 | 211.75 | 137.25 | 40.75 | 1136 | 0 | 0.45 | 0.25 | -0.35 | 40.75 |
-| team | 4 | 4/4 | 0.96 | 132 | 134.75 | 2.75 | 1042.75 | 0 | None | None | None | None |
-| manager | 4 | 4/4 | 0.86 | 164.25 | 121 | 12 | 1423.75 | 9.25 | 0.22 | 0.33 | 0.49 | 1.25 |
-| peer | 4 | 4/4 | 0.83 | 146.75 | 115.5 | 20 | 1382.5 | 0 | 0.17 | 0.02 | 0.13 | 1.17 |
-| forced | 4 | 4/4 | 0.91 | 152 | 129.75 | 9.75 | 1447.25 | 8 | -0.32 | -0.24 | 0.0 | 4 |
+| none | 6 | 4/6 | 0.73 | 180.33 | 135.83 | 25.67 | 1324.17 | 0 | None | None | None | None |
+| individual | 6 | 4/6 | 0.63 | 208.83 | 134.17 | 46.5 | 1165.5 | 0 | 0.5 | 0.37 | -0.03 | 43.33 |
+| team | 6 | 6/6 | 0.95 | 137.33 | 134.17 | 3.5 | 1034.83 | 0 | None | None | None | None |
+| manager | 6 | 6/6 | 0.86 | 157.33 | 121.5 | 11.17 | 1435.5 | 8.83 | 0.24 | 0.48 | 0.53 | 1.33 |
+| peer | 6 | 6/6 | 0.88 | 141.33 | 122.17 | 14 | 1271 | 0 | 0.27 | 0.02 | 0.13 | 1.17 |
+| forced | 6 | 6/6 | 0.92 | 148.5 | 130 | 8.67 | 1454.17 | 8.17 | 0.05 | 0.16 | 0.0 | 4 |
 
 ## forced_s401 (forced): fish, recognition 1.0, fell 137/137, plan needs ~130 dominoes
 rating vs oracle rho 0.32 (with planning 0.32); rating vs words rho -0.32
@@ -54,6 +54,24 @@ rating vs oracle rho 0.0 (with planning -0.63); rating vs words rho -0.32
 | Priya | connector | 3 | -10 | 3.7 | 10 | 0 | 2 | 0.67 | 81 | 0 | 4 | 525 | 2 | 2 |
 | Leo | organiser | 1 | 30 | 36.8 | 30 | 0 | 0 | 0.33 | 32 | 0 | 0 | 485 | 5 | 7 |
 
+## forced_s406 (forced): fish, recognition 1.0, fell 153/157, plan needs ~134 dominoes
+rating vs oracle rho 0.95 (with planning 0.95); rating vs words rho 0.63
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | 5 | 67 | 94.8 | 57 | 1 | 0 | 1.0 | 87 | 0 | 5 | 565 | 1 | 8 |
+| Omar | connector | 3 | 57 | 57.0 | 37 | 2 | 0 | 0.0 | 38 | 0 | 0 | 348 | 4 | 7 |
+| Hana | organiser | 1 | 0 | 0.0 | 0 | 0 | 0 | 0.0 | 24 | 0 | 0 | 302 | 1 | 6 |
+| Jack | builder | 3 | 17 | 17.0 | 17 | 0 | 0 | 0.0 | 32 | 4 | 0 | 236 | 1 | 3 |
+
+## forced_s407 (forced): fish, recognition 1.0, fell 116/126, plan needs ~127 dominoes
+rating vs oracle rho 0.63 (with planning 0.95); rating vs words rho -0.63
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | 1 | 20 | 20.0 | 0 | 2 | 0 | 0.0 | 0 | 0 | 0 | 432 | 3 | 8 |
+| Tom | organiser | 3 | 47 | 47.0 | 37 | 1 | 0 | 0.0 | 38 | 0 | 0 | 415 | 3 | 7 |
+| Priya | builder | 3 | 31 | 31.0 | 31 | 0 | 0 | 0.0 | 37 | 0 | 0 | 243 | 2 | 8 |
+| Leo | checker | 5 | 40 | 67.0 | 40 | 0 | 0 | 1.0 | 51 | 9 | 2 | 395 | 2 | 3 |
+
 ## individual_s401 (individual): fish, recognition 0.167, fell 76/103, plan needs ~120 dominoes
 rating vs oracle rho 0.8 (with planning 0.8); rating vs words rho -0.8
 | who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
@@ -98,6 +116,24 @@ rating vs oracle rho 0.4 (with planning 0.2); rating vs words rho -0.8
 | Tom | checker | 33 | 57 | 57.0 | 27 | 3 | 0 | 0.0 | 62 | 27 | 0 | 220 | 0 | 3 |
 | Priya | connector | 20 | 8 | 15.4 | 18 | 0 | 1 | 0.25 | 40 | 19 | 4 | 507 | 0 | 6 |
 | Leo | organiser | 31 | 47 | 69.3 | 37 | 1 | 0 | 0.75 | 38 | 0 | 0 | 197 | 0 | 4 |
+
+## individual_s406 (individual): fish, recognition 0.0, fell 91/224, plan needs ~119 dominoes
+rating vs oracle rho 0.2 (with planning 0.4); rating vs words rho 0.4
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | 32 | 8 | 34.0 | 18 | 0 | 1 | 1.0 | 147 | 73 | 7 | 749 | 0 | 9 |
+| Omar | connector | 48 | 39 | 39.0 | 39 | 0 | 0 | 0.0 | 58 | 7 | 0 | 279 | 0 | 10 |
+| Hana | organiser | 11 | 9 | 9.0 | 9 | 0 | 0 | 0.0 | 25 | 0 | 0 | 341 | 0 | 10 |
+| Jack | builder | 0 | 38 | 38.0 | 38 | 0 | 0 | 0.0 | 39 | 1 | 0 | 115 | 0 | 8 |
+
+## individual_s407 (individual): fish, recognition 1.0, fell 136/182, plan needs ~137 dominoes
+rating vs oracle rho 1.0 (with planning 0.8); rating vs words rho 0.8
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | 54 | 50 | 50.0 | 50 | 0 | 0 | 0.0 | 55 | 1 | 0 | 322 | 0 | 2 |
+| Tom | organiser | 29 | 22 | 22.0 | 12 | 1 | 0 | 0.0 | 35 | 6 | 6 | 178 | 0 | 5 |
+| Priya | builder | 5 | 3 | 3.0 | 3 | 0 | 0 | 0.0 | 32 | 20 | 6 | 205 | 0 | 3 |
+| Leo | checker | 48 | 43 | 70.0 | 43 | 0 | 0 | 1.0 | 60 | 8 | 0 | 260 | 0 | 2 |
 
 ## manager_s401 (manager): fish, recognition 1.0, fell 98/98, plan needs ~109 dominoes
 rating vs oracle rho 0.32 (with planning 0.32); rating vs words rho 0.95
@@ -144,6 +180,24 @@ rating vs oracle rho 0.26 (with planning 0.77); rating vs words rho 0.77
 | Priya | connector | 4 | -9 | 16.5 | 1 | 0 | 1 | 1.0 | 16 | 4 | 0 | 470 | 3 | 2 |
 | Leo | organiser | 4 | 53 | 53.0 | 53 | 0 | 0 | 0.0 | 83 | 3 | 0 | 589 | 2 | 4 |
 
+## manager_s406 (manager): fish, recognition 1.0, fell 97/97, plan needs ~108 dominoes
+rating vs oracle rho 0.89 (with planning 0.89); rating vs words rho 0.89
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | 4 | 35 | 35.0 | 35 | 0 | 0 | 0.0 | 35 | 0 | 0 | 376 | 3 | 5 |
+| Omar | connector | 3 | 13 | 13.0 | 13 | 0 | 0 | 0.0 | 13 | 0 | 0 | 203 | 2 | 4 |
+| Hana | organiser | 4 | 48 | 72.0 | 48 | 0 | 0 | 1.0 | 49 | 0 | 0 | 404 | 1 | 1 |
+| Jack | builder | 3 | 0 | 0.0 | 0 | 0 | 0 | 0.0 | 14 | 0 | 0 | 204 | 0 | 2 |
+
+## manager_s407 (manager): fish, recognition 0.667, fell 131/190, plan needs ~137 dominoes
+rating vs oracle rho -0.32 (with planning 0.63); rating vs words rho 0.32
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | 4 | 7 | 35.5 | 37 | 0 | 3 | 1.0 | 62 | 0 | 14 | 405 | 4 | 3 |
+| Tom | organiser | 3 | 65 | 65.0 | 45 | 2 | 0 | 0.0 | 112 | 19 | 13 | 477 | 2 | 8 |
+| Priya | builder | 2 | 12 | 12.0 | 12 | 0 | 0 | 0.0 | 37 | 0 | 0 | 263 | 2 | 8 |
+| Leo | checker | 3 | 20 | 20.0 | 20 | 0 | 0 | 0.0 | 20 | 0 | 0 | 586 | 2 | 8 |
+
 ## none_s401 (none): fish, recognition 1.0, fell 138/138, plan needs ~143 dominoes
 rating vs oracle rho None (with planning None); rating vs words rho None
 | who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
@@ -188,6 +242,24 @@ rating vs oracle rho None (with planning None); rating vs words rho None
 | Tom | checker | None | 21 | 21.0 | 21 | 0 | 0 | 0.0 | 66 | 15 | 9 | 310 | 0 | 6 |
 | Priya | connector | None | 22 | 28.7 | 32 | 0 | 1 | 0.2 | 49 | 5 | 0 | 491 | 0 | 7 |
 | Leo | organiser | None | 35 | 61.8 | 35 | 0 | 0 | 0.8 | 60 | 12 | 10 | 309 | 0 | 6 |
+
+## none_s406 (none): fish, recognition 1.0, fell 110/116, plan needs ~135 dominoes
+rating vs oracle rho None (with planning None); rating vs words rho None
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | None | 28 | 28.0 | 28 | 0 | 0 | 0.0 | 33 | 0 | 0 | 435 | 0 | 6 |
+| Omar | connector | None | 34 | 34.0 | 34 | 0 | 0 | 0.0 | 35 | 0 | 0 | 135 | 0 | 7 |
+| Hana | organiser | None | 35 | 59.5 | 35 | 0 | 0 | 1.0 | 80 | 4 | 0 | 459 | 0 | 3 |
+| Jack | builder | None | 1 | 1.0 | 1 | 0 | 0 | 0.0 | 8 | 0 | 1 | 174 | 0 | 4 |
+
+## none_s407 (none): fish, recognition 1.0, fell 114/114, plan needs ~124 dominoes
+rating vs oracle rho None (with planning None); rating vs words rho None
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | None | 14 | 14.0 | 14 | 0 | 0 | 0.0 | 15 | 0 | 0 | 448 | 0 | 4 |
+| Tom | organiser | None | 53 | 53.0 | 53 | 0 | 0 | 0.0 | 59 | 0 | 0 | 237 | 0 | 1 |
+| Priya | builder | None | 20 | 46.5 | 20 | 0 | 0 | 1.0 | 25 | 0 | 0 | 110 | 0 | 3 |
+| Leo | checker | None | 19 | 19.0 | 19 | 0 | 0 | 0.0 | 20 | 0 | 0 | 97 | 0 | 3 |
 
 ## peer_s401 (peer): fish, recognition 1.0, fell 149/188, plan needs ~137 dominoes
 rating vs oracle rho 1.0 (with planning 0.8); rating vs words rho 0.2
@@ -234,6 +306,24 @@ rating vs oracle rho 0.2 (with planning -0.4); rating vs words rho -0.2
 | Priya | connector | 3.33 | 34 | 58.2 | 24 | 1 | 0 | 1.0 | 65 | 6 | 0 | 634 | 0 | 4 |
 | Leo | organiser | 4.67 | 56 | 56.0 | 46 | 1 | 0 | 0.0 | 90 | 0 | 0 | 395 | 0 | 4 |
 
+## peer_s406 (peer): fish, recognition 1.0, fell 119/119, plan needs ~132 dominoes
+rating vs oracle rho 0.95 (with planning 0.95); rating vs words rho -0.11
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | 5.0 | 44 | 64.1 | 34 | 1 | 0 | 0.75 | 36 | 0 | 0 | 629 | 0 | 6 |
+| Omar | connector | 5.0 | 61 | 61.0 | 61 | 0 | 0 | 0.0 | 69 | 0 | 0 | 171 | 0 | 2 |
+| Hana | organiser | 3.67 | 1 | 1.0 | 1 | 0 | 0 | 0.0 | 1 | 0 | 0 | 208 | 0 | 7 |
+| Jack | builder | 4.0 | 11 | 17.7 | 11 | 0 | 0 | 0.25 | 13 | 0 | 0 | 192 | 0 | 5 |
+
+## peer_s407 (peer): fish, recognition 1.0, fell 136/142, plan needs ~139 dominoes
+rating vs oracle rho 0.0 (with planning -0.95); rating vs words rho 0.4
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | 5.0 | 20 | 20.0 | 20 | 0 | 0 | 0.0 | 34 | 0 | 0 | 260 | 0 | 1 |
+| Tom | organiser | 4.33 | 36 | 36.0 | 36 | 0 | 0 | 0.0 | 50 | 4 | 0 | 298 | 0 | 7 |
+| Priya | builder | 4.67 | 36 | 36.0 | 36 | 0 | 0 | 0.0 | 36 | 0 | 0 | 184 | 0 | 5 |
+| Leo | checker | 4.0 | 20 | 48.0 | 20 | 0 | 0 | 1.0 | 28 | 0 | 0 | 154 | 0 | 2 |
+
 ## team_s401 (team): fish, recognition 1.0, fell 157/157, plan needs ~155 dominoes
 rating vs oracle rho None (with planning None); rating vs words rho None
 | who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
@@ -278,4 +368,22 @@ rating vs oracle rho None (with planning None); rating vs words rho None
 | Tom | checker | None | 12 | 12.0 | 12 | 0 | 0 | 0.0 | 29 | 0 | 1 | 68 | 0 | 3 |
 | Priya | connector | None | 4 | 4.0 | 4 | 0 | 0 | 0.0 | 32 | 0 | 0 | 324 | 0 | 2 |
 | Leo | organiser | None | 38 | 63.8 | 38 | 0 | 0 | 1.0 | 39 | 0 | 0 | 263 | 0 | 4 |
+
+## team_s406 (team): fish, recognition 1.0, fell 144/169, plan needs ~135 dominoes
+rating vs oracle rho None (with planning None); rating vs words rho None
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sofia | checker | None | 66 | 94.0 | 46 | 2 | 0 | 1.0 | 69 | 4 | 0 | 487 | 0 | 10 |
+| Omar | connector | None | 70 | 70.0 | 40 | 3 | 0 | 0.0 | 44 | 0 | 0 | 316 | 0 | 8 |
+| Hana | organiser | None | 12 | 12.0 | 12 | 1 | 1 | 0.0 | 41 | 0 | 1 | 294 | 0 | 4 |
+| Jack | builder | None | 14 | 14.0 | 14 | 0 | 0 | 0.0 | 49 | 6 | 4 | 206 | 0 | 1 |
+
+## team_s407 (team): fish, recognition 1.0, fell 127/127, plan needs ~131 dominoes
+rating vs oracle rho None (with planning None); rating vs words rho None
+| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maya | connector | None | 37 | 37.0 | 37 | 0 | 0 | 0.0 | 38 | 0 | 0 | 227 | 0 | 1 |
+| Tom | organiser | None | 14 | 41.5 | 14 | 0 | 0 | 1.0 | 15 | 0 | 0 | 278 | 0 | 4 |
+| Priya | builder | None | 45 | 45.0 | 45 | 0 | 0 | 0.0 | 60 | 0 | 5 | 175 | 0 | 1 |
+| Leo | checker | None | 24 | 24.0 | 14 | 1 | 0 | 0.0 | 14 | 0 | 0 | 55 | 0 | 3 |
 

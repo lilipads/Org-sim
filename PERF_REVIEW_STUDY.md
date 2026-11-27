@@ -275,3 +275,36 @@ up after the full run. Here every stage is checked before the next one starts:
   falls), and a stranded piece counts as a break only if it covers plan nothing else covers; otherwise it is
   recorded as **redundant** (padding).
 * **Seed 406** hit the 5-hour usage limit mid-run (every game had failed calls); removed and rerun.
+
+## 12. Results, main run (seeds 402-407, 6 games per condition, larger model)
+
+| Condition | Recognised | Share fell | Placed (plan ~130) | Redundant | Words | Private msgs | rho(rating, oracle+planning) | Rating spread |
+|---|---|---|---|---|---|---|---|---|
+| None | 4/6 | 73% | 180 | 26 | 1,324 | | | |
+| Individual output | 4/6 | 63% | 209 | 47 | 1,166 | | 0.37 | 43 dominoes |
+| Team outcome | **6/6** | **95%** | 137 | **3.5** | 1,035 | | | |
+| Manager | 6/6 | 86% | 157 | 11 | 1,436 | 8.8 | 0.48 | 1.3 points |
+| Peer | 6/6 | 88% | 141 | 14 | 1,271 | | 0.02 | 1.2 points |
+| Forced ranking | 6/6 | 92% | 149 | 8.7 | 1,454 | 8.2 | 0.16 | 4 points |
+
+Who reviews over- or under-rate (mean rank of rating minus rank by oracle+planning; + = over-rated):
+
+| | Organiser | Builder | Checker | Connector |
+|---|---|---|---|---|
+| Manager | **-1.17** | -0.17 | +0.83 | +0.50 |
+| Forced ranking | **-1.17** | +0.33 | +0.50 | +0.33 |
+| Peer | +0.17 | +0.17 | 0 | -0.33 |
+| Individual output | -0.67 | +0.33 | +0.50 | -0.17 |
+
+Oracle+planning by style (all games): organiser 45, connector 36, checker 33, builder 22.
+
+Words per minute at manager tables: about 160 while the manager is present, 130-135 while away (+20-25%).
+
+Readings (6 games per condition, directions not measurements):
+* **Team outcome** gives the cleanest builds: everything recognised, 95% fell, almost no padding.
+* **Individual output and no review** overbuild (180-210 dominoes for a ~130 plan) and break more.
+* **Managers under-rate the organiser**, who drew the plan and divided the work (the highest oracle score once
+  planning counts), and over-rate the checker, whose inspections are visible.
+* **Peer ratings carry almost no information** (rho 0.02, spread 1.2 points).
+* **Forced ranking** separates people (4-point spread) but barely in the right order (rho 0.16).
+* People talk about a fifth more when the manager is at the table.
