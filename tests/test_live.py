@@ -370,3 +370,34 @@ def test_lone_designer_owns_pad_and_lock():
         g.step()
     assert g.pad_holder in ("D", None) and g.locked_at is not None
     assert any(ev["type"] == "lock" and ev["who"] == "D" for r in g.log["turns"] for ev in r["events"])
+
+
+def test_tracing_again_carries_on_and_redo_keeps_the_start():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    tr = {"type": "trace", "stroke": 1}
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 3
+             + [Decision(do="stop"), Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 40)
+    g = LiveGame(table_world(phys=EXACT), [a], LiveConfig(duration=600, idle_quiet=15, max_quiet=15,
+                                                           announce_at=(), scratchpad_until=600, seconds_per_domino=3))
+    for _ in range(6):
+        g.step()
+    laid_before = set(g.world.dominoes)
+    start_before = [d.id for d in g.world.dominoes.values() if d.start]
+    for _ in range(20):
+        g.step()
+    lifted = [l for t in g.log["turns"] for e in t["events"] if e["type"] == "build" for l in e.get("lifted", [])]
+    assert not lifted                                         # carried on, nothing lifted
+    assert laid_before <= set(g.world.dominoes)
+    assert [d.id for d in g.world.dominoes.values() if d.start] == start_before
+    # an explicit redo lifts the stroke but keeps the start domino
+    b = Fake("B", [Decision(do="build", strokes=[dict(tr, redo=True)])] + [Decision(do="continue")] * 40)
+    g.agents.append(b); g.by_name["B"] = b
+    for k in ("location", "notes", "interrupt", "task", "credit", "heard", "inbox", "wake", "last_asked", "last_seen_msg"):
+        getattr(g, k)["B"] = {"location": "table", "notes": "", "interrupt": "any", "task": None, "credit": 0.0,
+                              "heard": [], "inbox": [], "wake": ["joined"], "last_asked": -1e9, "last_seen_msg": 0}[k]
+    for _ in range(10):
+        g.step()
+    lifted = [l for t in g.log["turns"] for e in t["events"] if e["type"] == "build" for l in e.get("lifted", [])]
+    assert lifted and start_before[0] not in [l[0] for l in lifted]
+    assert [d.id for d in g.world.dominoes.values() if d.start] == start_before

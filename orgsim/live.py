@@ -753,6 +753,23 @@ class LiveGame:
                         err = self.cfg.skills.get(n, {}).get("error", 1.0)
                         # tracing a stroke again: its old dominoes are lifted first, so plan as if gone
                         old = set(i for i in self.traced.get(k, ()) if i in self.world.dominoes)
+                        if old and not s.get("redo"):
+                            # tracing a stroke that's already started carries on where it stopped
+                            from .handwork import _densify
+                            dense = _densify(pts_src, 0.25)
+                            olds = [self.world.dominoes[i] for i in old]
+                            j = 0
+                            while j < len(dense) and any(math.hypot(o.x - dense[j][0], o.y - dense[j][1]) <= 0.7
+                                                         for o in olds):
+                                j += 1
+                            if j >= len(dense) - 1:
+                                notes.append(f"stroke {k} is already laid all the way")
+                                trace_k = k
+                                continue
+                            pts_src = dense[max(0, j - 1):]
+                            old = set()
+                        else:
+                            old = {i for i in old if not self.world.dominoes[i].start}   # a redo keeps the start
                         # a start left over from an earlier sketch (START since moved) doesn't count:
                         # tracing stroke 1 at the new START moves the start there
                         has_start = any(x.start for x in self.world.dominoes.values()

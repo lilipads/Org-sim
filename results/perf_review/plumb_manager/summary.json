@@ -1,0 +1,123 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 473.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a single fallen domino seen from above",
+      "a small dark dash or minus mark",
+      "a stray speck or artifact on a blank background"
+    ],
+    [
+      "a single fallen domino seen from above, small and dark on a blank background",
+      "a tiny dark bar or dash mark, possibly a fragment of a domino",
+      "nearly blank page with a speck of debris or a stray mark"
+    ],
+    [
+      "a single fallen domino seen from above, small and dark against a blank background",
+      "a short dark dash or stroke on an otherwise empty off-white page",
+      "a stray mark or speck, with the rest of the image left blank"
+    ]
+  ],
+  "placed": 68,
+  "fell": 1,
+  "completion": 0.015,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 13,
+    "Priya": 11,
+    "Tom": 9,
+    "Maya": 8
+  },
+  "held_thoughts": 31,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 125,
+    "failed": 0,
+    "input_tokens": 262,
+    "cache_creation_tokens": 597282,
+    "cache_read_tokens": 355376,
+    "output_tokens": 129276,
+    "seconds": 1071.3,
+    "api_equivalent_usd": 0.1877,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Her top tail fin stood up cleanly without re-tracing, and she cooperated well and deferred appropriately on the shared notch. She was not observed placing anything in visits 3 or 4, and she did not verify the bottom-edge join or offer hands on the remaining bottom edge."
+    },
+    "Tom": {
+      "rating": 2,
+      "why": "He owned the bottom edge and kept the joint orderly, but he was still about fifteen dominoes short at the 8-minute mark, did not run the planned inspect, and declined a second pair of hands twice. The lack of a time plan or check-in left the team waiting, and at 8:30 his hand label was at the far right tip, not where his account said he was working."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She appears to be the main source of the fish's structure, with a clear outline, forked tail, and stroke numbering that kept the table organized, and she was the most consistent voice on process. However, she was not observed this visit, she flagged the risky nose joint without checking it herself, and she did not push for an early joint check while there was still time to fix the fork."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "He set the direction and plan quickly, built a clean top line, and confirmed it connected to START, and his status calls helped avoid doubled strokes. The start domino was placed late, he did not run the planned fork and tail check, and his hands-on share of the top run remains unresolved, so the rating is not higher."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

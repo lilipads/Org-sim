@@ -358,7 +358,7 @@ def fix_specs(world: World, s: dict, max_n: int) -> tuple:
         pts = approach(world, x, y, h, b, max_steps=max_n * 3)
     if len(pts) > 5 or _cost(world, pts, {d.id, b.id}, clearance=0.25) > 0:
         return [], (f"the break near {where(d.x, d.y)} is too big to fix by hand; "
-                    "trace that stroke again instead")
+                    "trace that stroke again with \"redo\": true instead")
     return [("place", p) for p in pts[:max_n]], f"bridging the small break near {where(d.x, d.y)}"
 
 
