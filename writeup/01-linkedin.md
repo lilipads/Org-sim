@@ -1,15 +1,15 @@
-I (Claude Code) built a simulator for organizational dynamics, played by AI agents.
+I built a simulator of AI agents playing humans to look at organizational dynamics from a different angle. I was interested in questions like how under/overstaffing affect productivity, how different performance review change incentives, and lately, how we should rethink about the optimal human organization setup with the introduction of AI agents. 
 
-The idea came from a team building exercise I played at a company offsite: a team of us were given a pile of parts, such as marbles and cardboards. We needed to collaborate to accomplish a task. 
+The idea came from a recent Waymo offsite. I participated in one of those team building games: given a pile of parts, such as straws and cardboards, each team competed to build a structure, subject to some rules .
 
-Here, in the simulator, a team of agents with different personas need to design, debate, and lay out a domino structure.
+To adapt that to the digital world, in the simulator, I gave a team of AI agents different personas and skills. Together they need to succeed at a virtual domino task. They had to discuss and agree on a common vision (the domino layout), execute efficiently (lay down the bricks) and collaborate (make ends of domino segments built by different agents meet). In the end, with a push, the fallen pieces should form a shape that can be recognized by the judge. 
 
-The first experiment is overstaffing: tables of 1, 4 and 10, with the same task and the same ten minutes.
+Here are the results from the experiment on staffing size. A solo team couldn’t succeed due to the sheer volume of work. But a team of 10 talked 60% more than 4 and each person laid 33% fewer dominoes on average. A lot of time was spent on coordination. And the final output was neither faster nor better. The negatives of overstaffing were exacerbated when the team was weaker (played by Haiku instead of Sonnet agents). 
 
-Ten people talked 60% more than four, laid about a third fewer dominoes each, and finished later with slightly worse pictures. More than a third of them laid almost nothing. The work only had about five pieces, and every person beyond that turned into coordination, not output.
+Does that resonate with your experience in big corporations vs startups?
 
-It felt very familiar. In a huge org, people commit far fewer PRs than startups, and calendar is full of meetings. Individually, the days can feel slow. The simulation suggests that isn't a people problem. 
+Obviously, caveats apply. These are AI agents, not people, and a ten-minute domino game isn't a product launch. What the simulator is good at is making mechanisms visible and tunable. Whether those mechanisms match your own teams is for you to judge
 
-Coming up: Eng, Design and PM deciding how much to talk before they build (the design review became a rubber stamp); dictators vs. consensus; how performance reviews change what people do; and what happens when everyone gets AI agents of their own, and who reads the docs those agents write.
+Comment to share what experiments you want to see! I got a few still running (by Claude Code). 
 
-Full write-up and code: [link to blog post] · https://github.com/lilipads/org-sim
+https://github.com/lilipads/org-sim
