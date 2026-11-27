@@ -65,3 +65,15 @@ the lock (re-sketches after the lock, lifted dominoes).
 Offline drafts per client, each failing on one axis, must be flagged by the matching role's check
 (dry run catches the break, squint test catches the fish-like whale and the ugly one, client catches the
 shark). Then a cheap small-model test game per condition.
+
+## 7. Pilot (two design-review games, Sonnet)
+
+* Garden centre (butterfly): PM chose the client's animal, Design drafted, both Eng reviewed mechanics.
+  A dry run later showed the upper wings would never catch; an Eng redrew them steeper. 144 of 155 fell,
+  all judges saw a butterfly. Final 0.4 (recognition 1 x client 1 x aesthetics 0.4).
+* Rowing club (swan): substantive reviews (Eng on the tight neck corner, PM on a slimmer S-neck), the PM
+  asked the client, who disliked the stubby neck, so the neck was redrawn after the lock. The build broke
+  near the start: 9 of 111 fell. Final 0.
+* Both tables locked at 0:45: reviews came before anyone ran a check; the checks were used after the
+  lock, to repair. Art panel scores are low overall (2-5 of 10), so aesthetics mostly separates
+  conditions rather than rating absolute quality.

@@ -1,0 +1,240 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.44,
+      "error": 0.69
+    },
+    "Omar": {
+      "speed": 1.11,
+      "error": 1.2
+    },
+    "Hana": {
+      "speed": 1.49,
+      "error": 0.85
+    },
+    "Jack": {
+      "speed": 1.26,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 799.5,
+  "intents": {
+    "Sofia": "swan",
+    "Omar": "swan",
+    "Hana": "swan",
+    "Jack": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "curved row of fallen dominoes",
+      "dark curved bracket or parenthesis",
+      "arc or hook-shaped stroke"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "dark bracket or parenthesis stroke",
+      "arc of small dark blocks"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "dark arc or bracket stroke",
+      "partial parenthesis-shaped curve"
+    ]
+  ],
+  "placed": 111,
+  "fell": 9,
+  "completion": 0.081,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 10,
+    "Hana": 9,
+    "Sofia": 15,
+    "Omar": 8
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 1,
+    "input_tokens": 294,
+    "cache_creation_tokens": 716372,
+    "cache_read_tokens": 476183,
+    "output_tokens": 73643,
+    "seconds": 1335.8,
+    "api_equivalent_usd": 3.4755,
+    "cached": 0
+  },
+  "roles": {
+    "Sofia": "eng",
+    "Omar": "eng",
+    "Hana": "design",
+    "Jack": "pm"
+  },
+  "design_mode": "review",
+  "designer": "Hana",
+  "locked_at": 45.0,
+  "reviews": {
+    "Sofia": "Works: one continuous outline, both lines leave the start heading right, big S-neck reads as a swan, no detached eye. Change: keep the neck curves gentle with no sharp kinks, and make the two lines meet cleanly at the beak tip. Keep strokes long, as few joins as possible. Optional: a small tail point at the left would help.",
+    "Omar": "Nice, I like it. Two lines from the tail leave START about 75 degrees apart, so that's fine, and no floating bits. One fix: where the upper line comes off the back and turns up into the neck, the corner is too tight. Round it into a smooth sweep, a bit more room before it heads up, or the fall stops there. Same on the head: keep the turn into the beak soft. The two lines meeting at the beak tip is fine. If you can, make the neck a touch longer and more S-shaped so it reads swan, not duck. Otherwise good to lock. Sofia and I can take one line each, and I'll take the start.",
+    "Jack": "Body and two-line split from the tail work well. Change: make the neck slimmer, taller and more S-curved (it reads duck-like now), keep head small with a clear beak pointing right, lift the tail tip slightly. Client wants graceful and long-necked, no fish. Otherwise approve."
+  },
+  "aesthetics": 0.2,
+  "art_ratings": [
+    {
+      "score": 2.0,
+      "why": "It's a small, jagged fragment of an arc in the lower-left corner of an otherwise empty canvas, with no clear subject, composition, or flowing line."
+    },
+    {
+      "score": 2.0,
+      "why": "It is a small, lopsided fragment of a curve tucked into the lower-left corner, with the rest of the canvas left empty, so it reads as an unfinished sketch rather than a composed picture."
+    },
+    {
+      "score": 2.0,
+      "why": "The image is mostly blank, with only a small, jagged, unfinished arc in the lower left that doesn't form a recognizable picture."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.4,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "ask_client"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    }
+  ],
+  "client": "rowing",
+  "client_best": "swan",
+  "notes": {
+    "Sofia": [],
+    "Omar": [],
+    "Hana": [],
+    "Jack": [
+      "It's for the wall of a rowing club by a lake.",
+      "They want something from the water.",
+      "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+      "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+      "The client said they want something graceful, with a long elegant neck.",
+      "The client said it should be a bird you'd see gliding on the lake."
+    ]
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "swan",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said they want something graceful, with a long elegant neck.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said it should be a bird you'd see gliding on the lake.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "Someone said the club captain is mad about otters.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 3,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}
