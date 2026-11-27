@@ -291,3 +291,214 @@
     (Grace held a thought)
     (Priya held a thought)
     (Omar held a thought)
+[  434s] 8:15 asked Tom,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 250 | calls 289
+    Omar -> everyone: Found a loose spot on the back edge, right where I'm pointing. I'm nudging it into line now. Sofia, that's your joint just below it, so we're covering the same stretch.
+    (Leo held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  443s] 8:30 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 298
+    Grace -> everyone: Two minutes nearly gone. Two spots still off-line: one right at the junction where I'm pointing, and one near the top of the upper arm. Leo, I'm nudging the junction one now, so you can look at the mi
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+[  452s] 8:45 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 307
+    Leo -> everyone: Grace, you've got the junction one. I'll nudge the first fin domino just past it, so the fall carries into the upper arm.
+    Omar -> everyone: Last nudge on the back edge, right here. Maya, the arm's yours, shout if it gets through!
+    (Sam held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+[  459s] 9:00 asked Maya,Tom,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 316
+    Hana -> everyone: One minute. Body's solid. I'm nudging the off-line one just above the middle of the upper arm. Nobody pull anything down now.
+    Omar -> everyone: That's my last nudge, back edge looks lined up. Fingers crossed, everybody step back from the table!
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+[  467s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 326
+    Grace -> everyone: Junction's nudged. Everyone hands off now, step back and let it go.
+    Leo -> everyone: Grace, that junction one still looks a touch off to me, so I'm giving it one quick nudge. Then I'm hands off.
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  474s] 9:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 336
+    Sam -> everyone: Hands off, everyone. Step back and let it fall.
+    Tom -> everyone: Hands off, everyone. Body's solid. Fingers crossed!
+    Hana -> everyone: Hands off everyone, let it run. Good work.
+    Sofia -> everyone: Nobody pull anything down now, we're out of dominoes. Hands off and step back, fingers crossed!
+    (Maya held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+[  481s] 9:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 346
+    Jack -> everyone: Hands off, everyone, no dominoes left on my side anyway. Body looks solid, great work all of you, Leo, Maya, Omar, Grace, you got so close on that fin. Go fishy!
+    Leo -> everyone: Hands off from me too. Let it go!
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Hana held a thought)
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.06,
+      "error": 1.0
+    },
+    "Tom": {
+      "speed": 1.59,
+      "error": 1.95
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.85
+    },
+    "Leo": {
+      "speed": 0.82,
+      "error": 1.78
+    },
+    "Sofia": {
+      "speed": 1.5,
+      "error": 0.94
+    },
+    "Omar": {
+      "speed": 0.71,
+      "error": 1.32
+    },
+    "Hana": {
+      "speed": 1.09,
+      "error": 1.85
+    },
+    "Jack": {
+      "speed": 0.61,
+      "error": 1.78
+    },
+    "Sam": {
+      "speed": 0.72,
+      "error": 0.59
+    },
+    "Grace": {
+      "speed": 1.43,
+      "error": 1.06
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 537.3,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Sofia",
+    "Grace"
+  ],
+  "judge_guesses": [
+    [
+      "balloon with a string",
+      "fish with a tail",
+      "seed or lemon shape"
+    ],
+    [
+      "fish seen from the side, with the tail at left and fins at right",
+      "balloon with a string, tied in a knot at the right end",
+      "seed or leaf with a stem, drawn as a single closed outline"
+    ],
+    [
+      "fish with a tail on the left",
+      "balloon with a string tied at the end",
+      "seed or bean pod with a stem"
+    ]
+  ],
+  "placed": 250,
+  "fell": 98,
+  "completion": 0.392,
+  "team_score": 0.327,
+  "first_domino_at": "0:30",
+  "messages": 59,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 8,
+    "Sofia": 5,
+    "Grace": 5,
+    "Tom": 6,
+    "Priya": 4,
+    "Leo": 8,
+    "Omar": 7,
+    "Hana": 8,
+    "Jack": 2,
+    "Sam": 3
+  },
+  "held_thoughts": 258,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 369,
+    "failed": 0,
+    "input_tokens": 750,
+    "cache_creation_tokens": 2025838,
+    "cache_read_tokens": 1133980,
+    "output_tokens": 195355,
+    "seconds": 2901.8,
+    "api_equivalent_usd": 10.0284,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

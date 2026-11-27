@@ -326,3 +326,47 @@ def test_consensus_opens_only_when_everyone_agrees():
     assert not g.building_open()
     g.step()
     assert g.building_open() and g.decided == "fish"
+
+
+def _role_game(mode, agents, designer="D"):
+    roles = {"D": "design", "E": "eng", "P": "pm"}
+    seen = []
+
+    def checker(kind, name, strokes, note):
+        seen.append((kind, name))
+        return f"result of {kind}"
+    g = LiveGame(table_world(phys=EXACT), agents, LiveConfig(duration=300, idle_quiet=15, max_quiet=15, pad_only=True,
+                 announce_at=(), scratchpad_until=300, roles=roles, design_mode=mode, designer=designer),
+                 checker=checker)
+    return g, seen
+
+
+SK = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+
+
+def test_review_needs_every_other_role_before_lock_and_checks_are_role_gated():
+    d = Fake("D", [Decision(pad="take", eagerness=9), Decision(sketch=SK, lock=True), Decision(lock=True)]
+             + [Decision()] * 20)
+    e = Fake("E", [Decision(), Decision(check="squint"), Decision(review="joins look fine", check="dry_run")]
+             + [Decision()] * 20)
+    p = Fake("P", [Decision(), Decision(), Decision(review="client wants it bigger")] + [Decision()] * 20)
+    g, seen = _role_game("review", [d, e, p])
+    for _ in range(2):
+        g.step()
+    assert g.locked_at is None and not g.building_open()          # tried to lock before reviews
+    for _ in range(6):
+        g.step()
+    assert any("Only the Design" in x for x in g.inbox["E"] + [y for o in e.seen for y in o["inbox"]])
+    assert set(g.reviews) == {"E", "P"} and ("dry_run", "E") in seen
+    assert g.locked_at is not None and g.building_open()
+
+
+def test_lone_designer_owns_pad_and_lock():
+    d = Fake("D", [Decision(pad="take", eagerness=5), Decision(sketch=SK), Decision(lock=True)] + [Decision()] * 20)
+    e = Fake("E", [Decision(pad="take", eagerness=9), Decision(lock=True)] + [Decision()] * 20)
+    p = Fake("P", [Decision()] * 20)
+    g, _ = _role_game("lone", [d, e, p])
+    for _ in range(4):
+        g.step()
+    assert g.pad_holder in ("D", None) and g.locked_at is not None
+    assert any(ev["type"] == "lock" and ev["who"] == "D" for r in g.log["turns"] for ev in r["events"])

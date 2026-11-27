@@ -69,6 +69,10 @@ class LiveConfig:
     skills: dict = field(default_factory=dict)  # name -> {"speed": x, "error": y}; 1.0 = average hands
     decision: str = "free"           # who decides what to build: free | dictator | consensus
     dictator: str | None = None      # with decision="dictator"
+    roles: dict = field(default_factory=dict)   # name -> "eng" | "design" | "pm" (DESIGN_REVIEW_STUDY.md)
+    design_mode: str | None = None   # None | "lone" | "review" | "open": building waits for a design lock
+    designer: str | None = None      # with design_mode lone / review
+    check_seconds: dict = field(default_factory=lambda: {"dry_run": 30.0, "squint": 30.0, "ask_client": 45.0})
 
 
 @dataclass
@@ -92,6 +96,10 @@ class Decision:
     thinking: str = ""
     decide: str = ""                 # dictator: the table builds this animal (opens building)
     aligned: str | None = None       # consensus: the animal I'm on board with ("" = withdraw)
+    check: str = ""                  # dry_run (Eng) | squint (Design) | ask_client (PM)
+    check_note: str = ""             # with ask_client: what to ask the client
+    lock: bool = False               # lock the design: building opens
+    review: str = ""                 # design review: my review of the draft
 
     def brief(self) -> dict:
         d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
@@ -115,7 +123,8 @@ def clock(t: float) -> str:
 
 
 class LiveGame:
-    def __init__(self, world: World, agents: list, cfg: LiveConfig, start_region: str | None = None):
+    def __init__(self, world: World, agents: list, cfg: LiveConfig, start_region: str | None = None,
+                 checker=None):
         self.world, self.agents, self.cfg = world, agents, cfg
         self.start_region = start_region
         self.rng = random.Random(cfg.seed)
@@ -139,6 +148,9 @@ class LiveGame:
         self.decided: str | None = None             # dictator's call
         self.aligned: dict = {}                     # consensus: name -> animal
         self.decision_at: float | None = None       # when building was opened
+        self.checker = checker                      # (kind, name, pad strokes, note) -> what they learn
+        self.locked_at: float | None = None
+        self.reviews: dict = {}                     # name -> review text (design review)
         self._taken: set = set()                    # line ends someone is already carrying on
         self.traced: dict = {}                      # sketch stroke number -> domino ids laid for it
         self.t = 0.0
@@ -177,6 +189,8 @@ class LiveGame:
                 x0, y0, x1, y1 = t["area"]
                 verb = "taking dominoes away" if t["kind"] == "take_down" else "looking closely"
                 out.append(f"{o} is {verb} around {where((x0 + x1) / 2, (y0 + y1) / 2)}")
+            elif t["kind"] == "check":
+                out.append(f"{o} is {t['label']}")
         return out
 
     def overlay(self, text: str, loc) -> str:
@@ -203,6 +217,8 @@ class LiveGame:
             return f"Taking down dominoes in {task['area']}: {task['removed']} removed so far."
         if task["kind"] == "inspect":
             return f"Inspecting {task['area']}."
+        if task["kind"] == "check":
+            return f"You're {task['label']}."
         return task["kind"]
 
     def observe(self, name: str) -> dict:
@@ -366,7 +382,34 @@ class LiveGame:
         a = " ".join(str(s or "").lower().replace("-", " ").strip("<>").split())
         return "" if a in ("the animal", "name of the animal", "animal") else a
 
+    CHECK_ROLE = {"dry_run": "eng", "squint": "design", "ask_client": "pm"}
+
+    def _review_missing(self) -> list:
+        need = {r for r in self.cfg.roles.values()} - {self.cfg.roles.get(self.cfg.designer)}
+        done = {self.cfg.roles.get(n) for n in self.reviews}
+        return sorted(need - done)
+
+    def design_status(self, name: str) -> str:
+        mode = self.cfg.design_mode
+        if not mode:
+            return ""
+        if self.locked_at is not None:
+            return f"The design was locked at {clock(self.locked_at)}; building is open."
+        d = self.cfg.designer
+        if mode == "lone":
+            return (f"{'You design' if d == name else d + ' designs'} alone; nothing can be built until "
+                    f"{'you lock' if d == name else 'they lock'} the design.")
+        if mode == "review":
+            miss = self._review_missing()
+            who = "you" if d == name else d
+            return (f"{who.capitalize()} drafts the design; it can only be locked once every other role has "
+                    "reviewed it" + (f" (still to review: {', '.join(r.upper() if r == 'pm' else r.capitalize() for r in miss)})" if miss else " (all reviews in)") +
+                    f". Nothing can be built until {who} locks it.")
+        return "Nothing can be built until someone locks the design."
+
     def building_open(self) -> bool:
+        if self.cfg.design_mode and self.locked_at is None:
+            return False
         if self.cfg.decision == "dictator":
             return self.decided is not None
         if self.cfg.decision == "consensus":
@@ -375,6 +418,8 @@ class LiveGame:
         return True
 
     def decision_status(self, name: str) -> str:
+        if self.cfg.design_mode:
+            return self.design_status(name)
         mode = self.cfg.decision
         if mode == "dictator":
             d = self.cfg.dictator
@@ -393,6 +438,8 @@ class LiveGame:
         return ""
 
     def _decisions(self, decisions: dict, rec: dict):
+        if self.cfg.design_mode:
+            self._design_decisions(decisions, rec)
         mode = self.cfg.decision
         was_open = self.building_open()
         for n, d in decisions.items():
@@ -424,6 +471,56 @@ class LiveGame:
             rec["events"].append({"type": "building_closed", "t": self.t})
             for m in self.by_name:
                 self.inbox[m].append(f"[{clock(self.t)}] Someone withdrew: the table is no longer aligned, so no new building starts.")
+
+    def _design_decisions(self, decisions: dict, rec: dict):
+        mode, d = self.cfg.design_mode, self.cfg.designer
+        for n, dec in decisions.items():
+            if dec.review and mode == "review" and n != d and self.locked_at is None:
+                self.reviews[n] = dec.review[:600]
+                rec["events"].append({"type": "review", "who": n, "role": self.cfg.roles.get(n), "text": dec.review[:600]})
+                if d in self.by_name:
+                    self.inbox[d].append(f"[{clock(self.t)}] {n} ({self.cfg.roles.get(n, '').upper()}) reviewed the draft: {dec.review[:600]}")
+                    self.wake[d].append(f"{n} reviewed your draft")
+        for n, dec in decisions.items():
+            if not dec.lock or self.locked_at is not None:
+                continue
+            if mode in ("lone", "review") and n != d:
+                self.inbox[n].append(f"Only {d} can lock the design.")
+                continue
+            if mode == "review" and self._review_missing():
+                self.inbox[n].append("You can't lock yet: still waiting for a review from "
+                                     + ", ".join(self._review_missing()) + ".")
+                continue
+            if not self.pad_strokes:
+                self.inbox[n].append("There's nothing on the pad to lock yet.")
+                continue
+            self.locked_at = self.t
+            self.decision_at = self.t
+            rec["events"].append({"type": "lock", "who": n, "t": self.t, "sketch": list(self.pad_strokes)})
+            for m in self.by_name:
+                if m != n:
+                    self.inbox[m].append(f"[{clock(self.t)}] {n} locked the design: building is open.")
+                    self.wake[m].append("the design was locked")
+
+    def _start_check(self, n: str, d, rec: dict) -> bool:
+        kind = d.check
+        if kind not in self.CHECK_ROLE:
+            return False
+        role = self.cfg.roles.get(n)
+        if role != self.CHECK_ROLE[kind]:
+            self.inbox[n].append(f"Only the {self.CHECK_ROLE[kind].upper() if kind == 'ask_client' else self.CHECK_ROLE[kind].capitalize()} "
+                                 f"can do that ({kind.replace('_', ' ')}).")
+            return False
+        if self.checker is None:
+            return False
+        result = self.checker(kind, n, list(self.pad_strokes), d.check_note)
+        secs = self.cfg.check_seconds.get(kind, 30.0)
+        label = {"dry_run": "playing the fall through the sketch in their head",
+                 "squint": "studying the sketch as a stranger would see it",
+                 "ask_client": "away talking to the client"}[kind]
+        self.task[n] = {"kind": "check", "check": kind, "ends": self.t + secs, "result": result, "label": label}
+        rec["events"].append({"type": "check_started", "who": n, "check": kind, "note": d.check_note[:300]})
+        return True
 
     def _pad(self, decisions: dict, rec: dict) -> set:
         """Picking up, passing, putting down and sketching. Returns who sketched this beat
@@ -458,6 +555,11 @@ class LiveGame:
                 self.wake[d.pad_to].append(f"{h} handed you the scratch pad")
                 rec["events"].append({"type": "pad", "who": h, "what": "gave", "to": d.pad_to})
         takers = [n for n in names if decisions[n].pad == "take" and n != self.pad_holder]
+        if self.cfg.design_mode == "lone":            # only the designer draws
+            for n in takers:
+                if n != self.cfg.designer:
+                    self.inbox[n].append(f"Only {self.cfg.designer} draws on the pad: they design alone.")
+            takers = [n for n in takers if n == self.cfg.designer]
         if self.cfg.decision == "dictator":          # only the dictator draws the plan
             for n in takers:
                 if n != self.cfg.dictator:
@@ -571,6 +673,8 @@ class LiveGame:
                                                    **({"pointing": msg["pointing"]} if "pointing" in msg else {})}]})
 
     def _start_task(self, n: str, d: Decision, rec: dict):
+        if d.check and self._start_check(n, d, rec):   # a role check takes them away whatever "do" says
+            return
         if d.do in ("continue", "walk") or d.do not in DOS:
             return
         if d.do == "stop":
@@ -825,6 +929,11 @@ class LiveGame:
                                          + (f"; {left} still there." if left else "."))
                     self.wake[n].append("you finished taking down")
                     self.task[n] = None
+            elif task["kind"] == "check" and self.t + cfg.beat >= task["ends"]:
+                self.inbox[n].append(task["result"])
+                self.wake[n].append("your check finished")
+                rec["events"].append({"type": "check", "who": n, "check": task["check"], "result": task["result"]})
+                self.task[n] = None
             elif task["kind"] == "inspect" and self.t + cfg.beat >= task["ends"]:
                 report = eye_inspect(self.world, task["area"])
                 self.inbox[n].append(report)
@@ -916,6 +1025,10 @@ class LiveGame:
         out, self.pushed_world = push_world(self.world, self.start_region, self.cfg.time_limit,
                                             self.cfg.reveal_threshold)
         self.log["push"] = out
+        self.log["design"] = {"mode": self.cfg.design_mode, "designer": self.cfg.designer, "roles": self.cfg.roles,
+                              "locked_at": self.locked_at, "reviews": dict(self.reviews),
+                              "locked_sketch": next((e["sketch"] for r in self.log["turns"] for e in r["events"]
+                                                     if e["type"] == "lock"), None)}
         self.log["decision"] = {"mode": self.cfg.decision, "dictator": self.cfg.dictator,
                                 "animal": self.decided, "open_at": self.decision_at,
                                 "aligned": dict(self.aligned)}

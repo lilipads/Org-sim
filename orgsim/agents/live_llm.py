@@ -257,6 +257,10 @@ class LiveLLMAgent(LiveAgentBase):
             sketch_clear=bool(d.get("sketch_clear")),
             decide=str(d.get("decide") or "") if isinstance(d.get("decide"), str) else "",
             aligned=d.get("aligned") if isinstance(d.get("aligned"), str) else None,
+            check=str(d.get("check") or "").lower().replace(" ", "_") if isinstance(d.get("check"), str) else "",
+            check_note=str(d.get("check_note") or "")[:400],
+            lock=bool(d.get("lock")) and d.get("lock") not in ("false", "no"),
+            review=str(d.get("review") or "") if isinstance(d.get("review"), str) else "",
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 

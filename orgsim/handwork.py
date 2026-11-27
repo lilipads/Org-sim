@@ -494,6 +494,21 @@ def _leaving(raw: dict, p: tuple, close) -> list:
     return out
 
 
+# A separate shape (an eye, a dot, a stroke touching nothing else) can't be where the run starts.
+# Off until the overstaffing runs that started under the old rule have finished (DESIGN_REVIEW_STUDY.md).
+SKIP_DETACHED_START = False
+
+
+def _detached(raw: dict, close) -> set:
+    out = set()
+    for k, p in raw.items():
+        others = [q for kk, pp in raw.items() if kk != k for q in pp]
+        closed = len(p) > 2 and close(p[0], p[-1])
+        if closed or not any(close(a, b) for a in p for b in others):
+            out.add(k)
+    return out
+
+
 def start_point(raw: dict, close) -> tuple:
     """Where the run should start: where stroke 1 begins, unless lines leave there in
     directions a single falling domino can't feed (more than about 100 degrees apart);
@@ -501,10 +516,13 @@ def start_point(raw: dict, close) -> tuple:
     def spread(p):
         dirs = _leaving(raw, p, close)
         return max((abs(angle_diff(a, b)) for a in dirs for b in dirs), default=0.0)
-    first = raw[min(raw)]
+    skip = _detached(raw, close) if SKIP_DETACHED_START else set()
+    if len(skip) == len(raw):
+        skip = set()
+    first = raw[min(k for k in raw if k not in skip)]
     if spread(first[0]) <= 100:
         return first[0]
-    ends = [pts[i] for pts in raw.values() for i in (0, -1)]
+    ends = [pts[i] for k, pts in raw.items() if k not in skip for i in (0, -1)]
     ok = [e for e in ends if spread(e) <= 100]
     if not ok:
         return first[0]
