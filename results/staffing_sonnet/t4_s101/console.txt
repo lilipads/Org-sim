@@ -109,3 +109,12 @@
 [  915s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 89
     Leo -> everyone: Top tip is laid. I'm checking the joint now to see if it's dark. Keep clear for a few seconds.
     (Priya held a thought)
+[  928s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 93
+    Tom -> everyone: Leo, I just had a close look and the top tip is still pale. It's not hooked in yet. It looks like the first domino of the tip sits a little off the end of the top body line, so a small nudge right at 
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  939s] 7:15 asked Maya,Priya,Leo | dominoes 117 | calls 96
+    Priya -> everyone: Tom, Leo, I'll take that joint so we don't all reach in. The tip leaves the body line at too sharp an angle, so I'm bridging it with a couple of dominoes that curve round into the tip. Please keep cle
+    (Leo held a thought)
+    (Maya held a thought)
