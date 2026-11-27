@@ -16,6 +16,26 @@ The plain game already has the tension reviews feed on. Some work is **visible a
 long lines. Some is **invisible glue**: drawing the plan, laying the start, checking joins, fixing other
 people's breaks, staying out of the way.
 
+## 1b. Players who differ enough to rank
+
+For reviews to be checkable, players must really differ in what they contribute. Two changes from Part 1:
+
+* **Wider hands.** Speed drawn from 0.4-2.5× (was 0.6-1.6×) and steadiness from 0.3-3.0× placement
+  error (was 0.5-2.0×). Fast-and-sloppy, slow-and-precise and everything in between show up at the same
+  table. A sloppy builder leaves breaks for someone else to fix, which is exactly the contribution
+  reviews tend to miss.
+* **Working styles.** Each player at a table of 4 gets one of four styles, on top of their personality,
+  rotated across seeds so styles and personalities aren't tied:
+  * *Organiser*: "You naturally take charge: you like to set the plan and keep everyone coordinated."
+  * *Builder*: "You like to pick a piece of work and get it done, quietly and well."
+  * *Checker*: "You like to check work carefully and put right whatever's wrong, wherever it is."
+  * *Connector*: "You keep everyone informed and energised, and you like being where the action is."
+
+  These are described positively, like the personalities, and they aren't roles: anyone may still do
+  anything. They give each table a predictable spread (one person who mostly talks, one who mostly
+  builds, one who mostly fixes), so the oracle's ranking separates clearly. That makes it visible when
+  a review system ranks them differently.
+
 ## 2. What everyone is told
 
 Every player is told, up front and in the same words in every condition, how they are evaluated.
@@ -46,16 +66,81 @@ A separate AI agent with the same model, who doesn't build. It's realistic about
   manager reads them with its own notes, then writes a 1-5 rating and one sentence of justification for
   each person (and in forced ranking, must fit the curve).
 
-## 4. Ground truth: who actually contributed
+## 4. Ground truth: the oracle
 
-The simulator knows exactly what happened, so every rating can be checked against it:
+The oracle is not a judge model. It is code that computes credit from the complete log: who placed every
+domino and when, every fix, every pad stroke and the physics. It answers "what did each person
+contribute?" through several separate lenses, because no single number is fair. Reviews are compared
+against each lens, and the main ground truth is the composite in 4.5.
 
-* **Built:** dominoes the player laid that fell in the final push.
-* **Marginal contribution (leave-one-out):** remove only that player's dominoes from the final table,
-  push again, and count how many fewer dominoes fall. This credits the start domino, the joins and the
-  small fixes that whole lines depend on: a 3-domino bridge can be worth 60.
-* **Glue work:** inspections, fixes to other people's lines, re-standing others' knocked-over work, and
-  drawing the plan.
+### 4.1 Work, judged locally: "would your part have fallen if it had been fed?"
+
+Every domino is credited to the person who placed it (re-standing a knocked-over domino doesn't change
+who placed it). Each person's dominoes are grouped into their segments: their runs along each stroke. For each segment
+the oracle **pushes the segment's own first domino** and counts how many of that person's dominoes in the
+segment fall. That is the segment's **sound length**.
+
+This judges each person's work on its own terms. **Someone who laid a perfect tail fin downstream of a
+broken body gets full credit for the fin**, even though it never fell in the real push. The upstream
+failure is charged to whoever owned the break (see 4.2), not to everyone downstream of it.
+Conversely, a long but sloppy line gets credit only up to its first internal break.
+
+**Work credit** = sound length, counted only for dominoes that belong to the plan (on or near a
+stroke that was on the pad at the end). Padding off the plan earns nothing.
+
+### 4.2 Joins and breaks: who owns each seam
+
+Every place where the run passes from one person's domino to another's is a **seam**. The oracle checks
+each seam geometrically (would the upstream domino knock the downstream one?), independently of whether
+the run actually got there.
+
+* A **working seam** is credited to whoever placed the domino that makes the connection; if both people
+  did, they share it.
+* A **break** (a seam that doesn't work, or a gap inside a segment) is charged to whoever placed the
+  domino just before the gap, unless someone else later took responsibility for that spot (said "mine" or
+  started a fix there).
+* The **start domino**, and the first segment leaving it, are credited like any other work. They aren't
+  favoured simply for being upstream.
+
+### 4.3 Fixes and criticality (leave-one-out, used where it fits)
+
+Leave-one-out (remove a person's dominoes, push again, count the difference) favours whoever laid the
+dominoes nearest the start, so it isn't used to rank people. It's used to measure how critical **fixes**
+were:
+
+* For each fix (a nudge, a bridge, a re-laid stretch), the oracle records **how many dominoes became
+  reachable from the start at that moment**, measured just before and just after the fix. A 3-domino
+  bridge that reconnects a 60-domino tail is worth 60.
+* **Fix credit** = the reach gained by that person's fixes that still stands at the push. A fix later
+  undone earns nothing.
+
+### 4.4 Other glue
+
+Recorded separately, not scored as dominoes: drawing the plan (pad strokes that were built), inspections
+that led to a fix (by anyone, within 60 s, in that area), and re-standing others' knocked-over dominoes.
+
+### 4.5 The composite
+
+**Contribution** = work credit + seam credit + fix credit − dominoes lost in breaks you own, in units of
+dominoes. Plan authorship and the other glue are reported next to it, not folded in. Ratings are compared
+with the composite and with each lens on its own, so we can say what each review system is actually
+tracking: volume, visibility, upstream position, or real contribution.
+
+### 4.6 A worked example
+
+The run goes start → body (Ana) → tail (Ben). Ana's body has a gap two-thirds of the way along. Ben's tail
+is perfect.
+
+| Lens | Ana | Ben |
+|---|---|---|
+| Fell in the real push | 40 (up to the gap) | 0 |
+| Leave-one-out | 40 | 0 |
+| Work credit (local) | 40 (sound up to her break) | **30** (whole tail would fall if fed) |
+| Breaks owned | −20 (the 20 body dominoes stranded past her gap) | 0 |
+| Composite | 20 | **30** |
+
+If Cal then bridges Ana's gap with 2 dominoes, 50 more dominoes become reachable, so Cal's fix credit is
+50, and Ana's break no longer strands anything.
 
 ## 5. What we measure
 
