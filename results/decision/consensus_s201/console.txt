@@ -1,2 +1,8 @@
 pitches: [('Maya', 'owl', 0.0), ('Tom', 'sleeping cat curled up', 1.0), ('Priya', 'owl', 0.0), ('Leo', 'elephant', 0.3)]
 ]
+[   15s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Okay, so what I got from the client: it's for a children's bookshop window, and they want something calm and wise. They also mentioned the regulars bring treats for the shop cat, but that was in passi
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
