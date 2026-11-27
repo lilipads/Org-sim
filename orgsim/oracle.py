@@ -263,6 +263,9 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
         out["weights"][str(wgt)] = {n: sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
                                     for n in names}
     out["contribution"] = out["weights"][str(FIX_W)]
+    # planning counted in: drawing the whole plan is worth one average person's share of the sound work
+    avg = sum(sound.values()) / max(1, len(names))
+    out["with_planning"] = {n: round(out["contribution"][n] + planning[n] * avg, 1) for n in names}
     return out
 
 
@@ -273,5 +276,5 @@ if __name__ == "__main__":
         json.dump(res, open(os.path.join(folder, "oracle.json"), "w"), indent=1)
         print(folder)
         for n, p in res["people"].items():
-            print(f"  {n:6} contribution {res['contribution'][n]:4}  {p}")
+            print(f"  {n:6} contribution {res['contribution'][n]:4} (with planning {res['with_planning'][n]:5})  {p}")
         print(f"  open breaks: {[(b['owner'], b['at']) for b in res['open_breaks']]}")

@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "default (small)",
+  "wall_seconds": 450.0,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "knife or dagger with a looped handle",
+      "leaf or feather outline",
+      "fish or sword-like shape"
+    ],
+    [
+      "fish with a pointed nose and a loop at the tail end",
+      "leaf or feather with a curled base",
+      "dagger or spoon-like blade with a knot at the handle"
+    ],
+    [
+      "fish with open mouth",
+      "leaf with curled stem",
+      "sword or knife blade"
+    ]
+  ],
+  "placed": 121,
+  "fell": 121,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "2:45",
+  "messages": 54,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 10,
+    "Hana": 19,
+    "Jack": 13,
+    "Omar": 9
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 148,
+    "failed": 0,
+    "input_tokens": 290,
+    "cache_creation_tokens": 781588,
+    "cache_read_tokens": 437508,
+    "output_tokens": 133908,
+    "seconds": 1171.7,
+    "api_equivalent_usd": 0.2277,
+    "cached": 6
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 32
+    },
+    "Omar": {
+      "dominoes_fell": 51
+    },
+    "Hana": {
+      "dominoes_fell": 0
+    },
+    "Jack": {
+      "dominoes_fell": 38
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,66 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 32,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Omar": {
+   "sound_work": 51,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Hana": {
+   "sound_work": 0,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 1.0
+  },
+  "Jack": {
+   "sound_work": 38,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Sofia": 32,
+   "Omar": 51,
+   "Hana": 0,
+   "Jack": 38
+  },
+  "10": {
+   "Sofia": 32,
+   "Omar": 51,
+   "Hana": 0,
+   "Jack": 38
+  },
+  "20": {
+   "Sofia": 32,
+   "Omar": 51,
+   "Hana": 0,
+   "Jack": 38
+  }
+ },
+ "contribution": {
+  "Sofia": 32,
+  "Omar": 51,
+  "Hana": 0,
+  "Jack": 38
+ },
+ "with_planning": {
+  "Sofia": 32.0,
+  "Omar": 51.0,
+  "Hana": 30.2,
+  "Jack": 38.0
+ }
+}
