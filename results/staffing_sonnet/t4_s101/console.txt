@@ -118,3 +118,34 @@
     Priya -> everyone: Tom, Leo, I'll take that joint so we don't all reach in. The tip leaves the body line at too sharp an angle, so I'm bridging it with a couple of dominoes that curve round into the tip. Please keep cle
     (Leo held a thought)
     (Maya held a thought)
+[  948s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 113 | calls 100
+    Priya -> everyone: The bridge wouldn't fit, the joint's too tight. I'm re-laying the whole top tip from the pad instead, so please keep clear of that corner for about half a minute.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  953s] 7:45 asked Maya,Tom,Leo | dominoes 105 | calls 103
+    Leo -> everyone: Okay Priya, it's yours. I'm staying clear so we don't double up. Shout when it's down and I'll check that it's dark.
+    Tom -> everyone: Sounds good Priya, it's all yours. I'll stay clear and look it over once it's down.
+    (Maya held a thought)
+[  959s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 107 | calls 107
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Still laying the top tip, about half down. Keep clear of that corner and I'll check it's dark right after.
+    Maya -> everyone: Sounds good Priya, it's yours. I'm staying clear. I'll clear the strays once the tip goes dark.
+[  965s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 104 | calls 111
+    Priya -> everyone: Thanks Maya. Ten more to go on the tip, then I'll check it's dark.
+[  973s] 8:30 asked Maya,Tom,Leo | dominoes 107 | calls 114
+    Tom -> everyone: Priya, I looked over that corner: the body lines are all dark, just the tip waiting on yours. Go ahead, I'm staying clear.
+[  979s] 8:45 asked Maya,Priya,Leo | dominoes 107 | calls 117
+    Priya -> everyone: Tip's down, but it still looks pale to me. I'm taking a close look at the joint now, so please keep clear for a few seconds.
+[  991s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 115 | calls 121
+    Tom -> Priya: Priya, the top body comes in heading down, so the tip's a sharp turn off it. The bottom body end is running up-right, right in line with the tip. Could you hook the tip's first domino off that end ins
+    Maya -> everyone: Priya, the tip points the same way the bottom line ends, so I'm hooking it off the bottom line end. Quick bridge, hands off for a few seconds!
+    (Leo held a thought)
+    (Priya held a thought)
+[  996s] 9:15 asked Tom,Priya | dominoes 119 | calls 123
+    Priya -> everyone: Maya, Tom, yes, same idea. I'm mid-connect from the bottom line end into the tip, eight down, nine to go. Maya, can you hold off so we don't bump? Hands off that joint!
+[ 1003s] 9:30 asked Maya,Tom | dominoes 122 | calls 125
+    Maya -> everyone: Got it Priya, it's all yours. I'm hands off that joint now.
+    Tom -> everyone: Got it Priya, it's all yours, I'm clear. Maya, let her finish the joint!
+[ 1011s] 9:45 asked Maya,Tom,Priya | dominoes 122 | calls 128
+    Priya -> everyone: Last nudge at the joint, hands off for a few seconds!

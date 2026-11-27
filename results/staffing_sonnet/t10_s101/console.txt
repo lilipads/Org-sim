@@ -43,3 +43,33 @@
     Hana -> everyone: Priya, Leo, start tracing the tail fins now, three and four. They'll wait for the body lines to reach the tail, so no rush on timing. Maya, Tom, you're close together at the nose, so watch for bumps t
     (Omar held a thought)
     (Sofia held a thought)
+[  986s] 1:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 22 | calls 60
+    Sofia -> everyone: Fish it is, love it! I'll watch the nose and the tail joint and patch any gaps once the lines are up.
+    Omar -> everyone: Fish works for me too, Hana, nice sketch. I'll float and cover gaps once the lines are down.
+    (Priya held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  995s] 1:30 asked Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 32 | calls 66
+    Sofia -> everyone: Nose looks solid, everything's connected so far. Priya, Leo, I don't see your hands on the tail yet. I'll start on the upper fin, stroke 3. Leo, can you take stroke 4?
+    (Hana held a thought)
+    (Jack held a thought)
+[ 1004s] 1:45 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 42 | calls 74
+    Priya -> everyone: Thanks Sofia, but I've already got the upper fin queued. It'll start as soon as the top line reaches the tail, so no need to double up. If Leo hasn't started the lower fin, maybe back him up on that o
+    (Grace held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Sofia held a thought)
+[ 1012s] 2:00 asked Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 52 | calls 81
+    Sofia -> everyone: Got it Priya, you keep the upper fin. I don't see Leo's hands on the lower one yet, so I'll take stroke 4. Leo, if you're already on it, shout and I'll back off.
+    (Leo held a thought)
+    (Hana held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sam held a thought)

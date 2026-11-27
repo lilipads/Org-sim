@@ -104,6 +104,61 @@ Every piece of work goes through queues that are timestamped in the log:
 
 The analysis reports where the time went, per condition, and where the queue was longest.
 
+## 2.8 Information flow: what agents write, and who reads it
+
+**Default assumptions (all agent experiments):**
+
+* Different people's agents never talk to each other.
+* Agents can read shared artifacts: the scratch pad (the design spec) and the table itself.
+* Agents can write (notes, short docs, a sketch on their owner's own pad), but what they write is not
+  distributed. It sits in a shared folder (or with their owner) until a human points someone to it
+  ("have a look at the note my agent left on the tail").
+
+**Channels, as conditions:**
+
+| Channel | What agents can do | What it costs humans |
+|---|---|---|
+| Silent | Report only to their owner | nothing |
+| Pull | Write docs to a shared folder anyone may open | reading time, only if they choose to |
+| Push | Message any human (a Slack equivalent): ask questions, flag a clash; email docs to people | each message lands in an inbox; reading takes time; ignoring it is free |
+| Push, high volume | As push, but agents report every change and every doubt | as push, with many more items |
+
+**Human attention.** Every message and doc has a sender (a named colleague, or a colleague's agent) and a
+length. Humans see their inbox as a list (sender, subject, size) and choose what to open; opening costs
+time in proportion to length, away from the table and the conversation. Being "asked to read" something
+can come from a colleague out loud ("Priya, please read my spec") or from an agent's message.
+
+**What we look for:**
+
+* **H-A, orphaned knowledge (silent):** clashes between two people's agents (both building the same
+  part, mismatched conventions) are found late, and most breaks sit where one person's agents meet
+  another's.
+* **H-B, more channels, not more knowledge (push):** messages multiply tenfold, and the one message that
+  mattered is missed more often as volume rises. Find the volume at which push stops beating silent.
+* **H-C, the sender discount:** the same content is opened and acted on less when it comes from an agent
+  than from a colleague. Missing a colleague's doc draws an apology or a catch-up; missing an agent's
+  draws nothing.
+* **H-D, borrowed pressure:** a colleague asking out loud gets the doc read. "My agent will send you the
+  spec" loses that pressure, even though the doc is identical.
+* **H-E, the router:** one person becomes the de facto reader and router of agents' docs, a new
+  "chief of staff" role nobody assigned.
+
+**How we test it:**
+
+* **Planted critical messages:** in each game one agent finds something that matters (a clash with
+  another person's agents, or a broken join on the main run) and writes it up. Measure whether it is
+  read, by whom, how long it takes, and whether anyone acts on it.
+* **Sender swap:** run the same game with the planted doc credited either to a colleague or to that
+  colleague's agent; content identical. This isolates the sender discount.
+* **Volume dial:** low, medium and high agent message rates, with the planted message hidden among them.
+* **Measures:** messages and docs written (by agents, by humans); opened; time to open; acted on;
+  acknowledgements, apologies and catch-ups in the conversation; late clashes; who routes docs to whom.
+
+**Caveat on psychology.** The "humans" are AI players. Overload, guilt about ignoring a colleague, and
+disrespect for unread docs only appear if the AI stand-ins behave that way. The study shows whether they
+do, which is interesting either way, but posts should not present it as human psychology. Where needed,
+attention limits are built in as mechanics (reading takes time, inboxes are finite) rather than assumed.
+
 ## 3. Experiments
 
 All runs: 10-minute games, 30x20 table, same supply, same physics, the same model for every AI player
