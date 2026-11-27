@@ -80,10 +80,11 @@ who placed it). Each person's dominoes are grouped into their segments: their ru
 the oracle **pushes the segment's own first domino** and counts how many of that person's dominoes in the
 segment fall. That is the segment's **sound length**.
 
-This judges each person's work on its own terms. **Someone who laid a perfect tail fin downstream of a
-broken body gets full credit for the fin**, even though it never fell in the real push. The upstream
-failure is charged to whoever owned the break (see 4.2), not to everyone downstream of it.
-Conversely, a long but sloppy line gets credit only up to its first internal break.
+A segment is split wherever it has a gap, and each stretch is pushed from its own first domino. This
+judges each person's work on its own terms. **Someone who laid a perfect tail fin downstream of a broken
+body gets full credit for the fin**, even though it never fell in the real push. The upstream failure is
+charged to whoever owns the break (see 4.2), not to everyone downstream of it. Wobbly dominoes that
+wouldn't fall even when fed earn nothing.
 
 **Work credit** = sound length, counted only for dominoes that belong to the plan (on or near a
 stroke that was on the pad at the end). Padding off the plan earns nothing.
@@ -121,8 +122,9 @@ that led to a fix (by anyone, within 60 s, in that area), and re-standing others
 
 ### 4.5 The composite
 
-**Contribution** = work credit + seam credit + fix credit − dominoes lost in breaks you own, in units of
-dominoes. Plan authorship and the other glue are reported next to it, not folded in. Ratings are compared
+**Contribution** = work credit + seam credit + fix credit − dominoes stranded by breaks you own that are
+still open at the push (anyone's dominoes, your own included), in units of dominoes. A break that
+someone else fixes stops costing you; the fixer earns the fix credit. Plan authorship and the other glue are reported next to it, not folded in. Ratings are compared
 with the composite and with each lens on its own, so we can say what each review system is actually
 tracking: volume, visibility, upstream position, or real contribution.
 
@@ -135,12 +137,12 @@ is perfect.
 |---|---|---|
 | Fell in the real push | 40 (up to the gap) | 0 |
 | Leave-one-out | 40 | 0 |
-| Work credit (local) | 40 (sound up to her break) | **30** (whole tail would fall if fed) |
-| Breaks owned | −20 (the 20 body dominoes stranded past her gap) | 0 |
-| Composite | 20 | **30** |
+| Work credit (local) | 60 (40 before the gap + 20 after it, all sound) | **30** (whole tail would fall if fed) |
+| Breaks owned | −50 (her 20 past the gap + Ben's 30) | 0 |
+| Composite | 10 | **30** |
 
-If Cal then bridges Ana's gap with 2 dominoes, 50 more dominoes become reachable, so Cal's fix credit is
-50, and Ana's break no longer strands anything.
+If Cal then bridges Ana's gap with 2 dominoes, 50 more dominoes become reachable: Cal's fix credit is
+50, Ana's break is closed so her composite becomes 60, and Ben keeps 30.
 
 ## 5. What we measure
 
