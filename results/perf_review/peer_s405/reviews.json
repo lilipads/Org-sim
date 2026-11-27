@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "checker",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.29,
+   "error": 0.95
+  },
+  "Tom": {
+   "speed": 0.9,
+   "error": 2.52
+  },
+  "Priya": {
+   "speed": 0.82,
+   "error": 1.2
+  },
+  "Leo": {
+   "speed": 0.98,
+   "error": 0.36
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Tom got the start-to-joint stroke through early so everyone could branch off it, kept running checks and calling out what looked pale, and stayed off others' lines, though his late bridging overlapped with Priya's."
+   },
+   "Priya": {
+    "rating": 3,
+    "why": "Priya came up with the fish idea and kept the team coordinated, but her sketch was left unfinished at first and her belly and lower tail were laid backwards, which cost several minutes and left the finish tight."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo diagnosed the reversed top line correctly, redid it from the joint outward and kept the team informed, though he asked others to hold off on lines rather than splitting the repair work more evenly."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "Maya was considerate and stayed clear of others' lines, helped with the nose stretch and joint nudges, though her belly was reported pale early and her concrete contribution was modest."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya picked a clear fish design and sketched it on the pad, and she coordinated well and stayed on the belly and tail until they were down, but her top line, belly and tail were laid backwards at first and that cost a lot of time."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "Leo diagnosed the backwards top line, redid it from the joint to the nose, and gave clear updates and coordination throughout, which made the biggest difference to the result."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "She was careful and kept clear of the others' lines, and she offered to carry the belly's last stretch to the nose, but she did less building overall and her belly was laid in the wrong direction at first."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "He laid the start run through to the joint early, then kept testing and reporting what was dark and what was pale, and he bridged the joint in the last minutes."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He worked out that the top line was laid facing the wrong way, redid it from the joint out to the nose, and explained the fix clearly so the rest of us could follow."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "Stayed clear of others' lines, flagged the pale belly honestly, and helped close the nose end, though her own belly line ended up needing a redo by Priya."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Got the start run through to the tail joint early, gave clear status reports and test-run coordination, and offered to help, though he drifted into the joint area at the end and the test run never happened."
+   },
+   "Priya": {
+    "rating": 3,
+    "why": "Set a clear fish plan and communicated warmly, but her top line was laid backwards and her belly and tail needed repeated redos, which ate most of the clock, and she declared it done without a real test run."
+   }
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.0
+  },
+  "Tom": {
+   "rating": 4.33
+  },
+  "Priya": {
+   "rating": 3.33
+  },
+  "Leo": {
+   "rating": 4.67
+  }
+ }
+}

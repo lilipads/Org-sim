@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 294.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish seen from the side",
+      "fish with a fishing line hanging from its mouth",
+      "leaf or almond shape with a tail"
+    ],
+    [
+      "fish with fishing line",
+      "simple fish outline",
+      "ichthys-style fish symbol"
+    ],
+    [
+      "fish seen from the side",
+      "leaf or almond shape with a stem",
+      "lens or eye shape with a curved tail"
+    ]
+  ],
+  "placed": 122,
+  "fell": 122,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 34,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 9,
+    "Priya": 11,
+    "Maya": 7,
+    "Tom": 4
+  },
+  "held_thoughts": 31,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 104,
+    "failed": 0,
+    "input_tokens": 202,
+    "cache_creation_tokens": 428025,
+    "cache_read_tokens": 319859,
+    "output_tokens": 43014,
+    "seconds": 712.9,
+    "api_equivalent_usd": 2.0943,
+    "cached": 6
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

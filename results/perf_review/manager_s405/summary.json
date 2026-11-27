@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 863.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "ichthys (christian fish symbol) drawn as two crossing arcs",
+      "a fish outline in side view, with the tail crossing at the right",
+      "a stylized eel or fish-shaped doodle made of dashed line segments"
+    ],
+    [
+      "ichthys fish symbol",
+      "fish outline with crossed tail",
+      "lens-shaped leaf with crossing lines"
+    ],
+    [
+      "fish outline drawn with broken strokes",
+      "ichthys-style fish symbol made of crossing arcs",
+      "dominoes lined up along a curved path"
+    ]
+  ],
+  "placed": 189,
+  "fell": 131,
+  "completion": 0.693,
+  "team_score": 0.693,
+  "first_domino_at": "0:30",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 15,
+    "Manager": 6,
+    "Priya": 11,
+    "Tom": 12,
+    "Maya": 5
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 155,
+    "failed": 2,
+    "input_tokens": 318,
+    "cache_creation_tokens": 784510,
+    "cache_read_tokens": 450231,
+    "output_tokens": 86019,
+    "seconds": 1518.0,
+    "api_equivalent_usd": 3.9062,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Her top tail fin is dark and connected, and Priya's account fits that, but I never saw her building in six visits, and her claim that the back edge was closed was wrong (the edge was still pale and open). She was candid afterward and her figures were accurate, but her visible contribution was the narrowest on the team."
+    },
+    "Tom": {
+      "rating": 4,
+      "why": "He laid the bottom body line and tail edge, which Leo's account supports, and he kept roles clear and stayed hands-off at the end. I couldn't confirm his corner join, since his hands were at a pale strand near it, but Maya's account fits his and he admitted he hadn't verified the corner and had left the stray standing."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "Her sketch gave the table its shape, and she divided the strokes, deconflicted hands and called a clean hands-off, which makes her leadership the strongest on the team. Her hands-on work was small, and she twice understated how much was still open (about 25+ dominoes), though she owned that in her own assessment."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He set the plan, laid the top body run and gave an accurate 131/177 count that located the break correctly. His own corner fix failed, he left the stray unlifted and he overstated where his hands were, but he admitted all of it, and he called hands-off at the end."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

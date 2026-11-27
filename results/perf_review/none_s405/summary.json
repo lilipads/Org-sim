@@ -1,0 +1,108 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 764.2,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "hook or fishhook shape",
+      "tadpole or comet with a long tail",
+      "swan or bird neck with a looped head"
+    ],
+    [
+      "a single hand-drawn curving line, like a river or path",
+      "a snake or worm with a curled head end",
+      "an abstract pen stroke or squiggle with a loop"
+    ],
+    [
+      "hand-drawn curly line or hook shape",
+      "rope or lasso with a loop at the end",
+      "tadpole or fish-like outline with a tail"
+    ]
+  ],
+  "placed": 249,
+  "fell": 100,
+  "completion": 0.402,
+  "team_score": 0.067,
+  "first_domino_at": "0:45",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 8,
+    "Priya": 13,
+    "Maya": 9,
+    "Tom": 11
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 2,
+    "input_tokens": 288,
+    "cache_creation_tokens": 676922,
+    "cache_read_tokens": 416814,
+    "output_tokens": 79095,
+    "seconds": 1394.2,
+    "api_equivalent_usd": 3.3972,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,129 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 555.4,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming left",
+      "bird in flight",
+      "shrimp or crustacean"
+    ],
+    [
+      "fish swimming left, with a tail fin and a loop-shaped head on the right",
+      "bird or duck in profile, with a long neck and beak",
+      "abstract line drawing of a sea creature or dragon"
+    ],
+    [
+      "fish",
+      "bird",
+      "whale"
+    ]
+  ],
+  "placed": 161,
+  "fell": 161,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 11,
+    "Manager": 6,
+    "Priya": 14,
+    "Tom": 8,
+    "Maya": 7
+  },
+  "held_thoughts": 53,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 0,
+    "input_tokens": 302,
+    "cache_creation_tokens": 714012,
+    "cache_read_tokens": 453384,
+    "output_tokens": 78214,
+    "seconds": 1174.9,
+    "api_equivalent_usd": 3.5306,
+    "cached": 0
+  },
+  "review": "forced",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Maya caught that the belly joint near the start wasn't connecting, re-laid it, and removed Priya's off-sketch curl, and her account is consistent with Priya's on the cleanup. She duplicated effort at the belly and was quiet publicly, and the belly overlap with Priya is still unresolved, so she falls just short of the top.",
+      "curve_imposed": true
+    },
+    "Tom": {
+      "rating": 5,
+      "why": "Tom has the best-corroborated contribution: he built the forked tail, and Priya independently confirmed his fix of the lower fork handoff, which was the break that kept the chain from connecting. He also kept communication short and specific, backed the curl cleanup, and was honest about being slow to catch the lower fork problem.",
+      "curve_imposed": true
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "Priya redrew the blank sketch, laid the top line, bridged the nose joint, kept time and called hands-off discipline, and was honest in private about her curl overreach. That curl cost the team cleanup effort, and her belly claim still overlaps Maya's, so her output is solid but not standout.",
+      "curve_imposed": true
+    },
+    "Leo": {
+      "rating": 1,
+      "why": "Leo picked the design and assigned strokes, and by his own account he spotted the unjoined lower fork, but only Priya credits his coordination and I saw no physical output from him. His blank-pad opening, the belly clash with Maya, and his silence with me leave the biggest evidence gap, so I can't credit him beyond solid, with a rating at the lower end of the middle.",
+      "curve_imposed": true
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

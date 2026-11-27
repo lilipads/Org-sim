@@ -1,0 +1,137 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 13,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 6
+  },
+  "Tom": {
+   "sound_work": 35,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  },
+  "Priya": {
+   "sound_work": 1,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 4
+  },
+  "Leo": {
+   "sound_work": 53,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 3
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 134,
+   "to": 135,
+   "owner": "Maya",
+   "stranded": 32,
+   "dir": 23.7,
+   "piece": [
+    125,
+    135,
+    136,
+    137,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    168,
+    169,
+    170
+   ],
+   "at": [
+    28.1,
+    13.6
+   ]
+  },
+  {
+   "from": 140,
+   "to": 164,
+   "owner": "Priya",
+   "stranded": 4,
+   "dir": 254.1,
+   "piece": [
+    164,
+    165,
+    166,
+    167
+   ],
+   "at": [
+    28.9,
+    11.6
+   ]
+  }
+ ],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Maya": 8,
+   "Tom": 35,
+   "Priya": -4,
+   "Leo": 53
+  },
+  "10": {
+   "Maya": 3,
+   "Tom": 35,
+   "Priya": -9,
+   "Leo": 53
+  },
+  "20": {
+   "Maya": -7,
+   "Tom": 35,
+   "Priya": -19,
+   "Leo": 53
+  }
+ },
+ "contribution": {
+  "Maya": 3,
+  "Tom": 35,
+  "Priya": -9,
+  "Leo": 53
+ },
+ "with_planning": {
+  "Maya": 3.0,
+  "Tom": 35.0,
+  "Priya": 16.5,
+  "Leo": 53.0
+ }
+}

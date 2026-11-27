@@ -1,0 +1,271 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, facing left, with a big forked tail on the right. I've put it on the pad. I'm laying the top line from the nose now. Maya, can you take the bottom line, stroke 2? Tom, you take the ta
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[   38s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Hi! We're doing a fish facing left with a forked tail on the right. Priya, can you pass me the pad? It's still blank, my mistake. I'll sketch the strokes in a few seconds, then we can all start tracin
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   46s] 0:30 asked Maya,Tom,Priya,Leo | dominoes 2 | calls 12
+    Priya -> everyone: Leo, the pad was blank on my end, so I sketched your fish: nose on the left, forked tail on the right. Stroke 1 is the top line, 2 the bottom, 3 the tail. I'm laying stroke 1 now, so the start is goin
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   57s] 0:45 asked Maya,Tom,Leo | dominoes 12 | calls 15
+    Leo -> everyone: Thanks Priya, that sketch is just what I had in mind. You stay on the top line, stroke 1. Maya has the bottom, Tom the tail. I'll take the fin once the body's up, and I'll walk the chain for gaps befo
+    (Tom held a thought)
+    (Maya held a thought)
+[   64s] 1:00 asked Maya,Tom,Priya | dominoes 19 | calls 18
+    Tom -> everyone: Pad looks good now. I've got the tail, I'll trace it as the body reaches the junction.
+    Maya -> everyone: Pad looks good. I've got the bottom line, stroke 2, and I'm on it.
+    (Priya held a thought)
+[   89s] 1:15 asked Leo | dominoes 30 | calls 20
+    Leo -> everyone: Looking good, both lines are growing nicely. Priya, when you get a moment, pass me the pad. I'll sketch a fin underneath and a small eye, and I'll check for gaps once the body meets at the tail.
+[   95s] 1:30 asked Priya | dominoes 38 | calls 21
+    Priya -> everyone: Sure Leo, pad's coming your way. I'm staying on the top line, and the chain's connected so far. Shout if you see a gap near the nose.
+[  107s] 1:45 asked Maya,Tom,Priya,Leo | dominoes 47 | calls 25
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! We're doing a fish facing left with a forked tail. I'm on the top line from the nose, Maya's on the bottom, Tom's on the tail, and Leo's adding the eye and fin. The chain from the start is connect
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  114s] 2:00 asked Maya,Tom,Leo | dominoes 59 | calls 28
+    Leo -> everyone: Pad's with me. I'm laying a small fin under the belly, branching off the bottom line. Once the body meets at the tail I'll walk the chain for gaps.
+    (Maya held a thought)
+    (Tom held a thought)
+[  114s] 2:15 asked - | dominoes 71 | calls 28
+[  125s] 2:30 asked Maya,Tom,Leo | dominoes 83 | calls 31
+    Maya -> everyone: Bottom line's done. Heads up, the start only knocks over a handful right now, it stops where it meets the belly. I'm fixing that joint now. Tom, is the tail going down? I don't see it yet.
+    (Leo held a thought)
+    (Tom held a thought)
+[  164s] 2:45 asked Maya,Tom,Leo | dominoes 89 | calls 35
+    Tom -> everyone: Maya, yes, the tail's going down now, I've got a few in and I'm still laying the fork. Priya, the top line still needs to come across to the tail joint, so shout if you want a hand with it. I'll check
+    (Leo held a thought)
+    (Maya held a thought)
+[  187s] 3:00 asked Maya,Priya,Leo | dominoes 69 | calls 38
+    Leo -> everyone: Maya, the belly joint is a sharp turn where the fin meets the bottom line, not a gap. I'm laying a curved branch off the fin just above the start so it bends into the bottom line. After that I'll chec
+    (Maya held a thought)
+    (Priya held a thought)
+[  200s] 3:15 asked Maya,Leo | dominoes 87 | calls 40
+    Leo -> everyone: Maya, you take the belly up to the nose, I'm running the bottom line across to the tail from the end of my branch now.
+    (Maya held a thought)
+[  210s] 3:30 asked Maya,Priya | dominoes 105 | calls 42
+    Maya -> Leo: Leo, I'm re-laying the belly so it branches right off the start line. Hold off on extra branches there so we don't clash. I'll finish stroke 2 to the tail, then check the chain.
+    Priya -> everyone: Top line's all laid, but it's still pale, so it isn't hooked to the start yet. The belly stops well short of the nose. Maya, I'm carrying the belly up to the nose now, so you can stay in the middle. T
+[  219s] 3:45 asked Maya,Tom,Leo | dominoes 120 | calls 45
+    Tom -> everyone: Priya, the tail joint looks fine. The top line already runs into the junction and I'm about halfway through the fork, 17 to go. Once your belly meets the nose it should all go dark, and then I'll insp
+    (Leo held a thought)
+    (Maya held a thought)
+[  227s] 4:00 asked Priya | dominoes 135 | calls 46
+    Priya -> everyone: Belly's up to the nose now. I'm checking the joint to make sure it actually catches the top line. Tom, nice, once it goes dark we should see the whole thing light up.
+[  238s] 4:15 asked Tom,Priya | dominoes 147 | calls 48
+    Priya -> everyone: Found it, the belly ends just beside the top line at the nose, so it's not catching. I'm bridging that joint now. Once it goes dark the whole fish should light up. Tom, Leo, keep going on the tail and
+    (Tom held a thought)
+[  247s] 4:30 asked Maya,Tom,Leo | dominoes 155 | calls 51
+    Leo -> everyone: Bottom line is across and meets the tail junction now. Priya, once your nose bridge is in, the top line should go dark. I'm going to look over the nose and top now. Tom, shout if the lower fork stalls
+    (Maya held a thought)
+[  261s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 160 | calls 55
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Quick status: the body and the upper half of the tail are connected, and the start knocks over most of it. Two things left. Priya's bridge at the nose has to catch the top line, then the whole top arc
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  275s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 164 | calls 60
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Leo, got it, that handoff is mine. I'm fixing the first couple of dominoes off the junction on the lower fork now, then I'll inspect the nose and the whole chain.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  289s] 5:15 asked Maya,Tom,Leo | dominoes 168 | calls 64
+    Leo -> everyone: Good news: by my trace the start now knocks over everything standing, so the nose and the lower fork both caught. Nobody add loose pieces now. Tom, once your handoff is in, give the tail one more look
+    (Tom held a thought)
+    (Maya held a thought)
+[  316s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 69
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! Quick update: the fish is nearly all connected. I'm finishing the bridge at the nose, about halfway through the last stretch, and by our trace the start already reaches almost everything. Tom has 
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  327s] 5:45 asked Maya,Tom,Leo | dominoes 168 | calls 72
+    Maya -> everyone: Priya, that curl going up from the nose isn't in the sketch and it'll make the fish look like it has a neck. I'm pulling it back above the nose now. Please stop adding to it and just finish the nose j
+    (Tom held a thought)
+[  336s] 6:00 asked Tom,Priya,Leo | dominoes 166 | calls 75
+    Tom -> everyone: Quick update from me: I looked closely at the nose and the chain carries through it. The only loose bits are that little curl up top-left, and Maya's already pulling it. Priya, I'd stop adding up ther
+    (Priya held a thought)
+    (Leo held a thought)
+[  360s] 6:15 asked Maya,Priya,Leo | dominoes 165 | calls 79
+    Leo -> everyone: Maya, thanks for clearing that curl. Priya, just finish the nose joint and leave the rest. Everyone else, small repairs only now, no new pieces. I'll keep watching the nose and the tail.
+    (Priya held a thought)
+    (Maya held a thought)
+[  370s] 6:30 asked Maya,Tom,Priya | dominoes 161 | calls 82
+    Priya -> everyone: Ha, fair enough Maya, that curl was me getting carried away. Thanks for clearing it. Nose bridge is in now, so I'm leaving everything alone and just looking over the nose and the chain for gaps. No ne
+    (Maya held a thought)
+[  382s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 86
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! Status: by my inspection the start carries through every standing domino, so the nose and tail joints both caught. The only oddity is a short stub poking up near the nose, which is harmless. I'm k
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  390s] 7:00 asked Maya,Tom,Leo | dominoes 161 | calls 89
+    Maya -> everyone: Curl's cleared and I looked over the nose. Everything's connected by my trace too, and the only leftover is a tiny stub near the nose that won't hurt the outline. I'm hands off now. Shout if anyone se
+    (Tom held a thought)
+[  397s] 7:15 asked Tom,Priya,Leo | dominoes 161 | calls 92
+[  410s] 7:30 asked - | dominoes 161 | calls 93
+[  410s] 7:45 asked - | dominoes 161 | calls 93
+[  417s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 97
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Two minutes, and the whole fish is connected. Hands off everyone, let's not bump it. Fingers crossed for a big happy fish!
+    (Tom held a thought)
+[  425s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 101
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! We're in good shape: the fish is one connected run from the start, the tail and nose joints both caught, and we're all hands off so nobody bumps it. Fingers crossed for a recognizable fish!
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  433s] 8:30 asked Maya,Tom,Leo | dominoes 161 | calls 104
+    Tom -> everyone: Looks good from here, the whole fish is dark and the outline reads clearly. I'm keeping my hands off until the push.
+[  438s] 8:45 asked Maya,Priya,Leo | dominoes 161 | calls 107
+    Priya -> everyone: Just under a minute. Hands off, everyone, and let's enjoy the fall. Nice work, team!
+[  444s] 9:00 asked Maya,Tom,Leo | dominoes 161 | calls 110
+    Maya -> everyone: Agreed, all hands off. Looks like a fish to me. Enjoy the fall!
+    Tom -> everyone: Fingers crossed, nice work everyone. Let's watch it go.
+[  459s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 115
+    Priya -> everyone: All set, hands off. Let's watch the fish go!
+[  466s] 9:30 asked Maya,Tom,Leo | dominoes 161 | calls 118
+    Tom -> everyone: Here we go, fingers crossed. Nice teamwork, all of you.
+[  473s] 9:45 asked Maya,Priya,Leo | dominoes 161 | calls 121
+    Maya -> everyone: Here we go, go little fish!
+    Priya -> everyone: Here we go! Great teamwork, everyone. Thanks for keeping hands off at the end.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 555.4,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming left",
+      "bird in flight",
+      "shrimp or crustacean"
+    ],
+    [
+      "fish swimming left, with a tail fin and a loop-shaped head on the right",
+      "bird or duck in profile, with a long neck and beak",
+      "abstract line drawing of a sea creature or dragon"
+    ],
+    [
+      "fish",
+      "bird",
+      "whale"
+    ]
+  ],
+  "placed": 161,
+  "fell": 161,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 11,
+    "Manager": 6,
+    "Priya": 14,
+    "Tom": 8,
+    "Maya": 7
+  },
+  "held_thoughts": 53,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 0,
+    "input_tokens": 302,
+    "cache_creation_tokens": 714012,
+    "cache_read_tokens": 453384,
+    "output_tokens": 78214,
+    "seconds": 1174.9,
+    "api_equivalent_usd": 3.5306,
+    "cached": 0
+  },
+  "review": "forced",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Maya caught that the belly joint near the start wasn't connecting, re-laid it, and removed Priya's off-sketch curl, and her account is consistent with Priya's on the cleanup. She duplicated effort at the belly and was quiet publicly, and the belly overlap with Priya is still unresolved, so she falls just short of the top.",
+      "curve_imposed": true
+    },
+    "Tom": {
+      "rating": 5,
+      "why": "Tom has the best-corroborated contribution: he built the forked tail, and Priya independently confirmed his fix of the lower fork handoff, which was the break that kept the chain from connecting. He also kept communication short and specific, backed the curl cleanup, and was honest about being slow to catch the lower fork problem.",
+      "curve_imposed": true
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "Priya redrew the blank sketch, laid the top line, bridged the nose joint, kept time and called hands-off discipline, and was honest in private about her curl overreach. That curl cost the team cleanup effort, and her belly claim still overlaps Maya's, so her output is solid but not standout.",
+      "curve_imposed": true
+    },
+    "Leo": {
+      "rating": 1,
+      "why": "Leo picked the design and assigned strokes, and by his own account he spotted the unjoined lower fork, but only Priya credits his coordination and I saw no physical output from him. His blank-pad opening, the belly clash with Maya, and his silence with me leave the biggest evidence gap, so I can't credit him beyond solid, with a rating at the lower end of the middle.",
+      "curve_imposed": true
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
