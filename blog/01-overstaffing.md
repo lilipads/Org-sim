@@ -1,129 +1,177 @@
-# Ten people, ten minutes, one fish: what a domino game says about overstaffing
+# Ten people, ten minutes, one fish: simulating an overstaffed team with AI agents
 
-*Part 1 of a series on organisational health, run as experiments with AI players.*
+*Part 1 of a series on organizational health, run as experiments with AI agents.
+Code: [github.com/lilipads/org-sim](https://github.com/lilipads/org-sim)*
 
-At a team offsite a while ago, we played one of those exercises everyone has done in some form: tables of
-people, a pile of parts, a time limit, build something together. What stuck with me wasn't who won. It was
-watching the big tables. A few people built. A few people talked about building. Several hovered, offered
-to "help wherever", and mostly watched.
+Most of what we believe about how teams work comes from anecdote: a project that went well, a reorg that
+didn't, a meeting that should have been an email. Anecdotes are hard to argue with and impossible to
+rerun. You can't take the same team, change one thing, and play the quarter again.
 
-Everyone has a theory about this. More people means more ideas; more people means more meetings. I wanted
-to watch it happen under controlled conditions, many times over, and count. So I built the game as a
-simulation and filled the tables with AI players.
+With AI agents you can. This series uses a small simulator in which AI agents work together on a shared
+physical task under a clock. Each experiment changes one thing about the organization and replays the game
+many times. Part 1 asks the oldest question: what happens when you put more people on a job?
 
 ## The game
 
-Each table gets ten minutes to make a picture of an animal out of dominoes. When time is up, the start
-domino is pushed. The picture is whatever falls; anything still standing is invisible. Blind judges who
-don't know the plan look at the fallen dominoes and guess the animal.
+Each table gets **ten minutes to make a picture of an animal out of dominoes**. When time is up, a
+facilitator pushes the start domino. The picture is whatever falls; anything still standing is
+invisible. Three blind judges look only at the fallen dominoes and guess the animal.
 
-It is a small game, but it has the shape of real work:
+It's a small game with the shape of real work:
 
 - **A vision has to be agreed.** Which animal, which way it faces, where the run starts.
-- **The work can be split.** People can lay different lines at the same time, like engineers on
+- **The work can be split.** Different people can lay different lines at once, like engineers on
   different parts of a system.
-- **Everything has to join up.** A beautiful tail that the run never reaches doesn't fall, so it doesn't
-  count. Integration is where most pictures die.
-- **Talking costs time.** Only one person can hold the floor at once, and while you talk your hands slow
+- **Everything has to join up.** A beautiful tail the run never reaches doesn't fall, so it doesn't count.
+  Integration is where most pictures die.
+- **Talking costs time.** Only one person holds the floor at a time, and while you talk, your hands slow
   down.
 
-Each player is an AI with a short personality ("patient and precise with fiddly work", "upbeat and full of
-ideas") and its own speed and steadiness of hand. Players talk, point, sketch a plan on a shared scratch
-pad, lay dominoes, inspect each other's work and fix breaks, all on a real-time clock.
+![The plan on the shared scratch pad, and what the table built from it](img/plan_and_table.png)
+*Left: a team's plan on the shared scratch pad, five numbered strokes from START. Right: the table
+just before the push.*
 
-I ran tables of **1, 4 and 10** people. Same task, same table, same 250 dominoes, same ten minutes.
+## How the simulator works
+
+The point of the simulator is to keep the agents' behaviour free while making the world they act in
+realistic and measurable.
+
+- **Agents.** Each player is a language-model agent with a short personality ("patient and precise with
+  fiddly work", "upbeat and full of ideas"). No job titles, no assigned roles. Anyone can lead, follow,
+  plan, build, check, or hover.
+- **A real-time clock.** The game advances in 15-second beats. An agent is woken when something calls for
+  its attention, like someone speaking to it, its hands finishing a job, a facilitator calling time, or a
+  bump at the table. Each time it decides what to say, to whom, how eagerly, and what to do with its hands.
+- **Talk is a shared, scarce channel.** When several people want to speak, the most eager gets the floor
+  and the others hold their thought. Words cost time, and talking slows your hands.
+- **Hands are realistic.** Each agent has its own speed and steadiness. Dominoes land slightly off where
+  they were aimed. Physics decides whether a falling domino knocks over the next one: it has to be close,
+  in line, and not around too sharp a corner. Working right next to someone occasionally bumps the table.
+- **A shared scratch pad.** Anyone can pick it up and sketch the plan as numbered strokes. Builders then
+  "trace" a stroke with their own hands, so the picture is only as good as the plan and the building.
+- **Eyes, not rulers.** Agents see the table as a picture, with dominoes that the start would knock over
+  drawn darker than those it wouldn't reach. They can point at spots, inspect an area closely, fix small
+  breaks, or lift and re-lay a section.
+- **Independent judging.** Three blind judges name the animal from the fallen picture. Nobody is told how
+  they'll be judged beyond "the judges see what falls".
+
+Every message, every domino and every decision is logged, so each game can be replayed, counted and
+read as a story.
+
+## The experiment
+
+Tables of **1, 4 and 10** agents, with everything else identical: the same 30 × 20 table, the same 250
+dominoes, the same scratch pad, the same ten minutes. Eight games per table size with different seeds
+and personalities, all played by the same model. That's 24 games in total.
 
 ## What happened
 
-Every table picked a fish.
+Every table chose a fish.
 
-| Per game, on average | Table of 1 | Table of 4 | Table of 10 |
+| Per game, on average | 1 person | 4 people | 10 people |
 |---|---|---|---|
-| Fish recognised by the judges | 2 of 8 | **8 of 8** | 7 of 8 |
-| Share of the standing dominoes that fell | 56% | **90%** | 76% |
-| Picture half laid | 5:30 | **2:13** | 3:15 |
-| Picture essentially finished (90% laid) | 7:49 | **5:32** | 6:45 |
+| Fish recognized by the judges | 2 of 8 | **8 of 8** | 7 of 8 |
+| Share of standing dominoes that fell | 56% | **90%** | 76% |
+| Picture 90% laid by | 7:49 | **5:32** | 6:45 |
 | Words spoken at the table | 69 | 1,170 | 1,848 |
-| Share of time anyone's hands were busy | 74% | 20% | 16% |
 | Dominoes laid per person | 100 | 35 | 22 |
 | People who laid fewer than 10 dominoes | 0 | 0.1 | 3.6 |
 | Close inspections of the work | under 1 | 20 | 84 |
 
-*Eight games per table size, averages per game.*
+![More people: much more talk, much less building each](img/talk_vs_output.png)
 
 ### 1. Ten people did slightly worse than four, and got there later
 
-The four-person tables made a recognisable fish in all eight games. The ten-person tables managed seven,
-and more of their pictures had breaks: three quarters of their standing dominoes fell, against nine in ten
-at four. In one ten-person game the run stopped almost at once and only a curved line fell.
+Four-person tables made a recognizable fish in all eight games. Ten-person tables managed seven, and
+their pictures had more breaks. In one game the run stopped almost immediately and only a curved line
+fell.
 
-They weren't faster either. Four people had half the picture down by 2:13 and were essentially done at five
-and a half minutes; ten people took a minute longer to reach the same point, and kept tinkering until
-past the eight-minute mark.
+They weren't faster either. Four people had half the picture down by 2:13 and were essentially done at
+five and a half minutes. Ten people took a minute longer to get there, and kept tinkering until past
+the eight-minute mark.
 
-Ten people laid only about 60% more dominoes than four. Per person, output fell by more than a third.
+![Share of the final picture laid over time](img/progress.png)
+
+Ten people laid about 60% more dominoes than four, at two and a half times the headcount. Output per person
+fell by more than a third.
 
 ### 2. The work only had five pieces
 
-The reason is visible in the plans. Almost every team sketched its fish as three to six strokes on the scratch pad:
-top of the body, belly, two tail fins, maybe an eye. That is the natural number of independent pieces of
-work in this picture. And that is roughly how many people actually built: at the ten-person tables, four
-to eight people laid at least ten dominoes. The rest found other things to do.
+The reason is in the plans. Almost every team sketched its fish as three to six strokes: top of the body,
+belly, two tail fins, maybe an eye. That's the natural number of independent pieces of work in this
+picture, and it's roughly how many people actually built. At the ten-person tables, four to eight people
+laid ten or more dominoes. The rest found other things to do.
 
-Not because they were lazy. They did what conscientious people do when the work is already spoken for:
+![One ten-person table: four people built the fish](img/who_did_what.png)
 
-> **Omar:** Quick sort-out: Leo's on the tail edge, so I'll leave that one with him. I'm floating to patch breaks.
+They weren't lazy. They did what conscientious people do when the work is already spoken for:
 
-"Floating" was the most common role nobody was assigned. Floaters inspected (74 close inspections per
-ten-person game, against 20 at four), offered help, checked in on joins, and stepped back when someone
-said a line was theirs. In one game, four people laid 151 of the 158 dominoes; the other six laid seven
-between them. One of those six, the person who sketched the plan and divided the work, laid none at all
-and spoke more than anyone else at the table.
+> **Omar:** Quick sort-out: Leo's on the tail edge, so I'll leave that one with him. I'm floating to
+> patch breaks.
+
+"Floating" was the most common role that nobody assigned. Floaters inspected the work (84 close
+inspections per ten-person game, against 20 at four), offered help, checked joins, and stepped back
+whenever someone said a line was theirs. In the game above, four people laid 151 of the 158 dominoes.
+The person who drew the plan and divided the work laid none and spoke more than anyone.
 
 None of that is wasted, exactly. Someone has to coordinate, and an extra pair of eyes on a join can save a
-picture. But it is not what you hire ten people for. **Headcount beyond the number of independent pieces
+picture. But it's not what you add ten people for. **Headcount beyond the number of independent pieces
 of work turns into coordination and checking, not output.**
 
 ### 3. Alone, nobody tells you it's broken
 
-The solo tables did worst: two fish out of eight. Not because their ideas were bad. One solo player, Maya,
-sketched a perfectly good fish, and spent the last minutes saying "body still isn't lighting up, checking the
-joint by the tail", bridging, re-tracing, checking again. At the push, nothing fell. Others kept lifting and
-re-laying their own work, up to 80 dominoes a game, and ran out of time.
+![Pictures before the push. Dark dominoes are connected to the start and will fall; pale ones won't.](img/gallery.png)
+*Before the push: dark dominoes are connected to the start and will fall; pale ones won't.*
 
-The difference at four was not hands, it was eyes. Someone else noticed the gap, someone else said "leave it,
-there's no time", someone else held the line while you fixed yours.
+Solo players did worst: two fish out of eight, and not because their ideas were bad. One solo player,
+Maya, sketched a perfectly good fish and spent the last minutes saying "body still isn't lighting up,
+checking the joint by the tail", bridging, re-tracing, checking again. At the push, nothing fell. Others
+lifted and re-laid up to 80 of their own dominoes a game and ran out of time.
+
+The difference at four wasn't hands, it was eyes. Someone else noticed the gap, someone else said
+"leave it, there's no time", and someone else held the line while you fixed yours.
 
 ### 4. With weaker players, ten people actively hurt
 
-I first ran the same experiment with a smaller, less capable AI model. There, ten people didn't just
-waste effort; they made things worse. Only 47% of standing dominoes fell at the ten-person tables (81% at
-four), and people started undoing each other's work: half of all the dominoes lifted and re-laid at the
-ten-person tables had been laid by someone else. Each table spoke over 4,000 words a game, and talk crowded
-out building.
+I first ran the same experiment with a smaller, less capable model. There, ten people didn't just waste
+effort, they made things worse. Less than half the standing dominoes fell at ten-person tables (81% at
+four). People started undoing each other's work: half the dominoes lifted and re-laid at ten-person
+tables had been laid by someone else. Tables spoke over 4,000 words a game, and talk crowded out
+building.
 
-The more capable players absorbed the extra people gracefully: they floated, deferred and stayed out of
-each other's way. The less capable ones collided. The cost of overstaffing depends on how good the team is
-at not getting in its own way.
+The stronger players absorbed extra people gracefully: they floated, deferred, and stayed out of each
+other's way. The weaker ones collided. The cost of overstaffing depends on how good a team is at not
+getting in its own way.
 
 ## What I take from it
 
-- **Size the team to the pieces of work, not to the importance of the work.** The fish had about five strands.
-  Four or five people was the sweet spot; ten bought overhead, and slightly worse pictures.
-- **Extra people don't sit idle; they convert into coordination.** Floating, checking, offering help, asking
-  "is that yours?" It looks like engagement. It is real work, but it scales with headcount, not with the
+- **Size the team to the pieces of work, not to the importance of the work.** The fish had about five
+  strands. Four or five people was the sweet spot; ten bought overhead and slightly worse pictures.
+- **Extra people don't sit idle; they turn into coordination.** Floating, checking, offering help, asking
+  "is that yours?" It looks like engagement and it is real work, but it grows with headcount, not with the
   task.
-- **The second and third person matter most.** Going from one to four transformed the result, mostly
-  through someone else catching breaks. Going from four to ten made things a little worse.
-- **Overstaffing is cheaper for strong teams and expensive for weak ones.** A capable team quietly absorbs
-  extra people. A struggling team turns them into collisions and rework.
+- **The second, third and fourth person matter most.** Going from one to four transformed the result,
+  mostly through someone else catching breaks. Going from four to ten made things a little worse.
+- **Overstaffing is cheap for strong teams and expensive for weak ones.** A capable team quietly absorbs
+  extra people. A struggling one turns them into collisions and rework.
 
-## Caveats
+## Limits
 
-These are AI players, not people, and a ten-minute domino game is not a product launch. The numbers come
-from eight games per table size, so treat them as directions, not precise measurements. What the
-simulation is good at is making mechanisms visible: who waits, who checks, where things break. Whether
-those mechanisms match your own teams is for you to judge.
+These are AI agents, not people, and a ten-minute domino game isn't a product launch. Eight games per
+table size give directions, not precise measurements. What the simulator is good at is making mechanisms
+visible: who waits, who checks, where things break, where the time goes. Whether those mechanisms match
+your own teams is for you to judge.
 
-*Next in the series: how much should a cross-functional team talk before it builds? Eng, Design and PM,
-each seeing a different part of the problem.*
+## Try it
+
+Everything is in the [repo](https://github.com/lilipads/org-sim): the engine, the agents, the judges, and
+every game's transcript, replay and pictures (`results/staffing_sonnet/`). A game is one command:
+
+```
+python3 experiments/pilot_live.py --view image --big --model sonnet --names Maya,Tom,Priya,Leo --seed 101 --out results/my_run
+```
+
+Model calls are cached, so rerunning a seed replays it for free.
+
+*Next in the series: a team of Eng, Design and PM, each seeing a different part of the problem, has to
+decide how much to talk before it builds. The design review turned into a rubber stamp.*
