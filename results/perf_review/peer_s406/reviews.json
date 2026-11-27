@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.36,
+   "error": 1.74
+  },
+  "Omar": {
+   "speed": 1.4,
+   "error": 1.58
+  },
+  "Hana": {
+   "speed": 1.06,
+   "error": 2.88
+  },
+  "Jack": {
+   "speed": 0.52,
+   "error": 2.79
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 5,
+    "why": "Omar laid the bottom line and then the whole tail, which is the fish's most recognizable feature, and he kept the table updated and checked the junction himself."
+   },
+   "Hana": {
+    "rating": 3,
+    "why": "Hana gave useful join checks and closed the fin gap, but she did little building and was mostly watching and re-confirming what others had done."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack sketched and laid the top fin quickly, kept it small so it didn't break the chain, and coordinated well, staying clear of others' work to avoid bumps."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She proposed the fish, assigned roles, laid the top run and kept the table coordinated, though a few repeated junction nudges changed nothing."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She stayed on the joins, checked the run and told everyone clearly what was connected, but she handed the tail to me and added little building of her own."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He sketched and laid the top fin, which helped the fish read as a fish, and he stayed out of others' way, but most of his later contribution was agreement rather than building."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked the fish, sketched the plan, laid the top run quickly and coordinated roles and joins clearly, and the whole picture ended up connected nose to tail."
+   },
+   "Omar": {
+    "rating": 5,
+    "why": "He got the bottom line in fast, took the tail when it was unclaimed, finished it cleanly and checked the junction, and the tail came out as a clear tail fin."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He added the top fin branching off the body, checked the weak spot and kept his hands off so nobody got bumped, though his build contribution was smaller than Sofia's and Omar's."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She proposed the fish, sketched it on the pad, laid the top line and assigned clear roles, then checked the junction and kept the table coordinated through to the end."
+   },
+   "Omar": {
+    "rating": 5,
+    "why": "He laid the bottom line and the full tail quickly, checked the join where the tail meets the body, and kept the table positive."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She did useful join checks and closed the fin gap, but she mostly inspected and had less hands-on building than the others."
+   }
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0
+  },
+  "Omar": {
+   "rating": 5.0
+  },
+  "Hana": {
+   "rating": 3.67
+  },
+  "Jack": {
+   "rating": 4.0
+  }
+ }
+}

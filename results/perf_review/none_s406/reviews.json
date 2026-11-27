@@ -1,0 +1,29 @@
+{
+ "condition": "none",
+ "evaluation_text": "No one is evaluating you individually. Just do your best.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.36,
+   "error": 1.74
+  },
+  "Omar": {
+   "speed": 1.4,
+   "error": 1.58
+  },
+  "Hana": {
+   "speed": 1.06,
+   "error": 2.88
+  },
+  "Jack": {
+   "speed": 0.52,
+   "error": 2.79
+  }
+ },
+ "manager_schedule": null
+}

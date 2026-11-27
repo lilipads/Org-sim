@@ -1,0 +1,120 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 461.5,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish drawn in outline, with a dorsal fin on top and a forked tail on the right",
+      "cartoon fish or sea creature with a pointed mouth on the left",
+      "simple line drawing of a fish, possibly a submarine or boat-like shape"
+    ],
+    [
+      "fish",
+      "cartoon fish with dorsal fin and forked tail",
+      "submarine or boat outline"
+    ],
+    [
+      "fish with a dorsal fin and forked tail",
+      "submarine with a periscope on top",
+      "whale or large sea creature"
+    ]
+  ],
+  "placed": 119,
+  "fell": 119,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 18,
+    "Jack": 8,
+    "Omar": 9,
+    "Hana": 7
+  },
+  "held_thoughts": 46,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 1,
+    "input_tokens": 254,
+    "cache_creation_tokens": 641257,
+    "cache_read_tokens": 383881,
+    "output_tokens": 44941,
+    "seconds": 946.1,
+    "api_equivalent_usd": 2.9571,
+    "cached": 18
+  },
+  "review": "peer",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 5.0
+    },
+    "Omar": {
+      "rating": 5.0
+    },
+    "Hana": {
+      "rating": 3.67
+    },
+    "Jack": {
+      "rating": 4.0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

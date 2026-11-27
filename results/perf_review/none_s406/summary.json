@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 339.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a forked tail",
+      "fish drawn with thick, segmented strokes",
+      "closed loop shaped like a leaf or lemon, with a tail"
+    ],
+    [
+      "fish",
+      "leaf",
+      "seashell"
+    ],
+    [
+      "fish",
+      "fish with forked tail",
+      "cartoon fish outline"
+    ]
+  ],
+  "placed": 116,
+  "fell": 110,
+  "completion": 0.948,
+  "team_score": 0.948,
+  "first_domino_at": "0:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 13,
+    "Sofia": 15,
+    "Omar": 9,
+    "Jack": 7
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 131,
+    "failed": 0,
+    "input_tokens": 250,
+    "cache_creation_tokens": 606162,
+    "cache_read_tokens": 347858,
+    "output_tokens": 43832,
+    "seconds": 789.5,
+    "api_equivalent_usd": 2.7496,
+    "cached": 12
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

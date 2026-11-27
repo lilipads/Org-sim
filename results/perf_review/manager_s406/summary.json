@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 363.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with forked tail",
+      "ichthys (christian fish symbol)",
+      "lens-shaped leaf with crossed stem"
+    ],
+    [
+      "fish outline (ichthys-style symbol)",
+      "fish with forked tail",
+      "leaf or almond shape with crossed stems"
+    ],
+    [
+      "fish outline with a forked tail",
+      "ichthys (christian fish) symbol",
+      "leaf or lemon-shaped outline"
+    ]
+  ],
+  "placed": 97,
+  "fell": 97,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 11,
+    "Omar": 9,
+    "Jack": 7,
+    "Sofia": 11,
+    "Manager": 6
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 146,
+    "failed": 0,
+    "input_tokens": 252,
+    "cache_creation_tokens": 643997,
+    "cache_read_tokens": 357524,
+    "output_tokens": 49115,
+    "seconds": 839.3,
+    "api_equivalent_usd": 2.9976,
+    "cached": 23
+  },
+  "review": "manager",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 4,
+      "why": "Strongest collaborator: reliable, accurate status reports, sound hands-off risk judgment, and she candidly owns her fin misstep (jumping onto the lower fin without checking Jack's progress). Her belly line was clean and her execution solid, though she led little and I saw her build only modestly."
+    },
+    "Omar": {
+      "rating": 3,
+      "why": "Delivered his upper fin cleanly with no redo, stayed out of the fin dispute, and gave accurate status, which is solid execution on a small scope. His impact and leadership were limited, since much of his contribution was cheering and echoing others, and he didn't use spare time to catch problems."
+    },
+    "Hana": {
+      "rating": 4,
+      "why": "Drove the biggest impact by choosing the fish, sketching the plan in the first minute, assigning strokes, and catching the bent lower fin, with clean work and good end-game discipline. She loses a point for relaying Jack's two-thirds-done fin without checking first, which cost work and caused brief hand overlap, a flaw she acknowledges herself."
+    },
+    "Jack": {
+      "rating": 3,
+      "why": "Accurate, supportive, and generous with specific credit, with a good final check, and he honestly owns that his lower fin curved off-angle and needed redoing. His build contribution was largely replaced and he didn't lead, though no negative evidence about his conduct emerged, so he lands at a solid middle rating."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

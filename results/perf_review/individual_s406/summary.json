@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 423.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "winding river or road map",
+      "hand-drawn scribble or signature"
+    ],
+    [
+      "curved chain of toppled dominoes",
+      "domino trail branching into a tangled cluster",
+      "path of fallen dominoes with a knot at one end"
+    ],
+    [
+      "curved line of dominoes seen from above",
+      "wavy river or stream on a map",
+      "hand-drawn pen stroke or squiggle"
+    ]
+  ],
+  "placed": 224,
+  "fell": 91,
+  "completion": 0.406,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 24,
+    "Hana": 9,
+    "Omar": 9,
+    "Jack": 4
+  },
+  "held_thoughts": 75,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 0,
+    "input_tokens": 276,
+    "cache_creation_tokens": 706458,
+    "cache_read_tokens": 398694,
+    "output_tokens": 70067,
+    "seconds": 1016.8,
+    "api_equivalent_usd": 3.432,
+    "cached": 10
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 32
+    },
+    "Omar": {
+      "dominoes_fell": 48
+    },
+    "Hana": {
+      "dominoes_fell": 11
+    },
+    "Jack": {
+      "dominoes_fell": 0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

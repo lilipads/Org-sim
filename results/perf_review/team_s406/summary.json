@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 704.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a forked tail",
+      "leaf or lens shape with a curly stem",
+      "figure-eight or looping ribbon"
+    ],
+    [
+      "fish outline (leaf-shaped body with forked tail)",
+      "fish drawn with a crossing, like the ichthys symbol",
+      "stylized fish or bird-like shape with curly fins"
+    ],
+    [
+      "fish",
+      "leaf",
+      "almond-shaped loop with a tail"
+    ]
+  ],
+  "placed": 169,
+  "fell": 144,
+  "completion": 0.852,
+  "team_score": 0.852,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Hana": 10,
+    "Omar": 13,
+    "Jack": 11
+  },
+  "held_thoughts": 69,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 2,
+    "input_tokens": 306,
+    "cache_creation_tokens": 755934,
+    "cache_read_tokens": 456327,
+    "output_tokens": 63599,
+    "seconds": 1299.5,
+    "api_equivalent_usd": 3.5858,
+    "cached": 4
+  },
+  "review": "team",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

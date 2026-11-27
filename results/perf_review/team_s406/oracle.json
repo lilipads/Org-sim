@@ -1,0 +1,152 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 46,
+   "fixes": 2,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 4
+  },
+  "Omar": {
+   "sound_work": 40,
+   "fixes": 3,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  },
+  "Hana": {
+   "sound_work": 12,
+   "fixes": 1,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  },
+  "Jack": {
+   "sound_work": 14,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 6
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 154,
+   "to": 155,
+   "owner": "Hana",
+   "stranded": 9,
+   "dir": 49.7,
+   "piece": [
+    155,
+    156,
+    159,
+    160,
+    161,
+    162,
+    163,
+    166,
+    172
+   ],
+   "at": [
+    30.0,
+    6.6
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "2:45",
+   "who": "Omar",
+   "at": [
+    22.8,
+    9.5
+   ],
+   "gap_owner": "Omar"
+  },
+  {
+   "clock": "3:15",
+   "who": "Sofia",
+   "at": [
+    27.6,
+    10.9
+   ],
+   "gap_owner": "Sofia"
+  },
+  {
+   "clock": "4:15",
+   "who": "Sofia",
+   "at": [
+    25.0,
+    12.4
+   ],
+   "gap_owner": "Jack"
+  },
+  {
+   "clock": "4:45",
+   "who": "Omar",
+   "at": [
+    29.4,
+    12.3
+   ],
+   "gap_owner": "Jack"
+  },
+  {
+   "clock": "5:30",
+   "who": "Omar",
+   "at": [
+    27.7,
+    11.4
+   ],
+   "gap_owner": "Sofia"
+  },
+  {
+   "clock": "6:30",
+   "who": "Hana",
+   "at": [
+    29.3,
+    7.7
+   ],
+   "gap_owner": "Hana"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 56,
+   "Omar": 55,
+   "Hana": 12,
+   "Jack": 14
+  },
+  "10": {
+   "Sofia": 66,
+   "Omar": 70,
+   "Hana": 12,
+   "Jack": 14
+  },
+  "20": {
+   "Sofia": 86,
+   "Omar": 100,
+   "Hana": 12,
+   "Jack": 14
+  }
+ },
+ "contribution": {
+  "Sofia": 66,
+  "Omar": 70,
+  "Hana": 12,
+  "Jack": 14
+ },
+ "with_planning": {
+  "Sofia": 94.0,
+  "Omar": 70.0,
+  "Hana": 12.0,
+  "Jack": 14.0
+ }
+}

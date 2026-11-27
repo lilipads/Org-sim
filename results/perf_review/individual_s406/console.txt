@@ -16,3 +16,268 @@
     Omar -> everyone: Sounds good, I've got the top of the body. Tracing stroke 2 now, Sofia, shout if the split point needs a hand.
     Jack -> everyone: Sounds good, Hana. I've got the bottom of the body, tracing stroke 3 now.
     (Hana held a thought)
+[   15s] 1:00 asked Sofia,Hana | dominoes 35 | calls 15
+    Hana -> everyone: Got it, I'm on stroke 4. Sofia, keep stroke 1 moving so the arm has something to branch off. Shout if the tail line breaks.
+    (Sofia held a thought)
+[   25s] 1:15 asked Sofia | dominoes 49 | calls 16
+    Sofia -> everyone: Stroke 1 is down to the neck, but there's a gap right at the corner where the tail line turns toward the body, so the body isn't connected yet. I'm closing that now. Hana, keep your arm going, and try
+[   35s] 1:30 asked Sofia,Hana | dominoes 58 | calls 18
+    Sofia -> everyone: I'm closing the little gap at the neck now, so the body line picks up from the tail. Everyone else, keep going. Once it's joined, the whole top and bottom should turn dark.
+    (Hana held a thought)
+[   48s] 1:45 asked Sofia,Hana | dominoes 69 | calls 20
+    Hana -> everyone: Tail arm's done and standing, so I'm staying off the neck to keep from bumping Sofia's fix. Jack, the bottom line is the one lagging, so I can take it from the middle round to the nose. Shout if you'd
+    (Sofia held a thought)
+[   56s] 2:00 asked Sofia,Omar,Jack | dominoes 79 | calls 23
+    Sofia -> everyone: Neck joint is in, but the body line still looks pale to me. I'm checking it now. Hana, taking the bottom line from the middle round is fine. Omar and Jack, keep going.
+    (Omar held a thought)
+    (Jack held a thought)
+[   70s] 2:15 asked Sofia,Omar,Hana,Jack | dominoes 85 | calls 27
+    Omar -> everyone: Hana, yes please, take the bottom from the middle round. Sofia, thanks for checking the neck. The turn there looks too sharp for the fall to carry on into the body, so it might need a little bridge do
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[   83s] 2:30 asked Sofia,Hana | dominoes 121 | calls 29
+    Hana -> everyone: Sofia, the neck is still pale, so I'm putting a short bridge in from the tail line into the start of the body. Tell me if you're mid-fix and I'll back off. Jack, you keep the bottom line for now, I'll
+    (Sofia held a thought)
+[   93s] 2:45 asked Sofia,Omar,Jack | dominoes 124 | calls 32
+    Sofia -> everyone: Hana, my bridge is in, so hold off on yours for a sec. I'm looking at the neck now to see why it's still pale.
+    (Jack held a thought)
+    (Omar held a thought)
+[  107s] 3:00 asked Sofia,Omar,Hana | dominoes 141 | calls 35
+    Sofia -> everyone: Neck's still pale because the turn is too sharp. I'm adding a gentle curve that branches off a bit higher up and eases into the body line. Hana, please hold off on yours so we don't bump each other. O
+    (Omar held a thought)
+    (Hana held a thought)
+[  119s] 3:15 asked Sofia,Hana | dominoes 149 | calls 37
+    Hana -> everyone: Sofia, backing off the neck, it's yours. From what I see, the dark run goes past the neck and down-right into those stray bridge dominoes, so the fall is going the wrong way there. The body line only 
+    (Sofia held a thought)
+[  131s] 3:30 asked Sofia,Omar | dominoes 151 | calls 39
+    Sofia -> everyone: Hana, I'm putting a short, gentle link in from the end of the dark run into the start of the body line, coming in lower and flatter like you said. I'll clear the strays after. Everyone else, keep goin
+    (Omar held a thought)
+[  141s] 3:45 asked Sofia,Omar,Hana | dominoes 150 | calls 42
+    Sofia -> everyone: Hana, my link wouldn't fit, the old strays are crowding it. I'm taking down the ones heading down-right from the neck now, then I'll put the link in.
+    (Omar held a thought)
+[  155s] 4:00 asked Sofia,Omar,Hana | dominoes 167 | calls 45
+    Sofia -> everyone: Strays are down. Hana, I'm putting the link in now, coming in low and flat. Please stay clear of the neck for a moment.
+    (Hana held a thought)
+    (Omar held a thought)
+[  165s] 4:15 asked Omar,Hana | dominoes 173 | calls 47
+    Omar -> everyone: Sofia, the neck's all yours, I'm staying clear. The top line looks solid from the middle round to the nose. If it's still pale after your link, I'll bridge it from my side.
+    (Hana held a thought)
+[  171s] 4:30 asked Sofia | dominoes 186 | calls 48
+    Sofia -> everyone: Link's going in now, low and flat. Staying on it until it's done, then I'll check that the body turns dark.
+[  180s] 4:45 asked Omar,Jack | dominoes 197 | calls 50
+    Jack -> everyone: Bottom line's all down, nose to middle. Sofia, I'll stay clear of the neck and just take a look at the stretch between it and the body to see what's still breaking.
+    (Omar held a thought)
+[  190s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 198 | calls 54
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Link's in. I'm checking the neck now to see whether the body picked up. Jack, thanks for looking at that stretch too.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  203s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 203 | calls 58
+    Omar -> everyone: Sofia, thanks. I'm just looking from a distance, not touching. The body still looks pale to me from here, so I'm checking where the chain stops. If it's still broken, I'll put a bridge in from my side
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  215s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 199 | calls 62
+    Hana -> everyone: Sofia, the dark run is still sliding down-right into a few strays below the neck. I'm taking those down now, just the ones under the line. Then I'll bridge straight across into the body. Shout if you'
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  223s] 5:45 asked Sofia,Omar | dominoes 213 | calls 64
+    Sofia -> everyone: Hana, thanks for clearing the strays. I'm putting one link straight from the end of my curve into the start of the body now, so please stay clear of the neck for a few seconds. Jack, tell me if the bo
+    (Omar held a thought)
+[  233s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 215 | calls 68
+    Omar -> everyone: Sofia, quick heads up: my one bridge domino just past the neck is facing down and might be jamming the start of the body. Once your link is in, if it's still pale, I'll pull mine out. Hands off until 
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  242s] 6:15 asked Sofia,Hana,Jack | dominoes 213 | calls 71
+    Jack -> everyone: Omar, I looked at that stretch and it's jammed right where your lone bridge sits, just past the neck. Could you pull it out now? Time's getting short. The dark run also still ends in a stray pointing 
+    (Hana held a thought)
+    (Sofia held a thought)
+[  252s] 6:30 asked Sofia,Omar,Hana | dominoes 214 | calls 74
+    Sofia -> everyone: Omar, I'll pull your lone domino myself so you don't have to. Hana and Jack, stay clear of the neck for a few seconds. I'll bridge straight across right after.
+    (Hana held a thought)
+    (Omar held a thought)
+[  260s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 219 | calls 78
+    Sofia -> everyone: Nothing was left to pull there, so the jam may already be clear. I'm bridging straight across into the body now. Please stay clear of the neck for a few seconds.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  268s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 215 | calls 82
+    Hana -> everyone: Sofia, Omar's lone domino is already out. I'm only clearing the strays below the neck now, well under your bridge, so I won't touch your link.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  277s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 217 | calls 86
+    Sofia -> everyone: Hana, thanks for clearing below. I'm laying one straight connect from the end of the dark run into the start of the body now. Please keep clear of the neck.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  286s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 217 | calls 90
+    Sofia -> everyone: Link's in. I'm taking a quick look at the neck to see if the body went dark. Please stay clear for a few seconds.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  295s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 218 | calls 94
+    Sofia -> everyone: Found it: one domino is jammed too close, just past the neck. I'm fixing that and bridging across now. Please stay clear for a few seconds.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  306s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 211 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Quick one: the neck jam is too big to patch, so I'm re-laying the main line from the start to the body. Please stay clear of the neck and the start for the next minute.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  318s] 8:15 asked Omar,Hana,Jack | dominoes 223 | calls 101
+    Omar -> everyone: Sofia, it's all yours, I'm staying off the neck. Just eyeballing it. If the body's still pale with about a minute left, I'll drop one bridge across. Shout if you'd rather I hold off.
+    (Jack held a thought)
+    (Hana held a thought)
+[  329s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 105
+    Omar -> everyone: Sofia, about a minute left and the body's still pale, so I'm dropping one bridge now, just at the nose end. I'll keep off the rest of the neck.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  339s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 109
+    Sofia -> everyone: Omar, go ahead with the nose bridge. I'll nudge the last gap just past it into line. Everyone else, please stay clear of the nose for a few seconds.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  346s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 113
+    Sofia -> everyone: Fixing the gap just past the nose bridge now. Everyone please keep clear of the nose.
+    Hana -> everyone: Got it, staying clear. Omar, the nose bridge is fine. Sofia, shout if you want me on the last gap.
+    (Jack held a thought)
+    (Omar held a thought)
+[  357s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 117
+    Sofia -> everyone: Closing the last gap at the start of the bottom line now. Please stay clear of the nose.
+    Omar -> everyone: Bridge is in at the nose, so I'm hands off now. Go Sofia, fingers crossed!
+    (Jack held a thought)
+[  363s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 121
+    Sofia -> everyone: Last nudge at the start of the bottom line. Stay clear of the nose, everyone!
+    Hana -> everyone: Staying clear, Sofia. Go for it.
+    Jack -> everyone: Staying clear, Sofia. Shout if you want a connect dropped in. Nice work, everyone!
+    (Omar held a thought)
+[  370s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 224 | calls 125
+    Omar -> everyone: Hands off, everybody step back and let it run. Fish incoming!
+    Sofia -> everyone: That's time, everyone. Hands off and let it fall. Thanks all, fingers crossed!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 423.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "winding river or road map",
+      "hand-drawn scribble or signature"
+    ],
+    [
+      "curved chain of toppled dominoes",
+      "domino trail branching into a tangled cluster",
+      "path of fallen dominoes with a knot at one end"
+    ],
+    [
+      "curved line of dominoes seen from above",
+      "wavy river or stream on a map",
+      "hand-drawn pen stroke or squiggle"
+    ]
+  ],
+  "placed": 224,
+  "fell": 91,
+  "completion": 0.406,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 24,
+    "Hana": 9,
+    "Omar": 9,
+    "Jack": 4
+  },
+  "held_thoughts": 75,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 0,
+    "input_tokens": 276,
+    "cache_creation_tokens": 706458,
+    "cache_read_tokens": 398694,
+    "output_tokens": 70067,
+    "seconds": 1016.8,
+    "api_equivalent_usd": 3.432,
+    "cached": 10
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 32
+    },
+    "Omar": {
+      "dominoes_fell": 48
+    },
+    "Hana": {
+      "dominoes_fell": 11
+    },
+    "Jack": {
+      "dominoes_fell": 0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

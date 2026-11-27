@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 468.9,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming left",
+      "leaf or seed pod on a stem",
+      "bird or flower with a curled tail"
+    ],
+    [
+      "a fish with a forked tail on the left and a loop-like head on the right",
+      "a leaf or seed shape with a stem and a curled tip",
+      "a bird or swan seen from the side with a looped head"
+    ],
+    [
+      "fish swimming left, with a tail and an eye",
+      "leaf or seed pod on a stem",
+      "bird or tadpole with a curled head"
+    ]
+  ],
+  "placed": 157,
+  "fell": 153,
+  "completion": 0.975,
+  "team_score": 0.975,
+  "first_domino_at": "0:45",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 15,
+    "Hana": 7,
+    "Jack": 8,
+    "Omar": 12,
+    "Manager": 6
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 150,
+    "failed": 0,
+    "input_tokens": 284,
+    "cache_creation_tokens": 738911,
+    "cache_read_tokens": 397581,
+    "output_tokens": 71315,
+    "seconds": 1045.3,
+    "api_equivalent_usd": 3.5763,
+    "cached": 14
+  },
+  "review": "forced",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 5,
+      "why": "She set the plan (fish, pad layout, one stroke per person), laid the nose and top body line, and closed the body/tail gap. Jack's private note credits her with fin fixes, and she took over the failed top fin piece and kept status reports accurate, though she admits she should have asked Hana first."
+    },
+    "Omar": {
+      "rating": 3,
+      "why": "He was a reliable inspector: he found the only unconnected dominoes, stood the fin edge back up after the bump, and stayed out of others' corners, and Jack's credit fits what I saw. His own placing is unverified and he took no lead, so he is solid but not standout."
+    },
+    "Hana": {
+      "rating": 1,
+      "why": "Her top fin stroke drifted off line and never connected, so Sofia had to redo it, and she mostly watched and placed nothing after that. Her honest self-assessment, accurate status updates and the gap she spotted count in her favour, but they don't make up for the least build contribution on the team."
+    },
+    "Jack": {
+      "rating": 3,
+      "why": "He was candid, owned the bump near Omar, credited others accurately, and made a defensible risk call to leave the stub, though that meant the 'last gap closed' claim from others was inaccurate. His own execution is unverified and he caused a setback by working too close to Omar, so impact is unproven."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
