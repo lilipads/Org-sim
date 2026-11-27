@@ -88,9 +88,9 @@ class Tracer(LiveAgentBase):
         return Decision()
 
 
-def run(seed: int, repair: bool = False, sketch: str = "fish") -> float:
+def run(seed: int, repair: bool = False, sketch="fish", return_world: bool = False):
     rng = random.Random(seed)
-    strokes = SKETCHES[sketch]
+    strokes = SKETCHES[sketch] if isinstance(sketch, str) else sketch
     order = list(range(1, len(strokes) + 1))
     rng.shuffle(order)
     names = ["A", "B", "C", "D"]
@@ -104,7 +104,8 @@ def run(seed: int, repair: bool = False, sketch: str = "fish") -> float:
     for a in agents:
         a.world = w
     res = g.run()
-    return res["per_table"]["table"]["completion"]
+    comp = res["per_table"]["table"]["completion"]
+    return (comp, g) if return_world else comp
 
 
 def main():

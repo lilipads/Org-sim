@@ -77,3 +77,195 @@
     (Hana held a thought)
     (Jack held a thought)
     (Omar held a thought)
+[  500s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 68
+    Sofia -> Jack: Jack, I'm not seeing the fin down past the crossing yet. Are your hands on it? If it's stuck, say the word and I'll trace the tail myself so we don't both lay it. Otherwise I'll stay clear and check i
+    Jack -> everyone: Only one tail domino made it down, so I'm tracing the whole fin again. Sofia, Omar, Hana, please stay clear of the tail so we don't bump. Thanks for the belly fix, Hana!
+    (Hana held a thought)
+    (Omar held a thought)
+[  511s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 72
+    Jack -> everyone: Fin's being stubborn as one piece, so I'm splitting it into three simple lines and laying them now. Please keep clear of the tail for a minute!
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  524s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 76
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Jack, I'll stay clear of the fin. I'm just looking at the crossing, because one domino looked jammed there. Shout if you want me to take the bottom half of the fin.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  534s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 87 | calls 80
+    Sofia -> everyone: Jack, the fin's still not down and the clock's running, so I'm taking the bottom diagonal of the tail, stroke 5. You keep the top diagonal and the back edge. Hana, can you free up that jammed domino a
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  554s] 5:30 asked Omar,Hana,Jack | dominoes 94 | calls 83
+    Jack -> everyone: Thanks Sofia, perfect. You take the lower diagonal, I'll finish the upper one and the back edge. Hana, if that crossing domino looks jammed, tell me where and I'll check it once the fin's up.
+    (Hana held a thought)
+    (Omar held a thought)
+[  565s] 5:45 asked Sofia,Omar,Hana | dominoes 101 | calls 86
+    Hana -> everyone: Crossing domino's nudged into line, Jack, so it should pass through now. I'll stay clear of the fin and just check that the fall carries through into the tail.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  574s] 6:00 asked Omar,Hana,Jack | dominoes 103 | calls 89
+    Hana -> everyone: Body's all connected, the whole run falls through the crossing now. Fin's the only open piece: the top diagonal stops short and the bottom one too. Jack, Sofia, shout if you want me to take the back e
+    (Omar held a thought)
+    (Jack held a thought)
+[  583s] 6:15 asked Sofia,Omar,Jack | dominoes 110 | calls 92
+    Omar -> everyone: Jack, the fin's nearly there, just the back edge left. I'm free, so I'll take the lower half of it, from the bottom corner up to the middle. You keep the top half and we'll meet in the middle.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  596s] 6:30 asked Sofia,Hana,Jack | dominoes 113 | calls 95
+    Jack -> everyone: Thanks Omar, and thanks Hana! I'm nearly done with the upper diagonal, then the top of the back edge. Take the bottom half of the back edge, but I'll be working down from the top, so we'll meet in the
+    (Sofia held a thought)
+    (Hana held a thought)
+[  605s] 6:45 asked Sofia,Omar,Hana | dominoes 124 | calls 98
+    Sofia -> everyone: Lower diagonal's down and runs right to the bottom corner, and the body carries through the crossing. Omar, Jack, the back edge is yours and I'll stay clear. Even if it's a bit patchy, the fish alread
+    (Hana held a thought)
+    (Omar held a thought)
+[  615s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 126 | calls 102
+    Jack -> everyone: Back edge still looks pale, so it's not linked up yet. I'm taking a close look at where the top diagonal meets it. Omar, keep going on the bottom half!
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  638s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 124 | calls 107
+    Jack -> everyone: Omar, Sofia, the join at the top corner is too sharp for the fall to turn. I'm adding a little curved hook there so it bends round into the back edge. Stay clear of the top corner for a moment!
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  650s] 7:30 asked Sofia,Omar,Hana | dominoes 129 | calls 110
+    Omar -> everyone: Jack, the stray spur at the bottom is lifted. I'm checking the lower half of the back edge for gaps, and I'll stay clear of the top corner.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  661s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 129 | calls 114
+    Sofia -> everyone: Jack, Omar, the bottom corner where my diagonal meets the back edge looks fine. Jack, the top joint is the one that matters, so shout if you want me to take the lower half of the back edge. Otherwise 
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  670s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 129 | calls 118
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Thanks Omar, thanks Sofia! Hook's going in at the top corner now, almost there. Once it's up I'll check the whole run falls round into the back edge. Please stay clear of that corner!
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  679s] 8:15 asked Sofia,Omar,Hana | dominoes 134 | calls 121
+    Omar -> everyone: Lower half of the back edge looks solid to me. Jack, once the hook's in, it should flow down. I'm just eyeballing, not touching anything.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  984s] 8:30 asked Sofia,Hana,Jack | dominoes 134 | calls 125
+    Jack -> everyone: Hook's in, folks. I'm taking a quick look at the top corner to see if it flows into the back edge. Stay clear of it for a few seconds!
+    (Hana held a thought)
+    (Sofia held a thought)
+[ 1002s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 137 | calls 130
+    Jack -> everyone: Top corner's still not linked, so I'm bridging it right now. Stay clear for a few seconds, and nice work on the lower half, Omar!
+    (Hana held a thought)
+    (Omar held a thought)
+[ 1008s] 9:00 asked Sofia,Omar,Hana | dominoes 137 | calls 133
+    Hana -> everyone: Jack, I'm staying clear of the corner. Body and both diagonals fall fine, so nobody touch those. Shout if you want me on any gap.
+    Omar -> everyone: All yours, Jack, I'm keeping my hands off. Fish looks great either way!
+    (Sofia held a thought)
+[ 1015s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 137 | calls 137
+    Jack -> everyone: Nearly there, one more nudge at the top corner. Stay clear for a few seconds, and thanks all, great teamwork!
+    Omar -> everyone: Go Jack! Fish is looking great.
+[ 1022s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 139 | calls 141
+    Jack -> everyone: Last bridge at the top corner, hands off everyone. The fish reads fine either way!
+    Sofia -> everyone: Go Jack! Hands off from me, the fish reads great already.
+[ 1029s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 141 | calls 145
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.84,
+      "error": 1.45
+    },
+    "Omar": {
+      "speed": 1.15,
+      "error": 1.76
+    },
+    "Hana": {
+      "speed": 1.05,
+      "error": 1.7
+    },
+    "Jack": {
+      "speed": 1.43,
+      "error": 1.06
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1083.5,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a crossed tail",
+      "ichthys-style fish symbol",
+      "leaf or almond shape with stems"
+    ],
+    [
+      "fish outline",
+      "fish body with forked tail",
+      "jesus fish (ichthys) symbol"
+    ],
+    [
+      "fish outline facing left",
+      "fish symbol (ichthys-style)",
+      "closed loop curve with crossing tail"
+    ]
+  ],
+  "placed": 141,
+  "fell": 119,
+  "completion": 0.844,
+  "team_score": 0.844,
+  "first_domino_at": "0:45",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 20,
+    "Sofia": 10,
+    "Omar": 9,
+    "Hana": 6
+  },
+  "held_thoughts": 84,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 162,
+    "failed": 2,
+    "input_tokens": 336,
+    "cache_creation_tokens": 816881,
+    "cache_read_tokens": 486596,
+    "output_tokens": 82648,
+    "seconds": 1787.7,
+    "api_equivalent_usd": 4.0097,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

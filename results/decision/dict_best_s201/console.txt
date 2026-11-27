@@ -1,1 +1,340 @@
 pitches: [('Maya', 'butterfly', 1.0), ('Tom', 'butterfly', 1.0), ('Priya', 'butterfly', 1.0), ('Leo', 'butterfly', 1.0)]
+[   16s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Quick thing from my client chat: it's for the garden centre entrance, they want something colourful that flies, and their big launch this year is a new butterfly house. So I'm thinking butterfly? Big 
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[   28s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 12
+    Tom -> everyone: I met the client too: garden centre entrance, something colourful that flies, and they love symmetrical shapes. So butterfly, yes! I'm sketching a body down the middle with matching wings on both side
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[   38s] 0:30 asked Maya,Priya,Leo | dominoes 3 | calls 15
+    Priya -> everyone: Love the sketch, Tom. I'll take the body, stroke 1, and lay the start. Maya, can you take the right side, the top wing and the lower one? Leo, the same on the left? Tom, the antennae are yours once yo
+    (Maya held a thought)
+    (Leo held a thought)
+[   48s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 5 | calls 19
+    Maya -> everyone: Sorry Priya, I'd already started on the start and body, so I'll finish that. Can you take the right wings instead, top and bottom? Leo, left side wings. Tom, feelers when you're free.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   55s] 1:00 asked Tom,Priya,Leo | dominoes 16 | calls 22
+    Leo -> everyone: Butterfly works for me. My client said no birds at all, they've had a pigeon problem, so this is safe. I've got the two left wings, top and lower. Maya, you finish the body and the right side.
+    (Priya held a thought)
+    (Tom held a thought)
+[   64s] 1:15 asked Maya | dominoes 24 | calls 23
+    Maya -> everyone: Leo, I'm just on the body. Priya's already on the right wings, and you've got the left. Tom's on the feelers.
+[   72s] 1:30 asked Tom,Priya,Leo | dominoes 39 | calls 26
+    Priya -> everyone: Sounds good, Maya, you keep the body and start. I've got the right wings, top and bottom. Leo, left side, 3 and 5. Tom, feelers when you're free.
+    (Tom held a thought)
+    (Leo held a thought)
+[   79s] 1:45 asked Maya,Tom,Leo | dominoes 53 | calls 29
+    Tom -> everyone: Yep, I've got the feelers, they're queued up. Shout if the body gets stuck and I'll come help.
+    Leo -> everyone: Got it. I'm on the left wings, 3 now and 5 after. I'll check the joins when I'm done.
+    (Maya held a thought)
+[   79s] 2:00 asked - | dominoes 77 | calls 29
+[   80s] 2:15 asked - | dominoes 93 | calls 29
+[   90s] 2:30 asked Maya,Priya | dominoes 104 | calls 31
+    Maya -> everyone: Body's done. I don't see the right top wing up yet, so I'm laying that one now. Priya, shout if you've already got it. Then I'll check the whole thing for breaks.
+    (Priya held a thought)
+[  100s] 2:45 asked Tom,Priya | dominoes 120 | calls 33
+    Priya -> everyone: Maya, you take the top right wing, I'll leave it with you. Leo, I'm free, so I'll lay the lower left wing. You can stay on the top left. Shout if you've already started it. Tom, the right feeler isn't
+    (Tom held a thought)
+[  108s] 3:00 asked Maya,Tom,Leo | dominoes 135 | calls 36
+    Tom -> everyone: Right feeler's going up now, a few more dominoes and it'll match the left. Then I'll check the joins.
+    Leo -> everyone: Top left wing is done, Priya, the lower left is all yours. I'll check my joins now.
+    (Maya held a thought)
+[  120s] 3:15 asked Priya,Leo | dominoes 144 | calls 38
+    Priya -> everyone: Thanks Leo, got it. I'm already partway round the lower left, so I'll keep going. Once it's done I'll check the joins.
+    (Leo held a thought)
+[  132s] 3:30 asked Tom,Leo | dominoes 163 | calls 40
+    Tom -> everyone: Both feelers are up. I'm going to look over the whole thing for breaks while you two finish the right top wing and the lower left. Maya, the right top wing still needs to curve round and come back to 
+    (Leo held a thought)
+[  148s] 3:45 asked Maya,Tom,Leo | dominoes 176 | calls 43
+    Tom -> everyone: Found a gap: the top left wing stops short of the body on the bottom edge, so I'm closing that now. Maya, the right top wing still needs to go over the top, down the outer edge and back in to the body
+    (Maya held a thought)
+    (Leo held a thought)
+[  164s] 4:00 asked Maya,Leo | dominoes 192 | calls 45
+    Leo -> everyone: Tom, I'll take the bottom and outer edge of the right top wing. You finish the join on the left. Maya, you just carry on over the top and down to meet me.
+    (Maya held a thought)
+[  173s] 4:15 asked Maya,Tom,Priya | dominoes 194 | calls 48
+    Maya -> everyone: Sounds good, Leo. I'm finishing the top curve now and I'll meet you on the outer edge. Tom, once it's closed, can you check the joins near the body?
+    (Tom held a thought)
+    (Priya held a thought)
+[  186s] 4:30 asked Tom,Priya,Leo | dominoes 198 | calls 51
+    Priya -> everyone: Lower left wing is done and the whole chain traces through from the start. A couple of spots near the middle of the body are a bit tight, but they still carry. Leo, Maya, shout if you want me to take 
+    (Tom held a thought)
+    (Leo held a thought)
+[  199s] 4:45 asked Maya,Tom,Leo | dominoes 205 | calls 54
+    Leo -> everyone: I'm on the bottom edge of the right top wing now, from the body out to the outer edge. Maya, I'll come up and meet you on the outer edge, so stop there once you reach the end.
+    (Tom held a thought)
+[  209s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 217 | calls 58
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Thanks Leo, the left join's closed. I'll stay off the right wing so we don't bump each other. Shout if you want a hand with the bottom edge.
+    (Maya held a thought)
+[  233s] 5:15 asked Maya,Priya,Leo | dominoes 227 | calls 62
+    Maya -> everyone: Leo, I'm bridging the little gap between the outer edge and your bottom edge now. You can stop where you are.
+    (Leo held a thought)
+[  243s] 5:30 asked Tom,Priya,Leo | dominoes 231 | calls 65
+    Priya -> Maya: Maya, when you've closed that bridge, have a quick look just left of it too. From where I'm sitting the next domino there looked a touch far. I'll stay clear so we don't knock anything.
+    Leo -> everyone: Okay Maya, I'll stop and leave the bridge to you. I'll check the join once you're through.
+    Tom -> everyone: I'm just looking over the right wing from here, not touching anything. Shout if you see a gap.
+[  253s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 233 | calls 69
+    Maya -> everyone: Thanks Priya, will do. Finishing the bridge, then I'll check just left of it.
+    (Tom held a thought)
+[  263s] 6:00 asked Tom,Priya,Leo | dominoes 234 | calls 72
+    Tom -> everyone: From here the whole chain looks like it carries from the start. Maya, there are two little stray ends by your bridge, one pointing up-left and one tail heading down-right. They shouldn't break anythin
+    (Leo held a thought)
+[  270s] 6:15 asked Maya,Priya,Leo | dominoes 237 | calls 75
+    Leo -> everyone: Maya, I lifted the little stray tail past the wing's lower corner, well clear of your bridge. The whole thing still traces through. I'm just looking at your bridge now, not touching it.
+    (Maya held a thought)
+[  278s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 237 | calls 79
+    Maya -> everyone: Thanks Tom, thanks Leo. I'll leave the strays. Two more dominoes on the bridge, then a quick look just left of it.
+    (Leo held a thought)
+    (Tom held a thought)
+[  284s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 237 | calls 83
+    Tom -> everyone: Looks good from here, everyone. Let's keep hands off now so nobody bumps anything. Nice teamwork, the butterfly's symmetrical and ready to fly.
+    Maya -> everyone: Bridge is in. Taking a quick look just left of it now, like Priya said.
+    (Leo held a thought)
+[  293s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 237 | calls 87
+    Maya -> everyone: Checked just left of the bridge and it's fine, no gap. The whole thing still traces through from the start, and the only loose bits are those little strays, which don't matter. I'm hands off now.
+    (Leo held a thought)
+[  299s] 7:15 asked Tom,Priya,Leo | dominoes 237 | calls 90
+    Leo -> everyone: Agreed, bridge looks good to me and the chain carries all the way round. Let's leave everything alone until the push.
+[  305s] 7:30 asked Maya,Tom,Priya | dominoes 237 | calls 93
+[  305s] 7:45 asked - | dominoes 237 | calls 93
+[  311s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 237 | calls 97
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Two minutes, we're good. Hands off, everyone, and let it fly.
+[  317s] 8:15 asked Maya,Priya,Leo | dominoes 237 | calls 100
+[  317s] 8:30 asked - | dominoes 237 | calls 100
+[  317s] 8:45 asked - | dominoes 237 | calls 100
+[  322s] 9:00 asked Tom | dominoes 237 | calls 101
+    Tom -> everyone: One minute. Hands off and let it fly.
+[  328s] 9:15 asked Maya,Priya,Leo | dominoes 237 | calls 104
+    Maya -> everyone: Hands off, all good. Go butterfly!
+[  333s] 9:30 asked Tom,Priya,Leo | dominoes 237 | calls 107
+    Priya -> everyone: Looks great, everyone. Hands off, and go butterfly!
+    Tom -> everyone: Half a minute. Hands off, everyone. Fingers crossed for the butterfly!
+    Leo -> everyone: All set. Go butterfly!
+[  340s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 237 | calls 111
+    Maya -> everyone: All good, fingers crossed!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 397.1,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "butterfly with antennae",
+      "moth with spread wings",
+      "stylized insect with four wings"
+    ],
+    [
+      "butterfly with outspread wings and antennae",
+      "moth with four wings",
+      "stylized insect with a vertical body line"
+    ],
+    [
+      "butterfly with spread wings",
+      "moth or butterfly line drawing",
+      "insect with four wings and antennae"
+    ]
+  ],
+  "placed": 237,
+  "fell": 232,
+  "completion": 0.979,
+  "team_score": 0.979,
+  "first_domino_at": "0:30",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 8,
+    "Tom": 12,
+    "Maya": 11,
+    "Leo": 9
+  },
+  "held_thoughts": 38,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 128,
+    "failed": 0,
+    "input_tokens": 268,
+    "cache_creation_tokens": 581179,
+    "cache_read_tokens": 393397,
+    "output_tokens": 61365,
+    "seconds": 945.9,
+    "api_equivalent_usd": 2.8411,
+    "cached": 0
+  },
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said it should be something that visits flowers.",
+      "Someone mentioned the owner keeps bees."
+    ],
+    "Tom": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said they love symmetrical shapes, the same on both sides."
+    ],
+    "Priya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said their big launch this year is a new butterfly house."
+    ],
+    "Leo": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "butterfly",
+      "why": "It's colourful, flies, and visits flowers, which suits a garden centre entrance, and its symmetrical wings are easy to recognise in dominoes. A bee would also fit the owner's beekeeping, but a butterfly reads more clearly as colourful.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Tom",
+      "animal": "butterfly",
+      "why": "It flies, feels colourful, suits a garden centre entrance, and its wings are perfectly symmetrical, matching the client's love of the same on both sides. It's also easy for blind judges to recognise as a domino shape.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Priya",
+      "animal": "butterfly",
+      "why": "The client wants something colourful-feeling that flies, and their big launch this year is a new butterfly house, so a butterfly fits the entrance and promotes the launch. It's also a clear, recognisable shape for blind judges.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Leo",
+      "animal": "butterfly",
+      "why": "It's colourful-feeling and flies, fits a garden centre entrance perfectly, and isn't a bird, so it respects the client's pigeon problem. Its wide symmetrical wings should also be easy for blind judges to recognise in dominoes.",
+      "matched": "butterfly",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Leo",
+    "Maya",
+    "Priya",
+    "Tom"
+  ],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 1.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 60,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Tom"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 3,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Tom",
+  "decided": "butterfly",
+  "decision_open_at": 0.0
+}

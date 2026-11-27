@@ -1,0 +1,99 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.84,
+      "error": 1.45
+    },
+    "Omar": {
+      "speed": 1.15,
+      "error": 1.76
+    },
+    "Hana": {
+      "speed": 1.05,
+      "error": 1.7
+    },
+    "Jack": {
+      "speed": 1.43,
+      "error": 1.06
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1083.5,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a crossed tail",
+      "ichthys-style fish symbol",
+      "leaf or almond shape with stems"
+    ],
+    [
+      "fish outline",
+      "fish body with forked tail",
+      "jesus fish (ichthys) symbol"
+    ],
+    [
+      "fish outline facing left",
+      "fish symbol (ichthys-style)",
+      "closed loop curve with crossing tail"
+    ]
+  ],
+  "placed": 141,
+  "fell": 119,
+  "completion": 0.844,
+  "team_score": 0.844,
+  "first_domino_at": "0:45",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 20,
+    "Sofia": 10,
+    "Omar": 9,
+    "Hana": 6
+  },
+  "held_thoughts": 84,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 162,
+    "failed": 2,
+    "input_tokens": 336,
+    "cache_creation_tokens": 816881,
+    "cache_read_tokens": 486596,
+    "output_tokens": 82648,
+    "seconds": 1787.7,
+    "api_equivalent_usd": 4.0097,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

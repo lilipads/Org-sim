@@ -1,0 +1,98 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.06,
+      "error": 1.0
+    },
+    "Omar": {
+      "speed": 1.59,
+      "error": 1.95
+    },
+    "Hana": {
+      "speed": 0.82,
+      "error": 1.85
+    },
+    "Jack": {
+      "speed": 0.82,
+      "error": 1.78
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 680.3,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "leaf on a stem",
+      "fish outline",
+      "feynman loop diagram"
+    ],
+    [
+      "a fish outline with a tail",
+      "a closed lens-shaped loop with a crossing line",
+      "a feynman loop diagram"
+    ],
+    [
+      "fish outline with tail",
+      "leaf or lens shape with a stem",
+      "loop with a crossing line, like a knot or feynman diagram"
+    ]
+  ],
+  "placed": 107,
+  "fell": 93,
+  "completion": 0.869,
+  "team_score": 0.724,
+  "first_domino_at": "1:00",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 19,
+    "Sofia": 11,
+    "Jack": 6,
+    "Omar": 9
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 140,
+    "failed": 1,
+    "input_tokens": 290,
+    "cache_creation_tokens": 683524,
+    "cache_read_tokens": 414141,
+    "output_tokens": 58291,
+    "seconds": 1228.8,
+    "api_equivalent_usd": 3.2197,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

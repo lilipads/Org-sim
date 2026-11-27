@@ -1,0 +1,218 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 335.5,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "bug or insect with antennae",
+      "bunny or cat head with ears",
+      "stylized bird or wings"
+    ],
+    [
+      "cartoon bunny or rabbit head with long ears",
+      "stylized bird or owl-like creature in profile",
+      "abstract creature with antennae or a cat-like face"
+    ],
+    [
+      "butterfly with antennae",
+      "cat or bunny face outline",
+      "creature with raised arms"
+    ]
+  ],
+  "placed": 139,
+  "fell": 139,
+  "completion": 1.0,
+  "team_score": 0.333,
+  "first_domino_at": "0:30",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 13,
+    "Leo": 10,
+    "Maya": 9,
+    "Tom": 8
+  },
+  "held_thoughts": 25,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 107,
+    "failed": 0,
+    "input_tokens": 212,
+    "cache_creation_tokens": 461738,
+    "cache_read_tokens": 310661,
+    "output_tokens": 50307,
+    "seconds": 776.1,
+    "api_equivalent_usd": 2.3021,
+    "cached": 6
+  },
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said it should be something that visits flowers.",
+      "Someone mentioned the owner keeps bees."
+    ],
+    "Tom": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said they love symmetrical shapes, the same on both sides."
+    ],
+    "Priya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client said their big launch this year is a new butterfly house."
+    ],
+    "Leo": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "butterfly",
+      "why": "It's colourful, flies, and visits flowers, which suits a garden centre entrance, and its wing shape is easy for blind judges to recognise in dominoes. The bee hint is worth weighing since the owner keeps bees, but a butterfly fits the colourful brief better, and I'd happily go with a bee if the team has more evidence.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Tom",
+      "animal": "butterfly",
+      "why": "It's colourful-feeling, it flies, and its wings are perfectly symmetrical side to side, which fits everything I heard about the garden centre entrance and the client's love of symmetry. It's also easy for blind judges to recognise from a domino outline.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Priya",
+      "animal": "butterfly",
+      "why": "The client wants something colourful-feeling that flies, and their big launch this year is a new butterfly house, so a butterfly fits the garden centre entrance and should please them. Its wing shape is also easy for blind judges to recognise.",
+      "matched": "butterfly",
+      "score": 1.0
+    },
+    {
+      "name": "Leo",
+      "animal": "butterfly",
+      "why": "It flies and feels colourful, fits a garden centre entrance perfectly, and isn't a bird, so it avoids the client's pigeon problem.",
+      "matched": "butterfly",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Leo",
+    "Maya",
+    "Priya",
+    "Tom"
+  ],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.333,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 75,
+        "by": "Tom"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 3,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

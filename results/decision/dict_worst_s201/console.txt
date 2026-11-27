@@ -1,1 +1,114 @@
 pitches: [('Maya', 'butterfly', 1.0), ('Tom', 'butterfly', 1.0), ('Priya', 'butterfly', 1.0), ('Leo', 'butterfly', 1.0)]
+[   13s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Okay, here's what I got from the client: it's for the garden centre entrance, they want something colourful that flies, something that visits flowers, and the owner keeps bees. I'm thinking butterfly.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   25s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 12
+    Leo -> everyone: I'd go with the butterfly too. It's colourful, it flies, and the wings make a clear outline. Not a bird, the client's had a pigeon problem. I'm sketching it now. Maya, take the right wings once they'r
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   34s] 0:30 asked Maya,Tom,Priya | dominoes 1 | calls 15
+    Maya -> everyone: Nice sketch, Leo. I've got the right wings, upper and lower. Someone needs to be on the body stroke so the start goes down first.
+    (Tom held a thought)
+    (Priya held a thought)
+[   42s] 0:45 asked Leo | dominoes 5 | calls 16
+    Leo -> everyone: I'm on the body now, stroke 1. Maya and Tom, your wings hook onto it as it grows. Priya, the antennae are the last bits at the top.
+[   49s] 1:00 asked Maya,Tom,Priya | dominoes 9 | calls 19
+    Priya -> everyone: Sketch looks great, Leo. One thing from my meeting with the client: their big launch this year is a new butterfly house, so the butterfly should go down well. I've got both antennae, and they'll go do
+    (Tom held a thought)
+    (Maya held a thought)
+[   54s] 1:15 asked Leo | dominoes 13 | calls 20
+    Leo -> everyone: Good to know, Priya, a butterfly house makes the butterfly an even safer pick. I'm carrying on with the body, and once it's down I'll walk the whole chain to check everything's connected.
+[   62s] 1:30 asked Priya | dominoes 17 | calls 21
+[   62s] 1:45 asked - | dominoes 21 | calls 21
+[   62s] 2:00 asked - | dominoes 25 | calls 21
+[   62s] 2:15 asked - | dominoes 29 | calls 21
+[   62s] 2:30 asked - | dominoes 33 | calls 21
+[   62s] 2:45 asked - | dominoes 37 | calls 21
+[   69s] 3:00 asked Maya,Tom | dominoes 39 | calls 23
+    Maya -> everyone: On it. Right upper wing is down, lower wing is nearly done. Leo, once the body's up I'll check the joints where the wings meet it.
+    (Tom held a thought)
+[   78s] 3:15 asked Leo | dominoes 40 | calls 24
+    Leo -> everyone: Maya, the right wing looks great. I'm laying the body now, then I'll walk the joints.
+[   91s] 3:30 asked Maya,Priya | dominoes 40 | calls 26
+    Priya -> everyone: Quick check: I can only see the right side standing so far. Tom, are the left wings going down? Leo's body will reach them soon. My antennae are ready for when it gets to the head.
+    (Maya held a thought)
+[  116s] 3:45 asked Maya,Tom,Leo | dominoes 40 | calls 29
+    Maya -> everyone: Leo, quick flag on the body. The start domino points up, so what's below it, the lower body and both lower wings, only falls if something feeds it. My upper wing loops back to the body, but that's a s
+    (Leo held a thought)
+    (Tom held a thought)
+[  127s] 4:00 asked Maya,Leo | dominoes 47 | calls 31
+    Leo -> everyone: Good catch, Maya, I've already fixed that. The start only goes up, so I've added a short body stroke up to the head and I'm laying it now. Maya, your lower wing is a new stroke that continues off the 
+    (Maya held a thought)
+[  136s] 4:15 asked Maya,Tom,Priya | dominoes 54 | calls 34
+    Maya -> everyone: Leo, quick one: I'm carrying my wing's end on down to the middle of the body, where the lower body and lower wings split off. When you lay the lower body, start it from that joint, not from the start 
+    (Tom held a thought)
+    (Priya held a thought)
+[  163s] 4:30 asked Leo | dominoes 65 | calls 36
+    Leo -> everyone: Got it, Maya. I'm laying the lower body now, starting from the joint where your wing comes in, not from the start domino. Tom, how's the left side? Nothing's standing over there yet, so start with the
+[  170s] 4:45 asked Maya,Tom | dominoes 72 | calls 38
+    Tom -> everyone: Yep, left wings are queued, upper first and then the lower one off its end. Leo, give a shout once the body's past the middle and they'll go straight down.
+[  181s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 84 | calls 42
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Tom, go now, don't wait on me. Start the left upper wing and hang the lower one off its end; they'll pick up the fall when it reaches them. Also, you're right at the joint where I'm laying the lower b
+    (Maya held a thought)
+    (Priya held a thought)
+[  190s] 5:15 asked Tom,Priya | dominoes 88 | calls 44
+    Tom -> Leo: Okay, I'll stay out of your way at the joint. Carrying on with the left side.
+    Priya -> everyone: Right antenna's down, left one's nearly there. Tom, shout if you want a hand with the left wings once I'm done.
+[  201s] 5:30 asked Tom,Priya,Leo | dominoes 96 | calls 47
+    Priya -> everyone: Both antennae are down. Tom, I'll take the left upper wing, the one that goes up and out to the far left, so you can go straight to the lower wing off its end. Shout if you've already started on it.
+    (Tom held a thought)
+[  206s] 5:45 asked Tom | dominoes 107 | calls 48
+    Tom -> everyone: Yes please, Priya! Take the left upper wing, the one marked three on the pad. I'm finishing the lower left wing, then I'll check the joints on that side.
+[  212s] 6:00 asked Priya | dominoes 116 | calls 49
+    Priya -> everyone: On it, Tom. Left upper wing is going down now.
+[  218s] 6:15 asked Tom | dominoes 128 | calls 50
+[  219s] 6:30 asked - | dominoes 145 | calls 50
+[  228s] 6:45 asked Tom | dominoes 157 | calls 51
+    Tom -> everyone: Left lower wing's down. I'm going to check the left side for breaks while Priya finishes the upper wing.
+[  241s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 55
+    Leo -> everyone: Maya, I don't see the right lower wing standing, so I'm laying it now off the right wing's lower edge. If you've got pieces of it down somewhere, tell me and I'll stay clear. Tom, Priya, once you're d
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  254s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 164 | calls 59
+    Leo -> Maya: Maya, you've got stroke 4, I'll take the bit that carries on from it along the bottom. Shout if you want me to swap.
+    Maya -> everyone: Leo, the right lower wing is mine, stroke four is already queued and going down now, so stay off it and save your dominoes. Can you walk the body and the joint near the middle? Tom, Priya, check the l
+    (Priya held a thought)
+    (Tom held a thought)
+[  265s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 63
+    Priya -> Maya: Maya, quick heads up: I'm laying the short inner edge of the right lower wing, the one nearest the body. Your outer wing stays yours. Shout if you've already got that piece down.
+    Maya -> everyone: Priya, I see you're already on the right lower wing, so keep going and I'll stay off it. I'm going to check the joints around it instead. Shout if you want me to take the bottom corner.
+    (Tom held a thought)
+    (Leo held a thought)
+[  276s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 176 | calls 67
+    Maya -> everyone: Priya, you keep the wing edge. I'm laying stroke nine, the bottom of that wing, so it closes back to the body. Leo, stay off it.
+    (Tom held a thought)
+    (Leo held a thought)
+[  583s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 72
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> Maya: Maya, stroke nine is the one I'm already on, it's nearly done, just the bottom end left. Please don't retrace it or it'll lift what's down. Can you check the joints near the middle instead?
+    Tom -> everyone: Left side checks out, everything I can trace from the start falls. Leo, one domino near the middle joint looks jammed, so give it a look. I'm checking the right lower wing now so I'm not in anyone's w
+    (Leo held a thought)
+    (Maya held a thought)
+[  592s] 8:15 asked Maya,Tom,Leo | dominoes 181 | calls 75
+    Maya -> everyone: Got it, Priya, stroke nine is yours and I'm staying off it. I'll look at the middle joint where Tom saw the jammed domino.
+    (Tom held a thought)
+    (Leo held a thought)
+[  601s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 181 | calls 79
+    Leo -> everyone: Maya, Tom, thanks. I looked closely at the middle joint and it looks fine. From the start, everything I can trace falls, all of it. I'm keeping my hands off so nobody gets bumped. Priya, finish the bo
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  608s] 8:45 asked Maya,Tom,Priya | dominoes 181 | calls 82
+    Priya -> everyone: Stroke nine's done, Maya. I looked over the right lower wing joints and they're fine. Everything still traces from the start. Leo, the middle joint looked fine to me too. I'm stepping back now, hands 
+    (Tom held a thought)
+    (Maya held a thought)
+[  613s] 9:00 asked Maya,Tom,Leo | dominoes 181 | calls 85
+    Maya -> everyone: Looks good to me too, whole thing traces from the start. Nobody touch anything now. Butterfly's a great fit for the garden centre, flowers and bees and all.
+    Leo -> everyone: Nice work, everyone. Hands off now and let it run.
+    (Tom held a thought)

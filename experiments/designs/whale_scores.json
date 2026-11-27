@@ -1,0 +1,102 @@
+{
+ "good": {
+  "strokes": 6,
+  "dominoes_needed": 123,
+  "minutes_for_four": 1.5,
+  "buildable_90": "2/6",
+  "share_of_design_fell": 0.75,
+  "legible": 0.0,
+  "judge_guesses": [
+   [
+    "fish outline with forked tail"
+   ],
+   [
+    "fish outline with a forked tail and fins"
+   ],
+   [
+    "fish"
+   ]
+  ],
+  "design_score": 0.0
+ },
+ "plain_oval": {
+  "strokes": 2,
+  "dominoes_needed": 86,
+  "minutes_for_four": 1.1,
+  "buildable_90": "3/6",
+  "share_of_design_fell": 0.9,
+  "legible": 0.0,
+  "judge_guesses": [
+   [
+    "elongated polygon outline (octagon-like)"
+   ],
+   [
+    "irregular elongated octagon outline"
+   ],
+   [
+    "irregular octagon outline"
+   ]
+  ],
+  "design_score": 0.0
+ },
+ "sharp_corners": {
+  "strokes": 6,
+  "dominoes_needed": 113,
+  "minutes_for_four": 1.4,
+  "buildable_90": "6/6",
+  "share_of_design_fell": 0.98,
+  "legible": 0.0,
+  "judge_guesses": [
+   [
+    "a fish seen from the side, with a dorsal fin on top and a forked tail on the right"
+   ],
+   [
+    "fish seen from the side"
+   ],
+   [
+    "fish seen from the side, with a dorsal fin and forked tail"
+   ]
+  ],
+  "design_score": 0.0
+ },
+ "overloaded": {
+  "strokes": 12,
+  "dominoes_needed": 185,
+  "minutes_for_four": 2.3,
+  "buildable_90": "0/6",
+  "share_of_design_fell": 0.14,
+  "legible": 0.0,
+  "judge_guesses": [
+   [
+    "line drawing of a fish, side view"
+   ],
+   [
+    "side-view fish drawn in simple lines"
+   ],
+   [
+    "fish in side view, with eye, fins, and tail"
+   ]
+  ],
+  "design_score": 0.0
+ },
+ "kid_whale": {
+  "strokes": 10,
+  "dominoes_needed": 152,
+  "minutes_for_four": 1.9,
+  "buildable_90": "0/6",
+  "share_of_design_fell": 0.01,
+  "legible": 0.833,
+  "judge_guesses": [
+   [
+    "cartoon fish or whale in side view, with eye, fins, and mouth"
+   ],
+   [
+    "whale with a spout"
+   ],
+   [
+    "cartoon fish with fins"
+   ]
+  ],
+  "design_score": 0.01
+ }
+}

@@ -80,3 +80,163 @@
 [  493s] 5:45 asked Sofia,Omar,Jack | dominoes 104 | calls 65
     Omar -> everyone: Sounds good Hana, shout when it's down and I'll run the full check. Looking good, little fish!
     (Jack held a thought)
+[  502s] 6:00 asked Sofia,Hana,Jack | dominoes 104 | calls 68
+    Hana -> everyone: Lower lobe's down, but it's showing pale, so it's not connected at the joint yet. I'm bridging that gap now. Omar, hold the full check for a moment.
+    (Jack held a thought)
+[  510s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 72
+    Hana -> everyone: Fix didn't take at the joint, so I'm bridging it with a connect from the end of the top line into the lobe. Omar, still hold the check. I'll shout the moment it goes dark.
+    (Jack held a thought)
+    (Omar held a thought)
+[  519s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 76
+    Omar -> everyone: Got it Hana, holding off. I'll keep clear of the joint and check once you shout.
+    Hana -> everyone: Connect couldn't fit, the joint's too crowded. I'm taking a close look at it now. Omar, still hold the check.
+[  533s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 80
+    Sofia -> everyone: Hana, I looked at it. The lobe's pale because one domino right at the joint is jammed too close, just before the lobe starts. Try lifting that one and re-tracing stroke 5 so it begins a hair back on t
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  542s] 7:00 asked Omar,Hana,Jack | dominoes 103 | calls 83
+    Hana -> everyone: Thanks Sofia, that makes sense. I'm lifting the jammed piece at the joint now, then I'll re-lay the lower lobe. Everyone keep clear of the joint. Omar, hold the check a little longer.
+    (Jack held a thought)
+    (Omar held a thought)
+[  550s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 87
+    Hana -> everyone: Jammed piece is out. Re-laying the lower lobe now. Hands clear of the joint please.
+    Sofia -> everyone: Great, Hana. I'm clear of the joint. If it's still pale after this try, say so and I'll do the connect from the other side.
+    (Omar held a thought)
+    (Jack held a thought)
+[  556s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 99 | calls 91
+    Hana -> everyone: Thanks Sofia. Still laying the lower lobe, about two dozen to go. Hands clear of the joint please. If it's still pale when I'm done, I'll shout and you do the connect from the other side.
+    (Jack held a thought)
+    (Omar held a thought)
+[  563s] 7:45 asked Sofia,Omar,Jack | dominoes 95 | calls 94
+    Omar -> everyone: Sounds good Hana, hands are off. Shout when it goes dark and I'll check the run.
+    Sofia -> everyone: Sounds good Hana, I'm staying clear. Shout when it's down and I'll jump in with the connect if it's still pale.
+    (Jack held a thought)
+[  572s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 91 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Hana, I'm keeping clear. Two minutes left, so shout the second it's down. If it's still pale I'll do the connect right away.
+    (Hana held a thought)
+    (Jack held a thought)
+[  580s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 95 | calls 102
+    Jack -> everyone: Nice diagnosis, Sofia! Hana, that jammed one was probably the culprit, so this retrace should do it. The fish already reads fine with the body and top lobe, so the lower lobe is a bonus. I'm staying c
+    (Hana held a thought)
+[  586s] 8:30 asked Sofia,Omar,Hana | dominoes 97 | calls 105
+    Hana -> everyone: Sixteen of twenty-six down on the lower lobe, ten to go. Keep clear of the joint. Sofia, if it's still pale the moment I finish, do the connect from the other side straight away.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  592s] 8:45 asked Sofia,Omar,Jack | dominoes 101 | calls 108
+    Sofia -> everyone: Thanks Jack, agreed, the body and top lobe already read as a fish. Hana, shout the second you're done and if it's pale I'll connect from the top line end right away.
+    (Omar held a thought)
+[  599s] 9:00 asked Omar,Hana,Jack | dominoes 103 | calls 111
+    Hana -> everyone: Twenty-two of twenty-six down, four to go. Sofia, stay ready. The second I'm done I'll shout, and if it's pale, connect from the top line end.
+    Omar -> everyone: Looks good from here, Hana. Hands off everyone, little fish is nearly done!
+    (Jack held a thought)
+[  605s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 115
+    Sofia -> everyone: Hana, I'm ready. Shout when you're done and I'll connect right away if it's pale.
+    Hana -> everyone: Two to go. Sofia, get ready on the connect from the top line end if it stays pale.
+    (Jack held a thought)
+[  613s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 119
+    Hana -> everyone: Lower lobe's down but still pale! Sofia, connect now from the top line end into the lobe. I'm hands off.
+    Jack -> everyone: Nice work everyone, we're in good shape. Hana, you've got this, and Sofia's ready with the backup. Hands clear!
+    (Sofia held a thought)
+[  619s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 123
+    Sofia -> everyone: On it, Hana, connecting now.
+    Jack -> everyone: Go Sofia, you've got the connect! I'm hands off, and the fish reads fine either way.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.06,
+      "error": 1.0
+    },
+    "Omar": {
+      "speed": 1.59,
+      "error": 1.95
+    },
+    "Hana": {
+      "speed": 0.82,
+      "error": 1.85
+    },
+    "Jack": {
+      "speed": 0.82,
+      "error": 1.78
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 680.3,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "leaf on a stem",
+      "fish outline",
+      "feynman loop diagram"
+    ],
+    [
+      "a fish outline with a tail",
+      "a closed lens-shaped loop with a crossing line",
+      "a feynman loop diagram"
+    ],
+    [
+      "fish outline with tail",
+      "leaf or lens shape with a stem",
+      "loop with a crossing line, like a knot or feynman diagram"
+    ]
+  ],
+  "placed": 107,
+  "fell": 93,
+  "completion": 0.869,
+  "team_score": 0.724,
+  "first_domino_at": "1:00",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 19,
+    "Sofia": 11,
+    "Jack": 6,
+    "Omar": 9
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 140,
+    "failed": 1,
+    "input_tokens": 290,
+    "cache_creation_tokens": 683524,
+    "cache_read_tokens": 414141,
+    "output_tokens": 58291,
+    "seconds": 1228.8,
+    "api_equivalent_usd": 3.2197,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

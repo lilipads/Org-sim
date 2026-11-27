@@ -1,1 +1,101 @@
 pitches: [('Maya', 'bee', 0.4), ('Tom', 'butterfly', 1.0), ('Priya', 'butterfly', 1.0), ('Leo', 'butterfly', 1.0)]
+[   13s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Hi all! Quick share from my client meeting: it's for a garden centre entrance, they wanted something colourful that flies, and their big launch this year is a new butterfly house. So I'm leaning butte
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   36s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 12
+    Maya -> everyone: Butterfly works for me. I had flies, colourful and visits flowers, plus the owner keeps bees, and big wings read best. I'll sketch it on the pad now. Someone grab the body line once it's up, and we'll
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   45s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 15
+    Tom -> everyone: I met the client too, same story, and they also really love symmetrical shapes, the same on both sides. So butterfly's great, just keep the wings mirrored, Maya. Once the body line is on the pad I'll 
+    (Leo held a thought)
+    (Priya held a thought)
+[   60s] 0:45 asked Maya,Priya,Leo | dominoes 0 | calls 18
+    Maya -> everyone: Butterfly's up on the pad, mirrored wings like Tom wanted. Tom, you're on the body line, that's stroke 1. I'll take the upper right wing. Priya, can you take the upper left? Leo, the lower wings?
+    (Priya held a thought)
+    (Leo held a thought)
+[   67s] 1:00 asked Tom,Priya,Leo | dominoes 6 | calls 21
+    Priya -> everyone: Sounds good, I've got the upper left wing. Tom's on the body, so I'll start tracing mine now and it'll pick up once the line reaches it. Leo, lower wings are yours!
+    (Leo held a thought)
+    (Tom held a thought)
+[  373s] 1:15 asked Tom,Leo | dominoes 18 | calls 24
+    Leo -> everyone: Butterfly works for me too, it fits what I heard. I'll take both lower wings, and they'll start once Tom's body line gets down there.
+    (Tom held a thought)
+[  377s] 1:30 asked Tom | dominoes 30 | calls 25
+    Tom -> everyone: Got it, I'm on the body line now. Once it's down the wings can hook onto it.
+[  377s] 1:45 asked - | dominoes 41 | calls 25
+[  377s] 2:00 asked - | dominoes 53 | calls 25
+[  377s] 2:15 asked - | dominoes 63 | calls 25
+[  389s] 2:30 asked Priya | dominoes 70 | calls 26
+    Priya -> everyone: Upper left wing is up, I'm carrying its bottom edge across to meet the body now. Tom, how's the body line coming? I can't see it below the start yet. Shout if you want a hand.
+[  397s] 2:45 asked Maya,Tom | dominoes 80 | calls 28
+    Tom -> everyone: Sorry, Priya, I've been quiet. The body line's going down now, starting from the start and running down the middle. Your wing edge should hook onto it as soon as it gets there.
+    (Maya held a thought)
+[  408s] 3:00 asked Priya | dominoes 95 | calls 29
+    Priya -> everyone: Thanks Tom, no worries. I'm finishing my wing's bottom edge over to the middle now. Shout when the body's down past the start and I'll check it all hooks up.
+[  419s] 3:15 asked Tom,Priya,Leo | dominoes 94 | calls 32
+    Tom -> everyone: Priya, I need to correct myself. The body line isn't down yet, nothing below the start is standing. I'm laying it now, so your wing edge should hook on in a minute. I'll shout when it's through.
+    (Priya held a thought)
+    (Leo held a thought)
+[  430s] 3:30 asked Priya,Leo | dominoes 95 | calls 34
+    Leo -> everyone: Tom, I can't see the body below the start yet. Priya cleared my curled left wing piece, so I'm laying both lower wings again now. They'll hook on once your line reaches them.
+    (Priya held a thought)
+[  444s] 3:45 asked Maya,Tom,Priya | dominoes 103 | calls 37
+    Maya -> everyone: Tom, I still can't see the body below the start. Want me to grab the lower half, from the middle down? I'll do the antennae meanwhile.
+    (Tom held a thought)
+    (Priya held a thought)
+[  458s] 4:00 asked Maya,Tom | dominoes 115 | calls 39
+    Maya -> everyone: Tom, I'm taking the body line now, tracing it from the start straight down. If you've got some of it laid already, shout and go on to the antennae or help Leo's wings. We need that middle spine before
+    (Tom held a thought)
+[  465s] 4:15 asked Tom,Leo | dominoes 126 | calls 41
+    Tom -> everyone: Thanks Maya, sorry for the silence. The start falls up toward the wings, so my body line was stuck. I'm branching it off the line across the middle and running it down from there, about half done. Ple
+    (Leo held a thought)
+[  474s] 4:30 asked Maya,Leo | dominoes 135 | calls 43
+    Maya -> everyone: Got it Tom, you keep the body, I'm dropping my trace of it. I'll lay the right antenna now. Shout when the spine's through and I'll check the whole run from the start.
+    (Leo held a thought)
+[  486s] 4:45 asked Tom | dominoes 139 | calls 44
+    Tom -> everyone: Heads up, my last bit veered off to the right instead of down. I'm laying the spine straight down from the middle now, then I'll check the chain.
+[  500s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 143 | calls 48
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Tom, you keep the spine, you're nearly there. I'm not touching the middle. I'll link the antennae up from the top of the start so they actually fall. Shout if the spine veers again and I'll come check
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  517s] 5:15 asked Tom,Priya,Leo | dominoes 158 | calls 51
+    Tom -> everyone: Spine's mostly down, but it isn't hooked into the run yet. I'm having a close look at the middle now so I don't knock out Leo's wing. Leo, Priya, hold off on this spot for a moment please.
+    (Leo held a thought)
+    (Priya held a thought)
+[  527s] 5:30 asked Tom,Priya,Leo | dominoes 170 | calls 54
+    Priya -> everyone: Got it Tom, I'm staying clear of the middle. Maya, you've got the right antenna, I'm doing the little bridge up from the top of the start and the left antenna. Shout when the spine's hooked in.
+    (Leo held a thought)
+    (Tom held a thought)
+[  536s] 5:45 asked Maya,Tom,Leo | dominoes 181 | calls 57
+    Leo -> everyone: Tom, my left wing came out wrong, it's tangled on the right side. I'm just looking, not touching your spine. Once it's hooked in I'll redo the left wing.
+    (Maya held a thought)
+    (Tom held a thought)
+[  550s] 6:00 asked Tom,Leo | dominoes 188 | calls 59
+    Tom -> everyone: Thanks Leo, I'll leave your wing edge alone. Spine's almost down. I'm checking now whether it actually hooks into the lower wings, and I'll shout.
+    (Leo held a thought)
+[  564s] 6:15 asked Maya,Tom,Leo | dominoes 189 | calls 62
+    Tom -> everyone: Clearing my crooked spine bits just under the middle now, Leo's wing edge stays put. Then I'll lay it straight down.
+    (Leo held a thought)
+    (Maya held a thought)
+[  573s] 6:30 asked Maya,Tom,Leo | dominoes 191 | calls 65
+    Leo -> Tom: Tom, I'm laying the left lower wing now. It heads left and away from your spine, so it'll hook on once your line gets down there.
+    Maya -> everyone: Leo, I'm taking the left lower wing now, so you can stay on the right one. It's on the left side, so Tom, I won't be near your spine. It'll hook on when your spine gets there.
+    (Tom held a thought)
+[  581s] 6:45 asked Tom,Priya,Leo | dominoes 182 | calls 68
+    Tom -> everyone: Crooked bits are gone. I'm laying the spine straight down from the middle now, so please keep clear of it. I'll shout when it's through.
+    (Leo held a thought)
+    (Priya held a thought)
+[  594s] 7:00 asked Priya | dominoes 175 | calls 69
+    Priya -> everyone: Tom, I've just had a look at the middle and lower wings. The lower wings aren't connected to the start yet. Lines end loose just under the middle and down on the right side where Leo's wing is, so you
+[  600s] 7:15 asked Tom,Leo | dominoes 171 | calls 71
+    Tom -> everyone: Thanks Priya. Three more dominoes and the spine lands on the lower wings. Could you hook the little top line in? After that I'll check the whole chain and shout.
+    (Leo held a thought)
+[  610s] 7:30 asked Priya | dominoes 169 | calls 72
+    Priya -> everyone: On it, Tom. I'm hooking the top line onto the run up by the right side now. I'm staying clear of the middle.

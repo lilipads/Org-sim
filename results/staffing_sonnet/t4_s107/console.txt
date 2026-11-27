@@ -49,3 +49,147 @@
     Tom -> everyone: Nice work, you two. I'll have a look at the tail from a distance. The lower tip hooks back toward the body a bit, so it might read more like a curl than a fork. Priya, do you want to redo that last st
     (Priya held a thought)
     (Maya held a thought)
+[  759s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 46
+    Priya -> everyone: Good call, Tom. I'll just lift that little hook at the bottom so the tip ends pointing out instead of curling back. No retrace, so the joint's safe. Leo, stay on the middle of the fork, I'm not touchi
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  766s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 50
+    Priya -> everyone: Hook's gone, Tom, thanks for the second pair of eyes. I'm taking a quick look at the lower tip to make sure the chain still runs all the way into it.
+    (Tom held a thought)
+    (Maya held a thought)
+[  775s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 54
+    Tom -> everyone: Hook's out, Priya. I'll leave the tip to you. The whole chain still runs from the nose, so we're good.
+    (Maya held a thought)
+    (Priya held a thought)
+[  784s] 4:45 asked Maya,Priya,Leo | dominoes 120 | calls 57
+    Priya -> everyone: Thanks Tom. Lower tip checks out, the chain runs all the way into it and the whole fish is still connected from the nose. I'm keeping my hands off so nobody gets bumped. If anyone spots a gap before t
+    (Leo held a thought)
+    (Maya held a thought)
+[  791s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 61
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Looks good to me, whole thing's connected from the nose. I'll keep my hands off so nobody gets bumped. Shout if you see a gap.
+[  798s] 5:15 asked Tom,Priya,Leo | dominoes 120 | calls 64
+[  804s] 5:30 asked Leo | dominoes 120 | calls 65
+[  804s] 5:45 asked - | dominoes 120 | calls 65
+[  809s] 6:00 asked Maya | dominoes 120 | calls 66
+[  813s] 6:15 asked Tom,Priya | dominoes 120 | calls 68
+[  820s] 6:30 asked Leo | dominoes 120 | calls 69
+[  820s] 6:45 asked - | dominoes 120 | calls 69
+[  826s] 7:00 asked Maya | dominoes 120 | calls 70
+[  831s] 7:15 asked Tom,Priya | dominoes 120 | calls 72
+[  838s] 7:30 asked Leo | dominoes 120 | calls 73
+[  838s] 7:45 asked - | dominoes 120 | calls 73
+[  844s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 77
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: All good from here, whole fish is still connected from the nose. Hands off everyone, and good luck!
+[  851s] 8:15 asked Maya,Tom,Leo | dominoes 120 | calls 80
+    Tom -> everyone: Looks like a fish to me. Fingers crossed, hands off!
+[  856s] 8:30 asked Maya,Priya,Leo | dominoes 120 | calls 83
+    Priya -> everyone: Fingers crossed. Worst case the judge says it's a very committed sardine.
+    Maya -> everyone: Yep, looks like a fish to me too. Hands off, good luck everyone!
+[  862s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 87
+    Priya -> everyone: Ha, committed sardine it is. Hands off, everyone. Good luck!
+    Maya -> everyone: Nothing to add from me. Hands off, let it fall!
+[  867s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 91
+[  867s] 9:15 asked - | dominoes 120 | calls 91
+[  867s] 9:30 asked - | dominoes 120 | calls 91
+[  867s] 9:45 asked - | dominoes 120 | calls 91
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.26,
+      "error": 1.67
+    },
+    "Tom": {
+      "speed": 1.02,
+      "error": 1.55
+    },
+    "Priya": {
+      "speed": 1.27,
+      "error": 1.85
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.78
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 901.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left",
+      "fish drawn in profile",
+      "closed fish shape with forked tail"
+    ],
+    [
+      "fish outline",
+      "fish shape drawn with thick line segments",
+      "leaf or lens shape with a tail"
+    ],
+    [
+      "fish outline drawn in thick dark strokes",
+      "simple fish shape with a forked tail",
+      "hand-drawn fish icon or doodle"
+    ]
+  ],
+  "placed": 120,
+  "fell": 120,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 32,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 6,
+    "Tom": 6,
+    "Leo": 5
+  },
+  "held_thoughts": 25,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 108,
+    "failed": 2,
+    "input_tokens": 206,
+    "cache_creation_tokens": 439834,
+    "cache_read_tokens": 298327,
+    "output_tokens": 42475,
+    "seconds": 1297.7,
+    "api_equivalent_usd": 2.1352,
+    "cached": 6
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
