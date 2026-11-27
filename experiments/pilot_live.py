@@ -50,6 +50,10 @@ def main():
     ap.add_argument("--roles", action="store_true", help="Eng / Design / PM roles (DESIGN_REVIEW_STUDY.md)")
     ap.add_argument("--design-mode", choices=["lone", "review", "open"], default=None)
     ap.add_argument("--designer-role", choices=["eng", "design", "pm"], default="design")
+    ap.add_argument("--review", choices=["none", "individual", "team", "manager", "peer", "forced"], default=None,
+                    help="performance review condition (PERF_REVIEW_STUDY.md); overrides --evaluation")
+    ap.add_argument("--styles", action="store_true", help="give each player a working style")
+    ap.add_argument("--wide-hands", action="store_true", help="speed 0.4-2.5x, placement error 0.3-3.0x")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -80,7 +84,10 @@ def main():
     if not args.same_hands:
         r = _random.Random(1000 + args.seed)
         for n in names:   # independent draws: fast-and-careless, slow-and-precise, and all between
-            skills[n] = {"speed": round(r.uniform(0.6, 1.6), 2), "error": round(r.uniform(0.5, 2.0), 2)}
+            if args.wide_hands:
+                skills[n] = {"speed": round(r.uniform(0.4, 2.5), 2), "error": round(r.uniform(0.3, 3.0), 2)}
+            else:
+                skills[n] = {"speed": round(r.uniform(0.6, 1.6), 2), "error": round(r.uniform(0.5, 2.0), 2)}
     cfg = LiveConfig(seconds_per_domino=args.seconds_per_domino, skills=skills,duration=args.minutes * 60, seed=args.seed, view=args.view,
                      scratchpad_until=args.pad_minutes * 60 if args.pad_minutes > 0 else None,
                      freehand_sigma=freehand, show_reach=(args.view == "image"), pad_only=not args.free_hand,
@@ -126,6 +133,13 @@ def main():
         cfg.decision, cfg.dictator = "dictator", dictator
     elif args.decision == "consensus":
         cfg.decision = "consensus"
+    from orgsim import review as reviewmod
+    styles = reviewmod.assign_styles(names, args.seed) if args.styles else {}
+    manager = None
+    if args.review in reviewmod.HAS_MANAGER:
+        cfg.manager_schedule = reviewmod.manager_schedule(args.seed, cfg.duration, cfg.beat)
+        manager = reviewmod.Manager(names, cfg.manager_schedule, calls, args.model, f"seed{args.seed}",
+                                    forced=(args.review == "forced"))
     agents = []
     for n in names:
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=W, h=H,
@@ -169,7 +183,12 @@ def main():
             fmt = ("\nTo say you're on board, add \"aligned\": \"<name of the animal>\" (or \"\" to withdraw). "
                    "You can do this together with anything else.")
         extra = {"model": args.model} if args.model else {}
-        agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls, **extra))
+        persona = PERSONAS_V2[n] + (f" Your working style: {reviewmod.STYLES[styles[n]]}" if styles else "")
+        evaluation = reviewmod.EVALUATIONS[args.review] if args.review else args.evaluation
+        if args.review in reviewmod.HAS_MANAGER:
+            fmt += ("\nOptional: \"to_manager\": \"something you tell the manager privately (nobody else hears "
+                    "it; if they're away, it waits for them)\".")
+        agents.append(LiveLLMAgent(n, "table", persona, rules, evaluation, calls, **extra))
         agents[-1].extra_format = fmt
         agents[-1].cache_salt = f"seed{args.seed}"
     game = LiveGame(world, agents, cfg, checker=checker)
@@ -184,6 +203,8 @@ def main():
             print(f"    {m['speaker']} -> {m['to'] if isinstance(m['to'], str) else ','.join(m['to'])}: {m['message'][:200]}", flush=True)
         for h in rec["held"]:
             print(f"    ({h['who']} held a thought)", flush=True)
+        if manager is not None:
+            manager.observe(g, rec)
         if len(g.log["turns"]) % 8 == 0:
             g.save(os.path.join(args.out, "log.json"))
 
@@ -194,6 +215,35 @@ def main():
             agents)))
     vals = [v for v in intents.values() if v]
     intent = max(set(vals), key=vals.count) if vals else ""
+    reviews = None
+    if args.review:
+        heard = {a.name: [dict(m, new=False) for m in game.heard[a.name]] for a in agents}
+        reviews = {"condition": args.review, "evaluation_text": reviewmod.EVALUATIONS[args.review],
+                   "styles": styles, "skills": skills, "manager_schedule": cfg.manager_schedule}
+        if manager is not None:
+            with ThreadPoolExecutor(len(agents)) as ex:
+                sas = dict(zip(names, ex.map(lambda a: reviewmod.self_assessment(a, game.observe(a.name), heard[a.name]),
+                                             agents)))
+            reviews["self_assessments"] = sas
+            reviews["ratings"] = manager.finish(game, sas)
+            reviews["manager_visits"] = manager.history
+        elif args.review == "peer":
+            with ThreadPoolExecutor(len(agents)) as ex:
+                given = dict(zip(names, ex.map(lambda a: reviewmod.peer_ratings(
+                    a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name]), agents)))
+            reviews["peer_ratings_given"] = given
+            reviews["ratings"] = {n: {"rating": round(sum(g[n]["rating"] for g in given.values()
+                                                          if n in g and g[n]["rating"] is not None)
+                                                      / max(1, sum(1 for g in given.values()
+                                                                   if n in g and g[n]["rating"] is not None)), 2)}
+                                  for n in names}
+        elif args.review == "individual":
+            fell = {n: 0 for n in names}
+            for d in game.pushed_world.dominoes.values():
+                if d.state == "down" and d.down_cause == "push" and d.builder in fell:
+                    fell[d.builder] += 1
+            reviews["ratings"] = {n: {"dominoes_fell": fell[n]} for n in names}
+        reviewmod.save(os.path.join(args.out, "reviews.json"), reviews)
     jscale = max(14, int(840 / W))
     png = picture_png(game.pushed_world, os.path.join(args.out, "judge.png"), scale=jscale)
     picture_png(game.pushed_world, os.path.join(args.out, "before_push.png"), show_standing=True, scale=jscale)
@@ -273,6 +323,8 @@ def main():
             "notes_surfaced": clientmod.notes_surfaced(profile, notes, game.log, calls),
         })
     dec = game.log.get("decision") or {}
+    if args.review:
+        summary.update({"review": args.review, "styles": styles, "review_ratings": reviews.get("ratings")})
     summary.update({"decision": args.decision, "dictator": dictator, "decided": dec.get("animal"),
                     "decision_open_at": dec.get("open_at")})
     with open(os.path.join(args.out, "summary.json"), "w") as f:

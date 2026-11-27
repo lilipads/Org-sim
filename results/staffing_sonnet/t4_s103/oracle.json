@@ -1,0 +1,60 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 40,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 1.0
+  },
+  "Tom": {
+   "sound_work": 40,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Priya": {
+   "sound_work": 18,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Leo": {
+   "sound_work": 6,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Maya": 40,
+   "Tom": 40,
+   "Priya": 18,
+   "Leo": 6
+  },
+  "10": {
+   "Maya": 40,
+   "Tom": 40,
+   "Priya": 18,
+   "Leo": 6
+  },
+  "20": {
+   "Maya": 40,
+   "Tom": 40,
+   "Priya": 18,
+   "Leo": 6
+  }
+ },
+ "contribution": {
+  "Maya": 40,
+  "Tom": 40,
+  "Priya": 18,
+  "Leo": 6
+ }
+}

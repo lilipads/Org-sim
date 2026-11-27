@@ -1,0 +1,72 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 38,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Omar": {
+   "sound_work": 49,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "planning": 0.0
+  },
+  "Hana": {
+   "sound_work": 20,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 1,
+   "planning": 1.0
+  },
+  "Jack": {
+   "sound_work": 0,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 64,
+   "to": 121,
+   "owner": "Omar",
+   "stranded": 14,
+   "dir": 304.4,
+   "at": [
+    21.6,
+    10.7
+   ]
+  }
+ ],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Sofia": 38,
+   "Omar": 44,
+   "Hana": 19,
+   "Jack": 0
+  },
+  "10": {
+   "Sofia": 38,
+   "Omar": 39,
+   "Hana": 19,
+   "Jack": 0
+  },
+  "20": {
+   "Sofia": 38,
+   "Omar": 29,
+   "Hana": 19,
+   "Jack": 0
+  }
+ },
+ "contribution": {
+  "Sofia": 38,
+  "Omar": 39,
+  "Hana": 19,
+  "Jack": 0
+ }
+}
