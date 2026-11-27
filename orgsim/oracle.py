@@ -29,7 +29,7 @@ from .sketch_record import final_strokes
 
 GAP_REACH = 2.0      # a standing domino this close ahead of a dead end counts as "the run should continue here"
 SIDE_REACH = 1.0
-PLAN_DIST = 1.0      # a domino within this of a plan stroke is on the plan
+PLAN_DIST = 2.5      # within this of a plan stroke is on the plan (tracing rounds off sharp corners)
 FIX_W = 10           # dominoes per fix / per open break (about 30 s of laying); sensitivity uses 5 and 20
 
 
@@ -177,7 +177,7 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     sound = {}
     for n in names:
         fell_n, _ = fed_fall(final, plan, bumps, skip_owner=n)
-        sound[n] = sum(1 for i in fell_n if final.dominoes[i].builder == n)
+        sound[n] = sum(1 for i in fell_n if final.dominoes[i].builder == n and i in plan)
     breaks_owned = {n: sum(1 for b in open_breaks if b["owner"] == n) for n in names}
 
     # fixes: breaks present at one beat and crossed at the next, by a local test, still crossing at the push
@@ -213,7 +213,7 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     final_sound = set()
     for n in names:
         fell_n, _ = fed_fall(final, plan, bumps, skip_owner=n)
-        final_sound |= {i for i in fell_n if final.dominoes[i].builder == n}
+        final_sound |= {i for i in fell_n if final.dominoes[i].builder == n and i in plan}
     prev_rows = None
     for t in turns:
         lifts = [(e["who"], l) for e in t["events"] if e["type"] == "build" for l in e.get("lifted", [])]

@@ -1,0 +1,24 @@
+[   16s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, a side view with a big tail fin, easy to recognize. I'll sketch it now. I'll lay the start and the lead-in, Maya take the top of the body, Tom the belly, Priya the tail once I've draw
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   23s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 7
+    Priya -> everyone: Sounds good, fish it is! Leo, shout when the tail's on the pad and I'll lay it. I can add an eye after the body's down.
+    (Tom held a thought)
+    (Maya held a thought)
+[   39s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Leo -> everyone: Fish is on the pad. Maya, trace the top of the body. Tom, the belly. Priya, the tail. I'm laying the start and lead-in now.
+    Maya -> everyone: Fish works for me. I'll take the top line once your sketch is up, Leo.
+    (Tom held a thought)
+[   46s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 1 | calls 14
+    Leo -> everyone: Yep, the pad's ready. Maya take stroke 2, Tom stroke 3, Priya stroke 4. Stroke 1 is going down now, and strokes 2 and 3 will wait at the end of the lead-in until it reaches them.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[   52s] 1:00 asked Maya,Tom,Priya | dominoes 5 | calls 17
+    Tom -> everyone: Fish works for me. I've got the belly, stroke 3, and I'm on it now.
+    Priya -> everyone: Got it, I'm on the tail now. It'll hook up once the top and belly lines reach the back of the body.
+    (Maya held a thought)
+[   52s] 1:15 asked - | dominoes 9 | calls 17
