@@ -106,3 +106,6 @@
     Leo -> everyone: Almost there, one more domino on the top tip. Then I'll check that it all falls.
     Maya -> everyone: Leo, the top tip is yours. I'm just clearing the last strays under the junction, nowhere near your corner.
     (Priya held a thought)
+[  915s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 89
+    Leo -> everyone: Top tip is laid. I'm checking the joint now to see if it's dark. Keep clear for a few seconds.
+    (Priya held a thought)

@@ -104,3 +104,10 @@
 [  902s] 7:15 asked - | dominoes 118 | calls 86
 [  902s] 7:30 asked - | dominoes 118 | calls 86
 [  907s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 90
+[  912s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 94
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Two minutes, and we're all set. Hands off, fish looks great.
+[  918s] 8:15 asked Sofia,Hana,Jack | dominoes 118 | calls 97
+[  918s] 8:30 asked - | dominoes 118 | calls 97
+[  918s] 8:45 asked - | dominoes 118 | calls 97
+[  923s] 9:00 asked Omar | dominoes 118 | calls 98

@@ -1,0 +1,142 @@
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.85,
+      "error": 1.92
+    },
+    "Tom": {
+      "speed": 0.7,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 0.92,
+      "error": 1.95
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 1.99
+    },
+    "Sofia": {
+      "speed": 0.92,
+      "error": 0.78
+    },
+    "Omar": {
+      "speed": 0.81,
+      "error": 0.99
+    },
+    "Hana": {
+      "speed": 0.71,
+      "error": 0.63
+    },
+    "Jack": {
+      "speed": 0.97,
+      "error": 0.91
+    },
+    "Sam": {
+      "speed": 1.04,
+      "error": 1.58
+    },
+    "Grace": {
+      "speed": 0.69,
+      "error": 0.91
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 915.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish side view",
+      "bird or duck head with beak",
+      "whale or dolphin outline"
+    ],
+    [
+      "fish outline",
+      "bird in flight",
+      "bottle or vase shape"
+    ],
+    [
+      "fish swimming left to right",
+      "bird in flight",
+      "shrimp or lobster"
+    ]
+  ],
+  "placed": 132,
+  "fell": 129,
+  "completion": 0.977,
+  "team_score": 0.977,
+  "first_domino_at": "0:30",
+  "messages": 77,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 9,
+    "Hana": 11,
+    "Leo": 4,
+    "Priya": 9,
+    "Maya": 7,
+    "Tom": 5,
+    "Sofia": 13,
+    "Sam": 7,
+    "Grace": 4,
+    "Omar": 5
+  },
+  "held_thoughts": 192,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 363,
+    "failed": 1,
+    "input_tokens": 736,
+    "cache_creation_tokens": 2009690,
+    "cache_read_tokens": 1122941,
+    "output_tokens": 169885,
+    "seconds": 3907.9,
+    "api_equivalent_usd": 9.704,
+    "cached": 0
+  }
+}
