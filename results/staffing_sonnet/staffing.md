@@ -1,28 +1,28 @@
 # Overstaffing: tables of 1, 4, 10
 
-Averages per game (4 games at size 1, 4 games at size 4, 4 games at size 10).
+Averages per game (8 games at size 1, 8 games at size 4, 8 games at size 10).
 
 | | Table of 1 | Table of 4 | Table of 10 |
 |---|---|---|---|
-| Recognized | 1/4 | 4/4 | 4/4 |
-| Mean recognition score | 0.25 | 1.0 | 1.0 |
-| Share of standing dominoes that fell | 0.5 | 0.87 | 0.92 |
-| Dominoes that fell | 22.5 | 109.75 | 135.5 |
-| First domino laid (s) | 41.2 | 33.8 | 41.2 |
-| Words spoken, whole table | 56.75 | 1258.25 | 1726.25 |
-| Words spoken per person | 56.75 | 314.575 | 172.625 |
-| Person-time with hands busy | 0.762 | 0.213 | 0.122 |
-| Person-time waiting for the run | 0.094 | 0.05 | 0.056 |
-| Person-time with hands free (talking, looking, idle) | 0.144 | 0.738 | 0.822 |
-| Dominoes laid | 106.5 | 143.75 | 178 |
-| Dominoes laid per person | 106.5 | 35.925 | 17.8 |
-| Top builder's share of dominoes | 1.0 | 0.348 | 0.231 |
-| People who laid fewer than 10 | 0 | 0 | 4 |
-| Dominoes lifted again (rework) | 60 | 7 | 7.25 |
-| ...of them someone else's | 0 | 6.5 | 0 |
+| Recognized | 2/8 | 8/8 | 7/8 |
+| Mean recognition score | 0.25 | 0.979 | 0.812 |
+| Share of standing dominoes that fell | 0.557 | 0.899 | 0.761 |
+| Dominoes that fell | 34.25 | 111.625 | 123.375 |
+| First domino laid (s) | 52.5 | 37.5 | 35.6 |
+| Words spoken, whole table | 69.25 | 1169.875 | 1848.125 |
+| Words spoken per person | 69.25 | 292.462 | 184.812 |
+| Person-time with hands busy | 0.744 | 0.2 | 0.157 |
+| Person-time waiting for the run | 0.075 | 0.056 | 0.036 |
+| Person-time with hands free (talking, looking, idle) | 0.181 | 0.744 | 0.808 |
+| Dominoes laid | 99.875 | 139.125 | 220 |
+| Dominoes laid per person | 99.875 | 34.775 | 22.0 |
+| Top builder's share of dominoes | 1.0 | 0.368 | 0.23 |
+| People who laid fewer than 10 | 0 | 0.125 | 3.625 |
+| Dominoes lifted again (rework) | 44.875 | 7.75 | 13.75 |
+| ...of them someone else's | 0 | 5.5 | 8.375 |
 | Table bumps | 0 | 0 | 0 |
 | Dominoes knocked by bumps | 0 | 0 | 0 |
-| Close inspections | 0.25 | 22 | 74 |
+| Close inspections | 0.25 | 20.375 | 84.125 |
 
 ## Games
 
@@ -32,11 +32,23 @@ Averages per game (4 games at size 1, 4 games at size 4, 4 games at size 10).
 | t10_s102 | 10 | 1.0 | 136/166 | 2039 | 213 | 2 | 0 | 16% | 80% |
 | t10_s103 | 10 | 1.0 | 147/165 | 1382 | 165 | 0 | 0 | 10% | 84% |
 | t10_s104 | 10 | 1.0 | 129/132 | 2101 | 176 | 0 | 0 | 12% | 79% |
+| t10_s105 | 10 | 0.667 | 208/222 | 1852 | 235 | 6 | 0 | 18% | 81% |
+| t10_s106 | 10 | 0.833 | 98/250 | 2099 | 294 | 4 | 0 | 22% | 77% |
+| t10_s107 | 10 | 1.0 | 119/119 | 1808 | 167 | 21 | 0 | 8% | 90% |
+| t10_s108 | 10 | 0.0 | 20/249 | 2121 | 352 | 50 | 0 | 29% | 70% |
 | t1_s101 | 1 | 0.0 | 0/80 | 108 | 107 | 27 | 0 | 60% | 22% |
 | t1_s102 | 1 | 1.0 | 60/60 | 119 | 140 | 80 | 0 | 85% | 15% |
 | t1_s103 | 1 | 0.0 | 30/30 | 0 | 110 | 80 | 0 | 88% | 12% |
 | t1_s104 | 1 | 0.0 | 0/16 | 0 | 69 | 53 | 0 | 72% | 8% |
+| t1_s105 | 1 | 0.0 | 11/39 | 66 | 119 | 80 | 0 | 68% | 20% |
+| t1_s106 | 1 | 0.0 | 39/40 | 46 | 40 | 0 | 0 | 98% | 2% |
+| t1_s107 | 1 | 1.0 | 124/124 | 76 | 124 | 0 | 0 | 42% | 48% |
+| t1_s108 | 1 | 0.0 | 10/51 | 139 | 90 | 39 | 0 | 82% | 18% |
 | t4_s101 | 4 | 1.0 | 105/122 | 1403 | 164 | 24 | 0 | 28% | 63% |
 | t4_s102 | 4 | 1.0 | 112/160 | 1362 | 172 | 0 | 0 | 21% | 78% |
 | t4_s103 | 4 | 1.0 | 104/113 | 1372 | 117 | 4 | 0 | 17% | 79% |
 | t4_s104 | 4 | 1.0 | 118/118 | 896 | 122 | 0 | 0 | 19% | 75% |
+| t4_s105 | 4 | 1.0 | 122/122 | 736 | 122 | 0 | 0 | 17% | 74% |
+| t4_s106 | 4 | 0.833 | 93/107 | 1309 | 136 | 28 | 0 | 21% | 71% |
+| t4_s107 | 4 | 1.0 | 120/120 | 760 | 125 | 0 | 0 | 16% | 81% |
+| t4_s108 | 4 | 1.0 | 119/141 | 1521 | 155 | 6 | 0 | 21% | 74% |

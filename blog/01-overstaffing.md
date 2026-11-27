@@ -2,8 +2,6 @@
 
 *Part 1 of a series on organisational health, run as experiments with AI players.*
 
-> **Draft.** Numbers are from 4 games per table size. Four more per size are running; figures will be updated.
-
 At a team offsite a while ago, we played one of those exercises everyone has done in some form: tables of
 people, a pile of parts, a time limit, build something together. What stuck with me wasn't who won. It was
 watching the big tables. A few people built. A few people talked about building. Several hovered, offered
@@ -41,25 +39,33 @@ Every table picked a fish.
 
 | Per game, on average | Table of 1 | Table of 4 | Table of 10 |
 |---|---|---|---|
-| Fish recognised by the judges | 1 of 4 | **4 of 4** | **4 of 4** |
-| Picture essentially finished (90% laid) | 8:45 | **5:30** | 6:34 |
-| Words spoken at the table | 57 | 1,258 | 1,726 |
-| Share of time anyone's hands were busy | 76% | 21% | 12% |
-| Dominoes laid per person | 107 | 36 | 18 |
-| People who laid fewer than 10 dominoes | 0 | 0 | 4 |
-| Close inspections of the work | under 1 | 22 | 74 |
+| Fish recognised by the judges | 2 of 8 | **8 of 8** | 7 of 8 |
+| Share of the standing dominoes that fell | 56% | **90%** | 76% |
+| Picture half laid | 5:30 | **2:13** | 3:15 |
+| Picture essentially finished (90% laid) | 7:49 | **5:32** | 6:45 |
+| Words spoken at the table | 69 | 1,170 | 1,848 |
+| Share of time anyone's hands were busy | 74% | 20% | 16% |
+| Dominoes laid per person | 100 | 35 | 22 |
+| People who laid fewer than 10 dominoes | 0 | 0.1 | 3.6 |
+| Close inspections of the work | under 1 | 20 | 84 |
 
-### 1. Ten people got the same result as four, and got there later
+*Eight games per table size, averages per game.*
 
-Both the four-person and ten-person tables made recognisable fish every time. But the ten-person
-tables weren't faster. Four people had their picture essentially done at five and a half minutes; ten
-people needed about a minute longer, and kept tinkering until the eight-minute mark.
+### 1. Ten people did slightly worse than four, and got there later
 
-Ten people laid only about a quarter more dominoes than four. Per person, output halved.
+The four-person tables made a recognisable fish in all eight games. The ten-person tables managed seven,
+and more of their pictures had breaks: three quarters of their standing dominoes fell, against nine in ten
+at four. In one ten-person game the run stopped almost at once and only a curved line fell.
+
+They weren't faster either. Four people had half the picture down by 2:13 and were essentially done at five
+and a half minutes; ten people took a minute longer to reach the same point, and kept tinkering until
+past the eight-minute mark.
+
+Ten people laid only about 60% more dominoes than four. Per person, output fell by more than a third.
 
 ### 2. The work only had five pieces
 
-The reason is visible in the plans. Every team sketched its fish as four to six strokes on the scratch pad:
+The reason is visible in the plans. Almost every team sketched its fish as three to six strokes on the scratch pad:
 top of the body, belly, two tail fins, maybe an eye. That is the natural number of independent pieces of
 work in this picture. And that is roughly how many people actually built: at the ten-person tables, four
 to eight people laid at least ten dominoes. The rest found other things to do.
@@ -69,7 +75,7 @@ Not because they were lazy. They did what conscientious people do when the work 
 > **Omar:** Quick sort-out: Leo's on the tail edge, so I'll leave that one with him. I'm floating to patch breaks.
 
 "Floating" was the most common role nobody was assigned. Floaters inspected (74 close inspections per
-ten-person game, against 22 at four), offered help, checked in on joins, and stepped back when someone
+ten-person game, against 20 at four), offered help, checked in on joins, and stepped back when someone
 said a line was theirs. In one game, four people laid 151 of the 158 dominoes; the other six laid seven
 between them. One of those six, the person who sketched the plan and divided the work, laid none at all
 and spoke more than anyone else at the table.
@@ -80,10 +86,10 @@ of work turns into coordination and checking, not output.**
 
 ### 3. Alone, nobody tells you it's broken
 
-The solo tables did worst, and not because their ideas were bad. One solo player, Maya, sketched a perfectly good
-fish, and spent the last minutes saying "body still isn't lighting up, checking the joint by the tail",
-bridging, re-tracing, checking again. At the push, nothing fell. Two others kept lifting and re-laying their
-own work and finished with 16 to 30 dominoes standing.
+The solo tables did worst: two fish out of eight. Not because their ideas were bad. One solo player, Maya,
+sketched a perfectly good fish, and spent the last minutes saying "body still isn't lighting up, checking the
+joint by the tail", bridging, re-tracing, checking again. At the push, nothing fell. Others kept lifting and
+re-laying their own work, up to 80 dominoes a game, and ran out of time.
 
 The difference at four was not hands, it was eyes. Someone else noticed the gap, someone else said "leave it,
 there's no time", someone else held the line while you fixed yours.
@@ -102,22 +108,22 @@ at not getting in its own way.
 
 ## What I take from it
 
-- **Size the team to the pieces of work, not to the importance of the work.** The fish had five strands.
-  Four or five people was the sweet spot; ten bought nothing but overhead.
+- **Size the team to the pieces of work, not to the importance of the work.** The fish had about five strands.
+  Four or five people was the sweet spot; ten bought overhead, and slightly worse pictures.
 - **Extra people don't sit idle; they convert into coordination.** Floating, checking, offering help, asking
   "is that yours?" It looks like engagement. It is real work, but it scales with headcount, not with the
   task.
 - **The second and third person matter most.** Going from one to four transformed the result, mostly
-  through someone else catching breaks. Going from four to ten changed almost nothing.
+  through someone else catching breaks. Going from four to ten made things a little worse.
 - **Overstaffing is cheaper for strong teams and expensive for weak ones.** A capable team quietly absorbs
   extra people. A struggling team turns them into collisions and rework.
 
 ## Caveats
 
 These are AI players, not people, and a ten-minute domino game is not a product launch. The numbers come
-from a handful of games per table size, so treat them as directions, not measurements. What the
+from eight games per table size, so treat them as directions, not precise measurements. What the
 simulation is good at is making mechanisms visible: who waits, who checks, where things break. Whether
 those mechanisms match your own teams is for you to judge.
 
-*Next in the series: who should decide? A dictator with poor taste, a dictator with good taste, or
-consensus, when the client's real wishes are scattered across the team.*
+*Next in the series: how much should a cross-functional team talk before it builds? Eng, Design and PM,
+each seeing a different part of the problem.*

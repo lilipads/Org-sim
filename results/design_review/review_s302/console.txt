@@ -1,0 +1,108 @@
+[   15s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Hey all! I'm the one who met the client, so here's the scoop: rowing club by a lake, no fish because the restaurant went vegetarian, and they want a graceful bird with a long elegant neck that glides 
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[   31s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 7
+    Hana -> everyone: Okay, I've got the pad. Plan: a big swan facing right, with the long S-curved neck as the tell-tale. I've split it into two lines from the tail: the belly and front of the neck, and the back and insid
+    (Sofia held a thought)
+    (Omar held a thought)
+[   48s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Jack -> everyone: Love it, Hana, nice work! Client dislikes: just no fish, and they want graceful with a long elegant neck. So my review: the body and the two-line split from the tail are great, but the neck is a bit c
+    (Sofia held a thought)
+[   63s] 0:45 asked Omar,Hana | dominoes 0 | calls 12
+    Hana -> everyone: Thanks all, I'm taking every note: slimmer, taller S-neck, smoother turns, small head with the beak pointing right, tail lifted a touch. Redrawing now and locking. Omar, you take the start. Sofia and 
+    (Omar held a thought)
+[  378s] 1:00 asked Sofia,Omar,Jack | dominoes 8 | calls 17
+    Sofia -> everyone: Dry run says both lines fall, start to end. I'm taking the back line, Omar has the front one with the start. Let's make sure both lines meet right at the beak tip so the fall carries through. Keep the
+    (Omar held a thought)
+    (Jack held a thought)
+[  390s] 1:15 asked Omar,Hana | dominoes 20 | calls 19
+    Hana -> everyone: Sounds good, Sofia. I'll stay off the strokes so we don't trip over each other. Shout when the body is up and the neck is climbing, and I'll do a squint check and tell you what it reads as.
+    (Omar held a thought)
+[  397s] 1:30 asked Sofia | dominoes 29 | calls 20
+    Sofia -> everyone: Sounds good, Hana. The back line is going up along the top now. I'll shout when the neck starts climbing so you can squint at it.
+[  417s] 1:45 asked Hana,Jack | dominoes 42 | calls 24
+    Jack -> everyone: Back from the client, and good news: they love the swan, the Silver Swan trophy is the whole reason. But they said the neck looks thick and stubby, and the head ends in a flat, blunt wedge. They want 
+    (Hana held a thought)
+[  433s] 2:00 asked Sofia,Hana | dominoes 47 | calls 26
+    Hana -> everyone: Squint result: the body reads as a swan body, but Sofia, your back line along the top still looks pale to me near the tail, so please check that joint. Jack, I heard the client. I've just redrawn only
+    (Sofia held a thought)
+[  443s] 2:15 asked Sofia,Omar,Hana,Jack | dominoes 57 | calls 30
+    Sofia -> everyone: Thanks Hana, I see the pale joint at the tail. I'm bridging it now. Then I'll trace the new neck from your sketch. Can you tell me which stroke numbers are the neck?
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  455s] 2:30 asked Hana,Jack | dominoes 69 | calls 32
+    Hana -> everyone: Sofia, there's no separate neck stroke. The new neck is the top part of the two strokes. Stroke 1 is the front line, belly up the front of the neck to the beak, and stroke 2 is the back line, along th
+    (Jack held a thought)
+[  468s] 2:45 asked Sofia,Omar,Jack | dominoes 74 | calls 35
+    Sofia -> everyone: Thanks Hana, that's clear. I'm finishing the tail bridge now, a few more dominoes. Then I'll trace stroke 2 from the pad so the back line carries up the new slim neck, and I'll inspect it once it's do
+    (Omar held a thought)
+[  497s] 3:00 asked Omar,Hana,Jack | dominoes 78 | calls 40
+    Omar -> everyone: Front line's up to the base of the neck. I'm climbing it now toward the beak, Sofia, I'll leave the tail joint to you.
+    (Jack held a thought)
+[  505s] 3:15 asked Sofia,Jack | dominoes 78 | calls 42
+    Sofia -> everyone: Tail bridge is in. I'm tracing stroke 2 fresh from the pad now, so the back line runs up the slim neck. Omar, keep climbing, and we'll meet at the beak tip.
+    (Jack held a thought)
+[  516s] 3:30 asked Omar,Hana,Jack | dominoes 77 | calls 45
+    Hana -> everyone: Heads up, Omar: the table says there's no start domino down at the tail, so right now nothing would fall. Can you check that it's standing at the very beginning of the front line? Squint result on the
+    (Jack held a thought)
+    (Omar held a thought)
+[  529s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 70 | calls 49
+    Hana -> everyone: Omar, urgent: there's still no start domino at the tail, so nothing falls right now. Can you put it in at the very beginning of the front line, where I'm pointing? Sofia, the back line only has a shor
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  538s] 4:00 asked Sofia,Omar,Jack | dominoes 72 | calls 52
+    Omar -> everyone: Got it, Hana, thanks for the nudge. Putting the start in at the tail right now and bridging it into the front line. Then I'll carry on up the neck to the beak. And yes, please take the neck half of st
+    (Jack held a thought)
+    (Sofia held a thought)
+[  551s] 4:15 asked Sofia,Hana,Jack | dominoes 85 | calls 55
+    Hana -> everyone: Okay, I'm taking the neck half of the back line. I'm drawing it as its own stroke now, stroke 3, picking up from the middle of the back where Sofia's piece is. Sofia, please just finish the back line 
+    (Jack held a thought)
+    (Sofia held a thought)
+[  560s] 4:30 asked Sofia,Omar,Jack | dominoes 92 | calls 58
+    Omar -> everyone: Start domino going in at the tail now, Hana, and I'm finishing the bridge into the front line. Then I'll climb the neck to the beak.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  569s] 4:45 asked Hana,Jack | dominoes 99 | calls 60
+    Jack -> everyone: Yes please, Hana, take the neck half, that's the fastest route. Omar, the start domino is the big one, nothing falls without it, so that first. Sofia, just the tail-to-middle stretch on the back line.
+    (Hana held a thought)
+[  582s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 64
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Yes Hana, take the neck half, please. My back line now runs from the tail to the middle and ends facing right, so start your piece right at its end and the fall carries on. I'm inspecting the tail joi
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  595s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 68
+    Jack -> everyone: Five minutes, team! Omar, the start domino is the one thing that matters right now. It still isn't standing at the very tail, so please drop it in first. Hana, shout the stroke number for the neck and
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  607s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 72
+    Omar -> everyone: Sorry, Jack, the start only comes with stroke 1, so I'm retracing the front line from the tail right now. That puts the start in at the tail. Hana, you've got the neck tip, so please take the top of t
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  614s] 5:45 asked Sofia,Hana,Jack | dominoes 93 | calls 75
+    Sofia -> everyone: Omar, good call, retrace stroke 1 from the tail and the start comes with it. I'm taking down the stray upright line above the body, it's not on the pad. Hana, thanks for the neck. I'll keep clear of t
+    (Hana held a thought)
+    (Jack held a thought)
+[  622s] 6:00 asked Omar,Hana,Jack | dominoes 84 | calls 78
+    Jack -> everyone: Thanks Omar, that's the right call, the start comes with stroke 1. I'll stay out of your way at the tail so we don't bump the table. Hana, shout when your neck piece is down and I'll check what falls 
+    (Hana held a thought)
+    (Omar held a thought)
+[  632s] 6:15 asked Sofia,Omar,Hana | dominoes 81 | calls 81
+    Omar -> everyone: Thanks Sofia, but careful, those were part of my front line near the body. I'm laying stroke 1 from the tail with the start in it, so I'll fix any gap there. Hana, please grab the top of the front lin
+    (Sofia held a thought)
+    (Hana held a thought)
+[  642s] 6:30 asked Sofia,Hana,Jack | dominoes 76 | calls 84
+    Sofia -> everyone: Dry run going while Omar's start goes in. Hana, are you laying the back of the neck? If not, tell me and I'll take stroke 3 right away. Omar, I'm staying clear of the tail.
+    (Jack held a thought)
+    (Hana held a thought)
+[  653s] 6:45 asked Omar,Hana,Jack | dominoes 70 | calls 87
+    Hana -> everyone: Yes Sofia, I've got the back of the neck, already queued from the end of your back line up to the beak, so don't take it. Omar, start domino first please. Shout if your back line stalls and I'll help.
+    (Jack held a thought)
+    (Omar held a thought)

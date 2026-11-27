@@ -157,3 +157,328 @@
     (Jack held a thought)
     (Sofia held a thought)
     (Tom held a thought)
+[ 1440s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Jack,Sam,Grace | dominoes 135 | calls 163
+    Maya -> everyone: Jack, the nudge didn't take, so I'm re-tracing stroke 1 from the start to close that joint. Shout if you're mid-stretch on the top line and I'll stay out of your way. Sam, could you pull that little s
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1465s] 4:30 asked Leo,Sofia,Jack,Sam,Grace | dominoes 147 | calls 169
+    Sam -> everyone: On it, Maya. Pulling the little spur that hangs down off the belly, just that bit and not the belly itself.
+    (Leo held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Grace held a thought)
+[ 1473s] 4:45 asked Maya,Priya,Sofia,Hana,Jack,Sam,Grace | dominoes 157 | calls 176
+    Priya -> Sam: Sam, those few you just lifted under the belly were mine, part of the fork join. Leave the curl and the spur to you, and I'll finish closing the top line into the fork.
+    Grace -> everyone: Sam, I just looked at that spot. The loose bits are the two short stubs just above and below the belly, one pointing down-left and one pointing down. The belly itself runs straight through between the
+    (Jack held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+[ 1492s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 177 | calls 186
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: The start's only reaching about ten dominoes. The line running down-right from it dies just short of the belly, so I'm bridging that end into the belly. That way the fall carries along the belly to th
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+[ 1505s] 5:15 asked Maya,Priya,Sofia,Jack,Sam,Grace | dominoes 186 | calls 192
+    Sam -> everyone: Hana, spur's out. I'm finishing a branch off the start line over to the nose, so we may double up with your bridge. Whichever reaches the belly first wins, and I'll check the belly kink by the fork af
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+[ 1517s] 5:30 asked Priya,Leo,Sofia,Hana,Jack,Grace | dominoes 189 | calls 198
+    Sofia -> everyone: Lower tail's done. I'm closing the nose gap between the belly end and the top line's left end, so the fall can go round the head. Leo, shout if you've got that bit already.
+    (Jack held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+[ 1527s] 5:45 asked Tom,Priya,Leo,Omar,Hana,Sam,Grace | dominoes 193 | calls 205
+    Leo -> everyone: Sofia, go ahead with the nose gap. I've already laid the bend at the nose off the start. I'm nudging the kink in the start line just before it reaches the belly, Hana, so we don't double up on your br
+    (Hana held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+[ 1542s] 6:00 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 193 | calls 214
+    Leo -> Hana: Hana, I'll stay off the bridge and just look at that joint where the start line meets the belly.
+    Hana -> everyone: The start line is still dying where it hits the belly. The turn there is too sharp, so I'm bridging it in at a shallower angle a bit further along. Everyone please keep clear of that spot for a moment
+    (Priya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+[ 1553s] 6:15 asked Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 193 | calls 222
+    Hana -> Leo: Thanks Leo. Staying on the bridge. Once it's in, could you look from the start and tell me where the fall stops?
+    Tom -> everyone: Top line's hooked in, but the upper tail joint is still broken. I'm re-tracing the upper tail from the fork now. I'll stay off the start and nose.
+    (Jack held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+[ 1569s] 6:30 asked Priya,Leo,Omar,Jack,Sam,Grace | dominoes 195 | calls 228
+    Omar -> everyone: Hana, I'll tidy the little kink just before your bridge and stay clear of the belly joint. Shout if I'm in your way.
+    (Jack held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+[ 1586s] 6:45 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 200 | calls 236
+    Hana -> Omar: Thanks Omar, go ahead with the kink, I'm laying the bridge just past it into the belly. Once it's in, someone please check the fall runs all the way round.
+    Jack -> everyone: Inspection's back. The start line has a sideways domino just before Omar's kink, then sharp turns at the bridge into the belly. Omar, I'll nudge that sideways one now and stay off yours. Hana, the bri
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+[ 1598s] 7:00 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 212 | calls 244
+    Maya -> everyone: Okay, my stroke finished but the start still only reaches a handful. I'm going to look closely at the start line down to the belly and tell you exactly where it breaks, so we're not all patching blind
+    (Leo held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[ 1610s] 7:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 233 | calls 253
+    Maya -> everyone: Inspection's back. The start line breaks right here: one domino sits off to the side and the next is jammed against it. Then there's a sharp turn just before the belly. I'm fixing this spot now. Hana,
+    (Grace held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+[ 1621s] 7:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 246 | calls 261
+    Maya -> everyone: Bridging the start line across that gap now. Hana, I'll leave your bridge alone. Everyone else, please stay off this spot for a few seconds.
+    (Priya held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[ 1636s] 7:45 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 269
+    Sofia -> everyone: I'm staying off the belly bridge. I'll close the joint right at the start where the top line begins, so the fall can hook up and over.
+    (Leo held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+[ 1649s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 279
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Grace -> everyone: Inspection says two breaks are left: the joint right at the start, which Sofia has, and the sharp turn where the start line meets the belly. I'm nudging that turn now. Hana, shout if I'm in your way. 
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+[ 1660s] 8:15 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 288
+    Sofia -> everyone: Closing the start joint now, bridging from the start up into the top line. Everyone else keep off this spot.
+    Grace -> everyone: I'm bridging the start line into the belly here with a shallower join. Everyone please keep clear of this spot.
+    (Hana held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+[ 1667s] 8:30 asked Tom,Priya,Leo,Omar,Jack,Sam | dominoes 250 | calls 294
+    Jack -> everyone: Thanks Grace, Sofia, Hana, you've got the joints, so everyone else please keep clear and let's not bump anything. Ninety seconds, great work all round!
+    Omar -> everyone: Got it Grace, staying off your spot. Nearly there, fish!
+    (Priya held a thought)
+    (Sam held a thought)
+[ 1679s] 8:45 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 250 | calls 303
+    Hana -> everyone: Grace, thanks. My bridge is laid and I'm out of dominoes. The fall still looks like it stops around where the start line meets the belly. I'm taking a quick look at that joint now, so please nobody bu
+    (Priya held a thought)
+[ 1690s] 9:00 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 232 | calls 312
+    Sam -> everyone: Hana, taking down that dark hook curling up off the start line. It's going nowhere, and the dominoes are yours for the belly joint.
+    (Grace held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[ 1699s] 9:15 asked Maya,Tom,Omar,Hana,Jack,Sam,Grace | dominoes 240 | calls 319
+    Hana -> everyone: Curl's out, thanks Sam. I'm joining the start line into the belly now. Please keep clear of this spot.
+    Grace -> everyone: Bridging the start line into the belly now. Please keep clear of that spot.
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[ 1707s] 9:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam | dominoes 242 | calls 327
+    Hana -> everyone: Priya, please stop taking down dominoes near the belly, we're about thirty seconds out and that's the bridge into the belly. Leave it standing.
+    Sam -> everyone: Joint's laid, I'm off it. Hands off everyone, no bumping now.
+    (Maya held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+[ 1714s] 9:45 asked Maya,Tom,Priya,Leo,Omar,Jack,Sam,Grace | dominoes 249 | calls 335
+    Jack -> everyone: Hands off everyone, let Hana and Grace's joint stand. Great work team, that's one good-looking fish!
+    Priya -> everyone: Hana, I'm off it, hands are empty. Leaving the bridge standing. Everyone, hands off!
+    Omar -> everyone: Hands off, everyone. Go fish!
+    (Maya held a thought)
+    (Grace held a thought)
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.84,
+      "error": 1.45
+    },
+    "Tom": {
+      "speed": 1.15,
+      "error": 1.76
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.7
+    },
+    "Leo": {
+      "speed": 1.43,
+      "error": 1.06
+    },
+    "Sofia": {
+      "speed": 0.89,
+      "error": 1.42
+    },
+    "Omar": {
+      "speed": 0.7,
+      "error": 1.87
+    },
+    "Hana": {
+      "speed": 0.73,
+      "error": 1.67
+    },
+    "Jack": {
+      "speed": 0.73,
+      "error": 0.8
+    },
+    "Sam": {
+      "speed": 1.45,
+      "error": 1.56
+    },
+    "Grace": {
+      "speed": 1.0,
+      "error": 1.53
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1770.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "curved row of fallen dominoes",
+      "u-shaped hand-drawn arc or bowl",
+      "smile or bracket-shaped stroke"
+    ],
+    [
+      "u-shaped curved line",
+      "bowl or cup outline",
+      "smile or hook-shaped arc"
+    ],
+    [
+      "curved arc of fallen dominoes seen from above",
+      "smile or bowl-shaped curve",
+      "part of a ring or circle outline"
+    ]
+  ],
+  "placed": 249,
+  "fell": 20,
+  "completion": 0.08,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 61,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Grace": 10,
+    "Jack": 7,
+    "Hana": 10,
+    "Sofia": 5,
+    "Sam": 8,
+    "Priya": 3,
+    "Leo": 7,
+    "Maya": 4,
+    "Tom": 1,
+    "Omar": 3
+  },
+  "held_thoughts": 236,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 358,
+    "failed": 4,
+    "input_tokens": 720,
+    "cache_creation_tokens": 1925998,
+    "cache_read_tokens": 1117399,
+    "output_tokens": 208009,
+    "seconds": 4198.3,
+    "api_equivalent_usd": 9.7469,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

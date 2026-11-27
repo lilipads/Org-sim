@@ -1,0 +1,147 @@
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.84,
+      "error": 1.45
+    },
+    "Tom": {
+      "speed": 1.15,
+      "error": 1.76
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.7
+    },
+    "Leo": {
+      "speed": 1.43,
+      "error": 1.06
+    },
+    "Sofia": {
+      "speed": 0.89,
+      "error": 1.42
+    },
+    "Omar": {
+      "speed": 0.7,
+      "error": 1.87
+    },
+    "Hana": {
+      "speed": 0.73,
+      "error": 1.67
+    },
+    "Jack": {
+      "speed": 0.73,
+      "error": 0.8
+    },
+    "Sam": {
+      "speed": 1.45,
+      "error": 1.56
+    },
+    "Grace": {
+      "speed": 1.0,
+      "error": 1.53
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1770.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "curved row of fallen dominoes",
+      "u-shaped hand-drawn arc or bowl",
+      "smile or bracket-shaped stroke"
+    ],
+    [
+      "u-shaped curved line",
+      "bowl or cup outline",
+      "smile or hook-shaped arc"
+    ],
+    [
+      "curved arc of fallen dominoes seen from above",
+      "smile or bowl-shaped curve",
+      "part of a ring or circle outline"
+    ]
+  ],
+  "placed": 249,
+  "fell": 20,
+  "completion": 0.08,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 61,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Grace": 10,
+    "Jack": 7,
+    "Hana": 10,
+    "Sofia": 5,
+    "Sam": 8,
+    "Priya": 3,
+    "Leo": 7,
+    "Maya": 4,
+    "Tom": 1,
+    "Omar": 3
+  },
+  "held_thoughts": 236,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 358,
+    "failed": 4,
+    "input_tokens": 720,
+    "cache_creation_tokens": 1925998,
+    "cache_read_tokens": 1117399,
+    "output_tokens": 208009,
+    "seconds": 4198.3,
+    "api_equivalent_usd": 9.7469,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

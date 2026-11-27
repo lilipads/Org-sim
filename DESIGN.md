@@ -718,3 +718,10 @@ top builder's share 100%, 35%, 23%; inspections 0.25, 22, 74. With the larger mo
 reach the goal, but with less than half the per-person output of four and four people as passengers;
 solo players still fail: one succeeded; one built a recognisable fish that didn't fall at all; two ended with
 only 16-30 dominoes standing after lifting and re-laying their own work (60 lifted per solo game on average).
+
+### 5.3 Sonnet, 8 games per size (seeds 101-108)
+
+Recognized 2/8, 8/8, 7/8; mean recognition 0.25, 0.98, 0.81; share fallen 56%, 90%, 76%; 90% of the final
+picture laid at 7:49, 5:32, 6:45; words 69, 1170, 1848; hands busy 74%, 20%, 16%; laid per person 100, 35, 22;
+people laying under 10: 0, 0.1, 3.6; inspections 0.25, 20, 84. With more games, ten people are slightly
+worse than four, not just less efficient. Written up in blog/01-overstaffing.md.

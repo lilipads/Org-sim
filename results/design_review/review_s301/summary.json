@@ -1,0 +1,234 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 515.5,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.5,
+  "pad_holders": [
+    "Leo",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "butterfly with antennae",
+      "flower on a stem",
+      "stick figure with raised arms"
+    ],
+    [
+      "butterfly with antennae and four wings",
+      "plant or sprout with two leaves on a stem",
+      "abstract hand-drawn figure, like a stylized person or bird"
+    ],
+    [
+      "butterfly with wings and antennae",
+      "plant or flower with leaves on a stem",
+      "bow tie with a stick-like handle"
+    ]
+  ],
+  "placed": 155,
+  "fell": 144,
+  "completion": 0.929,
+  "team_score": 0.929,
+  "first_domino_at": "1:00",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 13,
+    "Priya": 11,
+    "Tom": 11,
+    "Leo": 7
+  },
+  "held_thoughts": 64,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 0,
+    "input_tokens": 296,
+    "cache_creation_tokens": 690878,
+    "cache_read_tokens": 488372,
+    "output_tokens": 86158,
+    "seconds": 1150.0,
+    "api_equivalent_usd": 3.4977,
+    "cached": 2
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "review",
+  "designer": "Leo",
+  "locked_at": 45.0,
+  "reviews": {
+    "Maya": "Works: clearly a butterfly, symmetrical, big upper wings, smaller lower wings, two antennae, one start on the body. That matches the client's brief (flies, flowers, butterfly house, symmetry). Change: end the lower wing loops just short of the start domino instead of closing into it. Otherwise approved.",
+    "Tom": "Butterfly is great, and one body line from the start is right. The problem is the angles. The long horizontal line across the middle and the lower wings leave the body at nearly sideways, so they'd never get the fall. The upper wings leave at roughly 45-50 degrees, which is borderline, so tighten them. Please redraw so every wing line leaves the body going up-and-out at 30-35 degrees at most, then curves out and round. Drop the straight cross bar. Do the lower wings as a branch lower down the body, also leaving up-and-out gently, then curving down around the lower wing and back in. Keep the wi",
+    "Priya": "Works: single start up the body, mirrored wings as big loops, no detached eyes/spots, antennae branch gently. Change: (1) the horizontal line across the body and the lower-wing edges leave the body at ~90 degrees, so they won't fall; make every wing edge leave the body within ~40 degrees of upward, then curve out. (2) Lower wings should branch off lower on the body, sweeping up and out, then loop down and back. (3) Round the sharp corners on all wing outlines. (4) Make the upper wing diagonals a bit steeper. Then I'll dry-run before lock."
+  },
+  "aesthetics": 0.4,
+  "art_ratings": [
+    {
+      "score": 4.0,
+      "why": "The butterfly reads clearly and is balanced enough, but the wing outlines are uneven with gaps and stray strokes, and the antennae and body feel stiff rather than flowing."
+    },
+    {
+      "score": 4.0,
+      "why": "It reads clearly as a butterfly with antennae, but the wings are unbalanced in size, several outlines have gaps, and the jagged edges make the lines look rough rather than flowing."
+    },
+    {
+      "score": 4.0,
+      "why": "It reads clearly as a butterfly with a balanced, uncluttered composition, but the wings are lopsided, several lines break off or have jittery edges, and the right upper wing is missing, so it feels rough rather than polished."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 103,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0,
+      "4": 0.38,
+      "5": 0.15,
+      "6": 1.0,
+      "7": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.4,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}
