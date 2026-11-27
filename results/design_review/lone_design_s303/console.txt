@@ -1,0 +1,9 @@
+[    0s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Quick one from my client chat: the trail's mascot is Shelly, a garden snail, and the trail itself is a big spiral. They want something slow, calm and harmless that kids can find. So I'd say a snail, w
+    (Tom held a thought)
+    (Maya held a thought)
+[    1s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Tom -> everyone: Snail works for me, Priya, and it's a good call. I'll sketch it now: big spiral shell, head up at the right with two feelers.
+    (Maya held a thought)
+    (Leo held a thought)

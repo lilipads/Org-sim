@@ -1,0 +1,19 @@
+[    0s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Okay team, I've got the client brief. It's a snail, a big spiral shell with two eye stalks, calm and friendly for the kids. Sketching it now, then I'll lock it. Maya, take stroke 1, the body. Tom, tak
+    (Maya held a thought)
+[    1s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Snail sounds great, I'm on the body. Priya, just keep it one connected run from the start, with the stalks branching off the body at gentle angles, and I'll dry-run it once it's on the pad.
+    (Leo held a thought)
+    (Tom held a thought)
+[    1s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Sketch is up and locked. Maya, stroke 1 is the body from the tail. Tom, stroke 2 is the spiral shell. Leo, strokes 3 and 4 are the two stalks. Shout if anything looks off!
+    (Leo held a thought)
+    (Tom held a thought)
+[   10s] 0:45 asked Maya,Tom,Leo | dominoes 0 | calls 15
+    Tom -> everyone: Got the spiral, starting it now. It'll wait for Maya's body to reach the shell.
+    Leo -> everyone: Got the stalks. Running a dry run on the locked sketch now before I lay anything.
+    (Maya held a thought)
+[   13s] 1:00 asked Maya,Priya | dominoes 0 | calls 17
+    Priya -> everyone: Okay, locking it for real now. Maya, body first from the start. Tom and Leo, your strokes will grow off it as it reaches them. Shout if anything looks off.
+    (Maya held a thought)

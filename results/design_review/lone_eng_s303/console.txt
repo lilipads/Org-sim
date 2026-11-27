@@ -1,0 +1,5 @@
+[    1s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Priya: Priya, what did the client say about the animal? Any favourites, or ones they hate? It's a pond trail, so I'm leaning toward a fish or a duck, but I'll go with whatever they want.
+    Priya -> everyone: Quick brief from the client, since I'm the only one who met them. It's for a kids' nature trail around a pond, and their mascot is Shelly, a garden snail. The trail is laid out as a big spiral, so the
+    (Tom held a thought)
