@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 714.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming to the right",
+      "bird with a long tail",
+      "looped ribbon or knot"
+    ],
+    [
+      "fish with a forked tail",
+      "bird or swan with a looped neck",
+      "abstract loop or ribbon knot"
+    ],
+    [
+      "a fish in profile, with a tail on the left and a head loop on the right",
+      "a bird or swan-like head with a long beak and a curved neck",
+      "a lasso or loop of rope with a trailing end"
+    ]
+  ],
+  "placed": 146,
+  "fell": 146,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 16,
+    "Sofia": 12,
+    "Omar": 10,
+    "Jack": 6
+  },
+  "held_thoughts": 64,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 2,
+    "input_tokens": 296,
+    "cache_creation_tokens": 737856,
+    "cache_read_tokens": 448906,
+    "output_tokens": 62930,
+    "seconds": 1361.9,
+    "api_equivalent_usd": 3.5411,
+    "cached": 6
+  },
+  "review": "peer",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 5.0
+    },
+    "Omar": {
+      "rating": 4.0
+    },
+    "Hana": {
+      "rating": 5.0
+    },
+    "Jack": {
+      "rating": 4.0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

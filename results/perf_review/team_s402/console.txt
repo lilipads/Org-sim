@@ -1,0 +1,274 @@
+[   22s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Let's do a fish, a big oval body with a triangle tail. Easy outline, and the tail makes it obvious. I've sketched it on the pad. I'll lay the top line from the nose, so can someone take the bottom lin
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[   42s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Sofia -> Hana: Hana, could you pass me the pad? I'll sketch the fish on it now, sorry, I said it was drawn before it actually was. Or if you'd rather draw it, a big oval body on the left with a triangle tail on the 
+    Hana -> everyone: Fish works for me. The pad was blank when I picked it up, so I'm drawing it now. Sofia, you take the top line from the nose. I'll take the bottom. Omar, you've got the tail, and Jack, you're on backup
+    (Omar held a thought)
+    (Jack held a thought)
+[   57s] 0:30 asked Sofia,Omar,Hana,Jack | dominoes 14 | calls 12
+    Hana -> everyone: Pad's done, everyone can see it. The start is at the top of the tail, so I'm laying that tail edge right now. Sofia, take the top line and it'll pick up from the tail as soon as it reaches the middle.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   63s] 0:45 asked Sofia,Omar,Jack | dominoes 31 | calls 15
+    Sofia -> everyone: Sounds good, Hana, I'm on the short leg down to the body and then round the top. Omar, the back edge of the tail is yours. Jack, once we're further along, walk it from the start and tell us where it s
+    (Omar held a thought)
+    (Jack held a thought)
+[   73s] 1:00 asked Omar,Hana,Jack | dominoes 52 | calls 18
+    Omar -> everyone: Got it, the back edge and lower tail are mine. Tail's coming together, so the body lines should connect soon.
+    (Jack held a thought)
+    (Hana held a thought)
+[   85s] 1:15 asked Jack | dominoes 72 | calls 19
+    Jack -> everyone: Nice work, Hana. The tail top runs through to the middle and the chain looks good from the start. Omar, you stay on the back edge. I'll take the lower tail leg so you don't have to do both.
+[   93s] 1:30 asked Omar,Hana,Jack | dominoes 93 | calls 22
+    Jack -> everyone: Omar, you've got the lower tail leg, so I'll leave it with you. I'm going to check where Sofia's top line meets the middle, because it looks pale there.
+    (Omar held a thought)
+    (Hana held a thought)
+[  104s] 1:45 asked Sofia,Omar,Hana,Jack | dominoes 103 | calls 26
+    Hana -> everyone: Bottom line's done. Omar, stay on the back edge. I'm taking the lower tail leg now. Jack, the top line is still pale where it meets the middle, so fix that join and then walk it from the start.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  114s] 2:00 asked Sofia,Omar,Jack | dominoes 118 | calls 29
+    Jack -> everyone: Found it: the top line is a hair short of the middle, so it isn't picking up from the tail. I'm closing that gap now. Sofia, keep going round to the nose, nice and steady.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  124s] 2:15 asked Sofia,Omar,Hana,Jack | dominoes 118 | calls 33
+    Hana -> everyone: Lower tail leg is done. Jack, I'm taking a close look at the middle join to check your fix. If the top line is still pale after that, I'll help close it.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  135s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 130 | calls 37
+    Hana -> everyone: Top line is still pale at the middle, so I'm bridging that join myself now. Jack, stay off that spot so we don't bump each other, and then walk the whole body from the start.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  144s] 2:45 asked Sofia,Omar,Jack | dominoes 130 | calls 40
+    Jack -> everyone: Sorry Hana, I said I was closing that join and hadn't actually finished. It's all yours, I'm stepping off. I'll walk the top line from the nose side and tell you if it goes dark once your bridge is in
+    (Omar held a thought)
+    (Sofia held a thought)
+[  154s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 130 | calls 44
+    Hana -> everyone: Jack, thanks for stepping off. My bridge is in but the top line still looks pale, so I'm taking a close look at that join to see what's missing. Sofia, Omar, keep going on what you have. Jack, stay cl
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  165s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 142 | calls 48
+    Omar -> Hana: Hana, quick one from when I looked at that join. There's a domino jammed too close just below it, and a sharp kink a bit further down, so the fall isn't carrying up into the top line. If your bridge d
+    Hana -> everyone: Bridge is about one domino short of the top line. I'm joining it now. Jack, stay clear until it goes dark.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  178s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 147 | calls 52
+    Hana -> everyone: Thanks Omar. I'm letting this join finish first. If the top line is still pale after, I'll clear the jammed one. Jack, stay clear till then.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  188s] 3:45 asked Sofia,Omar,Jack | dominoes 156 | calls 55
+    Jack -> everyone: Hana, your hands are down at the tail now, so I'll close the top join quickly. The pale curve you're laying at the bottom right isn't on the pad and doesn't connect to anything. Is that deliberate?
+    (Sofia held a thought)
+    (Omar held a thought)
+[  202s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 157 | calls 59
+    Hana -> everyone: Jack, no, that pale loop isn't deliberate and it's not on the pad. Omar, is that yours? I've got a few dominoes left on the join, so stay off it for a moment. Once it's in, I'll pull that loop down. I
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  359s] 4:15 asked Omar,Hana,Jack | dominoes 145 | calls 63
+    Omar -> everyone: Hana, that loop isn't mine, my hands have only been on the back edge. Agreed, pull it down once your join is in. I'll stay off the join and have a look over the tail edge to make sure it all goes dark
+    (Jack held a thought)
+    (Hana held a thought)
+[  372s] 4:30 asked Omar,Hana | dominoes 142 | calls 65
+    Hana -> everyone: Connect's in, but the top line is still pale. I'm bridging one more time from the dark tail line into the start of the top line. Jack, stay off the join. Sofia, thanks for clearing the loop. Leave the
+    (Omar held a thought)
+[  386s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 132 | calls 69
+    Hana -> everyone: Bridge won't fit, there's a jammed domino right at the join. I'm clearing just that one spot and then I'll bridge again. Everyone stay off it.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  401s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 139 | calls 73
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Hana, go ahead and clear that one. The top curve's first domino leans up-left while the tail line comes in heading down-left, so that's a sharp corner. Once the jam's gone, shout and I'll run one conn
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  413s] 5:15 asked Sofia,Hana | dominoes 104 | calls 75
+    Sofia -> everyone: Hana, Omar's right, that's a sharp corner at the join. I'll re-lay the top curve from the middle round to the nose so it leaves the junction at a gentler angle. I'll start at the nose end and work bac
+    (Hana held a thought)
+[  424s] 5:30 asked Sofia,Omar,Hana | dominoes 113 | calls 78
+    Omar -> everyone: Hana, Sofia, heads up: the very first gap, between the start domino and the top of the tail edge, looks too wide, so the start only knocks itself over. I'm closing that now, away from your hands. Keep
+    (Hana held a thought)
+    (Sofia held a thought)
+[  434s] 5:45 asked Sofia,Omar,Hana | dominoes 123 | calls 81
+    Omar -> everyone: Last try on the start gap, bridging it with a connect now. Staying off the join.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  450s] 6:00 asked Omar,Hana | dominoes 145 | calls 83
+    Hana -> everyone: Omar, the start gap is yours, I'm off it. The tail edge turns back to the middle in a hairpin at the bottom, and the fall can't make that corner. I'm branching a gentle curve off the side of the tail 
+    (Omar held a thought)
+[  463s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 157 | calls 87
+    Hana -> everyone: Branch is in. I'm inspecting from the start down the tail edge and into the middle to see where it stops. Omar, did the start gap close? Sofia, keep going on the top curve. Jack, stay off the middle.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  475s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 153 | calls 91
+    Hana -> everyone: Right, there's a clump of jammed dominoes in the middle that's blocking everything. I'm clearing just that clump now. Everyone stay off it. Then I'll bridge from the dark branch into the top line and 
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  485s] 6:45 asked Omar,Jack | dominoes 148 | calls 93
+    Omar -> everyone: Hana, yes, the start gap is closed. The whole tail edge goes dark from the start and your branch is dark into the middle too. I'm staying off the middle while you clear it. Shout when the bridge is in
+    (Jack held a thought)
+[  495s] 7:00 asked Sofia,Hana,Jack | dominoes 143 | calls 96
+    Hana -> everyone: Clump is nearly cleared. Next I'll bridge from the dark branch into the top line, then the bottom. Everyone stay off the middle until I shout.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  509s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 149 | calls 100
+    Sofia -> everyone: Hana, top curve is laid and I'm staying off the middle. From my look, the bottom line is the shakier one. It has a sharp turn and a jammed domino just left of where you're clearing, and a stray end po
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  528s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 120 | calls 104
+    Sofia -> everyone: Hana, I'm re-laying the whole bottom line from the middle round to the nose in one go, so it comes out clean. I'll stay clear of your clump. Once your bridge goes in, shout if the top still looks pale
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  540s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 117 | calls 108
+    Hana -> everyone: Clump's cleared and the bridges are in, but a couple of dominoes wouldn't fit at the join. I'm taking out the jammed ones right at the join now, then one more bridge into the top. Everyone stay off th
+    (Sofia held a thought)
+    (Omar held a thought)
+[  551s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 137 | calls 112
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Bottom line is only partly laid, so I'm finishing it now round to the nose. Hana, shout when the middle bridge is in and I'll check it goes dark.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  562s] 8:15 asked Omar,Hana,Jack | dominoes 138 | calls 115
+    Hana -> everyone: Jammed ones are out and the bridges are in. Top and bottom look dark to me now. I'm clearing the pale strays in the lower middle. Jack, same area, so let's split it. Nobody touch the dark tail edge or
+    (Omar held a thought)
+    (Jack held a thought)
+[  569s] 8:30 asked Omar,Hana,Jack | dominoes 146 | calls 118
+    Hana -> everyone: Okay, 90 seconds left. Strays are mostly gone, so let's stop pulling things down. Jack, please leave the middle alone now. Nobody touch the dark lines. Sofia, only finish the nose if it's quick.
+    (Omar held a thought)
+    (Jack held a thought)
+[  578s] 8:45 asked Sofia,Omar,Jack | dominoes 155 | calls 121
+    Jack -> everyone: Hana, I'm done with the strays in the pocket and I haven't touched any dark line. I'm staying off everything now. Nice work on the join, all of you.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  586s] 9:00 asked Sofia,Omar,Hana | dominoes 155 | calls 124
+    Sofia -> everyone: Nose is done, so the fish is fully laid. Please nobody touch anything now, let's let it fall.
+    Hana -> everyone: Thanks Jack. All hands off now, let's let it fall. Good work, everyone.
+    (Omar held a thought)
+[  593s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 155 | calls 128
+    Omar -> everyone: Looks good from here, outline's all dark. Hands off, everyone, and let the fish swim!
+    Jack -> everyone: Hands off from me too. Fingers crossed, nice teamwork everyone.
+[  600s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 155 | calls 132
+    Sofia -> everyone: Hands off from me too. Let the fish swim!
+    Hana -> everyone: All hands off. Good work, everyone, let it fall.
+[  606s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 155 | calls 136
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 667.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish with an open mouth, facing right",
+      "leaf or seed pod outline",
+      "fish hooked on a fishing line"
+    ],
+    [
+      "fish facing right, with an open mouth and fin",
+      "leaf or seed on a stem",
+      "bird's head in profile"
+    ],
+    [
+      "fish with a fishing line",
+      "leaf on a stem",
+      "lemon or seed shape"
+    ]
+  ],
+  "placed": 155,
+  "fell": 133,
+  "completion": 0.858,
+  "team_score": 0.858,
+  "first_domino_at": "0:30",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 9,
+    "Hana": 20,
+    "Omar": 8,
+    "Jack": 7
+  },
+  "held_thoughts": 81,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 1,
+    "input_tokens": 316,
+    "cache_creation_tokens": 795545,
+    "cache_read_tokens": 466048,
+    "output_tokens": 91240,
+    "seconds": 1480.6,
+    "api_equivalent_usd": 3.99,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,277 @@
+[   20s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Let's do a fish, facing left, with a big forked tail. I'm sketching it now. I'll lay the top line from the nose. Sofia, take the bottom line. Omar, take the top tail fin. Jack, take the bottom tail fi
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   28s] 0:15 asked Sofia,Omar,Jack | dominoes 0 | calls 7
+    Omar -> everyone: Fish facing left with a forked tail, love it. I've got the top tail fin, Hana. Shout once the strokes are on the pad and I'll trace mine.
+    (Sofia held a thought)
+    (Jack held a thought)
+[   40s] 0:30 asked Sofia,Hana,Jack | dominoes 0 | calls 10
+    Hana -> everyone: Strokes are on the pad: 1 top body, 2 bottom body, 3 top tail, 4 bottom tail. Go ahead and trace yours. I'm on 1 and the start.
+    (Sofia held a thought)
+    (Jack held a thought)
+[   47s] 0:45 asked Sofia,Omar,Jack | dominoes 10 | calls 13
+    Sofia -> everyone: Fish works for me! I've got the bottom line, tracing stroke 2 now.
+    Jack -> everyone: Sounds good, Hana, fish it is. I've got the bottom tail fin, tracing stroke 4 now.
+    Omar -> everyone: Tracing the top tail fin now, stroke 3.
+[   52s] 1:00 asked Hana | dominoes 28 | calls 14
+[   52s] 1:15 asked - | dominoes 47 | calls 14
+[   52s] 1:30 asked - | dominoes 67 | calls 14
+[   61s] 1:45 asked Hana | dominoes 83 | calls 15
+    Hana -> everyone: Top line's done and it reaches the tail. Omar, Jack, you're clear to carry on. I'll check the joint where the body meets the tail.
+[   72s] 2:00 asked Omar,Hana,Jack | dominoes 92 | calls 18
+    Hana -> everyone: Top line's all connected from the start. Sofia, your bottom line needs to run into the tail line just past where it ends now. Omar, stroke 3 is still open at the top of the tail, so keep going. Shout 
+    (Omar held a thought)
+[   82s] 2:15 asked Sofia,Omar | dominoes 100 | calls 20
+    Sofia -> everyone: Bottom line's down and linked to the start. I'm checking the joint at the tail now to make sure it runs into the tail line.
+    (Omar held a thought)
+[   93s] 2:30 asked Sofia,Hana | dominoes 116 | calls 22
+    Sofia -> everyone: Found it: there's a small gap where my bottom line meets the tail line. I'm bridging it now.
+    (Hana held a thought)
+[  103s] 2:45 asked Hana | dominoes 133 | calls 23
+    Hana -> everyone: Nice work, everyone. The whole run is connected from the start right now, so please don't leave any gaps. Sofia, thanks for bridging the tail joint. Omar, Jack, finish the fin tips and shout if anythi
+[  108s] 3:00 asked Sofia,Omar,Jack | dominoes 141 | calls 26
+    Omar -> everyone: Got it, Hana. Top tail fin is still going down, I'll look it over once it's done.
+    Sofia -> everyone: Thanks Hana! Finishing the bridge at the tail joint, then I'll inspect it again to make sure the whole run still falls.
+    (Jack held a thought)
+[  117s] 3:15 asked Hana,Jack | dominoes 151 | calls 28
+    Hana -> everyone: Thanks both. Sofia, Omar, keep going. I'm taking a look over the whole tail now, and I'll shout if anything needs a fix.
+    (Jack held a thought)
+[  129s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 154 | calls 32
+    Hana -> everyone: Omar, the pale top fin still has to link in at the joint where it meets the body. Once you're done, make sure no gaps are left. Jack, the notch between the two fins is still open, so close that up.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  140s] 3:45 asked Sofia,Omar,Jack | dominoes 157 | calls 35
+    Jack -> everyone: On it, Hana. I'll close the notch between the fins now. Omar, I'll stay clear of your top fin.
+    Sofia -> everyone: On it, Hana. Bottom joint is done, I'm inspecting the tail area now to see what still isn't connected.
+    (Omar held a thought)
+[  148s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 160 | calls 39
+    Sofia -> everyone: Hana, I'm closing the pale top fin where it meets the body, just by the tail joint. Omar, you can keep going on the tip. Jack has the notch.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  158s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 162 | calls 43
+    Sofia -> everyone: Closing the pale fin base now, right at the tail joint. Omar, keep going on the tip.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  168s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 176 | calls 47
+    Sofia -> everyone: Linking the pale fin base into the body now. Omar, finish the tip, and Jack, shout if the notch needs a hand.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  176s] 4:45 asked Omar,Hana,Jack | dominoes 185 | calls 50
+    Hana -> everyone: Sofia, thanks, you've got the pale fin joint. Omar, there's a domino off to the side near the top tip, nudge it into line. I'm fixing the gap at the notch between the fins, Jack, so you can go check t
+    (Omar held a thought)
+    (Jack held a thought)
+[  185s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 193 | calls 54
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: On it, Hana. I'm nudging the stray domino at the top tip into line now. Sofia's got the pale fin base, so I'll stay clear of that.
+    Jack -> everyone: Thanks Hana, I'll leave the notch to you and check the bottom fin.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  341s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 186 | calls 59
+    Omar -> everyone: Tip break's too big to nudge, so I'm re-laying the whole top fin, stroke 3. Sofia, I'll be on the fin base too, so shout if we overlap.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  352s] 5:30 asked Sofia,Hana,Jack | dominoes 174 | calls 62
+    Sofia -> everyone: Sounds good, Omar. Re-lay the whole fin and I'll stay off it so we don't collide. Once it's down I'll inspect the base joint and close anything that's left. Hana, Jack, shout if the notch or the botto
+    (Hana held a thought)
+    (Jack held a thought)
+[  360s] 5:45 asked Omar,Hana,Jack | dominoes 166 | calls 65
+    Hana -> everyone: I'm closing the gap in the notch between the fins now. Omar, keep going on the top fin. Sofia, stay on the pale fin base. Nobody else needs to come near the notch.
+    (Jack held a thought)
+    (Omar held a thought)
+[  371s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 169 | calls 69
+    Hana -> everyone: I'm looking over the notch between the fins now to see exactly where it's broken. Omar, keep going on the top fin. Everyone else, stay clear of the notch so we don't bump it.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  383s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 186 | calls 73
+    Sofia -> everyone: Okay Hana, I'm on the pale fin base. Closing the joint into the body now, and staying off the notch. Omar, I'll keep clear of your tip.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  390s] 6:30 asked Omar,Hana,Jack | dominoes 194 | calls 76
+    Hana -> everyone: Notch is bridged. I'm inspecting the tail now to check it holds. Omar, Sofia, keep going on the fin and the base. Please no gaps left in the last few minutes.
+    (Omar held a thought)
+    (Jack held a thought)
+[  398s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 201 | calls 80
+    Hana -> everyone: Notch still has a couple of dominoes off the line. I'm fixing those two spots now, so please stay clear of it.
+    (Omar held a thought)
+    (Jack held a thought)
+[  408s] 7:00 asked Sofia,Hana,Jack | dominoes 204 | calls 83
+    Hana -> everyone: Fixes are in at the notch. I'm inspecting it once more to see if it connects. Everyone else, please stay clear of it.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  418s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 204 | calls 87
+    Hana -> everyone: Notch still has three spots off the line. I'm fixing all of them now, so please stay clear. Omar, keep going on the top fin. Sofia, the fin base. Jack, check the bottom fin.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  426s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 204 | calls 91
+    Jack -> Hana: Hana, I nudged the bottom fin end just before the notch into line earlier. I'm keeping my hands off the notch so you can work.
+    Omar -> everyone: Top fin is down, just one wonky spot at the tip left. I'm nudging that now and staying clear of the notch and the base.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  437s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 228 | calls 95
+    Hana -> everyone: Notch is still pale, so I'm bridging it directly now. Please stay clear of it. Sofia, get that pale fin base joined in before time's up.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  447s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 232 | calls 99
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Two minutes. I'm finishing the notch link, so keep clear of it. Sofia, get the pale fin base joined in. Omar and Jack, once you're done, check for gaps and stand up anything that's fallen.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  455s] 8:15 asked Sofia,Omar,Jack | dominoes 242 | calls 102
+    Sofia -> everyone: Hana, I'm tying the two pale pieces into the body at the tail joint now. I'll stay off the notch and the tip.
+    (Omar held a thought)
+    (Jack held a thought)
+[  465s] 8:30 asked Omar,Hana,Jack | dominoes 249 | calls 105
+    Hana -> everyone: Notch link is down. I'm checking it holds now, so keep clear of it. Sofia, finish the pale base joint. Omar, Jack, stand up anything that's fallen.
+    (Jack held a thought)
+    (Omar held a thought)
+[  473s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 109
+    Hana -> everyone: Notch holds as far as I can see. I'm fixing the jammed domino right at the tail joint. Sofia, finish tying in the pale fins. Everyone else, stand up anything that's fallen and keep clear of the tail.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  479s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 113
+    Hana -> everyone: One minute. Tail joint is nudged in. Everyone please keep hands off the tail and the notch now, and just stand up anything that's fallen elsewhere.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  485s] 9:15 asked Omar,Jack | dominoes 250 | calls 115
+    Omar -> everyone: Top fin's dark all the way to the tip, so I'm hands off. Nobody bump it! Looking good, team.
+    Jack -> everyone: Got it, Hana. My stretch is all connected, so I'm keeping my hands clear. Shout if you want me on anything.
+[  493s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 119
+    Hana -> everyone: Thirty seconds, everyone hands off. Great work, team.
+    Sofia -> everyone: Hands off everyone, it's looking like a fish. Nobody touch anything!
+    Omar -> everyone: Hands off, everyone, let it fly. Nice fish, team!
+    (Jack held a thought)
+[  499s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 123
+    Jack -> everyone: Looks great, team. Nice work Hana, Omar and Sofia. Hands off, let it fly!
+    Hana -> everyone: Hands off, everyone. Here goes!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 563.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish",
+      "fishing lure or fly",
+      "feather or plume"
+    ],
+    [
+      "a fish with a forked tail",
+      "a fishing fly or lure",
+      "a bow or ribbon knot"
+    ],
+    [
+      "a fish seen from the side, with a looped body and forked tail",
+      "a fishing lure or fly with a loop and feathery strands",
+      "a ribbon bow or tied knot with loose trailing ends"
+    ]
+  ],
+  "placed": 250,
+  "fell": 171,
+  "completion": 0.684,
+  "team_score": 0.684,
+  "first_domino_at": "0:45",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 21,
+    "Omar": 8,
+    "Sofia": 12,
+    "Jack": 6
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 140,
+    "failed": 1,
+    "input_tokens": 290,
+    "cache_creation_tokens": 697797,
+    "cache_read_tokens": 421228,
+    "output_tokens": 59029,
+    "seconds": 1150.2,
+    "api_equivalent_usd": 3.286,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 88
+    },
+    "Omar": {
+      "dominoes_fell": 11
+    },
+    "Hana": {
+      "dominoes_fell": 41
+    },
+    "Jack": {
+      "dominoes_fell": 31
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

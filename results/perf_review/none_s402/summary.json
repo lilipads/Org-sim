@@ -1,0 +1,108 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 608.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana",
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a curving, branching line",
+      "tree branch with twigs",
+      "river or stream map"
+    ],
+    [
+      "tree branch or twig with forks",
+      "cracked lines or fissure pattern",
+      "lightning bolt or river delta network"
+    ],
+    [
+      "tree branch or root system",
+      "lightning bolt or crack pattern",
+      "river or stream delta"
+    ]
+  ],
+  "placed": 230,
+  "fell": 123,
+  "completion": 0.535,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 56,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 18,
+    "Omar": 9,
+    "Sofia": 17,
+    "Jack": 9
+  },
+  "held_thoughts": 67,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 1,
+    "input_tokens": 294,
+    "cache_creation_tokens": 736159,
+    "cache_read_tokens": 423599,
+    "output_tokens": 72672,
+    "seconds": 1247.4,
+    "api_equivalent_usd": 3.5832,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

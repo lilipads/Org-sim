@@ -1,0 +1,163 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 83,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Omar": {
+   "sound_work": 12,
+   "fixes": 2,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Hana": {
+   "sound_work": 15,
+   "fixes": 1,
+   "open_breaks_owned": 4,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0
+  },
+  "Jack": {
+   "sound_work": 18,
+   "fixes": 1,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 29,
+   "to": 276,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 153.2,
+   "at": [
+    23.1,
+    9.9
+   ]
+  },
+  {
+   "from": 62,
+   "to": 207,
+   "owner": "Hana",
+   "stranded": 3,
+   "dir": 86.5,
+   "at": [
+    25.2,
+    10.6
+   ]
+  },
+  {
+   "from": 84,
+   "to": 210,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 93.2,
+   "at": [
+    25.3,
+    12.6
+   ]
+  },
+  {
+   "from": 161,
+   "to": 236,
+   "owner": "Sofia",
+   "stranded": 2,
+   "dir": 144.8,
+   "at": [
+    20.4,
+    11.4
+   ]
+  },
+  {
+   "from": 242,
+   "to": 132,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 143.1,
+   "at": [
+    20.0,
+    13.1
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "5:00",
+   "who": "Jack",
+   "at": [
+    25.0,
+    11.2
+   ],
+   "gap_owner": "Omar"
+  },
+  {
+   "clock": "5:30",
+   "who": "Omar",
+   "at": [
+    25.1,
+    6.0
+   ],
+   "gap_owner": "Omar"
+  },
+  {
+   "clock": "6:15",
+   "who": "Omar",
+   "at": [
+    25.1,
+    6.3
+   ],
+   "gap_owner": "Omar"
+  },
+  {
+   "clock": "8:00",
+   "who": "Hana",
+   "at": [
+    22.0,
+    10.5
+   ],
+   "gap_owner": "Sofia"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 78,
+   "Omar": 22,
+   "Hana": 0,
+   "Jack": 23
+  },
+  "10": {
+   "Sofia": 73,
+   "Omar": 32,
+   "Hana": -15,
+   "Jack": 28
+  },
+  "20": {
+   "Sofia": 63,
+   "Omar": 52,
+   "Hana": -45,
+   "Jack": 38
+  }
+ },
+ "contribution": {
+  "Sofia": 73,
+  "Omar": 32,
+  "Hana": -15,
+  "Jack": 28
+ },
+ "with_planning": {
+  "Sofia": 73.0,
+  "Omar": 32.0,
+  "Hana": 17.0,
+  "Jack": 28.0
+ }
+}

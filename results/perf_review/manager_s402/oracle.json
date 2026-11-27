@@ -1,0 +1,156 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 38,
+   "fixes": 1,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Omar": {
+   "sound_work": 39,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Hana": {
+   "sound_work": 35,
+   "fixes": 1,
+   "open_breaks_owned": 3,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0
+  },
+  "Jack": {
+   "sound_work": 28,
+   "fixes": 0,
+   "open_breaks_owned": 2,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 49,
+   "to": 166,
+   "owner": "Sofia",
+   "stranded": 2,
+   "dir": 39.4,
+   "at": [
+    22.2,
+    8.6
+   ]
+  },
+  {
+   "from": 55,
+   "to": 168,
+   "owner": "Hana",
+   "stranded": 3,
+   "dir": 41.1,
+   "at": [
+    23.0,
+    10.2
+   ]
+  },
+  {
+   "from": 58,
+   "to": 131,
+   "owner": "Jack",
+   "stranded": 6,
+   "dir": 36.3,
+   "at": [
+    24.7,
+    10.8
+   ]
+  },
+  {
+   "from": 168,
+   "to": 172,
+   "owner": "Hana",
+   "stranded": 3,
+   "dir": 114.1,
+   "at": [
+    23.2,
+    11.1
+   ]
+  },
+  {
+   "from": 170,
+   "to": 171,
+   "owner": "Hana",
+   "stranded": 4,
+   "dir": 66.0,
+   "at": [
+    23.0,
+    11.8
+   ]
+  },
+  {
+   "from": 134,
+   "to": 137,
+   "owner": "Jack",
+   "stranded": 4,
+   "dir": 28.6,
+   "at": [
+    27.3,
+    12.1
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "3:30",
+   "who": "Sofia",
+   "at": [
+    29.9,
+    7.7
+   ],
+   "gap_owner": "Hana"
+  },
+  {
+   "clock": "5:00",
+   "who": "Hana",
+   "at": [
+    24.6,
+    10.2
+   ],
+   "gap_owner": "Jack"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 38,
+   "Omar": 39,
+   "Hana": 25,
+   "Jack": 18
+  },
+  "10": {
+   "Sofia": 38,
+   "Omar": 39,
+   "Hana": 15,
+   "Jack": 8
+  },
+  "20": {
+   "Sofia": 38,
+   "Omar": 39,
+   "Hana": -5,
+   "Jack": -12
+  }
+ },
+ "contribution": {
+  "Sofia": 38,
+  "Omar": 39,
+  "Hana": 15,
+  "Jack": 8
+ },
+ "with_planning": {
+  "Sofia": 38.0,
+  "Omar": 39.0,
+  "Hana": 50.0,
+  "Jack": 8.0
+ }
+}

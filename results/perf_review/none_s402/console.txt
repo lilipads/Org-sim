@@ -1,0 +1,271 @@
+[   21s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Let's do a fish. Big oval body, a clear forked tail, start at the nose. I'm sketching it now. I'll take the lead-in and the top line, Sofia the bottom line, Omar the tail once the body lines meet ther
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[   31s] 0:15 asked Sofia,Omar,Jack | dominoes 0 | calls 7
+    Omar -> everyone: Fish it is, nice. I'll take the tail once your body lines meet there. Hana, shout when the sketch is up and I'll trace the fork. Make that tail nice and big so the judge can't miss it!
+    (Sofia held a thought)
+    (Jack held a thought)
+[   49s] 0:30 asked Sofia,Hana,Jack | dominoes 0 | calls 10
+    Hana -> everyone: Sketch is up. Stroke 1 is the lead-in from the nose, the top and bottom arcs split off it and meet near the tail, and two long lines fan out into the fork. I'm laying the lead-in and top line now. Sof
+    (Sofia held a thought)
+    (Jack held a thought)
+[  205s] 0:45 asked Sofia,Omar,Jack | dominoes 10 | calls 15
+    Sofia -> everyone: Love it, fish works. I'm on the bottom arc now, stroke 3. It'll wait for Hana's lead-in to reach the split, then carry on. I'll check the joins at the tail when we're done.
+    (Jack held a thought)
+    (Omar held a thought)
+[  211s] 1:00 asked Hana,Jack | dominoes 28 | calls 17
+    Jack -> everyone: Sounds good, Hana, fish it is. Nice sketch. I'll take the eye and fins once the body's up, so I'll wait for the top line to get going.
+    (Hana held a thought)
+[  216s] 1:15 asked Hana | dominoes 42 | calls 18
+    Hana -> everyone: Sounds good both. My lead-in's almost at the split, then the top arc follows. Sofia, shout if your join looks off.
+[  227s] 1:30 asked Sofia,Jack | dominoes 56 | calls 20
+    Sofia -> Hana: Hana, quick heads up: the start of your top line, just past the split, still looks pale to me, so it may not be catching the fall from the lead-in. Worth a look at that first domino. My bottom arc is 
+    Jack -> everyone: Body's looking good. I'm grabbing the pad to add a fin on top, branching off Hana's top line.
+[  235s] 1:45 asked Hana | dominoes 64 | calls 21
+    Hana -> everyone: Thanks Sofia, good catch. I'll fix that first domino at the split now, so the top line catches the fall. Jack, hold off on the fin until the top line shows as connected.
+[  247s] 2:00 asked Sofia,Hana,Jack | dominoes 69 | calls 24
+    Hana -> everyone: Fixing the join at the split now. Jack, hold the fin until the top line goes dark.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  255s] 2:15 asked Sofia,Hana,Jack | dominoes 71 | calls 27
+    Sofia -> everyone: Bottom arc is done and dark all the way to the tail. I'm going to inspect the split and the top line to make sure it catches the fall.
+    (Jack held a thought)
+    (Hana held a thought)
+[  267s] 2:30 asked Sofia,Hana,Jack | dominoes 90 | calls 30
+    Sofia -> everyone: Inspection says the top line's still pale at the split, and it stops short of the tail. Hana, you've got the split. I'll carry the far end of the top line across to meet the tail so it's ready when yo
+    (Hana held a thought)
+    (Jack held a thought)
+[  276s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 34
+    Sofia -> Hana: Hana, I'm nudging that first domino of the top line at the split into line myself, since you're busy in the middle. Then I'll re-check that the whole top arc goes dark.
+    Hana -> everyone: Sofia, thanks. You take the far end of the top line over to the tail, I'll stay on the split join and then check it goes dark. Jack, fin after it's dark. Omar, the top line will reach your tail soon.
+    (Jack held a thought)
+    (Omar held a thought)
+[  288s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 38
+    Sofia -> everyone: Okay Hana, the split is yours. I'm joining the far end of the top line into the tail junction now, then I'll check the whole top arc goes dark.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  297s] 3:15 asked Hana,Jack | dominoes 137 | calls 40
+    Hana -> everyone: Sofia, I'm still finishing the join at the split, so give me a moment before you touch that first domino again. I'll shout when it's done. You carry on with the far end into the tail.
+    (Jack held a thought)
+[  306s] 3:30 asked Sofia,Jack | dominoes 149 | calls 42
+    Sofia -> Hana: Got it, Hana, I'll stay off the split. One domino left on my join into the tail, then I'll check whether the top arc has gone dark.
+    Jack -> everyone: Dorsal fin's sitting on the top line. Adding a small belly fin off Sofia's bottom arc, since that one's already dark. Then I'll check the top line goes dark.
+[  316s] 3:45 asked Sofia,Hana | dominoes 154 | calls 44
+    Sofia -> Omar: Omar, quick check on the tail: what's dark right now curls down and round, not a fork. The picture needs two lines fanning out from the junction, one up and right, one down and right. Could you trace 
+    Hana -> everyone: Done with my join. The top arc still looks pale to me, so I'm inspecting the split now. Jack, hold the fin check until I say.
+[  326s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 146 | calls 48
+    Sofia -> Omar: Omar, let's split the tail so it's quick. You take the upper fork line, I'll lay the lower one and clear that curl at the bottom. Shout if you're already halfway on it.
+    Omar -> everyone: Yep Sofia, I'm on it. Lower fork is going down now and the upper fork is right behind it, so the curl should turn into a proper fork shortly.
+    (Hana held a thought)
+    (Jack held a thought)
+[  340s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 152 | calls 52
+    Sofia -> Omar: Great, Omar. I'm finishing the lower fork now. Once both forks are down I'll check the junction and the top arc.
+    Omar -> Sofia: Still on both forks, Sofia. Lower one's nearly there. If you want to help, clear that curl at the bottom once the fork's down.
+    Hana -> everyone: Found it: the top line turns too sharply at the split, so the fall can't catch it. I'm bridging that now. Jack, hold the fin check until I say.
+    (Jack held a thought)
+[  346s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 153 | calls 56
+    Hana -> everyone: Bridge is in at the split. I'm checking now whether the top line goes dark. Jack, hold the fin check until I say.
+    Omar -> everyone: Forks are halfway down, keep going. I'll check the tail junction once they're both laid.
+    (Jack held a thought)
+[  356s] 4:45 asked Sofia,Hana,Jack | dominoes 162 | calls 59
+    Hana -> everyone: Top arc is still pale at the split. I'm re-joining it from the lead-in to the first clean domino up the line, with a gentler curve. Jack, still hold the fin. Omar, keep going on the forks.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  367s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 169 | calls 63
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Got it, Hana, I'll stay clear of the split. Omar, I'm fixing the domino at the spot where the body lines meet the tail now. The lower fork is yours, so we don't bump each other.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  376s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 188 | calls 67
+    Sofia -> everyone: Curl's cleared. I'm bridging the lower fork into the junction now. Omar, keep going on the upper fork. Hana, shout when the top arc goes dark.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  383s] 5:30 asked Omar,Hana,Jack | dominoes 200 | calls 70
+    Jack -> everyone: Still a bit off right where the body meets the tail, so I'm nudging that one into line now. Sofia, the lower fork bridge is all yours.
+    (Omar held a thought)
+    (Hana held a thought)
+[  400s] 5:45 asked Sofia,Hana,Jack | dominoes 204 | calls 73
+    Hana -> everyone: Top arc is still pale, so I'm clearing the stray bits above the lead-in at the split. Then I'll lay a gentler curve into the top line. Jack, keep holding the fin. Omar, Sofia, keep the tail coming.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  416s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 212 | calls 77
+    Hana -> everyone: Clearing done. I'm laying a gentler curve off the lead-in into the top arc now. Jack, still hold the fin. I'll shout when the top goes dark.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  427s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 214 | calls 81
+    Omar -> everyone: Upper fork's down and dark. The lower fork still looks pale, so I'm checking the junction now. Sofia, shout if your bridge is already in.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[  439s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 223 | calls 85
+    Omar -> everyone: Lower fork's still pale, so I'm nudging the join right at the junction now. Sofia, if your bridge is in, hold off a sec so we don't double up.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  451s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 211 | calls 89
+    Jack -> everyone: Omar, Sofia, I looked over the lower fork. The trouble spot is right at the junction, where one domino sits jammed too close to the next one. Pulling that one out and re-laying it a bit further along 
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  462s] 7:00 asked Sofia,Omar,Hana | dominoes 231 | calls 92
+    Sofia -> everyone: Thanks Jack. Omar, you're right on that spot, so pull the jammed domino and re-lay it a bit further along. My lower fork is already laid, so I'll keep my hands off. I'm going to look over the top arc 
+    (Omar held a thought)
+    (Hana held a thought)
+[  471s] 7:15 asked Sofia,Omar,Jack | dominoes 246 | calls 95
+    Omar -> everyone: Thanks Jack, good spot. I'm re-laying the lower fork fresh from the junction right now, so that jammed one gets replaced. Sofia, keep clear of that bit please. Hana, how's the top arc?
+    (Sofia held a thought)
+    (Jack held a thought)
+[  482s] 7:30 asked Sofia,Hana,Jack | dominoes 250 | calls 98
+    Jack -> everyone: Okay, I looked over the top arc past the split. It's got a few sharp turns. The worst are just past where Hana's working, then a bit further along, and one right where Sofia's hands are, where the nex
+    (Hana held a thought)
+    (Sofia held a thought)
+[  492s] 7:45 asked Sofia,Hana | dominoes 244 | calls 100
+    Hana -> everyone: We're out of dominoes, so I'm pulling the stray pale lines up top left, the ones that aren't in the sketch. I'll use those to close the top arc gap. Jack, still hold the fin. Sofia, please nudge the o
+    (Sofia held a thought)
+[  501s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 104
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: On it, Jack. I'm bridging that gap by my hands now. Hana, shout if the top arc is still pale after your bridge.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  509s] 8:15 asked Hana,Jack | dominoes 250 | calls 106
+    Hana -> everyone: Out of dominoes on my side, Sofia, so the bridge is yours. I'm checking the top arc now. Everyone else, stay off the split.
+    (Jack held a thought)
+[  517s] 8:30 asked Sofia,Omar,Hana,Jack | dominoes 244 | calls 110
+    Hana -> everyone: Top arc breaks are at the split: one sharp turn just past my bridge, and a couple of jammed ones by Sofia's hands. Sofia, finish the jammed ones there. I'm taking the sharp turn just before it. Everyo
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  525s] 8:45 asked Sofia,Hana,Jack | dominoes 242 | calls 113
+    Hana -> everyone: One minute left. Everyone hands off the body. Sofia, finish the jammed ones by you, then stop. We're fine if the top arc doesn't make it.
+    (Sofia held a thought)
+    (Jack held a thought)
+[  531s] 9:00 asked Sofia,Jack | dominoes 236 | calls 115
+    Sofia -> everyone: Got it, Hana. My bridge is in as far as it'll go and we're out of dominoes, so hands off. Fish body and tail are dark, fingers crossed for the top arc!
+    (Jack held a thought)
+[  538s] 9:15 asked Sofia,Hana,Jack | dominoes 230 | calls 118
+    Sofia -> Omar: Omar, hands off the tail now please, you're pulling dominoes by the lower fin. We're set, so let's just watch the push!
+    Jack -> everyone: Hands off from me, I'm staying clear. Nice work everyone, the fish is looking good!
+[  544s] 9:30 asked Sofia,Omar,Hana | dominoes 230 | calls 121
+    Sofia -> Omar: Omar, please leave that bit by the lower fin alone now. Everything's set, let's just watch it go!
+    Omar -> everyone: Fair point, Sofia, hands off now. Stopping. Fish looks great, fingers crossed!
+    Hana -> everyone: Thanks all. Hands off, and let's see what falls.
+[  551s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 230 | calls 125
+    Sofia -> everyone: All set, everyone. Let's watch the fish go!
+    Jack -> everyone: Good luck fish! Great teamwork, everyone.
+    Omar -> everyone: All good, hands are off. Go fish!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 608.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana",
+    "Jack",
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fallen dominoes in a curving, branching line",
+      "tree branch with twigs",
+      "river or stream map"
+    ],
+    [
+      "tree branch or twig with forks",
+      "cracked lines or fissure pattern",
+      "lightning bolt or river delta network"
+    ],
+    [
+      "tree branch or root system",
+      "lightning bolt or crack pattern",
+      "river or stream delta"
+    ]
+  ],
+  "placed": 230,
+  "fell": 123,
+  "completion": 0.535,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 56,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 18,
+    "Omar": 9,
+    "Sofia": 17,
+    "Jack": 9
+  },
+  "held_thoughts": 67,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 142,
+    "failed": 1,
+    "input_tokens": 294,
+    "cache_creation_tokens": 736159,
+    "cache_read_tokens": 423599,
+    "output_tokens": 72672,
+    "seconds": 1247.4,
+    "api_equivalent_usd": 3.5832,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

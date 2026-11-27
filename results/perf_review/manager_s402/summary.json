@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.7,
+      "error": 0.36
+    },
+    "Omar": {
+      "speed": 0.49,
+      "error": 1.25
+    },
+    "Hana": {
+      "speed": 2.02,
+      "error": 2.59
+    },
+    "Jack": {
+      "speed": 0.95,
+      "error": 0.99
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 533.6,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with tail",
+      "balloon with string",
+      "figure-eight loop with tail"
+    ],
+    [
+      "a fish with a loop-shaped tail or fins",
+      "a figure-eight or infinity sign with a stub",
+      "a balloon or teardrop with a looped knot"
+    ],
+    [
+      "fish with a tail and fins",
+      "balloon tied to a string",
+      "figure-eight or loop knot"
+    ]
+  ],
+  "placed": 157,
+  "fell": 137,
+  "completion": 0.873,
+  "team_score": 0.873,
+  "first_domino_at": "0:30",
+  "messages": 53,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 15,
+    "Hana": 13,
+    "Manager": 5,
+    "Jack": 7,
+    "Omar": 10
+  },
+  "held_thoughts": 57,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 148,
+    "failed": 0,
+    "input_tokens": 308,
+    "cache_creation_tokens": 783845,
+    "cache_read_tokens": 436122,
+    "output_tokens": 75307,
+    "seconds": 1180.4,
+    "api_equivalent_usd": 3.795,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 4,
+      "why": "She proposed the fish, split the work by stroke, gave accurate status updates and flagged risks, and both Omar and Jack credited her with the junction cleanup. She chose to add nothing to the crowded fin rather than risk jamming it, but she contributed little after the start and the eye she suggested was never built."
+    },
+    "Omar": {
+      "rating": 4,
+      "why": "He finished the belly line, the last body piece, which let the full outline connect, and he showed good judgment in staying hands-off at the end; his account is consistent with the picture and with what others said. He was slow to start and his late messages were mostly noise, and his part in the fin fix is unclear."
+    },
+    "Hana": {
+      "rating": 3,
+      "why": "She drew the sketch, assigned strokes and kept the table focused on connection checks, and Omar and Jack credit her with the junction cleanup, which fits the stray line being gone. However, I didn't see this myself, her earlier credit claims remain unverified, and the domino totals she and others gave varied (165, 170, 157), so I'm holding her slightly below where her self-described role would put her."
+    },
+    "Jack": {
+      "rating": 3,
+      "why": "His account of building the lower fin and closing the notch is specific and was independently confirmed by Omar and fits the picture, and he flagged a jammed domino and credited others fairly. His contribution was a modest slice, his early claim to cover both fin halves was unclear, and he was quiet publicly with spare hands he could have used."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

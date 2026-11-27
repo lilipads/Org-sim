@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.7,
+   "error": 0.36
+  },
+  "Omar": {
+   "speed": 0.49,
+   "error": 1.25
+  },
+  "Hana": {
+   "speed": 2.02,
+   "error": 2.59
+  },
+  "Jack": {
+   "speed": 0.95,
+   "error": 0.99
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "He laid the whole bottom body line and kept the table updated, but it arrived a bit late, which held up the lower tail, and after that he mostly cheered from the sidelines."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "She chose the fish, sketched the plan, laid the top line and gill line, closed the gap near the split, and ran the checks from the start, which kept all 146 dominoes connected."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He built the tail's right edge and curved it back to meet the lower tail after Hana flagged the drift, though the edge ended up crowded at the corner and his gill line job went to Hana."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Built the lower tail, joined it cleanly to Jack's edge, and made the sensible call not to redo the crowded corner, so the whole run stayed connected."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Picked a clear fish, drew the plan on the pad, assigned the strokes, laid the top line and gill line, and ran the checks from the start, which kept the chain at 146 of 146."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Built the tail's right edge and curved it back to meet Sofia's line after Hana flagged the drift, and kept the table informed, though his part was smaller and needed correcting."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia built the lower tail and made the tricky corner join with Jack's edge, then wisely chose not to redo it when a close look showed it was only crowded, and she kept everyone updated clearly throughout."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar finished the long bottom body line, which the tail depended on, and he communicated progress well and stayed clear of the tail, but he did little after that and could have picked up extra work like the eye."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack built the right edge of the tail and carried it down and back left to meet Sofia's line, which was the key joint, but his edge drifted at first and the gill line and eye ended up left to others or undone."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia took the tail, which was the hardest joint, and made the call not to redo the crowded corner. She also kept everyone updated, and the run connected 146 of 146."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar laid the whole bottom line on time, which the tail depended on, and he kept clear of the table afterward. He did less problem-solving and more cheering than the others."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana picked the fish and sketched the plan, then laid the top line and the gill line. She also closed the early gap and ran the checks from the start, and her clear direction kept the table coordinated."
+   }
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0
+  },
+  "Omar": {
+   "rating": 4.0
+  },
+  "Hana": {
+   "rating": 5.0
+  },
+  "Jack": {
+   "rating": 4.0
+  }
+ }
+}

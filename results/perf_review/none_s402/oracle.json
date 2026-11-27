@@ -1,0 +1,247 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 54,
+   "fixes": 0,
+   "open_breaks_owned": 6,
+   "destroyed": 0,
+   "took_over": 9,
+   "planning": 0.0
+  },
+  "Omar": {
+   "sound_work": 22,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 4,
+   "planning": 0.0
+  },
+  "Hana": {
+   "sound_work": 67,
+   "fixes": 0,
+   "open_breaks_owned": 10,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.71
+  },
+  "Jack": {
+   "sound_work": 12,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.29
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 4,
+   "to": 137,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 357.5,
+   "at": [
+    5.1,
+    10.2
+   ]
+  },
+  {
+   "from": 11,
+   "to": 159,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 9.4,
+   "at": [
+    7.6,
+    9.9
+   ]
+  },
+  {
+   "from": 15,
+   "to": 115,
+   "owner": "Sofia",
+   "stranded": 9,
+   "dir": 53.3,
+   "at": [
+    9.1,
+    12.7
+   ]
+  },
+  {
+   "from": 17,
+   "to": 114,
+   "owner": "Sofia",
+   "stranded": 10,
+   "dir": 40.7,
+   "at": [
+    9.8,
+    13.1
+   ]
+  },
+  {
+   "from": 27,
+   "to": 252,
+   "owner": "Hana",
+   "stranded": 5,
+   "dir": 322.6,
+   "at": [
+    10.3,
+    6.4
+   ]
+  },
+  {
+   "from": 28,
+   "to": 269,
+   "owner": "Hana",
+   "stranded": 8,
+   "dir": 334.4,
+   "at": [
+    11.2,
+    6.7
+   ]
+  },
+  {
+   "from": 29,
+   "to": 113,
+   "owner": "Hana",
+   "stranded": 11,
+   "dir": 33.1,
+   "at": [
+    10.5,
+    13.5
+   ]
+  },
+  {
+   "from": 30,
+   "to": 112,
+   "owner": "Hana",
+   "stranded": 12,
+   "dir": 30.6,
+   "at": [
+    11.1,
+    13.7
+   ]
+  },
+  {
+   "from": 41,
+   "to": 293,
+   "owner": "Hana",
+   "stranded": 3,
+   "dir": 340.7,
+   "at": [
+    13.8,
+    5.0
+   ]
+  },
+  {
+   "from": 75,
+   "to": 131,
+   "owner": "Sofia",
+   "stranded": 14,
+   "dir": 36.6,
+   "at": [
+    21.2,
+    9.2
+   ]
+  },
+  {
+   "from": 230,
+   "to": 203,
+   "owner": "Hana",
+   "stranded": 6,
+   "dir": 336.8,
+   "at": [
+    7.8,
+    8.5
+   ]
+  },
+  {
+   "from": 137,
+   "to": 166,
+   "owner": "Hana",
+   "stranded": 9,
+   "dir": 325.0,
+   "at": [
+    6.2,
+    9.7
+   ]
+  },
+  {
+   "from": 269,
+   "to": 286,
+   "owner": "Sofia",
+   "stranded": 3,
+   "dir": 337.9,
+   "at": [
+    11.9,
+    7.3
+   ]
+  },
+  {
+   "from": 271,
+   "to": 285,
+   "owner": "Sofia",
+   "stranded": 4,
+   "dir": 10.2,
+   "at": [
+    12.8,
+    7.2
+   ]
+  },
+  {
+   "from": 272,
+   "to": 284,
+   "owner": "Sofia",
+   "stranded": 5,
+   "dir": 347.6,
+   "at": [
+    13.3,
+    7.2
+   ]
+  },
+  {
+   "from": 166,
+   "to": 200,
+   "owner": "Hana",
+   "stranded": 2,
+   "dir": 221.2,
+   "at": [
+    6.4,
+    8.5
+   ]
+  }
+ ],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Sofia": 24,
+   "Omar": 22,
+   "Hana": 17,
+   "Jack": 12
+  },
+  "10": {
+   "Sofia": -6,
+   "Omar": 22,
+   "Hana": -33,
+   "Jack": 12
+  },
+  "20": {
+   "Sofia": -66,
+   "Omar": 22,
+   "Hana": -133,
+   "Jack": 12
+  }
+ },
+ "contribution": {
+  "Sofia": -6,
+  "Omar": 22,
+  "Hana": -33,
+  "Jack": 12
+ },
+ "with_planning": {
+  "Sofia": -6.0,
+  "Omar": 22.0,
+  "Hana": -5.5,
+  "Jack": 23.2
+ }
+}
