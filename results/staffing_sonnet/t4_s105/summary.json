@@ -1,0 +1,98 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.36,
+      "error": 0.63
+    },
+    "Tom": {
+      "speed": 1.13,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 0.75,
+      "error": 0.83
+    },
+    "Leo": {
+      "speed": 1.28,
+      "error": 1.08
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 275.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline (side view, with tail and fins)",
+      "stylized fish or bird-like creature drawn as a single line",
+      "closed loop shape resembling a leaf, lens, or stylized fish tail"
+    ],
+    [
+      "fish outline facing left",
+      "stylized bird or fish",
+      "leaf or teardrop with a fork"
+    ],
+    [
+      "fish",
+      "fish on a fishing line",
+      "fish with a forked tail"
+    ]
+  ],
+  "placed": 122,
+  "fell": 122,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 38,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 3,
+    "Maya": 14,
+    "Tom": 11,
+    "Priya": 7
+  },
+  "held_thoughts": 26,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 107,
+    "failed": 0,
+    "input_tokens": 208,
+    "cache_creation_tokens": 451667,
+    "cache_read_tokens": 296026,
+    "output_tokens": 35974,
+    "seconds": 669.5,
+    "api_equivalent_usd": 2.1187,
+    "cached": 6
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

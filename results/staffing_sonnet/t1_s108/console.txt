@@ -1,0 +1,124 @@
+[   15s] 0:00 asked Jack | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Alright, just me on this table, so no arguing about the animal. I'm going with a fish, nice clear outline and a big tail fin. Sketching it now, then I'll build.
+[   15s] 0:15 asked - | dominoes 0 | calls 1
+[   15s] 0:30 asked - | dominoes 0 | calls 1
+[   15s] 0:45 asked - | dominoes 0 | calls 1
+[   26s] 1:00 asked Jack | dominoes 0 | calls 2
+    Jack -> everyone: Fish outline going down now. Nose on the left, tail fin on the right.
+[   26s] 1:15 asked - | dominoes 4 | calls 2
+[   26s] 1:30 asked - | dominoes 8 | calls 2
+[   26s] 1:45 asked - | dominoes 12 | calls 2
+[   26s] 2:00 asked - | dominoes 16 | calls 2
+[   26s] 2:15 asked - | dominoes 21 | calls 2
+[   26s] 2:30 asked - | dominoes 25 | calls 2
+[   26s] 2:45 asked - | dominoes 29 | calls 2
+[   30s] 3:00 asked Jack | dominoes 33 | calls 3
+[   30s] 3:15 asked - | dominoes 37 | calls 3
+[   30s] 3:30 asked - | dominoes 39 | calls 3
+[   40s] 3:45 asked Jack | dominoes 41 | calls 4
+    Jack -> everyone: Top of the body's done, but the belly and tail didn't take. Redoing the bottom line now, then the tail fin.
+[   40s] 4:00 asked - | dominoes 45 | calls 4
+[   40s] 4:15 asked - | dominoes 49 | calls 4
+[   40s] 4:30 asked - | dominoes 53 | calls 4
+[   40s] 4:45 asked - | dominoes 57 | calls 4
+[   45s] 5:00 asked Jack | dominoes 60 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Belly and tail are going down now, just stroke four left after this. Fish is coming together!
+[   45s] 5:15 asked - | dominoes 64 | calls 5
+[   45s] 5:30 asked - | dominoes 68 | calls 5
+[   45s] 5:45 asked - | dominoes 72 | calls 5
+[   45s] 6:00 asked - | dominoes 76 | calls 5
+[   45s] 6:15 asked - | dominoes 79 | calls 5
+[   54s] 6:30 asked Jack | dominoes 77 | calls 6
+    Jack -> everyone: Last bits: tying the belly into the nose and laying the lower tail fin. Nice work, everyone, the fish is looking good!
+[   54s] 6:45 asked - | dominoes 73 | calls 6
+[   54s] 7:00 asked - | dominoes 69 | calls 6
+[   54s] 7:15 asked - | dominoes 65 | calls 6
+[   54s] 7:30 asked - | dominoes 61 | calls 6
+[   54s] 7:45 asked - | dominoes 56 | calls 6
+[   63s] 8:00 asked Jack | dominoes 54 | calls 7
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Two minutes, fish people! Finishing the tail fin, then I'll re-lay the nose and the top line so the start domino goes down.
+[   63s] 8:15 asked - | dominoes 50 | calls 7
+[   63s] 8:30 asked - | dominoes 46 | calls 7
+[   63s] 8:45 asked - | dominoes 42 | calls 7
+[   63s] 9:00 asked - | dominoes 41 | calls 7
+[   69s] 9:15 asked Jack | dominoes 43 | calls 8
+    Jack -> everyone: Laying the top line and the start right now, almost there!
+[   69s] 9:30 asked - | dominoes 47 | calls 8
+[   69s] 9:45 asked - | dominoes 51 | calls 8
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Jack"
+  ],
+  "skills": {
+    "Jack": {
+      "speed": 0.84,
+      "error": 1.45
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 122.1,
+  "intents": {
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes seen from above",
+      "chain of dark blocks following a bent path",
+      "hand-drawn curved stroke or hook shape"
+    ],
+    [
+      "fallen dominoes in a curved line",
+      "curved dashed stroke, like a bent path or arc",
+      "hand-drawn wave or river line"
+    ],
+    [
+      "fallen dominoes in a curved line",
+      "hand-drawn curved stroke",
+      "partial hook or letter shape"
+    ]
+  ],
+  "placed": 51,
+  "fell": 10,
+  "completion": 0.196,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 10,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 7
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 22,
+    "failed": 0,
+    "input_tokens": 56,
+    "cache_creation_tokens": 57363,
+    "cache_read_tokens": 50935,
+    "output_tokens": 8880,
+    "seconds": 140.3,
+    "api_equivalent_usd": 0.2069,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

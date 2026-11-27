@@ -1,0 +1,51 @@
+[   18s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Let's do a fish. The body outline and a big forked tail say 'fish' even from just the outline. I'm sketching it now. Then Maya can trace the top body line, Tom the bottom, and Leo the tail. I'll start
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   28s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Fish it is, love it. I've got the pad, so I just sketched it. Nose on the left, big forked tail on the right. I'm on the top body now. Tom, can you take the bottom line, and Priya or Leo the tail?
+    (Leo held a thought)
+    (Tom held a thought)
+[   36s] 0:30 asked Tom,Priya,Leo | dominoes 8 | calls 10
+    Tom -> everyone: Fish sounds good. I've got the bottom line, stroke 2, starting now.
+    Priya -> everyone: Great sketch, Maya. I'll take the tail. Tom, can you grab the bottom body line?
+    (Leo held a thought)
+[   45s] 0:45 asked Maya,Tom,Leo | dominoes 17 | calls 13
+    Tom -> Priya: Yep, I've already got the bottom line going, Priya. You've got the tail.
+    Leo -> everyone: Sounds good. Priya's on the tail, so I'll float and check the joints once the body lines reach it. Shout if you want a hand.
+    (Maya held a thought)
+[   51s] 1:00 asked Priya | dominoes 28 | calls 14
+    Priya -> everyone: Thanks both. I'm on the tail and will start laying it as soon as the top line gets there. Leo, a look at the joints once the lines meet would be great.
+[   59s] 1:15 asked Leo | dominoes 40 | calls 15
+    Leo -> everyone: Will do, Priya. I'll check the joints once the lines get near the tail. Shout if you want me to take a piece sooner.
+[   67s] 1:30 asked Priya | dominoes 51 | calls 16
+    Priya -> everyone: Thanks Leo. I'm queued on the tail and it'll start once the top line gets there. If you're free, keep an eye on the top line, since it's the one I'm waiting on.
+[   75s] 1:45 asked Leo | dominoes 68 | calls 17
+    Leo -> Priya: Top line's looking solid so far, and everything standing is connected to the start. I'm watching the end of it and will check the tail joint once it lands.
+[   80s] 2:00 asked Priya | dominoes 79 | calls 18
+[   89s] 2:15 asked Maya | dominoes 91 | calls 19
+    Maya -> everyone: Top line's done and Priya's tail is picking up off the end of it. I'm going to check that joint where they meet.
+[   99s] 2:30 asked Maya,Priya,Leo | dominoes 99 | calls 22
+    Maya -> everyone: Joint at the top looks solid, the whole chain's connected from the nose. Tom, Priya, you're both on the last bits, so I'll stay off your toes and keep an eye on the tail fork and the bottom joint.
+    (Priya held a thought)
+[  111s] 2:45 asked Tom,Priya,Leo | dominoes 106 | calls 25
+    Leo -> everyone: I'll carry the bottom line on from the notch out to the lower tail tip. Priya, you've got the inner edge of the tail.
+    (Tom held a thought)
+    (Priya held a thought)
+[  121s] 3:00 asked Maya,Tom,Priya | dominoes 113 | calls 28
+    Priya -> everyone: Thanks Leo. I'm finishing the inner edge down to the lower tip now. If you bring your line up from the notch to meet it at the middle of the fork, that closes the loop. Don't lay the last stretch down
+    (Tom held a thought)
+    (Maya held a thought)
+[  427s] 3:15 asked Maya,Tom,Leo | dominoes 120 | calls 32
+    Leo -> Priya: Got it, Priya. I'll bring mine up to meet yours at the middle of the fork and leave the last stretch to the tip to you.
+    Tom -> everyone: Bottom line's done, runs right up to the notch. Leo, I'll stay off your patch, shout if the lower fork needs a hand.
+[  437s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 124 | calls 36
+    Priya -> everyone: Tail's down, Leo. I'm going to check where your line meets the middle of the fork, and the lower tip too, since it curls in a bit more than I meant.
+    (Leo held a thought)
+    (Maya held a thought)
+[  450s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 41
+    Tom -> everyone: Nice work, you two. I'll have a look at the tail from a distance. The lower tip hooks back toward the body a bit, so it might read more like a curl than a fork. Priya, do you want to redo that last st
+    (Priya held a thought)
+    (Maya held a thought)

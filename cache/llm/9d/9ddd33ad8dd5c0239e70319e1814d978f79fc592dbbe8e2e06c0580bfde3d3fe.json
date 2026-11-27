@@ -1,0 +1,1 @@
+{"model": "sonnet", "tag": "Leo/1:00", "result": "\n<invoke name=\"bash\">\n<parameter name=\"command\">echo \"no-op\"</parameter>\n</invoke>"}

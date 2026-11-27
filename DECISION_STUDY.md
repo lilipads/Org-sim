@@ -137,3 +137,10 @@ head, a long-beaked bird, a tulip. With recognition at zero the final score can'
 so the client profiles need animals that read well as an outline before the study continues.
 Early signals worth keeping: every dictator called the decision in the first beat (0:00), before any
 discussion; consensus tables took 75-135 s to align.
+
+## 10. Client profiles v2
+
+The four profiles now have best answers that read well as an outline: **whale** (aquarium; obvious wrong
+answer shark), **butterfly** (garden centre; obvious wrong answer a bird), **snail** (children's pond
+trail; obvious answers frog, duck) and **swan** (rowing club; obvious wrong answer fish). The v1 pilot games
+moved to `results/decision_pilot_v1`. The runner now stops at a usage limit instead of running on.

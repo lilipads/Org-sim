@@ -1,0 +1,122 @@
+[   16s] 0:00 asked Leo | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   16s] 0:15 asked - | dominoes 0 | calls 1
+[   16s] 0:30 asked - | dominoes 0 | calls 1
+[   16s] 0:45 asked - | dominoes 0 | calls 1
+[   48s] 1:00 asked Leo | dominoes 0 | calls 3
+    Leo -> everyone: I'm going with a fish facing left. I'll sketch it and build it.
+[   48s] 1:15 asked - | dominoes 6 | calls 3
+[   48s] 1:30 asked - | dominoes 12 | calls 3
+[   48s] 1:45 asked - | dominoes 18 | calls 3
+[   48s] 2:00 asked - | dominoes 25 | calls 3
+[   48s] 2:15 asked - | dominoes 31 | calls 3
+[   48s] 2:30 asked - | dominoes 37 | calls 3
+[   48s] 2:45 asked - | dominoes 40 | calls 3
+[   56s] 3:00 asked Leo | dominoes 43 | calls 4
+    Leo -> everyone: Bottom of the fish didn't show up, so I'm laying it again, then the tail.
+[   56s] 3:15 asked - | dominoes 49 | calls 4
+[   56s] 3:30 asked - | dominoes 55 | calls 4
+[   56s] 3:45 asked - | dominoes 56 | calls 4
+[   56s] 4:00 asked - | dominoes 62 | calls 4
+[   56s] 4:15 asked - | dominoes 68 | calls 4
+[   56s] 4:30 asked - | dominoes 75 | calls 4
+[   56s] 4:45 asked - | dominoes 81 | calls 4
+[   63s] 5:00 asked Leo | dominoes 84 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   70s] 5:15 asked Leo | dominoes 87 | calls 6
+    Leo -> everyone: Bottom's down. Now the lower tail and the back edge of the tail.
+[   70s] 5:30 asked - | dominoes 94 | calls 6
+[   70s] 5:45 asked - | dominoes 100 | calls 6
+[   70s] 6:00 asked - | dominoes 106 | calls 6
+[   70s] 6:15 asked - | dominoes 112 | calls 6
+[   70s] 6:30 asked - | dominoes 119 | calls 6
+[   70s] 6:45 asked - | dominoes 124 | calls 6
+[   79s] 7:00 asked Leo | dominoes 124 | calls 7
+    Leo -> everyone: Fish is all down and connected. I'm taking a quick look at the tail joint, then leaving it alone so nothing gets bumped.
+[   85s] 7:15 asked Leo | dominoes 124 | calls 8
+    Leo -> everyone: Tail joint looks fine, everything still connects. I'm leaving it alone now.
+[   85s] 7:30 asked - | dominoes 124 | calls 8
+[   85s] 7:45 asked - | dominoes 124 | calls 8
+[   88s] 8:00 asked Leo | dominoes 124 | calls 9
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   88s] 8:15 asked - | dominoes 124 | calls 9
+[   88s] 8:30 asked - | dominoes 124 | calls 9
+[   88s] 8:45 asked - | dominoes 124 | calls 9
+[   92s] 9:00 asked Leo | dominoes 124 | calls 10
+[   92s] 9:15 asked - | dominoes 124 | calls 10
+[   92s] 9:30 asked - | dominoes 124 | calls 10
+[   92s] 9:45 asked - | dominoes 124 | calls 10
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Leo"
+  ],
+  "skills": {
+    "Leo": {
+      "speed": 1.26,
+      "error": 1.67
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 126.8,
+  "intents": {
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "bird with a long tail",
+      "leaf or seed shape"
+    ],
+    [
+      "fish with a forked tail",
+      "bird in profile",
+      "leaf or seed pod"
+    ],
+    [
+      "fish with a curled tail fin",
+      "fish body with a long fishing line or whisker",
+      "bird or fish outline with a loop-shaped tail"
+    ]
+  ],
+  "placed": 124,
+  "fell": 124,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:15",
+  "messages": 8,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 5
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 24,
+    "failed": 0,
+    "input_tokens": 42,
+    "cache_creation_tokens": 53890,
+    "cache_read_tokens": 44360,
+    "output_tokens": 9918,
+    "seconds": 136.6,
+    "api_equivalent_usd": 0.2497,
+    "cached": 6
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

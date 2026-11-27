@@ -1,0 +1,74 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Jack"
+  ],
+  "skills": {
+    "Jack": {
+      "speed": 0.84,
+      "error": 1.45
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 122.1,
+  "intents": {
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes seen from above",
+      "chain of dark blocks following a bent path",
+      "hand-drawn curved stroke or hook shape"
+    ],
+    [
+      "fallen dominoes in a curved line",
+      "curved dashed stroke, like a bent path or arc",
+      "hand-drawn wave or river line"
+    ],
+    [
+      "fallen dominoes in a curved line",
+      "hand-drawn curved stroke",
+      "partial hook or letter shape"
+    ]
+  ],
+  "placed": 51,
+  "fell": 10,
+  "completion": 0.196,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 10,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 7
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 22,
+    "failed": 0,
+    "input_tokens": 56,
+    "cache_creation_tokens": 57363,
+    "cache_read_tokens": 50935,
+    "output_tokens": 8880,
+    "seconds": 140.3,
+    "api_equivalent_usd": 0.2069,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

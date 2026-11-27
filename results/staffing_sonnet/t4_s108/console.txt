@@ -1,0 +1,74 @@
+[  313s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Hey team! Let's keep it simple and go with a fish, since the tail fin says it all. I've got the pad and I'm sketching it now. Start's at the nose, and the line splits over the top and under the belly.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  320s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 8
+    Sofia -> everyone: Fish, love it. I'll take the top line. Jack, shout when stroke 1 is up and I'll start right at the nose.
+    (Hana held a thought)
+    (Omar held a thought)
+[  330s] 0:30 asked Omar,Hana,Jack | dominoes 0 | calls 11
+    Jack -> everyone: Fish is up on the pad! Sofia, you're on stroke 1 from the nose, I'll start on it too and meet you. Omar, belly is stroke 2. Hana, tail is stroke 3. Let's go!
+    (Hana held a thought)
+    (Omar held a thought)
+[  345s] 0:45 asked Sofia,Omar,Hana | dominoes 7 | calls 15
+    Sofia -> everyone: On stroke 1 now, starting at the nose. Jack, you can jump to the tail end of it or help Omar with the belly so we don't bump each other.
+    (Omar held a thought)
+    (Hana held a thought)
+[  355s] 1:00 asked Sofia,Omar,Jack | dominoes 15 | calls 18
+    Jack -> everyone: Sofia, good call on not bumping! I've already got the start and the first stretch of the top line down, so I'll keep going on that one. Could you take the belly line instead? Omar can jump on the tail
+    (Sofia held a thought)
+    (Omar held a thought)
+[  363s] 1:15 asked Sofia,Omar,Hana | dominoes 25 | calls 21
+    Omar -> everyone: Jack, I'm already well into the belly, so I'll keep it. Sofia, maybe grab the tail with Hana so we don't double up.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  369s] 1:30 asked Sofia,Hana,Jack | dominoes 39 | calls 24
+    Sofia -> everyone: Okay, Omar keeps the belly, Hana's got the tail. I'll jump out ahead on the belly line near the junction and work back toward you, Omar, so we don't bump. Jack, you carry on along the top!
+    (Hana held a thought)
+    (Jack held a thought)
+[  374s] 1:45 asked Omar,Hana,Jack | dominoes 49 | calls 27
+    Omar -> Sofia: Sounds good Sofia, I'll keep pushing along the belly and we'll meet in the middle. Just shout if you see a gap where we join.
+    Jack -> everyone: Fair enough, Omar, the belly's yours! I'll finish the top line. Sofia, Omar's got the belly covered, so could you and Hana take the tail fin? It's the part that says fish. Nice work so far, the nose i
+    (Hana held a thought)
+[  385s] 2:00 asked Sofia,Omar,Hana | dominoes 60 | calls 30
+    Sofia -> everyone: Omar's belly is already running along the bottom, so my little branch inside it is just extra. I'm pulling it out and then I'll go on the tail fin with Hana. Hana, where are you on the tail? Want the 
+    (Hana held a thought)
+    (Omar held a thought)
+[  392s] 2:15 asked Sofia,Omar,Hana | dominoes 66 | calls 33
+    Omar -> Sofia: Thanks Sofia, yep, that little spur was in the way, good to lift it. I'm still going on the belly and heading for the junction.
+    Hana -> everyone: I've got the whole tail, stroke 3, it'll start laying once the lines reach the crossing. Sofia, rather than the fin, could you push the belly on toward the crossing with Omar? That's the line furthest
+    (Sofia held a thought)
+[  404s] 2:30 asked Sofia,Omar,Jack | dominoes 73 | calls 36
+    Jack -> everyone: Top line's done and it's all connected up to the crossing. Omar, great pace on the belly, just keep curving it up toward the pointed spot. Hana, the tail will start as soon as it gets there. I'll chec
+    (Omar held a thought)
+[  414s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 40
+    Jack -> everyone: Hana, the top line already reaches the crossing, so you can start the tail fin right now. You don't have to wait for the belly. Omar's nearly there on the belly, nice pace! I'll stay out of your way s
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  422s] 3:00 asked Sofia,Omar,Hana | dominoes 78 | calls 43
+    Omar -> everyone: Belly's reached the crossing! Jack, thanks. I'm checking the little kink on the belly near the left for a gap. Hana, the tail's all yours, the crossing is ready.
+    (Hana held a thought)
+    (Sofia held a thought)
+[  435s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 47
+    Jack -> everyone: Hana, the crossing is ready on both lines and the tail still isn't down. Are you on it? If you're stuck, shout and I'll take it. Otherwise I'll stay clear. Omar, I'll peek at that kink on the belly wi
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  443s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 51
+    Jack -> everyone: Hana, the clock's ticking and the fin's the best part, so I'm laying the tail now. Don't worry, you're not in trouble! Could you and Omar close up that little kink on the belly, just where it's pointi
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  453s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 55
+    Hana -> everyone: Okay, I'll leave the tail to you two so we don't double up. I'm closing that kink on the belly right where Jack pointed. Then I'll check that the whole fin falls.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  463s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 59
+    Jack -> everyone: Okay, the tail still isn't down, so I'm laying it right now. Sofia, if you haven't started it, grab the belly or just watch for gaps. Hana, thanks for the kink!
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)

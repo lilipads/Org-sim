@@ -1,0 +1,74 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Omar"
+  ],
+  "skills": {
+    "Omar": {
+      "speed": 1.06,
+      "error": 1.0
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 118.4,
+  "intents": {
+    "Omar": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "domino chain curving over",
+      "dominoes toppling in an arc",
+      "flat row leading into curve"
+    ],
+    [
+      "dominoes toppling along a curved path",
+      "a curved arc or wave line",
+      "a ramp or hill profile"
+    ],
+    [
+      "dominoes falling in a curved chain",
+      "flat row of dominoes turning into an arc",
+      "single curved line or hook shape"
+    ]
+  ],
+  "placed": 40,
+  "fell": 39,
+  "completion": 0.975,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 7,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Omar": 4
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Omar": 0
+  },
+  "usage": {
+    "calls": 21,
+    "failed": 0,
+    "input_tokens": 54,
+    "cache_creation_tokens": 58440,
+    "cache_read_tokens": 42707,
+    "output_tokens": 9760,
+    "seconds": 137.8,
+    "api_equivalent_usd": 0.1903,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

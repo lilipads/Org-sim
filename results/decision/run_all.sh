@@ -1,6 +1,6 @@
 #!/bin/bash
 # Decision study (DECISION_STUDY.md): free / random dictator / worst-taste dictator / best-taste dictator /
-# consensus, with a client. Table of 4, larger model, 10 minutes, seeds 201-208 (each client profile twice;
+# consensus, with a client (profiles v2: drawable animals). Table of 4, larger model, 10 minutes, seeds 201-208 (each client profile twice;
 # teams A and B alternate). Runs one seed at a time (5 games in parallel) to stay within usage limits.
 # Usage: results/decision/run_all.sh [first_seed] [last_seed]
 cd "$(dirname "$0")/../.."
@@ -15,4 +15,8 @@ for s in $(seq ${1:-201} ${2:-208}); do
   run dict_best_s$s --names $T --seed $s --decision dictator --dictator best &
   run consensus_s$s --names $T --seed $s --decision consensus &
   wait
+  # stop at a usage limit rather than burn through failing games
+  if grep -l "hit your" results/decision/*_s$s/calls.jsonl >/dev/null 2>&1; then
+    echo "usage limit hit in round $s; stopping (rerun to resume)"; exit 1
+  fi
 done

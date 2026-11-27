@@ -1,0 +1,123 @@
+[   16s] 0:00 asked Tom | dominoes 0 | calls 1
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   16s] 0:15 asked - | dominoes 0 | calls 1
+[   16s] 0:30 asked - | dominoes 0 | calls 1
+[   16s] 0:45 asked - | dominoes 0 | calls 1
+[   31s] 1:00 asked Tom | dominoes 0 | calls 2
+    Tom -> everyone: Nobody else here, so I'll just sketch a fish and get building.
+[   31s] 1:15 asked - | dominoes 6 | calls 2
+[   31s] 1:30 asked - | dominoes 12 | calls 2
+[   31s] 1:45 asked - | dominoes 19 | calls 2
+[   31s] 2:00 asked - | dominoes 20 | calls 2
+[   31s] 2:15 asked - | dominoes 27 | calls 2
+[   31s] 2:30 asked - | dominoes 33 | calls 2
+[   31s] 2:45 asked - | dominoes 40 | calls 2
+[   35s] 3:00 asked Tom | dominoes 47 | calls 3
+[   35s] 3:15 asked - | dominoes 54 | calls 3
+[   35s] 3:30 asked - | dominoes 56 | calls 3
+[   44s] 3:45 asked Tom | dominoes 53 | calls 4
+    Tom -> everyone: Bottom half's done, doing the top of the fish and the tail fin now.
+[   44s] 4:00 asked - | dominoes 46 | calls 4
+[   44s] 4:15 asked - | dominoes 39 | calls 4
+[   44s] 4:30 asked - | dominoes 33 | calls 4
+[   44s] 4:45 asked - | dominoes 26 | calls 4
+[   50s] 5:00 asked Tom | dominoes 19 | calls 5
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[   50s] 5:15 asked - | dominoes 16 | calls 5
+[   61s] 5:30 asked Tom | dominoes 19 | calls 6
+    Tom -> everyone: Okay, laying the start and the top of the fish now.
+[   61s] 5:45 asked - | dominoes 26 | calls 6
+[   61s] 6:00 asked - | dominoes 32 | calls 6
+[   61s] 6:15 asked - | dominoes 39 | calls 6
+[   61s] 6:30 asked - | dominoes 45 | calls 6
+[   61s] 6:45 asked - | dominoes 52 | calls 6
+[   61s] 7:00 asked - | dominoes 55 | calls 6
+[   70s] 7:15 asked Tom | dominoes 52 | calls 7
+    Tom -> everyone: Finishing the lower body and the tail now, almost there.
+[   70s] 7:30 asked - | dominoes 45 | calls 7
+[   70s] 7:45 asked - | dominoes 38 | calls 7
+[   77s] 8:00 asked Tom | dominoes 35 | calls 8
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Almost there, just finishing the tail.
+[   77s] 8:15 asked - | dominoes 28 | calls 8
+[   77s] 8:30 asked - | dominoes 21 | calls 8
+[   77s] 8:45 asked - | dominoes 17 | calls 8
+[   85s] 9:00 asked Tom | dominoes 18 | calls 9
+    Tom -> everyone: No start domino yet, laying it now and running the body from it.
+[   85s] 9:15 asked - | dominoes 25 | calls 9
+[   85s] 9:30 asked - | dominoes 32 | calls 9
+[   85s] 9:45 asked - | dominoes 39 | calls 9
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Tom"
+  ],
+  "skills": {
+    "Tom": {
+      "speed": 1.36,
+      "error": 0.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 142.3,
+  "intents": {
+    "Tom": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "single fallen domino, edge-on",
+      "dark diagonal line stroke",
+      "thin stick or pencil lying diagonally"
+    ],
+    [
+      "single fallen domino, seen from above",
+      "one diagonal line stroke",
+      "crack or scratch on a light surface"
+    ],
+    [
+      "a single fallen domino seen edge-on as a diagonal line",
+      "a dark diagonal pen or brush stroke",
+      "a crack or fold line on a light surface"
+    ]
+  ],
+  "placed": 39,
+  "fell": 11,
+  "completion": 0.282,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 9,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Tom": 6
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Tom": 0
+  },
+  "usage": {
+    "calls": 23,
+    "failed": 0,
+    "input_tokens": 58,
+    "cache_creation_tokens": 60651,
+    "cache_read_tokens": 54178,
+    "output_tokens": 11202,
+    "seconds": 160.2,
+    "api_equivalent_usd": 0.237,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,76 @@
+[   29s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Let's keep it simple: a fish, facing left, with a big tail fin. I'm sketching it now. Once it's up, I'll take the lead-in and the start. Sofia, can you take the top of the body? Omar, the bottom? Jack
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[   37s] 0:15 asked Sofia,Omar,Jack | dominoes 0 | calls 8
+    Sofia -> everyone: Sounds good, a fish it is! I'll take the top of the body as soon as your sketch is up, Hana. Maybe give the tail a nice wide fork so it reads clearly.
+    (Jack held a thought)
+    (Omar held a thought)
+[   53s] 0:30 asked Omar,Hana,Jack | dominoes 0 | calls 11
+    Hana -> everyone: Sketch is up. Stroke 2 is the top of the body, Sofia. Stroke 3 is the bottom, Omar. Strokes 4 and 5 are the two tail lobes, Jack. I'll lay stroke 1 and the start now.
+    (Jack held a thought)
+    (Omar held a thought)
+[  358s] 0:45 asked Sofia,Omar,Jack | dominoes 0 | calls 15
+    Jack -> everyone: Got it, Hana, nice sketch! I'm on both tail lobes, 4 and 5. They'll start once the body lines reach the tail joint, so Sofia and Omar, keep those coming.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  365s] 1:00 asked Sofia,Omar,Hana | dominoes 4 | calls 18
+    Sofia -> everyone: Got it! I've got stroke 2, the top of the body, and I'll lay it as soon as Hana's lead-in reaches it.
+    Omar -> everyone: Fish looks great, Hana. I'm on the bottom of the body, stroke 3.
+    (Hana held a thought)
+[  369s] 1:15 asked Hana | dominoes 6 | calls 19
+    Hana -> everyone: Thanks both. Lead-in's almost done, a few more dominoes and it reaches the nose. Go ahead as soon as it gets there.
+[  369s] 1:30 asked - | dominoes 18 | calls 19
+[  377s] 1:45 asked Hana | dominoes 31 | calls 20
+    Hana -> everyone: Lead-in's connected and both body lines are already going. Nice. I'll check the nose joint, then watch the tail where everything meets.
+[  383s] 2:00 asked Hana | dominoes 44 | calls 21
+    Hana -> everyone: Nose joint looks solid, everything's connected so far. Keep going, you two. I'll check the tail joint once the body lines get close.
+[  383s] 2:15 asked - | dominoes 58 | calls 21
+[  383s] 2:30 asked - | dominoes 71 | calls 21
+[  390s] 2:45 asked Omar,Jack | dominoes 80 | calls 23
+    Omar -> everyone: Bottom of the body's done, it runs right up to the tail joint. I'll take a closer look at the join while Sofia finishes the top.
+    (Jack held a thought)
+[  402s] 3:00 asked Sofia,Omar,Hana | dominoes 93 | calls 26
+    Omar -> everyone: Jack, I'll grab the upper tail lobe, stroke 4, so you can stay on the lower one. That little hook just past the joint looks a bit odd, so give it a glance. Sofia, the top line's nearly at the joint, k
+    (Hana held a thought)
+    (Sofia held a thought)
+[  413s] 3:15 asked Sofia,Hana,Jack | dominoes 105 | calls 29
+    Hana -> everyone: Jack, the start of the lower tail lobe hooks out and then drops straight down, so it won't read as a fork. I'm re-laying stroke 5 from the joint now. Can you step off it and help Omar finish the top l
+    (Jack held a thought)
+    (Sofia held a thought)
+[  422s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 33
+    Jack -> everyone: Sure Hana, I'm off the lower lobe. Mine's already down, so go ahead and re-lay it if you like. I'll take a look at that little hook past the joint and then help Omar with the top lobe.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  432s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 103 | calls 37
+    Sofia -> everyone: Top line's done and reaches the tail joint. It's a bit crowded there, but the chain carries through. Hana, the lower lobe's yours and Omar has the upper one. I'll take a close look at the joint now to
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  443s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 41
+    Hana -> everyone: Thanks Jack. I'm re-laying the lower lobe so it forks out of the joint properly. Sofia, go ahead and look, but everyone please keep hands clear of the joint while I'm in there. Omar and Jack, the uppe
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  449s] 4:15 asked Sofia,Omar,Jack | dominoes 97 | calls 44
+    Omar -> everyone: Thanks Hana. Upper lobe's done and runs right up to the tip. The joint's a bit tight, one domino looks jammed, but by my eye the whole chain still falls. Once the lower lobe is re-laid, make sure that
+    (Sofia held a thought)
+    (Jack held a thought)
+[  458s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 93 | calls 48
+    Jack -> everyone: Okay Hana, I'll stay clear of the joint while you re-lay the lower lobe. Omar, the top lobe looks all there to me, nice work! Once Hana's done I'll check that the whole thing still falls from the star
+    (Sofia held a thought)
+    (Hana held a thought)
+[  465s] 4:45 asked Sofia,Omar,Hana | dominoes 92 | calls 51
+    Sofia -> everyone: Joint check's fine, everything carries through from the start, even though it's tight right at the joint. Hana, I'll stay out of your way while you redo the lower lobe. Once it's down, make sure those
+    (Hana held a thought)
+    (Omar held a thought)
+[  472s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 94 | calls 55
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Thanks Omar, Jack. Re-laying lifts the old hook, so it should vanish once I'm done. About halfway there. Keep clear of the joint, then let's all check the fork reads.
+    (Omar held a thought)
+[  479s] 5:15 asked Sofia,Omar,Jack | dominoes 98 | calls 58
+    Omar -> everyone: Thanks Hana, old hook looks gone from here. Shout when the lower lobe's down and I'll do a last check on the whole run. I'll just eyeball the joint from a distance.
+    (Jack held a thought)

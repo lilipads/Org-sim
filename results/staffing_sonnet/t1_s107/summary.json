@@ -1,0 +1,74 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Leo"
+  ],
+  "skills": {
+    "Leo": {
+      "speed": 1.26,
+      "error": 1.67
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 126.8,
+  "intents": {
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "bird with a long tail",
+      "leaf or seed shape"
+    ],
+    [
+      "fish with a forked tail",
+      "bird in profile",
+      "leaf or seed pod"
+    ],
+    [
+      "fish with a curled tail fin",
+      "fish body with a long fishing line or whisker",
+      "bird or fish outline with a loop-shaped tail"
+    ]
+  ],
+  "placed": 124,
+  "fell": 124,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:15",
+  "messages": 8,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 5
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 24,
+    "failed": 0,
+    "input_tokens": 42,
+    "cache_creation_tokens": 53890,
+    "cache_read_tokens": 44360,
+    "output_tokens": 9918,
+    "seconds": 136.6,
+    "api_equivalent_usd": 0.2497,
+    "cached": 6
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

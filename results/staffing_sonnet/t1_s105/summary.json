@@ -1,0 +1,74 @@
+{
+  "size": 1,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Tom"
+  ],
+  "skills": {
+    "Tom": {
+      "speed": 1.36,
+      "error": 0.63
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 142.3,
+  "intents": {
+    "Tom": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "single fallen domino, edge-on",
+      "dark diagonal line stroke",
+      "thin stick or pencil lying diagonally"
+    ],
+    [
+      "single fallen domino, seen from above",
+      "one diagonal line stroke",
+      "crack or scratch on a light surface"
+    ],
+    [
+      "a single fallen domino seen edge-on as a diagonal line",
+      "a dark diagonal pen or brush stroke",
+      "a crack or fold line on a light surface"
+    ]
+  ],
+  "placed": 39,
+  "fell": 11,
+  "completion": 0.282,
+  "team_score": 0.0,
+  "first_domino_at": "1:15",
+  "messages": 9,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Tom": 6
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Tom": 0
+  },
+  "usage": {
+    "calls": 23,
+    "failed": 0,
+    "input_tokens": 58,
+    "cache_creation_tokens": 60651,
+    "cache_read_tokens": 54178,
+    "output_tokens": 11202,
+    "seconds": 160.2,
+    "api_equivalent_usd": 0.237,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
