@@ -77,3 +77,6 @@
 [  485s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 100 | calls 62
     Hana -> everyone: Almost there, a few more dominoes on the lower lobe. I'll shout when it's down, then Omar, you do the last full check.
     (Jack held a thought)
+[  493s] 5:45 asked Sofia,Omar,Jack | dominoes 104 | calls 65
+    Omar -> everyone: Sounds good Hana, shout when it's down and I'll run the full check. Looking good, little fish!
+    (Jack held a thought)

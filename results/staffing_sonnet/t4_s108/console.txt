@@ -72,3 +72,8 @@
     (Hana held a thought)
     (Sofia held a thought)
     (Omar held a thought)
+[  488s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 78 | calls 64
+    Sofia -> everyone: Jack, you've got the fin, I'll stay out of your way. Shout if you want me on the bottom half. I'm going to check that the fall carries through the crossing into the tail.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
