@@ -940,8 +940,15 @@ class LiveGame:
                 if n in sketched:
                     rate = 0.0                   # hands are on the pad this beat
                 self.credit[n] += rate
-                k = int(self.credit[n])
-                self.credit[n] -= k
+                # picking a domino up is quick (a fifth of the time it takes to place one carefully)
+                k, spent = 0, 0.0
+                while k < len(task["queue"]):
+                    cost = 0.2 if task["queue"][k][0] == "remove" else 1.0
+                    if spent + cost > self.credit[n] + 1e-9:
+                        break
+                    spent += cost
+                    k += 1
+                self.credit[n] -= spent
                 batch, task["queue"] = task["queue"][:k], task["queue"][k:]
                 pts, new, restood, lifted = [], [], [], []
                 for op in batch:

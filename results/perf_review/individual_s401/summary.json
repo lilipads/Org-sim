@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1006.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "leaf with a short stem",
+      "seed or bean with a tail",
+      "closed lemon-shaped loop"
+    ],
+    [
+      "leaf with a stem",
+      "seed or bean shape",
+      "fish or eye outline"
+    ],
+    [
+      "leaf with a stem",
+      "seed or bean outline",
+      "lemon or almond shape"
+    ]
+  ],
+  "placed": 103,
+  "fell": 76,
+  "completion": 0.738,
+  "team_score": 0.123,
+  "first_domino_at": "0:30",
+  "messages": 54,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 7,
+    "Tom": 15,
+    "Maya": 5,
+    "Priya": 24
+  },
+  "held_thoughts": 34,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 149,
+    "failed": 2,
+    "input_tokens": 306,
+    "cache_creation_tokens": 726473,
+    "cache_read_tokens": 461170,
+    "output_tokens": 62635,
+    "seconds": 1590.9,
+    "api_equivalent_usd": 3.4315,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "dominoes_fell": 38
+    },
+    "Tom": {
+      "dominoes_fell": 0
+    },
+    "Priya": {
+      "dominoes_fell": 1
+    },
+    "Leo": {
+      "dominoes_fell": 37
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

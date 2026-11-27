@@ -245,3 +245,20 @@ up after the full run. Here every stage is checked before the next one starts:
 4. Patch anything wrong, then one game of each remaining condition (team outcome, peer review, forced
    ranking) and check again.
 5. Only then the main run, one seed (6 games) at a time, with a quick check after each.
+
+## 11. Pilot log
+
+* **Plumbing (small model).** Every mechanic fired. Found and fixed: tracing a started stroke lifted it
+  (now "carry on"; `redo` is explicit and keeps the start).
+* **Oracle on the overstaffing games.** Fixed: one gap counted many times; local fix test pushed the wrong
+  way; a helper inherited someone else's gap (now majority ownership); padding counted as work; plan
+  distance too tight for traced corners.
+* **Incentive check v1 (seed 401).** Incentives didn't register: one rating-related thought in three games,
+  one private message. Fixed with a reminder line every decision, a running tally for output reviews, and
+  visible manager visits that open with a check-in. Replacement wrongly scored as destruction (fixed;
+  turf tracked separately). Archived in `results/perf_review/v1_low_salience/`.
+* **Incentive check v2 (seed 401).** Believable shifts. Individual output: a builder whose count was "safe"
+  stopped helping, the fin stayed broken, fish not recognised. Manager: honest updates and private notes,
+  but ratings tracked words (rho 0.95), quiet top builder rated 3, plan-drawer 5. Found: lifting dominoes
+  took as long as placing them, so one redo consumed 4 minutes; lifting now costs a fifth of a placement.
+  Seed-401 games are pilot data; the main study uses fresh seeds on the final engine.
