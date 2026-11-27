@@ -7,3 +7,413 @@
     Priya -> Maya: That's everything I've got from the client. Maya, it's your call on the drawing. Once there's a sketch I'll run it past them.
     Maya -> everyone: Snail works for me, Priya, love the spiral echo. I'll sketch it now: one long body line, a spiral shell branching off the back, head and two feelers at the front. Give me a minute to check it'll actua
     (Tom held a thought)
+[   14s] 0:30 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 15
+    Priya -> everyone: Maya, that reads as a snail to me. I'm going to show it to the client now and I'll be right back.
+    Maya -> everyone: Running the fall through it in my head now, one sec.
+[   17s] 0:45 asked Maya | dominoes 0 | calls 16
+[   17s] 1:00 asked Tom,Leo | dominoes 0 | calls 18
+    Tom -> Maya: Maya, quick one from me: it reads as a snail straight away, nice. If you've got a second, I'd round the shell spiral off with a few more points so it flows instead of going in straight chunks. Keep th
+    Leo -> everyone: Maya, dry run result: the body and the spiral shell both fall, about seventy dominoes. The two feelers don't. The fall never gets into either one. I think they leave the head too sharply. Could you ca
+[   18s] 1:15 asked Maya,Tom,Priya | dominoes 0 | calls 21
+    Priya -> everyone: I'm back, and the client loves it: yes, that's Shelly, and the big spiral shell is what they like most. Two asks though. The head and feelers look a bit like a Y or a twig, so they want it to read as 
+    (Maya held a thought)
+    (Tom held a thought)
+[   18s] 1:30 asked Tom,Priya,Leo | dominoes 0 | calls 24
+    Tom -> Maya: Maya, the client's asks match what I'd want anyway. Round the spiral off with more points so it's one smooth curl, and give the head a rounder bulb with the feelers longer, curving outward. Keep the f
+    Priya -> everyone: Sorry, that got cut off. Client's two asks: rounder, friendlier head with longer feelers curving gently outward, and a softer, rounder spiral with no corners. Leo's neck-up-then-narrow-V fix fits with
+[   18s] 1:45 asked Maya,Tom,Leo | dominoes 0 | calls 27
+    Maya -> everyone: Thanks Leo, good catch. Redrawing now: neck goes straight up first, then a much narrower V for longer feelers, and a rounder spiral. Re-checking the fall, then I'll lock.
+    (Tom held a thought)
+[   18s] 2:00 asked Tom,Priya,Leo | dominoes 0 | calls 30
+    Tom -> everyone: No more notes from me, Maya, you've got what you need. When you lock: Leo, could you take the long body line from the start? I'll do the shell, and Priya can grab the feelers.
+[   19s] 2:15 asked Maya,Priya,Leo | dominoes 0 | calls 33
+    Maya -> everyone: Feelers still aren't catching in my check, so I'm moving where they split off the neck and running it one more dry run. Hold off a sec.
+    (Leo held a thought)
+    (Priya held a thought)
+[   19s] 2:30 asked Tom,Priya,Leo | dominoes 0 | calls 36
+    Priya -> Maya: No rush, Maya. I'll take the feelers once you lock. Just tell me which stroke they are.
+[   38s] 2:45 asked Maya | dominoes 0 | calls 37
+    Maya -> everyone: Almost there. I'm redrawing the feelers so they peel off the neck at a gentler angle, one more quick check, then I lock.
+[   48s] 3:00 asked Tom,Priya,Leo | dominoes 0 | calls 40
+    Leo -> everyone: Maya, dry run on what's on the pad now: body and shell fall, about eighty dominoes, but both feelers still miss. They're still leaving the top of the neck too sharply. If the neck runs straight up, ea
+[   76s] 3:15 asked Maya,Tom,Priya | dominoes 0 | calls 45
+    Maya -> everyone: Thanks Leo, that's the fix. Neck stops where the feelers start, so they just carry on upward and bend out higher up. One more check, then I lock.
+    (Priya held a thought)
+[   84s] 3:30 asked Tom,Priya,Leo | dominoes 0 | calls 50
+    Priya -> everyone: Sounds good, Maya. Just shout the stroke number for the feelers when you lock and I'll jump on them.
+[  104s] 3:45 asked Maya,Leo | dominoes 0 | calls 52
+    Maya -> everyone: Redrawing the feelers one last time: they'll start lower on the neck and just fan out a little. Quick check, then I lock.
+[  112s] 4:00 asked Tom,Priya,Leo | dominoes 0 | calls 55
+    Tom -> Maya: Maya, whenever you're happy, lock it. Even a slightly imperfect feeler beats running out of clock. We're all ready to go.
+[  130s] 4:15 asked Maya | dominoes 0 | calls 56
+    Maya -> everyone: Last change, promise: the neck just carries on up as the left feeler, and the right feeler peels off it at a tiny angle. Checking once, then I lock.
+[  156s] 4:30 asked Tom,Priya,Leo | dominoes 0 | calls 61
+    Leo -> everyone: Maya, dry run on what's on the pad right now: body and shell fall, about eighty dominoes, but both feelers still miss. If your last change is the one where the neck carries on up as the left feeler, m
+    (Priya held a thought)
+[  167s] 4:45 asked Maya,Priya | dominoes 0 | calls 63
+    Maya -> everyone: Locking it now. Leo, take stroke 1, the long body and neck up to the left feeler, and start it right away. Tom, you've got stroke 2, the shell. Priya, stroke 3 is the right feeler. Wait until the neck
+    (Priya held a thought)
+[  176s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 10 | calls 67
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: On stroke 3, the right feeler. Leo, start stroke 1 now so the neck gets there.
+    Maya -> everyone: Leo, start the body right now, it's the long one and everything hangs off it. I'll check the feelers once the neck is up.
+    (Leo held a thought)
+    (Tom held a thought)
+[  185s] 5:15 asked Maya,Leo | dominoes 20 | calls 69
+    Leo -> everyone: On stroke 1 now.
+[  206s] 5:30 asked Maya,Priya | dominoes 27 | calls 72
+    Maya -> everyone: Nice, Leo. Keep the body going. I'll check the neck and feelers when it gets there and patch any gaps.
+    (Priya held a thought)
+[  211s] 5:45 asked Leo | dominoes 34 | calls 73
+[  211s] 6:00 asked - | dominoes 47 | calls 73
+[  221s] 6:15 asked Priya | dominoes 61 | calls 74
+    Priya -> everyone: Quick client update: they confirmed it's Shelly and the shell is what they care about most. The roundness and face notes are nice-to-haves, so let's not redesign now. Priority is getting the whole run
+[  234s] 6:30 asked Maya,Priya,Leo | dominoes 77 | calls 77
+    Priya -> everyone: Leo, the body stops short of the feelers, so I'm bridging from its end up to the right feeler now. If you're still on the neck, carry on above that, and I'll stay out of your way.
+    (Leo held a thought)
+    (Maya held a thought)
+[  247s] 6:45 asked Maya,Leo | dominoes 95 | calls 79
+    Maya -> everyone: Priya, you take the bridge to the right feeler. I'm laying the neck and left feeler going up from the body end, so stay on the right side of it.
+    (Leo held a thought)
+[  257s] 7:00 asked Tom,Priya,Leo | dominoes 97 | calls 84
+    Leo -> everyone: Neck is up and carries into both feelers. I'm doing a quick dry run on the whole thing, then I'll help finish the shell's inner curl if Tom wants a hand.
+    Tom -> everyone: On the shell now, it's about half done.
+    (Priya held a thought)
+[  267s] 7:15 asked Tom,Priya | dominoes 99 | calls 88
+    Priya -> everyone: Bridge is in. There's one stray domino on the bridge, which I'm nudging back into line. Maya, the dominoes at the base of the right feeler, right by your neck, look jammed too close together. I'll sta
+    (Tom held a thought)
+[  276s] 7:30 asked Maya,Priya,Leo | dominoes 101 | calls 91
+    Maya -> everyone: Thanks Priya, good catch. I'm finishing the last few on the left feeler, then I'll check that jammed spot at the base of the right feeler and fix it.
+    (Leo held a thought)
+    (Priya held a thought)
+[  289s] 7:45 asked Tom,Priya,Leo | dominoes 106 | calls 94
+    Tom -> everyone: Shell's inner curl is going in now. Leo, keep an eye on the neck and feelers.
+    Priya -> everyone: Bridge looks connected. I'm fixing one stray domino on the bridge, staying clear of Maya's neck.
+    (Leo held a thought)
+[  296s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 98
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Quick report: by eye nearly everything falls, about a hundred of the hundred and one. Only odd ones are the jammed base of the feelers, which Maya has, and the stray on the bridge, which Priya has. I'
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  302s] 8:15 asked Maya,Tom,Priya | dominoes 109 | calls 103
+    Maya -> everyone: Fixing the jammed spot at the base of the right feeler now. Everyone keep clear of the neck for a moment.
+    Tom -> everyone: Inner curl's in and connected to the shell. I'll do a quick squint check on the whole thing now.
+    (Priya held a thought)
+[  311s] 8:30 asked Maya,Priya,Leo | dominoes 110 | calls 106
+    Leo -> everyone: Heads up, the right feeler is still pale, so it isn't connected. I'm bridging from the neck into its base now. Maya, Priya, stay clear for a few seconds.
+    (Maya held a thought)
+    (Priya held a thought)
+[  320s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 110
+    Maya -> everyone: Leo, you've got the base, I'll stay off it. I'm fixing the kink near the top of the right feeler.
+    Leo -> everyone: Bridge is in. Running a quick check on whether the right feeler catches now.
+    (Tom held a thought)
+    (Priya held a thought)
+[  328s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 114
+    Tom -> everyone: Shell's solid and connected. I'm staying clear of the neck so we don't bump anything. Leo, shout if the right feeler still isn't catching.
+    (Priya held a thought)
+    (Maya held a thought)
+[  335s] 9:15 asked Maya,Priya,Leo | dominoes 110 | calls 117
+    Maya -> everyone: Kink's nearly patched. Last nudge on the right feeler base, so everyone keep your hands off the feelers.
+    (Priya held a thought)
+[  341s] 9:30 asked Maya,Tom,Priya | dominoes 110 | calls 120
+    Maya -> everyone: That's it, everyone hands off. It's in good shape, nice work team!
+    Tom -> everyone: Looking good, everyone. Hands off, let it fall!
+    (Priya held a thought)
+[  348s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 124
+    Leo -> everyone: Dry run on the pad sketch flags the right feeler, but the real table has the bridge in and by eye 109 of 110 fall, so it should catch. Hands off, let it go.
+    (Priya held a thought)
+    (Maya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 402.7,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "snail",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "snail with a curled shell",
+      "swan neck and head",
+      "hook-shaped curling wave"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "snake or worm shape",
+      "curling wave or ribbon"
+    ],
+    [
+      "snail or curled shell outline",
+      "hand-drawn curling line or spiral",
+      "swan neck or rising wave"
+    ]
+  ],
+  "placed": 110,
+  "fell": 109,
+  "completion": 0.991,
+  "team_score": 0.661,
+  "first_domino_at": "5:00",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 18,
+    "Priya": 12,
+    "Tom": 9,
+    "Leo": 9
+  },
+  "held_thoughts": 35,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 141,
+    "failed": 0,
+    "input_tokens": 214,
+    "cache_creation_tokens": 456589,
+    "cache_read_tokens": 344216,
+    "output_tokens": 48816,
+    "seconds": 717.8,
+    "api_equivalent_usd": 2.1669,
+    "cached": 44
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "lone",
+  "designer": "Maya",
+  "locked_at": 285.0,
+  "reviews": {},
+  "aesthetics": 0.533,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The big sweeping curl and long flowing base line are graceful, but the doubled, jittery strokes at the upper right and the broken ends make it look less refined than an illustrator's line."
+    },
+    {
+      "score": 5.0,
+      "why": "The big sweeping curves flow well and the composition is simple, but the broken, doubled strokes at the top right and the stray hook near the middle make it look untidy."
+    },
+    {
+      "score": 6.0,
+      "why": "The long flowing curves and the spiral curl are graceful and uncluttered, but the line has gaps, a few stray ticks, and an awkward jumble at the upper-right hook."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.333,
+    "aesthetics": 0.5,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.356,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 285.0
+}

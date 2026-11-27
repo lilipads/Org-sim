@@ -1,0 +1,282 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.0,
+      "error": 1.77
+    },
+    "Omar": {
+      "speed": 1.22,
+      "error": 1.95
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.94
+    },
+    "Jack": {
+      "speed": 0.87,
+      "error": 0.96
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 479.3,
+  "intents": {
+    "Sofia": "whale",
+    "Omar": "whale",
+    "Hana": "whale",
+    "Jack": "whale"
+  },
+  "team_intent": "whale",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "curved line of fallen dominoes",
+      "open hand-drawn loop or lasso outline",
+      "winding road or river seen from above"
+    ],
+    [
+      "curved line of fallen dominoes",
+      "hand-drawn loop or lasso outline",
+      "winding road or river on a map"
+    ],
+    [
+      "fallen domino chain curving into an open loop",
+      "hand-drawn open oval or lasso outline",
+      "rounded speech bubble or cloud outline"
+    ]
+  ],
+  "placed": 221,
+  "fell": 94,
+  "completion": 0.425,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Omar": 14,
+    "Hana": 14,
+    "Sofia": 9,
+    "Jack": 7
+  },
+  "held_thoughts": 55,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 0,
+    "input_tokens": 270,
+    "cache_creation_tokens": 641283,
+    "cache_read_tokens": 433181,
+    "output_tokens": 66149,
+    "seconds": 947.6,
+    "api_equivalent_usd": 3.1149,
+    "cached": 26
+  },
+  "roles": {
+    "Sofia": "design",
+    "Omar": "pm",
+    "Hana": "eng",
+    "Jack": "eng"
+  },
+  "design_mode": "lone",
+  "designer": "Hana",
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.4,
+  "art_ratings": [
+    {
+      "score": 4.0,
+      "why": "It has a pleasant open loop with some graceful curves, but the long straight bottom edge and angular corners feel stiff, and the stray spur and ragged ends add clutter."
+    },
+    {
+      "score": 4.0,
+      "why": "A single loose loop with a pleasant sweep on the left, but the straight bottom edge has sharp corners, the right side has a messy stub and crossing, and the open gaps make it feel unfinished."
+    },
+    {
+      "score": 4.0,
+      "why": "The big sweeping outline has a pleasant flow, but the bottom edge is a long straight run with angular corners, the top-right is a tangle with a stray spur, and the open ends make it feel like an unfinished fragment."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.4,
+    "dry_run_fell": 64,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0,
+      "4": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "ask_client"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    }
+  ],
+  "client": "aquarium",
+  "client_best": "whale",
+  "notes": {
+    "Sofia": [],
+    "Omar": [
+      "It's for the entrance of a children's aquarium.",
+      "They asked for something big and bold that people notice.",
+      "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+      "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+      "The client stressed it has to read from across the lobby: one huge, simple shape.",
+      "The client said it should be something that lives in the sea and breathes air."
+    ],
+    "Hana": [],
+    "Jack": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "whale",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client stressed it has to read from across the lobby: one huge, simple shape.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client said it should be something that lives in the sea and breathes air.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "You overheard a staff member say the director loves octopuses.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

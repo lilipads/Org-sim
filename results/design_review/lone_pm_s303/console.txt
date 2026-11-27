@@ -14,3 +14,397 @@
     Tom -> everyone: Got the spiral, starting it now. It'll wait for Maya's body to reach the shell.
     Leo -> everyone: Got the stalks. Running a dry run on the locked sketch now before I lay anything.
     (Maya held a thought)
+[   13s] 1:00 asked Maya,Priya | dominoes 0 | calls 17
+    Priya -> everyone: Okay, locking it for real now. Maya, body first from the start. Tom and Leo, your strokes will grow off it as it reaches them. Shout if anything looks off.
+    (Maya held a thought)
+[   15s] 1:15 asked Maya,Tom,Leo | dominoes 0 | calls 20
+    Leo -> everyone: Dry run says the shell and body fall fine, but neither eye stalk gets the fall. They leave the end of the body too sharply, and they start right at its tip. Priya, could you redraw them so the body ca
+    (Maya held a thought)
+    (Tom held a thought)
+[   18s] 1:30 asked Maya,Priya | dominoes 0 | calls 22
+    Priya -> everyone: Good catch, Leo. I've added two new stalks, strokes 5 and 6. They lift off the body just below the head, nearly straight up. Please trace those and skip 3 and 4. Maya and Tom, nothing changes for you.
+    (Maya held a thought)
+[   24s] 1:45 asked Maya,Tom,Leo | dominoes 0 | calls 25
+    Leo -> everyone: Thanks Priya, checking 5 and 6 with a quick dry run before I lay them.
+    Maya -> everyone: Thanks Leo, thanks Priya. I'm dry-running the new version with the stalks now, then I'll lay the body.
+    (Tom held a thought)
+[   27s] 2:00 asked Priya,Leo | dominoes 0 | calls 27
+    Priya -> everyone: Thanks both. The sketch is locked and the stalks are fixed, so I think we've dry-run enough. Maya, please lay the body from the start now. Tom and Leo, lay your strokes as soon as the body reaches the
+[   33s] 2:15 asked Maya,Tom,Leo | dominoes 0 | calls 30
+    Maya -> everyone: Priya, dry run on the new version: body and shell fall fine, but the stalks still don't catch. They still come off the neck too steeply. Can you redraw them so the neck keeps curving up and each stalk
+    (Tom held a thought)
+    (Leo held a thought)
+[   33s] 2:30 asked Tom,Priya | dominoes 0 | calls 32
+    Priya -> everyone: Fair point, Maya. I've added strokes 7 and 8: the neck just keeps curving up, and each stalk lifts off it at a small angle. Leo, please trace 7 and 8 and skip 3, 4, 5 and 6. Maya and Tom, nothing chan
+    (Tom held a thought)
+[   34s] 2:45 asked Maya,Tom,Leo | dominoes 4 | calls 35
+    Leo -> everyone: Quick result: my dry run says strokes 5 and 6 don't catch, same problem as before. I haven't confirmed 7 and 8 yet, so I'm checking those now before I lay anything. Maya, the table still looks empty t
+    (Tom held a thought)
+    (Maya held a thought)
+[   34s] 3:00 asked Maya,Priya | dominoes 4 | calls 37
+    Priya -> everyone: Okay, I've cleaned it up. Strokes 9 and 10 are two straight stalks forking off the top of the neck, each only a few degrees off the way the neck is heading. Leo, please trace 9 and 10 and skip 3 to 8.
+    (Maya held a thought)
+[   35s] 3:15 asked Maya,Leo | dominoes 4 | calls 39
+    Leo -> everyone: Priya, 9 and 10 look gentle enough, so I'm laying them now. My last check only covered up to 8, and I'll shout if they don't catch. Maya, the body is only a few dominoes long and we're under seven min
+    (Maya held a thought)
+[   35s] 3:30 asked Maya,Priya | dominoes 1 | calls 41
+    Priya -> everyone: Okay, no more redesigns, the sketch is final. Maya, I'm taking the body from the start so you don't have to carry it alone. Tom, the spiral will grow off it. Leo, lay the stalks once the body gets to 
+    (Maya held a thought)
+[   36s] 3:45 asked Maya,Tom,Leo | dominoes 7 | calls 44
+    Maya -> everyone: Dry run on 9 and 10: they catch. They're straight and barely off the neck's direction, so the fall carries into both, as long as the neck is laid with that smooth upward curve. Priya, I'm already movi
+    (Tom held a thought)
+    (Leo held a thought)
+[   36s] 4:00 asked Tom,Priya | dominoes 7 | calls 46
+    Tom -> everyone: Sorry, Maya, got talked over. The spiral's queued and will start the moment the body reaches the shell. The body's the bottleneck now, so I can lay the middle stretch from the far side while Priya kee
+    (Priya held a thought)
+[   36s] 4:15 asked Maya,Priya,Leo | dominoes 10 | calls 49
+    Maya -> everyone: Correction, Priya: my latest dry run says 9 and 10 do NOT catch. I called it wrong earlier, sorry. They still leave the neck wrong. Please redraw the neck so it keeps climbing and the two stalks fork 
+    (Priya held a thought)
+    (Leo held a thought)
+[   36s] 4:30 asked Tom,Priya,Leo | dominoes 15 | calls 54
+    Priya -> everyone: Yes Tom, do it. Take the middle from the shell side and stay well ahead of Maya so you don't bump her. Maya, thanks for the check. The stalks are the lowest priority now, since the body and shell have
+    (Leo held a thought)
+    (Tom held a thought)
+[   36s] 4:45 asked Maya,Tom,Leo | dominoes 19 | calls 59
+    Leo -> everyone: Quick one, since I got talked over: my dry run agrees with Maya, nine and ten don't catch. Priya, simplest fix is to let the body run straight a bit past the neck and fork the two stalks off that stra
+    (Tom held a thought)
+    (Maya held a thought)
+[   36s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 26 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Tom, the body's already past where the spiral branches off, so I'm tracing the spiral now. You take the body middle and stay ahead of Maya.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[   36s] 5:15 asked Maya,Tom,Priya | dominoes 39 | calls 70
+    Tom -> everyone: Leo, I've already got the spiral going, so I'll keep it. Could you take the stalks and the far end of the body instead? That keeps us off each other's dominoes.
+    (Maya held a thought)
+    (Priya held a thought)
+[   36s] 5:30 asked Priya,Leo | dominoes 51 | calls 72
+    Priya -> everyone: Okay, five minutes, no panic. Tom keeps the spiral, that's the snail's shell, so Leo, please swap to the far end of the body and the head. Maya, keep pushing the body from the start. Shout if you two 
+    (Leo held a thought)
+[   37s] 5:45 asked Maya,Tom,Leo | dominoes 62 | calls 75
+    Leo -> everyone: Priya, quick correction: the spiral on the table right now is mine, Tom's hands aren't on it, and I'm 18 down with the rest coming. I'll finish it. Tom, you're free, so please take the far end of the 
+    (Tom held a thought)
+    (Maya held a thought)
+[   37s] 6:00 asked Maya,Tom,Priya | dominoes 72 | calls 78
+    Tom -> everyone: Got it, Leo, the spiral's yours. I'm already extending the body toward the head, so I'll keep going from there. Maya, I'm starting just past where you are, so shout if I'm in your way.
+    (Priya held a thought)
+    (Maya held a thought)
+[   38s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 85 | calls 82
+    Maya -> everyone: Body's all down to where it turns up into the neck. Tom, you're on the neck, so I'll stay off it. I'm checking that joint and the head now.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[   38s] 6:30 asked Tom,Priya | dominoes 90 | calls 84
+    Priya -> everyone: Good news: I checked where the spiral leaves the body and the joint is solid, everything standing falls through. Leo, keep going on the spiral. Tom, neck and head are yours. Stalks only if there's tim
+    (Tom held a thought)
+[   38s] 6:45 asked Maya,Tom,Leo | dominoes 100 | calls 87
+    Maya -> everyone: Tom, neck looks done. I'm bridging the gap where the neck meets the stalk at the top, just a small connect.
+    Tom -> everyone: Neck's up. I'm adding two little stalks off the top now, staying clear of you both.
+    (Leo held a thought)
+[   39s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 93
+    Priya -> everyone: Nice work, all of you. Body and shell look connected. I'm taking a look at the head joint now so nobody else has to. Tom, Maya, keep the stalks simple, and don't touch the body or spiral anymore.
+    (Leo held a thought)
+    (Tom held a thought)
+[   40s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 99
+    Priya -> everyone: Inspected the head: body and spiral fall fine. The only break is right where the neck bends, around the pointed spot: the next domino sits a bit off to the side of the path. Maya, can you do a quick f
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[   45s] 7:30 asked Maya,Tom,Leo | dominoes 104 | calls 105
+    Maya -> everyone: Got it, Priya. I'm bridging the neck bend into the bottom of the stalks right now, one connect. Tom, hold off on that spot so we don't bump.
+    (Tom held a thought)
+[   58s] 7:45 asked Tom,Priya | dominoes 96 | calls 107
+    Priya -> everyone: Leo, quick flag: on my view the whole spiral is still pale, so it isn't catching from the body yet. Can you connect the body into the bottom of the spiral where you're working? I earlier called that j
+    (Tom held a thought)
+[   70s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 111
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Leo, I'll bridge from the body up into the right-hand end of the shell, just past where you are. Stay on your side and we won't bump.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[   81s] 8:15 asked Maya,Priya,Leo | dominoes 90 | calls 114
+    Priya -> everyone: Tom, hold on, the right-hand end is the tail of the shell, so a bridge there won't carry. The shell starts at this lower-left end, so the body has to feed in here. Leo's on that joint, so give him a h
+    (Leo held a thought)
+    (Maya held a thought)
+[   93s] 8:30 asked Tom,Leo | dominoes 87 | calls 116
+    Leo -> everyone: Priya, Tom, hold off on the lower-left end. My stroke is laying the shell from the body up the right side and round, so it reaches that end by itself. A bridge there would only bump my dominoes. Tom, 
+    (Tom held a thought)
+[  108s] 8:45 asked Maya,Tom,Priya | dominoes 86 | calls 119
+    Maya -> everyone: Leo, on it. The stalks still look pale, so I'm bridging the top of the neck into the bottom of the stalks. I'm staying off the body and shell. Leo, keep that shell joint as your priority.
+    (Priya held a thought)
+    (Tom held a thought)
+[  126s] 9:00 asked Tom,Priya,Leo | dominoes 94 | calls 124
+    Leo -> everyone: Heads up, my shell stroke only left one domino standing, so I'm extending it up the right side now. Tom, Maya, stay clear of it.
+    (Priya held a thought)
+[  136s] 9:15 asked Maya,Tom,Priya | dominoes 101 | calls 127
+    Tom -> everyone: Squint report: right now it reads as a long worm with its head up. The shell isn't showing, and that pale arc on the left won't fall. Leo, keep pushing your stub up and round into the big outer curl, 
+    (Priya held a thought)
+    (Maya held a thought)
+[  143s] 9:30 asked Tom,Priya,Leo | dominoes 105 | calls 130
+    Priya -> everyone: Leo, the shell joint is yours, keep laying it round. Tom, Maya, stay clear of it, no new stalks. Maya, just stand up anything that got bumped.
+    Leo -> everyone: Extending the shell up and round now, stay clear of it.
+[  148s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 134
+    Maya -> everyone: Leo, got you. I'm finishing the neck-to-stalk join and staying off your shell.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 208.8,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "snail",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "stick figure lying on a ground line",
+      "shoreline with a breaking wave",
+      "hook or stick shape on a horizontal line"
+    ],
+    [
+      "a broken stick or branch lying on a horizontal line",
+      "a wave curling up from a shoreline",
+      "a stick figure sprawled on the ground"
+    ],
+    [
+      "stick figure fallen on the ground",
+      "hand-drawn ground line with a plant or tree",
+      "abstract line sketch of a wave or hill"
+    ]
+  ],
+  "placed": 110,
+  "fell": 83,
+  "completion": 0.755,
+  "team_score": 0.0,
+  "first_domino_at": "2:45",
+  "messages": 47,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 16,
+    "Maya": 10,
+    "Tom": 7,
+    "Leo": 11
+  },
+  "held_thoughts": 61,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 0,
+    "input_tokens": 102,
+    "cache_creation_tokens": 239000,
+    "cache_read_tokens": 130457,
+    "output_tokens": 22023,
+    "seconds": 331.3,
+    "api_equivalent_usd": 1.0337,
+    "cached": 106
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "lone",
+  "designer": "Priya",
+  "locked_at": 60.0,
+  "reviews": {},
+  "aesthetics": 0.3,
+  "art_ratings": [
+    {
+      "score": 3.0,
+      "why": "Sparse strokes with a few flowing curves, but the lines are choppy and jagged, the composition feels unresolved, and it doesn't read as a deliberate, skilled drawing."
+    },
+    {
+      "score": 3.0,
+      "why": "The few strokes are broken and sketchy, and the composition is sparse and hard to read as a deliberate subject, though a couple of curves flow reasonably."
+    },
+    {
+      "score": 3.0,
+      "why": "Sparse, ambiguous strokes with a jagged, segmented line quality and no clear subject or composition, though the lines have some flow on the right."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.6,
+    "dry_run_fell": 72,
+    "per_stroke": {
+      "1": 0.82,
+      "2": 1.0,
+      "3": 0.0,
+      "4": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 1,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 60.0
+}

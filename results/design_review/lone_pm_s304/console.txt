@@ -1,0 +1,423 @@
+[   19s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Team, it's a whale: big, friendly, and it breathes air, so no sharks. Look at the pad. Whoever's free, grab a stroke: Hana take 1, Jack take 2, Sofia take 3 and 4, then I'll do the spout.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[   27s] 0:15 asked Sofia,Hana,Jack | dominoes 0 | calls 7
+    Hana -> everyone: Whale works. While you sketch, Omar: keep it one connected run from the start, with as few joins as you can. Skip separate bits like an eye, because they won't fall. Make the tail fin and the spout th
+    (Sofia held a thought)
+    (Jack held a thought)
+[   45s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 10
+    Omar -> everyone: Okay, it's up and locked! Whale outline, nose on the left, tail flukes on the right, spout on the back. Hana, stroke 1 is yours, Jack take 2, Sofia 3 and 4, and I'll do the spout.
+    (Sofia held a thought)
+    (Jack held a thought)
+[   58s] 0:45 asked Sofia,Hana,Jack | dominoes 0 | calls 13
+    Jack -> everyone: Got it, Omar, whale it is, nice call. I've got stroke 2, the belly. Hana, I'm still racing you on stroke 1!
+    Sofia -> everyone: On it, I've got the tail flukes. Whale, love it!
+    (Hana held a thought)
+[   68s] 1:00 asked Sofia,Omar,Hana | dominoes 3 | calls 16
+    Omar -> everyone: Locking it for real now, whale it is! Everyone go ahead. I've got the spout and the start domino.
+[   86s] 1:15 asked Sofia,Hana,Jack | dominoes 9 | calls 21
+    Hana -> everyone: Running the fall through the sketch in my head now. Give me a few seconds, then I'll report back before I commit stroke 1.
+    (Jack held a thought)
+[   86s] 1:30 asked - | dominoes 10 | calls 21
+[   94s] 1:45 asked Sofia,Hana | dominoes 17 | calls 23
+    Hana -> everyone: Dry run's good: all six strokes fall, start to tail. My two worries, the corner at the back and the tail join, both hold. I'm laying stroke 1 now. Jack, Sofia, go ahead on yours.
+    (Sofia held a thought)
+[  102s] 2:00 asked Sofia,Omar,Jack | dominoes 22 | calls 28
+    Jack -> everyone: Got it, Hana. My dry run agrees, the whole thing falls. The belly's queued and goes the moment your line gets there. Race is on!
+    (Sofia held a thought)
+    (Omar held a thought)
+[  124s] 2:15 asked Omar,Hana | dominoes 25 | calls 30
+    Hana -> everyone: Jack, I'm on it, still laying. Heads up though, Omar: I need to take back part of my dry run. The spout is showing pale, so the start wouldn't knock it over. It peels off the first line at way too ste
+    (Omar held a thought)
+[  136s] 2:30 asked Sofia,Omar,Jack | dominoes 30 | calls 33
+    Jack -> everyone: Good catch, Hana, you win that round! I need to take back my dry run too: the spout leaves the first line at too sharp an angle, so it won't fall. Omar, can you redraw it leaving the line earlier, hea
+    (Omar held a thought)
+    (Sofia held a thought)
+[  146s] 2:45 asked Omar,Hana | dominoes 34 | calls 35
+    Omar -> everyone: Good catch, Hana and Jack. I'm redrawing the spout now so it leaves the line earlier and runs mostly right before curling up. I'll trace it as soon as it's drawn.
+    (Hana held a thought)
+[  155s] 3:00 asked Hana,Jack | dominoes 38 | calls 37
+    Hana -> everyone: Omar, the spout is the one thing holding us back. Please redraw it as a gentle branch and shout when it's drawn. My line's done, so I'm checking the junctions now and I'll re-trace the spout when it's
+    (Jack held a thought)
+[  168s] 3:15 asked Omar,Hana | dominoes 45 | calls 39
+    Omar -> everyone: Spout's redrawn, it leaves the line earlier now. I'm tracing it. Hana, have a look once it's down.
+    (Hana held a thought)
+[  177s] 3:30 asked Hana | dominoes 54 | calls 40
+    Hana -> everyone: Thanks, Omar. My inspection came back clean: everything built falls except the old spout bits near the top. Once the new one is down I'll check it connects. Don't pull anything out near the main line 
+[  183s] 3:45 asked Omar | dominoes 58 | calls 41
+    Omar -> everyone: Spout's down. I'm inspecting that corner now to check it falls. I won't pull anything out until we know what's what.
+[  203s] 4:00 asked Omar,Hana | dominoes 62 | calls 43
+    Hana -> everyone: Dry run done. Everything falls except the upper tail fluke, the one pointing up-right. It leaves the junction at too steep an angle, so the fall never gets into it, and we'd end up with half a tail. O
+    (Omar held a thought)
+[  226s] 4:15 asked Sofia,Omar | dominoes 67 | calls 47
+    Omar -> everyone: On it, Hana. Redrawing the upper fluke now so it carries on along the belly line and only curls up at the tip. Sofia, hold off on that one. I'll shout when it's drawn.
+    (Sofia held a thought)
+[  235s] 4:30 asked Sofia,Hana | dominoes 71 | calls 51
+    Sofia -> everyone: Got it, Hana. I'm holding off on the upper fluke until Omar redraws it, and I'm laying just the other one for now. Omar, a gentle leave, then curl up at the tip. I'll also squint at the whole thing an
+[  245s] 4:45 asked Omar,Hana | dominoes 75 | calls 53
+    Omar -> everyone: Upper fluke's redrawn: it leaves the belly gently and only curls up at the tip. I'm tracing it now, Sofia, so you stay on the other fluke. Hana, can you check it once it's down?
+    (Hana held a thought)
+[  255s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 57
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Squint report: the body reads fine as a big rounded shape, but the tail and spout look like a stem and leaves, so a stranger might say pumpkin. The flukes are the telltale, so if there's time, spread 
+    (Hana held a thought)
+    (Omar held a thought)
+[  262s] 5:15 asked Omar | dominoes 75 | calls 58
+    Omar -> everyone: Thanks Sofia, good squint. The upper fluke already curls out and away at the tip. Jack, once the belly reaches the tail end my fluke picks up from there. Hana, a quick look at the tail after that woul
+[  274s] 5:30 asked Sofia,Hana,Jack | dominoes 80 | calls 61
+    Hana -> everyone: Omar, straight answer: my dry run says the upper fluke still doesn't fall. As it's drawn on the pad, it still peels off the junction at a steep angle, so we'd get half a tail. Please redraw it so the 
+    (Jack held a thought)
+[  286s] 5:45 asked Sofia,Omar,Jack | dominoes 80 | calls 64
+    Omar -> everyone: Fair, Hana. I've drawn a new upper fluke: a longer, straighter run on the belly's heading, curling only at the very tip. Tracing it now instead of the old one. Sofia, stay on the other fluke.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  292s] 6:00 asked Sofia,Hana | dominoes 80 | calls 66
+    Hana -> everyone: Thanks Omar. Running the fall through the new upper fluke now, I'll report in a few seconds.
+    (Sofia held a thought)
+[  298s] 6:15 asked Omar,Jack | dominoes 82 | calls 68
+    Jack -> everyone: Belly's still stopping short of the tail, so I'm carrying it on up to the tail junction now. Hana, a look at the join once I'm there would be great.
+[  307s] 6:30 asked Hana | dominoes 86 | calls 69
+    Hana -> everyone: Good news, Omar: the new upper fluke falls. My dry run goes through all eight strokes, start to both tail tips. The only thing left is the belly reaching the tail junction. Jack, keep going. I'll keep
+[  313s] 6:45 asked Omar,Jack | dominoes 91 | calls 71
+    Omar -> everyone: Brilliant, thanks Hana. Jack's carrying the belly up to the tail now and my fluke picks up the moment it arrives. Jack, shout if the join gets fiddly. Nice work, whale team!
+    (Jack held a thought)
+[  321s] 7:00 asked Hana,Jack | dominoes 101 | calls 73
+    Hana -> everyone: Belly looks like it's reached the tail join. I'm checking that corner now. Omar, Sofia, keep laying the flukes and I'll shout if anything's off.
+    (Jack held a thought)
+[  331s] 7:15 asked Sofia,Omar,Hana | dominoes 110 | calls 76
+    Hana -> everyone: Heads up, the belly reaches the tail join but there's a little kink right at the corner. One domino sits off to the side, so the fall wouldn't get through to the flukes. I'm fixing it now. Omar, Sofia
+    (Sofia held a thought)
+    (Omar held a thought)
+[  350s] 7:30 asked Sofia,Omar,Jack | dominoes 110 | calls 81
+    Jack -> everyone: Good catch on the kink, Hana. My dry run says everything falls start to both flukes once that corner's clean, so it's the last thing to close. I'm keeping my hands off it. Nobody pull that stray pale 
+    (Omar held a thought)
+    (Sofia held a thought)
+[  357s] 7:45 asked Omar,Hana | dominoes 110 | calls 83
+    Hana -> everyone: I'm on the corner kink now, hands off that spot for a few seconds. Once it's closed, the fall should run through to both flukes.
+    (Omar held a thought)
+[  367s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 110 | calls 87
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Corner's nudged. The upper fluke still shows pale on my picture, so I'm running the fall through it now. Everyone keep hands off that corner.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  375s] 8:15 asked Sofia,Omar | dominoes 110 | calls 91
+    Sofia -> everyone: Lower fluke's down. I'm staying clear of that corner. Omar, if the upper fluke needs a few more dominoes to reach its tip, go for it. Otherwise let's keep hands off and let it fall.
+    (Omar held a thought)
+[  382s] 8:30 asked Omar,Hana,Jack | dominoes 110 | calls 94
+    Hana -> everyone: Dry run's clean: all eight strokes fall, start through both flukes. The upper fluke still looks pale on my picture, but the fall gets in. Hands off the corner now, let it go.
+    (Jack held a thought)
+    (Omar held a thought)
+[  388s] 8:45 asked Sofia,Omar,Jack | dominoes 110 | calls 97
+    Jack -> everyone: Hana, you've got the corner, I'm staying clear. My dry run says it all falls through to both flukes. Great work, everyone, that's a proper whale!
+    Omar -> everyone: Thanks Hana, great work. Hands off everyone, step back and let the whale fall!
+    (Sofia held a thought)
+[  394s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 110 | calls 101
+    Sofia -> everyone: Looks good to me, everyone. Hands off and let our whale swim. Nice teamwork!
+    Jack -> everyone: All set, hands off everyone. Nice teamwork, let's watch it go!
+    Omar -> everyone: All good from me. Hands off, everyone, and let the whale swim.
+[  401s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 110 | calls 105
+    Jack -> everyone: Last dry run from me, then I'm hands off. If it's clean, we're done.
+[  407s] 9:30 asked Sofia,Omar,Hana | dominoes 110 | calls 108
+    Hana -> everyone: One last dry run on the upper fluke, hands off everyone.
+    Omar -> everyone: Fingers crossed, team. Nobody touch a thing. Let the whale swim!
+[  414s] 9:45 asked Sofia,Omar,Jack | dominoes 110 | calls 111
+    Jack -> everyone: Final dry run's clean, all eight strokes fall start to both flukes. Hands off, everyone. Great work, team, that was a fun one!
+    Omar -> everyone: Hands off, team. Let it swim!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.0,
+      "error": 1.77
+    },
+    "Omar": {
+      "speed": 1.22,
+      "error": 1.95
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.94
+    },
+    "Jack": {
+      "speed": 0.87,
+      "error": 0.96
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 467.9,
+  "intents": {
+    "Sofia": "whale",
+    "Omar": "whale",
+    "Hana": "whale",
+    "Jack": "whale"
+  },
+  "team_intent": "whale",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Omar",
+    "Omar",
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "fish body outline",
+      "swan or bird neck and head",
+      "curved river or coastline"
+    ],
+    [
+      "fish outline seen from the side",
+      "swan or bird with raised neck",
+      "hook or curved river path"
+    ],
+    [
+      "a fish with fins",
+      "a seahorse curled to the right",
+      "a bird's neck and head"
+    ]
+  ],
+  "placed": 110,
+  "fell": 101,
+  "completion": 0.918,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Omar": 15,
+    "Hana": 16,
+    "Jack": 9,
+    "Sofia": 5
+  },
+  "held_thoughts": 41,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 128,
+    "failed": 0,
+    "input_tokens": 268,
+    "cache_creation_tokens": 579314,
+    "cache_read_tokens": 422056,
+    "output_tokens": 57923,
+    "seconds": 895.7,
+    "api_equivalent_usd": 2.7466,
+    "cached": 6
+  },
+  "roles": {
+    "Sofia": "design",
+    "Omar": "pm",
+    "Hana": "eng",
+    "Jack": "eng"
+  },
+  "design_mode": "lone",
+  "designer": "Omar",
+  "locked_at": 60.0,
+  "reviews": {},
+  "aesthetics": 0.5,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The main sweeping curve flows well and has a pleasing arc, but the ragged tufts at the top and right ends add clutter and leave the composition somewhat unbalanced."
+    },
+    {
+      "score": 5.0,
+      "why": "The long sweeping curve flows well and fills the frame sensibly, but the tangled strokes at the top and the wobbly hooks at the right end look clumsy and unresolved."
+    },
+    {
+      "score": 5.0,
+      "why": "The long bottom sweep is graceful and the composition is uncluttered, but the tangled tick-mark clusters at the top and right ends look scrappy and undercut the flow."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.5,
+    "aesthetics": 0.367,
+    "dry_run_fell": 120,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 0.9,
+      "4": 1.0,
+      "5": 1.0,
+      "6": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    }
+  ],
+  "client": "aquarium",
+  "client_best": "whale",
+  "notes": {
+    "Sofia": [],
+    "Omar": [
+      "It's for the entrance of a children's aquarium.",
+      "They asked for something big and bold that people notice.",
+      "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+      "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+      "The client stressed it has to read from across the lobby: one huge, simple shape.",
+      "The client said it should be something that lives in the sea and breathes air."
+    ],
+    "Hana": [],
+    "Jack": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "whale",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client stressed it has to read from across the lobby: one huge, simple shape.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 300,
+        "by": "Sofia"
+      },
+      {
+        "fact": "The client said it should be something that lives in the sea and breathes air.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "You overheard a staff member say the director loves octopuses.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 2,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 60.0
+}

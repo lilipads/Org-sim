@@ -1,0 +1,232 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.0,
+      "error": 1.77
+    },
+    "Omar": {
+      "speed": 1.22,
+      "error": 1.95
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 0.94
+    },
+    "Jack": {
+      "speed": 0.87,
+      "error": 0.96
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1412.3,
+  "intents": {
+    "Sofia": "whale",
+    "Omar": "whale",
+    "Hana": "whale",
+    "Jack": "whale"
+  },
+  "team_intent": "whale",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 0.167,
+  "pad_holders": [
+    "Sofia",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "leaf or seed shape",
+      "boat hull"
+    ],
+    [
+      "fish outline",
+      "whale or dolphin",
+      "leaf with stem"
+    ],
+    [
+      "fish outline in side view",
+      "leaf or teardrop shape",
+      "bird or seed shape"
+    ]
+  ],
+  "placed": 159,
+  "fell": 142,
+  "completion": 0.893,
+  "team_score": 0.149,
+  "first_domino_at": "1:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Omar": 7,
+    "Sofia": 16,
+    "Jack": 8,
+    "Hana": 16
+  },
+  "held_thoughts": 63,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 3,
+    "input_tokens": 284,
+    "cache_creation_tokens": 691685,
+    "cache_read_tokens": 462468,
+    "output_tokens": 74850,
+    "seconds": 1971.5,
+    "api_equivalent_usd": 3.3858,
+    "cached": 0
+  },
+  "roles": {
+    "Sofia": "design",
+    "Omar": "pm",
+    "Hana": "eng",
+    "Jack": "eng"
+  },
+  "design_mode": "open",
+  "designer": null,
+  "locked_at": 75.0,
+  "reviews": {},
+  "aesthetics": 0.4,
+  "art_ratings": [
+    {
+      "score": 4.0,
+      "why": "The smooth, flowing top contour and clear fish silhouette are appealing, but the jittery bottom line, cluttered overlapping strokes at the tail, and stray marks keep it from looking skilled."
+    },
+    {
+      "score": 4.0,
+      "why": "The smooth, flowing top curve and the body's proportions are pleasing, but the bottom edge doubles back on itself and the tail and fin area are cluttered with jagged, overlapping strokes."
+    },
+    {
+      "score": 4.0,
+      "why": "The long top curve flows nicely and the overall fish silhouette is readable, but the bottom edge and tail are jagged and cluttered with stray strokes."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.4,
+    "dry_run_fell": 122,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0,
+      "4": 1.0,
+      "5": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "dry_run"
+    }
+  ],
+  "client": "aquarium",
+  "client_best": "whale",
+  "notes": {
+    "Sofia": [],
+    "Omar": [
+      "It's for the entrance of a children's aquarium.",
+      "They asked for something big and bold that people notice.",
+      "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+      "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+      "The client stressed it has to read from across the lobby: one huge, simple shape.",
+      "The client said it should be something that lives in the sea and breathes air."
+    ],
+    "Hana": [],
+    "Jack": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "whale",
+  "final_score": 0.067,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "In your chat, the client said sharks frighten the little ones: they'd hate a shark.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client told you their star attraction, by far, is the whale hall with the giant whale skeleton.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client stressed it has to read from across the lobby: one huge, simple shape.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "The client said it should be something that lives in the sea and breathes air.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "You overheard a staff member say the director loves octopuses.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 75.0
+}

@@ -1,0 +1,293 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 402.7,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "snail",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "snail with a curled shell",
+      "swan neck and head",
+      "hook-shaped curling wave"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "snake or worm shape",
+      "curling wave or ribbon"
+    ],
+    [
+      "snail or curled shell outline",
+      "hand-drawn curling line or spiral",
+      "swan neck or rising wave"
+    ]
+  ],
+  "placed": 110,
+  "fell": 109,
+  "completion": 0.991,
+  "team_score": 0.661,
+  "first_domino_at": "5:00",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 18,
+    "Priya": 12,
+    "Tom": 9,
+    "Leo": 9
+  },
+  "held_thoughts": 35,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 141,
+    "failed": 0,
+    "input_tokens": 214,
+    "cache_creation_tokens": 456589,
+    "cache_read_tokens": 344216,
+    "output_tokens": 48816,
+    "seconds": 717.8,
+    "api_equivalent_usd": 2.1669,
+    "cached": 44
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "lone",
+  "designer": "Maya",
+  "locked_at": 285.0,
+  "reviews": {},
+  "aesthetics": 0.533,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The big sweeping curl and long flowing base line are graceful, but the doubled, jittery strokes at the upper right and the broken ends make it look less refined than an illustrator's line."
+    },
+    {
+      "score": 5.0,
+      "why": "The big sweeping curves flow well and the composition is simple, but the broken, doubled strokes at the top right and the stray hook near the middle make it look untidy."
+    },
+    {
+      "score": 6.0,
+      "why": "The long flowing curves and the spiral curl are graceful and uncluttered, but the line has gaps, a few stray ticks, and an awkward jumble at the upper-right hook."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.333,
+    "aesthetics": 0.5,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.356,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 285.0
+}

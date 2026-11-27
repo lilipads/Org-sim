@@ -1,0 +1,231 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 90.2,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "snail",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "snail with spiral shell",
+      "spiral shell on a ground line",
+      "snail with a raised antenna"
+    ],
+    [
+      "snail with spiral shell and antennae",
+      "spiral shell or coiled rope on a ground line",
+      "hand-drawn curl with a tail or wave"
+    ],
+    [
+      "snail with spiral shell",
+      "slug or snail crawling on a line",
+      "curled rope or ribbon lying on the ground"
+    ]
+  ],
+  "placed": 167,
+  "fell": 167,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 39,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 15,
+    "Leo": 9,
+    "Maya": 7,
+    "Tom": 5
+  },
+  "held_thoughts": 42,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 116,
+    "failed": 0,
+    "input_tokens": 50,
+    "cache_creation_tokens": 115024,
+    "cache_read_tokens": 53876,
+    "output_tokens": 5447,
+    "seconds": 117.4,
+    "api_equivalent_usd": 0.4247,
+    "cached": 94
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "open",
+  "designer": null,
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.6,
+  "art_ratings": [
+    {
+      "score": 6.0,
+      "why": "The spiral shell curves gracefully and the snail reads clearly, but the tangled overlap at the upper left and the stiff, simple antenna keep it short of elegant."
+    },
+    {
+      "score": 6.0,
+      "why": "A clear, readable snail with a flowing spiral and balanced composition, but the wobbly segmented strokes and the tangled knot at the upper-left of the shell add clutter."
+    },
+    {
+      "score": 6.0,
+      "why": "The spiral shell is graceful and the composition is clean and uncluttered, but the segmented strokes are uneven and the upper-left overlap looks messy."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 66,
+    "per_stroke": {
+      "1": 0.65,
+      "2": 1.0,
+      "3": 0.0,
+      "4": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.6,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}
