@@ -30,3 +30,296 @@
     (Omar held a thought)
     (Tom held a thought)
     (Grace held a thought)
+[  675s] 0:45 asked Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 18 | calls 41
+    Sofia -> everyone: I'll take the tail, stroke 3! That's the bottom curve covered by Maya, so Hana and Jack, maybe split it or help Leo on the top. I'll start the tail as soon as the lines reach the tail point.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  685s] 1:00 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 33 | calls 50
+    Sofia -> everyone: Looks like Tom's already got the tail, so I'll leave that to him. I'll help push the top curve along from where Leo's up to, toward the tail point.
+    (Priya held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+[  696s] 1:15 asked Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 48 | calls 58
+    Tom -> everyone: Yep, I've got the tail, Sofia. I'll start it once the top and bottom lines get to the tail point. Pushing the top along is a great call.
+    (Priya held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+[  707s] 1:30 asked Sofia,Omar,Hana,Jack,Sam | dominoes 66 | calls 63
+    Jack -> everyone: Fair enough, Sofia, Tom's on the tail and Maya's got the bottom curve, so I'll stay out of your way. I'll be the fixer: once the lines get near the tail I'll check the joints for breaks. Nice work so 
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+[  719s] 1:45 asked Maya,Tom,Sofia,Omar,Hana,Sam | dominoes 83 | calls 69
+    Sam -> Priya,Grace: Quick check: Priya and Grace, you're both on the bottom curve near the middle. Maya's already laid the stretch past you, so make sure you're not doubling up. Grace, that line pointing up-right looks l
+    Hana -> everyone: Quick flag on the bottom curve. Grace, your little run here looks like it's drifting above the curve, and it isn't lining up with Maya's piece. Priya, can you carry your line on into the start of Maya
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+[  730s] 2:00 asked Maya,Priya,Sofia,Omar,Jack,Sam,Grace | dominoes 86 | calls 76
+    Grace -> everyone: Good catch, you two. I'll pull my drifting bit out now and leave the bottom curve to Priya and Maya. Then I'll check the join.
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+[  743s] 2:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 88 | calls 86
+    Hana -> everyone: Bottom curve's still broken where the dark line ends and the pale stretch starts, so I'll bridge that now. Leo or Sofia, could one of you carry the top curve on to where the two lines meet for the tai
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+[  754s] 2:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 87 | calls 96
+    Hana -> everyone: Good news: both curves now run all the way to the tail point and the whole run is connected. Tom, you're clear to start the tail. Everyone else, please keep off the tail area so we don't bump it. I'll
+    (Maya held a thought)
+    (Leo held a thought)
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[  769s] 2:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 87 | calls 107
+    Leo -> Tom: Tom, the top line is right up against the bottom one at the tail point, so the tail's clear to go. I'll stay off that area. Once it's laid I'll look over the joint.
+    Sam -> everyone: Tom, the tail's the only part still missing and the clock's running. Are you starting it now? I'm closing a small gap on the top line just before the tail point. If you're stuck, say so and I'll take 
+    (Grace held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  780s] 3:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 86 | calls 117
+    Omar -> Tom: Tom, no pressure, but the tail's the last bit and we've got a few minutes. Want me to take the lower half of it while you do the top, or are you already on it? Just give me a shout.
+    Sofia -> everyone: Tom, I'm starting the tail now so we don't lose time. If you've already begun, shout and I'll stop. Otherwise just stay clear and check the joint after.
+    (Sam held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Jack held a thought)
+[  795s] 3:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 89 | calls 127
+    Tom -> everyone: Sorry, I'm here! I'm on the tail. The first domino got stuck on a sharp corner at the join, so I'm carrying it on down toward the lower point now. Sofia, Omar, please hold off, I don't want us bumping
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+[  806s] 3:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 94 | calls 136
+    Grace -> everyone: Joint looks okay from here. The only weak spot is the top line just before the tail point, and Sam's already on it. I'll stay off the tail so we don't bump anything. Tom, shout if you want a hand with
+    (Hana held a thought)
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+[  816s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 103 | calls 145
+    Hana -> everyone: Sam, that top-line gap just before the tail point looks a bit wide for a nudge. Try a connect from the last standing bar into the tail point. Tom, carry on with the tail. I'm staying clear and just lo
+    (Sam held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[  833s] 4:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 113 | calls 154
+    Sofia -> everyone: Got it Tom, I'll stay off the tail. When the lower edge is done I can take the upper point and the upright so we're not both in the same spot. Just shout.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  844s] 4:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 120 | calls 163
+    Tom -> everyone: Thanks Sofia. Lower edge is down to the point and I'm running the upright up now, so stay off that bit. Omar, once I'm near the top, could you take the short slanted line back to the tail point? Sofia
+    (Grace held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+[  856s] 4:30 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 129 | calls 171
+    Grace -> everyone: Tom, one thing when you have a second: there's a squeezed pair on the lower edge of the tail, right about where Sam's hands are. Could be a break, so ease it when you pass. Sofia, the upper edge is st
+    (Hana held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  868s] 4:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 134 | calls 180
+    Hana -> everyone: Tom, quick rethink on the tail. The lower edge is good, but the upright is way out at the right edge and the upper edge curls over and drops, so it reads more like a hook than a triangle. Once the upr
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  881s] 5:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 140 | calls 190
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Tom, the upright looks done to the top, so I'm laying the upper edge from the tail point across to the top of it now. Shout if I'm in your way. The squeezed pair on the lower edge is still the one wea
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  894s] 5:15 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Grace | dominoes 149 | calls 198
+    Leo -> Sam,Tom: Sam, the lower edge of the tail isn't connected yet. There's a jammed bar near its far end, and the pale stretch back toward the tail point is cut off from the chain. Can you ease that one apart, or c
+    Grace -> everyone: Heads up, the lower edge of the tail is still pale, so it isn't connected. It breaks right at the tail point, where the line turns too sharply into it. Sam, could you do a connect from the tail point 
+    (Tom held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Priya held a thought)
+[  905s] 5:30 asked Maya,Tom,Priya,Leo,Omar,Jack,Sam | dominoes 156 | calls 205
+    Tom -> everyone: Thanks Grace, Leo. I'm bridging the tail point into the first pale bar of the lower edge right now. Sam, you can stay off it, I've got it.
+    (Sam held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+[  916s] 5:45 asked Maya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 160 | calls 212
+    Sofia -> everyone: Upper edge is in. A couple of bars didn't fit near the top of the upright, so I'm checking the tail now to see what actually connects.
+    (Sam held a thought)
+    (Leo held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  926s] 6:00 asked Maya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 166 | calls 219
+    Grace -> everyone: Inspection report on the tail. The body is fine and carries through to the tail point. Two breaks remain. First, at the tail point, the lower edge still turns too sharply into its first bar, so that w
+    (Sam held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  939s] 6:15 asked Maya,Tom,Leo,Sofia,Omar,Jack,Sam | dominoes 181 | calls 226
+    Omar -> everyone: Tom, Grace says the lower edge is still pale, so I'll try the connect into the second pale bar from the tail point. If yours already took, shout and I'll back off.
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+[  949s] 6:30 asked Maya,Tom,Leo,Sam,Grace | dominoes 191 | calls 231
+    Tom -> everyone: Thanks Omar, Grace. Hold off a moment, my bridge is still going in right there and I don't want us bumping. Once it's done, if the lower edge is still pale, you take the second-bar connect and I'll ea
+    (Maya held a thought)
+    (Sam held a thought)
+[  961s] 6:45 asked Maya,Leo,Omar,Hana,Sam,Grace | dominoes 201 | calls 237
+    Omar -> Tom: Got it Tom, I'll keep clear and let you finish. Shout when it's in and I'll check if it's still pale.
+    Leo -> everyone: Tom, Omar, you two keep the lower edge bridge. I'll take the bottom of the upright, where the line turns too sharply and there's a gap just above it. I'll stay off the tail point.
+    (Maya held a thought)
+    (Grace held a thought)
+    (Hana held a thought)
+[  969s] 7:00 asked Maya,Tom,Omar,Hana,Sam,Grace | dominoes 209 | calls 243
+    Grace -> everyone: Leo, that works, the gap partway up the upright is what I saw too, so you've got it. Sofia, then you can stay off it. I'm keeping clear of the tail.
+    (Tom held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  979s] 7:15 asked Maya,Tom,Leo,Sofia,Hana,Sam | dominoes 210 | calls 249
+    Tom -> everyone: Bridge is in, Omar. Go ahead and do the second-bar connect if the lower edge is still pale. I'm checking the whole tail now.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+[  994s] 7:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 211 | calls 259
+    Sofia -> everyone: Priya, the upper edge of the tail is still pale. It needs a connect from the tail point into its first bar, just above where you're working. Can you take that? I'm staying off it so we don't bump each
+    (Sam held a thought)
+    (Jack held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Hana held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+[ 1006s] 7:45 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Grace | dominoes 220 | calls 267
+    Priya -> everyone: On it, Sofia. I'm connecting the tail point into the first bar of the upper edge now. Everyone please stay off that spot.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Grace held a thought)
+    (Tom held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+[ 1018s] 8:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 222 | calls 277
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sam -> everyone: Priya, you've got the upper edge connect, I'm finishing mine at the same joint, so we're doubling up. Let me finish my last two and you stay off it. After that I'll look over the whole chain.
+    (Hana held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Grace held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+[ 1026s] 8:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 222 | calls 286
+    Hana -> everyone: Under two minutes. The body's connected and carries through, so the fish already reads. Everyone stay in your spots, nobody take anything down now. Priya and Sam, one of you finish the upper edge join
+    (Priya held a thought)
+    (Grace held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[ 1035s] 8:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 222 | calls 295
+    Grace -> everyone: Two minutes, so no new pieces now. Priya and Sam are finishing the tail joint, everyone else stay clear of the body and the tail so nobody bumps anything. The fish reads fine even if the top corner of
+    (Priya held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Tom held a thought)
+[ 1043s] 8:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 222 | calls 304
+    Sam -> everyone: Done on my end. The body carries through, so the fish reads. Priya, the upper tail edge is the only pale bit, shout if it won't take. Everyone else, hands off now.
+    (Priya held a thought)
+    (Jack held a thought)
+    (Tom held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[ 1051s] 9:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Grace | dominoes 222 | calls 313
+    Tom -> everyone: Looks solid from here, the body's all connected. Let's keep hands off the tail now so nobody bumps anything.
+    Priya -> everyone: Okay Sam, it's yours. I'm off that spot and just looking it over. Nobody take anything down now.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Maya held a thought)
+[ 1058s] 9:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 222 | calls 323
+    Sofia -> everyone: Nice work everyone, the fish reads. Hands off now and let it fall!
+    Hana -> everyone: Thanks Sam, Priya. That's it, everyone hands off and let it fall. Nice work, all.
+    Maya -> everyone: Looks good, the fish reads. Hands off everyone, let's watch it fall.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[ 1065s] 9:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 222 | calls 333
+    Tom -> everyone: Hands off, everyone. Nice work, it's a fish!
+    Jack -> everyone: Nice work everyone, that's a proper fish! Hands off and let's watch it go.
+    Sam -> everyone: Hands off, everyone. Fingers crossed it falls the way we planned.
+    (Omar held a thought)
+[ 1073s] 9:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 222 | calls 343
+    Priya -> everyone: Hands off from me too. Fingers crossed, and if the tail flops, we still have a very good fish head!
+    Sofia -> everyone: Fingers crossed, here it goes!
+    Maya -> everyone: Here we go, fingers crossed!
+    Tom -> everyone: Here we go, fingers crossed!
+    (Omar held a thought)

@@ -47,6 +47,9 @@ def main():
                     help="none | auto (by seed) | a profile id from orgsim/clients.json")
     ap.add_argument("--decision", choices=["free", "dictator", "consensus"], default="free")
     ap.add_argument("--dictator", default="random", help="random | worst | best | a name (with --decision dictator)")
+    ap.add_argument("--roles", action="store_true", help="Eng / Design / PM roles (DESIGN_REVIEW_STUDY.md)")
+    ap.add_argument("--design-mode", choices=["lone", "review", "open"], default=None)
+    ap.add_argument("--designer-role", choices=["eng", "design", "pm"], default="design")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
@@ -86,8 +89,30 @@ def main():
     from orgsim import client as clientmod
     profile = clientmod.profile_for(args.seed, args.client) if args.client != "none" else None
     notes, pitches, dictator = {}, [], None
-    if profile:
+    roles, designer, checker = {}, None, None
+    if args.roles:
+        from orgsim import handwork, roles as rolesmod
+        from orgsim import design_check
+        handwork.SKIP_DETACHED_START = True         # an eye or a dot can't be the start (fixed rule)
+        if not profile:
+            raise SystemExit("--roles needs a client (--client auto)")
+        roles = rolesmod.assign_roles(names, args.seed)
+        designer = next(n for n in names if roles[n] == args.designer_role) if args.design_mode in ("lone", "review") else None
+        cfg.roles, cfg.design_mode, cfg.designer = roles, args.design_mode, designer
+        salt = f"seed{args.seed}"
+
+        def checker(kind, who, strokes, note):
+            if kind == "dry_run":
+                return design_check.dry_run_text(strokes)
+            if kind == "squint":
+                return design_check.squint_text(strokes, calls, f"{salt}/{who}")
+            return design_check.client_text(profile, strokes, note, calls, f"{salt}/{who}", args.model)
+    if profile and args.roles:                   # only the PM met the client, and has all their notes
+        pm = next(n for n in names if roles[n] == "pm")
+        notes = {n: (list(profile["shared"]) + list(profile["unique"]) if n == pm else []) for n in names}
+    elif profile:
         notes = clientmod.deal_notes(profile, names, args.seed)
+    if profile and not args.roles:
         with ThreadPoolExecutor(len(names)) as ex:
             pitches = list(ex.map(lambda n: clientmod.pitch(n, PERSONAS_V2[n], profile, notes[n], calls, args.model,
                                                             f"seed{args.seed}"), names))
@@ -119,9 +144,12 @@ def main():
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
-        if profile:
-            rules = rules.replace("THE TABLE\n", clientmod.client_rules(profile, notes[n]) + "\nTHE TABLE\n", 1)
         fmt = ""
+        if args.roles:
+            rules, fmt = rolesmod.role_rules(rules, n, roles, args.design_mode, designer,
+                                             clientmod.client_rules(profile, notes[n]), profile["commission"])
+        elif profile:
+            rules = rules.replace("THE TABLE\n", clientmod.client_rules(profile, notes[n]) + "\nTHE TABLE\n", 1)
         if args.decision == "dictator":
             if n == dictator:
                 rules = rules.replace("THE TABLE\n", "WHO DECIDES\nYou alone decide what the table builds. Others may "
@@ -144,7 +172,7 @@ def main():
         agents.append(LiveLLMAgent(n, "table", PERSONAS_V2[n], rules, args.evaluation, calls, **extra))
         agents[-1].extra_format = fmt
         agents[-1].cache_salt = f"seed{args.seed}"
-    game = LiveGame(world, agents, cfg)
+    game = LiveGame(world, agents, cfg, checker=checker)
     t0 = time.time()
 
     def progress(g):
@@ -217,13 +245,31 @@ def main():
         "held_thoughts": sum(len(r["held"]) for r in game.log["turns"]),
         "parse_failures": {a.name: a.failures for a in agents}, "usage": calls.totals(),
     }
+    if args.roles:
+        from orgsim.design_check import aesthetics_panel, dry_run, ideal_png
+        art = aesthetics_panel(png, calls)
+        des = game.log.get("design") or {}
+        locked = des.get("locked_sketch") or []
+        quality = None
+        if locked:
+            ip = ideal_png(locked, os.path.join(args.out, "locked_design.png"))
+            jl = judge_picture(ip, intent, 3, calls)
+            dr = dry_run(locked)
+            quality = {"recognition": jl["recognition"], "aesthetics": aesthetics_panel(ip, calls)["aesthetics"],
+                       "dry_run_fell": dr["fell"], "per_stroke": dr["per_stroke"]}
+        checks = [e for r in game.log["turns"] for e in r["events"] if e["type"] == "check"]
+        summary.update({"roles": roles, "design_mode": args.design_mode, "designer": designer,
+                        "locked_at": des.get("locked_at"), "reviews": des.get("reviews"),
+                        "aesthetics": art["aesthetics"], "art_ratings": art["ratings"],
+                        "locked_design_quality": quality,
+                        "checks": [{"who": c["who"], "check": c["check"]} for c in checks]})
     if profile:
         built = clientmod.rate_animal(profile, intent, calls)
         summary.update({
             "client": profile["id"], "client_best": profile["best"], "notes": notes, "pitches": pitches,
             "taste_ranking_worst_first": clientmod.taste_ranking(pitches),
             "client_score": built["score"], "client_matched": built["matched"],
-            "final_score": round(judging["recognition"] * built["score"], 3),
+            "final_score": round(judging["recognition"] * built["score"] * (summary.get("aesthetics") or 1.0), 3),
             "notes_surfaced": clientmod.notes_surfaced(profile, notes, game.log, calls),
         })
     dec = game.log.get("decision") or {}
