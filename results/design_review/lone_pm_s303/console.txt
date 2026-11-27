@@ -10,3 +10,7 @@
     Priya -> everyone: Sketch is up and locked. Maya, stroke 1 is the body from the tail. Tom, stroke 2 is the spiral shell. Leo, strokes 3 and 4 are the two stalks. Shout if anything looks off!
     (Leo held a thought)
     (Tom held a thought)
+[    8s] 0:45 asked Maya,Tom,Leo | dominoes 0 | calls 15
+    Tom -> everyone: Got the spiral, starting it now. It'll wait for Maya's body to reach the shell.
+    Leo -> everyone: Got the stalks. Running a dry run on the locked sketch now before I lay anything.
+    (Maya held a thought)

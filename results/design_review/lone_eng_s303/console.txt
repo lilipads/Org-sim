@@ -3,3 +3,7 @@
     Maya -> Priya: Priya, what did the client say about the animal? Any favourites, or ones they hate? It's a pond trail, so I'm leaning toward a fish or a duck, but I'll go with whatever they want.
     Priya -> everyone: Quick brief from the client, since I'm the only one who met them. It's for a kids' nature trail around a pond, and their mascot is Shelly, a garden snail. The trail is laid out as a big spiral, so the
     (Tom held a thought)
+[    5s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Priya -> Maya: That's everything I've got from the client. Maya, it's your call on the drawing. Once there's a sketch I'll run it past them.
+    Maya -> everyone: Snail works for me, Priya, love the spiral echo. I'll sketch it now: one long body line, a spiral shell branching off the back, head and two feelers at the front. Give me a minute to check it'll actua
+    (Tom held a thought)
