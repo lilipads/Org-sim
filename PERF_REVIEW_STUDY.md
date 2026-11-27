@@ -268,3 +268,9 @@ up after the full run. Here every stage is checked before the next one starts:
   the timeout is now 150 s. Triangle tails trace into curls (a sharp corner can't carry the fall), the
   same in every condition, so not a confound.
 * **Main run** starts at seed 402 on the final engine: 6 conditions per seed, checked after each seed.
+* **Seed 402.** Individual output: the table used all 250 dominoes for a plan of about 140, padding the
+  tail with parallel lines (one builder laid 132). The oracle had scored leftover duplicates as open
+  breaks (15 for one person) and duplicates that fell as sound work. Fixed (analysis only, so it applies to
+  every game): sound work is now **coverage of the plan** (each plan point credits the nearest domino that
+  falls), and a stranded piece counts as a break only if it covers plan nothing else covers; otherwise it is
+  recorded as **redundant** (padding).

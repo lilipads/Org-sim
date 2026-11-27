@@ -113,8 +113,10 @@ def owner_of_gap(base: World, a_id: int, b_id: int, bumps: list) -> str:
     return max(counts, key=lambda n: (counts[n], -first[n]))
 
 
-def fed_fall(base: World, plan: set, bumps: list, skip_owner: str | None = None) -> tuple:
-    """Push the start, then keep feeding the run across every gap (except gaps owned by `skip_owner`).
+def fed_fall(base: World, plan: set, bumps: list, skip_owner: str | None = None,
+             redundant: set | frozenset = frozenset()) -> tuple:
+    """Push the start, then keep feeding the run across every gap (except gaps owned by `skip_owner`,
+    and pieces in `redundant`, which duplicate parts of the run that already fall).
     Returns (fallen ids, [breaks as dicts])."""
     w = copy.deepcopy(base)
     starts = [d.id for d in w.dominoes.values() if d.start and d.state == "up"]
@@ -133,10 +135,11 @@ def fed_fall(base: World, plan: set, bumps: list, skip_owner: str | None = None)
                 continue
             piece = set(copy.deepcopy(w).topple([nxt.id]))
             claimed |= piece
-            if len(piece & plan) < 2:
-                continue                            # a stray domino or two, not a stranded piece of the run
+            if len(piece & plan) < 2 or nxt.id in redundant:
+                continue                            # a stray bit, or a duplicate of what already falls
             owner = owner_of_gap(base, i, nxt.id, bumps)
             breaks.append({"from": i, "to": nxt.id, "owner": owner, "stranded": len(piece), "dir": d.angle,
+                           "piece": sorted(piece),
                            "at": [round((d.x + nxt.x) / 2, 1), round((d.y + nxt.y) / 2, 1)]})
             if owner != skip_owner:
                 new_targets.append(nxt.id)
@@ -172,13 +175,40 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     final = world_from_rows(turns[-1]["snapshot"])
     plan = on_plan(final, plan_pts)
 
-    # sound work and open breaks at the push
-    _, open_breaks = fed_fall(final, plan, bumps)
+    # stranded pieces that only duplicate plan already covered by the falling run are padding, not breaks
+    all_fell, all_breaks = fed_fall(final, plan, bumps)
+    redundant: set = set()
+    waste_pieces = []
+    for b in all_breaks:
+        piece = set(b["piece"])
+        rest = [final.dominoes[i] for i in all_fell - piece]
+        near_pts = [p for p in plan_pts if any((final.dominoes[i].x - p[0]) ** 2 + (final.dominoes[i].y - p[1]) ** 2 <= 1.0
+                                               for i in piece)]
+        uncovered = [p for p in near_pts if not any((d.x - p[0]) ** 2 + (d.y - p[1]) ** 2 <= 1.0 for d in rest)]
+        if len(uncovered) < 4:                      # under about a unit of plan that nothing else covers
+            redundant |= piece
+            waste_pieces.append(b)
+    _, open_breaks = fed_fall(final, plan, bumps, redundant=redundant)
+    # sound work = coverage of the plan: each plan point credits the nearest domino that falls (when the run
+    # is fed past everyone else's breaks), so a parallel duplicate earns nothing
     sound = {}
     for n in names:
-        fell_n, _ = fed_fall(final, plan, bumps, skip_owner=n)
-        sound[n] = sum(1 for i in fell_n if final.dominoes[i].builder == n and i in plan)
+        fell_n, _ = fed_fall(final, plan, bumps, skip_owner=n, redundant=redundant)
+        fallen_ds = [final.dominoes[i] for i in fell_n if i in plan]
+        credited = set()
+        for (px, py) in plan_pts:
+            best, bd = None, 4.0                    # within 2 units
+            for d in final.near(px, py, 2.0):
+                if d.id in fell_n and d.id in plan:
+                    dd = (d.x - px) ** 2 + (d.y - py) ** 2
+                    if dd < bd:
+                        best, bd = d, dd
+            if best is not None and best.builder == n:
+                credited.add(best.id)
+        sound[n] = len(credited)
+        del fallen_ds
     breaks_owned = {n: sum(1 for b in open_breaks if b["owner"] == n) for n in names}
+    padding = {n: sum(1 for i in redundant if final.dominoes[i].builder == n) for n in names}
 
     # fixes: breaks present at one beat and crossed at the next, by a local test, still crossing at the push
     fixes = {n: 0 for n in names}
@@ -260,7 +290,8 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     out = {"people": {}, "open_breaks": open_breaks, "fixes": fix_log, "weights": {}}
     for n in names:
         out["people"][n] = {"sound_work": sound[n], "fixes": fixes[n], "open_breaks_owned": breaks_owned[n],
-                            "destroyed": destroyed[n], "took_over": took_over[n], "planning": planning[n]}
+                            "destroyed": destroyed[n], "took_over": took_over[n], "planning": planning[n],
+                            "redundant": padding[n]}
     for wgt in sorted(set(weights) | {5, FIX_W, 20}):
         out["weights"][str(wgt)] = {n: sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
                                     for n in names}

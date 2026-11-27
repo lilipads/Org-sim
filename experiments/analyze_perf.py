@@ -118,11 +118,11 @@ def main():
                      f"fell {g['fell']}/{g['placed']}, plan needs ~{g['plan_dominoes']} dominoes")
         lines.append(f"rating vs oracle rho {g['rho_contribution']} (with planning {g['rho_with_planning']}); "
                      f"rating vs words rho {g['rho_words']}")
-        lines.append("| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | stray | words | private | inspect |")
-        lines.append("|---|---|---|---|---|---|---|---|---|---|---|---|---|---|")
+        lines.append("| who | style | rating | oracle | +plan | sound | fixes | breaks | planning | laid | redundant | stray | words | private | inspect |")
+        lines.append("|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|")
         for n, p in g["people"].items():
             lines.append(f"| {n} | {p['style']} | {p['rating']} | {p['contribution']} | {p['with_planning']} | "
-                         f"{p['sound_work']} | {p['fixes']} | {p['open_breaks_owned']} | {p['planning']} | {p['laid']} | "
+                         f"{p['sound_work']} | {p['fixes']} | {p['open_breaks_owned']} | {p['planning']} | {p['laid']} | {p['redundant']} | "
                          f"{p['off_plan']} | {p['words']} | {p['private_msgs']} | {p['inspections']} |")
         lines.append("")
     out = "\n".join(lines)
