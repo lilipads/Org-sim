@@ -274,3 +274,4 @@ up after the full run. Here every stage is checked before the next one starts:
   every game): sound work is now **coverage of the plan** (each plan point credits the nearest domino that
   falls), and a stranded piece counts as a break only if it covers plan nothing else covers; otherwise it is
   recorded as **redundant** (padding).
+* **Seed 406** hit the 5-hour usage limit mid-run (every game had failed calls); removed and rerun.
