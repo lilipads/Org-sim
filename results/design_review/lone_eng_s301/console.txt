@@ -1,0 +1,6 @@
+[   12s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> Maya: I'll take the pad and do the drawing. Maya, did the client say anything about which animal they'd like, or any they'd hate? Anything that suits a garden centre?
+    Priya -> Maya: Maya, anything from the client we should know before Tom starts? Animals they love or hate, that kind of thing. I'll hold off until there's a sketch to dry-run.
+    Maya -> everyone: Quick client brief, I met them: it's for a garden centre entrance, has to fly, no birds at all because of a pigeon problem, they love symmetrical shapes, and their big launch is a new butterfly house.
+    (Leo held a thought)
