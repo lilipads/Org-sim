@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 710.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with crossed tail",
+      "fish with dorsal and pelvic fins",
+      "leaf or bird shape"
+    ],
+    [
+      "fish with dorsal and anal fins",
+      "fish or fish-shaped leaf outline",
+      "stylized bird or fish with a looped tail"
+    ],
+    [
+      "fish drawn in outline, with a loop tail and fins",
+      "hand-drawn fish with a pointed head and crossed tail",
+      "cartoon fish or bird-like creature with looping lines"
+    ]
+  ],
+  "placed": 157,
+  "fell": 157,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 12,
+    "Priya": 18,
+    "Tom": 6,
+    "Maya": 7
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 125,
+    "failed": 1,
+    "input_tokens": 260,
+    "cache_creation_tokens": 609732,
+    "cache_read_tokens": 378905,
+    "output_tokens": 59378,
+    "seconds": 1208.1,
+    "api_equivalent_usd": 2.9327,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

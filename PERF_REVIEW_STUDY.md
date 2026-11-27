@@ -262,3 +262,9 @@ up after the full run. Here every stage is checked before the next one starts:
   but ratings tracked words (rho 0.95), quiet top builder rated 3, plan-drawer 5. Found: lifting dominoes
   took as long as placing them, so one redo consumed 4 minutes; lifting now costs a fifth of a placement.
   Seed-401 games are pilot data; the main study uses fresh seeds on the final engine.
+* **Pilot: team, peer, forced (seed 401).** All three recognised. Forced ranking: the manager followed
+  the curve unprompted and put the connector (oracle 26) at the bottom, below the checker (oracle 11).
+  Peer ratings bunched at 3.0-4.3. One model call per game timed out at 300 s and succeeded on retry;
+  the timeout is now 150 s. Triangle tails trace into curls (a sharp corner can't carry the fall), the
+  same in every condition, so not a confound.
+* **Main run** starts at seed 402 on the final engine: 6 conditions per seed, checked after each seed.

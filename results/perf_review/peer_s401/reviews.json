@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "checker",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.94,
+   "error": 1.49
+  },
+  "Tom": {
+   "speed": 0.49,
+   "error": 0.73
+  },
+  "Priya": {
+   "speed": 1.29,
+   "error": 1.84
+  },
+  "Leo": {
+   "speed": 0.76,
+   "error": 1.05
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 3,
+    "why": "He was reliable on communication and kept clear when asked, but the tail he owned came out curly and partly disconnected and needed several teammates to patch it."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She spotted the real break at the upper tail lobe and worked hard to bridge it, though her repeated nudges left clutter and she mostly narrated checks rather than laying much of the picture."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He chose the fish, put up a clear sketch with numbered strokes, divided the work well, and later corrected his own overconfident 'fully connected' claim, though his tail join fix needed redoing."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "She finished the bottom line fast and cleanly, took the lower tail lobe, and kept communicating clearly about what she was and wasn't touching, though her back-edge bridging added some clutter."
+   },
+   "Priya": {
+    "rating": 3,
+    "why": "She was collaborative and good at spotting the broken tail join, but she mostly talked and checked, and her repeated bridging attempts left pale clutter around the tail without ever fixing the upper lobe."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He set the plan, sketched the pad and laid the top line, and he corrected his own overconfident connection claim honestly, but the upper tail join stayed troublesome."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya finished the bottom line early, started the tail without waiting, took the lower lobe, and kept communicating and fixing gaps while staying out of others' way."
+   },
+   "Tom": {
+    "rating": 3,
+    "why": "Tom was cooperative and clear about his role, but his back edge and top lobe kept failing to connect and others had to repair them."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo set the plan and sketch quickly, laid the top line, and gave honest status corrections, though the upper tail lobe was left cut off from the start and needed repeated fixes."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "She finished the bottom line fast and clean, took on the lower tail lobe and back-edge fixes without being asked, and communicated clearly and stayed out of the way once the tail was frozen."
+   },
+   "Tom": {
+    "rating": 3,
+    "why": "He was reliable and cooperative on the tail and respected the freeze, but his back edge curled and didn't catch, and some of his pieces added to the clutter beside the tail."
+   },
+   "Priya": {
+    "rating": 3,
+    "why": "She was a strong communicator and caught the real disconnect at the upper lobe, and she was honest in the final read, but her repeated bridge attempts and nudges left extra pale clutter and ate up the last minutes."
+   }
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.33
+  },
+  "Tom": {
+   "rating": 3.0
+  },
+  "Priya": {
+   "rating": 3.33
+  },
+  "Leo": {
+   "rating": 4.0
+  }
+ }
+}

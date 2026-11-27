@@ -1,0 +1,240 @@
+[  312s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, since the outline reads clearly. I'm sketching it now. Once it's up, I'll take the top of the body, Maya the bottom, and Tom the tail. Priya, can you take the eye and the fins?
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  319s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 8
+    Priya -> everyone: Sounds good, fish it is. I'll take the eye and fins. Leo, when you sketch, can you have the fins branch off the body lines so they're connected to the run? I'll trace them once they're on the pad.
+    (Tom held a thought)
+    (Maya held a thought)
+[  336s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 11
+    Leo -> everyone: Fish is up on the pad. Fins branch off the body lines, so they'll stay connected. I'm tracing the top body and laying the start. Maya, take the bottom line. Tom, the tail strokes. Priya, the fins, and
+    (Tom held a thought)
+    (Maya held a thought)
+[  351s] 0:45 asked Maya,Tom,Priya | dominoes 3 | calls 15
+    Tom -> everyone: Sounds good, I'll take the tail, strokes 3 and 4. I'll trace them now and they'll carry on once the body reaches the join.
+    Maya -> everyone: Works for me. I've got the bottom body line and the bottom fin, Leo.
+    (Priya held a thought)
+[  357s] 1:00 asked Priya,Leo | dominoes 7 | calls 17
+    Priya -> everyone: Pad looks great, Leo. Maya's got the bottom fin, so I'll trace the top fin now. It'll carry on once the top body line gets there. I'll skip the eye unless we have spare time.
+    (Leo held a thought)
+[  364s] 1:15 asked Maya,Leo | dominoes 9 | calls 19
+    Leo -> everyone: Thanks Priya, sounds good. I'll keep going on the top line and check the joints once the body's through.
+    Maya -> everyone: Yep, I'm on the bottom line and fin, they'll lay as the run gets there.
+[  373s] 1:30 asked Priya | dominoes 13 | calls 20
+    Priya -> everyone: I'm here, Leo. Fin's queued and will lay once your line reaches it. If the top line is running slow, shout and I'll help push it along.
+[  379s] 1:45 asked Leo | dominoes 15 | calls 21
+    Leo -> everyone: Thanks Priya, the top line is moving fine. Seven more to go before the fin branch, so your fin will pick up soon. I'll shout if it stalls.
+[  385s] 2:00 asked Priya | dominoes 19 | calls 22
+    Priya -> everyone: Great, thanks Leo. I'm queued on the top fin and will lay it as soon as your line gets there. Once everything's up I'll do a quick check of the joins before the push.
+[  392s] 2:15 asked Leo | dominoes 25 | calls 23
+    Leo -> everyone: All good, Priya. One more domino in this batch, then I'll carry on toward the tail join and check the fin branch point.
+[  397s] 2:30 asked Priya | dominoes 32 | calls 24
+    Priya -> everyone: Fin's going down now, about halfway. Leo, keep on toward the tail join and I'll inspect the joins once this is done.
+[  407s] 2:45 asked Tom,Leo | dominoes 38 | calls 26
+    Tom -> everyone: Maya, I can't see the bottom body line down by the start yet. Are you laying it? Shout if it's stuck and I'll help. My tail's queued for when the top line gets there.
+    (Leo held a thought)
+[  417s] 3:00 asked Maya,Priya | dominoes 51 | calls 28
+    Priya -> everyone: Fin's done. Maya, I can't see the bottom line down by the start either, so I'm tracing stroke 2 now. If you've already got dominoes going there, shout and I'll stop. Otherwise could you take the botto
+    (Maya held a thought)
+[  425s] 3:15 asked Maya,Leo | dominoes 60 | calls 30
+    Maya -> everyone: Sorry Priya, my bottom line got stuck at first, but it's going now. You keep the bottom line, I'll drop it and take the bottom fin.
+    (Leo held a thought)
+[  431s] 3:30 asked Priya | dominoes 71 | calls 31
+    Priya -> everyone: Thanks Maya, perfect. I've got the bottom line, about four more to lay, and then I'll carry it on toward the tail join. You take the bottom fin.
+[  440s] 3:45 asked Maya,Leo | dominoes 86 | calls 33
+    Leo -> everyone: Top body line is through to the tail join. I'm closing the gap at the back of the top fin now, where it looks pale. Tom, the tail should pick up from the end of my line.
+    (Maya held a thought)
+[  449s] 4:00 asked Tom,Leo | dominoes 103 | calls 35
+    Leo -> everyone: Top line's through to the tail join. I'm giving the top fin one more look, then I'll check the join where the bottom line meets it. Priya, shout if the bottom line needs a hand getting across.
+    (Tom held a thought)
+[  461s] 4:15 asked Priya,Leo | dominoes 110 | calls 37
+    Leo -> everyone: Tom, I can see the lower half of the tail going down, but not the upper half yet. Can you lay that one next? Maya, Priya, the bottom line still has to reach the tail join, and the bottom fin is pale. 
+    (Priya held a thought)
+[  471s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 76 | calls 41
+    Priya -> everyone: Bottom line's across and it looks joined at the tail. Tom, you stay on the lower tail, I'll lay the upper half of the tail now. Maya, shout if the bottom fin needs a hand.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  482s] 4:45 asked Maya,Tom,Leo | dominoes 100 | calls 44
+    Leo -> everyone: Priya, the bottom line is still pale from the start out to about the middle, and I can't see dominoes along the lower-left. I'm taking a close look there now.
+    (Maya held a thought)
+    (Tom held a thought)
+[  492s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 118 | calls 48
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Correction from me: I called the bottom line joined too early. Leo, the lower-left is actually standing and dark, so that part is fine. The real break is just past where Maya's hands are, where the da
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  502s] 5:15 asked Maya,Leo | dominoes 130 | calls 50
+    Maya -> everyone: Got it Priya. I'm closing that gap now, then the bottom fin goes down right after.
+    (Leo held a thought)
+[  514s] 5:30 asked Priya,Leo | dominoes 140 | calls 52
+    Leo -> everyone: Priya, the upper tail still looks pale right at the join where it leaves the body. I'm nudging that first domino into line now, and you keep laying the rest. Maya, bottom fin next, then we all check b
+    (Priya held a thought)
+[  522s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 132 | calls 56
+    Priya -> everyone: Leo, thanks for the nudge, but that gap at the upper tail looks too wide to fix by hand. I'm re-laying the whole upper tail from the join now, so hold off on it. Maya, bottom fin next. Tom, how's the 
+    (Leo held a thought)
+    (Tom held a thought)
+[  530s] 6:00 asked Maya,Tom,Leo | dominoes 141 | calls 59
+    Tom -> everyone: Lower tail's down and dark, Priya. Just a couple at the far tip didn't fit, but it's connected. I'll keep my hands off the upper tail while you re-lay it. Shout if you want me to check it after.
+    (Leo held a thought)
+    (Maya held a thought)
+[  547s] 6:15 asked Maya,Priya,Leo | dominoes 141 | calls 63
+    Priya -> everyone: Tom, thanks. I'm taking a close look at the tail area now, because my redo seems to have gone down instead of up. Hold off on touching it for a moment.
+    (Leo held a thought)
+    (Maya held a thought)
+[  559s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 144 | calls 67
+    Priya -> everyone: Tom, Leo, I'm laying the upper tail by hand now, going up and over from the join. Please keep your hands off that area. Maya, how's the bottom fin?
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  567s] 6:45 asked Maya,Tom,Leo | dominoes 148 | calls 70
+    Tom -> everyone: Holding off, Priya. From where I sit nothing's standing up past the join, only the lower curl. If it helps, I can lay the upper tail fresh while you finish, just say the word. We've got about three mi
+    (Leo held a thought)
+    (Maya held a thought)
+[  577s] 7:00 asked Maya,Priya,Leo | dominoes 152 | calls 73
+    Priya -> everyone: Tom, Leo, I'm closing the join at the upper tail and carrying it over to the curl now. Hands off that area, please. Maya, how's the bottom fin?
+    (Leo held a thought)
+    (Maya held a thought)
+[  585s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 154 | calls 77
+    Priya -> everyone: Closing the upper tail join now and carrying it down to the curl. Hands off that bit, please. Maya, how's the bottom fin?
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  597s] 7:30 asked Maya,Tom,Leo | dominoes 157 | calls 80
+    Maya -> everyone: Bottom fin's up and dark, and the bottom line is through. Priya, from my look, the break is right at the join where the upper tail leaves the body. The first pale domino sits off to the side of the li
+    (Tom held a thought)
+    (Leo held a thought)
+[  606s] 7:45 asked Tom,Priya,Leo | dominoes 157 | calls 83
+    Leo -> everyone: Good news from my look: tracing from the start, everything standing is connected, the upper tail and both fins included. With two minutes left, let's not touch anything that's dark. Priya, if your tai
+    (Tom held a thought)
+    (Priya held a thought)
+[  614s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 87
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Thanks Maya, thanks Leo. I took a close look at the upper tail join, and from the start the whole run reads dark all the way through the tail. One domino sits a hair off to the side, but it still carr
+    (Maya held a thought)
+    (Tom held a thought)
+[  620s] 8:15 asked Maya,Tom,Leo | dominoes 157 | calls 90
+    Tom -> everyone: Agreed, Priya. I'm only looking, and everything reads dark from the start through both fins and the tail. Hands off, everyone, let it go.
+    Leo -> everyone: Agreed, hands off everyone. Looks good, nice work all.
+    (Maya held a thought)
+[  625s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 94
+    Maya -> everyone: Looks good to me too, it's all dark and connected back to the start. Hands off, everybody.
+    Priya -> everyone: Sounds good, hands off everyone. Great work, team. Let's watch it go!
+[  632s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 98
+    Priya -> everyone: Fingers crossed, here we go! Nobody breathe on the table.
+[  638s] 9:00 asked Maya,Tom,Leo | dominoes 157 | calls 101
+    Tom -> everyone: Fingers crossed. Go little fish!
+[  645s] 9:15 asked Maya,Priya,Leo | dominoes 157 | calls 104
+    Maya -> everyone: Go little fish!
+    Priya -> everyone: Here it goes, hands off, everyone. Enjoy the show!
+[  651s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 157 | calls 108
+[  651s] 9:45 asked - | dominoes 157 | calls 108
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.94,
+      "error": 1.49
+    },
+    "Tom": {
+      "speed": 0.49,
+      "error": 0.73
+    },
+    "Priya": {
+      "speed": 1.29,
+      "error": 1.84
+    },
+    "Leo": {
+      "speed": 0.76,
+      "error": 1.05
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 710.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with crossed tail",
+      "fish with dorsal and pelvic fins",
+      "leaf or bird shape"
+    ],
+    [
+      "fish with dorsal and anal fins",
+      "fish or fish-shaped leaf outline",
+      "stylized bird or fish with a looped tail"
+    ],
+    [
+      "fish drawn in outline, with a loop tail and fins",
+      "hand-drawn fish with a pointed head and crossed tail",
+      "cartoon fish or bird-like creature with looping lines"
+    ]
+  ],
+  "placed": 157,
+  "fell": 157,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 12,
+    "Priya": 18,
+    "Tom": 6,
+    "Maya": 7
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 125,
+    "failed": 1,
+    "input_tokens": 260,
+    "cache_creation_tokens": 609732,
+    "cache_read_tokens": 378905,
+    "output_tokens": 59378,
+    "seconds": 1208.1,
+    "api_equivalent_usd": 2.9327,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

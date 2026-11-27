@@ -1,0 +1,80 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 59,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Tom": {
+   "sound_work": 19,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Priya": {
+   "sound_work": 42,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0
+  },
+  "Leo": {
+   "sound_work": 37,
+   "fixes": 1,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0
+  }
+ },
+ "open_breaks": [],
+ "fixes": [
+  {
+   "clock": "3:45",
+   "who": "Leo",
+   "at": [
+    16.0,
+    5.2
+   ],
+   "gap_owner": "Priya"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Maya": 59,
+   "Tom": 19,
+   "Priya": 42,
+   "Leo": 42
+  },
+  "10": {
+   "Maya": 59,
+   "Tom": 19,
+   "Priya": 42,
+   "Leo": 47
+  },
+  "20": {
+   "Maya": 59,
+   "Tom": 19,
+   "Priya": 42,
+   "Leo": 57
+  }
+ },
+ "contribution": {
+  "Maya": 59,
+  "Tom": 19,
+  "Priya": 42,
+  "Leo": 47
+ },
+ "with_planning": {
+  "Maya": 59.0,
+  "Tom": 19.0,
+  "Priya": 42.0,
+  "Leo": 86.2
+ }
+}
