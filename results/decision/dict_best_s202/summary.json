@@ -1,0 +1,206 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "error": 0.59
+    },
+    "Jack": {
+      "speed": 0.91,
+      "error": 1.95
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 933.1,
+  "intents": {
+    "Sofia": "",
+    "Omar": "",
+    "Hana": "",
+    "Jack": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 182,
+  "fell": 102,
+  "completion": 0.56,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 11,
+    "Sofia": 8,
+    "Hana": 8,
+    "Omar": 5
+  },
+  "held_thoughts": 53,
+  "parse_failures": {
+    "Sofia": 2,
+    "Omar": 2,
+    "Hana": 2,
+    "Jack": 3
+  },
+  "usage": {
+    "calls": 125,
+    "failed": 30,
+    "input_tokens": 190,
+    "cache_creation_tokens": 475722,
+    "cache_read_tokens": 298700,
+    "output_tokens": 58382,
+    "seconds": 1467.1,
+    "api_equivalent_usd": 2.517,
+    "cached": 0
+  },
+  "client": "cafe",
+  "client_best": "hen",
+  "notes": {
+    "Sofia": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+      "Someone mentioned the owner used to keep a donkey."
+    ],
+    "Omar": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they'd like something small and friendly, not a big farm beast."
+    ],
+    "Hana": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client mentioned their own hens wander round the tables and the kids love them."
+    ],
+    "Jack": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they're famous for their eggs and egg custard tarts."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Sofia",
+      "animal": "donkey",
+      "why": "It's a farm animal that isn't eaten, so it fits the vegetarian caf\u00e9, and the owner used to keep one, which should make them happy. It's also cheerful and instantly recognisable with its long ears and friendly face.",
+      "matched": "donkey",
+      "score": 0.2
+    },
+    {
+      "name": "Omar",
+      "animal": "chick",
+      "why": "A chick is small, friendly and cheerful, and everyone recognises it instantly, which fits a farm caf\u00e9 window. Its round body and beak are also easy to read in dominoes.",
+      "matched": "chick",
+      "score": 0.8
+    },
+    {
+      "name": "Hana",
+      "animal": "hen (chicken)",
+      "why": "The client's own hens wander among the tables and the kids love them, so it's cheerful, personal to the caf\u00e9, and instantly recognisable. A chicken's silhouette (comb, beak, round body, tail) should also read clearly in dominoes for blind judges.",
+      "matched": "hen",
+      "score": 1.0
+    },
+    {
+      "name": "Jack",
+      "animal": "chicken",
+      "why": "The caf\u00e9 is on a farm and famous for eggs and egg custard tarts, so a chicken ties straight to the client's brand, and it's cheerful and instantly recognisable even in domino form.",
+      "matched": "chicken",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "client_score": 0.0,
+  "client_matched": null,
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "rumour": false,
+        "holders": [
+          "Sofia"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said they're famous for their eggs and egg custard tarts.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client mentioned their own hens wander round the tables and the kids love them.",
+        "rumour": false,
+        "holders": [
+          "Hana"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 0,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Jack",
+  "decided": "donkey",
+  "decision_open_at": 0.0
+}

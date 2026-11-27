@@ -1,0 +1,218 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 781.1,
+  "intents": {
+    "Maya": "cat",
+    "Tom": "cat",
+    "Priya": "cat",
+    "Leo": "cat"
+  },
+  "team_intent": "cat",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "bird or swan with a long neck",
+      "fish with a wavy top fin",
+      "snake or worm rising up"
+    ],
+    [
+      "a swan or bird with a long curved neck and head",
+      "a curved chain of fallen dominoes seen from above",
+      "a fish or sea creature with an open mouth"
+    ],
+    [
+      "curved chain of toppled dominoes forming an open loop",
+      "bird with a long curved neck, like a swan",
+      "fish or sea creature outline"
+    ]
+  ],
+  "placed": 86,
+  "fell": 86,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 15,
+    "Leo": 5,
+    "Priya": 10,
+    "Tom": 13
+  },
+  "held_thoughts": 57,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 149,
+    "failed": 1,
+    "input_tokens": 290,
+    "cache_creation_tokens": 739696,
+    "cache_read_tokens": 454655,
+    "output_tokens": 85817,
+    "seconds": 1533.7,
+    "api_equivalent_usd": 3.7643,
+    "cached": 6
+  },
+  "client": "bookshop",
+  "client_best": "cat",
+  "notes": {
+    "Maya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+      "Someone said the owner's favourite book is about a fox."
+    ],
+    "Tom": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+    ],
+    "Priya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said regulars bring treats for the shop cat every day."
+    ],
+    "Leo": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said they had an owl sign for years and really want a change from owls."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise, fits a children's bookshop, and is easy for blind judges to recognise from its round eyes and ear tufts. The fox is only a rumour about the owner's favourite book, and the shop cat Biscuit is a fun option, but the owl best matches what the client told me directly.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Tom",
+      "animal": "sleeping owl (or a curled up cat)",
+      "why": "It's for a children's bookshop and the client wants calm, wise, friendly and at rest, and a perched, resting owl fits all three. I'd still check with the others, since a curled-up cat might be easier for blind judges to recognise in dominoes.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Priya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise, and it suits a children's bookshop as a classic reading-and-books symbol. The shop cat treat detail is charming, but a cat wouldn't say 'wise' as clearly, and the owl's big round eyes and ear tufts should be easy for blind judges to recognise.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Leo",
+      "animal": "elephant",
+      "why": "Elephants read as calm and wise (memory, gentle nature), are beloved in children's books, and have a distinctive silhouette with trunk and big ears that blind judges can recognise easily. It also avoids the owl, which the client wants a change from.",
+      "matched": "elephant",
+      "score": 0.3
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Maya",
+    "Priya",
+    "Tom",
+    "Leo"
+  ],
+  "client_score": 1.0,
+  "client_matched": "cat",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client said they had an owl sign for years and really want a change from owls.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said regulars bring treats for the shop cat every day.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should look friendly and at rest: sitting or curled up, not hunting.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 75,
+        "by": "Tom"
+      },
+      {
+        "fact": "Someone said the owner's favourite book is about a fox.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Maya",
+  "decided": "cat",
+  "decision_open_at": 30.0
+}

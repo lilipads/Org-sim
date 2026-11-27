@@ -1,0 +1,1 @@
+{"model": "haiku", "tag": "client/surfaced", "result": "{\"facts\": [{\"n\": 1, \"said\": false, \"at\": null, \"by\": null}, {\"n\": 2, \"said\": true, \"at\": 15, \"by\": \"Maya\"}, {\"n\": 3, \"said\": true, \"at\": 45, \"by\": \"Priya\"}, {\"n\": 4, \"said\": true, \"at\": 30, \"by\": \"Tom\"}, {\"n\": 5, \"said\": true, \"at\": 15, \"by\": \"Maya\"}]}"}

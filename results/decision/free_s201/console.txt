@@ -1,1 +1,475 @@
-pitches: [('Maya', 'owl', 0.0), ('Tom', 'sleeping cat (curled up)', 1.0), ('Priya', 'owl', 0.0), ('Leo', 'tortoise', 0.4)]
+pitches: [('Maya', 'owl', 0.0), ('Tom', 'sleeping cat (curled up)', 1.0), ('Priya', 'owl', 0.0), ('Leo[   32s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 9
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Okay, quick idea. The client told me the shop cat Biscuit sleeps in the window and is famous around there, and they want something calm and wise. So how about a calm sitting cat, with big pointy ears 
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   56s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 13
+    Maya -> Leo: Leo, sorry, I said I'd sketched but the pad's empty and you've got it. Can you pass it to me? I'll draw the sitting cat right away, then we can all start tracing.
+    Tom -> everyone: Sitting cat works for me. I met the client too, and I heard the same thing: calm and wise, friendly, at rest, sitting or[   52s] 0:30 asked Maya,Tom,Priya | dominoes 7 | calls 16
+    Maya -> everyone: Leo, hold up a sec before you lay much of that eleph[   67s] 0:30 asked Maya,Tom,Priya,Leo | dominoes 1 | calls 17
+    Maya -> everyone: Leo, that cat's great, let's go with it. I'll trace stroke 1 right now, since that's the one with the start. Priya, [   72s] 0:45 asked Tom,Priya,Leo | dominoes 7 | calls 19
+    Priya -> everyone: Ha, okay Maya, you win. Biscuit in the window beats my owl guess. Cat it is, sitting, calm, big pointy ears. Leo, keep that first line going, it's the start of the back. I'll grab the pad and sketch t
+    (Leo held a thought)
+    (Tom held a thought)
+[   81s] 1:00 asked Maya,Tom,Leo | dominoes 7 | calls 22
+    Maya -> everyone: Thanks Priya, you're a legend. Sketch it as a front-facing sitting cat: round head, two big pointy ears, body widening down to the paws. One line out from the start up the side, then split at the head
+    (Leo held a thought)
+    (Tom held a thought)
+[  104s] 1:15 asked Tom,Priya,Leo | dominoes 7 | calls 25
+    Priya -> everyone: Okay, cat's on the pad now. Stroke 1 runs up the side, over both ears and down the other side. I'm tracing that one. Tom, can you trace stroke 2? It's the bottom line. Maya, once the head's up, take t
+    (Tom held a thought)
+    (Leo held a thought)
+[  134s] 1:30 asked Maya,Tom,Leo | dominoes 3 | calls 29
+    Leo -> everyone: Cat works for me. Worth saying: the client had an owl sign for years and wanted a change from owls, so dropping it was the right call. Priya, I'll leave stroke 1 to you and inspect the line once the h
+    (Maya held a thought)
+    (Tom held a thought)
+[  143s] 1:45 asked Tom,Priya | dominoes 15 | calls 31
+    Tom -> everyone: Cat works for me too. My client said friendly and at rest, sitting or curled up, not hunting, so calm Biscuit fits. Maya's already on the bottom line, so I'll look over the start area where the two li
+    (Priya held a thought)
+[  154s] 2:00 asked Maya,Tom,Leo | dominoes 24 | calls 34
+    Maya -> everyone: Sounds good Tom. I'm still laying the bottom line, so keep an eye on the start joint where both lines leave. Eyes and whiskers can wait until the outline's standing.
+    (Tom held a thought)
+[  163s] 2:15 asked Tom,Leo | dominoes 36 | calls 36
+    Tom -> Maya: Maya, your bottom line looks pale, so I don't think it's catching off the start line yet. I'm going to nudge that first joint into line.
+    Leo -> everyone: Maya, your bottom line isn't catching yet. It starts just short of the first line near the start. I'll close that joint now.
+[  171s] 2:30 asked Maya,Tom,Leo | dominoes 46 | calls 39
+    Maya -> everyone: Thanks both. Leo, you take that joint so you two don't trip over each other. Tom, can you check the ears once Priya's line gets up there? I'm still laying the rest of the bottom line.
+    (Tom held a thought)
+    (Leo held a thought)
+[  180s] 2:45 asked Tom,Priya,Leo | dominoes 52 | calls 42
+    Leo -> everyone: I'm closing that joint now, right where the bottom line starts beside the first line. Maya, keep laying outward and I'll recheck the catch once it's in.
+    (Priya held a thought)
+    (Tom held a thought)
+[  195s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 57 | calls 47
+    Tom -> everyone: Leo's got that joint, so I'll stay clear. Priya, the line stops at the dip between the ears. Do you want me to take the right ear and side down while you finish up there, or are you still going?
+    (Priya held a thought)
+    (Maya held a thought)
+[  207s] 3:15 asked Maya,Priya,Leo | dominoes 65 | calls 50
+    Maya -> everyone: Thanks Leo for the joint. Bottom line's all in. Tom, yes please, take the right ear and run the side down to where my line ends on the right. Priya, if you're still going up there, shout so you two do
+    (Priya held a thought)
+    (Leo held a thought)
+[  221s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 73 | calls 54
+    Priya -> everyone: Tom, thanks, but I'm still going. I've got the second ear and I'm carrying it down the right side now. Could you watch the bottom right, where my line comes down onto Maya's, and shout if it misses? M
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  232s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 76 | calls 58
+    Priya -> everyone: Maya, I'm taking the right side from just below this ear and running it down to meet your bottom line, so you can leave this bit to me.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  244s] 4:00 asked Maya,Tom,Leo | dominoes 80 | calls 61
+    Maya -> everyone: Okay Priya, the right side is yours, I'll stay off it. The bottom line still isn't catching at the start, so I'm fixing that joint now. Shout when your line gets down near the bottom right.
+    (Tom held a thought)
+    (Leo held a thought)
+[  255s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 88 | calls 65
+    Tom -> everyone: Maya, Leo, the bottom line still looks pale all the way along, so none of it would fall. I'm taking a close look at that first joint to see why it isn't catching. Shout if one of you is already on it.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  265s] 4:30 asked Maya,Tom,Leo | dominoes 96 | calls 68
+    Leo -> everyone: Tom, Maya, I've got that joint. I'm bridging it from the first line into the start of the bottom line right now, so stay off it for a moment. Then I'll recheck that it catches.
+    (Tom held a thought)
+    (Maya held a thought)
+[  273s] 4:45 asked Maya,Tom,Priya | dominoes 103 | calls 71
+    Maya -> everyone: Priya, your right side stalled partway down, so I'm carrying it down to meet the bottom line on the right. Shout if you're already on it. Tom, Leo's on the start joint, so just leave it to him and the
+    (Priya held a thought)
+    (Tom held a thought)
+[  287s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 75
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Maya, the right side's already down to the bottom corner, so you can leave it. It doesn't need to join the bottom line there, because the bottom line only has to catch at the start. Leo, once your joi
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  298s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 79
+    Priya -> everyone: Good news: I followed the chain from the start and it all falls, every domino on the table is connected. Leo's joint did the trick. So let's stop adding and not crowd the start, one bump now would hur
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  308s] 5:30 asked Maya,Leo | dominoes 108 | calls 81
+    Maya -> everyone: Agreed, Priya. My inspect shows nearly everything falling, and the one stray is just the tail bit out on the left. Let's keep hands off the start area and leave Biscuit as she is.
+    (Leo held a thought)
+[  317s] 5:45 asked Tom,Priya,Leo | dominoes 108 | calls 84
+    Tom -> everyone: Agreed, hands off. I cleared the old elephant stub on the left. The pale bit still out there isn't connected, so it won't fall. Biscuit looks nicely calm to me.
+    (Leo held a thought)
+[  324s] 6:00 asked Maya,Priya,Leo | dominoes 108 | calls 87
+    Priya -> everyone: Thanks Tom. Hands off from here. Biscuit looks calm to me too, and the shop cat treats fit her nicely.
+    (Maya held a thought)
+[  331s] 6:15 asked Maya,Tom,Leo | dominoes 108 | calls 90
+    Maya -> everyone: Nice work, everyone. Calm cat in the window, and Biscuit's the shop cat who sleeps there, so it fits. I'm staying off the start now.
+    (Tom held a thought)
+[  338s] 6:30 asked Tom,Priya,Leo | dominoes 108 | calls 93
+    Tom -> everyone: Nice work, all of you. Biscuit looks pretty settled. I'll keep my hands in my pockets till the push.
+[  344s] 6:45 asked Maya,Priya,Leo | dominoes 108 | calls 96
+[  344s] 7:00 asked - | dominoes 108 | calls 96
+[  344s] 7:15 asked - | dominoes 108 | calls 96
+[  348s] 7:30 asked Tom | dominoes 108 | calls 97
+[  355s] 7:45 asked Maya,Priya,Leo | dominoes 108 | calls 100
+    Priya -> everyone: Two minutes to go and we're all hands-off. Fingers crossed for Biscuit!
+[  361s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 104
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Fingers crossed, Priya! Hands in pockets, let Biscuit fall.
+[  367s] 8:15 asked Tom,Priya,Leo | dominoes 108 | calls 107
+    Priya -> everyone: Ha, hands in pockets it is. Biscuit's ready for her big moment.
+    Tom -> everyone: Fingers crossed! Go on, Biscuit.
+[  375s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 111
+    Maya -> everyone: Nothing left to do but watch. Go Biscuit!
+[  382s] 8:45 asked Tom,Priya,Leo | dominoes 108 | calls 114
+    Priya -> everyone: Ha, here we go. Hands off and let Biscuit fall.
+    Tom -> everyone: Here we go. Calm little cat, ready to nap in the window.
+[  388s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 118
+    Priya -> everyone: Fingers crossed, Biscuit's got this.
+    Maya -> everyone: Here goes. Hands off, and good luck, Biscuit!
+[  394s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 122
+    Tom -> everyone: All set. Go on, Biscuit.
+    Maya -> everyone: Go Biscuit!
+[  401s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 126
+    Leo -> everyone: Go Biscuit!
+    Priya -> everyone: Here it goes. Go Biscuit!
+[  408s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 130
+    Maya -> everyone: Go Biscuit!
+    Tom -> everyone: Fingers crossed, here it goes.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 463.0,
+  "intents": {
+    "Maya": "cat",
+    "Tom": "cat",
+    "Priya": "cat",
+    "Leo": "cat"
+  },
+  "team_intent": "cat",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Leo",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a tooth (molar) outline",
+      "a boot or shoe outline",
+      "a bag or pouch with a wavy top"
+    ],
+    [
+      "a molar tooth outline",
+      "a boot or shoe seen from the side",
+      "a bell or hand-drawn blob shape"
+    ],
+    [
+      "a tooth",
+      "a boot or shoe",
+      "a bell"
+    ]
+  ],
+  "placed": 108,
+  "fell": 97,
+  "completion": 0.898,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 13,
+    "Maya": 15,
+    "Leo": 5,
+    "Tom": 10
+  },
+  "held_thoughts": 51,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 147,
+    "failed": 0,
+    "input_tokens": 302,
+    "cache_creation_tokens": 674318,
+    "cache_read_tokens": 471078,
+    "output_tokens": 73633,
+    "seconds": 1190.2,
+    "api_equivalent_usd": 3.351,
+    "cached": 2
+  },
+  "client": "bookshop",
+  "client_best": "cat",
+  "notes": {
+    "Maya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+      "Someone said the owner's favourite book is about a fox."
+    ],
+    "Tom": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+    ],
+    "Priya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said regulars bring treats for the shop cat every day."
+    ],
+    "Leo": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said they had an owl sign for years and really want a change from owls."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise, fits a children's bookshop, and is easy for blind judges to recognise from a domino build. The fox book and Biscuit the cat a{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 526.6,
+  "intents": {
+    "Maya": "cat",
+    "Tom": "cat",
+    "Priya": "cat",
+    "Leo": "cat"
+  },
+  "team_intent": "cat",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Leo",
+    "Leo",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "curved chain of fallen dominoes",
+      "ear in side profile",
+      "curled plant tendril"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "spiral curl of dominoes toppling",
+      "ear-shaped line of dominoes"
+    ],
+    [
+      "ear seen in profile",
+      "curled fern frond or plant tendril",
+      "snail or seashell outline"
+    ]
+  ],
+  "placed": 250,
+  "fell": 59,
+  "completion": 0.236,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Tom": 9,
+    "Leo": 12,
+    "Priya": 12
+  },
+  "held_thoughts": 67,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 145,
+    "failed": 0,
+    "input_tokens": 302,
+    "cache_creation_tokens": 765107,
+    "cache_read_tokens": 443304,
+    "output_tokens": 86065,
+    "seconds": 1203.0,
+    "api_equivalent_usd": 3.826,
+    "cached": 0
+  },
+  "client": "bookshop",
+  "client_best": "cat",
+  "notes": {
+    "Maya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+      "Someone said the owner's favourite book is about a fox."
+    ],
+    "Tom": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+    ],
+    "Priya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said regulars bring treats for the shop cat every day."
+    ],
+    "Leo": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said they had an owl sign for years and really want a change from owls."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise, fits a children's bookshop, and is easy for blind judges to recognise in domino form. The fox is only hearsay about the owner's favourite book, and Biscuit the cat is a tempting alternative, but the owl matches the client's stated feeling directly.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Tom",
+      "animal": "owl",
+      "why": "An owl is the classic symbol of wisdom and suits a children's bookshop, and a perched, tucked-in owl looks calm and friendly at rest rather than hunting. Its round, simple shape should also be easy for blind judges to recognise in dominoes.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Priya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise and suits a bookshop window, with a bookish feel for children. The shop cat treat detail hints the client may love cats, so I'd stay open to a cat if teammates know more.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Leo",
+      "animal": "tortoise",
+      "why": "A tortoise feels calm and wise, fits a children's bookshop as a gentle storybook character, and avoids the owl the client wants a change from. Its domed shell and four legs are also easy for blind judges to recognise.",
+      "matched": "tortoise",
+      "score": 0.4
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Maya",
+    "Priya",
+    "Tom",
+    "Leo"
+  ],
+  "client_score": 1.0,
+  "client_matched": "cat",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client said they had an owl sign for years and really want a change from owls.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said regulars bring treats for the shop cat every day.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 135,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should look friendly and at rest: sitting or curled up, not hunting.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Tom"
+      },
+      {
+        "fact": "Someone said the owner's favourite book is about a fox.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

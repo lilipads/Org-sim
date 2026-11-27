@@ -1,0 +1,404 @@
+pitches: [('Sofia', 'donkey', 0.2), ('Omar', 'chick', 0.8), ('Hana', 'hen (chicken)', 1.0), ('Jack', 'chicken', 1.0)]
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Right, let's do a hen. The client's own hens wander round the café and the kids love them, and it's a farm café, so it'll be a good fit. I'm sketching it now. Sofia, Omar, Jack, give me a minute and t
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    0s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 12
+    Sofia -> everyone: Hana, quick flag before we lay anything, from my chat with the client: the café is vegetarian, so no animals people eat, and a hen might count as one. Someone also mentioned the owner used to keep a d
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[    0s] 0:30 asked Sofia,Omar,Hana,Jack | dominoes 7 | calls 16
+    Hana -> everyone: Thanks Sofia, good flag. But the client told me their own hens wander round the tables and the kids love them. They're pets there, and eggs are vegetarian anyway, so I'm staying with the hen. Stroke 1
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[    0s] 0:45 asked Sofia,Omar,Jack | dominoes 15 | calls 19
+    Omar -> everyone: Hen works for me, Hana! Small, friendly and cheerful is what I heard too. Sofia, you're down by the legs already. Which one have you got? I'll take the other so we don't trip over each other.
+    (Jack held a thought)
+    (Sofia held a thought)
+[    1s] 1:00 asked Sofia,Hana,Jack | dominoes 26 | calls 22
+    Jack -> everyone: Sofia's got the right leg already, so I'll take the belly line, stroke 2, Sofia. Shout if you're already on it. And on the hen question: the client told me the café's famous for its eggs and egg custa
+    (Sofia held a thought)
+    (Hana held a thought)
+[    1s] 1:15 asked Sofia,Omar,Jack | dominoes 36 | calls 25
+    Sofia -> everyone: Jack, I'm already on the belly, stroke 2, a few dominoes in. Please keep the right leg, stroke 4, and Omar has the left leg. Hen's good with me!
+    (Omar held a thought)
+    (Jack held a thought)
+[    1s] 1:30 asked Omar,Jack | dominoes 49 | calls 27
+    Omar -> everyone: Left leg's already up and looking good, so I won't trace over it. It'll light up once Sofia's belly gets there. Hana, I've got free hands. Want me on the back end of the belly, up toward the tail, or 
+    (Jack held a thought)
+[    1s] 1:45 asked Sofia,Hana,Jack | dominoes 63 | calls 30
+    Jack -> everyone: Chain from the start looks solid so far. I'm on the right leg now, the one near the back. Omar, the back end of the belly up toward the tail sounds good, as long as you and Sofia don't crowd each othe
+    (Hana held a thought)
+    (Sofia held a thought)
+[    2s] 2:00 asked Sofia,Omar | dominoes 75 | calls 32
+    Omar -> everyone: Hana, to avoid doubling up on Sofia's belly: could you or Sofia split stroke 2 so I take the back half, from the right leg up to the tail? Or point me at anything else. I'm free, and I'll keep clear o
+    (Sofia held a thought)
+[    2s] 2:15 asked Sofia,Hana,Jack | dominoes 80 | calls 35
+    Hana -> everyone: Omar, yes please. I've added stroke 5 on the pad: it runs from the right leg up the back end of the hen to just under the tail. Take that one. I'm finishing the tail feathers from my end, so stay a bi
+    (Sofia held a thought)
+    (Jack held a thought)
+[    2s] 2:30 asked Sofia,Omar,Jack | dominoes 91 | calls 38
+    Jack -> everyone: Right leg's done, Omar, so go for the back half from the leg up to the tail. Both legs are still pale because Sofia's belly hasn't reached them yet, and the belly end is just short of the front leg. S
+    (Omar held a thought)
+    (Sofia held a thought)
+[    2s] 2:45 asked Sofia,Omar | dominoes 99 | calls 40
+    Omar -> everyone: Hana, there's no 5 on the pad, but 6 is the back line from the right leg up to the tail. I'm tracing that one and staying clear of your feathers up top.
+    (Sofia held a thought)
+[    2s] 3:00 asked Hana,Jack | dominoes 106 | calls 42
+    Hana -> everyone: Omar, good, 6 is the right one, sorry about the numbering. I'm closing the last bit of tail down toward where your line ends, so stay clear of the top right for a minute. Jack, Sofia, shout when the b
+    (Jack held a thought)
+[    3s] 3:15 asked Sofia,Omar,Jack | dominoes 110 | calls 45
+    Jack -> everyone: Belly's nearly through, Sofia, nice work. Both legs are still pale, so I'm fixing the joins now. I'll take the right one where the turn's too sharp, then the left.
+    (Sofia held a thought)
+[    3s] 3:30 asked Sofia,Hana | dominoes 113 | calls 47
+    Sofia -> Jack: Jack, you take the right leg where the turn's too sharp. I'll do the left leg join, just by the belly there, so we're not on top of each other.
+    Hana -> everyone: Tail's done. Omar, I can't see the back line on the table yet. Are you laying it from the leg up? I'm going to inspect that whole right side to see where the gaps are. Jack, Sofia, shout when the legs
+[    3s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 111 | calls 51
+    Hana -> everyone: Omar, the tail end just stops in mid-air, and I can't see any of your back line yet. Is it going down? If you're stuck waiting on the leg, say so and I'll lay it from the top end myself. Jack, how are
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    3s] 4:00 asked Omar,Jack | dominoes 111 | calls 53
+    Omar -> everyone: Hana, I'm queued on the back line and it starts off the right leg end. The belly looks dark right up to there now, so it should kick in any second. Please don't lay it from the top, we'd just double u
+    (Jack held a thought)
+[    3s] 4:15 asked Hana,Jack | dominoes 113 | calls 55
+    Jack -> everyone: Hana, Omar: the right leg join had too big a gap, so I'm re-laying stroke 4 now. Almost there. Omar, go ahead with the back line, it should kick in once my leg lands. I'll shout when both legs go dark
+    (Hana held a thought)
+[    4s] 4:30 asked Omar,Hana | dominoes 112 | calls 57
+    Hana -> everyone: Okay Omar, fair enough, the back line's all yours and I'll stay off it. Jack, thanks for re-laying the leg. Sofia, the little cluster by the left leg looks scrappy and isn't connected, so can you stra
+    (Omar held a thought)
+[    4s] 4:45 asked Sofia,Omar,Jack | dominoes 120 | calls 60
+    Sofia -> everyone: Hana, I've bridged the belly to the left leg. The old leg bits were scrappy, so I'm re-laying stroke 3 as one clean leg dropping from the belly. Jack, I'll shout when it goes dark, then we can check t
+    (Omar held a thought)
+[  545s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 127 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Five minutes, everyone. Omar, I can see the back line still isn't down, so please start it as soon as the leg goes dark. Jack, Sofia, shout the second each leg connects. I'm doing a full check of the 
+    (Jack held a thought)
+    (Omar held a thought)
+[  558s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 129 | calls 69
+    Hana -> everyone: Omar, the belly is already dark right up to the end by the right leg, so you don't have to wait for the leg. Please start the back line now, it has to be down before time's up. Jack, Sofia, shout when
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  568s] 5:30 asked Sofia,Omar,Jack | dominoes 129 | calls 72
+    Omar -> everyone: On it, Hana! Starting the back line now and heading straight up to your tail. I'll stay clear of your feathers.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  578s] 5:45 asked Sofia,Hana,Jack | dominoes 123 | calls 75
+    Jack -> everyone: Hana, the right leg's still pale, so I'm closing the join where the belly ends. Sofia, the left leg is yours. Omar, keep climbing on the back line.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  594s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 79
+    Hana -> everyone: Omar, 4 minutes left and I still see no back line, so I'm laying the top half down from the tail now. You take the bottom half from the leg and come up, and we meet around the middle. Don't carry on a
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  611s] 6:15 asked Sofia,Omar,Jack | dominoes 131 | calls 82
+    Omar -> everyone: Got it, Hana. I'm laying the bottom half up from the leg now and I'll stop at the middle. Shout when you see us meet.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  620s] 6:30 asked Hana,Jack | dominoes 141 | calls 84
+    Jack -> everyone: Right leg's dark now, so that join is closed. Sofia, the left leg's still pale with stray bits by it, so shout if you want a hand. Hana, Omar, you're meeting in the middle of the back line, so tell me
+    (Hana held a thought)
+[  633s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 148 | calls 88
+    Hana -> everyone: Omar, hold at the middle, you're nearly at my line. I'm joining the two halves now, so stay clear for a few seconds. Jack, Sofia, shout when both legs are dark.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  642s] 7:00 asked Sofia,Omar,Jack | dominoes 156 | calls 91
+    Sofia -> everyone: Left leg's one domino from done, I'll shout when it goes dark. Hana, one thing I should have said earlier: the client told me the café is vegetarian, no animals people eat. A hen might be borderline. 
+    (Omar held a thought)
+    (Jack held a thought)
+[  652s] 7:15 asked Sofia,Hana,Jack | dominoes 159 | calls 94
+    Jack -> everyone: Hana, I'd keep the hen. The client told me the café is famous for its eggs and egg custard tarts, so a hen laying them is a pretty good fit, and eggs aren't meat. It's cheerful and everyone knows it a
+    (Hana held a thought)
+    (Sofia held a thought)
+[  662s] 7:30 asked Sofia,Omar,Hana | dominoes 159 | calls 97
+    Hana -> everyone: Thanks Sofia, good to know. But the client told me their own hens wander round the tables and the kids love them, so the hen is a happy choice, and there's no time to switch anyway. We're keeping it. 
+    (Omar held a thought)
+    (Sofia held a thought)
+[  674s] 7:45 asked Sofia,Omar,Hana,Jack | dominoes 159 | calls 101
+    Sofia -> everyone: Left leg's dark now, so both legs are lit. Fine with the hen, Hana. Jack, Hana, want me to take the gap at the top right? Otherwise I'll stay out of your way.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  685s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 161 | calls 105
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Sounds good, Hana, hen it is. My look at the top right says the line end by your tail is still a dead end with nothing ahead of it, so the back line may not carry through there. Hana, I'll try a quick
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  695s] 8:15 asked Sofia,Omar,Hana | dominoes 166 | calls 108
+    Hana -> everyone: Jack, hold off on the bridge. That join is already dark and tight, and extra dominoes there could knock it. Everyone, the hen stays as it is. Hands off the chain from here so nobody bumps it. The stra
+    (Omar held a thought)
+[  701s] 8:30 asked Sofia,Omar,Jack | dominoes 166 | calls 111
+    Jack -> everyone: Got it, Hana, hands off. I'm stopping the bridge now. Nice work, everyone, great teamwork on that hen!
+    Omar -> everyone: Hands off, got it. Looks like a proper hen to me. Nice one, team!
+[  707s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 166 | calls 115
+    Hana -> everyone: All good. Hands off and let the clock run out. Thanks, everyone.
+[  712s] 9:00 asked Sofia,Omar,Jack | dominoes 166 | calls 118
+    Omar -> everyone: Fingers crossed, nobody breathe on the table. Cute hen, by the way, very café window.
+[  718s] 9:15 asked Sofia,Hana,Jack | dominoes 166 | calls 121
+    Sofia -> everyone: Ha, fingers crossed! Go hen!
+    Jack -> everyone: Thanks Omar! Great teamwork, everyone. Hands off and let the hen fall.
+[  724s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 166 | calls 125
+    Sofia -> everyone: Fingers crossed, here it comes!
+    Omar -> everyone: Hen's looking good. Let it fall!
+[  730s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 166 | calls 129
+    Omar -> everyone: Here we go, hen, don't let us down!
+    Jack -> everyone: Here we go, go hen!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "error": 0.59
+    },
+    "Jack": {
+      "speed": 0.91,
+      "error": 1.95
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 789.2,
+  "intents": {
+    "Sofia": "hen",
+    "Omar": "hen",
+    "Hana": "hen",
+    "Jack": "hen"
+  },
+  "team_intent": "hen",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "bird with a long thin beak",
+      "perched songbird or dove in profile",
+      "hummingbird or swallow outline"
+    ],
+    [
+      "bird with long beak",
+      "perched songbird or hummingbird outline",
+      "dove or pigeon line drawing"
+    ],
+    [
+      "bird in profile with a long thin beak",
+      "hummingbird or sparrow outline",
+      "perched bird with a raised wing"
+    ]
+  ],
+  "placed": 166,
+  "fell": 150,
+  "completion": 0.904,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 14,
+    "Sofia": 8,
+    "Omar": 11,
+    "Jack": 12
+  },
+  "held_thoughts": 64,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 146,
+    "failed": 1,
+    "input_tokens": 302,
+    "cache_creation_tokens": 750941,
+    "cache_read_tokens": 452980,
+    "output_tokens": 78999,
+    "seconds": 1432.5,
+    "api_equivalent_usd": 3.6911,
+    "cached": 0
+  },
+  "client": "cafe",
+  "client_best": "hen",
+  "notes": {
+    "Sofia": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+      "Someone mentioned the owner used to keep a donkey."
+    ],
+    "Omar": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they'd like something small and friendly, not a big farm beast."
+    ],
+    "Hana": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client mentioned their own hens wander round the tables and the kids love them."
+    ],
+    "Jack": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they're famous for their eggs and egg custard tarts."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Sofia",
+      "animal": "donkey",
+      "why": "It's a farm animal that isn't eaten, so it fits the vegetarian caf\u00e9, and the owner used to keep one, which makes it personal. Its long ears make it instantly recognisable and cheerful in a window.",
+      "matched": "donkey",
+      "score": 0.2
+    },
+    {
+      "name": "Omar",
+      "animal": "chick",
+      "why": "The client wants something small, friendly and cheerful that everyone recognises instantly, and a chick fits a farm caf\u00e9 window perfectly. Its round body, beak and little feet are simple to read in dominoes and look cute.",
+      "matched": "chick",
+      "score": 0.8
+    },
+    {
+      "name": "Hana",
+      "animal": "hen (chicken)",
+      "why": "The client's own hens wander among the caf\u00e9 tables and the kids love them, so it's a personal, cheerful pick that suits a farm caf\u00e9. A chicken's silhouette (comb, beak, round body, tail) is also instantly recognisable to blind judges.",
+      "matched": "hen",
+      "score": 1.0
+    },
+    {
+      "name": "Jack",
+      "animal": "chicken",
+      "why": "The caf\u00e9 is on a farm and famous for its eggs and egg custard tarts, so a chicken ties directly to the brand, and it's cheerful and instantly recognisable even in domino form.",
+      "matched": "chicken",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "client_score": 1.0,
+  "client_matched": "hen",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "rumour": false,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Sofia"
+      },
+      {
+        "fact": "The client said they're famous for their eggs and egg custard tarts.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 60,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client mentioned their own hens wander round the tables and the kids love them.",
+        "rumour": false,
+        "holders": [
+          "Hana"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Hana"
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Omar"
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Sofia"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Hana",
+  "decided": "hen",
+  "decision_open_at": 0.0
+}
+: true,
+        "at": 0,
+        "by": "Hana"
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Omar"
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Sofia"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Hana",
+  "decided": "hen",
+  "decision_open_at": 0.0
+}

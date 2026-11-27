@@ -1,0 +1,218 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "error": 0.59
+    },
+    "Jack": {
+      "speed": 0.91,
+      "error": 1.95
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 499.5,
+  "intents": {
+    "Sofia": "donkey",
+    "Omar": "donkey",
+    "Hana": "donkey",
+    "Jack": "donkey"
+  },
+  "team_intent": "donkey",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a winding line of fallen dominoes seen from above",
+      "a river or stream traced on a map",
+      "a coastline or rough road outline"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a winding road or trail on a map",
+      "a river with branching tributaries"
+    ],
+    [
+      "curving line of fallen dominoes seen from above",
+      "river or stream winding across a map",
+      "road or trail with dashed edges on a map"
+    ]
+  ],
+  "placed": 230,
+  "fell": 131,
+  "completion": 0.57,
+  "team_score": 0.0,
+  "first_domino_at": "2:45",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 17,
+    "Jack": 10,
+    "Sofia": 8,
+    "Omar": 8
+  },
+  "held_thoughts": 71,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 704908,
+    "cache_read_tokens": 431229,
+    "output_tokens": 74440,
+    "seconds": 1109.5,
+    "api_equivalent_usd": 3.4547,
+    "cached": 0
+  },
+  "client": "cafe",
+  "client_best": "hen",
+  "notes": {
+    "Sofia": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+      "Someone mentioned the owner used to keep a donkey."
+    ],
+    "Omar": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they'd like something small and friendly, not a big farm beast."
+    ],
+    "Hana": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client mentioned their own hens wander round the tables and the kids love them."
+    ],
+    "Jack": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they're famous for their eggs and egg custard tarts."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Sofia",
+      "animal": "donkey",
+      "why": "It's a cheerful, instantly recognisable farm animal that isn't eaten, so it fits the vegetarian caf\u00e9, and it nods to the owner's former donkey. Long ears make it easy for blind judges to recognise in domino form.",
+      "matched": "donkey",
+      "score": 0.2
+    },
+    {
+      "name": "Omar",
+      "animal": "chick",
+      "why": "A chick is small, friendly and cheerful, instantly recognisable, and fits a farm caf\u00e9 window without being a big farm beast. Its round body and little beak should also be easy to build from dominoes.",
+      "matched": "chick",
+      "score": 0.8
+    },
+    {
+      "name": "Hana",
+      "animal": "hen (chicken)",
+      "why": "The client's own hens wander among the tables and the kids love them, so it's personal, cheerful and instantly recognisable on a farm caf\u00e9 window. A chicken's silhouette (comb, beak, round body, tail) is also distinctive enough for blind judges to identify.",
+      "matched": "hen",
+      "score": 1.0
+    },
+    {
+      "name": "Jack",
+      "animal": "chicken",
+      "why": "The caf\u00e9 is on a farm and famous for eggs and egg custard tarts, so a chicken ties directly to their brand, is cheerful, and is instantly recognisable even in blocky domino form.",
+      "matched": "chicken",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "client_score": 0.2,
+  "client_matched": "donkey",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "rumour": false,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Sofia"
+      },
+      {
+        "fact": "The client said they're famous for their eggs and egg custard tarts.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client mentioned their own hens wander round the tables and the kids love them.",
+        "rumour": false,
+        "holders": [
+          "Hana"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Hana"
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 105,
+        "by": "Omar"
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Sofia"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "consensus",
+  "dictator": null,
+  "decided": "donkey",
+  "decision_open_at": 135.0
+}

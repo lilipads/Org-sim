@@ -1,0 +1,212 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.41,
+      "error": 0.81
+    },
+    "Tom": {
+      "speed": 0.79,
+      "error": 0.89
+    },
+    "Priya": {
+      "speed": 1.08,
+      "error": 1.65
+    },
+    "Leo": {
+      "speed": 1.31,
+      "error": 1.37
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 139.5,
+  "intents": {
+    "Maya": "",
+    "Tom": "",
+    "Priya": "",
+    "Leo": ""
+  },
+  "team_intent": "",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [],
+  "judge_guesses": [
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or background with no dominoes",
+      "faint or invisible drawing on a plain cream background"
+    ],
+    [
+      "blank off-white canvas with no visible content",
+      "empty page or placeholder background image",
+      "faint, very low-contrast content too subtle to see"
+    ],
+    [
+      "blank off-white canvas",
+      "empty placeholder image",
+      "very faint or invisible line art"
+    ]
+  ],
+  "placed": 0,
+  "fell": 0,
+  "completion": 0.0,
+  "team_score": 0.0,
+  "first_domino_at": null,
+  "messages": 3,
+  "messages_by_speaker": {
+    "Facilitator": 3
+  },
+  "held_thoughts": 0,
+  "parse_failures": {
+    "Maya": 10,
+    "Tom": 10,
+    "Priya": 10,
+    "Leo": 10
+  },
+  "usage": {
+    "calls": 95,
+    "failed": 53,
+    "input_tokens": 0,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 0,
+    "output_tokens": 0,
+    "seconds": 470.3,
+    "api_equivalent_usd": 0.0,
+    "cached": 42
+  },
+  "client": "lodge",
+  "client_best": "hare",
+  "notes": {
+    "Maya": [
+      "It's for the welcome wall of a mountain lodge.",
+      "They want an animal of the mountains.",
+      "The client said that after last winter's bear scare, nothing with fangs or claws: no bears, no wolves."
+    ],
+    "Tom": [
+      "It's for the welcome wall of a mountain lodge.",
+      "They want an animal of the mountains.",
+      "The client said the main audience is the small kids at the ski school; it should look cute."
+    ],
+    "Priya": [
+      "It's for the welcome wall of a mountain lodge.",
+      "They want an animal of the mountains.",
+      "The client told you the ski school's mascot is a white snow hare called Pip."
+    ],
+    "Leo": [
+      "It's for the welcome wall of a mountain lodge.",
+      "They want an animal of the mountains.",
+      "The client mentioned that from far away kids spot an animal by its ears or its tail.",
+      "You heard the owner is a keen birdwatcher who loves eagles."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "",
+      "why": "",
+      "matched": null,
+      "score": 0.0
+    },
+    {
+      "name": "Tom",
+      "animal": "",
+      "why": "",
+      "matched": null,
+      "score": 0.0
+    },
+    {
+      "name": "Priya",
+      "animal": "",
+      "why": "",
+      "matched": null,
+      "score": 0.0
+    },
+    {
+      "name": "Leo",
+      "animal": "",
+      "why": "",
+      "matched": null,
+      "score": 0.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Leo",
+    "Maya",
+    "Priya",
+    "Tom"
+  ],
+  "client_score": 0.0,
+  "client_matched": null,
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client said that after last winter's bear scare, nothing with fangs or claws: no bears, no wolves.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client told you the ski school's mascot is a white snow hare called Pip.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said the main audience is the small kids at the ski school; it should look cute.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client mentioned that from far away kids spot an animal by its ears or its tail.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "You heard the owner is a keen birdwatcher who loves eagles.",
+        "rumour": true,
+        "holders": [
+          "Leo"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 0,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

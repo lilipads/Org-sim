@@ -1,0 +1,219 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 710.9,
+  "intents": {
+    "Maya": "cat",
+    "Tom": "cat",
+    "Priya": "cat",
+    "Leo": "cat"
+  },
+  "team_intent": "cat",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya",
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "boot seen from the side",
+      "leg with a foot",
+      "sock"
+    ],
+    [
+      "boot or shoe outline",
+      "bird leg with a curled foot",
+      "tall bottle or vase outline"
+    ],
+    [
+      "boot",
+      "sock",
+      "bird's leg and foot"
+    ]
+  ],
+  "placed": 79,
+  "fell": 79,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "1:30",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 11,
+    "Leo": 6,
+    "Maya": 9,
+    "Tom": 12
+  },
+  "held_thoughts": 56,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 144,
+    "failed": 1,
+    "input_tokens": 280,
+    "cache_creation_tokens": 660922,
+    "cache_read_tokens": 435987,
+    "output_tokens": 63985,
+    "seconds": 1341.6,
+    "api_equivalent_usd": 3.2038,
+    "cached": 6
+  },
+  "client": "bookshop",
+  "client_best": "cat",
+  "notes": {
+    "Maya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+      "Someone said the owner's favourite book is about a fox."
+    ],
+    "Tom": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+    ],
+    "Priya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said regulars bring treats for the shop cat every day."
+    ],
+    "Leo": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said they had an owl sign for years and really want a change from owls."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "cat",
+      "why": "The client told me directly that Biscuit, the shop cat, sleeps in the window and is famous locally. A calm, curled-up sleeping cat suits the calm mood and should please them. The fox is only hearsay, and an owl is wise but has no personal link to the shop.",
+      "matched": "cat",
+      "score": 1.0
+    },
+    {
+      "name": "Tom",
+      "animal": "sleeping cat (curled up)",
+      "why": "A curled-up cat feels calm, friendly and at rest, and its round shape with pointed ears is easy for blind judges to recognise in dominoes. It's cosy for a children's bookshop window, though an owl would be my second choice for 'wise'.",
+      "matched": "cat",
+      "score": 1.0
+    },
+    {
+      "name": "Priya",
+      "animal": "cat",
+      "why": "The regulars bring treats for the shop cat every day, so the client clearly loves that cat. A calmly sitting cat with pointed ears and a curled tail reads clearly in dominoes and fits the calm, wise feel. An owl would be my second choice if a teammate knows something against cats.",
+      "matched": "cat",
+      "score": 1.0
+    },
+    {
+      "name": "Leo",
+      "animal": "tortoise",
+      "why": "A tortoise feels calm and wise, fits a children's bookshop (slow, patient reading, storybook favourite), and avoids the owl the client wants to move away from. Its domed shell and four legs also make a recognisable silhouette in dominoes.",
+      "matched": "tortoise",
+      "score": 0.4
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Leo",
+    "Maya",
+    "Priya",
+    "Tom"
+  ],
+  "client_score": 1.0,
+  "client_matched": "cat",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client said they had an owl sign for years and really want a change from owls.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said regulars bring treats for the shop cat every day.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Priya"
+      },
+      {
+        "fact": "The client said it should look friendly and at rest: sitting or curled up, not hunting.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 60,
+        "by": "Tom"
+      },
+      {
+        "fact": "Someone said the owner's favourite book is about a fox.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Maya"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "consensus",
+  "dictator": null,
+  "decided": "cat",
+  "decision_open_at": 75.0
+}

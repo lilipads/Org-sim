@@ -1,0 +1,373 @@
+pitches: [('Sofia', 'donkey', 0.2), ('Omar', 'chick', 0.8), ('Hana', 'hen (chicken)', 1.0), ('Jack', 'chicken', 1.0)]
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Hey all! Quick thing from my client chat: it's for a farm café window, and they wanted something small, friendly and cheerful, not a big farm beast. So maybe a duck or a little chick? What did you all
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    0s] 0:15 asked Sofia,Hana,Jack | dominoes 0 | calls 11
+    Jack -> everyone: Hey! I heard the same: farm café, cheerful, and they're famous for their eggs and egg custard tarts. So a little chick or chicken fits perfectly, everyone gets it instantly. Sofia, since you've got th
+    (Hana held a thought)
+    (Sofia held a thought)
+[    0s] 0:30 asked Sofia,Omar,Hana,Jack | dominoes 2 | calls 15
+    Sofia -> everyone: Quick flag before we commit: my client said the café is vegetarian, no animals people eat, so a chick or chicken could land badly. I've sketched a cat face instead, with a stem from the bottom that sp
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[    1s] 0:45 asked Omar,Hana,Jack | dominoes 17 | calls 18
+    Hana -> everyone: Quick rethink before anyone builds more. That outline reads as a cat to me, and it's not a farm animal. My client said their own hens wander round the tables and the kids love them. A vegetarian café 
+    (Omar held a thought)
+    (Jack held a thought)
+[    1s] 1:00 asked Sofia,Jack | dominoes 29 | calls 20
+    Sofia -> everyone: Hana, I love that the hens are part of the place, I really do. But my client was very clear that it's vegetarian, no animals people eat, and a client who's unhappy with the pick zeroes our whole score
+    (Jack held a thought)
+[    1s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 41 | calls 24
+    Hana -> everyone: Okay, you're right, Sofia. Switching now would eat our time, and a zero from the client isn't worth the risk. Let's finish the cat. Omar's already on the right side, so I won't trace over him. I'll ch
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[    1s] 1:30 asked Sofia,Omar,Hana | dominoes 53 | calls 27
+    Sofia -> everyone: Thanks Hana, really appreciate it. I'll lay the top of the head between the ears now. Omar, Jack, keep climbing up to the ear tips.
+    (Omar held a thought)
+[    2s] 1:45 asked Omar,Hana,Jack | dominoes 61 | calls 30
+    Omar -> everyone: Thanks Hana, that'd be great. I've got the right side and ear, so Jack's on the left. Once the outline's down, eyes and whiskers would be a cute touch if there's time.
+    (Jack held a thought)
+[    2s] 2:00 asked Hana,Jack | dominoes 71 | calls 32
+    Jack -> everyone: Good catch, Sofia, and thanks Hana for rolling with it. I'm on the left side and ear, it's climbing now. Hana, a check of the split at the bottom would be great.
+    (Hana held a thought)
+[    2s] 2:15 asked Sofia,Omar,Hana | dominoes 75 | calls 35
+    Hana -> everyone: Left curve looks solid, no gaps. That open end is just where Jack's still climbing. I'll check the top join and the right ear next. Sofia, the pale bit across the top should light up once the sides re
+    (Omar held a thought)
+[    2s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 92 | calls 39
+    Omar -> everyone: Right side's done and the joint at the ear tip is closed, so the whole run lights up from the start. The top of the head just needs to finish across to the left ear. Sofia, are you laying that? I'll t
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    2s] 2:45 asked Sofia,Omar,Jack | dominoes 97 | calls 42
+    Sofia -> everyone: Thanks Omar, yes, I've got the top of the head. Sorry, I clipped the table next to Jack and a few fell near the left ear. I'm standing them back up now. Jack, I'll keep out of your way.
+    (Omar held a thought)
+    (Jack held a thought)
+[    2s] 3:00 asked Omar,Hana,Jack | dominoes 99 | calls 45
+    Jack -> everyone: No worries, Sofia, thanks for standing those back up! I'm just two dominoes from the left ear tip. Once I'm done I'll inspect that joint with the top of the head.
+    (Omar held a thought)
+    (Hana held a thought)
+[    3s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 99 | calls 49
+    Hana -> everyone: Inspected the left ear. A few dominoes right at the ear tip, just right of where Jack's pointing, aren't connected to the start yet. One end there faces down-right with nothing ahead of it. Jack, Sofi
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[    3s] 3:30 asked Sofia,Omar,Jack | dominoes 111 | calls 52
+    Sofia -> everyone: I'll close that ear-tip gap now, Jack, so you can stay put. Hana, once I'm done, a walk of the whole chain from the start would be great.
+    (Omar held a thought)
+    (Jack held a thought)
+[    4s] 3:45 asked Hana,Jack | dominoes 121 | calls 54
+    Jack -> everyone: Thanks Sofia, you take the ear-tip gap, I'll stay clear so we don't bump each other. I'll inspect the joint once you're done.
+    Hana -> everyone: Thanks Sofia. I'll walk the whole chain from the start now, hands off, and report back.
+[    4s] 4:00 asked Sofia,Hana,Jack | dominoes 132 | calls 57
+    Hana -> everyone: Walked the whole chain. Good news: from the start it knocks over nearly the whole outline, the stem, both sides and the right ear. Three loose bits though. The pale run at the top by the left ear is s
+    (Jack held a thought)
+[    4s] 4:15 asked Sofia,Omar,Jack | dominoes 142 | calls 60
+    Jack -> everyone: Sofia, your hands are up top, so I'll close that left ear-tip gap myself. It's far enough from you that we won't bump each other. Shout if you're already on it!
+    (Omar held a thought)
+    (Sofia held a thought)
+[    5s] 4:30 asked Sofia,Hana,Jack | dominoes 146 | calls 63
+    Sofia -> everyone: Jack, I'm already on the ear-tip bridge, about halfway. Stay clear and I'll shout when it's closed. Then could you inspect that joint? Hana, could you check the pale run going up off the top of the he
+    (Hana held a thought)
+    (Jack held a thought)
+[    5s] 4:45 asked Hana,Jack | dominoes 144 | calls 65
+    Jack -> everyone: Got it, Sofia, I'll keep my hands off. My inspection says the trouble is where the ear tip turns too sharply, and a domino near Omar's spot at the left corner is jammed too close. So when you bridge, 
+    (Hana held a thought)
+[    5s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 134 | calls 69
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Bridge is closed, Jack, so you can re-inspect that joint. I'm lifting the loose curl on the lower left now. It's not connected to anything, so the judge shouldn't see it. The little line inside the le
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Hana held a thought)
+[    5s] 5:15 asked Sofia,Hana,Jack | dominoes 128 | calls 72
+    Sofia -> everyone: Ear-tip bridge is laid, so it should be closed now. Thanks Hana for clearing the stray run up top. Jack, go ahead and re-inspect that joint too. I'm taking a quick look myself to make sure the left ea
+    (Jack held a thought)
+    (Hana held a thought)
+[    5s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 76
+    Jack -> everyone: Thanks Omar, nice work! Thanks Sofia too. Re-inspecting the left ear joint now, hands off. Hana, if that pale run up top is a leftover, taking it down is fine. We're nearly there, team!
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[    6s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 80
+    Sofia -> everyone: Stray run above the head is cleared, so the judge only sees the cat. I'm doing a quick look at the left ear joint too. Hana, once we're all hands-off, can you do one last walk from the start?
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    6s] 6:00 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 84
+    Hana -> everyone: Walked the whole chain from the start, hands off. About 98 of the 119 standing would fall, and everything that doesn't is a stray bit above the head or outside the left ear. So the outline looks conne
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[    6s] 6:15 asked Sofia,Omar,Jack | dominoes 114 | calls 87
+    Sofia -> everyone: Stray ones above the left ear are cleared, so the judge only sees the cat. I'm hands off now. Thanks everyone, nice teamwork!
+    (Jack held a thought)
+    (Omar held a thought)
+[   14s] 6:30 asked Omar,Hana,Jack | dominoes 114 | calls 90
+    Omar -> everyone: Sounds good, Hana, the inner line's gone and the leftovers aren't connected, so I'm hands off. Good news from my client chat too: they wanted something small and friendly, not a big farm beast, and a 
+    (Jack held a thought)[[   21s] 6:45 asked Sofia,Hana,Jack | dominoes 114 | calls 93
+    Jack -> everyone: Thanks Hana, that last walk was exactly what we needed. And good to hear the client's happy with the cat, Omar. Great teamwork, everyone, hands off from here, no bumps allowed!
+    (Hana held a thought)
+[   29s] 7:00 asked Sofia,Omar,Hana | dominoes 114 | calls 96
+    Hana -> everyone: Agreed, Omar. Hands off, everyone. If anyone sees a real brea[  340s] 7:15 asked Sofia,Omar,Jack | dominoes 114 | calls 99
+    Jack -> everyone: Agreed, Hana, hands off. Gr[   36s] 7:15 asked Sofia,Omar,Jack | dominoes 114[  350s] 7:30 asked Sofia,Omar,Hana | dominoes 114 | calls 102
+[  350s] 7:45 asked - | dominoes 114 | calls 102
+[  358s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 106
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Two minutes, and we're all hands off. Great ca[   49s] 7:45 asked Sofia,[  366s] 8:15 asked Sofia,Omar,Hana | dominoes 114 | calls 109
+    Omar -> everyone: Hands in pockets, everyone. Cat's looking [   56s] 8:00 asked Sofia[  373s] 8:30 asked Sofia,Hana,Jack | dominoes 114 | calls 112
+    Jack -> everyone: Ha, hands in pockets it is, Omar! Great teamwork, all. Three, two, one...
+[  380s] 8:45 asked Sofia,Omar,Hana | dominoes 114 | calls 115
+    Sofia -> everyone: Fingers crossed, here goes the cat!
+    Omar -> everyone: Go cat, go! Pushing thumbs instead of dominoes.
+[  387s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 119
+    Omar -> everyone: Look at that, a little farm cat in the café window. Fingers crossed it falls all the way round!
+    Jack -> everyone: Here we go, fingers crossed! Great cat, team, and a farm cat suits that café nicely.
+[  394s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 123
+    Jack -> everyone: Wow, watch it go! Come on, little cat, all the way round!
+    Hana -> everyone: Fingers crossed, here it goes[ [  400s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 114 | calls 127
+    Jack -> everyone: Look at it go, the whole outline's lighting up! Nice one, team.
+    Omar -> everyone: Go littl{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "error": 0.59
+    },
+    "Jack": {
+      "speed": 0.91,
+      "error": 1.95
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 455.4,
+  "intents": {
+    "Sofia": "cat",
+    "Omar": "cat",
+    "Hana": "cat",
+    "Jack": "cat"
+  },
+  "team_intent": "cat",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "tulip flower with a stem",
+      "flower pot with a sprout",
+      "bucket or cup with a stem"
+    ],
+    [
+      "tulip flower with a stem",
+      "cup or bowl with a stem, like a goblet",
+      "flower bud or basket on a stalk"
+    ],
+    [
+      "tulip flower with stem",
+      "cup or pot on a stem",
+      "bucket or basket with a handle-less top"
+    ]
+  ],
+  "placed": 114,
+  "fell": 98,
+  "completion": 0.86,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Omar": 10,
+    "Jack": 15,
+    "Sofia": 11,
+    "Hana": 10
+  },
+  "held_thoughts": 54,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 148,
+    "failed": 0,
+    "input_tokens": 294,
+    "cache_creation_tokens": 733725,
+    "cache_read_tokens": 439842,
+    "output_tokens": 72004,
+    "seconds": 1131.8,
+    "api_equivalent_usd": 3.603,
+    "cached": 4
+  },
+  "client": "cafe",
+  "client_best": "hen",
+  "notes": {
+    "Sofia": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+      "Someone mentioned the owner used to keep a donkey."
+    ],
+    "Omar": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they'd like something small and friendly, not a big farm beast."
+    ],
+    "Hana": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client mentioned their own hens wander round the tables and the kids love them."
+    ],
+    "Jack": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they're famous for their eggs and egg custard tarts."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Sofia",
+      "animal": "donkey",
+      "why": "It's a farm animal that isn't eaten, so it fits the vegetarian caf\u00e9, and the owner used to keep one, so it's personal. With long ears and a friendly face, it's cheerful and easy to recognise.",
+      "matched": "donkey",
+      "score": 0.2
+    },
+    {
+      "name": "Omar",
+      "animal": "chick",
+      "why": "A chick is small, friendly and cheerful, instantly recognisable, and fits a farm caf\u00e9 window without being a big farm beast. Its round body and beak are easy to build in dominoes so blind judges should spot it quickly.",
+      "matched": "chick",
+      "score": 0.8
+    },
+    {
+      "name": "Hana",
+      "animal": "chicken (hen)",
+      "why": "The client's own hens wander among the tables and the kids love them, so it's personal and cheerful, and a hen is instantly recognisable to blind judges. It's a safe pick, though I'd happily rethink if teammates know of a client dislike or a better fit.",
+      "matched": "chicken",
+      "score": 1.0
+    },
+    {
+      "name": "Jack",
+      "animal": "chicken",
+      "why": "The caf\u00e9 is on a farm and famous for eggs and egg custard tarts, so a chicken ties directly to the client's brand, and it's cheerful and instantly recognisable even in blocky domino form.",
+      "matched": "chicken",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "client_score": 0.2,
+  "client_matched": "cat",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "rumour": false,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Sofia"
+      },
+      {
+        "fact": "The client said they're famous for their eggs and egg custard tarts.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client mentioned their own hens wander round the tables and the kids love them.",
+        "rumour": false,
+        "holders": [
+          "Hana"
+        ],
+        "said": true,
+        "at": 45,
+        "by": "Hana"
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Omar"
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

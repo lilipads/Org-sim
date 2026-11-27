@@ -1,0 +1,374 @@
+pitches: [('Sofia', 'donkey', 0.2), ('Omar', 'chick', 0.8), ('Hana', 'hen (chicken)', 1.0), ('Jack', 'chicken', 1.0)]
+[    0s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Quick plan before we build: the client's café is on a farm, they want something cheerful that everyone recognises instantly, and their hens wander round the tables with the kids loving them. So I'd su
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    0s] 0:15 asked Sofia,Omar,Jack | dominoes 0 | calls 11
+    Jack -> everyone: Hey all, Jack here! Hana, great minds, I was thinking chicken too. My notes say they're famous for their eggs and egg custard tarts, so a chicken fits the farm café perfectly. Big comb, beak, fluffy t
+    (Sofia held a thought)
+    (Omar held a thought)
+[    1s] 0:30 asked Sofia,Omar,Hana | dominoes 0 | calls 14
+    Sofia -> everyone: Love the hens idea, Hana, and Jack, yes, I did hear about a donkey! But my notes say the café is vegetarian, so no animals people eat, and chicken and eggs might clash with that. Someone also mentione
+    (Hana held a thought)
+    (Omar held a thought)
+[    1s] 0:45 asked Omar,Hana,Jack | dominoes 0 | calls 17
+    Jack -> everyone: Thanks Sofia, good catch on the vegetarian thing! But eggs are vegetarian, and egg custard tarts are literally what they're famous for. Hana says the hens wander around the tables, so these are café m
+    (Hana held a thought)
+    (Omar held a thought)
+[    1s] 1:00 asked Sofia,Omar,Hana | dominoes 0 | calls 20
+    Hana -> everyone: Thanks Sofia, that's worth checking. The hens actually wander round the tables and the kids love them, so a chicken there is a resident, not a menu item. Did the client say anything about not wanting 
+    (Sofia held a thought)
+    (Omar held a thought)
+[    1s] 1:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 24
+    Sofia -> everyone: Hana, good question. The client told me directly, in those words, no animals people eat, and chickens are eaten, so I read that as ruling chicken out. The hens being café residents is a nice point, bu
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    1s] 1:30 asked Omar,Hana,Jack | dominoes 0 | calls 27
+    Jack -> everyone: Okay Sofia, you've convinced me. If the client said it to you in those words, a zero on their half is too big a risk, and my egg notes don't contradict it. Great call, and nice speed on the sketch! I'
+    (Omar held a thought)
+    (Hana held a thought)
+[    1s] 1:45 asked Sofia,Omar,Hana | dominoes 0 | calls 30
+    Omar -> everyone: Fair point on the menu rule, Sofia, I'll drop chicken. But my note from the client is small and friendly, not a big farm beast, and a donkey is exactly that. A farm cat fits both rules: small, friendl
+    (Sofia held a thought)
+    (Hana held a thought)
+[    2s] 2:00 asked Sofia,Hana,Jack | dominoes 0 | calls 33
+    Hana -> everyone: Omar, I get the small and friendly point, and a cat would be safe on the menu rule too. But three of us are on donkey and the sketch is already done. With eight minutes left, re-sketching costs us mor
+    (Sofia held a thought)
+    (Jack held a thought)
+[    2s] 2:15 asked Sofia,Omar,Jack | dominoes 0 | calls 36
+    Sofia -> everyone: Thanks Omar, and thanks Jack! A donkey is small and friendly too, and it's the one animal the owner actually kept, so it's personal for the client. A cat is safe, but nothing from the client points to
+    (Jack held a thought)
+    (Omar held a thought)
+[    2s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 40
+    Omar -> everyone: Fair enough, majority wins and I'm not fighting a donkey. Aligned on donkey! Let's keep it cute and friendly-looking. Jack's on the start, Hana's on the ears, and I'll take the belly line and the back
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[    2s] 2:45 asked Omar,Hana,Jack | dominoes 7 | calls 43
+    Hana -> everyone: I'm aligned on donkey. Jack's on stroke 1 and the legs, I'm taking both ears. Sofia, you keep the belly line since you've already started it. Omar, can you take the back legs and the head curve? Shout
+    (Jack held a thought)
+    (Omar held a thought)
+[    2s] 3:00 asked Sofia,Omar,Jack | dominoes 20 | calls 46
+    Sofia -> everyone: Great, we're all on donkey, thanks Omar! I've got the belly line, it starts once Jack's front leg is up. Omar, back legs and head curve like Hana said. Shout if a joint looks off!
+    (Omar held a thought)
+    (Jack held a thought)
+[    2s] 3:15 asked Omar,Hana,Jack | dominoes 30 | calls 49
+    Hana -> everyone: Quick check: the back line from the start only goes a little way so far. Jack, are you still laying that one all the way to the head? The ears and legs can't fall until it gets there. I'm nearly done 
+    (Jack held a thought)
+    (Omar held a thought)
+[    2s] 3:30 asked Hana,Jack | dominoes 42 | calls 51
+    Jack -> everyone: Yes, Hana, I'm on it! Great minds on the ears, thanks. I'm carrying the back line on right now, out along the back and up to the neck, so the ears and legs can fall. Omar and Sofia, shout if the joint
+    (Hana held a thought)
+[    2s] 3:45 asked Sofia,Omar,Hana | dominoes 60 | calls 54
+    Hana -> everyone: Jack, quick flag: the back line seems to bend down near the front instead of carrying straight along the back toward the head. Can you keep it running straight out to the neck? I'm checking that joint
+    (Sofia held a thought)
+    (Omar held a thought)
+[    3s] 4:00 asked Hana,Jack | dominoes 67 | calls 56
+    Jack -> everyone: Thanks Hana, good catch! I see the dip. I'm carrying it straight out along the back now, toward the neck. Shout if it wanders again.
+    (Hana held a thought)
+[    3s] 4:15 asked Omar,Hana | dominoes 85 | calls 58
+    Hana -> everyone: Jack, I closed the small gap just in front of the bend, so the back line connects to the start now. Keep going straight out to the neck, and shout when you reach the ear base so I can do the rise up t
+    (Omar held a thought)
+[    3s] 4:30 asked Omar,Hana,Jack | dominoes 96 | calls 61
+    Hana -> everyone: Jack, found the break: the back line jams just before where you're working, so everything past it isn't connected to the start. I'm fixing that joint now. Keep carrying the line on toward the neck, an
+    (Omar held a thought)
+    (Jack held a thought)
+[    3s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 65
+    Hana -> everyone: Jack, I'm joining the back line to the start at the front bend now. Keep carrying it straight out toward the neck, and give me a shout when you reach the ear base.
+    (Omar held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[    4s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 120 | calls 69
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Omar's not on the head yet, so I'm taking the neck and head curve from the end of the back line. Hana, keep the back-line joint near the front connected. Jack, once the back line is through, take the 
+    (Omar held a thought)
+    (Hana held a thought)
+[    4s] 5:15 asked Omar,Hana,Jack | dominoes 128 | calls 72
+    Jack -> everyone: Back line's through to the neck, Sofia, nice work on the head! I'm taking the belly and both legs now. Omar, if you're free, give the head curve a hand so the belly can catch.
+    (Hana held a thought)
+    (Omar held a thought)
+[    4s] 5:30 asked Sofia,Omar | dominoes 128 | calls 74
+    Omar -> everyone: Sorry all, I was heads-down on the back line. It's through now. Jack, I'll check the belly joint and the front leg and give you a hand there.
+    (Sofia held a thought)
+[    5s] 5:45 asked Omar,Hana,Jack | dominoes 131 | calls 77
+    Hana -> everyone: Sofia, you stay on the ears. I'm carrying the line from the neck round the head and chest down to the belly so Jack's belly line can catch. Omar, please check the back legs.
+    (Omar held a thought)
+    (Jack held a thought)
+[    5s] 6:00 asked Sofia,Omar,Jack | dominoes 127 | calls 80
+    Omar -> everyone: On it, Hana. I'm laying the back leg off the end of the belly now. Jack, I'll leave the leg at the chest end to you.
+    (Sofia held a thought)
+    (Jack held a thought)
+[    5s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 132 | calls 84
+    Hana -> everyone: I'm carrying the head round to the chest now. Sofia, the ears are still pale and not touching the neck line. Can you join them to the line right at the neck?
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[    5s] 6:30 asked Sofia,Omar | dominoes 131 | calls 86
+    Sofia -> everyone: On it, Hana! I'm joining both ears to the neck line right now. Shout if the head or chest joint jams.
+    (Omar held a thought)
+[   15s] 6:45 asked Omar,Hana | dominoes 135 | calls 88
+    Hana -> everyone: Carrying the head round down to the belly now. Sofia, ears on the neck please. Jack, the head line will land on your belly piece.
+    (Omar held a thought)
+[   24s] 7:00 asked Sofia,Omar,Jack | dominoes 142 | calls 91
+    Omar -> everyone: Jack, belly line is mostly missing between the front leg and the back leg, so I'm laying it now, right to left. You keep the legs.
+    (Jack held a thought)
+    (Sofia held a thought)
+[   33s] 7:15 asked Hana,Jack | dominoes 158 | calls 93
+    Hana -> everyone: Head loop is down to the belly now. I'm joining its end to Jack's piece in the middle. Sofia, the ears are still pale, so please tie them into the neck line. Omar, Jack, keep the belly and legs joined
+    (Jack held a thought)
+[   39s] 7:30 asked Sofia,Omar,Jack | dominoes 171 | calls 96
+    Sofia -> everyone: Ears are[  358s] 7:30 asked Omar,Hana,Jack | dominoes 178 | calls 97
+    Jack -> everyone: Thanks Hana! Belly start is nearly standing, just finishing the last few dominoes on the belly an[   48s] 7:45 asked Omar,Hana,Jack | dominoes 183 | calls 99
+    Hana -> everyone: Sofia, I'm tying the ears into the neck now, you stay on the chest. Omar,[  368s] 7:45 asked Omar,Hana | dominoes 186 | calls 99
+    Hana -> everyone: Jack, the joint at the chin on the right turns too sharp and the belly isn't catching yet. I'[   58s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 199 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll p[  382s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 199 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Omar -> everyone: Got it, Hana. The back leg wasn't standing, so I'm laying it off the end of the belly now. You've got the chin joint.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  393s] 8:15 asked Omar,Hana | dominoes 212 | calls 105
+    Omar -> everyone: Jack, I've got the back leg at the left end of the belly. You stay on the belly and the leg at the other end.
+    (Hana held a thought)
+[  402s] 8:30 asked Omar,Jack | dominoes 215 | calls 107
+    Jack -> everyone: Thanks Omar, great! I'm finishing the last of the belly and front leg now. Hana, you're a star on that chin joint!
+    (Omar held a thought)
+[  410s] 8:45 asked Sofia,Omar,Hana | dominoes 225 | calls 110
+    Omar -> everyone: Found a wobble in the belly where it dips into the hind leg. I'm fixing that spot now, Jack, you keep going on the leg.
+    (Sofia held a thought)
+    (Hana held a thought)
+[  422s] 9:00 asked Sofia,Omar,Jack | dominoes 226 | calls 113
+    Sofia -> everyone: Redoing both ears off the neck now. Everyone else, stay clear of the top right!
+    Jack -> everyone: Omar, thanks for the wobble fix! I'm bridging the belly into the front leg joint right now. Hana, Sofia, hold everything else steady, one minute!
+    (Omar held a thought)
+[  428s] 9:15 asked Sofia,Omar,Hana | dominoes 226 | calls 116
+    Hana -> everyone: Chin's bridged across to the belly. Everyone, close any gaps now and then hands off, one minute. Sofia, make sure both ears touch the neck line.
+    (Omar held a thought)
+[  434s] 9:30 asked Sofia,Omar,Hana | dominoes 228 | calls 119
+    Hana -> everyone: Small snag at the chin joint, I'm nudging it into line now. Everyone else, hands off the right side.
+    Sofia -> everyone: Ears are still going in, hands off the top right please! Everyone else, stand clear.
+    (Omar held a thought)
+[  440s] 9:45 asked Omar,Hana | dominoes 230 | calls 121
+    Hana -> everyone: Chin's nudged in. Hands off everyone, let it fall!
+    Omar -> everyone: Belly wobble's fixed, Jack. I'm hands off now so we don't bump anything. Lovely donkey, team!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 0.91,
+      "error": 1.21
+    },
+    "Omar": {
+      "speed": 1.48,
+      "error": 1.8
+    },
+    "Hana": {
+      "speed": 1.52,
+      "error": 0.59
+    },
+    "Jack": {
+      "speed": 0.91,
+      "error": 1.95
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 499.5,
+  "intents": {
+    "Sofia": "donkey",
+    "Omar": "donkey",
+    "Hana": "donkey",
+    "Jack": "donkey"
+  },
+  "team_intent": "donkey",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "a winding line of fallen dominoes seen from above",
+      "a river or stream traced on a map",
+      "a coastline or rough road outline"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a winding road or trail on a map",
+      "a river with branching tributaries"
+    ],
+    [
+      "curving line of fallen dominoes seen from above",
+      "river or stream winding across a map",
+      "road or trail with dashed edges on a map"
+    ]
+  ],
+  "placed": 230,
+  "fell": 131,
+  "completion": 0.57,
+  "team_score": 0.0,
+  "first_domino_at": "2:45",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 17,
+    "Jack": 10,
+    "Sofia": 8,
+    "Omar": 8
+  },
+  "held_thoughts": 71,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 138,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 704908,
+    "cache_read_tokens": 431229,
+    "output_tokens": 74440,
+    "seconds": 1109.5,
+    "api_equivalent_usd": 3.4547,
+    "cached": 0
+  },
+  "client": "cafe",
+  "client_best": "hen",
+  "notes": {
+    "Sofia": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+      "Someone mentioned the owner used to keep a donkey."
+    ],
+    "Omar": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they'd like something small and friendly, not a big farm beast."
+    ],
+    "Hana": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client mentioned their own hens wander round the tables and the kids love them."
+    ],
+    "Jack": [
+      "It's for the window of a caf\u00e9 on a farm.",
+      "They want something cheerful that everyone recognises instantly.",
+      "The client said they're famous for their eggs and egg custard tarts."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Sofia",
+      "animal": "donkey",
+      "why": "It's a cheerful, instantly recognisable farm animal that isn't eaten, so it fits the vegetarian caf\u00e9, and it nods to the owner's former donkey. Long ears make it easy for blind judges to recognise in domino form.",
+      "matched": "donkey",
+      "score": 0.2
+    },
+    {
+      "name": "Omar",
+      "animal": "chick",
+      "why": "A chick is small, friendly and cheerful, instantly recognisable, and fits a farm caf\u00e9 window without being a big farm beast. Its round body and little beak should also be easy to build from dominoes.",
+      "matched": "chick",
+      "score": 0.8
+    },
+    {
+      "name": "Hana",
+      "animal": "hen (chicken)",
+      "why": "The client's own hens wander among the tables and the kids love them, so it's personal, cheerful and instantly recognisable on a farm caf\u00e9 window. A chicken's silhouette (comb, beak, round body, tail) is also distinctive enough for blind judges to identify.",
+      "matched": "hen",
+      "score": 1.0
+    },
+    {
+      "name": "Jack",
+      "animal": "chicken",
+      "why": "The caf\u00e9 is on a farm and famous for eggs and egg custard tarts, so a chicken ties directly to their brand, is cheerful, and is instantly recognisable even in blocky domino form.",
+      "matched": "chicken",
+      "score": 1.0
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "client_score": 0.2,
+  "client_matched": "donkey",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the caf\u00e9 is vegetarian: no animals people eat, so no pigs, cows or sheep.",
+        "rumour": false,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Sofia"
+      },
+      {
+        "fact": "The client said they're famous for their eggs and egg custard tarts.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client mentioned their own hens wander round the tables and the kids love them.",
+        "rumour": false,
+        "holders": [
+          "Hana"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Hana"
+      },
+      {
+        "fact": "The client said they'd like something small and friendly, not a big farm beast.",
+        "rumour": false,
+        "holders": [
+          "Omar"
+        ],
+        "said": true,
+        "at": 105,
+        "by": "Omar"
+      },
+      {
+        "fact": "Someone mentioned the owner used to keep a donkey.",
+        "rumour": true,
+        "holders": [
+          "Sofia"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Sofia"
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "consensus",
+  "dictator": null,
+  "decided": "donkey",
+  "decision_open_at": 135.0
+}

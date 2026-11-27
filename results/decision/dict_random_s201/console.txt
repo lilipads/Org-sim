@@ -1,6 +1,365 @@
-pitches: [('Maya', 'cat', 1.0), ('Tom', 'sleeping cat (curled up)', 1.0), ('Priya', 'owl', 0.0), ('Leo[   22s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+pitches: [('Maya', 'cat', 1.0), ('Tom', 'sleeping cat (curled up)', 1.0), ('Priya', 'owl', 0.0), ('Leo[   22s] 0:00 asked M[   24s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
     Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
-    Priya -> everyone: Calm and wise for a children's bookshop, I'm thinking owl. Big ear tufts so the judge can't miss it. I'll sketch it now, and Maya, Tom and Leo, shout if you've got other ideas from the client.
+    Priya -> everyone: Okay, I'm calling it: an owl. The client told me they want something calm and wise for a children's bookshop window, and an owl is the bookish one. I'll sketch the outline now, with the ear tufts on t
     (Maya held a thought)
     (Leo held a thought)
     (Tom held a thought)
+[   36s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 11
+    Leo -> everyone: Priya, quick thing before we lay anything: the client told me they've had an owl sign for years and specifically want a change from owls. Calm and wise still fits, so what about an elephant? The trunk
+    (Maya held a thoug[   50s] 0:30 asked Maya,Tom,[   59s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 14
+    Priya -> everyone: Good catch, Leo, thank you. That would've sunk us. Switching: we're building an elephant, facing left, trunk curling down, with a big ear. Calm and wise still fits. I'm sketching it now. Leo, take the
+    (Maya held a thought)
+    (Tom held a thought)
+[   67s] 0:45 asked Maya,Tom,Leo | dominoes 3 | calls 17
+    Tom -> everyone: Elephant it is, and it fits the calm, friendly feel the client wanted. I've got the trunk and the ear. I'll start on the trunk and let Leo's line catch up.
+    Leo -> everyone: On stroke one now.
+    (Maya held a thought)
+[   79s] 1:00 asked Priya,Leo | dominoes 11 | calls 19
+    Priya -> everyone: Leo, I'll take the ear so you can stay on the spine. Keep going, everyone.
+[   91s] 1:15 asked Maya,Tom,Priya,Leo | dominoes 18 | calls 23
+    Priya -> everyone: Tom, you've already got the ear going, so keep it, I'll leave it to you. I'll take the trunk and front leg so we're not stepping on each other. Shout if you've already started on the trunk and I'll sw
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  106s] 1:30 asked Tom,Priya,Leo | dominoes 25 | calls 26
+    Tom -> everyone: Priya, shout-out: I'm already on the trunk, a few dominoes in, so can you grab the ear instead? That's the loop in the middle of the head. I'll keep going on the trunk and then come help with whatever
+    (Priya held a thought)
+    (Leo held a thought)
+[  113s] 1:45 asked Priya,Leo | dominoes 34 | calls 28
+    Leo -> everyone: Spine's done and connected. The two ends at the top look like they're climbing higher than the sketched back line. Tom, Maya, worth a quick look? I'll check the joints up there.
+    (Priya held [  123s] 2:[  126s] 2:00 asked Maya,Tom,Leo | dominoes 40 | calls 31
+    Tom -> everyone: Yeah, I see it, my side bows up higher than the sketch. It's all connected though, so I'll finish the trunk first and then look over the joints up there.
+    (Leo held a thought)
+    (Maya held a thought)
+[  133s] 2:15 asked Leo | dominoes 54 | calls 32
+    Leo -> everyone: Quick update on the top joints: they're all connected and the whole chain falls. The back sits a bit higher than the sketch, but it still reads as an elephant, so I wouldn't redo it. I'm going to[  445s] 2:30 asked Priya,Leo | dominoes 69 | calls 37
+    Leo -> everyone: Thanks Maya, but I'm already partway through the head and trunk, stroke 2, as well as the belly, so please don't start those again. Could you take the ear instead? Then I'll check for gaps once it's a
+    (Priya held a thought)
+[  462s] 2:45 asked Maya,Tom,Priya | dominoes 77 | calls 40
+    Tom -> everyone: Ear's laid on my side, Maya, so no need to start it. I'm going to check where it joins the head line, it looks a touch disconnected.
+    (Priya held a thought)
+    (Maya held a thought)
+[  470s] 3:00 asked Maya,Tom | dominoes 88 | calls 42
+    Maya -> everyone: Thanks Tom, ear's yours then. I'll finish the head and trunk, and Leo stays on the belly and legs. Once it's all down I'll check the joins.
+    (Tom held a thought)
+[  480s] 3:15 asked Tom,Priya,Leo | dominoes 95 | calls 45
+    Leo -> Maya: Maya, I've got the head and trunk, just a few left, so please leave those to me. There's an extra curve hanging under the back where you're working, and I don't think it's on the pad. Can you check it
+    Priya -> everyone: Okay, I've got the ear, so Maya, Tom, you don't need to touch it. Maya, finish the head and trunk. Leo, stay on the belly. I'm going to check where the belly meets the back leg on the right, since tha
+    (Tom held a thought)
+[  491s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 49
+    Tom -> everyone: Priya, I can't see the ear standing on the table yet, so I'll lay it now. You stay on the belly join on the right. Maya, if the head line's still got a gap at the top, shout.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  500s] 3:45 asked Maya,Priya | dominoes 115 | calls 51
+    Maya -> everyone: Thanks Leo, I see the extra curve under the back. I'm taking that stray bit down now, then I'll check the back still carries through.
+    (Priya held a thought)
+[  509s] 4:00 asked Maya,Leo | dominoes 123 | calls 53
+    Maya -> everyone: Stray bit's down. I'm checking the back still carries through, and that leftover pale line along it.
+[  519s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 123 | calls 57
+    Maya -> everyone: Found the break. The back doesn't quite reach the head at the top left, so the head and trunk aren't falling. I'm fixing that join now. Priya, Tom, you've got the ear and the belly join on the right.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  531s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 61
+    Tom -> everyone: Ear's down. The belly's still pale and it runs past the right leg instead of branching off it, so I'm laying stroke 4 again now. Leo, shout if you're already on it. Maya, once the head joins, can you 
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  542s] 4:45 asked Maya,Priya,Leo | dominoes 114 | calls 64
+    Maya -> everyone: Tom, the back does reach the head, so no fix needed there. I still don't see the ear standing, and you're on the belly, so I'm laying the ear now. Shout if it's already going down.
+    (Leo held a thought)
+    (Priya held a thought)
+[  560s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 68
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Tom, keep the belly, I'm leaving it. Maya, the back line isn't joined to the start line, so I'm connecting it there now. Then we need the head join at the top left sorted.
+    (Priya held a thought)
+    (Tom held a thought)
+[  567s] 5:15 asked Maya,Tom,Leo | dominoes 125 | calls 71
+    Tom -> everyone: Maya, you're right, I called the ear too soon, it's yours. I'm staying on the belly and I'll inspect the whole chain once it's down.
+    (Maya held a thought)
+    (Leo held a thought)
+[  582s] 5:30 asked Maya,Leo | dominoes 128 | calls 73
+    Leo -> everyone: Back's joined at the start now. It ends up at the top left though, short of the head. I'm connecting that end down into the head line now, so nobody redo the head.
+    (Maya held a thought)
+[  598s] 5:45 asked Maya | dominoes 134 | calls 74
+    Maya -> everyone: Leo, the dark back climbs up to the wrong spot at the top, so it's not reaching the head. I'm running a new line straight left from the dip along the back into the top of the head. Leave the head itse
+[  609s] 6:00 asked Priya,Leo | dominoes 127 | calls 76
+    Leo -> everyone: Fair, Maya, you're right. I'm stopping my join and taking down the rising bit at the top now. Your straight line into the head is the one to keep.
+    (Priya held a thought)
+[  624s] 6:15 asked Maya,Priya | dominoes 124 | calls 78
+    Priya -> everyone: Tom, I'm bridging from the right leg across to the belly's right end now, that's the gap. If you've already got dominoes going there, shout and I'll stop. Maya's on the back into the head.
+    (Maya held a thought)
+[  635s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 82
+    Tom -> everyone: Priya, go ahead with the bridge, I'm nearly done on the belly, just a few left. Once it's down I'll inspect the whole chain from the start.
+    (Maya held a thought)
+    (Leo held a thought)
+[  643s] 6:45 asked Maya,Priya,Leo | dominoes 125 | calls 85
+    Maya -> everyone: Head's still pale, so I'm joining the end of the back into the start of the head now. Leo, Tom, leave that spot to me.
+    (Leo held a thought)
+    (Priya held a thought)
+[  949s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 91
+    Priya -> everyone: Tom, the belly isn't catching from the right leg yet, so I'm joining it there and then running it across the gap to the little piece in the middle. Hold off on that stretch so we don't bump each other
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  960s] 7:15 asked Maya,Tom,Leo | dominoes 144 | calls 94
+    Maya -> everyone: Head's still pale, so I'm bridging the end of the back down into the head line now. Leave that spot to me.
+    (Tom held a thought)
+    (Leo held a thought)
+[  971s] 7:30 asked Tom,Leo | dominoes 153 | calls 96
+    Tom -> everyone: Priya, the belly stretch is yours. I'm bridging the little kink in the back, just right of the head, so the fall carries through to Maya's join.
+    (Leo held a thought)
+[  982s] 7:45 asked Maya,Priya,Leo | dominoes 164 | calls 99
+    Leo -> everyone: Inspection says only about half the table would fall right now. The head, trunk, ear and the belly with the legs are all still pale. Maya, keep going on the back into the head. Priya, the belly bridge
+    (Priya held a thought)
+[  992s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 173 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Belly's laid all the way across, but it's still pale at the right leg, so I'm closing that join now. Tom, Maya, keep on the back and head, and I'll shout if I need a hand.
+    (Maya held a thought)
+[ 1002s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 107
+    Maya -> everyone: Still bridging the back into the head, leave that spot to me. Once it's in I'll check the head and trunk falls.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[ 1009s] 8:30 asked Priya,Leo | dominoes 181 | calls 109
+    Priya -> everyone: Still pale at the right leg, so I'm nudging that join closed now. Tom, Maya, keep going on the back and head.
+[ 1016s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 185 | calls 113
+    Tom -> everyone: Back kink's bridged. I'm inspecting the chain from the start now, Maya, Priya, stay on your joins.
+    (Priya held a thought)
+    (Maya held a thought)
+[ 1027s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 190 | calls 117
+    Priya -> everyone: Right leg join, one last bridge into the belly. Tom, Maya, stay on the head.
+    Maya -> everyone: Nearly done on the head join, a few more to go. Once it's in, everyone hands off so nobody bumps anything before the push.
+    (Tom held a thought)
+[ 1038s] 9:15 asked Maya,Tom,Leo | dominoes 193 | calls 120
+    Tom -> everyone: Hands off, everyone, let Maya and Priya finish their joins. Don't touch anything else before the push.
+    Maya -> everyone: Almost in. Hands off the head, everyone, so nothing gets bumped before the push.
+[ 1046s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 194 | calls 124
+    Maya -> everyone: Three left on the head join, almost there. Hands off the head, everyone.
+    Priya -> everyone: Right leg bridge is in. I'm hands off now, Maya finish the head and then we all step back.
+[ 1052s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 194 | calls 128
+    Tom -> everyone: Looking good, team. Hands off and let Maya finish.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.79,
+      "error": 1.05
+    },
+    "Tom": {
+      "speed": 0.99,
+      "error": 0.56
+    },
+    "Priya": {
+      "speed": 1.53,
+      "error": 0.67
+    },
+    "Leo": {
+      "speed": 1.57,
+      "error": 0.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1108.6,
+  "intents": {
+    "Maya": "elephant",
+    "Tom": "elephant",
+    "Priya": "elephant",
+    "Leo": "elephant"
+  },
+  "team_intent": "elephant",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "river or stream with side branches",
+      "road or trail map route",
+      "hand-drawn curvy lines, not dominoes"
+    ],
+    [
+      "river or stream with a tributary",
+      "winding road or path on a map",
+      "hand-drawn squiggly line or cable"
+    ],
+    [
+      "river with tributaries",
+      "winding road or trail on a map",
+      "tree root or branching crack"
+    ]
+  ],
+  "placed": 194,
+  "fell": 84,
+  "completion": 0.433,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 9,
+    "Leo": 10,
+    "Maya": 16,
+    "Tom": 10
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 145,
+    "failed": 2,
+    "input_tokens": 298,
+    "cache_creation_tokens": 687349,
+    "cache_read_tokens": 453179,
+    "output_tokens": 82563,
+    "seconds": 1767.0,
+    "api_equivalent_usd": 3.4715,
+    "cached": 0
+  },
+  "client": "bookshop",
+  "client_best": "cat",
+  "notes": {
+    "Maya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+      "Someone said the owner's favourite book is about a fox."
+    ],
+    "Tom": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said it should look friendly and at rest: sitting or curled up, not hunting."
+    ],
+    "Priya": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said regulars bring treats for the shop cat every day."
+    ],
+    "Leo": [
+      "It's for the window of a children's bookshop.",
+      "They want something that feels calm and wise.",
+      "The client said they had an owl sign for years and really want a change from owls."
+    ]
+  },
+  "pitches": [
+    {
+      "name": "Maya",
+      "animal": "fox",
+      "why": "The owner's favourite book is about a fox, so it should delight them, and a fox can look calm and wise in a sleeping-curled or seated pose. Cat (Biscuit) is the runner-up, but the fox is the stronger personal tie and still reads clearly in dominoes.",
+      "matched": "fox",
+      "score": 0.3
+    },
+    {
+      "name": "Tom",
+      "animal": "owl",
+      "why": "An owl sitting calmly on a branch reads as wise and at rest, and it fits a children's bookshop perfectly. Its round eyes and compact body should also be easy for blind judges to recognise in dominoes.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Priya",
+      "animal": "owl",
+      "why": "An owl reads as calm and wise, and it suits a bookshop window. Its round eyes and ear tufts should also be easy for blind judges to recognise in dominoes. The shop cat is a fun detail, but my notes only say regulars bring it treats, so I'd weigh it against what my teammates know before choosing a cat.",
+      "matched": "owl",
+      "score": 0.0
+    },
+    {
+      "name": "Leo",
+      "animal": "elephant",
+      "why": "Elephants read as calm and wise, suit a children's bookshop, and are easy for blind judges to recognise by their trunk and big ears. It also avoids the owl the client wants a change from.",
+      "matched": "elephant",
+      "score": 0.3
+    }
+  ],
+  "taste_ranking_worst_first": [
+    "Priya",
+    "Tom",
+    "Leo",
+    "Maya"
+  ],
+  "client_score": 0.3,
+  "client_matched": "elephant",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client said they had an owl sign for years and really want a change from owls.",
+        "rumour": false,
+        "holders": [
+          "Leo"
+        ],
+        "said": true,
+        "at": 15,
+        "by": "Leo"
+      },
+      {
+        "fact": "The client told you the shop cat, Biscuit, sleeps in the window and is famous in the neighbourhood.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said regulars bring treats for the shop cat every day.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said it should look friendly and at rest: sitting or curled up, not hunting.",
+        "rumour": false,
+        "holders": [
+          "Tom"
+        ],
+        "said": true,
+        "at": 105,
+        "by": "Tom"
+      },
+      {
+        "fact": "Someone said the owner's favourite book is about a fox.",
+        "rumour": true,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 2,
+    "unique_total": 4
+  },
+  "decision": "dictator",
+  "dictator": "Priya",
+  "decided": "elephant",
+  "decision_open_at": 0.0
+}
+"dictator",
+  "dictator": "Priya",
+  "decided": "elephant",
+  "decision_open_at": 0.0
+}
