@@ -1,0 +1,159 @@
+[  311s] 0:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 0 | calls 11
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Grace -> everyone: Let's do a fish, side view, nose on the left and a big triangle tail on the right. I'll sketch it on the pad now, then we can split up the strokes.
+    (Omar held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  331s] 0:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 0 | calls 20
+    Jack -> everyone: Grace, great call, fish it is! I already had the pad in hand, so I've sketched it: nose on the left, body splitting over the top and bottom, and a V tail on the right. I'm taking stroke 1, the top of 
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  354s] 0:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 4 | calls 30
+    Hana -> everyone: Nice sketch, Jack. Heads up: the start is up at the tail, so the short stroke from the start down to the fork, number 3, has to go down first or 1, 2 and 4 have nothing to hang off. I've got 3 now. So
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Omar held a thought)
+[  660s] 0:45 asked Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 8 | calls 39
+    Sofia -> everyone: Nice sketch, Jack! Maya's on 3, so I've got 4, the lower tail. Can someone grab 2, the belly?
+    Sam -> everyone: Maya and Hana have 3 covered. I'll take 4, the lower tail. Someone grab 2, the belly.
+    (Hana held a thought)
+    (Leo held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  670s] 1:00 asked Maya,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 21 | calls 47
+    Jack -> everyone: Thanks Hana, Maya, good catch! Sofia and Sam, you both said 4, so Sam, how about you take 2, the belly, and Sofia keeps the lower tail? Leo and Priya, if you're free, grab the eye or help join things 
+    (Maya held a thought)
+    (Omar held a thought)
+    (Sam held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+[  683s] 1:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 35 | calls 55
+    Grace -> Sofia: Sofia, quick check on the lower tail. The little line you've got pointing straight down looks like it's heading the wrong way. It should leave the fork and sweep out to the lower right, toward the tai
+    Priya -> everyone: Sure, Jack. Looks like Tom's already on the belly, so I'll stay off that. I'll keep my hands free and check the joints at the tail fork as the lines get there.
+    (Sam held a thought)
+    (Hana held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  697s] 1:30 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 48 | calls 65
+    Sofia -> Grace: Thanks Grace! I'm still mid-trace on the lower tail, so that down-pointing bit is just where it leaves the fork. I'll check it once it's done, and if it doesn't sweep out to the lower right I'll re-tr
+    Hana -> everyone: Sofia, quick look at the lower tail. Right under the fork it goes straight down and then turns right, but on the pad it should run diagonally down and to the right, like the upper fin mirrored. Can yo
+    (Sam held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  712s] 1:45 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 60 | calls 74
+    Sam -> everyone: On it, Hana. I'll look at the fork joints first, since Jack's top run doesn't seem to be hooked to the line yet. Then I'll push the top toward the nose.
+    (Grace held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+    (Leo held a thought)
+[  722s] 2:00 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 69 | calls 83
+    Grace -> everyone: Quick update: I looked closer and the lower tail is fine. It does sweep out to the lower right, so Sofia, no need to re-trace, just carry it on to the tip. Sam, thanks for taking the fork. Jack's top 
+    (Sofia held a thought)
+    (Sam held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Omar held a thought)
+[ 1029s] 2:15 asked Maya,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 82 | calls 92
+    Leo -> Jack: Jack, I'm free. Want me to take the nose end of the top line, from the bend near the nose back toward you, so we meet in the middle? Otherwise I'll stay off your hands and check the joints once Sam cl
+    Sam -> everyone: Closing the gap where the top line meets the fork now. Jack, keep going toward the nose.
+    (Omar held a thought)
+    (Maya held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Priya held a thought)
+[ 1043s] 2:30 asked Maya,Priya,Leo,Sofia,Omar,Jack,Grace | dominoes 96 | calls 99
+    Leo -> Jack: Jack, I'll stay off your hands. I'm checking the nose end now and can take the bend there if you want to hand it over.
+    Jack -> everyone: Thanks Sam for the fork, and thanks Grace! Leo, kind of you, but I've got the top line rolling and two of us on one stroke would clash. Could you add an eye near the front of the head? I'll put it on 
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+[ 1059s] 2:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Jack,Sam,Grace | dominoes 103 | calls 108
+    Leo -> Jack: Sure, I'll take the eye. Just put it on the pad when you can, and I'll hang it off the belly line near the nose so it's actually connected to the run.
+    Grace -> everyone: Hana, what's that little curl in the middle of the body, just left of the fork? It isn't on the sketch, and it would mess up the fish outline if it falls. If it's meant to be the eye, it belongs up ne
+    (Priya held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+[ 1073s] 3:00 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam,Grace | dominoes 114 | calls 118
+    Leo -> Jack: Jack, I see a 5 near the head on the pad. Is that the eye? I'll look at the nose area first, then trace it once I know it hangs off a connected line.
+    Grace -> everyone: Hana, Sam, I think you're both on pieces that aren't in the sketch. There's that curl in the middle of the body, and Sam, a little spur hanging down off the belly near you. If they stay connected, the
+    (Hana held a thought)
+    (Tom held a thought)
+    (Jack held a thought)
+    (Sam held a thought)
+    (Omar held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+    (Sofia held a thought)
+[ 1087s] 3:15 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Jack,Sam | dominoes 109 | calls 127
+    Leo -> Jack: Jack, is 5 the eye or the short bend at the nose joining the top line? It looks like the bend to me, from the nose up toward where your line is heading. If it's the bend, I'll leave it to you. For the
+    Hana -> everyone: Grace, the curl isn't mine, I'm just closing the gap at the fork. It and that spur hanging off the belly look like the same branch coming up from where Sam's working. Sam, can you pull both out? They'
+    (Tom held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Priya held a thought)
+[ 1098s] 3:30 asked Maya,Tom,Priya,Leo,Omar,Hana,Jack,Sam,Grace | dominoes 118 | calls 136
+    Jack -> everyone: Leo, you're right, my mistake. 5 is the bend at the nose joining the belly up to the top line, not the eye. Please take it and trace it. I'm handing you the pad, so if you want an eye, sketch a tiny o
+    (Leo held a thought)
+    (Grace held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+    (Sam held a thought)
+    (Tom held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[ 1120s] 3:45 asked Maya,Tom,Priya,Leo,Sofia,Omar,Hana,Sam,Grace | dominoes 129 | calls 146
+    Grace -> everyone: Jack, the start only knocks over a couple of dominoes right now. It faces down, but the top line begins up and to the left of it, so the first hook never happens. Can you close that joint right at the
+    (Omar held a thought)
+    (Hana held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+    (Sam held a thought)
+    (Maya held a thought)
+    (Sofia held a thought)
+[ 1134s] 4:00 asked Maya,Tom,Leo,Sofia,Hana,Jack,Sam | dominoes 131 | calls 153
+    Sam -> everyone: Pulling the curl out of the middle of the body now. Jack, the start faces down but your top line begins up and left of it, so that joint needs closing.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+    (Tom held a thought)

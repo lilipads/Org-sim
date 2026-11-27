@@ -1,0 +1,146 @@
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.26,
+      "error": 1.67
+    },
+    "Tom": {
+      "speed": 1.02,
+      "error": 1.55
+    },
+    "Priya": {
+      "speed": 1.27,
+      "error": 1.85
+    },
+    "Leo": {
+      "speed": 0.67,
+      "error": 1.78
+    },
+    "Sofia": {
+      "speed": 1.55,
+      "error": 1.02
+    },
+    "Omar": {
+      "speed": 1.17,
+      "error": 1.11
+    },
+    "Hana": {
+      "speed": 0.73,
+      "error": 0.94
+    },
+    "Jack": {
+      "speed": 1.51,
+      "error": 1.52
+    },
+    "Sam": {
+      "speed": 1.08,
+      "error": 1.09
+    },
+    "Grace": {
+      "speed": 1.47,
+      "error": 1.0
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1073.2,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a forked tail",
+      "leaf or seed shape",
+      "bird or flying creature"
+    ],
+    [
+      "fish with forked tail",
+      "leaf on a stem",
+      "boat hull with sail"
+    ],
+    [
+      "fish with a forked tail",
+      "leaf on a stem",
+      "bird or sea creature in profile"
+    ]
+  ],
+  "placed": 119,
+  "fell": 119,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 66,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 2,
+    "Sofia": 11,
+    "Hana": 6,
+    "Omar": 4,
+    "Tom": 12,
+    "Grace": 1,
+    "Maya": 5,
+    "Priya": 10,
+    "Sam": 6,
+    "Jack": 6
+  },
+  "held_thoughts": 234,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 399,
+    "failed": 2,
+    "input_tokens": 788,
+    "cache_creation_tokens": 2079069,
+    "cache_read_tokens": 1239513,
+    "output_tokens": 186464,
+    "seconds": 3677.4,
+    "api_equivalent_usd": 10.2054,
+    "cached": 6
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

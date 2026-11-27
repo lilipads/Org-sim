@@ -323,3 +323,149 @@
     Maya -> everyone: Here we go, fingers crossed!
     Tom -> everyone: Here we go, fingers crossed!
     (Omar held a thought)
+{
+  "size": 10,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo",
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack",
+    "Sam",
+    "Grace"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.36,
+      "error": 0.63
+    },
+    "Tom": {
+      "speed": 1.13,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 0.75,
+      "error": 0.83
+    },
+    "Leo": {
+      "speed": 1.28,
+      "error": 1.08
+    },
+    "Sofia": {
+      "speed": 1.25,
+      "error": 1.63
+    },
+    "Omar": {
+      "speed": 1.0,
+      "error": 1.74
+    },
+    "Hana": {
+      "speed": 0.75,
+      "error": 0.97
+    },
+    "Jack": {
+      "speed": 0.82,
+      "error": 1.45
+    },
+    "Sam": {
+      "speed": 0.78,
+      "error": 1.65
+    },
+    "Grace": {
+      "speed": 0.64,
+      "error": 1.24
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1127.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish",
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish",
+    "Sam": "fish",
+    "Grace": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a tangled tail",
+      "leaf or seed pod with scribbled roots",
+      "eye shape with messy lashes"
+    ],
+    [
+      "fish with a scribbled tail",
+      "leaf with tangled roots or stem",
+      "bird in flight with ruffled feathers"
+    ],
+    [
+      "fish with a tangled, scribbled tail or fins",
+      "leaf with a messy scribbled stem",
+      "eye with a tangle of lashes"
+    ]
+  ],
+  "placed": 222,
+  "fell": 208,
+  "completion": 0.937,
+  "team_score": 0.625,
+  "first_domino_at": "0:30",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 10,
+    "Leo": 4,
+    "Hana": 8,
+    "Jack": 3,
+    "Tom": 9,
+    "Sam": 5,
+    "Grace": 7,
+    "Omar": 3,
+    "Priya": 3,
+    "Maya": 2
+  },
+  "held_thoughts": 228,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0,
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0,
+    "Sam": 0,
+    "Grace": 0
+  },
+  "usage": {
+    "calls": 366,
+    "failed": 3,
+    "input_tokens": 738,
+    "cache_creation_tokens": 1947082,
+    "cache_read_tokens": 1107300,
+    "output_tokens": 180911,
+    "seconds": 3709.8,
+    "api_equivalent_usd": 9.5679,
+    "cached": 0
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
