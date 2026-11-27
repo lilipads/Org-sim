@@ -1,0 +1,203 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 17,
+   "fixes": 0,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 8
+  },
+  "Omar": {
+   "sound_work": 35,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 1
+  },
+  "Hana": {
+   "sound_work": 23,
+   "fixes": 0,
+   "open_breaks_owned": 2,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 38
+  },
+  "Jack": {
+   "sound_work": 38,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 3
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 3,
+   "to": 138,
+   "owner": "Sofia",
+   "stranded": 42,
+   "dir": 341.5,
+   "piece": [
+    9,
+    10,
+    16,
+    17,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    36,
+    37,
+    38,
+    39,
+    45,
+    46,
+    47,
+    48,
+    54,
+    55,
+    56,
+    57,
+    63,
+    64,
+    65,
+    66,
+    70,
+    71,
+    72,
+    73,
+    84,
+    85,
+    86,
+    87,
+    93,
+    94,
+    96,
+    97,
+    98,
+    99,
+    126,
+    138
+   ],
+   "at": [
+    5.0,
+    9.5
+   ]
+  },
+  {
+   "from": 101,
+   "to": 117,
+   "owner": "Hana",
+   "stranded": 22,
+   "dir": 300.9,
+   "piece": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    150,
+    151,
+    152,
+    160,
+    161,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    222
+   ],
+   "at": [
+    26.0,
+    9.6
+   ]
+  },
+  {
+   "from": 102,
+   "to": 184,
+   "owner": "Hana",
+   "stranded": 25,
+   "dir": 281.5,
+   "piece": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    150,
+    151,
+    152,
+    160,
+    161,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    195,
+    221,
+    222
+   ],
+   "at": [
+    26.3,
+    8.7
+   ]
+  }
+ ],
+ "fixes": [],
+ "weights": {
+  "5": {
+   "Sofia": 12,
+   "Omar": 35,
+   "Hana": 13,
+   "Jack": 38
+  },
+  "10": {
+   "Sofia": 7,
+   "Omar": 35,
+   "Hana": 3,
+   "Jack": 38
+  },
+  "20": {
+   "Sofia": -3,
+   "Omar": 35,
+   "Hana": -17,
+   "Jack": 38
+  }
+ },
+ "contribution": {
+  "Sofia": 7,
+  "Omar": 35,
+  "Hana": 3,
+  "Jack": 38
+ },
+ "with_planning": {
+  "Sofia": 7.0,
+  "Omar": 35.0,
+  "Hana": 3.0,
+  "Jack": 66.2
+ }
+}

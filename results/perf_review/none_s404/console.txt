@@ -1,0 +1,268 @@
+[   83s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Let's do a fish, a big body and a clear forked tail, easy to recognise. I'm grabbing the pad and sketching it now. Give me a few seconds, then I'll shout out who takes which stroke!
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[   91s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 8
+    Hana -> everyone: Fish works for me, Jack. Once it's on the pad, I'll take stroke 1 from the start along the top of the body. Sofia, Omar, grab the belly and tail strokes when Jack calls them out. Keep it all connected
+    (Sofia held a thought)
+    (Omar held a thought)
+[  103s] 0:30 asked Sofia,Omar,Jack | dominoes 0 | calls 11
+    Jack -> everyone: Fish is on the pad! Hana, stroke 1 is yours: from the nose along the top of the body to the tail. I'll take the belly, stroke 2. Sofia, you take the upper tail lobe, stroke 3. Omar, the lower lobe, st
+    (Sofia held a thought)
+    (Omar held a thought)
+[  116s] 0:45 asked Sofia,Omar,Hana | dominoes 3 | calls 15
+    Sofia -> everyone: Got it, Jack, I've got the upper tail lobe. Starting now.
+    Omar -> everyone: Got it Jack, I'll take the lower tail lobe, stroke 4.
+    (Hana held a thought)
+[  122s] 1:00 asked Jack | dominoes 15 | calls 16
+    Jack -> everyone: Brilliant, thanks Sofia, Omar! Hana's on the top of the body, I'm on the belly. Shout if anything snaps, and I'll check the whole chain once the tail is in.
+[  128s] 1:15 asked Sofia,Omar,Hana | dominoes 24 | calls 19
+    Hana -> Jack: I'm on the top of the body now. Jack, we're working close together at the nose, so shout if you knock anything and I'll stand it back up.
+    Sofia -> everyone: Thanks Jack! I'm on the upper tail lobe and ready to lay it as soon as Hana's line reaches the tail. I'll check the joint once it's in.
+    (Omar held a thought)
+[  135s] 1:30 asked Hana,Jack | dominoes 37 | calls 21
+    Jack -> everyone: Will do, Hana, I'll shout if I bump anything. Nice speed on the top line! Belly's coming along underneath. Sofia, Omar, lay the tail lobes as soon as the body lines reach the tail.
+    (Hana held a thought)
+[  146s] 1:45 asked Sofia,Omar,Hana | dominoes 47 | calls 24
+    Hana -> Jack: Thanks Jack. Top line's nearly at the tail, a few more to go. Heads up though: from the start only the first few are falling, and both our lines look pale right after the split by the nose. Can you ch
+    Sofia -> everyone: Thanks Jack, I'm ready on the upper tail lobe and will lay it the moment Hana's line gets there. One thing: right near the start, where the top line and belly split off, those still look pale to me, s
+    (Omar held a thought)
+[  155s] 2:00 asked Hana,Jack | dominoes 51 | calls 26
+    Jack -> everyone: Good catch, both of you! I'll look at the joint by the nose now. My first belly domino might be sitting off the chain. Hana, keep going on the top, and I'll sort out the belly side.
+    (Hana held a thought)
+[  165s] 2:15 asked Hana,Jack | dominoes 69 | calls 28
+    Hana -> everyone: Top line's finished and it reaches the tail, so Sofia and Omar, go ahead with the lobes. Jack, I'm looking at the joint by the nose now. Can you hold off on the belly start for a moment so we don't bu
+    (Jack held a thought)
+[  176s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 84 | calls 32
+    Jack -> everyone: Sure thing, Hana, nose is all yours, I'm backing off. I'll go check the tail joint where Sofia and Omar are laying the lobes. Shout when the nose is done and I'll re-check the whole chain from the sta
+    (Hana held a thought)
+    (Omar held a thought)
+    (Sofia held a thought)
+[  191s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 36
+    Hana -> Jack: Jack, I'm clearing a few stray dominoes by the nose and then joining the top line into the chain. Please keep your hands off that spot for a bit. Once it's done, check whether the whole body lights up
+    Jack -> everyone: Tail joint looks good, nice work Sofia and Omar! My belly only got halfway, so I'm carrying it on to the tail now. Hana, the start run seems to overshoot the top line a bit, and the belly start is sti
+    (Sofia held a thought)
+    (Omar held a thought)
+[  199s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 128 | calls 40
+    Sofia -> everyone: Thanks Hana, Jack. I'm nearly done with the upper lobe, just a few left. You two have the nose; the dark line there seems to run past where the top line starts, so check that bit. I'll inspect the who
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  211s] 3:15 asked Sofia,Hana,Jack | dominoes 142 | calls 43
+    Hana -> Jack,Sofia: Nose is mine, Jack. I'm tying the top line in now, then the belly start. Stay off that spot a moment please, and I'll shout when it's done so we can check the whole chain from the start.
+    Sofia -> everyone: Upper lobe's in. I'm inspecting the nose now, since the start still only knocks a handful. Hana, Jack, tell me if you've already fixed it.
+    (Jack held a thought)
+[  228s] 3:30 asked Sofia,Hana,Jack | dominoes 151 | calls 46
+    Hana -> Sofia: Sofia, I'm one domino off finishing both joins at the nose, so hold off a second. Once they're in I'll check the whole chain from the start and shout what I find.
+    Sofia -> everyone: Hana, I checked the nose. Two spots. The dark run overshoots and its end turns too sharply, up where the top line starts. Just ahead of that, a connector into the first domino of the top line should f
+    (Jack held a thought)
+[  240s] 3:45 asked Sofia,Hana | dominoes 154 | calls 48
+    Hana -> everyone: Sofia, you're right about the overshoot. I'm taking down the last few dominoes of the dark run past the top line start, then I'll link it in. Staying on the nose a bit longer. Jack, belly looks lit no
+    (Sofia held a thought)
+[  250s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 172 | calls 52
+    Sofia -> everyone: Okay Hana, nose is yours, I'm staying off it. I looked over the tail and found two weak spots in my upper lobe, at the far tip and down by the notch in the middle. I'm fixing those now.
+    (Hana held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  260s] 4:15 asked Sofia,Omar,Hana | dominoes 181 | calls 55
+    Hana -> everyone: Overshoot's gone. I'm linking the dark run into the top line now. Stay off the nose for a moment, then I'll check the whole chain.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  273s] 4:30 asked Sofia,Omar,Jack | dominoes 183 | calls 59
+    Jack -> everyone: Thanks Hana, staying off the nose. Belly's in and reaches the tail. I'm checking the tail joint and the lower lobe now, Omar, shout if you need a hand there.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  432s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 159 | calls 64
+    Jack -> everyone: Found two weak spots at the tail: the joint where the belly meets the fork is jammed, and there's a gap in the notch between the two lobes. I'm fixing both now. Omar, Sofia, stay clear for a moment so
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  445s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 167 | calls 68
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: The gap by the notch is too big to patch, so I'm laying the lower lobe again from the pad. Omar, Sofia, stay clear of the tail for a minute so we don't bump each other. Then we check the whole run fro
+    (Omar held a thought)
+    (Hana held a thought)
+    (Sofia held a thought)
+[  457s] 5:15 asked Sofia,Omar,Jack | dominoes 190 | calls 71
+    Omar -> everyone: Jack, heads up, I'm the one re-laying the lower lobe from the pad, so you can leave that to me and just keep on the notch joint. I'll shout when it's in.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  467s] 5:30 asked Sofia,Omar,Jack | dominoes 194 | calls 74
+    Jack -> everyone: Got it Omar, the lower lobe is all yours, I'm staying off it. Hana, the top of the body still looks pale just past the nose, the line turns too sharply right where you're working. Can you link it in? 
+    (Sofia held a thought)
+    (Omar held a thought)
+[  476s] 5:45 asked Sofia,Omar,Hana,Jack | dominoes 203 | calls 78
+    Sofia -> everyone: Hana, I'm taking the top-line link now: from where the dark run ends up to the start of the pale top line, just past the nose. Stay clear of that spot for a moment so we don't bump each other, then le
+    (Hana held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  487s] 6:00 asked Hana,Jack | dominoes 214 | calls 80
+    Hana -> everyone: Sofia, heads up, I'd already laid a link from the dark run end up into the top line just before you said that. Check whether that one lights up before adding another. I'm staying off the nose. Shout w
+    (Jack held a thought)
+[  497s] 6:15 asked Sofia,Jack | dominoes 219 | calls 82
+    Sofia -> everyone: Hana, my link is in too. I'm taking a close look at the spot just past the nose to see if the top line lights up. Stay clear for a few seconds.
+    (Jack held a thought)
+[  506s] 6:30 asked Sofia,Hana,Jack | dominoes 224 | calls 85
+    Sofia -> everyone: Still pale past the nose, so I'm adding one more short link into the start of the top line. Staying right there, everyone else keep clear.
+    (Jack held a thought)
+    (Hana held a thought)
+[  517s] 6:45 asked Sofia,Hana,Jack | dominoes 229 | calls 88
+    Sofia -> everyone: Link didn't fit, dominoes too crowded there. Taking a close look at the top line start now, so please stay clear of it.
+    (Hana held a thought)
+    (Jack held a thought)
+[  529s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 223 | calls 92
+    Sofia -> everyone: Too crowded to link there. I'm clearing a few stray dominoes just past the nose, then I'll connect straight into the top line. Please stay clear of it.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  548s] 7:15 asked Omar,Hana,Jack | dominoes 236 | calls 95
+    Hana -> everyone: Sofia, I'm staying off the nose. I'm closing the break where the upper lobe leaves the fork at the tail, since it's still pale. Jack, shout if you're already on that joint.
+    (Omar held a thought)
+    (Jack held a thought)
+[  555s] 7:30 asked Sofia,Hana,Jack | dominoes 245 | calls 98
+    Jack -> everyone: Hana, that's the exact joint I'm on, three dominoes from done. Stay off it a sec so we don't bump, then take a look at the nose with Sofia. Two minutes left, we've got this!
+    (Hana held a thought)
+    (Sofia held a thought)
+[  562s] 7:45 asked Sofia,Hana | dominoes 249 | calls 100
+    Sofia -> everyone: Link's in past the nose. I'm checking if the top line lights up now, so please stay clear for a few seconds.
+    (Hana held a thought)
+[  574s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 104
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Sofia, I've looked closely and it's still off just past the nose: one domino in the link sits to the side of the path, so the fall can't pass. Nudge or take down that one domino and let the dark end r
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[  583s] 8:15 asked Sofia,Jack | dominoes 250 | calls 106
+    Jack -> everyone: On it, Hana, the fork is mine. One domino there sits off the path, so I'm nudging it into line so the upper lobe lights up. Everyone stay clear of the tail for a few seconds!
+    (Sofia held a thought)
+[  593s] 8:30 asked Sofia,Hana,Jack | dominoes 250 | calls 109
+    Jack -> everyone: Nudge didn't light it, so I'm taking a close look at the fork. Keep clear of the tail for a few seconds!
+    (Sofia held a thought)
+    (Hana held a thought)
+[  603s] 8:45 asked Sofia,Hana,Jack | dominoes 243 | calls 112
+    Sofia -> everyone: Out of dominoes, so I'm pulling the stray pale lines up top to free some, then closing the nose link. Stay clear of the nose!
+    (Hana held a thought)
+    (Jack held a thought)
+[  614s] 9:00 asked Sofia,Hana,Jack | dominoes 250 | calls 116
+    Hana -> everyone: Sofia, I freed up some dominoes below the nose. I'm bridging the dark end into the top line now, so stay clear of it.
+    Sofia -> everyone: Got a few dominoes back. Closing the nose link now, so keep clear of it!
+    (Jack held a thought)
+[  623s] 9:15 asked Sofia,Hana,Jack | dominoes 244 | calls 119
+    Hana -> Sofia: Sofia, I'm clearing the pale stray line under the belly to free dominoes for your link. I'm staying off the nose.
+    Jack -> everyone: Fork's lit, both lobes dark. Sofia, Hana, the nose link is the last piece, go for it. I'm hands off the table. Great work, everyone!
+    (Sofia held a thought)
+[  629s] 9:30 asked Sofia,Omar,Hana | dominoes 247 | calls 122
+    Hana -> Sofia: Sofia, I've freed a few more under the belly, nose link is yours. Hands off from me.
+    Sofia -> everyone: Hana, I'm finishing the nose link right now, so stay on the fork and tail. Keep clear of the nose!
+    (Omar held a thought)
+[  636s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 250 | calls 126
+    Jack -> everyone: Almost there, Sofia and Hana! Hands off from me, go go go. Great teamwork, everyone!
+    Omar -> everyone: Lower lobe's in and lit, notch bridge is done. I'm hands off, so nobody bump the tail. Looking good, folks!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 694.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming left",
+      "bird in flight",
+      "ribbon or bow loops"
+    ],
+    [
+      "a fish with a forked tail",
+      "a bird or swan in flight",
+      "a loose cursive scribble or loop-de-loop line"
+    ],
+    [
+      "a fish swimming left, with a forked tail on the right",
+      "a bird or swan with a curved neck and wing",
+      "a handwritten flourish or signature"
+    ]
+  ],
+  "placed": 250,
+  "fell": 142,
+  "completion": 0.568,
+  "team_score": 0.568,
+  "first_domino_at": "0:45",
+  "messages": 53,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 16,
+    "Hana": 15,
+    "Sofia": 16,
+    "Omar": 3
+  },
+  "held_thoughts": 69,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 2,
+    "input_tokens": 300,
+    "cache_creation_tokens": 747401,
+    "cache_read_tokens": 433239,
+    "output_tokens": 92890,
+    "seconds": 1340.6,
+    "api_equivalent_usd": 3.8137,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

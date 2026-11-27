@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 438.0,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "four-legged animal outline, like a horse or dog",
+      "snake or serpent curving across the page",
+      "creature with a tufted tail or mane"
+    ],
+    [
+      "a serpent or dragon with a head at left and a splayed tail at right",
+      "a long curved line of dominoes falling in a wave",
+      "a giraffe or horse neck and head reaching left"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "serpent or dragon with a raised head",
+      "long-necked bird with a wing"
+    ]
+  ],
+  "placed": 238,
+  "fell": 106,
+  "completion": 0.445,
+  "team_score": 0.0,
+  "first_domino_at": "0:45",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 17,
+    "Hana": 8,
+    "Sofia": 9,
+    "Omar": 8
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 137,
+    "failed": 0,
+    "input_tokens": 286,
+    "cache_creation_tokens": 690033,
+    "cache_read_tokens": 414784,
+    "output_tokens": 68963,
+    "seconds": 1065.1,
+    "api_equivalent_usd": 3.3561,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 24
+    },
+    "Omar": {
+      "dominoes_fell": 52
+    },
+    "Hana": {
+      "dominoes_fell": 27
+    },
+    "Jack": {
+      "dominoes_fell": 3
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

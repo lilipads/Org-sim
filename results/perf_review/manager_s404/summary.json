@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 491.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish swimming to the right",
+      "fish outline with a forked tail",
+      "fish shape drawn with a single line"
+    ],
+    [
+      "fish with a forked tail",
+      "fish outline, body and tail crossing",
+      "leaf or bird-like curved shape"
+    ],
+    [
+      "fish outline",
+      "fish symbol (ichthys-like)",
+      "leaf or lemon shape"
+    ]
+  ],
+  "placed": 115,
+  "fell": 111,
+  "completion": 0.965,
+  "team_score": 0.965,
+  "first_domino_at": "0:30",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Manager": 5,
+    "Jack": 12,
+    "Hana": 8,
+    "Omar": 7
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 148,
+    "failed": 0,
+    "input_tokens": 308,
+    "cache_creation_tokens": 763524,
+    "cache_read_tokens": 436168,
+    "output_tokens": 70936,
+    "seconds": 1154.4,
+    "api_equivalent_usd": 3.6741,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 4,
+      "why": "She chose the fish design, set the plan, divided the strokes clearly, and did the curve and crossing work, and her self-report was accurate and matched what I saw. Her weaknesses are locking the design too early, leaving the eye unbuilt with 135 dominoes unused, and reasoning about the nose joint instead of inspecting it."
+    },
+    "Omar": {
+      "rating": 3,
+      "why": "He built a clean bottom curve and closed the crossing gap, and he owned the spike mistake honestly and stopped adding risk once time was short. However, his gap-closing likely created the spike and stubs that Hana had to clean up, he never inspected the crossing himself, and he did little to help others once his stroke was done."
+    },
+    "Hana": {
+      "rating": 4,
+      "why": "She diagnosed and bridged the nose joint, built the lower tail fin, and removed the stray spike, which Omar's account and the picture both support, and she coordinated well with Jack and Omar. She was sloppy in declaring the spike gone too early and left the stubs standing, but her self-report was candid and she was strongest on follow-through and collaboration."
+    },
+    "Jack": {
+      "rating": 3,
+      "why": "He laid the upper tail fin, kept ownership lines clear, gave accurate summaries, and credited teammates correctly, though he omitted the nose stub. He twice said he'd fix the nose joint without finding the gap, spent time on repeated status messages, and didn't take on the eye or other work once his fin was done."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

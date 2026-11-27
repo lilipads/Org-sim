@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "organiser",
+  "Omar": "builder",
+  "Hana": "checker",
+  "Jack": "connector"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.04,
+   "error": 0.72
+  },
+  "Omar": {
+   "speed": 0.96,
+   "error": 1.97
+  },
+  "Hana": {
+   "speed": 2.22,
+   "error": 2.42
+  },
+  "Jack": {
+   "speed": 0.78,
+   "error": 0.46
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "Laid the whole bottom line, nudged the stray domino into line at the junction, and communicated clearly, though his line lagged behind at first."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Built the upper tail fork, ran thorough inspections and kept everyone coordinated, though the proposal to take down the upper fork's line caused a brief scare."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Supportive and communicative, offered to take the lower tail fork and checked the nose end, but did less actual building than the others and mostly cheered and repeated status."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia picked a clear, recognizable fish, laid out the plan on the pad with numbered strokes, delegated cleanly, built the top line quickly, and verified the whole run from nose to tail."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Hana built the upper tail fork reliably, inspected the junction and forks carefully, and stayed out of others' corners, though she nearly removed part of the fish while chasing a stray."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack was a positive, supportive teammate who took the lower tail fork, flagged the off-line domino at the junction, and kept the team coordinated, though his hands-on contribution was smaller than others'."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked a clear fish, drew a usable plan on the pad with numbered strokes and assigned them, laid the top line, and did the whole-table check, which kept everything connected."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "His bottom line started slowly, but he finished it, nudged the stray domino at the junction into line, and checked the stray line over the tail before the push."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He took the lower tail fork, spotted the off-line domino at the junction and checked the nose end, though a lot of his contribution was encouragement."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked a clear, recognisable fish, put a usable plan on the pad with numbered strokes, assigned everyone a job, and did the whole-table checks that confirmed the run connected from nose to tail."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He laid the bottom line up to the tail, nudged the stray domino at the junction into line, and communicated clearly, though his line ran behind the top one for a while."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She finished the upper tail fork quickly, inspected the run carefully, and stayed out of others' corners to avoid bumps, though her stray-domino worry briefly risked removing part of the fish."
+   }
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0
+  },
+  "Omar": {
+   "rating": 4.0
+  },
+  "Hana": {
+   "rating": 4.0
+  },
+  "Jack": {
+   "rating": 4.0
+  }
+ }
+}

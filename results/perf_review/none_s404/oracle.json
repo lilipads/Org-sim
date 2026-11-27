@@ -1,0 +1,162 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 20,
+   "fixes": 2,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 9
+  },
+  "Omar": {
+   "sound_work": 21,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 7
+  },
+  "Hana": {
+   "sound_work": 4,
+   "fixes": 0,
+   "open_breaks_owned": 2,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 20
+  },
+  "Jack": {
+   "sound_work": 40,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 6,
+   "to": 140,
+   "owner": "Hana",
+   "stranded": 35,
+   "dir": 347.2,
+   "piece": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    48,
+    49,
+    50,
+    51,
+    140,
+    257
+   ],
+   "at": [
+    6.3,
+    9.8
+   ]
+  },
+  {
+   "from": 18,
+   "to": 220,
+   "owner": "Hana",
+   "stranded": 7,
+   "dir": 338.5,
+   "piece": [
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    312
+   ],
+   "at": [
+    10.6,
+    6.1
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "8:00",
+   "who": "Sofia",
+   "at": [
+    11.0,
+    7.1
+   ],
+   "gap_owner": "Hana"
+  },
+  {
+   "clock": "9:00",
+   "who": "Sofia",
+   "at": [
+    11.0,
+    7.1
+   ],
+   "gap_owner": "Hana"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 30,
+   "Omar": 21,
+   "Hana": -6,
+   "Jack": 40
+  },
+  "10": {
+   "Sofia": 40,
+   "Omar": 21,
+   "Hana": -16,
+   "Jack": 40
+  },
+  "20": {
+   "Sofia": 60,
+   "Omar": 21,
+   "Hana": -36,
+   "Jack": 40
+  }
+ },
+ "contribution": {
+  "Sofia": 40,
+  "Omar": 21,
+  "Hana": -16,
+  "Jack": 40
+ },
+ "with_planning": {
+  "Sofia": 40.0,
+  "Omar": 21.0,
+  "Hana": -16.0,
+  "Jack": 61.2
+ }
+}

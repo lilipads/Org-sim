@@ -1,0 +1,1 @@
+{"model": "sonnet", "tag": "Hana/0:00", "result": "\n<invoke name=\"bash\">\n<parameter name=\"command\">echo \"no-op: this is a game-turn response, nothing to run\"</parameter>\n</invoke>\n_"}

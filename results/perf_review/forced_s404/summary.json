@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 499.2,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish facing right",
+      "fish with forked tail",
+      "cartoon fish outline"
+    ],
+    [
+      "fish with a forked tail",
+      "leaf with a stem",
+      "bird in profile"
+    ],
+    [
+      "fish facing right",
+      "fish with forked tail",
+      "stylized fish outline"
+    ]
+  ],
+  "placed": 131,
+  "fell": 129,
+  "completion": 0.985,
+  "team_score": 0.985,
+  "first_domino_at": "0:30",
+  "messages": 42,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Manager": 5,
+    "Jack": 11,
+    "Hana": 8,
+    "Omar": 2
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 146,
+    "failed": 0,
+    "input_tokens": 304,
+    "cache_creation_tokens": 752312,
+    "cache_read_tokens": 434147,
+    "output_tokens": 71786,
+    "seconds": 1144.3,
+    "api_equivalent_usd": 3.6335,
+    "cached": 0
+  },
+  "review": "forced",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "rating": 3,
+      "why": "She chose the fish, planned the strokes, assigned the work and called the hands-off rule, and she was honest about her own wrong call on the top-line join. I never heard her speak for herself on my visits, and the check she described could not have shown the bottom-right gap, so her leadership is only partly supported by what I saw."
+    },
+    "Omar": {
+      "rating": 1,
+      "why": "His bottom line is neat but stops short of the tail crossing, so the outline is not closed. He never flagged the gap and stayed silent while Jack credited him with finishing it, and he reports the line as running to the tail join. I never got his own account on site, so this rating rests on the table and his written account, not a direct conversation."
+    },
+    "Hana": {
+      "rating": 5,
+      "why": "She laid the upper tail lobe, bridged the tip gap, and checked the tip connects, and every claim she made to me matched what I saw on the table. She also started speaking up for herself, and she owned her mistake of flagging the top line before verifying it."
+    },
+    "Jack": {
+      "rating": 3,
+      "why": "His lower lobe is solid and he organises the team well. But on two visits in a row he told me the body was clean and Omar's line was through, when the gap and the stray were still visible, and he never followed up on the stray."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
