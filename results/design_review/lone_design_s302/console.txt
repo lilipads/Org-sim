@@ -1,0 +1,387 @@
+[   11s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> Jack: Jack, quick one: did the client say anything about which animal they like or hate? I'm leaning towards a swan for the lake theme, but tell me if that's a problem.
+    Jack -> everyone: Hey all! I met the client, so here's the brief: rowing club by a lake, want something from the water, graceful with a long elegant neck, a bird gliding on the lake, and absolutely no fish since the re
+    (Sofia held a thought)
+    (Omar held a thought)
+[   29s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Jack -> Hana: Swan is perfect, Hana, no problem at all! The client loves the Silver Swan, wants a long graceful neck, and just no fish. Side-on, big curved neck, clear beak. Go for it, and shout when you've locked 
+    Hana -> everyone: Swan it is, thanks Jack. Sketch is up on the pad: big body, tall curved neck, beak pointing right. Stroke 1 is the belly and chest, which also starts everything. Stroke 2 is the back and neck. Locking
+    (Sofia held a thought)
+    (Omar held a thought)
+[   48s] 0:30 asked Sofia,Omar,Hana,Jack | dominoes 9 | calls 13
+    Hana -> everyone: Locked! Sofia, can you take stroke 1, the belly, since that lays the start? Omar, jump on stroke 2 with me, the back and neck. I'll begin from the tail and you can pick up at the head.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Omar held a thought)
+[   65s] 0:45 asked Sofia,Omar,Jack | dominoes 19 | calls 16
+    Jack -> everyone: I've already got stroke 1 going from the start, the belly, so I'll keep on it. Sofia, can you take stroke 2, the back and neck? Omar, stay on backup for any breaks. Nice swan, Hana!
+    (Sofia held a thought)
+    (Omar held a thought)
+[   77s] 1:00 asked Sofia,Omar,Hana | dominoes 28 | calls 19
+    Hana -> Jack: Thanks Jack, that works. I'm on the back and neck, you keep the belly going.
+    Sofia -> everyone: Nice swan, Hana! Jack's got the belly, and Hana's already on the start of the back. I'm running a dry run on the whole thing now and will shout if anything looks off. Omar, can you take the neck end o
+    (Omar held a thought)
+[   94s] 1:15 asked Omar,Hana,Jack | dominoes 43 | calls 22
+    Omar -> everyone: Swan works for me. Quick heads-up while I run the fall: Hana, your back line near the tail looks like it isn't touching the start yet, so there's a gap there. Also the turn at the top of the neck into
+    (Jack held a thought)
+[  105s] 1:30 asked Sofia,Hana | dominoes 53 | calls 24
+    Hana -> Omar: Thanks Omar, good catch. Yes, the back line doesn't quite touch the belly at the tail, so could you bridge that join once I've got a bit further? Softening the head turn is great, go for it, keep it a
+    Sofia -> everyone: Dry run's clean: both strokes fall, start to finish, so the swan should go. Omar, you're right to watch that tail join where the back leaves the belly line. I'll look at it up close now. Hana and Jack
+[  116s] 1:45 asked Sofia,Omar,Hana,Jack | dominoes 67 | calls 28
+    Sofia -> everyone: Correction on my dry run: up close, the back line isn't actually catching the belly at the tail, so the whole back and neck wouldn't fall yet. I'm bridging that join right now. Hana, Omar, carry on wi
+    (Omar held a thought)
+    (Jack held a thought)
+[  127s] 2:00 asked Sofia,Omar,Hana | dominoes 82 | calls 31
+    Sofia -> everyone: Quick update: the trace now says nearly everything falls, and I can't see a gap at the tail. There's just one stray domino there. I'm checking it up close and won't re-lay anything until I'm sure.
+    (Omar held a thought)
+[  145s] 2:15 asked Hana,Jack | dominoes 84 | calls 35
+    Jack -> everyone: Belly's finished, all the way round to the tail end. Sofia, thanks for chasing that tail join. Omar, how's the head and beak coming? I'll stay clear of your hands and do a full check of the run, then 
+    (Hana held a thought)
+[  160s] 2:30 asked Sofia,Omar,Jack | dominoes 87 | calls 38
+    Sofia -> everyone: Correction from me: the tail join is fine, so ignore my earlier 'not connected'. The trace says nearly everything falls. The real gap is up top, because the neck stops short of the curve and the head 
+    (Jack held a thought)
+    (Omar held a thought)
+[  169s] 2:45 asked Omar,Hana,Jack | dominoes 88 | calls 41
+    Jack -> everyone: Good news, the whole run falls from the start, so body and neck are solid. Only the head and beak out to the right are missing. Sofia, you carry the neck top, and I'll take the beak end past the head 
+    (Omar held a thought)
+    (Hana held a thought)
+[  180s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 45
+    Hana -> everyone: Squint check: it reads as a swan or duck, but the head and beak are what make it a swan, so that's the priority. Sofia, carry on from the top of the neck. Jack, take the beak out to the right. Keep th
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  190s] 3:15 asked Sofia,Jack | dominoes 88 | calls 47
+    Sofia -> everyone: On it. I'm carrying the neck up and over the top of the head now. Jack, you take the beak out to the right from where I stop. I'll dry-run the whole fall once it's joined.
+    (Jack held a thought)
+[  199s] 3:30 asked Omar,Hana,Jack | dominoes 88 | calls 50
+    Omar -> everyone: Sofia, neck top is yours. Jack, beak's yours. I'm staying clear so we don't bump. My dry run says everything built so far falls start to finish, so once the head joins into the beak we should be good.
+    (Jack held a thought)
+    (Hana held a thought)
+[  208s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 88 | calls 54
+    Jack -> everyone: I'll hold off on the beak until Sofia's neck top reaches over the head, then carry on out to the right so we don't collide. Shout when the head line is up, Sofia!
+    (Sofia held a thought)
+    (Hana held a thought)
+[  216s] 4:00 asked Sofia,Hana | dominoes 88 | calls 56
+    Sofia -> everyone: Jack, I'm carrying the neck up over the top of the head now. Beak's yours from where I stop, and I'll shout the moment the head line is joined so you can start. Then I'll dry-run the whole fall.
+    (Hana held a thought)
+[  224s] 4:15 asked Omar,Hana,Jack | dominoes 88 | calls 59
+    Hana -> everyone: Sounds good, Sofia and Jack. Keep the head a smooth curve and the beak clearly pointing right. I'll stay off your hands so we don't bump the table, and I'll squint again once it's joined.
+    (Jack held a thought)
+[  235s] 4:30 asked Sofia,Omar,Jack | dominoes 92 | calls 62
+    Sofia -> everyone: Going now: carrying the neck up over the top of the head. Jack, as soon as I'm done I'll shout and the beak's yours.
+    (Jack held a thought)
+[  240s] 4:45 asked Hana,Jack | dominoes 98 | calls 64
+    Jack -> everyone: Sounds good, Sofia. I can see the head end is up, so I'm running the beak out to the right from there now. I'll keep clear of your hands.
+[  546s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 71
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Head line's up and joined, Jack, the beak's all yours, keep it pointing right. I'm dry-running the whole fall now and will shout if the head-to-beak join looks off.
+[  550s] 5:15 asked Jack | dominoes 104 | calls 72
+    Jack -> everyone: Beak's out, pointing right! Nice teamwork, Sofia, that head join was clean. I'm going to inspect the whole run now to make sure it all falls.
+[  559s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 76
+    Jack -> everyone: Inspection's back and it's good news. The whole run falls from the start, 103 of 104 dominoes, and the only one left out is that stray at the tail, which is harmless. Body, neck, head and beak are all
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  566s] 5:45 asked Sofia,Omar,Hana | dominoes 104 | calls 79
+    Sofia -> everyone: Agreed, Jack. My dry run matches: belly, back, neck, head and beak all fall from the start. The stray at the tail and the little stubs on the neck are harmless. Let's keep our hands off it now so nobo
+    (Omar held a thought)
+    (Hana held a thought)
+[  571s] 6:00 asked Omar,Hana,Jack | dominoes 104 | calls 82
+    Jack -> everyone: Agreed, Sofia. Swan is exactly what the client wanted, so we're set. Hands off and let the clock run out. Nice work, team!
+    Hana -> everyone: Looks like a swan now, nice work all. Hands off the table so nobody bumps it.
+    (Omar held a thought)
+[  578s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 86
+    Omar -> everyone: Agreed, my dry run matches: it all falls start to finish and the beak's in. Hands off now, everyone. Lovely swan!
+    (Jack held a thought)
+[  584s] 6:30 asked Sofia,Hana,Jack | dominoes 104 | calls 89
+    Jack -> everyone: Yep, all good from me. Swan it is, the Silver Swan on the clubhouse wall. Hands off, everyone, and let's watch it fall!
+[  590s] 6:45 asked Omar,Hana | dominoes 104 | calls 91
+[  596s] 7:00 asked Sofia | dominoes 104 | calls 92
+[  596s] 7:15 asked - | dominoes 104 | calls 92
+[  601s] 7:30 asked Jack | dominoes 104 | calls 93
+[  606s] 7:45 asked Omar,Hana | dominoes 104 | calls 95
+[  613s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 99
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Two minutes left, and we're all set. Hands off, everyone, and let's watch the Silver Swan go!
+[  618s] 8:15 asked Hana | dominoes 104 | calls 100
+[  623s] 8:30 asked Sofia,Omar | dominoes 104 | calls 102
+[  623s] 8:45 asked - | dominoes 104 | calls 102
+[  628s] 9:00 asked Jack | dominoes 104 | calls 103
+[  633s] 9:15 asked Hana | dominoes 104 | calls 104
+[  639s] 9:30 asked Sofia,Omar | dominoes 104 | calls 106
+    Omar -> everyone: Thirty seconds, swan's looking gorgeous. Hands off and enjoy the show.
+[  644s] 9:45 asked Sofia,Hana,Jack | dominoes 104 | calls 109
+    Jack -> everyone: Here we go, team. Great job everyone, enjoy the Silver Swan!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.44,
+      "error": 0.69
+    },
+    "Omar": {
+      "speed": 1.11,
+      "error": 1.2
+    },
+    "Hana": {
+      "speed": 1.49,
+      "error": 0.85
+    },
+    "Jack": {
+      "speed": 1.26,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 683.5,
+  "intents": {
+    "Sofia": "swan",
+    "Omar": "swan",
+    "Hana": "swan",
+    "Jack": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "swan",
+      "duck",
+      "goose"
+    ],
+    [
+      "swan",
+      "duck",
+      "goose"
+    ],
+    [
+      "swan",
+      "duck",
+      "goose"
+    ]
+  ],
+  "placed": 104,
+  "fell": 103,
+  "completion": 0.99,
+  "team_score": 0.99,
+  "first_domino_at": "0:30",
+  "messages": 38,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 8,
+    "Jack": 13,
+    "Sofia": 10,
+    "Omar": 4
+  },
+  "held_thoughts": 37,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 126,
+    "failed": 1,
+    "input_tokens": 256,
+    "cache_creation_tokens": 591743,
+    "cache_read_tokens": 423036,
+    "output_tokens": 53439,
+    "seconds": 1144.6,
+    "api_equivalent_usd": 2.8216,
+    "cached": 5
+  },
+  "roles": {
+    "Sofia": "eng",
+    "Omar": "eng",
+    "Hana": "design",
+    "Jack": "pm"
+  },
+  "design_mode": "lone",
+  "designer": "Hana",
+  "locked_at": 30.0,
+  "reviews": {},
+  "aesthetics": 0.433,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The long neck and body curve flow gracefully, but the jagged, stacked strokes at the head and the broken, disconnected lower outline make it look unfinished."
+    },
+    {
+      "score": 4.0,
+      "why": "The body curve flows well and the overall silhouette reads as a bird, but the head is cluttered with jagged stubs and the lower line floats unconnected."
+    },
+    {
+      "score": 4.0,
+      "why": "The long body and neck curves flow nicely, but the jagged, stepped edges and the cluttered tangle of short strokes at the head make it look rough and unfinished."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.3,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    }
+  ],
+  "client": "rowing",
+  "client_best": "swan",
+  "notes": {
+    "Sofia": [],
+    "Omar": [],
+    "Hana": [],
+    "Jack": [
+      "It's for the wall of a rowing club by a lake.",
+      "They want something from the water.",
+      "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+      "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+      "The client said they want something graceful, with a long elegant neck.",
+      "The client said it should be a bird you'd see gliding on the lake."
+    ]
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "swan",
+  "final_score": 0.433,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said they want something graceful, with a long elegant neck.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said it should be a bird you'd see gliding on the lake.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "Someone said the club captain is mad about otters.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 30.0
+}

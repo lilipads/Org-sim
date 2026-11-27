@@ -1,0 +1,250 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.44,
+      "error": 0.69
+    },
+    "Omar": {
+      "speed": 1.11,
+      "error": 1.2
+    },
+    "Hana": {
+      "speed": 1.49,
+      "error": 0.85
+    },
+    "Jack": {
+      "speed": 1.26,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 819.6,
+  "intents": {
+    "Sofia": "swan",
+    "Omar": "swan",
+    "Hana": "swan",
+    "Jack": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Jack",
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "banana with stem",
+      "curved sickle or scythe",
+      "boot or shoe outline"
+    ],
+    [
+      "banana with stem",
+      "curved bean pod",
+      "crescent boat or hook"
+    ],
+    [
+      "banana with stem",
+      "curved leaf",
+      "hook shape"
+    ]
+  ],
+  "placed": 180,
+  "fell": 150,
+  "completion": 0.833,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 8,
+    "Hana": 10,
+    "Sofia": 12,
+    "Omar": 11
+  },
+  "held_thoughts": 75,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 152,
+    "failed": 1,
+    "input_tokens": 302,
+    "cache_creation_tokens": 740432,
+    "cache_read_tokens": 495104,
+    "output_tokens": 79661,
+    "seconds": 1431.5,
+    "api_equivalent_usd": 3.6521,
+    "cached": 8
+  },
+  "roles": {
+    "Sofia": "eng",
+    "Omar": "eng",
+    "Hana": "design",
+    "Jack": "pm"
+  },
+  "design_mode": "open",
+  "designer": null,
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.4,
+  "art_ratings": [
+    {
+      "score": 4.0,
+      "why": "The main curves flow and the banana-like silhouette reads clearly, but the jittery segment edges and the tangled knot near the middle-left look clumsy."
+    },
+    {
+      "score": 4.0,
+      "why": "The big curving outline flows well and the composition is clear, but the jagged tick-mark joints, the tangle of short strokes near the center-left, and the stray disconnected lines make it look rough rather than skilled."
+    },
+    {
+      "score": 4.0,
+      "why": "The outer curve of the banana-like form flows well and the proportions are reasonable, but the choppy tick-mark edges, tangled strokes near the centre, and the stray stem lines make it look rough rather than refined."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.4,
+    "dry_run_fell": 90,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 0.5
+    }
+  },
+  "checks": [
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    }
+  ],
+  "client": "rowing",
+  "client_best": "swan",
+  "notes": {
+    "Sofia": [],
+    "Omar": [],
+    "Hana": [],
+    "Jack": [
+      "It's for the wall of a rowing club by a lake.",
+      "They want something from the water.",
+      "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+      "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+      "The client said they want something graceful, with a long elegant neck.",
+      "The client said it should be a bird you'd see gliding on the lake."
+    ]
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "swan",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said they want something graceful, with a long elegant neck.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said it should be a bird you'd see gliding on the lake.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "Someone said the club captain is mad about otters.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 3,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

@@ -4,3 +4,400 @@
     Priya -> Maya: Maya, anything from the client we should know before Tom starts? Animals they love or hate, that kind of thing. I'll hold off until there's a sketch to dry-run.
     Maya -> everyone: Quick client brief, I met them: it's for a garden centre entrance, has to fly, no birds at all because of a pigeon problem, they love symmetrical shapes, and their big launch is a new butterfly house.
     (Leo held a thought)
+[   29s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Tom -> everyone: Butterfly works for me, and it fits the butterfly house launch. I'm sketching two mirrored wings off one centre point now.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[   62s] 0:30 asked Maya,Priya,Leo | dominoes 0 | calls 14
+    Maya -> everyone: Love the sketch, Tom, that reads as a butterfly. One more thing from the client: it should be something that visits flowers, so butterfly fits perfectly. They really like both sides matching, so keep 
+[   77s] 0:45 asked Tom | dominoes 0 | calls 15
+    Tom -> everyone: Dry run says both wings fall clean end to end. I'm adding two little antennae branching off the wing lines by the centre, mirrored, and locking it now. Grab a stroke, Maya: you take the right wing, Pr
+[   91s] 1:00 asked Maya,Priya,Leo | dominoes 12 | calls 18
+    Priya -> everyone: Dry run result: both wings fall clean end to end, but the two antennae wouldn't catch. They don't seem to get the fall from the wing lines. Tom, they may need redrawing so they start right on the wing
+    (Leo held a thought)
+    (Maya held a thought)
+[  101s] 1:15 asked Maya,Tom | dominoes 24 | calls 20
+    Tom -> everyone: Good catch, Priya, thanks. I'll finish laying the right wing, then redraw the antennae so they leave the wing line at a gentler angle. Leave them for now and I'll sort them out.
+    (Maya held a thought)
+[  111s] 1:30 asked Priya,Leo | dominoes 30 | calls 22
+    Priya -> Tom: Sounds good, Tom. I'll stay on the left wing.
+    Leo -> everyone: Left antenna's up. I'm checking the joints around the centre to make sure it all carries.
+[  137s] 1:45 asked Maya,Tom,Leo | dominoes 37 | calls 27
+    Tom -> everyone: Thanks Priya. I'm redrawing the antennae now so they sit closer to the wing line, then I'll lay them.
+    Maya -> everyone: Right antenna's done. I'm checking the centre now to see if it actually catches.
+[  146s] 2:00 asked Maya,Tom,Priya | dominoes 38 | calls 30
+    Tom -> everyone: Looks like you two already got both antennae down, nice. Let me run the fall through the centre and see if they actually catch before I add anything.
+    (Maya held a thought)
+[  156s] 2:15 asked Maya,Leo | dominoes 34 | calls 32
+    Maya -> everyone: Centre catches and the right antenna's fixed. I'm laying the right wing now, Priya's on the left.
+    (Leo held a thought)
+[  180s] 2:30 asked Tom,Priya,Leo | dominoes 36 | calls 37
+    Priya -> everyone: Second dry run: all four strokes fall now, antennae included, about a hundred dominoes, sound end to end. Maya, I don't see the start domino down yet. That comes with the right wing, so please get tha
+    (Tom held a thought)
+[  194s] 2:45 asked Maya,Tom | dominoes 38 | calls 39
+    Tom -> everyone: Centre joins look good from my check. The start is down and both antennae catch. The only gap is the big right wing, which is Maya's. Maya, if you want, shout when you're past the top and I'll lay the
+    (Maya held a thought)
+[  207s] 3:00 asked Maya,Leo | dominoes 49 | calls 41
+    Maya -> everyone: Start's down at the centre, Priya. Tom, yes please, take the lower curl on the right. I'm just finishing the top of the right wing, then I'll check the whole run.
+[  219s] 3:15 asked Tom,Priya,Leo | dominoes 63 | calls 46
+    Tom -> everyone: Sounds good Maya. I'll stay out of your way and check the centre and left wing while you finish the top. Shout when you're past the far corner and I'll pick up the lower curl.
+    (Leo held a thought)
+    (Priya held a thought)
+[  234s] 3:30 asked Maya,Tom | dominoes 77 | calls 48
+    Tom -> everyone: Inspection says the centre and left wing carry, all the way from the start. There's one spot on the left wing, up high where it curves, where two dominoes are jammed too close. Priya, keep an eye on i
+    (Maya held a thought)
+[  245s] 3:45 asked Maya,Priya,Leo | dominoes 88 | calls 51
+    Maya -> everyone: Nearly at the far right corner now, Tom. I'll shout the moment I'm round it, then the lower curl is yours.
+    (Leo held a thought)
+    (Priya held a thought)
+[  255s] 4:00 asked Tom,Leo | dominoes 102 | calls 53
+    Leo -> everyone: Priya, I'll check that tight spot up on the left wing while you carry on round the corner. Shout if you want me on the bottom curl.
+    (Tom held a thought)
+[  266s] 4:15 asked Tom,Priya,Leo | dominoes 112 | calls 58
+    Tom -> everyone: Maya, you're round the far corner, nice. I'll take the lower curl from where your line ends now. You can stop there and check the top, so we're not on top of each other.
+    (Priya held a thought)
+    (Leo held a thought)
+[  283s] 4:30 asked Maya,Priya | dominoes 120 | calls 60
+    Maya -> everyone: Thanks Tom, lower curl's all yours. I'll stay out of your way and check the top and centre for breaks.
+    (Priya held a thought)
+[  294s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 128 | calls 64
+    Tom -> everyone: Right curl's started, I'm carrying it round the bottom now. Priya, the left curl still stops at the lower bit, can you keep going round it? Leo, could you give her a hand if she's short on time?
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  306s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 134 | calls 68
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Leo, you're right at the end of the left curl, so can you carry it round the bottom up to the tip? I'll stay clear so we don't knock each other. I'm going to inspect the whole run from the start for b
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  318s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 142 | calls 72
+    Priya -> everyone: Tom, my inspection says the new right curl isn't joined yet. Where the wing line ends, the first domino of your curl is sitting off to the side and the turn is too sharp. Can you bridge it, or lay a c
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  324s] 5:30 asked Maya,Tom,Leo | dominoes 150 | calls 75
+    Tom -> everyone: Thanks Priya, I'm bridging it into the wing end right now, then carrying it round the bottom. Leo, how's the left curl?
+    (Leo held a thought)
+    (Maya held a thought)
+[  336s] 5:45 asked Maya,Priya,Leo | dominoes 154 | calls 78
+    Maya -> Tom: Tom, there's a little spur heading down-left from the join that isn't on the pad. Keep to the pad's curve round the bottom. I'll stay out of your way.
+    Leo -> everyone: Left curl's up to the tip now, Tom. I'll inspect the lower left joint to make sure it carries.
+    (Priya held a thought)
+[  350s] 6:00 asked Maya,Tom,Leo | dominoes 149 | calls 81
+    Maya -> Tom: Tom, heads up: the right curl is running straight on to the left past where it should turn. On the pad it bends down at that point and goes round the bottom, like the left side. Can you pull back the 
+    Tom -> everyone: Good eye, Maya, I see it. I'm lifting that spur now, then I'll carry the curl on from the wing end.
+    (Leo held a thought)
+[  361s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 145 | calls 85
+    Tom -> everyone: Maya, got it. I'm pulling back the extra bit that runs past the turn, then I'll curve it down round the bottom like the left side.
+    (Leo held a thought)
+    (Priya held a thought)
+[  372s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 148 | calls 91
+    Leo -> Tom: Tom, the right curl still stops short of the bottom. I'll stay clear, but shout if you want me to lay the tip end.
+    Priya -> everyone: Left curl's all good, nice work Leo. Tom, we're at about three minutes, so the right curl is the only thing left. Once that stub is pulled back, just get a gentle run round the bottom to the tip, and 
+    (Maya held a thought)
+    (Tom held a thought)
+[  382s] 6:45 asked Maya,Tom,Leo | dominoes 151 | calls 94
+    Leo -> everyone: Tom, I'm taking the right curl round the bottom from the end of the wing line now. You can step off it and check the centre.
+    Tom -> everyone: Extra bit's gone. Curving it down round the bottom now.
+    (Maya held a thought)
+[  395s] 7:00 asked Maya,Tom,Priya | dominoes 156 | calls 97
+    Maya -> everyone: Tom, Leo, you're both on the right curl right now. Leo, you take it round the bottom to the tip, and Tom, step off and check the centre so you don't bump each other. I'll stay clear.
+    (Tom held a thought)
+[  402s] 7:15 asked Tom,Leo | dominoes 161 | calls 99
+    Tom -> everyone: Okay Leo, it's yours, go round the bottom and up to the tip. I'm stepping off so we don't bump. I'll check the right side and shout if anything's broken.
+    (Leo held a thought)
+[  412s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 165 | calls 103
+    Tom -> everyone: Leo, the whole run carries from the start, no breaks. The right curl just needs to swing round the bottom and come back up to the tip, like the left side. That's the only bit left. I'll stay clear.
+    (Leo held a thought)
+    (Priya held a thought)
+[  419s] 7:45 asked Maya,Priya,Leo | dominoes 168 | calls 106
+    Leo -> everyone: Carrying the right curl up to the tip now, stay clear of that side.
+    Maya -> everyone: Looking good, Leo. Just the last swing up to the tip. I'll stay clear.
+[  427s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 110
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: All 165 carry from the start, nice. Leo, you've got the last swing. Everyone else just stay clear and let it be.
+[  433s] 8:15 asked Tom,Leo | dominoes 170 | calls 114
+    Leo -> everyone: Right curl's at the tip. I'm taking a quick squint at the whole picture, so stay clear and let it stand.
+[  441s] 8:30 asked Maya,Tom,Priya | dominoes 170 | calls 117
+    Priya -> everyone: Dry run's clean, everything carries from the start. Let's all hands off and let it stand.
+    Maya -> everyone: Looks like a butterfly to me, whole thing carries. Hands off everyone, let it stand.
+    (Tom held a thought)
+[  447s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 121
+    Leo -> everyone: Squint says butterfly, antennae and both wings read clearly. Nothing to fix, hands off and let it stand.
+    Priya -> everyone: All good from my side. Hands in pockets, everyone. Fingers crossed for the butterfly!
+    (Tom held a thought)
+[  454s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 125
+    Tom -> everyone: Agreed, looks like a butterfly and it all carries. Hands off, let it stand.
+    Maya -> everyone: Agreed, hands off. It's a butterfly for the butterfly house client, so fingers crossed!
+    Priya -> everyone: Nothing left to do but watch. Go on, little butterfly.
+[  459s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 129
+    Tom -> everyone: All good. Hands off, nice work everyone.
+[  466s] 9:30 asked Maya,Priya,Leo | dominoes 170 | calls 132
+    Maya -> everyone: Nice work, team. Hands off, let it fall.
+    Priya -> everyone: Hands off, all of us. Go little butterfly!
+[  471s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 170 | calls 136
+    Priya -> everyone: All set. Hands off and enjoy the fall.
+    Tom -> everyone: Fingers crossed, here it goes!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 506.6,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Tom",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "butterfly with wings and antennae",
+      "moth with spread wings",
+      "bat or bird with outstretched wings"
+    ],
+    [
+      "butterfly with antennae",
+      "hand-drawn butterfly outline",
+      "moth with curled wings"
+    ],
+    [
+      "butterfly with antennae",
+      "moth with wings spread",
+      "bird or fish with split tail"
+    ]
+  ],
+  "placed": 170,
+  "fell": 170,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Tom": 20,
+    "Priya": 12,
+    "Maya": 15,
+    "Leo": 8
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 687579,
+    "cache_read_tokens": 485574,
+    "output_tokens": 78102,
+    "seconds": 1087.0,
+    "api_equivalent_usd": 3.4576,
+    "cached": 16
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "lone",
+  "designer": "Tom",
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.567,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The big upper wing curves flow well and the antennae are nicely placed, but the jagged ticks along the strokes and the mismatched lower wing tails make it look less polished than a skilled illustrator's line."
+    },
+    {
+      "score": 6.0,
+      "why": "The upper wings and antennae flow well and the composition is mostly balanced, but the lower wing tails are uneven and the stroke edges look jittery and broken."
+    },
+    {
+      "score": 6.0,
+      "why": "The bold, symmetrical wing curves and sparse antennae give good balance and flow, but the choppy ticks along the outlines and the hooked lower tails feel clumsy."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.833,
+    "aesthetics": 0.4,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.567,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

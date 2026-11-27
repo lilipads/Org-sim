@@ -1,0 +1,272 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.44,
+      "error": 0.69
+    },
+    "Omar": {
+      "speed": 1.11,
+      "error": 1.2
+    },
+    "Hana": {
+      "speed": 1.49,
+      "error": 0.85
+    },
+    "Jack": {
+      "speed": 1.26,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 683.5,
+  "intents": {
+    "Sofia": "swan",
+    "Omar": "swan",
+    "Hana": "swan",
+    "Jack": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "swan",
+      "duck",
+      "goose"
+    ],
+    [
+      "swan",
+      "duck",
+      "goose"
+    ],
+    [
+      "swan",
+      "duck",
+      "goose"
+    ]
+  ],
+  "placed": 104,
+  "fell": 103,
+  "completion": 0.99,
+  "team_score": 0.99,
+  "first_domino_at": "0:30",
+  "messages": 38,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 8,
+    "Jack": 13,
+    "Sofia": 10,
+    "Omar": 4
+  },
+  "held_thoughts": 37,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 126,
+    "failed": 1,
+    "input_tokens": 256,
+    "cache_creation_tokens": 591743,
+    "cache_read_tokens": 423036,
+    "output_tokens": 53439,
+    "seconds": 1144.6,
+    "api_equivalent_usd": 2.8216,
+    "cached": 5
+  },
+  "roles": {
+    "Sofia": "eng",
+    "Omar": "eng",
+    "Hana": "design",
+    "Jack": "pm"
+  },
+  "design_mode": "lone",
+  "designer": "Hana",
+  "locked_at": 30.0,
+  "reviews": {},
+  "aesthetics": 0.433,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The long neck and body curve flow gracefully, but the jagged, stacked strokes at the head and the broken, disconnected lower outline make it look unfinished."
+    },
+    {
+      "score": 4.0,
+      "why": "The body curve flows well and the overall silhouette reads as a bird, but the head is cluttered with jagged stubs and the lower line floats unconnected."
+    },
+    {
+      "score": 4.0,
+      "why": "The long body and neck curves flow nicely, but the jagged, stepped edges and the cluttered tangle of short strokes at the head make it look rough and unfinished."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.3,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    }
+  ],
+  "client": "rowing",
+  "client_best": "swan",
+  "notes": {
+    "Sofia": [],
+    "Omar": [],
+    "Hana": [],
+    "Jack": [
+      "It's for the wall of a rowing club by a lake.",
+      "They want something from the water.",
+      "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+      "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+      "The client said they want something graceful, with a long elegant neck.",
+      "The client said it should be a bird you'd see gliding on the lake."
+    ]
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "swan",
+  "final_score": 0.433,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said they want something graceful, with a long elegant neck.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said it should be a bird you'd see gliding on the lake.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "Someone said the club captain is mad about otters.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 30.0
+}

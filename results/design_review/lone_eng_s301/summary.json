@@ -1,0 +1,261 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 506.6,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Tom",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "butterfly with wings and antennae",
+      "moth with spread wings",
+      "bat or bird with outstretched wings"
+    ],
+    [
+      "butterfly with antennae",
+      "hand-drawn butterfly outline",
+      "moth with curled wings"
+    ],
+    [
+      "butterfly with antennae",
+      "moth with wings spread",
+      "bird or fish with split tail"
+    ]
+  ],
+  "placed": 170,
+  "fell": 170,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 58,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Tom": 20,
+    "Priya": 12,
+    "Maya": 15,
+    "Leo": 8
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 153,
+    "failed": 0,
+    "input_tokens": 288,
+    "cache_creation_tokens": 687579,
+    "cache_read_tokens": 485574,
+    "output_tokens": 78102,
+    "seconds": 1087.0,
+    "api_equivalent_usd": 3.4576,
+    "cached": 16
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "lone",
+  "designer": "Tom",
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.567,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "The big upper wing curves flow well and the antennae are nicely placed, but the jagged ticks along the strokes and the mismatched lower wing tails make it look less polished than a skilled illustrator's line."
+    },
+    {
+      "score": 6.0,
+      "why": "The upper wings and antennae flow well and the composition is mostly balanced, but the lower wing tails are uneven and the stroke edges look jittery and broken."
+    },
+    {
+      "score": 6.0,
+      "why": "The bold, symmetrical wing curves and sparse antennae give good balance and flow, but the choppy ticks along the outlines and the hooked lower tails feel clumsy."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.833,
+    "aesthetics": 0.4,
+    "dry_run_fell": 80,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.567,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 30,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

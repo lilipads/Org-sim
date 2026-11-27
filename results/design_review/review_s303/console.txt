@@ -1,0 +1,369 @@
+[   12s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Okay, I met the client, so here's what I've got. It's for the start of a kids' nature trail around a pond, and their mascot is Shelly, a garden snail. The trail is laid out as a big spiral and they'd 
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[   26s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Snail, love it. The spiral shell is one long curve, so very few joins, and it matches the trail. Tom, two things for the sketch: start at the tail and run the body along the bottom, and make the eye s
+    (Tom held a thought)
+    (Leo held a thought)
+[   49s] 0:30 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 11
+    Maya -> everyone: Reviewed. Tom, the shell and the stalks leave the body too steeply, so they won't fall. Make the shell peel off forward and up at a shallow angle, curve the body up into the head, and lean both stalks
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[   66s] 0:45 asked Tom,Priya,Leo | dominoes 0 | calls 14
+    Leo -> Tom: Tom, I'm with Maya on the angles. One more thing from me: open up the tight curl in the middle of the shell, since tiny turns are fiddly and break easily. Once you've redrawn, I'll dry-run it before a
+    Tom -> everyone: Thanks, all three of you, same note and fair. I've redrawn it: the shell now leaves the body heading forward and rising gently, then sweeps up and over and spirals in with a looser middle. The body cu
+    (Priya held a thought)
+[   77s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 7 | calls 18
+    Priya -> everyone: On it, Tom. I'll take the stalk that's drawn as number four, and Leo's got three, I assume. Shout if they end up bunched together.
+    Tom -> everyone: Starting on the body now, from the tail. Shout if anything looks off.
+    (Maya held a thought)
+    (Leo held a thought)
+[   86s] 1:15 asked Tom,Leo | dominoes 18 | calls 20
+    Leo -> everyone: Yep, I've got three, Priya. The two stalks are almost on top of each other on the pad, so Tom, can you spread them a bit at the head? I'm dry-running the whole thing now and will say what I find befor
+    (Tom held a thought)
+[   94s] 1:30 asked Tom,Priya | dominoes 29 | calls 22
+    Priya -> everyone: Agree with Leo, Tom. The two stalks are practically one blob at the head. Could you fan them apart on the pad, one leaning a bit higher and one a bit lower, so they read as two separate eye stalks? I'
+    (Tom held a thought)
+[  103s] 1:45 asked Tom,Leo | dominoes 39 | calls 24
+    Leo -> everyone: Dry run's done. The body and the shell both fall, good. But neither stalk catches: they leave the head too sharply, so the run never gets into them. Tom, when you redraw them, have each one carry on f
+    (Tom held a thought)
+[  113s] 2:00 asked Tom | dominoes 44 | calls 25
+    Tom -> everyone: Good catch, Leo. I've added two new stalks on the pad, carrying straight on from the end of the head. Leo, take the higher one, that's five. Priya, take the lower, flatter one, that's six. Ignore thre
+[  121s] 2:15 asked Priya,Leo | dominoes 55 | calls 27
+    Priya -> everyone: Got it, Tom. I'm switching to six, the lower flat stalk, and dropping four. I'll lay it as soon as the body reaches the head.
+    (Leo held a thought)
+[  134s] 2:30 asked Tom,Leo | dominoes 62 | calls 29
+    Tom -> Priya: Thanks Priya. The body's about two-thirds of the way to the head, so you should be able to start six soon.
+    Leo -> everyone: Tom, I'm on the higher stalk, but I can't find a stroke five on the pad. The head cluster only shows a seven on top of the old ones. Which numbers are the new stalks, maybe six and seven? Say the word
+[  143s] 2:45 asked Tom,Priya | dominoes 70 | calls 31
+    Tom -> everyone: Good catch, Leo. I thought they were five and six, but the pad is showing a seven on top of the head cluster, so my numbers are probably off. Go with the seven for the higher stalk. Priya, if six does
+    (Priya held a thought)
+[  156s] 3:00 asked Maya,Priya,Leo | dominoes 78 | calls 34
+    Priya -> everyone: Same here, Leo, I only see a seven on the pad. You take seven, the higher one, and I'll stay on the lower flat one that leaves the head. Tom, shout if that's backwards.
+    (Leo held a thought)
+    (Maya held a thought)
+[  168s] 3:15 asked Maya,Tom,Leo | dominoes 82 | calls 37
+    Maya -> everyone: Shell's laid up to the top, but the inner curl isn't down yet. I'm carrying it on round now, then I'll dry-run the whole thing.
+    (Leo held a thought)
+    (Tom held a thought)
+[  174s] 3:30 asked Tom | dominoes 86 | calls 38
+    Tom -> everyone: Priya, that's right, not backwards. Leo's on the higher stalk, you're on the lower flat one. The body's basically at the head now, so go ahead and lay yours.
+[  181s] 3:45 asked Tom,Priya,Leo | dominoes 104 | calls 41
+    Tom -> everyone: Body's a few dominoes short of the head, I'm carrying it on to the head now. Priya, Leo, give me a moment, then lay your stalks.
+    (Leo held a thought)
+    (Priya held a thought)
+[  201s] 4:00 asked Maya,Priya,Leo | dominoes 109 | calls 45
+    Priya -> everyone: Lower stalk's down and it looks like it carries on from the head. Tom, Leo, I'm popping over to show the client the snail for a quick gut check. Back in a minute.
+    (Leo held a thought)
+    (Maya held a thought)
+[  220s] 4:15 asked Tom,Leo | dominoes 112 | calls 49
+    Leo -> everyone: Good news: both stalks are laid and the fall runs all the way into them, and the body and shell all fall too. Nothing is stranded. The only thing left is the inner curl of the shell, which Maya's carr
+    (Tom held a thought)
+[  228s] 4:30 asked Maya | dominoes 114 | calls 50
+    Maya -> everyone: Inner curl's still going, I'm carrying it round the bottom now. Gentle turns, then I'll dry-run the lot.
+[  245s] 4:45 asked Tom,Priya,Leo | dominoes 122 | calls 53
+    Priya -> everyone: I'm back. Client says yes, that's Shelly, and loves the spiral. Two worries, though. The body is just a thin line, so it reads as a shell on a stick, and the eye stalks are so small and bunched that k
+    (Tom held a thought)
+[  256s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 135 | calls 57
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Welcome back, Priya, and great news from the client. I looked at where the shell splits off the body and it's solid, everything falls. Your second foot line is a good idea, just keep it branching gent
+    (Leo held a thought)
+    (Maya held a thought)
+[  265s] 5:15 asked Tom,Priya,Leo | dominoes 145 | calls 62
+    Leo -> everyone: Welcome back, Priya, glad the client likes it. Both stalks fall right now, so let's not lift and redo them, just extend gently forward. The second body line looks down and connected. I'm dry-running t
+    (Priya held a thought)
+    (Tom held a thought)
+[  274s] 5:30 asked Maya,Priya | dominoes 152 | calls 64
+    Maya -> everyone: Inner curl's nearly round. Priya, your second body line is fine, just keep it clear of the shell. I'm adding a last gentle stretch, then I'll tell you what the dry run says.
+    (Priya held a thought)
+[  283s] 5:45 asked Tom,Priya,Leo | dominoes 160 | calls 67
+    Leo -> everyone: Dry run's done on what's standing: it all runs through, about 149 of 152 fall, and both stalks and the second foot line are connected. Let's not lift anything that works. Maya, finish the inner curl g
+    (Tom held a thought)
+    (Priya held a thought)
+[  296s] 6:00 asked Maya,Tom,Priya | dominoes 160 | calls 70
+    Maya -> everyone: Dry run's good. The spiral, body, both stalks and the second foot line all fall, about 157 of 160. Ignore the old stalk numbers on the pad, they're stale. The inner curl is done and ends clean. I'm li
+    (Tom held a thought)
+    (Priya held a thought)
+[  302s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 160 | calls 74
+    Priya -> everyone: Thanks Leo, those pale ones were just my hands still going. Maya's lifted the strays, so I'm checking the foot line falls and joins. Everyone else, leave what works!
+    (Tom held a thought)
+    (Maya held a thought)
+[  311s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 159 | calls 78
+    Maya -> everyone: Two of those strays are still sitting by the foot line, so I'm lifting just those. Hands off everything else, the rest all falls.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  319s] 6:45 asked Maya,Tom,Priya | dominoes 159 | calls 81
+    Maya -> everyone: One stray's out. I'm checking that foot line join with a dry run before I touch anything else. Everyone leave the rest alone.
+    (Tom held a thought)
+    (Priya held a thought)
+[  325s] 7:00 asked Tom,Priya,Leo | dominoes 159 | calls 84
+    Leo -> everyone: Thanks Priya. Strays look gone. Maya's on the last dry run, so everyone keep hands off what works until she says.
+    (Tom held a thought)
+[  334s] 7:15 asked Maya,Tom,Priya | dominoes 158 | calls 87
+    Maya -> everyone: Dry run says the table is good, about 158 of 159 fall. The 'never fall' strokes are just stale pad numbers. One pale stray is left by the foot line, so I'm lifting only that one, then hands off.
+    (Tom held a thought)
+[  340s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 91
+    Maya -> everyone: Last stray's out. The whole table falls now, 158 of 158. Hands off everything, we're done. Nice work, everyone.
+    Priya -> everyone: Thanks Maya. I'm hands off now, everyone leave what works. Shelly looks great, fingers crossed!
+    (Tom held a thought)
+[  346s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 95
+    Tom -> everyone: Sounds good, Maya, thanks for clearing those strays. No more lifting, everyone. Let's keep our elbows off the table till the push.
+    Maya -> everyone: Thanks Priya. All good here, hands off and let the clock run.
+[  351s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 99
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Two minutes to go and Shelly's doing exactly what a snail should: taking it slow. Hands in laps, everyone!
+[  357s] 8:15 asked Maya,Tom,Leo | dominoes 158 | calls 102
+    Tom -> everyone: Hands in laps, Priya. Shelly's got this. Just don't sneeze near the table.
+    Maya -> everyone: Agreed, hands in laps. Good luck, Shelly!
+[  363s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 106
+    Priya -> everyone: Ha, no sneezing, promise. Fingers crossed for Shelly!
+[  369s] 8:45 asked Maya,Tom,Leo | dominoes 158 | calls 109
+    Maya -> everyone: Ha, same here, hands in laps. Shelly's ready.
+[  374s] 9:00 asked Tom,Priya,Leo | dominoes 158 | calls 112
+    Tom -> everyone: Same here. Hands in laps, good luck Shelly.
+[  379s] 9:15 asked Maya,Priya,Leo | dominoes 158 | calls 115
+    Priya -> everyone: Deep breath, everyone. Shelly's got this.
+[  386s] 9:30 asked Maya,Tom,Leo | dominoes 158 | calls 118
+    Tom -> everyone: Thirty seconds. Hands off, and Shelly's all set.
+[  392s] 9:45 asked Maya,Priya,Leo | dominoes 158 | calls 121
+    Maya -> everyone: Ready when you are. Go Shelly!
+    Priya -> everyone: Hands off, everyone. Go Shelly!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.97,
+      "error": 1.81
+    },
+    "Tom": {
+      "speed": 1.2,
+      "error": 1.64
+    },
+    "Priya": {
+      "speed": 1.51,
+      "error": 0.66
+    },
+    "Leo": {
+      "speed": 1.51,
+      "error": 1.9
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 402.7,
+  "intents": {
+    "Maya": "snail",
+    "Tom": "snail",
+    "Priya": "",
+    "Leo": "snail"
+  },
+  "team_intent": "snail",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [],
+    [],
+    []
+  ],
+  "placed": 158,
+  "fell": 158,
+  "completion": 1.0,
+  "team_score": 0.0,
+  "first_domino_at": "1:00",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 13,
+    "Maya": 14,
+    "Leo": 8,
+    "Tom": 12
+  },
+  "held_thoughts": 45,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 132,
+    "failed": 5,
+    "input_tokens": 248,
+    "cache_creation_tokens": 662610,
+    "cache_read_tokens": 441210,
+    "output_tokens": 52546,
+    "seconds": 899.4,
+    "api_equivalent_usd": 3.2016,
+    "cached": 5
+  },
+  "roles": {
+    "Maya": "eng",
+    "Tom": "design",
+    "Priya": "pm",
+    "Leo": "eng"
+  },
+  "design_mode": "review",
+  "designer": "Tom",
+  "locked_at": 45.0,
+  "reviews": {
+    "Maya": "Body along the bottom from the tail is good, and one long spiral is the right call. Three things to change. First, the shell comes off the body heading up and back to the left, which is far too steep, so it would never fall. Have it peel off further right along the body, heading forward and up at a shallow angle, then curve up and over counterclockwise and spiral inward. Second, the stalk on the left leans backward and the other is near vertical. Let the body curve gently upward into the head, then have both stalks lean forward off it, each within about 40 degrees of the line they leave. Third",
+    "Priya": "I like it. The big spiral is what the client asked for, and the long low body reads as a snail straight away. Two tweaks. First, the stalks should lean forward off the head. The left one currently tips back a bit, so push both toward the right. Second, the tight middle of the spiral is fiddly, so open the last turn up a little so it doesn't jam. Otherwise good to lock. Once it's built I can show it to the client.",
+    "Leo": "Snail shape reads well and the foot as one long run from the tail is good. Three things have to change or half of it won't fall. (1) The spiral peels off the foot going steeply up and back to the left. That's well past the shallow angle a branch needs. Have it leave the foot heading forward (to the right) and rising gently, then sweep up and over and round to the left, so the first bit of the shell follows the flow of the body. (2) Both eye stalks go almost straight up off the body. They need to lean forward off the head at a shallow angle, and the body should rise toward the head gradually in"
+  },
+  "aesthetics": 0.5,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": ""
+    },
+    {
+      "score": 5.0,
+      "why": ""
+    },
+    {
+      "score": 5.0,
+      "why": ""
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 10,
+    "per_stroke": {
+      "1": 0.26,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "ask_client"
+    },
+    {
+      "who": "Tom",
+      "check": "squint"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "dry_run"
+    },
+    {
+      "who": "Maya",
+      "check": "dry_run"
+    }
+  ],
+  "client": "trail",
+  "client_best": "snail",
+  "notes": {
+    "Maya": [],
+    "Tom": [],
+    "Priya": [
+      "It's for the start of a children's nature trail around a pond.",
+      "They want something kids will spot and love.",
+      "The client told you the trail's mascot is Shelly, a garden snail.",
+      "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+      "The client said it should feel slow and calm: the trail is about taking your time.",
+      "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail."
+    ],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "snail",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the trail's mascot is Shelly, a garden snail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said the trail itself is laid out as a big spiral, and they'd love the picture to echo it.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said it should feel slow and calm: the trail is about taking your time.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "The client said nothing that bites, stings or swims away: kids should be able to find one on the trail.",
+        "rumour": false,
+        "holders": [
+          "Priya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "You heard the trail's founder loves frogs.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 0,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

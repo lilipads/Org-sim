@@ -1,0 +1,406 @@
+[   15s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> Maya: Maya, quick one before I draw: did the garden centre say anything about animals they love or want to avoid? Snails and slugs might be a pest-awkward pick for a garden place, so I'm leaning towards som
+    Maya -> everyone: Okay, I've talked to the client and I've got a lot. It's a garden centre entrance, and they want a butterfly. They've got a new butterfly house launching this year, they love symmetrical shapes, and i
+    (Tom held a thought)
+    (Priya held a thought)
+[   27s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Leo -> everyone: Butterfly it is, thanks Maya. Big and symmetrical, body down the middle, two feelers on top. I'll lock it in a moment; Tom or Priya, start on stroke 1 once I do.
+    (Priya held a thought)
+    (Tom held a thought)
+[   57s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 11
+    Tom -> Leo: Leo, give me a sec to run the fall through on that sketch before you lock it.
+    Maya -> everyone: Love it, that's exactly the butterfly. Both wings match and the feelers read clearly. Lock it in, Leo, and I'll jump on a wing stroke as soon as it's locked.
+    (Priya held a thought)
+[   66s] 0:45 asked Leo | dominoes 0 | calls 12
+    Leo -> everyone: Sure, Tom. Tell me if you see a break anywhere, like where the wings branch off the body. If I don't hear anything in a few seconds, I'll lock it.
+[   81s] 1:00 asked Maya,Tom,Priya | dominoes 0 | calls 15
+    Tom -> everyone: Leo, hold off on locking. I ran the fall and the body and the bottom-left wing go down fine. But the top wings come off the body nearly sideways, and the run can't turn that sharp. The right top wing 
+    (Priya held a thought)
+    (Maya held a thought)
+[  101s] 1:15 asked Maya,Priya,Leo | dominoes 0 | calls 18
+    Leo -> everyone: Good catch, Tom. I've redrawn the top wings so they leave the body going up and then sweep outward, and the feelers come off the top of the body. Locking now. Tom or Priya, start on the body stroke; M
+    (Maya held a thought)
+    (Priya held a thought)
+[  117s] 1:30 asked Maya,Tom,Priya | dominoes 7 | calls 21
+    Priya -> everyone: I've got stroke 1, the start. Tom, can you take a wing off the far side? Maya, take the other side. Let's keep a bit of space between us so we don't bump each other's lines. I'm re-running the fall on
+    (Tom held a thought)
+    (Maya held a thought)
+[  128s] 1:45 asked Maya,Tom,Leo | dominoes 10 | calls 24
+    Maya -> Priya: Got it Priya, I'm on the top right wing already. I'll stay on this side and keep clear of your lines.
+    Leo -> everyone: I'll take both lower wings. Priya, shout if the body doesn't carry down that far. Someone grab the feelers when you're free.
+    (Tom held a thought)
+[  146s] 2:00 asked Priya | dominoes 20 | calls 25
+    Priya -> everyone: Quick update from my dry run: nothing past the left feeler catches yet, because nothing's laid. I'm putting down the body and the start now. Keep your wings coming and stay clear of the body line. I'l
+[  156s] 2:15 asked Tom | dominoes 37 | calls 26
+    Tom -> everyone: Dry run says nothing past the left feeler catches yet, but that's only because the body isn't down. The design itself is fine. I'm taking the two left wings now. Priya, once the body's in, shout if it
+[  165s] 2:30 asked Priya | dominoes 51 | calls 27
+    Priya -> everyone: Tom, I hear you. The body and start are still going down, and that's why nothing past the feeler catches yet. Keep the wings coming, but stay clear of the top of the body for a minute. Once the body's
+[  174s] 2:45 asked Tom | dominoes 72 | calls 28
+    Tom -> everyone: Got it, Priya, I'll stay off the body. One thing I'm noticing: I don't see the start or the straight body line down the middle yet, so that's the piece everything hangs on. Shout if you want me to jum
+[  189s] 3:00 asked Priya,Leo | dominoes 77 | calls 30
+    Leo -> everyone: Priya, I'm not seeing the start or the body line down the middle on the table yet, and everything hangs off it. Want me to lay the body so you can take the feelers? Shout if you've got it, otherwise I
+    (Priya held a thought)
+[  201s] 3:15 asked Maya,Priya,Leo | dominoes 85 | calls 33
+    Maya -> everyone: Priya, Leo, I'm laying the body and start right now, stroke 1, my hands are free. Priya, take the feelers. Leo, stay on the lower wings. Everyone keep clear of the middle line.
+    (Leo held a thought)
+    (Priya held a thought)
+[  212s] 3:30 asked Priya,Leo | dominoes 96 | calls 35
+    Priya -> everyone: Maya, hold on, I'm already on the body and the start, about two thirds down. If you trace it again you'll lift what I've laid, so please stay on the wing. Once the body's in I'll take the feelers.
+    (Leo held a thought)
+[  231s] 3:45 asked Maya,Leo | dominoes 107 | calls 39
+    Leo -> everyone: Priya has the body and start, so Maya, please stay on a wing and don't re-trace it. Priya, once the body's down, take the feelers. I'll squint at the middle and check the wing joints, and I'll re-trac
+    (Maya held a thought)
+[  245s] 4:00 asked Maya,Priya | dominoes 113 | calls 41
+    Priya -> everyone: Straight report from my dry run: right now only the left feeler would fall. The body and start aren't down on the table yet, so nothing else catches. I'm laying the body now from the start, then the f
+    (Maya held a thought)
+[  259s] 4:15 asked Maya,Tom,Leo | dominoes 101 | calls 44
+    Tom -> everyone: Priya, I'm still finishing my two left wing strokes, about eight dominoes to go. That long line across the top might be a wing stroke that grew off the wrong spot, so I'm running the fall to check. I'
+    (Leo held a thought)
+    (Maya held a thought)
+[  275s] 4:30 asked Maya,Priya | dominoes 103 | calls 46
+    Priya -> everyone: Tom, not yet. I'm about a quarter of the way down the body, and I'll shout when the start is in. Keep clear of the middle. I'm running the fall again now to see what catches.
+    (Maya held a thought)
+[  286s] 4:45 asked Tom | dominoes 102 | calls 47
+    Tom -> everyone: Dry run says only the feeler would fall right now, because the start and body aren't down. Priya, you stay on the body and I'll take both feelers so you don't have to. Also, that long line across the 
+[  299s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 103 | calls 51
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Priya, I'm off the body, it's all yours. The right feeler and top right wing are down, and the loop on the right is mine, it matches the pad. Tom, that long line across the top isn't mine, so I think 
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  311s] 5:15 asked Maya,Tom,Priya | dominoes 104 | calls 54
+    Tom -> everyone: Okay Maya, thanks, that long line may be mine. I'm running the fall on it now and I'll re-trace the wing if it's wrong. Priya, how far down is the body? It's the priority now, so shout if you want a h
+    (Priya held a thought)
+    (Maya held a thought)
+[  325s] 5:30 asked Maya,Priya | dominoes 98 | calls 56
+    Priya -> everyone: Tom, yes please, take both feelers. My run just finished, but I don't see the start or the full body line where it should be, so I'm checking the middle now. Stay clear of it for a moment. I'll shout 
+    (Maya held a thought)
+[  338s] 5:45 asked Maya,Tom | dominoes 98 | calls 58
+    Maya -> everyone: Priya, I just looked over the middle and I still don't see a start or the body line. We've got about four minutes. If it's not going down fast, tell me and I'll take the lower half of the body so you 
+    (Tom held a thought)
+[  350s] 6:00 asked Priya | dominoes 100 | calls 59
+    Priya -> everyone: Okay, straight answer: the body isn't down, so none of the wings catch. Only the left feeler falls. Maya, thanks, stay on your wing. I'm laying the body now. Tom, finish that left feeler all the way i
+[  360s] 6:15 asked Maya,Tom,Leo | dominoes 93 | calls 62
+    Tom -> everyone: On it, Priya. I'm finishing the left feeler down into the top of the body, then the right one. I'll stay off the middle.
+    (Leo held a thought)
+    (Maya held a thought)
+[  374s] 6:30 asked Maya,Priya | dominoes 100 | calls 64
+    Maya -> Priya: Priya, the body's only about a third down so far. Want me to take it from where it ends and carry it on down through the wing joints? Say the word and I'll extend it, I won't re-trace anything. Otherw
+    Priya -> everyone: Body's about a third down, still laying. Tom, the feeler goes into the top of it. Everyone stay clear of the middle line.
+[  393s] 6:45 asked Maya,Tom,Priya | dominoes 108 | calls 67
+    Priya -> Maya: Maya, yes please. Hold a few seconds until my run is past the top wing joint, then carry it on down through the lower joints with an extend. Don't re-trace it. I'm doing a quick check now.
+    Maya -> everyone: Priya, time's tight, so I'm carrying the body on from where it ends, straight down through the wing joints. I won't touch anything already laid. You can switch to the feeler joint and the top. Shout i
+    (Tom held a thought)
+[  405s] 7:00 asked Maya,Priya | dominoes 116 | calls 69
+    Priya -> everyone: Maya, go ahead from the end of the line, but only extend, no re-trace. I'm running the fall now and will shout where it stops.
+[  414s] 7:15 asked Maya,Tom | dominoes 129 | calls 71
+    Tom -> everyone: Priya, Maya, the top-left wing isn't down at all. I'm laying it now from the body out, and I'll stay off the middle line itself.
+    (Maya held a thought)
+[  422s] 7:30 asked Maya,Priya | dominoes 143 | calls 73
+    Priya -> everyone: Straight report: the fall stops where the body I laid meets Maya's lower body. There's a small gap there. I'm bridging it now. Tom, Maya, hands off that spot for a few seconds. After that I'll check t
+    (Maya held a thought)
+[  434s] 7:45 asked Maya,Tom | dominoes 156 | calls 75
+    Maya -> everyone: Priya, body's carried down to the tail, I'm off it. I'm taking the lower right wing now. Leo, you keep the lower left. Tom, the top left wing is the big gap.
+    (Tom held a thought)
+[  447s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 79
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Leo, you're on the lower right wing already, so I'll stay off it. I'm going to check the wing joints along the body to see what actually catches. Tom, shout if you want a hand finishing the top left w
+    (Leo held a thought)
+    (Tom held a thought)
+[  459s] 8:15 asked Maya,Tom,Leo | dominoes 152 | calls 82
+    Maya -> everyone: Priya, the dark run still stops just above the pale lower body. I'm fixing that gap now, one domino. Everyone else stay off the middle.
+    (Leo held a thought)
+    (Tom held a thought)
+[  468s] 8:30 asked Maya,Priya | dominoes 147 | calls 84
+    Priya -> everyone: Straight report: the run still stops at that gap just below the start line, so only the left feeler would fall right now. Maya, thanks for closing it. Hands off the middle after that. I'm going to loo
+    (Maya held a thought)
+[  477s] 8:45 asked Maya,Tom,Priya | dominoes 141 | calls 87
+    Priya -> everyone: Maya, the gap just below the start line is still open on my side. I'm nudging it shut now, so hands off that spot for a few seconds. Leo, Tom, keep going on the wings.
+    (Maya held a thought)
+    (Tom held a thought)
+[  487s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 136 | calls 91
+    Priya -> everyone: Closing that last gap in the middle now. Hands off it for a few seconds, then I'll tell you where the fall stops.
+    Maya -> everyone: Priya, it's yours, I'm off that spot. I'll look over the wing joints just below it.
+    (Tom held a thought)
+    (Leo held a thought)
+[  498s] 9:15 asked Maya,Tom,Priya | dominoes 128 | calls 94
+    Priya -> everyone: Closing the gap now, hands off the middle. Then I'll tell you where it stops.
+    Maya -> everyone: Priya, you keep the gap. I'm nudging the lower right wing joint just off the body, away from your spot.
+    (Tom held a thought)
+[  507s] 9:30 asked Maya,Priya | dominoes 124 | calls 96
+    Priya -> everyone: Closing the gap under the start line now. Everyone keep your hands off the middle.
+    Maya -> everyone: Priya, the middle's all yours, I'm staying clear. Tom, Leo, hands off the body now so nothing gets bumped.
+[  516s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 124 | calls 100
+    Priya -> everyone: Last nudge on the gap, hands off the middle. Running the fall now.
+    Tom -> everyone: Got it, hands off the gap. I'm laying the top-left wing out from the body now.
+    Leo -> everyone: Finishing the lower right wing, staying off the middle.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 568.1,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "a line of dominoes falling in a chain, seen from above",
+      "a bent stick or cane lying on the ground",
+      "a hooked fishing line or wire"
+    ],
+    [
+      "single bent line or hook shape",
+      "bent cane or walking stick",
+      "fallen domino seen from above"
+    ],
+    [
+      "a single domino or bar knocked over, bent at the end",
+      "a fishing line or cord with a hook at the bottom",
+      "a hand-drawn check mark or stroke on a blank background"
+    ]
+  ],
+  "placed": 124,
+  "fell": 20,
+  "completion": 0.161,
+  "team_score": 0.0,
+  "first_domino_at": "1:30",
+  "messages": 53,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 8,
+    "Maya": 14,
+    "Tom": 10,
+    "Priya": 18
+  },
+  "held_thoughts": 44,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 117,
+    "failed": 0,
+    "input_tokens": 250,
+    "cache_creation_tokens": 587377,
+    "cache_read_tokens": 401311,
+    "output_tokens": 68958,
+    "seconds": 923.4,
+    "api_equivalent_usd": 2.9189,
+    "cached": 0
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "lone",
+  "designer": "Leo",
+  "locked_at": 75.0,
+  "reviews": {},
+  "aesthetics": 0.2,
+  "art_ratings": [
+    {
+      "score": 2.0,
+      "why": "It is a single sparse stroke: a long straight line with a jagged kink and a short tail, with no composition, proportion, or subject to make it read as a drawing."
+    },
+    {
+      "score": 2.0,
+      "why": "It is a single sparse stroke with a lumpy kink and a short hook, with no composition or sense of a subject to make it read as a drawing."
+    },
+    {
+      "score": 2.0,
+      "why": "It is a single short, jagged stroke with a rough kink and hook, with no clear subject, proportion, or composition beyond a bare line."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.433,
+    "dry_run_fell": 110,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.5,
+      "4": 0.49,
+      "5": 0.01,
+      "6": 1.0,
+      "7": 0.64
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 75.0
+}

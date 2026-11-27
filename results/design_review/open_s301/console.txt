@@ -1,0 +1,369 @@
+[   18s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Okay, I met the client, and I'm pretty sure it's a butterfly. It's for a garden centre entrance, they want something that flies and visits flowers, they love symmetry, and their big launch is a new bu
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   25s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Priya -> everyone: Butterfly works for me, love it. Quick eng note while you sketch: put the start at the body, and let the wings grow off it as two big loops, one each side, so it's mirrored and the run splits only onc
+    (Leo held a thought)
+    (Tom held a thought)
+[   38s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 10
+    Maya -> everyone: Okay, sketch is up. Body in the middle, two wing loops each side, little antennae on top. Priya's plan, basically. I'm locking it. I'll take the body and the top right wing. Tom, take the top left win
+    (Leo held a thought)
+    (Tom held a thought)
+[   51s] 0:45 asked Tom,Priya,Leo | dominoes 5 | calls 13
+    Priya -> everyone: Nice sketch, Maya! Before we all start laying, give me a few seconds to dry-run it. I'm a bit worried about where the start sits and about the antennae and wings branching off at sharp angles.
+    (Tom held a thought)
+    (Leo held a thought)
+[   61s] 1:00 asked Maya,Tom,Priya | dominoes 10 | calls 16
+    Tom -> everyone: Just running the fall through the sketch real quick. Hold off on the wing joins for a sec, I think a couple of them leave the body too sharply.
+    (Priya held a thought)
+    (Maya held a thought)
+[   61s] 1:15 asked - | dominoes 15 | calls 16
+[   70s] 1:30 asked Tom,Priya | dominoes 20 | calls 18
+    Priya -> everyone: Good news, I ran the whole fall through and every stroke goes down, antennae and all four wings. No sharp-join problems that I can see, so keep going, Leo. I'm starting the bottom right wing now.
+    (Tom held a thought)
+[   76s] 1:45 asked Leo | dominoes 20 | calls 19
+    Leo -> everyone: Thanks Priya. I'm on the bottom left wing and the antennae. The first antenna is down, and the second is going in now.
+[   86s] 2:00 asked Priya | dominoes 23 | calls 20
+    Priya -> everyone: Thanks Leo, nice and steady on those antennae. Heads up, I don't see the body laid yet, and every wing hangs off it. Maya, I'm grabbing the body now so we don't stall, then my wing goes on after. Shou
+[   95s] 2:15 asked Maya,Leo | dominoes 30 | calls 22
+    Maya -> everyone: Go for it, Priya, you take the body. My top right wing is queued and will hang off it as soon as the body gets there. Tom, how's the top left wing coming?
+    (Leo held a thought)
+[  109s] 2:30 asked Tom,Priya | dominoes 44 | calls 24
+    Tom -> everyone: My top left wing is queued and will start as soon as Priya's body reaches it. Priya's on the body, so we're good. I'll check the joins once everything's down.
+    (Priya held a thought)
+[  118s] 2:45 asked Priya | dominoes 58 | calls 25
+    Priya -> everyone: Thanks Tom, body's through the middle and my wing is going on now. The right antenna still looks pale to me, so once I'm done I'll walk the whole run and check that join.
+[  127s] 3:00 asked Tom | dominoes 75 | calls 26
+    Tom -> everyone: Thanks Priya. I can see it too: the right antenna stops just short of the body, so there's a little gap. Your wing looks pale at the bottom of the body as well. I'll finish my wing, then come fix both
+[  137s] 3:15 asked Priya | dominoes 90 | calls 27
+    Priya -> everyone: Thanks Tom, good catch. I'm still laying my wing, so I'll close the gap at its start right after. If you get to the right antenna before me, go ahead and connect it, and I'll do an inspect on the whol
+[  142s] 3:30 asked Tom | dominoes 106 | calls 28
+    Tom -> everyone: Sounds good. I'm still on my wing, so you take the antenna gap if you get there first, otherwise I'll grab it right after.
+[  143s] 3:45 asked - | dominoes 117 | calls 28
+[  143s] 4:00 asked - | dominoes 123 | calls 28
+[  167s] 4:15 asked Maya,Priya,Leo | dominoes 143 | calls 32
+    Maya -> everyone: I've got the right antenna gap, joining it to the top of the body now. Priya, keep on the bottom wing join. Tom, finish the top left wing.
+    (Priya held a thought)
+    (Leo held a thought)
+[  173s] 4:30 asked Tom,Priya | dominoes 163 | calls 34
+    Priya -> everyone: Thanks Maya. I'm still bridging the bottom right wing at the body, about a third done. Once that's in I'll inspect the whole run. Tom, keep going on the top left.
+    (Tom held a thought)
+[  179s] 4:45 asked Maya,Tom | dominoes 184 | calls 36
+    Tom -> everyone: On it, Maya. Top left wing is almost there, just the last bit of the curl left. Then I'll check the bottom joins.
+    (Maya held a thought)
+[  188s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 200 | calls 40
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Antenna join's almost in, one domino left. Then I'll inspect the run. Priya, the lower right wing is the big pale bit, so that's the priority. Once Tom's curl is done, let's close the top wing tips ba
+    (Priya held a thought)
+    (Tom held a thought)
+[  199s] 5:15 asked Maya,Tom,Priya | dominoes 207 | calls 43
+    Tom -> everyone: Top left wing is done and it's falling. Priya, you're on the bottom right join, so I'll stay out of your way. I'm running the whole fall through now and will tell you what stops.
+    (Priya held a thought)
+    (Maya held a thought)
+[  212s] 5:30 asked Maya,Priya | dominoes 211 | calls 45
+    Priya -> everyone: Bridge is in, though a couple of dominoes wouldn't fit right at the join. Sorry Leo, I clipped the table next to you and knocked one down by the lower left. Standing it back up now, then I'll inspect 
+    (Maya held a thought)
+[  224s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 219 | calls 49
+    Priya -> everyone: Bridge is in and the lower left is standing again. The top left wing, the right antenna and the lower right loop still look pale to me. I'm dry-running the fall now and will tell you exactly where it 
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  234s] 6:00 asked Tom,Leo | dominoes 226 | calls 51
+    Leo -> everyone: Top left wing is still pale where it meets the body. I'm bridging that gap now, so Priya, you can leave it to me.
+    (Tom held a thought)
+[  243s] 6:15 asked Tom,Priya,Leo | dominoes 237 | calls 54
+    Priya -> everyone: Thanks Leo, top left is yours. I'm joining the start of the lower right loop to the body now. Maya, you've got the antenna.
+    (Leo held a thought)
+    (Tom held a thought)
+[  253s] 6:30 asked Maya,Tom,Leo | dominoes 243 | calls 57
+    Tom -> everyone: Inspect's back. The three pale bits are the right antenna, the top left wing and the lower right loop, and you three already have those. There's also a little sideways kink on the right side, near whe
+    (Maya held a thought)
+    (Leo held a thought)
+[  260s] 6:45 asked Tom,Priya,Leo | dominoes 243 | calls 60
+    Priya -> everyone: Join's in, though a couple of dominoes wouldn't fit right at it. I'm dry-running the fall now and will tell you exactly where it stops. Tom, go ahead with that kink on the right.
+    (Leo held a thought)
+[  269s] 7:00 asked Maya,Tom,Leo | dominoes 243 | calls 63
+    Leo -> everyone: Top left join is in as far as it'll fit. I'm nudging the one domino that sits off to the side right here, Priya, so leave that spot with me.
+    (Maya held a thought)
+[  275s] 7:15 asked Maya,Priya,Leo | dominoes 243 | calls 66
+    Priya -> everyone: Dry run's back, and it looks good: every stroke falls, both wings, the antennae and the lower loops, all the way through. Leo, that spot is yours, I'll stay clear. We've only got a handful of dominoes
+    (Maya held a thought)
+[  283s] 7:30 asked Maya,Tom,Leo | dominoes 243 | calls 69
+    Leo -> everyone: Heads up, my inspect says the top left wing is still pale, so it's not carrying through yet. The break is right at the join with the body, where one domino sits off to the side. I'm doing a small fix 
+    (Maya held a thought)
+    (Tom held a thought)
+[  591s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 243 | calls 74
+    Maya -> everyone: Heads up, we're down to a handful of dominoes, so joins only, nothing new. I'm fixing the right antenna join at the top of the body now. Leo, I'll stay clear of your spot.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  599s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 243 | calls 78
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Thanks Leo, and sorry, my dry run said that wing was falling and the picture says otherwise, so I called it too early. I'm staying clear of your spot. I'm dry-running again now that your fix is in. If
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  607s] 8:15 asked Maya,Tom,Leo | dominoes 245 | calls 81
+    Leo -> everyone: Top left wing still looks pale at the join. I'm bridging just that last gap, so please keep clear of that spot.
+    (Maya held a thought)
+    (Tom held a thought)
+[  613s] 8:30 asked Maya,Tom,Priya | dominoes 250 | calls 84
+    Priya -> everyone: Dry run's back, and it says the whole sketch falls, wing included. But my last one was wrong too, so trust the picture over me. Leo, if your bridge closes that join, we're done. I'm staying clear. Eve
+    (Maya held a thought)
+    (Tom held a thought)
+[  621s] 8:45 asked Maya,Tom,Leo | dominoes 250 | calls 87
+    Leo -> everyone: Thanks Priya. Bridge is still going in, nearly there. Keep clear of that spot and I'll shout when it's done.
+    Tom -> everyone: Leo, that spot's yours, I'm staying clear. Shout if you want a hand standing anything back up.
+    (Maya held a thought)
+[  627s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 91
+[  627s] 9:15 asked - | dominoes 250 | calls 91
+[  632s] 9:30 asked Leo | dominoes 250 | calls 92
+    Leo -> everyone: Bridge is in as far as the supply allowed, we're out of dominoes. The top left wing may still stop at the join, so everyone keep hands off and just stand up anything that gets bumped.
+[  639s] 9:45 asked Maya,Tom,Priya | dominoes 250 | calls 95
+    Maya -> everyone: Nice work, everyone. Hands off now, and let's see that butterfly fly.
+    Tom -> everyone: Nice work, everyone. Hands off now, fingers crossed for the push.
+    (Priya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 694.1,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "abstract loopy scribble or doodle",
+      "a bird or butterfly with outstretched wings",
+      "a cursive letter or stylized signature"
+    ],
+    [
+      "butterfly with outstretched wings",
+      "bird in flight",
+      "abstract looping scribble"
+    ],
+    [
+      "abstract continuous-line doodle of loops and tangles",
+      "butterfly or bow-shaped outline with wings",
+      "tangled ribbon or rope with a knot"
+    ]
+  ],
+  "placed": 250,
+  "fell": 164,
+  "completion": 0.656,
+  "team_score": 0.438,
+  "first_domino_at": "0:45",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Priya": 14,
+    "Tom": 9,
+    "Leo": 7
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 112,
+    "failed": 1,
+    "input_tokens": 234,
+    "cache_creation_tokens": 526297,
+    "cache_read_tokens": 375578,
+    "output_tokens": 53230,
+    "seconds": 1087.4,
+    "api_equivalent_usd": 2.5415,
+    "cached": 0
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "open",
+  "designer": null,
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.333,
+  "art_ratings": [
+    {
+      "score": 3.0,
+      "why": "The big loops have some flowing curves, but the strokes are broken into choppy segments with stray ticks, and the tangle in the center makes the composition cluttered and hard to read."
+    },
+    {
+      "score": 3.0,
+      "why": "The big loops on the left and right have some flowing curves, but the central tangle of broken, overlapping strokes is cluttered and the subject is hard to read."
+    },
+    {
+      "score": 4.0,
+      "why": "The big loops on the left and right have a flowing, confident curve, but the centre is a cluttered tangle of stubs, gaps and stray ticks, so the composition reads as messy rather than clean."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 180,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0,
+      "4": 0.97,
+      "5": 1.0,
+      "6": 1.0,
+      "7": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.222,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}

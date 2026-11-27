@@ -1,0 +1,418 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Okay, I've talked to the client and it's a butterfly. It's for the garden centre entrance, they've got a butterfly house launching, and they love symmetrical shapes. No birds at all, they've had pigeo
+    (Leo held a thought)
+    (Priya held a thought)
+[   29s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Leo -> everyone: Butterfly's great. I'd make the wings big and rounded, two upper ones large and two smaller lower ones, mirrored left and right, filling most of the table. Antennae as two clean curls at the top so it
+    (Tom held a thought)
+    (Priya held a thought)
+[   44s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 10
+    Maya -> everyone: Sketch's up. Tom, body first. Priya takes the left wings, Leo the right wings and antennae. Locking it now, shout if something looks off.
+    (Tom held a thought)
+    (Priya held a thought)
+[   85s] 0:45 asked Tom,Priya,Leo | dominoes 0 | calls 16
+    Tom -> everyone: Maya, hold on before you lock. The wings come off the body almost flat sideways, and the fall runs up the body, so I think they won't catch. Let me dry run it.
+    (Priya held a thought)
+[  102s] 1:00 asked Maya | dominoes 0 | calls 17
+    Maya -> everyone: Good catch, Tom, thanks. Not locking yet. I'm redrawing the wings so they peel off the body on a diagonal heading up and out, not flat sideways. Give me a few seconds, then dry-run it again.
+[  113s] 1:15 asked Tom,Priya,Leo | dominoes 0 | calls 20
+    Tom -> everyone: Maya, I ran the new one. Body and both lower wings go down fine. The big upper wings still don't catch, because they peel off a bit too sideways. They need to leave the body more upward, closer to str
+    (Priya held a thought)
+    (Leo held a thought)
+[  137s] 1:30 asked Maya,Priya,Leo | dominoes 0 | calls 23
+    Maya -> everyone: Redrew it. Wings and antennae now go almost straight up off the body before they curl out. Locking it. Tom, body first. Priya, left wings and the left antenna. Leo, right wings and the right antenna. 
+    (Leo held a thought)
+[  155s] 1:45 asked Tom,Priya,Leo | dominoes 2 | calls 26
+    Leo -> everyone: On it: right upper wing, right lower wing and the right antenna. Tom, shout when the body's through so I know the joins are catching.
+    (Tom held a thought)
+[  169s] 2:00 asked Maya,Tom | dominoes 11 | calls 28
+    Maya -> everyone: Dry runs look fine, so let's lay it. I'm taking the body now, stroke 1, which also puts the start down. Priya, left wings. Leo, you've got the right side. Tom, take both antennae, then help whichever 
+    (Tom held a thought)
+[  182s] 2:15 asked Tom,Priya,Leo | dominoes 26 | calls 31
+    Priya -> everyone: Maya, my dry run doesn't match what Tom saw. Both lower wings never catch, because they peel off the body too flat down by the bottom. The upper wings and both antennae only fall part of the way befor
+    (Tom held a thought)
+    (Leo held a thought)
+[  206s] 2:30 asked Maya,Tom | dominoes 42 | calls 33
+    Maya -> everyone: Good catch, Priya. Keep going on the upper wing, it isn't changing. I'm redrawing the lower wings and antennae so they lift off the body steeply first. Priya and Leo, retrace the lower wings once I sa
+    (Tom held a thought)
+[  213s] 2:45 asked Priya,Leo | dominoes 57 | calls 35
+    Leo -> everyone: Got it, I'm on the right side. I'll finish the right upper wing now. Maya, shout when the new lower wing and antenna are on the pad and I'll retrace those. I'll squint-check once it all stands.
+[  222s] 3:00 asked Maya,Tom | dominoes 74 | calls 37
+    Tom -> everyone: Priya, you're right, and I'm sorry my earlier run said the lower wings were fine. I re-ran the final sketch. Both lower wings never get picked up, because they leave the body too flat. The upper wings
+    (Maya held a thought)
+[  233s] 3:15 asked Maya,Priya | dominoes 90 | calls 39
+    Maya -> everyone: The new lower wings and antennae are on the pad now. I'm done with the body, so I'll lay both lower wings myself. Priya and Leo, stay on your upper wings. Tom, go ahead with the antennae. Shout if any
+    (Priya held a thought)
+[  251s] 3:30 asked Tom,Priya,Leo | dominoes 102 | calls 42
+    Tom -> everyone: Running the new sketch now, give me half a minute before anyone retraces the lower wings. I'll shout which strokes catch, then take the antennae.
+    (Priya held a thought)
+    (Leo held a thought)
+[  251s] 3:45 asked - | dominoes 111 | calls 42
+[  266s] 4:00 asked Tom,Priya | dominoes 119 | calls 44
+    Tom -> everyone: Maya, ran it, and it's still not there. Both lower wings never get picked up, they still leave the body too flat. The antennae and the big wing strokes only fall part of the way. So hold off on retrac
+    (Priya held a thought)
+[  295s] 4:15 asked Maya,Priya,Leo | dominoes 119 | calls 49
+    Maya -> everyone: Thanks Tom, that makes sense. I'm redrawing both lower wings now so they start low on the body and run straight up alongside it before swinging out. They'll be the two new strokes at the end of the pa
+    (Priya held a thought)
+    (Leo held a thought)
+[  306s] 4:30 asked Tom,Priya,Leo | dominoes 119 | calls 54
+    Tom -> everyone: Maya, I see the new lower wings are up. Give me half a minute to run it, then I'll say which ones catch.
+    (Priya held a thought)
+[  313s] 4:45 asked Maya | dominoes 123 | calls 55
+    Maya -> everyone: Tom, thanks. Time's tight, so I'm laying both new lower wings now. Shout if they don't catch off the body. Antennae next, I'll redo them the same way.
+[  325s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 59
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Maya, Tom, I dry-ran the new pad. Both new lower wings catch off the body, so go ahead. Maya, you stay on the left one, I'll lay the right one now. Antennae still only fall part of the way, so redo th
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  335s] 5:15 asked Maya,Tom,Priya | dominoes 124 | calls 62
+    Maya -> everyone: Thanks Priya, you take the right lower wing and I've got the left. Tom, change of plan on the antennae: just trace both as they are on the pad, they're short and even a partial fall helps it read as a
+    (Tom held a thought)
+    (Priya held a thought)
+[  347s] 5:30 asked Tom,Priya | dominoes 125 | calls 64
+    Tom -> everyone: On it, Maya. Tracing both antennae as drawn. I'm also nudging a small gap in the body just above where the lower wings join, since the upper body looks disconnected from the start. The break at the to
+    (Priya held a thought)
+[  356s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 130 | calls 68
+    Priya -> everyone: I'm bridging the gap in the body just above where the dark run stops. That's what's cutting off the upper wings. Tom, I'll take this one so we don't both work the same spot. Maya's on the left lower w
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  368s] 6:00 asked Maya,Tom,Priya | dominoes 136 | calls 71
+    Priya -> everyone: Tom, small correction: my bridge placed nothing, the dominoes were too close together. The body might already be joined there. I'm running it through to check before anyone retraces anything.
+    (Maya held a thought)
+    (Tom held a thought)
+[  378s] 6:15 asked Tom | dominoes 135 | calls 72
+    Tom -> everyone: Fine by me, Priya, the body gap is yours. My antenna's down. Leo, the right upper wing still looks pale where it leaves the top of the body. Can you retrace that stroke? I'm checking the top join now.
+[  391s] 6:30 asked Maya,Priya,Leo | dominoes 138 | calls 77
+    Priya -> everyone: Tom, Leo, the body's fine, it's joined all the way up, so no more bridging there. The right upper wing is the pale one that's cut off, and my run says it only half falls. I'm retracing it now from the
+    (Leo held a thought)
+    (Maya held a thought)
+[  701s] 6:45 asked Maya,Tom,Leo | dominoes 149 | calls 83
+    Maya -> everyone: Thanks Priya, you stay on the right upper wing retrace. I'll nudge the top join by the head where one domino sits off its path. Leo, take the right antenna. Time's tight, so don't start anything new.
+    (Leo held a thought)
+    (Tom held a thought)
+[  709s] 7:00 asked Maya,Priya,Leo | dominoes 160 | calls 88
+    Leo -> everyone: Squint check: the right side reads bare. The right antenna looks down already, but I can't see the right lower wing at all. Priya's on the upper wing, so I'm tracing the right lower wing now.
+    (Maya held a thought)
+    (Priya held a thought)
+[  725s] 7:15 asked Maya,Tom,Priya | dominoes 160 | calls 91
+    Maya -> everyone: Nudging the top join by the head now and standing up anything knocked there. Priya's still on the right wing, Leo's on the lower one.
+    Tom -> everyone: Left antenna's down. Running it once more to see what still doesn't catch.
+    (Priya held a thought)
+[  734s] 7:30 asked Maya,Priya,Leo | dominoes 154 | calls 94
+    Priya -> everyone: Leo, yes please, the right lower wing was missing, so go ahead. I'm staying on the right upper wing, about half laid. I'll run it through once it's down and shout what's still cut off.
+    (Maya held a thought)
+[  742s] 7:45 asked Maya,Tom,Leo | dominoes 149 | calls 97
+    Tom -> everyone: Dry run says the body, left upper wing and both lower wings all catch. The right upper wing and both antennae still only fall part of the way. Priya, keep going on that wing. I'll look at the join up 
+    (Maya held a thought)
+    (Leo held a thought)
+[  756s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 143 | calls 101
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Found it: at the head join, one domino sits off its path, and that's what cuts the right wing and antennae off. Maya, I'm nudging it into line right now, so if yours already caught, just leave it. Pri
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  770s] 8:15 asked Maya,Tom,Priya | dominoes 138 | calls 104
+    Priya -> everyone: Tom, thanks for the head nudge. I'm running it again now to see if the right wing and antennae catch. Nobody retrace anything until I shout.
+    (Maya held a thought)
+    (Tom held a thought)
+[  781s] 8:30 asked Maya,Tom | dominoes 132 | calls 106
+    Maya -> everyone: Thanks Tom, I'll leave the head join alone. Priya, keep going on the right wing. Everyone else, hands off the middle so we don't knock anything.
+[  794s] 8:45 asked Tom,Priya | dominoes 129 | calls 108
+    Priya -> everyone: Dry run: body, left wing and both lower wings catch. The right wing still breaks where it leaves the body, so I'm bridging that join now. Everyone else, hands off the middle.
+[  802s] 9:00 asked Maya | dominoes 131 | calls 109
+[  811s] 9:15 asked Tom | dominoes 136 | calls 110
+    Tom -> everyone: Dry run says body, left wing and lower wings all catch. Right upper wing and the antennae still only fall part way. Priya's bridge on the right wing is the one that matters, so I'm keeping my hands of
+[  817s] 9:30 asked Maya,Priya,Leo | dominoes 139 | calls 115
+    Priya -> everyone: Tom, thanks. I'm finishing the right wing bridge now, so everyone keep your hands off the middle and don't knock anything.
+    Maya -> everyone: Looking good, everyone. Hands off the middle and let it run.
+[  824s] 9:45 asked Maya,Tom | dominoes 146 | calls 117
+    Maya -> everyone: Hands off, let it run. Nice work, team.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 887.4,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "a bare tree with branches",
+      "a sprouting plant or sapling",
+      "a lightning bolt or crack"
+    ],
+    [
+      "bare tree with branches",
+      "branching lightning bolt",
+      "dominoes toppled in a branching chain"
+    ],
+    [
+      "bare tree with branches",
+      "forked lightning bolt",
+      "branching chain of fallen dominoes"
+    ]
+  ],
+  "placed": 146,
+  "fell": 82,
+  "completion": 0.562,
+  "team_score": 0.0,
+  "first_domino_at": "1:45",
+  "messages": 43,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 15,
+    "Leo": 4,
+    "Tom": 12,
+    "Priya": 9
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 134,
+    "failed": 1,
+    "input_tokens": 266,
+    "cache_creation_tokens": 599803,
+    "cache_read_tokens": 425207,
+    "output_tokens": 69817,
+    "seconds": 1270.9,
+    "api_equivalent_usd": 2.9559,
+    "cached": 10
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "lone",
+  "designer": "Maya",
+  "locked_at": 90.0,
+  "reviews": {},
+  "aesthetics": 0.433,
+  "art_ratings": [
+    {
+      "score": 5.0,
+      "why": "A clean, uncluttered branching tree with a graceful left limb, but the trunk is stiff and straight, and the knot where the branches meet looks tangled."
+    },
+    {
+      "score": 4.0,
+      "why": "The long left branch flows nicely and the overall silhouette is simple, but the trunk is jittery and cluttered with short tick marks, and the upper right branch looks abrupt."
+    },
+    {
+      "score": 4.0,
+      "why": "The branching sprout has a pleasant, readable silhouette, but the trunk is a stiff straight drop and the cluttered knot where the branches meet looks clumsy."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.567,
+    "dry_run_fell": 14,
+    "per_stroke": {
+      "1": 0.57,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0,
+      "6": 0.0,
+      "7": 0.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Leo",
+      "check": "squint"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.0,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": false,
+        "at": null,
+        "by": null
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 3,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 90.0
+}

@@ -1,0 +1,422 @@
+[   10s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> Jack: Jack, what did the client say about animals? Any favourite, or anything they hate? I'm leaning towards something lakey like a swan or a fish, but I'll go with whatever they want. Quick answer please, 
+    Jack -> everyone: Hey team, I'm Jack, and I met the client, so let me save you some time. It's for a rowing club wall by a lake, and they want a bird gliding on the water, graceful, with a long elegant neck. No fish, t
+    (Hana held a thought)
+    (Omar held a thought)
+[   26s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Jack -> Sofia: Sofia, short version: swan, definitely. Client wants a graceful bird with a long curved neck, nothing fishy. Big S-curve neck and a beak, plus a rounded body, and the outline will read. Over to you, a
+    Sofia -> everyone: Swan it is, thanks Jack! I've drawn it as two lines from the tail: one over the back and up the neck to the beak, one round the belly and up the front of the neck. Locking now. Omar, take stroke 1, it
+    (Hana held a thought)
+    (Omar held a thought)
+[   54s] 0:30 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 15
+    Sofia -> everyone: Locking the swan now. Omar, you're on stroke 1, the back, neck and beak. Hana, you're on stroke 2, the belly and the front of the neck. Shout if anything looks off, and I'll dry-run it in a sec.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[   77s] 0:45 asked Omar,Hana,Jack | dominoes 0 | calls 21
+    Jack -> everyone: Love it, Sofia, that's a proper swan shape! Omar on stroke one, Hana on two, go go go. I'm popping over to show the client the sketch while you get moving, then I'll come fill in the gaps.
+    (Hana held a thought)
+    (Omar held a thought)
+[   87s] 1:00 asked Sofia,Omar,Hana | dominoes 0 | calls 26
+    Omar -> everyone: On it. Taking stroke 1 and laying the start now. Running the fall in my head too, and I'll shout if the neck kinks near the head.
+    (Sofia held a thought)
+    (Hana held a thought)
+[   87s] 1:15 asked - | dominoes 0 | calls 26
+[   99s] 1:30 asked Sofia,Omar,Hana,Jack | dominoes 12 | calls 30
+    Jack -> everyone: Back from the client, and good news: they love the swan. The Silver Swan trophy makes it a perfect fit, and they like the long neck. One worry, though. The body looks lopsided and pointy at the left e
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  113s] 1:45 asked Sofia | dominoes 24 | calls 31
+    Sofia -> everyone: Thanks Jack, good eye. I'm going to keep the shape as drawn, though. Both strokes dry-ran clean, and changing the body now means ripping up what's standing and adding weak joins. The big S-neck and be
+[  123s] 2:00 asked Omar,Hana,Jack | dominoes 32 | calls 34
+    Jack -> everyone: Fair enough, Sofia, you dry-ran it and I trust that. The neck and beak will carry it, and the client loves the neck anyway. Omar and Hana are flying, nice work you two! I'll keep an eye on the joins a
+    (Hana held a thought)
+    (Omar held a thought)
+[  134s] 2:15 asked Sofia,Omar,Hana,Jack | dominoes 43 | calls 38
+    Sofia -> everyone: Omar, stroke 1 has stalled just past the start while the belly line is racing ahead. I'll carry the back on from where it ends, so you can jump on the neck end further along. Jack, same for you, grab 
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  144s] 2:30 asked Omar,Jack | dominoes 54 | calls 40
+    Jack -> everyone: Sofia, I've got the back from where it ends, heading for the middle of the back now. You jump ahead to the neck so we're not elbow to elbow. Hana's belly is miles ahead, so let's catch up!
+    (Omar held a thought)
+[  158s] 2:45 asked Sofia,Hana | dominoes 58 | calls 44
+    Sofia -> everyone: Jack, you carry the back on to the bend. Don't worry about my last few dominoes, a couple didn't fit right by yours. I'm checking that join now. Once the back gets to the bend I'll take the neck up, a
+    (Hana held a thought)
+[  183s] 3:00 asked Sofia,Omar,Jack | dominoes 67 | calls 48
+    Jack -> everyone: Sofia, the back has reached the bend! I'm nudging it a few dominoes toward the base of the neck, then it's all yours for the neck. Omar, the head and beak are yours!
+    (Sofia held a thought)
+    (Omar held a thought)
+[  194s] 3:15 asked Sofia,Omar,Hana | dominoes 77 | calls 51
+    Sofia -> everyone: Back's at the bend, so I'm taking the neck up from here. Omar, head and beak once the neck gets near the top. Jack, stay on the back and top up any gaps.
+    (Hana held a thought)
+    (Omar held a thought)
+[  205s] 3:30 asked Omar,Hana,Jack | dominoes 87 | calls 54
+    Omar -> everyone: Sofia, my dry run says both lines fall clean and the bend is fine, so keep the neck going up. I'll take the head and beak once your line gets near the top. Meanwhile I'll carry the front-neck line on 
+    (Hana held a thought)
+    (Jack held a thought)
+[  215s] 3:45 asked Sofia,Jack | dominoes 91 | calls 56
+    Sofia -> everyone: Neck's nearly at the top. I'm taking it a few more dominoes up to the head, then Omar, the curve over into the beak is yours. Hana's front line is coming up on the right, so the beak should land close
+    (Jack held a thought)
+[  226s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 97 | calls 62
+    Sofia -> everyone: Neck's at the top. I'm carrying it over the head and out into the beak now. Omar, if you're free, go and check Hana's front-neck line, and Jack, keep topping up gaps on the back.
+    (Omar held a thought)
+    (Jack held a thought)
+[  238s] 4:15 asked Omar,Hana,Jack | dominoes 98 | calls 67
+    Omar -> everyone: Sofia, I'm already on the head, nearly over the top. Ease off there so we don't bump each other. I'll take the beak out to the right, and then check Hana's front line.
+    (Jack held a thought)
+[  246s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 98 | calls 73
+    Sofia -> everyone: Got it Omar, the head and beak are all yours, I'm off it. I'm doing a dry run of the whole swan now so we know the fall makes it all the way round. Jack, keep topping up the back.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  255s] 4:45 asked Omar,Jack | dominoes 101 | calls 75
+    Jack -> everyone: Sounds good, Omar, I'll stay clear of the head. I'm just bridging the little gap between the front line top and the beak tip, so you carry on with the beak.
+    (Omar held a thought)
+[  265s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 79
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Hana -> everyone: Sofia, Omar, quick honest squint: from a stranger's view it reads as a banana or crescent moon, not a swan yet. The sweep is nice, but the beak is tiny and the neck is thick. I don't want to rip anyth
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Jack held a thought)
+[  279s] 5:15 asked Sofia,Omar,Jack | dominoes 101 | calls 82
+    Sofia -> everyone: Hana, yes to the bigger beak, but it has to carry on from the head end heading right, only gently angled, or it won't get the fall. Omar, can you make it a long pointed wedge? Skip the tail flick, it'
+    (Omar held a thought)
+    (Jack held a thought)
+[  286s] 5:30 asked Omar,Hana,Jack | dominoes 101 | calls 87
+    Omar -> everyone: Fair squint, Hana. I'm on the beak right now, so I'll make it longer and pointier, no extra strokes needed. Tail flick is yours only if it branches off the back line at a gentle angle, otherwise it wo
+    (Jack held a thought)
+    (Hana held a thought)
+[  294s] 5:45 asked Sofia,Hana,Jack | dominoes 101 | calls 92
+    Hana -> everyone: Fair on the tail flick, Sofia, I'm dropping it. Fresh squint: the long S sweep with the hook at the top is starting to read as a swan neck, better than before, but it's still more crescent than swan u
+    (Sofia held a thought)
+    (Jack held a thought)
+[  303s] 6:00 asked Sofia,Omar,Jack | dominoes 107 | calls 95
+    Sofia -> everyone: Thanks Omar, you keep the beak. Dry run on the whole swan is still clean, everything falls from the start round to the head. Hana, the longer beak is a good call, just keep it heading right off the he
+    (Jack held a thought)
+    (Omar held a thought)
+[  312s] 6:15 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 99
+    Sofia -> everyone: Found a small gap right at the top of the head, just before the beak. I'm nudging it closed now. Omar, keep going on the beak further out, I'll stay on just that one spot.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  324s] 6:30 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 103
+    Hana -> everyone: Quick report from my look at the head: the beak bit out to the right isn't catching from the start yet, about seven dominoes. The turn at the top of the head is a bit sharp, and one domino sits off to
+    (Omar held a thought)
+    (Jack held a thought)
+    (Sofia held a thought)
+[  332s] 6:45 asked Sofia,Omar,Jack | dominoes 107 | calls 106
+    Sofia -> everyone: Fix at the head is in. Hana, thanks for the report. I'm taking a close look over the head and beak now to see where the fall stops. Omar, keep the beak heading right, long and gentle, no curl down at 
+    (Omar held a thought)
+    (Jack held a thought)
+[  341s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 112
+    Sofia -> everyone: Inspected the head: one domino near the head join is still sitting off to the side. I'm nudging it into line now. Omar, the beak tip curls down at the end, so if you add dominoes keep them heading rig
+    (Omar held a thought)
+    (Jack held a thought)
+[  351s] 7:15 asked Sofia,Omar,Jack | dominoes 107 | calls 115
+    Omar -> everyone: Sofia, Hana, my dry run says the whole run falls clean, beak included. The tip curls down a bit, but it still catches. With the time left I'd leave it alone. Jack, please don't bridge across the beak 
+    (Sofia held a thought)
+    (Jack held a thought)
+[  359s] 7:30 asked Sofia,Hana,Jack | dominoes 107 | calls 118
+    Hana -> everyone: Honest squint: it's still more crescent than swan, but there's no time for a redo and it falls clean, so I agree we leave it. Omar, Jack, hands off the beak tip. I'm just going to check the head and b
+    (Sofia held a thought)
+    (Jack held a thought)
+[  367s] 7:45 asked Omar,Hana,Jack | dominoes 107 | calls 123
+    Omar -> everyone: Agreed, Hana. It falls clean, so let's not poke it now. Crescent or swan, it'll be a very elegant crescent swan. Jack, just stand up anything that's been bumped on the back and then hands off. Then we
+    (Jack held a thought)
+[  374s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 127
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Agreed, Omar and Hana. My dry run says it falls clean end to end, so hands off the head and beak. Jack, just stand up anything bumped on the back, then we all step back and watch it go.
+    (Omar held a thought)
+    (Jack held a thought)
+[  380s] 8:15 asked Omar,Hana,Jack | dominoes 107 | calls 130
+    Omar -> everyone: Two minutes, team. Hands off the beak, and if anything's been bumped on the back, stand it up and step away. Otherwise we just enjoy the show.
+    (Jack held a thought)
+[  385s] 8:30 asked Sofia,Hana,Jack | dominoes 107 | calls 133
+    Jack -> everyone: Thanks Sofia for the fix, and Omar, got it. I'm hands off the head and beak now, the back all looks standing. Great work, team, nice swan! Let's watch it go.
+[  392s] 8:45 asked Sofia,Omar,Hana | dominoes 107 | calls 136
+    Omar -> everyone: All good from my side, Jack. Dry run says the whole thing falls start to finish. Hands off, everyone, step back and enjoy the show.
+    (Sofia held a thought)
+[  398s] 9:00 asked Sofia,Hana,Jack | dominoes 107 | calls 139
+    Sofia -> everyone: Thanks Jack! Everything's connected from the start, so hands off and let it fall. Fingers crossed for the swan!
+    (Jack held a thought)
+[  403s] 9:15 asked Omar,Hana,Jack | dominoes 107 | calls 144
+    Jack -> everyone: Nothing from me, I'm clear of it. Fingers crossed, and nice work everyone, the client's going to love a swan for the Silver Swan wall!
+    Omar -> everyone: All set, team. Hands off and stand back. Here goes our elegant crescent swan!
+[  409s] 9:30 asked Sofia,Omar,Jack | dominoes 107 | calls 147
+    Jack -> everyone: Here we go, team! Great teamwork, and Hana, thanks for the honest squints. Watch it fall!
+    Omar -> everyone: Thirty seconds, team. Hands off, step back, enjoy the push.
+    Sofia -> everyone: All set, we're good. Stepping back, here it goes!
+[  415s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 151
+    Jack -> everyone: Here it goes! Fingers crossed for our swan, great work everyone!
+    Omar -> everyone: Hands off, everyone. Watch the swan go!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.44,
+      "error": 0.69
+    },
+    "Omar": {
+      "speed": 1.11,
+      "error": 1.2
+    },
+    "Hana": {
+      "speed": 1.49,
+      "error": 0.85
+    },
+    "Jack": {
+      "speed": 1.26,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 452.8,
+  "intents": {
+    "Sofia": "swan",
+    "Omar": "swan",
+    "Hana": "swan",
+    "Jack": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "shrimp",
+      "bird head and curved neck",
+      "boot"
+    ],
+    [
+      "swan or goose outline",
+      "shrimp or prawn",
+      "boot or slipper"
+    ],
+    [
+      "swan or goose with neck curved up",
+      "shrimp or prawn outline",
+      "boot or slipper drawn sideways"
+    ]
+  ],
+  "placed": 107,
+  "fell": 107,
+  "completion": 1.0,
+  "team_score": 0.667,
+  "first_domino_at": "1:30",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 18,
+    "Jack": 12,
+    "Omar": 11,
+    "Hana": 4
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 168,
+    "failed": 0,
+    "input_tokens": 290,
+    "cache_creation_tokens": 752898,
+    "cache_read_tokens": 489421,
+    "output_tokens": 70662,
+    "seconds": 1034.9,
+    "api_equivalent_usd": 3.657,
+    "cached": 28
+  },
+  "roles": {
+    "Sofia": "eng",
+    "Omar": "eng",
+    "Hana": "design",
+    "Jack": "pm"
+  },
+  "design_mode": "lone",
+  "designer": "Sofia",
+  "locked_at": 30.0,
+  "reviews": {},
+  "aesthetics": 0.433,
+  "art_ratings": [
+    {
+      "score": 4.0,
+      "why": "The long lower curve flows well and the silhouette is simple, but the jagged tick marks along the top, the tangled knot at the neck, and the unclear subject make it feel clumsy."
+    },
+    {
+      "score": 4.0,
+      "why": "The big sweeping curve flows well and the composition is simple, but the tick-like jags along the outline, the cluttered knot at the top, and the ambiguous form keep it from looking skilled."
+    },
+    {
+      "score": 5.0,
+      "why": "The large sweeping curve flows well and the outline is clear, but the head is cluttered with jagged ticks, and the joins near the middle look awkward."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 0.0,
+    "aesthetics": 0.333,
+    "dry_run_fell": 79,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Jack",
+      "check": "ask_client"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    },
+    {
+      "who": "Omar",
+      "check": "dry_run"
+    },
+    {
+      "who": "Sofia",
+      "check": "dry_run"
+    },
+    {
+      "who": "Hana",
+      "check": "squint"
+    }
+  ],
+  "client": "rowing",
+  "client_best": "swan",
+  "notes": {
+    "Sofia": [],
+    "Omar": [],
+    "Hana": [],
+    "Jack": [
+      "It's for the wall of a rowing club by a lake.",
+      "They want something from the water.",
+      "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+      "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+      "The client said they want something graceful, with a long elegant neck.",
+      "The client said it should be a bird you'd see gliding on the lake."
+    ]
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "swan",
+  "final_score": 0.289,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you the club's oldest and proudest trophy is the Silver Swan.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said no fish: the clubhouse restaurant went vegetarian and fish feels wrong now.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said they want something graceful, with a long elegant neck.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "The client said it should be a bird you'd see gliding on the lake.",
+        "rumour": false,
+        "holders": [
+          "Jack"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Jack"
+      },
+      {
+        "fact": "Someone said the club captain is mad about otters.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 30.0
+}

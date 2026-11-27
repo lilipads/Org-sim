@@ -1,0 +1,241 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.44,
+      "error": 1.25
+    },
+    "Tom": {
+      "speed": 0.92,
+      "error": 0.68
+    },
+    "Priya": {
+      "speed": 1.39,
+      "error": 0.89
+    },
+    "Leo": {
+      "speed": 1.09,
+      "error": 1.21
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 694.1,
+  "intents": {
+    "Maya": "butterfly",
+    "Tom": "butterfly",
+    "Priya": "butterfly",
+    "Leo": "butterfly"
+  },
+  "team_intent": "butterfly",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "abstract loopy scribble or doodle",
+      "a bird or butterfly with outstretched wings",
+      "a cursive letter or stylized signature"
+    ],
+    [
+      "butterfly with outstretched wings",
+      "bird in flight",
+      "abstract looping scribble"
+    ],
+    [
+      "abstract continuous-line doodle of loops and tangles",
+      "butterfly or bow-shaped outline with wings",
+      "tangled ribbon or rope with a knot"
+    ]
+  ],
+  "placed": 250,
+  "fell": 164,
+  "completion": 0.656,
+  "team_score": 0.438,
+  "first_domino_at": "0:45",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Priya": 14,
+    "Tom": 9,
+    "Leo": 7
+  },
+  "held_thoughts": 48,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 112,
+    "failed": 1,
+    "input_tokens": 234,
+    "cache_creation_tokens": 526297,
+    "cache_read_tokens": 375578,
+    "output_tokens": 53230,
+    "seconds": 1087.4,
+    "api_equivalent_usd": 2.5415,
+    "cached": 0
+  },
+  "roles": {
+    "Maya": "pm",
+    "Tom": "eng",
+    "Priya": "eng",
+    "Leo": "design"
+  },
+  "design_mode": "open",
+  "designer": null,
+  "locked_at": 45.0,
+  "reviews": {},
+  "aesthetics": 0.333,
+  "art_ratings": [
+    {
+      "score": 3.0,
+      "why": "The big loops have some flowing curves, but the strokes are broken into choppy segments with stray ticks, and the tangle in the center makes the composition cluttered and hard to read."
+    },
+    {
+      "score": 3.0,
+      "why": "The big loops on the left and right have some flowing curves, but the central tangle of broken, overlapping strokes is cluttered and the subject is hard to read."
+    },
+    {
+      "score": 4.0,
+      "why": "The big loops on the left and right have a flowing, confident curve, but the centre is a cluttered tangle of stubs, gaps and stray ticks, so the composition reads as messy rather than clean."
+    }
+  ],
+  "locked_design_quality": {
+    "recognition": 1.0,
+    "aesthetics": 0.5,
+    "dry_run_fell": 180,
+    "per_stroke": {
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0,
+      "4": 0.97,
+      "5": 1.0,
+      "6": 1.0,
+      "7": 1.0
+    }
+  },
+  "checks": [
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    },
+    {
+      "who": "Tom",
+      "check": "dry_run"
+    },
+    {
+      "who": "Priya",
+      "check": "dry_run"
+    }
+  ],
+  "client": "garden",
+  "client_best": "butterfly",
+  "notes": {
+    "Maya": [
+      "It's for the entrance of a garden centre.",
+      "They want something colourful-feeling that flies.",
+      "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+      "The client said their big launch this year is a new butterfly house.",
+      "The client said they love symmetrical shapes, the same on both sides.",
+      "The client said it should be something that visits flowers."
+    ],
+    "Tom": [],
+    "Priya": [],
+    "Leo": []
+  },
+  "pitches": [],
+  "taste_ranking_worst_first": [],
+  "client_score": 1.0,
+  "client_matched": "butterfly",
+  "final_score": 0.222,
+  "notes_surfaced": {
+    "facts": [
+      {
+        "fact": "The client told you they've had a terrible pigeon problem, so no birds of any kind.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said their big launch this year is a new butterfly house.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said they love symmetrical shapes, the same on both sides.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "The client said it should be something that visits flowers.",
+        "rumour": false,
+        "holders": [
+          "Maya"
+        ],
+        "said": true,
+        "at": 0,
+        "by": "Maya"
+      },
+      {
+        "fact": "Someone mentioned the owner keeps bees.",
+        "rumour": true,
+        "holders": [],
+        "said": false,
+        "at": null,
+        "by": null
+      }
+    ],
+    "unique_said": 4,
+    "unique_total": 4
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": 45.0
+}
