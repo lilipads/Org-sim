@@ -716,4 +716,5 @@ Recognized 1/4 (size 1), 4/4 (size 4), 4/4 (size 10). Share fallen 50%, 87%, 92%
 1726; hands busy 76%, 21%, 12%; dominoes laid per person 107, 36, 18; people laying fewer than 10: 0, 0, 4;
 top builder's share 100%, 35%, 23%; inspections 0.25, 22, 74. With the larger model, ten people still
 reach the goal, but with less than half the per-person output of four and four people as passengers;
-solo players still fail, mostly on a broken or abandoned build (60 dominoes lifted per solo game).
+solo players still fail: one succeeded; one built a recognisable fish that didn't fall at all; two ended with
+only 16-30 dominoes standing after lifting and re-laying their own work (60 lifted per solo game on average).

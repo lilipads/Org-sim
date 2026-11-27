@@ -1,0 +1,2 @@
+pitches: [('Maya', 'owl', 0.0), ('Tom', 'sleeping cat curled up', 1.0), ('Priya', 'owl', 0.0), ('Leo', 'elephant', 0.3)]
+]
