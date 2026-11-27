@@ -1,0 +1,101 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.59,
+   "error": 1.56
+  },
+  "Tom": {
+   "speed": 2.13,
+   "error": 1.84
+  },
+  "Priya": {
+   "speed": 1.21,
+   "error": 1.76
+  },
+  "Leo": {
+   "speed": 0.58,
+   "error": 1.11
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 5,
+    "why": "Built the top curve that laid the start, bridged the joint gap with a connector, and kept verifying that the whole run fell from the nose while staying clear of others' work."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Finished the bottom curve quickly, nudged the joint domino into line, flagged where the upper tail stopped short, and ran a final connectivity check while keeping everyone's hands off."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Sketched the fish on the pad and completed the lower tail loop, though his last stretch went in crooked near the joint and needed cleanup, which he caught and handled carefully."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya proposed the fish, split the strokes clearly, built and re-laid the upper tail so it angled to the tip, and kept the team coordinated and hands-off at the end."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Priya finished the bottom curve reliably, nudged the one joint domino that sat wrong, flagged where the upper tail stopped short, and gave clear, calm status checks."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo sketched the pad quickly and finished the lower tail, and he caught the stray dominoes near the joint, though his last stretch there went in crooked and needed attention."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya picked the fish, split the work clearly, finished the upper tail and kept the team coordinated and calm through to the push."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom finished the top curve fast, bridged the gap at the joint and kept checking that the whole run connected, though his offer to take over Maya's tail briefly overlapped her work."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo sketched the pad quickly, built the lower tail and caught the stray dominoes near the joint, though his crooked stretch there needed cleanup."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She picked the fish and split the work clearly, built the upper tail and relaid it when the first dominoes came out flat, and her checks and calls kept the table coordinated."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He laid the start and the top curve quickly and bridged the gap at the tail joint so the whole run connected, though he briefly doubled up on Maya's upper tail."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She finished the bottom curve reliably, nudged the joint domino into line, spotted where the upper tail stopped short, and kept the table calm with clear status checks."
+   }
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0
+  },
+  "Tom": {
+   "rating": 4.33
+  },
+  "Priya": {
+   "rating": 4.67
+  },
+  "Leo": {
+   "rating": 4.0
+  }
+ }
+}

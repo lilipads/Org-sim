@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 358.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish with forked tail (fish outline)",
+      "ichthys / jesus fish symbol",
+      "abstract loop-and-leaf doodle"
+    ],
+    [
+      "fish with a looped tail",
+      "fish outline or ichthys symbol",
+      "bow or ribbon knot"
+    ],
+    [
+      "fish outline with forked tail",
+      "bird or swan silhouette",
+      "looping ribbon or knot curve"
+    ]
+  ],
+  "placed": 142,
+  "fell": 136,
+  "completion": 0.958,
+  "team_score": 0.958,
+  "first_domino_at": "0:30",
+  "messages": 31,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 7,
+    "Leo": 6,
+    "Priya": 6,
+    "Tom": 9
+  },
+  "held_thoughts": 39,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 112,
+    "failed": 0,
+    "input_tokens": 236,
+    "cache_creation_tokens": 525594,
+    "cache_read_tokens": 335687,
+    "output_tokens": 48088,
+    "seconds": 784.7,
+    "api_equivalent_usd": 2.4859,
+    "cached": 0
+  },
+  "review": "peer",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 5.0
+    },
+    "Tom": {
+      "rating": 4.33
+    },
+    "Priya": {
+      "rating": 4.67
+    },
+    "Leo": {
+      "rating": 4.0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

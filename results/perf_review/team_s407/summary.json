@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 427.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with a forked tail",
+      "fish-shaped loop with a crossed tail",
+      "pisces-style fish symbol"
+    ],
+    [
+      "fish",
+      "fish outline with a forked tail",
+      "looped ribbon or curve"
+    ],
+    [
+      "fish outline with a tail",
+      "figure-eight or infinity loop",
+      "tadpole or leaf shape"
+    ]
+  ],
+  "placed": 127,
+  "fell": 127,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 29,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Tom": 9,
+    "Maya": 9,
+    "Leo": 2,
+    "Priya": 6
+  },
+  "held_thoughts": 31,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 103,
+    "failed": 1,
+    "input_tokens": 198,
+    "cache_creation_tokens": 423242,
+    "cache_read_tokens": 290742,
+    "output_tokens": 40350,
+    "seconds": 847.3,
+    "api_equivalent_usd": 2.0484,
+    "cached": 6
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

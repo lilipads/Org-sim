@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 822.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a loop-tail (outline of a fish)",
+      "figure-eight or infinity symbol with a loop",
+      "closed loop drawn as a single curved line"
+    ],
+    [
+      "a fish with a forked tail and a crossed loop",
+      "an infinity or figure-eight symbol with a stem",
+      "a stylized bird or tadpole shape"
+    ],
+    [
+      "fish outline with a crossed tail",
+      "infinity or figure-eight loop",
+      "ribbon or ribbon-like knot"
+    ]
+  ],
+  "placed": 126,
+  "fell": 116,
+  "completion": 0.921,
+  "team_score": 0.921,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Manager": 5,
+    "Facilitator": 3,
+    "Maya": 11,
+    "Leo": 12,
+    "Priya": 7,
+    "Tom": 11
+  },
+  "held_thoughts": 66,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 156,
+    "failed": 2,
+    "input_tokens": 320,
+    "cache_creation_tokens": 824023,
+    "cache_read_tokens": 461636,
+    "output_tokens": 87076,
+    "seconds": 1532.3,
+    "api_equivalent_usd": 4.0764,
+    "cached": 0
+  },
+  "review": "forced",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 1,
+      "why": "By her own account she laid almost no dominoes and had free hands for most of the session, so her direct impact is unverified. Her 'all connected' reports conflicted with close inspections at the crossing, and she did not push for a proper check, though she kept the table calm and aligned."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He laid the bottom arc, which is intact, and worked on the lower fin edge and tail joint, and he coordinated the tail and stayed out of Leo's way. His flip-flop at the crossing cost time, and his work is mostly unwitnessed."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She quietly did the fin's upper edge and back bar, which is consistent with Maya's account, and she flagged the top-arc joint as the main risk early. Her end-game input was mostly an echo, and she accepted the pale dominoes without inspecting them."
+    },
+    "Leo": {
+      "rating": 5,
+      "why": "He set the plan and sketch, laid the start, nose and entire top arc, and gave consistent, honest status while working the crossing bridge. He was slow to act on the flagged joint and turned down help twice, but he carried the most building and ownership."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

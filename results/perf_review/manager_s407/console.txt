@@ -1,0 +1,278 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Hey! I'm going with a fish: big body, forked tail, nose on the left. It's one loop, so it's easy to build and the tail makes it obvious. I'm sketching it now. Tom, take the bottom curve of the body. P
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[   29s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Leo -> everyone: Sounds good, fish works. I'll take the closing edge of the tail once your sketch is up, Maya. Just shout when the strokes are on the pad.
+    (Priya held a thought)
+    (Tom held a thought)
+[   63s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 11
+    Maya -> everyone: Strokes are up on the pad! I've got the top curve from the nose. Tom, bottom of the body. Priya, both tail lobes. Leo, the notch edge between the tail tips.
+    (Tom held a thought)
+    (Priya held a thought)
+[  230s] 0:45 asked Tom,Priya,Leo | dominoes 7 | calls 16
+    Tom -> everyone: Got it, Maya, fish it is. I'll take the bottom curve of the body. Nobody has the short stretch from the start down to the body, so I'll lay that first, then my curve.
+    (Priya held a thought)
+    (Leo held a thought)
+[  239s] 1:00 asked Maya | dominoes 18 | calls 17
+    Maya -> everyone: Perfect, Tom, thanks. That stretch is what my top curve grows from, so I'm queued up and will go as soon as it reaches the body. Leo, you're on that stretch too, so maybe take the tail edge once Tom's
+[  248s] 1:15 asked Tom,Leo | dominoes 37 | calls 19
+    Leo -> everyone: Already on it, Maya. I'm laying the notch edge between the tail tips now, and I'll check the tail joints once it's down.
+    (Tom held a thought)
+[  257s] 1:30 asked Maya | dominoes 59 | calls 20
+    Maya -> everyone: Thanks Leo. Top curve is going down now. Once it's through I'll check that the tail joints all connect to the start.
+[  267s] 1:45 asked Leo | dominoes 72 | calls 21
+    Leo -> Priya: Priya, quick check against the pad. The lower tail lobe should leave the body where the two curves meet and angle down to the tail tip, which looks higher than where you're laying now. Can you take a 
+[  279s] 2:00 asked Tom,Priya | dominoes 81 | calls 23
+    Priya -> everyone: Good catch, Leo, thanks. It's running too flat. I'm lifting it and laying it again from where the two curves meet. Fish works for me, Maya.
+    (Tom held a thought)
+[  294s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 86 | calls 27
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Tom -> everyone: Quick status: the start stretch and the bottom curve of the body are down. The fall isn't carrying onto the body yet, so I'm closing a gap just below the start. Leo, is that straight run going down by
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  306s] 2:30 asked Tom,Priya,Leo | dominoes 90 | calls 30
+    Leo -> everyone: Yes Tom, that's mine, the straight tail edge. It branches off the start stretch, so it should get its own fall from the start rather than steal it from the body stretch. You're right that it sits a bi
+    (Tom held a thought)
+    (Priya held a thought)
+[  323s] 2:45 asked Tom,Priya | dominoes 95 | calls 32
+    Priya -> everyone: Lower lobe is re-laid and down. From what I can see, the fall runs straight down Leo's tail edge but doesn't turn into the upper lobe yet, so the whole body is still pale. Tom, once your gap by the st
+    (Tom held a thought)
+[  351s] 3:00 asked Tom,Leo | dominoes 98 | calls 35
+    Tom -> everyone: Thanks Leo, no rush. I'm closing the gap right where I'm pointing so the body gets the fall. Once it's through, give your run a quick look against the tail on the sketch.
+    (Leo held a thought)
+[  364s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 100 | calls 39
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Thanks Priya, on it. I'm nudging the gap at the tail tip now. The straight tail edge is dark from the start, so that part is connected. Then I'll look at the junction by the start with Tom, since the 
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  375s] 3:30 asked Tom,Priya,Leo | dominoes 103 | calls 42
+    Tom -> everyone: Leo, your tail edge is fine, leave it. I'm bridging from the end of the start stretch into the top of the body, right where I'm pointing. Once that's through, the whole body should go dark.
+    (Priya held a thought)
+[  385s] 3:45 asked Tom,Priya,Leo | dominoes 106 | calls 45
+    Tom -> everyone: Bridge didn't need new dominoes, they're already tight there. I'm taking a close look at the junction to see why the body's still pale.
+    (Leo held a thought)
+[  399s] 4:00 asked Tom,Priya,Leo | dominoes 108 | calls 48
+    Priya -> everyone: Tom, from where I'm sitting the first domino of the upper body looks a touch too far left of the straight edge, so the fall goes right past it. Maybe a single domino nudged in between would catch it. 
+    (Tom held a thought)
+    (Leo held a thought)
+[  424s] 4:15 asked Tom,Priya,Leo | dominoes 113 | calls 52
+    Tom -> everyone: Good eye, Priya, thanks. I'll put a couple of dominoes in right where I'm pointing, branching off the straight edge into the body. Leo, your edge stays as it is.
+    (Leo held a thought)
+[  436s] 4:30 asked Tom,Priya,Leo | dominoes 142 | calls 55
+    Leo -> everyone: Sounds good, Tom, and Priya's idea makes sense. I'm staying off the junction. One thing from my look: there's a short loose end just to the right of the straight edge, pointing down-right. It might be
+    (Tom held a thought)
+    (Priya held a thought)
+[  445s] 4:45 asked Tom,Priya | dominoes 147 | calls 57
+    Priya -> everyone: Thanks Leo. Tom, I'll keep my hands off the junction. If the body is still pale in a minute or two, I can bridge it from the other side.
+    (Tom held a thought)
+[  460s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 147 | calls 61
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Quick look at the right side of the tail. There's a dark curve looping round from the top right down toward the junction, and it isn't on our sketch. It would fall and muddy the fish. Does anyone know
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  479s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 145 | calls 65
+    Tom -> everyone: Thanks Leo, the little strays are harmless, leave your straight edge alone. That big loop on the right isn't mine, so go ahead and take it down. I'm lifting the top of the body and laying it fresh fro
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  489s] 5:30 asked Maya,Tom,Leo | dominoes 145 | calls 68
+    Leo -> everyone: Lower part of that loop on the right is down. The bit left at the top right looks pale, so I'm checking it won't catch the fall. Staying clear of Tom's junction.
+    (Maya held a thought)
+    (Tom held a thought)
+[  501s] 5:45 asked Maya,Tom,Leo | dominoes 143 | calls 71
+    Maya -> everyone: Sounds good, Tom, I'm staying off the junction. Leo, thanks for taking that loop down. Once Tom's piece is down, I'll check that the body goes dark. If it's still pale with about two minutes left, I'l
+    (Tom held a thought)
+    (Leo held a thought)
+[  511s] 6:00 asked Tom,Priya,Leo | dominoes 151 | calls 75
+    Tom -> everyone: Okay, I'm bridging right where I'm pointing, from the end of the start stretch into the top of the body. Maya, stay ready to jump in from the other side if it's still pale in a minute.
+    (Priya held a thought)
+    (Leo held a thought)
+[  538s] 6:15 asked Maya,Priya,Leo | dominoes 146 | calls 79
+    Maya -> everyone: Tom, from here the body's already dark, so your bridge looks like it caught. I'm just looking, not touching anything. I'll tell you if anything's still cut off.
+    (Priya held a thought)
+    (Leo held a thought)
+[  552s] 6:30 asked Maya,Tom,Leo | dominoes 160 | calls 82
+    Leo -> everyone: Priya, I'll leave the lower lobe to you since you're already on it. It still stops short of the tail tip and is pale where it leaves the body, so can you carry it down to meet the tail edge? Tom, the 
+    (Maya held a thought)
+    (Tom held a thought)
+[  564s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 167 | calls 86
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Priya, I'm joining the lower lobe to the body right where I'm pointing. It's a short bridge, so you keep carrying it down toward the tail. Tom, I'm nowhere near your junction.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  575s] 7:00 asked Tom,Priya,Leo | dominoes 171 | calls 89
+    Tom -> everyone: Quick status: the body's dark from the start and the tail edge is connected, so we're in good shape. Priya, Maya, the lower lobe is the last piece. Carry it down so it meets the tail edge, and watch t
+    (Priya held a thought)
+    (Leo held a thought)
+[  589s] 7:15 asked Maya,Priya,Leo | dominoes 174 | calls 92
+    Leo -> everyone: Maya, you've got the lobe joint, so I'm staying off it. Tom, that pale line was a leftover and it won't fall, so ignore my question. Once Maya's bridge is in, can someone check the lobe goes dark all 
+    (Priya held a thought)
+    (Maya held a thought)
+[  598s] 7:30 asked Maya,Tom,Priya | dominoes 175 | calls 95
+    Maya -> everyone: Got it, Leo. And that pale line out toward the tail is the lower lobe, so please don't lift it. I'm finishing the bridge into the body now, and Priya's carrying it down to the tail edge. I'll check th
+    (Tom held a thought)
+    (Priya held a thought)
+[  608s] 7:45 asked Tom,Priya,Leo | dominoes 179 | calls 98
+    Tom -> everyone: Heads up, the lobe's still pale at the tail end, it stops just short of the straight edge. I'm joining it right where I'm pointing. Maya, keep going on your bridge, Priya, stay clear of the tail end f
+    (Priya held a thought)
+[  649s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 182 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Tom, from my look, a couple of dominoes right where you're joining are jammed too close together. If the lobe stays pale there, lifting the crowded one may work better than adding more. Maya, how's th
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  660s] 8:15 asked Maya,Tom,Priya | dominoes 184 | calls 106
+    Maya -> everyone: Bridge is about two-thirds in, a few more to go. Leo, I've got it, stay where you are. Tom, thanks for the tail join. Once it's done I'll check the lobe goes dark all the way.
+    (Tom held a thought)
+    (Priya held a thought)
+[  667s] 8:30 asked Tom,Priya,Leo | dominoes 187 | calls 109
+    Priya -> everyone: Thanks, all. From my look the lobe is dark out to the tail edge, so Tom, I'd leave that join as it is rather than adding more. The old pale line beside it won't fall. Let's all keep our hands off now 
+    (Tom held a thought)
+    (Leo held a thought)
+[  673s] 8:45 asked Tom,Leo | dominoes 189 | calls 111
+    Tom -> everyone: Agreed, Priya. Hands off everyone, it looks like a fish. Nice work, team.
+    Leo -> everyone: Agreed, Priya. Hands off from here. Maya, shout if you want a hand, otherwise I'm staying clear.
+[  678s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 190 | calls 115
+    Maya -> everyone: Thanks Leo, I've got it. Two dominoes left on the bridge, then I'm hands off too. Looks like a fish to me!
+    Priya -> everyone: Sounds good, all. Hands off from here. Nice teamwork, everyone.
+[  683s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 190 | calls 119
+    Maya -> everyone: Bridge is in, I'm hands off now. Looks like a fish to me, good work everyone.
+[  690s] 9:30 asked Tom,Priya,Leo | dominoes 190 | calls 122
+    Tom -> everyone: Bridge looks good, Maya. We're all set, hands off and let it fall. Fingers crossed for the fish!
+    Leo -> everyone: Looks good to me too. Hands off, ready for the push.
+[  696s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 190 | calls 126
+    Maya -> everyone: All good on my side, hands off. Fish time!
+    Priya -> everyone: All set from me too. Hands off, let's see the fish fall.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 795.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 0.333,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "curved chain of toppled dominoes",
+      "fish outline with tail",
+      "bird or swan outline"
+    ],
+    [
+      "fish swimming left, with a forked tail on the right",
+      "swan or bird with curved neck and wing",
+      "abstract hand-drawn line doodle"
+    ],
+    [
+      "a curved line of fallen dominoes seen from above",
+      "a fish or bird outline drawn with a single stroke",
+      "a stylized sprout or branch with curling tendrils"
+    ]
+  ],
+  "placed": 190,
+  "fell": 131,
+  "completion": 0.689,
+  "team_score": 0.46,
+  "first_domino_at": "0:45",
+  "messages": 52,
+  "messages_by_speaker": {
+    "Manager": 5,
+    "Facilitator": 3,
+    "Maya": 12,
+    "Leo": 13,
+    "Tom": 12,
+    "Priya": 7
+  },
+  "held_thoughts": 62,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 148,
+    "failed": 1,
+    "input_tokens": 306,
+    "cache_creation_tokens": 804575,
+    "cache_read_tokens": 433759,
+    "output_tokens": 106510,
+    "seconds": 1498.1,
+    "api_equivalent_usd": 4.1493,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She chose the fish, sketched it in the first minute and assigned strokes, and she correctly identified the pale arc as the lobe, which stopped a bad lift. Against that, at my last visit she said she was bridging the joint while her hands were at the far end of the run, the gap was still open, and her 120/150 report ran generous."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "His status reports on the body and tail edge matched the board, and he was clear about who owned what. But I saw no hands on the build, his request to lift the right-hand strays nearly endangered the lobe, and I only have his own account of the junction fix and tail join."
+    },
+    "Priya": {
+      "rating": 2,
+      "why": "She was silent whenever I was at the table, gave no reply to Maya's direct call, and her private 'about 4 left' didn't match a lobe that was still pale and open at the joint. Teammates' accounts suggest she laid the lobe and caught the misplaced body domino, but I didn't see it, the lobe was the last piece to go dark, and she didn't lead or clearly own the strays."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "He stayed off the joint, deferred to Maya, and left the strays alone, which was careful and collaborative, and his claimed quality-control catches (the flat lobe, his own tail edge) are the kind of checkable feedback a team needs. However, he told me privately he was closing the joint and publicly said he'd stay off it, he mislabeled the lobe as a leftover, and I saw no building from him."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

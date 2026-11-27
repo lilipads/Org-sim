@@ -1,0 +1,188 @@
+{
+ "people": {
+  "Maya": {
+   "sound_work": 37,
+   "fixes": 0,
+   "open_breaks_owned": 3,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 0
+  },
+  "Tom": {
+   "sound_work": 45,
+   "fixes": 2,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 19
+  },
+  "Priya": {
+   "sound_work": 12,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  },
+  "Leo": {
+   "sound_work": 20,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 19,
+   "to": 230,
+   "owner": "Maya",
+   "stranded": 17,
+   "dir": 137.1,
+   "piece": [
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    206,
+    207,
+    220,
+    230,
+    231
+   ],
+   "at": [
+    19.7,
+    9.7
+   ]
+  },
+  {
+   "from": 39,
+   "to": 229,
+   "owner": "Maya",
+   "stranded": 18,
+   "dir": 196.7,
+   "piece": [
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    206,
+    207,
+    220,
+    229,
+    230,
+    231
+   ],
+   "at": [
+    18.7,
+    9.7
+   ]
+  },
+  {
+   "from": 60,
+   "to": 227,
+   "owner": "Maya",
+   "stranded": 20,
+   "dir": 208.1,
+   "piece": [
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    206,
+    207,
+    220,
+    227,
+    228,
+    229,
+    230,
+    231
+   ],
+   "at": [
+    17.9,
+    9.5
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "5:30",
+   "who": "Tom",
+   "at": [
+    20.2,
+    9.7
+   ],
+   "gap_owner": "Maya"
+  },
+  {
+   "clock": "6:00",
+   "who": "Tom",
+   "at": [
+    24.3,
+    5.9
+   ],
+   "gap_owner": "Tom"
+  }
+ ],
+ "weights": {
+  "5": {
+   "Maya": 22,
+   "Tom": 55,
+   "Priya": 12,
+   "Leo": 20
+  },
+  "10": {
+   "Maya": 7,
+   "Tom": 65,
+   "Priya": 12,
+   "Leo": 20
+  },
+  "20": {
+   "Maya": -23,
+   "Tom": 85,
+   "Priya": 12,
+   "Leo": 20
+  }
+ },
+ "contribution": {
+  "Maya": 7,
+  "Tom": 65,
+  "Priya": 12,
+  "Leo": 20
+ },
+ "with_planning": {
+  "Maya": 35.5,
+  "Tom": 65.0,
+  "Priya": 12.0,
+  "Leo": 20.0
+ }
+}

@@ -1,0 +1,1 @@
+{"model": "sonnet", "tag": "Leo/6:00", "result": "\n<invoke name=\"bash\">\n<parameter name=\"command\">echo noop</parameter>\n</invoke>\n\nReply with one JSON object and nothing else."}

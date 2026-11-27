@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 345.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a looped tail",
+      "fish outline in profile",
+      "figure-eight or infinity loop"
+    ],
+    [
+      "fish",
+      "fish with a forked tail",
+      "cartoon fish shape"
+    ],
+    [
+      "fish outline facing left, with a looped tail on the right",
+      "fish or fish-shaped body with a crossed tail",
+      "stylized sea creature or bird outline drawn as one line"
+    ]
+  ],
+  "placed": 114,
+  "fell": 114,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 39,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 16,
+    "Priya": 4,
+    "Leo": 5,
+    "Tom": 11
+  },
+  "held_thoughts": 36,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 127,
+    "failed": 0,
+    "input_tokens": 248,
+    "cache_creation_tokens": 551973,
+    "cache_read_tokens": 366499,
+    "output_tokens": 45798,
+    "seconds": 832.0,
+    "api_equivalent_usd": 2.6246,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
