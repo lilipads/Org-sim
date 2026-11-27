@@ -73,6 +73,7 @@ class LiveConfig:
     design_mode: str | None = None   # None | "lone" | "review" | "open": building waits for a design lock
     designer: str | None = None      # with design_mode lone / review
     check_seconds: dict = field(default_factory=lambda: {"dry_run": 30.0, "squint": 30.0, "ask_client": 45.0})
+    manager_schedule: list | None = None   # [[start, end], ...] seconds when a manager is at the table
 
 
 @dataclass
@@ -100,6 +101,7 @@ class Decision:
     check_note: str = ""             # with ask_client: what to ask the client
     lock: bool = False               # lock the design: building opens
     review: str = ""                 # design review: my review of the draft
+    to_manager: str = ""             # a private message to the manager (nobody else hears it)
 
     def brief(self) -> dict:
         d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
@@ -239,6 +241,7 @@ class LiveGame:
             "hands": self.hands(name), "notes": self.notes[name],
             "start_status": self.start_status(name),
             "decision_status": self.decision_status(name),
+            "manager_status": self.manager_status(name),
             "pad_status": self.pad_status(name),
         }
         obs["map"] = self.overlay(obs["map"], loc)
@@ -319,6 +322,7 @@ class LiveGame:
         for n, d in decisions.items():
             self._start_task(n, d, rec)
         spoke = self._speech(decisions, rec)
+        spoke |= self._private(decisions, rec)
         placed_at = self._work(spoke, rec, sketched)
         self._bumps(placed_at, rec)
         rec["notes"] = dict(self.notes)
@@ -521,6 +525,33 @@ class LiveGame:
         self.task[n] = {"kind": "check", "check": kind, "ends": self.t + secs, "result": result, "label": label}
         rec["events"].append({"type": "check_started", "who": n, "check": kind, "note": d.check_note[:300]})
         return True
+
+    # ---- the manager (PERF_REVIEW_STUDY.md) ---------------------------------
+    def manager_present(self, t: float | None = None) -> bool:
+        t = self.t if t is None else t
+        return any(a <= t < b for a, b in (self.cfg.manager_schedule or []))
+
+    def manager_status(self, name: str) -> str:
+        if self.cfg.manager_schedule is None:
+            return ""
+        if self.manager_present():
+            return ("The manager is at your table now: they can hear what's said and see the table. You can "
+                    "also tell them something privately.")
+        return ("The manager isn't at your table right now (they'll be back at some point). Anything you tell "
+                "them privately waits until they return.")
+
+    def _private(self, decisions: dict, rec: dict) -> set:
+        sent = set()
+        if self.cfg.manager_schedule is None:
+            return sent
+        for n, d in decisions.items():
+            text = (d.to_manager or "").strip()
+            if not text:
+                continue
+            sent.add(n)                     # it takes their attention like speaking does
+            rec["events"].append({"type": "to_manager", "who": n, "text": text[:1200],
+                                  "manager_present": self.manager_present()})
+        return sent
 
     def _pad(self, decisions: dict, rec: dict) -> set:
         """Picking up, passing, putting down and sketching. Returns who sketched this beat
@@ -1004,7 +1035,7 @@ class LiveGame:
                     b = self.world.dominoes[k].builder
                     whose[b] = whose.get(b, 0) + 1
                 rec["events"].append({"type": "bump", "who": i, "near": j, "at": [round(xi, 1), round(yi, 1)],
-                                      "knocked": len(times), "whose": whose})
+                                      "knocked": len(times), "whose": whose, "ids": sorted(int(k) for k in times)})
                 for m in self.by_name:
                     if self.location[m] == self.location[i]:
                         who = "You" if m == i else i

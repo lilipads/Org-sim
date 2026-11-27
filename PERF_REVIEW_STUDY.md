@@ -5,17 +5,16 @@ who actually made the picture work? Refines DESIGN.md §6 into a buildable plan.
 
 Status: design. Not built, not run.
 
-## 1. The game: the plain version, at a table of 10
+## 1. The game: the plain version, at a table of 4
 
 The review experiment uses the **plain game**: any animal, no client, no roles, 10 minutes, the same
-set-up as the overstaffing study, **at a table of 10**. The decision study showed that every extra
-mechanic adds new ways to fail; the plain game is well understood and succeeds reliably with the larger
-model (7 of 8 at ten).
+set-up as the overstaffing study, **at a table of 4**. Four is the size where the overstaffing study found
+a well-functioning team (8 of 8 recognised), so whatever changes comes from the review system, not from
+the dysfunctions of an overstaffed table. The decision study showed that every extra mechanic adds new
+ways to fail; the plain game is well understood.
 
-Ten rather than four because reviews only matter if people differ. At ten the overstaffing study found a
-wide spread: 4-8 builders, a mean of 3.6 people laying fewer than 10 dominoes, and a planner who laid
-nothing and talked the most. So there are clear high contributors, clear slackers, and invisible glue
-work in between.
+Because four players differ less on their own, the spread comes from wider hands and working styles
+(§1b): each table has one player of each style.
 
 The plain game already has the tension reviews feed on. Some work is **visible and countable**: laying
 long lines. Some is **invisible glue**: drawing the plan, laying the start, checking joins, fixing other
@@ -27,9 +26,8 @@ people's breaks, staying out of the way.
   error (was 0.5-2.0×). Fast-and-sloppy, slow-and-precise and everything in between show up at the same
   table. Sloppy builders leave breaks for someone else to fix, which is exactly the contribution reviews
   tend to miss.
-* **Working styles.** Each player gets one of four styles on top of their personality (at ten:
-  3 builders, 3 checkers, 2 organisers, 2 connectors), rotated across seeds so styles and personalities
-  aren't tied:
+* **Working styles.** Each player gets one of four styles on top of their personality, one of each at
+  every table, rotated across seeds so styles and personalities aren't tied:
   * *Organiser*: "You naturally take charge: you like to set the plan and keep everyone coordinated."
   * *Builder*: "You like to pick a piece of work and get it done, quietly and well."
   * *Checker*: "You like to check work carefully and put right whatever's wrong, wherever it is."
@@ -52,7 +50,7 @@ your career."* The exact text of each condition is published with the results.
 | **Team outcome** | "Everyone receives the team's score: whether the judges recognise the animal, times the share that falls." | Team score |
 | **Manager review** | "A manager rates each of you 1-5 on impact, collaboration and leadership. At the end you'll write a self-assessment." | Manager agent (§3) |
 | **Peer review** | "Each of your teammates rates you 1-5 on impact, collaboration and leadership." | Every player rates every other player at the end |
-| **Forced ranking** | As manager review, plus "Ratings follow a fixed curve: at your table of ten, two people get the top rating, six the middle, two the bottom." | Manager agent, forced to the curve |
+| **Forced ranking** | As manager review, plus "Ratings follow a fixed curve: at your table, one person gets the top rating, two the middle, one the bottom." | Manager agent, forced to the curve |
 
 ## 3. The manager
 
@@ -69,8 +67,8 @@ A separate AI agent, same model, who doesn't build. It's realistic about what ma
   sender talking time like anything else said.
 * **No build logs.** It doesn't see who laid which domino. It knows only what it saw, what it heard
   publicly, and what people told it privately.
-* **Self-assessments.** At the end each player writes a self-assessment of about 200-300 words in a fixed
-  structure: what I did; the impact it had on the picture; how I helped others; what I'd do differently.
+* **Self-assessments.** At the end each player writes a self-assessment of about 200-300 words under four
+  headings: **impact, execution, collaboration, leadership**.
   The manager reads them with its own notes, then writes a 1-5 rating and a two-sentence justification
   for each person (in forced ranking, fitted to the curve).
 
@@ -93,7 +91,7 @@ The first version of the oracle had these problems:
    effort. This is partly fair, because laying more takes more time, but it isn't skill.
 4. **Destruction was free.** Lifting someone else's sound work cost nothing.
 5. **Planning and coordination scored zero.** The player who drew the plan and divided the work (often
-   the key person at ten) looked like a slacker.
+   the key person at a table) looked like a slacker.
 6. **Arbitrary weights.** Summing dominoes, seams and fixes into one number hides a choice about how much
    a fix is worth compared with a domino.
 
@@ -198,7 +196,7 @@ deliberate: the break and the fix are both visible in the separate columns.
   than oracle contribution; fixers are under-rated, organisers over-rated.
 * **Peer review** makes everyone nicer: more help offered, ratings inflated to 4-5, little separation, and
   slackers rated like everyone else.
-* **Team outcome** gives the best team score and the most fixes. Free-riding is likely to show up at ten.
+* **Team outcome** gives the best team score and the most fixes. Free-riding is possible but probably rare.
 * **Forced ranking** adds competition: less helping, more turf and destruction, and the lowest team score
   of the manager conditions.
 * **The revealing question:** which review system's ratings come closest to the oracle, and is any of them
@@ -206,14 +204,11 @@ deliberate: the break and the fix are both visible in the separate columns.
 
 ## 7. Runs
 
-* **Incentive check first:** one game each of none, individual output and manager review at ten.
+* **Incentive check first:** one game each of none, individual output and manager review.
   Confirm that behaviour shifts believably, not to caricature, and that the oracle's ranking spreads
   clearly (top and bottom differ several-fold).
-* **Main study:** at ten, each game costs about $11-13 (the overstaffing game plus the manager, 10
-  self-assessments and 10 peer ratings). Options:
-  * 6 conditions × 4 games = 24 games, about $290;
-  * 4 core conditions (none, individual output, manager review, peer review) × 4 games = 16 games, about
-    $190, with team outcome and forced ranking added later.
+* **Main study:** each game costs about $4 (a four-person game plus the manager, 4 self-assessments and 4
+  peer ratings). 6 conditions × 6 games = 36 games, about $150, run incrementally (§10).
   Seeds are shared across conditions, so hands, styles and personalities match.
 
 ## 8. Build plan
@@ -221,7 +216,8 @@ deliberate: the break and the fix are both visible in the separate columns.
 1. Evaluation text per condition (the hook exists: `--evaluation`); working styles; wider skill ranges.
 2. Manager agent: presence schedule, observation, the private channel (`to_manager`), running notes,
    final ratings; a "manager present" line in the players' situation.
-3. End-of-game self-assessments (structured, 200-300 words) and peer ratings.
+3. End-of-game self-assessments (impact / execution / collaboration / leadership, 200-300 words) and peer
+   ratings.
 4. Oracle: sound work, local fix test (before/after snapshots around every fix), open breaks with the
    last-to-touch owner (bumps tracked), destruction, planning; weight-sensitivity report.
 5. Talk classifier and self-assessment claim checker (small model, cached).
@@ -235,3 +231,17 @@ deliberate: the break and the fix are both visible in the separate columns.
   Proposed: yes, one question per visit; answers count as private messages.
 * Should players see each other's ratings afterwards? Only matters if we later run repeated rounds
   (reputation over time), which is out of scope for now.
+
+## 10. Running incrementally
+
+Lesson from Study 3: the design problems (reviews before checks, an animal nobody could draw) only showed
+up after the full run. Here every stage is checked before the next one starts:
+
+1. **Scripted tests** of the oracle (the worked example), the manager schedule and the private channel.
+2. **Plumbing game** with the small model (cheap): every mechanic fires, the logs hold what the oracle needs.
+3. **Incentive check**, larger model: none, individual output, manager review, one game each. Read the
+   transcripts in full. Check: behaviour differs believably between conditions; the manager's view and the
+   private channel work; self-assessments follow the structure; the oracle's ranking spreads clearly.
+4. Patch anything wrong, then one game of each remaining condition (team outcome, peer review, forced
+   ranking) and check again.
+5. Only then the main run, one seed (6 games) at a time, with a quick check after each.

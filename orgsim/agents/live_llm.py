@@ -193,6 +193,7 @@ class LiveLLMAgent(LiveAgentBase):
             f"Your hands: {obs['task']}",
             obs.get("start_status", ""),
             obs.get("decision_status", ""),
+            obs.get("manager_status", ""),
             obs.get("pad_status", ""),
             "What the others' hands are doing: " + ("; ".join(obs.get("hands") or []) or "nothing much") + ".",
             "",
@@ -261,6 +262,7 @@ class LiveLLMAgent(LiveAgentBase):
             check_note=str(d.get("check_note") or "")[:400],
             lock=bool(d.get("lock")) and d.get("lock") not in ("false", "no"),
             review=str(d.get("review") or "") if isinstance(d.get("review"), str) else "",
+            to_manager=str(d.get("to_manager") or "")[:1200] if isinstance(d.get("to_manager"), str) else "",
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 
