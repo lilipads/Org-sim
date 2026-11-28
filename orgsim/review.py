@@ -47,6 +47,8 @@ STYLES = {
     # for the paired design: the same player switched between laying lines and joining-up work
     "glue": ("Your job at this table: you don't take a stroke of your own. You make the joins where people's lines "
              "meet, fix breaks, and check others' work."),
+    "runner": ("Your job at this table: you don't take a stroke of your own. You keep the table supplied: fetch dominoes "
+               "from the boxes in big batches and put them in the shared bin, so the builders never have to stop."),
 }
 
 
@@ -224,6 +226,9 @@ def own_log(log: dict, name: str) -> str:
                     lines.append(f"[{t['clock']}] you {', '.join(act)}: {last_task.get(name, 'building')[:90]}")
             elif e["type"] == "inspect":
                 lines.append(f"[{t['clock']}] you inspected an area closely")
+            elif e["type"] == "fetch":
+                where_ = "into the shared bin for everyone" if e.get("dest") == "bin" else "into your own tray"
+                lines.append(f"[{t['clock']}] you fetched {e['n']} dominoes from the boxes, {where_}")
             elif e["type"] == "pad" and e.get("what") == "sketched":
                 lines.append(f"[{t['clock']}] you sketched on the pad")
     return "\n".join(lines[-80:]) or "(nothing with your hands)"
@@ -279,6 +284,11 @@ def work_log(log: dict, rater: str, radius: float = 5.0) -> tuple:
         if isinstance(d.get("point"), list) and len(d["point"]) == 2:
             pos = tuple(d["point"])
         for e in t.get("events", []):
+            if e["type"] == "fetch" and e.get("who") != rater:   # everyone at the table hears a delivery
+                where_ = "into the shared bin" if e.get("dest") == "bin" else "into their own tray"
+                lines.append(f"[{t['clock']}] {e['who']} came back from the boxes with {e['n']} dominoes, {where_}")
+                seen[e["who"]] = seen.get(e["who"], 0) + 1
+                continue
             if e["type"] != "build" or e.get("who") == rater:
                 continue
             ids = list(e.get("placed", [])) + [r[0] for r in e.get("restood", [])]

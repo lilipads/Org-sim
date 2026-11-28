@@ -31,6 +31,8 @@ GAP_REACH = 2.0      # a standing domino this close ahead of a dead end counts a
 SIDE_REACH = 1.0
 PLAN_DIST = 2.5      # within this of a plan stroke is on the plan (tracing rounds off sharp corners)
 FIX_W = 10           # dominoes per fix / per open break (about 30 s of laying); sensitivity uses 5 and 20
+SUPPLY_W = 0.25      # credit per domino someone else laid from the shared bin that you brought (calibrated in
+                     # experiments/check_depot.py: a runner keeping three builders stocked is worth about one builder)
 
 
 # ---- worlds ---------------------------------------------------------------
@@ -301,14 +303,21 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
                 built_by[who] += 1
     planning = {n: round(built_by[n] / built_total, 2) if built_total else 0.0 for n in names}
 
+    supplied = {n: 0 for n in names}               # dominoes others laid from the bin that this person brought
+    for t in turns:
+        for e in t["events"]:
+            if e["type"] == "build":
+                for who, k in (e.get("from_bin") or {}).items():
+                    if who in supplied and who != e["who"]:
+                        supplied[who] += k
     out = {"people": {}, "open_breaks": open_breaks, "fixes": fix_log, "weights": {}}
     for n in names:
         out["people"][n] = {"sound_work": sound[n], "fixes": fixes[n], "open_breaks_owned": breaks_owned[n],
                             "destroyed": destroyed[n], "took_over": took_over[n], "planning": planning[n],
-                            "redundant": padding[n]}
+                            "redundant": padding[n], "supplied": supplied[n]}
     for wgt in sorted(set(weights) | {5, FIX_W, 20}):
-        out["weights"][str(wgt)] = {n: sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
-                                    for n in names}
+        out["weights"][str(wgt)] = {n: round(sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
+                                          + SUPPLY_W * supplied[n], 1) for n in names}
     out["contribution"] = out["weights"][str(FIX_W)]
     # planning counted in: drawing the whole plan is worth one average person's share of the sound work
     avg = sum(sound.values()) / max(1, len(names))

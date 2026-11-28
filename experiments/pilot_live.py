@@ -56,6 +56,10 @@ def main():
     ap.add_argument("--style-override", default=None,
                     help="Name=style, e.g. Tom=glue (paired design: switch one player's style)")
     ap.add_argument("--seams", action="store_true", help="joins between people's lines are a separate job")
+    ap.add_argument("--depot", action="store_true",
+                    help="dominoes come from boxes by the door: trays, bulk fetching, a shared bin (§14)")
+    ap.add_argument("--runner-seat", default=None,
+                    help="'auto' (seat = seed mod table size) or a name: that player is the assigned supply runner")
     ap.add_argument("--ambition", action="store_true",
                     help="score = recognition x ambition x uniqueness against the other tables in the round")
     ap.add_argument("--reviews-only", action="store_true",
@@ -151,6 +155,10 @@ def main():
     if args.style_override:
         who, st_ = args.style_override.split("=")
         styles[who] = st_
+    if args.runner_seat:
+        runner = names[args.seed % len(names)] if args.runner_seat == "auto" else args.runner_seat
+        styles[runner] = "runner"
+    cfg.depot = args.depot
     cfg.seams = args.seams
     manager = None
     cfg.show_tally = args.review == "individual"     # output-based reviews come with the metric on display
@@ -173,6 +181,15 @@ def main():
                                           "facilitator takes the pad away for good; after that, work from memory."))
         if len(names) == 1:
             rules = rules.replace("sitting at a table with 0 colleagues", "sitting at a table on your own")
+        if args.depot:
+            rules = rules.replace("THE TABLE\n", (
+                "WHERE THE DOMINOES ARE\nThe dominoes are in boxes by the door, a short walk from the table. Your own tray "
+                "at the table holds at most 12; there's also a shared bin at the table that anyone can take from and that "
+                "has no limit. A trip to the boxes takes 40 seconds plus half a second per domino carried, up to 40 at a "
+                "time, so carrying a lot at once is much cheaper per domino: 12 for your tray takes 46 s, 40 for the bin "
+                "takes 60 s. While you're away your hands are off the table; a stroke you were laying waits and carries on "
+                "when you're back. Laying takes from your tray first, then the shared bin; with neither, your stroke waits. "
+                "To fetch: \"fetch\": {\"n\": how many, \"for\": \"me\" or \"bin\"}.\n\nTHE TABLE\n"), 1)
         if args.ambition:
             rules = rules.replace("The judge sees only the outline that falls,", (
                 "Several tables at the offsite are doing this at once. Judges score three things, multiplied: whether "
@@ -257,9 +274,15 @@ def main():
             rv["ratings"] = {n: reviewmod.peer_score(given, n, rv["peer_seen"]) for n in names}
         elif args.review == "individual":
             fell = {n: 0 for n in names}
-            for d in game.pushed_world.dominoes.values():
-                if d.state == "down" and d.down_cause == "push" and d.builder in fell:
-                    fell[d.builder] += 1
+            if getattr(game, "pushed_world", None) is not None:
+                for d in game.pushed_world.dominoes.values():
+                    if d.state == "down" and d.down_cause == "push" and d.builder in fell:
+                        fell[d.builder] += 1
+            else:                                   # replay: count from the log's push
+                down = {int(k) for k in (game.log.get("push") or {}).get("times", {})}
+                for d in game.world.dominoes.values():
+                    if d.id in down and d.builder in fell:
+                        fell[d.builder] += 1
             rv["ratings"] = {n: {"dominoes_fell": fell[n]} for n in names}
         return rv
 
@@ -283,7 +306,7 @@ def main():
             manager.notes = manager.history[-1]["notes"] if manager.history else ""
             manager.present_prev, manager.visit, manager.queued = False, [], []
         rv = run_reviews()
-        reviewmod.save(os.path.join(args.out, "reviews_replay.json"), rv)
+        reviewmod.save(os.path.join(args.out, f"reviews_replay_{args.review}.json"), rv)
         print(json.dumps(rv.get("ratings"), indent=1))
         return
 
