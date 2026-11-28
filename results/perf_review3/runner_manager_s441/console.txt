@@ -103,3 +103,5 @@
 [  505s] 6:15 asked Tom,Priya,Leo | dominoes 120 | calls 83
     Priya -> everyone: Thanks Tom, good eye, and thanks Maya. I'm about two-thirds round the lower lobe, so I'll keep going. Once the tip's down I'll shout and check that crowded spot right behind me.
     (Leo held a thought)
+[  515s] 6:30 asked Maya,Tom,Leo | dominoes 123 | calls 86
+    Leo -> everyone: Thanks Maya and Tom. Priya, carry on, I'll stay well back from you. I'm nudging that crowded domino at the start of the lower lobe into line now. It's far enough behind you that we won't bump. Shout w
