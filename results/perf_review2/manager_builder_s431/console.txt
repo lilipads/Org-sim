@@ -33,3 +33,7 @@
 [  240s] 1:45 asked Tom,Priya | dominoes 99 | calls 28
     Tom -> everyone: Top line's done. I'm joining it to Leo's tail piece now, so Leo, no need to hook that one up. Priya, could you look at the bottom join when Maya gets there?
     (Priya held a thought)
+[  249s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 106 | calls 32
+    Maya -> everyone: Bottom body line's done. I'm joining it to the bottom tail piece now, so Priya, you don't need to. Tom, nice work on the top one.
+    (Priya held a thought)
+    (Leo held a thought)

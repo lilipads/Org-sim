@@ -43,3 +43,8 @@
     Tom -> Priya: Priya, shout when the nose is round and I'll do the join into Leo's line.
     Maya -> everyone: Thanks Leo, you're nearly at the turn already. Shout when you get there and I'll carry the fork up and out to the lower tip. I'll stay a hand's width clear of your line so we don't knock each other.
     (Priya held a thought)
+[  247s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 93 | calls 42
+    Priya -> Tom: Tom, the nose is round now. Could you join the end of my top line into the start of Leo's bottom line? The gap is a bit under two dominoes' width. Thanks!
+    Leo -> everyone: Maya, I'm at the turn now. My last few dominoes carry just past it, so start your fork from wherever mine stops. I'll shout when I'm done. After that I'll close the gap at the nose with Priya.
+    (Maya held a thought)
+    (Tom held a thought)
