@@ -80,3 +80,26 @@
     Leo -> everyone: Top lobe looks good from here, and everything standing falls from the start. Priya, carry on round the lower lobe and shout when the tip's down. I'll check it then. Tom, restand bumps after that.
     (Priya held a thought)
     (Maya held a thought)
+[  308s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 105 | calls 67
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Belly's down to the tail neck, Leo. I'm carrying on out around the lower lobe now, and I'll shout when the tip is down so you can check it. Tom, hold off until I'm through.
+    (Maya held a thought)
+[  320s] 5:15 asked Maya,Tom,Leo | dominoes 108 | calls 70
+    Maya -> everyone: Top lobe's down and it all connects from the start. I'm staying clear of the neck, Priya. If you want me to take the far end of the lower lobe, say so.
+    (Tom held a thought)
+    (Leo held a thought)
+[  329s] 5:30 asked Tom,Priya,Leo | dominoes 110 | calls 73
+    Priya -> everyone: Thanks Maya, I've got the lobe, and two of us in that spot is how we get a bump. Stay clear of the neck for now. Could you walk the top line and the top tail tip and check nothing's down? I'll shout t
+    (Leo held a thought)
+    (Tom held a thought)
+[  339s] 5:45 asked Maya,Tom,Leo | dominoes 114 | calls 76
+    Tom -> everyone: Got it, Priya, I'll stay clear. One thing from my look: a couple of dominoes are crowded together just behind where you're working, right at the start of the lower lobe. Check that bit when you shout 
+    (Leo held a thought)
+    (Maya held a thought)
+[  348s] 6:00 asked Maya,Priya,Leo | dominoes 118 | calls 79
+    Maya -> everyone: Top line and top tail tip are checked. Everything's standing and it all falls from the start. I'm staying away from the neck, Priya. Shout if you want a hand once your tip's down.
+    (Priya held a thought)
+    (Leo held a thought)
+[  505s] 6:15 asked Tom,Priya,Leo | dominoes 120 | calls 83
+    Priya -> everyone: Thanks Tom, good eye, and thanks Maya. I'm about two-thirds round the lower lobe, so I'll keep going. Once the tip's down I'll shout and check that crowded spot right behind me.
+    (Leo held a thought)

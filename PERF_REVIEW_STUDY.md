@@ -516,3 +516,10 @@ capacity into speed. Supply work is most valuable on an overstaffed table. The s
 delivered domino) was calibrated at 4 and would need recalibrating at other sizes. (Builders were not
 starved of dominoes at 4: about 3 stalled builder-beats per game; the runner was away about a quarter of
 the time.)
+
+**Runner credit (table of 4).** An assigned runner's real contribution = the table's average contribution per
+person (everyone's measured contribution, including any direct work by the runner, divided by four) + the
+counterfactual delta (team outcome with the runner minus the outcome had the runner been a builder). Delta
+measured with scripted players over 16 paired seeds: median 0 dominoes fell (mean -2.9; a few clumsy scripted
+runs swing both ways), so at a table of 4 the runner is worth an average member. Non-runners who fetch for the
+bin keep the per-domino supply credit.

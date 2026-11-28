@@ -33,6 +33,10 @@ PLAN_DIST = 2.5      # within this of a plan stroke is on the plan (tracing roun
 FIX_W = 10           # dominoes per fix / per open break (about 30 s of laying); sensitivity uses 5 and 20
 SUPPLY_W = 0.25      # credit per domino someone else laid from the shared bin that you brought (calibrated in
                      # experiments/check_depot.py: a runner keeping three builders stocked is worth about one builder)
+# An assigned runner's worth = the table's average contribution per person + RUNNER_DELTA, where RUNNER_DELTA
+# is the team outcome with a runner minus the outcome had the runner been a builder (counterfactual measured with
+# scripted players at a table of 4, 16 paired seeds: median 0 dominoes fell, mean -2.9).
+RUNNER_DELTA = 0.0
 
 
 # ---- worlds ---------------------------------------------------------------
@@ -318,6 +322,14 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     for wgt in sorted(set(weights) | {5, FIX_W, 20}):
         out["weights"][str(wgt)] = {n: round(sound[n] + wgt * fixes[n] - wgt * breaks_owned[n] - destroyed[n]
                                           + SUPPLY_W * supplied[n], 1) for n in names}
+    # assigned runners: the table's average contribution per person, plus the counterfactual delta
+    runners = [a["name"] for a in log["agents"] if "keep the table supplied" in (a.get("persona") or "")]
+    out["runners"] = runners
+    if runners:
+        for wgt, scores in out["weights"].items():
+            avg = sum(scores.values()) / len(scores)
+            for r in runners:
+                scores[r] = round(avg + RUNNER_DELTA, 1)
     out["contribution"] = out["weights"][str(FIX_W)]
     # planning counted in: drawing the whole plan is worth one average person's share of the sound work
     avg = sum(sound.values()) / max(1, len(names))
