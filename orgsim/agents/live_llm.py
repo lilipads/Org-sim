@@ -106,8 +106,8 @@ with these in mind:
   shape) never falls, so it's invisible to the judges. Attach details to a line, or leave them out.
 - Two lines that should meet need a gentle approach: lines that meet head-on, or at a sharp angle, can't
   pass the fall from one to the other.
-- Fewer, longer strokes. Every join is a place it can break. A good plan is 4-7 strokes, 100-150 dominoes
-  in all (1 unit of line is 2 dominoes), and fills a good part of the table so the shape reads.
+- Every join between strokes is a place the run can break, so joins need care. 1 unit of line takes 2
+  dominoes; a shape that fills a good part of the table reads better than a small one.
 - Parallel lines need space: lines closer than about 1 unit knock into each other.
 Sketch strokes use the table's coordinates:
   {{"type":"curve","points":[[x,y],[x,y],...]}}   {{"type":"line","x0":..,"y0":..,"x1":..,"y1":..}}

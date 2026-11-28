@@ -430,3 +430,22 @@ fell, all judges recognised it). One dry run was used. The sketch still had a zi
 (sharp corners the guide warns against); tracing rounded it into lobes and it still fell. So the fish is the
 model's own default (simplest recognisable outline), not only priming; the guide makes it even more
 attractive. Variety would need an assigned or excluded animal.
+
+### 13.7 Why every table picks a fish: the model's answer is nearly deterministic
+
+The "fewer, longer strokes / 4-7 strokes" advice is removed from the design guide (capable teams should be
+free to attempt more ambitious layouts); the guide now states only the facts about joins and size.
+Sampling temperature can't be set through the Claude Code command line, so games run at its default.
+Probe: the real rules, the opening moment (nobody has spoken yet), asking the first speaker which animal
+they'd propose, 16 samples each, rotating personas:
+
+| Prompt | Larger model | Smaller model |
+|---|---|---|
+| As in the game | fish 16/16 | fish 9, swan 4, elephant, whale, dolphin |
+| Judges also score how impressive and well-made it is | fish 13, elephant 2, giraffe 1 | |
+| List three different animals first, then champion one | fish 15, elephant 1 | |
+
+The larger model treats the fish as the *correct* answer to "an animal whose outline alone says what it is,
+built from a chain of dominoes", and its reasons cite the constraints ("one smooth closed outline… easy to
+chain from a single start… no sharp corners"). Personas don't shift it, and the feasibility guide reinforces
+it. Variety needs an explicit lever (an assigned or excluded animal), not more sampling.
