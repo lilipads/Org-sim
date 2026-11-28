@@ -31,8 +31,8 @@ GAP_REACH = 2.0      # a standing domino this close ahead of a dead end counts a
 SIDE_REACH = 1.0
 PLAN_DIST = 2.5      # within this of a plan stroke is on the plan (tracing rounds off sharp corners)
 FIX_W = 10           # dominoes per fix / per open break (about 30 s of laying); sensitivity uses 5 and 20
-SUPPLY_W = 0.25      # credit per domino someone else laid from the shared bin that you brought (calibrated in
-                     # experiments/check_depot.py: a runner keeping three builders stocked is worth about one builder)
+SUPPLY_W = 0.15      # credit per domino someone else laid from the shared bin that you brought: the runner's time
+                     # saving (7.6 dominoes, below) spread over the bin dominoes teammates laid (median 51.5)
 # An assigned runner's worth = the table's average contribution per person + RUNNER_DELTA, where RUNNER_DELTA
 # is the time the runner saves the team, converted into dominoes at the team's laying rate. Counterfactual
 # measured with scripted players at a table of 4, 16 paired seeds (runner vs four builders fetching for

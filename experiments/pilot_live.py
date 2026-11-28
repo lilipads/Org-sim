@@ -60,6 +60,10 @@ def main():
                     help="dominoes come from boxes by the door: trays, bulk fetching, a shared bin (§14)")
     ap.add_argument("--runner-seat", default=None,
                     help="'auto' (seat = seed mod table size) or a name: that player is the assigned supply runner")
+    ap.add_argument("--fetch-policy", default=None,
+                    help="Name=share,Name=selfish: how those players fetch (both still build)")
+    ap.add_argument("--manager-visibility", choices=["full", "low"], default="full",
+                    help="low: visits a fifth of the time and no close look at the table")
     ap.add_argument("--ambition", action="store_true",
                     help="score = recognition x ambition x uniqueness against the other tables in the round")
     ap.add_argument("--reviews-only", action="store_true",
@@ -155,6 +159,7 @@ def main():
     if args.style_override:
         who, st_ = args.style_override.split("=")
         styles[who] = st_
+    fetch_policy = dict(kv.split("=") for kv in args.fetch_policy.split(",")) if args.fetch_policy else {}
     if args.runner_seat:
         runner = names[args.seed % len(names)] if args.runner_seat == "auto" else args.runner_seat
         styles[runner] = "runner"
@@ -163,9 +168,11 @@ def main():
     manager = None
     cfg.show_tally = args.review == "individual"     # output-based reviews come with the metric on display
     if args.review in reviewmod.HAS_MANAGER:
-        cfg.manager_schedule = reviewmod.manager_schedule(args.seed, cfg.duration, cfg.beat)
+        low = args.manager_visibility == "low"
+        cfg.manager_schedule = reviewmod.manager_schedule(args.seed, cfg.duration, cfg.beat,
+                                                          share=(0.2 if low else 1 / 3))
         manager = reviewmod.Manager(names, cfg.manager_schedule, calls, args.model, f"seed{args.seed}",
-                                    forced=(args.review == "forced"))
+                                    forced=(args.review == "forced"), low_visibility=low)
     agents = []
     for n in names:
         rules = RULES_V2.format(n_others=len(names) - 1, minutes=int(args.minutes), w=W, h=H,
@@ -236,7 +243,9 @@ def main():
             fmt = ("\nTo say you're on board, add \"aligned\": \"<name of the animal>\" (or \"\" to withdraw). "
                    "You can do this together with anything else.")
         extra = {"model": args.model} if args.model else {}
-        persona = PERSONAS_V2[n] + (f" Your working style: {reviewmod.STYLES[styles[n]]}" if styles else "")
+        persona = PERSONAS_V2[n] + (f" Your working style: {reviewmod.STYLES[styles[n]]}" if styles.get(n) else "")
+        if fetch_policy.get(n):
+            persona += " " + reviewmod.FETCH_POLICIES[fetch_policy[n]]
         evaluation = reviewmod.EVALUATIONS[args.review] if args.review else args.evaluation
         if args.review in reviewmod.HAS_MANAGER:
             fmt += ("\nOptional: \"to_manager\": \"something you tell the manager privately (nobody else hears "
@@ -252,7 +261,8 @@ def main():
     def run_reviews():
         heard = {a.name: [dict(m, new=False) for m in game.heard[a.name]] for a in agents}
         rv = {"condition": args.review, "evaluation_text": reviewmod.EVALUATIONS[args.review],
-              "styles": styles, "skills": skills, "manager_schedule": cfg.manager_schedule}
+              "styles": styles, "skills": skills, "manager_schedule": cfg.manager_schedule,
+              "fetch_policy": fetch_policy, "manager_visibility": args.manager_visibility}
         if manager is not None:
             with ThreadPoolExecutor(len(agents)) as ex:
                 packets = dict(zip(names, ex.map(

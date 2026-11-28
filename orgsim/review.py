@@ -39,6 +39,11 @@ REMINDERS = {
     "forced": "your manager's rating on a fixed curve: one person top, two middle, one bottom (it decides your promotion and bonus).",
 }
 
+FETCH_POLICIES = {
+    "share": "Whenever you go to the boxes, you bring back a full load (40) for the shared bin, for everyone.",
+    "selfish": "Whenever you go to the boxes, you bring back only what you need for your own tray.",
+}
+
 STYLES = {
     "organiser": "You naturally take charge: you like to set the plan and keep everyone coordinated.",
     "builder": "You like to pick a piece of work and get it done, quietly and well.",
@@ -94,7 +99,8 @@ MANAGER_SYSTEM = ("You are the manager of a team of four at an offsite team acti
 
 class Manager:
     def __init__(self, names: list, schedule: list, log: CallLog | None, model: str | None, salt: str,
-                 forced: bool = False):
+                 forced: bool = False, low_visibility: bool = False):
+        self.low_visibility = low_visibility        # no close look at the table: only a rough impression
         self.names, self.schedule, self.log, self.model, self.salt = names, schedule, log, model, salt
         self.forced = forced
         self.notes = ""
@@ -131,7 +137,19 @@ class Manager:
         self.visits_done += 1
         img = None
         d = tempfile.mkdtemp(prefix="mgr_")
+        glance = ""
+        if self.low_visibility:
+            standing = sum(1 for x in game.world.dominoes.values() if x.state == "up")
+            try:
+                reach = len(game.world.reachable_from_start("table"))
+            except Exception:
+                reach = 0
+            share = round(100 * reach / max(1, standing)) if standing else 0
+            glance = (f"From across the room the picture looks like it's coming along: about {standing} dominoes "
+                      f"are up, and roughly {share}% of them look joined into the run. You can't tell who laid what.")
         try:
+            if self.low_visibility:
+                raise RuntimeError("no close look")
             from .render import agent_view_png
             hands = {}
             for o, tk in game.task.items():
@@ -143,11 +161,13 @@ class Manager:
         except Exception:
             img = None
         seen = "\n".join(self.visit) or "(nobody said anything while you were there)"
+        view = (glance if self.low_visibility else
+                "The attached picture is the table as you left it: dark dominoes are connected to the start, pale "
+                "ones aren't; labels show where people's hands were.")
         prompt = (f"You've just left the team's table at {clock} (visit {self.visits_done}).\n"
                   f"YOUR NOTES SO FAR:\n{self.notes or '(none yet)'}\n\n"
                   f"WHAT YOU SAW AND HEARD ON THIS VISIT:\n{seen}\n\n"
-                  "The attached picture is the table as you left it: dark dominoes are connected to the start, pale "
-                  "ones aren't; labels show where people's hands were. Update your notes on each person "
+                  f"{view} Update your notes on each person "
                   f"({', '.join(self.names)}): what they did, how it went, anything you want to remember for the "
                   'review. Reply with JSON only: {"notes": "your updated notes, under 250 words"}')
         out = parse_json(call_model(MANAGER_SYSTEM, prompt, self.log, f"manager/visit{self.visits_done}",
