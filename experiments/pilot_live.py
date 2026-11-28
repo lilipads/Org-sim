@@ -56,6 +56,8 @@ def main():
     ap.add_argument("--style-override", default=None,
                     help="Name=style, e.g. Tom=glue (paired design: switch one player's style)")
     ap.add_argument("--seams", action="store_true", help="joins between people's lines are a separate job")
+    ap.add_argument("--ambition", action="store_true",
+                    help="score = recognition x ambition x uniqueness against the other tables in the round")
     ap.add_argument("--reviews-only", action="store_true",
                     help="re-run only the end-of-game reviews on the finished game in --out (writes reviews_replay.json)")
     ap.add_argument("--wide-hands", action="store_true", help="speed 0.4-2.5x, placement error 0.3-3.0x")
@@ -171,6 +173,12 @@ def main():
                                           "facilitator takes the pad away for good; after that, work from memory."))
         if len(names) == 1:
             rules = rules.replace("sitting at a table with 0 colleagues", "sitting at a table on your own")
+        if args.ambition:
+            rules = rules.replace("The judge sees only the outline that falls,", (
+                "Several tables at the offsite are doing this at once. Judges score three things, multiplied: whether "
+                "they recognise the animal; how ambitious and well-made the picture is; and how unique it is, meaning "
+                "different from what the other tables build (two tables with the same animal both score low on "
+                "uniqueness). The judge sees only the outline that falls,"), 1)
         if not args.roles:
             rules = rules.replace("Sketch strokes use the table's coordinates:", (
                 "To test a sketch before anyone builds it, add \"check\": \"dry_run\": for about 30 seconds you "
@@ -383,6 +391,12 @@ def main():
             "notes_surfaced": clientmod.notes_surfaced(profile, notes, game.log, calls),
         })
     dec = game.log.get("decision") or {}
+    if args.ambition:
+        from orgsim.design_check import ambition_panel
+        amb = ambition_panel(png, calls)
+        summary.update({"ambition": amb["ambition"], "ambition_ratings": amb["ratings"],
+                        "score_without_uniqueness": round(judging["recognition"] * amb["ambition"], 3),
+                        "uniqueness": "computed across the round's tables (experiments/uniqueness.py)"})
     if args.review:
         summary.update({"review": args.review, "styles": styles, "review_ratings": reviews.get("ratings")})
     summary.update({"decision": args.decision, "dictator": dictator, "decided": dec.get("animal"),

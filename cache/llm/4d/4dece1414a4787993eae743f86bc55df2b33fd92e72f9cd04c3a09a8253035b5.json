@@ -1,0 +1,1 @@
+{"model": "sonnet", "tag": "probe/4", "result": "\n<invoke name=\"noop\"></invoke>\n```json\n{\"say\": \"Okay, idea: a snail! Big spiral shell on its back, a long body sliding along the bottom, and two antennae up front. It's all curves, no sharp corners, and nobody else is going to do a snail. I can grab the pad and sketch it if you're up for it?\", \"animal\": \"snail\"}\n```"}

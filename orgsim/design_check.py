@@ -173,6 +173,33 @@ def rate_beauty(png: str, log: CallLog | None, tag: str) -> dict:
     return {"score": sc, "why": str(out.get("why") or "")}
 
 
+AMBITION_SYSTEM = ("You are a judge at a team activity where tables build pictures of animals out of dominoes. You rate "
+                   "how ambitious and well-made a picture is. Be honest and use the whole scale.")
+AMBITION_PROMPT = ("Use the Read tool to look at the image file picture.png in the current folder. It is a picture made of "
+                   "fallen dominoes, seen from above. How ambitious and well-made is it? 1 = an ordinary, easy picture, "
+                   "roughly done; 5 = a solid, typical effort; 10 = an ambitious, difficult subject, executed with skill. "
+                   'Reply with JSON only: {"score": 1-10, "why": "one short sentence"}')
+
+
+def ambition_panel(png: str, log: CallLog | None, n: int = 3) -> dict:
+    from concurrent.futures import ThreadPoolExecutor
+    dig = _digest(png)
+
+    def one(k):
+        def go(d):
+            return call_model(AMBITION_SYSTEM, AMBITION_PROMPT, log, f"ambition{k + 1}", tools="Read", cwd=d,
+                              cache_salt=f"ambition{k + 1}", cache_extra=dig)
+        out = parse_json(_with_picture(png, go)) or {}
+        try:
+            sc = max(1.0, min(10.0, float(out.get("score"))))
+        except (TypeError, ValueError):
+            sc = 5.0
+        return {"score": sc, "why": str(out.get("why") or "")}
+    with ThreadPoolExecutor(n) as ex:
+        rs = list(ex.map(one, range(n)))
+    return {"ratings": rs, "ambition": round(sum(r["score"] for r in rs) / len(rs) / 10, 3)}
+
+
 def aesthetics_panel(png: str, log: CallLog | None, n: int = 3) -> dict:
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(n) as ex:
