@@ -543,3 +543,21 @@ Runner vs the rest: oracle +2 (an average member); manager -0.7 points (right ra
 (rated lowest, below the planner who laid nothing); individual output 0 vs 42. Peers saw and named every
 delivery but discounted it ("he laid very little himself, and the bin was already well supplied"): working
 glue makes its own value invisible. Tom claimed the lowest share (25%). One game: an illustration, not a result.
+
+### 14.2 Sharer vs selfish fetcher (seed 451, equal hands, low-visibility manager, briefed peers)
+
+Fish recognised, 127/127 fell. Only 4 trips: Leo (sharer) 40 to bin, Tom (no instruction) 40 to bin,
+Priya (no instruction) 40 to bin, Maya (selfish) 12 for herself. Cooperative bulk fetching is the model's
+default, and a fish needs only a few trips, so the contrast barely happened.
+
+| | Oracle | Manager (low vis.) | Peer | Peer, briefed | Individual |
+|---|---|---|---|---|---|
+| Tom | 57 | 3 | 4.0 | 4.0 | 44 |
+| Maya (selfish) | 33 | 4 | 5.0 | 5.0 | 32 |
+| Leo (sharer) | 30 | 4 | 4.0 | 4.0 | 41 |
+| Priya | 14 (40 with planning) | 3 | 3.67 | 4.0 | 10 |
+
+The selfish fetcher topped peers and manager for visible design catches (sharp tail corners, the nose gap);
+her fetching was never mentioned. Peers credited the sharer's stocking as a footnote. The data briefing changed
+nothing (ratings bunched at 4-5). The low-visibility manager missed the top contributor (Tom: 3). The oracle
+doesn't credit verbal catches. Next: make supply matter more, script the selfish player, or credit catches.
