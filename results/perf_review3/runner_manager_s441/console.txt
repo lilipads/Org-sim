@@ -105,3 +105,42 @@
     (Leo held a thought)
 [  515s] 6:30 asked Maya,Tom,Leo | dominoes 123 | calls 86
     Leo -> everyone: Thanks Maya and Tom. Priya, carry on, I'll stay well back from you. I'm nudging that crowded domino at the start of the lower lobe into line now. It's far enough behind you that we won't bump. Shout w
+[  530s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 91
+    Priya -> everyone: Thanks Leo, that works. I'm nearly at the tip now, just a few left. I'll shout the moment it's down, then I'll look over the whole tail.
+[  542s] 7:00 asked Maya,Tom,Leo | dominoes 127 | calls 94
+    Leo -> everyone: Quick report from my look, Priya: the lower lobe carries through all the way to where you're working. Only one stray domino sits off to the side near the start of the lobe, and it doesn't break anythi
+[  550s] 7:15 asked Maya,Tom,Priya | dominoes 127 | calls 97
+    Priya -> everyone: Tip's down, Leo! The lower lobe is finished. I'm doing a close look over the whole tail now, including that crowded spot behind me. Tom, hold off on bumps until I've checked. Maya, nice work on the to
+[  560s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 101
+    Priya -> everyone: Good news, everyone. My close look says the whole tail carries through from the start, and the only domino not connected is that one stray by the lower lobe, which is harmless. Both tips are down. Tom
+    (Leo held a thought)
+    (Tom held a thought)
+[  569s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 105
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! We're in good shape. It's a fish: body, and a forked tail with two lobes. The start reaches almost everything standing, and the only domino not connected is one harmless stray near the lower lobe.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  576s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 109
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Quick update from me: the fish is built, body and forked tail, and everything standing falls from the start except one stray that doesn't touch the outline. Tom, shout if you find anything down. Every
+    (Tom held a thought)
+    (Priya held a thought)
+[  583s] 8:15 asked Maya,Tom,Priya | dominoes 127 | calls 112
+    Priya -> everyone: Two minutes, everyone. It's all down and connected, so hands off and let Tom finish his walk. Let's not bump anything now!
+    (Tom held a thought)
+[  590s] 8:30 asked Maya,Tom,Leo | dominoes 127 | calls 115
+    Tom -> everyone: Thanks, Priya. I walked the tail and nothing's down, so it's all standing. Hands off now and let it fall.
+[  596s] 8:45 asked Maya,Priya,Leo | dominoes 127 | calls 118
+    Leo -> everyone: Thanks Tom. Looks good from here, everyone hands off and let it fall.
+    Priya -> everyone: Looks great, team. Hands off and let it fall. Fingers crossed the judge says fish!
+[  617s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 123
+    Tom -> everyone: All good from me. Hands off, and let the fish swim!
+[  624s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 127
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! All done and standing. It's a fish with a forked tail, and the start reaches nearly everything. Maya did the top lobe, Leo kept the plan and joins straight, Tom walked the line for bumps, and I di
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  629s] 9:30 asked Maya,Tom,Leo | dominoes 127 | calls 130
+    Tom -> everyone: Nothing down on my walk, so we're all set. Hands off, and let the fish swim!

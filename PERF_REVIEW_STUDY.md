@@ -519,7 +519,9 @@ the time.)
 
 **Runner credit (table of 4).** An assigned runner's real contribution = the table's average contribution per
 person (everyone's measured contribution, including any direct work by the runner, divided by four) + the
-counterfactual delta (team outcome with the runner minus the outcome had the runner been a builder). Delta
-measured with scripted players over 16 paired seeds: median 0 dominoes fell (mean -2.9; a few clumsy scripted
-runs swing both ways), so at a table of 4 the runner is worth an average member. Non-runners who fetch for the
-bin keep the per-domino supply credit.
+counterfactual delta: **the time the runner saves the team**, converted into dominoes at the team's laying rate.
+Measured with scripted players over 16 paired seeds (runner vs four builders fetching for themselves): the
+picture is 90% laid a median **30 s sooner** (mean 35 s, range -30 to +90); the team lays 0.255 dominoes/s; so
+delta = 7.6 dominoes, about a quarter more than an average member (25-35). Time is the right measure: by
+dominoes fallen the difference was about 0, because both finish the fish in 10 minutes and that measure mixes
+in laying quality. Non-runners who fetch for the bin keep the per-domino supply credit.

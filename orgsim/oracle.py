@@ -34,9 +34,12 @@ FIX_W = 10           # dominoes per fix / per open break (about 30 s of laying);
 SUPPLY_W = 0.25      # credit per domino someone else laid from the shared bin that you brought (calibrated in
                      # experiments/check_depot.py: a runner keeping three builders stocked is worth about one builder)
 # An assigned runner's worth = the table's average contribution per person + RUNNER_DELTA, where RUNNER_DELTA
-# is the team outcome with a runner minus the outcome had the runner been a builder (counterfactual measured with
-# scripted players at a table of 4, 16 paired seeds: median 0 dominoes fell, mean -2.9).
-RUNNER_DELTA = 0.0
+# is the time the runner saves the team, converted into dominoes at the team's laying rate. Counterfactual
+# measured with scripted players at a table of 4, 16 paired seeds (runner vs four builders fetching for
+# themselves): time to lay 90% of the picture, median 30 s sooner (mean 35 s); team rate 0.255 dominoes/s;
+# 30 x 0.255 = 7.6. (By dominoes fallen instead, the difference was about 0: both finish the fish in 10 minutes,
+# and that measure mixes in laying quality; the runner's job is saving time.)
+RUNNER_DELTA = 7.6
 
 
 # ---- worlds ---------------------------------------------------------------
