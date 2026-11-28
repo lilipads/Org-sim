@@ -1,0 +1,26 @@
+{
+ "condition": "individual",
+ "evaluation_text": "You're rated individually on how many of the dominoes you placed fall in the final picture. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {},
+ "skills": {},
+ "manager_schedule": null,
+ "fetch_policy": {
+  "Leo": "share",
+  "Maya": "selfish"
+ },
+ "manager_visibility": "low",
+ "ratings": {
+  "Maya": {
+   "dominoes_fell": 32
+  },
+  "Tom": {
+   "dominoes_fell": 44
+  },
+  "Priya": {
+   "dominoes_fell": 10
+  },
+  "Leo": {
+   "dominoes_fell": 41
+  }
+ }
+}

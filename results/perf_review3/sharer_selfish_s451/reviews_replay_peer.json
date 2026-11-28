@@ -1,0 +1,118 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {},
+ "skills": {},
+ "manager_schedule": null,
+ "fetch_policy": {
+  "Leo": "share",
+  "Maya": "selfish"
+ },
+ "manager_visibility": "low",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Tom fetched dominoes early, laid the start and the top line, built the bottom tail join, and kept the table updated, though the nose gap on his top line was left pale until I closed it."
+   },
+   "Priya": {
+    "rating": 3,
+    "why": "Priya drew the pad sketch, rounded the tail and built the top tail, but her redraws took several tries to stick and she twice reported the run as fully connected when the top line was still pale, though she owned the mistake."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo restocked the bin, laid the bottom line, and kept communicating and checking for breaks, but he ended up mostly watching and checking rather than building during the last stretch."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "She spotted the sharp tail corners early, pushed for a smooth redesign, and caught the pale top line at the nose and bridged it; I also saw her lay a lot of the bottom line near the tail, so she led and built."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She held the pad and redrew the tail until it was buildable and laid the top tail, but her first 'it all carries through' claim was wrong, though she corrected it promptly."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He ran the early bin supply and the bottom line, and his later look-overs were useful, but he made fewer building contributions in the second half and had to be asked to double-check a stray domino."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She caught the sharp tail corners and the pale, unconnected top line at the nose, bridged the gap herself, and kept the table coordinated and on track."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He fetched a full load for the bin, laid the start and top line, took the bottom tail join, and verified it, though the nose gap on his line had to be spotted and closed by Maya."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He stocked the bin, laid the bottom line cleanly, and gave honest, accurate checks of the run, though he was mostly inspecting rather than building in the second half."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish, caught that the sharp tail corners would stop the fall, and kept pushing for a smoother tail. She laid much of the bottom line herself and closed the pale nose gap that would have cut off the top line."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He fetched a full load for the bin, laid the start and most of the top line, and took the bottom tail join without being asked. He also checked the joins, though his early \"all connected\" report missed the nose gap."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She fetched a full load for the bin and kept the pad updated through several tail redraws until it was right, then built the top tail. Her pad redraws were slow to take effect and she briefly overstated that everything was connected, but she owned the correction."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 5,
+   "Leo": 4,
+   "Priya": 1
+  },
+  "Tom": {
+   "Leo": 6,
+   "Maya": 7,
+   "Priya": 2
+  },
+  "Priya": {
+   "Tom": 2,
+   "Leo": 1,
+   "Maya": 2
+  },
+  "Leo": {
+   "Tom": 6,
+   "Maya": 5,
+   "Priya": 2
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 3.67,
+   "all_raters": 3.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

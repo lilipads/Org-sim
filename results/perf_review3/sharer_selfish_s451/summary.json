@@ -1,0 +1,103 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {},
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 939.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline seen from the side, with a forked tail on the right",
+      "stylized fish or sea creature drawn as a single thick-line contour",
+      "tapered leaf or pointed oval shape with a forked tail-like end"
+    ],
+    [
+      "fish outline",
+      "simple fish drawing",
+      "leaf or boat shape"
+    ],
+    [
+      "fish outline, side view",
+      "fish drawn with a forked tail",
+      "closed curved shape like a leaf or boat hull"
+    ]
+  ],
+  "placed": 127,
+  "fell": 127,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 48,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 11,
+    "Priya": 13,
+    "Tom": 9,
+    "Leo": 9,
+    "Manager": 3
+  },
+  "held_thoughts": 64,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 151,
+    "failed": 4,
+    "input_tokens": 294,
+    "cache_creation_tokens": 749741,
+    "cache_read_tokens": 545253,
+    "output_tokens": 79667,
+    "seconds": 1610.9,
+    "api_equivalent_usd": 3.7654,
+    "cached": 6
+  },
+  "review": "manager",
+  "styles": {},
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "I saw her make real catches earlier (tail corners, the nose gap, a checkable pad critique), and Leo independently credits her with closing the nose gap, so her impact is better corroborated than most. I'm stopping short of 5 because I can't attribute any domino to her and haven't confirmed she checked the off-path stray."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He was reliable but low-profile: brief 'all good, hands off' reports, and Leo credits him with the bottom tail join, which fits his earlier claim. I never saw the proper check he promised, and I can't separate his work from Leo's bottom line, so there's not enough evidence to go above solid."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She contributed the pad sketch and took on the tail redesign after Maya's feedback, but she was silent at visit 3 and her tail work is only credited secondhand by Leo. Earlier she gave confident status updates without proof and advised leaving the odd tail domino alone, so I need her to say what she personally verified before rating her higher."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "At visit 3 he gave a clear summary of the design and who did what, and invited anyone to flag bumps or gaps, which is good collaboration and leadership. His 'whole run connected' and 'stray is harmless' claims are still unverified by me, and he skipped an extra test run earlier, so I'm holding at 4 pending the fall."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
