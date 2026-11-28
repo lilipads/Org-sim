@@ -501,3 +501,18 @@ it; and starting a new task while away at the boxes cancelled the trip. Both fix
 
 Fetching in bulk for everyone is clearly the efficient, cooperative choice; fetching only your own is
 slower. A designated runner is about break-even with four selfish builders (one fewer pair of hands).
+
+**Runner value depends on table size (scripted, 6 seeds, time to lay 90% of the picture):**
+
+| Table | Everyone builds and fetches a trayful | One runner, the rest build |
+|---|---|---|
+| 4 | 5.4 min | 5.1 min |
+| 6 | 5.4 min | **3.7 min** |
+| 8 | 5.4 min | **3.7 min** |
+
+At 4, builders are the scarce resource (the fish has 4-5 strokes), so a runner costs a full builder and is
+worth about one. From 6 up, extra builders add nothing (the 5.4 min doesn't move), and a runner turns spare
+capacity into speed. Supply work is most valuable on an overstaffed table. The supply credit (0.25 per
+delivered domino) was calibrated at 4 and would need recalibrating at other sizes. (Builders were not
+starved of dominoes at 4: about 3 stalled builder-beats per game; the runner was away about a quarter of
+the time.)

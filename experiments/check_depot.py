@@ -51,15 +51,15 @@ class Worker(ct.Tracer):
         return super().act(obs)
 
 
-def run(seed: int, mode: str) -> dict:
+def run(seed: int, mode: str, size: int = 4) -> dict:
     rng = random.Random(seed)
     order = list(range(2, len(ct.FISH) + 1))
     rng.shuffle(order)
     order = [1] + order                         # someone always starts with stroke 1 (it lays the start)
-    names = ["A", "B", "C", "D"]
-    builders = names[:3] if mode == "runner" else names
+    names = ["A", "B", "C", "D", "E", "F", "G", "H"][:size]
+    builders = names[:-1] if mode == "runner" else names
     jobs = {n: order[i::len(builders)] for i, n in enumerate(builders)}
-    agents = [Worker(n, jobs.get(n, []), i == 0, mode, runner=(mode == "runner" and n == "D"))
+    agents = [Worker(n, jobs.get(n, []), i == 0, mode, runner=(mode == "runner" and n == names[-1]))
               for i, n in enumerate(names)]
     skills = {n: {"speed": rng.uniform(0.6, 1.6), "error": rng.uniform(0.5, 2.0)} for n in names}
     w = table_world("table", 30, 20, 250, Physics(pos_sigma=0.025, bump_radius=3.0))
@@ -80,9 +80,10 @@ def run(seed: int, mode: str) -> dict:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--seeds", type=int, default=8)
+    ap.add_argument("--size", type=int, default=4)
     args = ap.parse_args()
     for mode in ("selfish", "coop", "runner"):
-        rs = [run(s, mode) for s in range(args.seeds)]
+        rs = [run(s, mode, args.size) for s in range(args.seeds)]
         t90 = [r["t90"] for r in rs if r["t90"] is not None] or [0]
         print(f"{mode:8} fell median {sorted(r['fell'] for r in rs)[len(rs) // 2]:4}  "
               f"90% laid at {sum(t90) / len(t90) / 60:.1f} min  fetched {sum(r['fetched'] for r in rs) / len(rs):.0f}  "

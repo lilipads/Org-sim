@@ -46,3 +46,37 @@
     (Priya held a thought)
     (Maya held a thought)
     (Leo held a thought)
+[  173s] 3:00 asked Maya,Priya,Leo | dominoes 74 | calls 39
+    Priya -> everyone: Love that, Tom! The lower lobe is the end of my stroke, so you can't trace just that bit yet. Leo, could you sketch the lower lobe as its own stroke starting from the tail neck? Then Tom can take it w
+    (Leo held a thought)
+    (Maya held a thought)
+[  208s] 3:15 asked Tom,Leo | dominoes 85 | calls 42
+    Leo -> everyone: Thanks Tom, and Priya, good thinking. I'd rather not split the lobe off now, because two people tracing the same stretch will double-lay it. Priya, just carry on along the belly through the lower lobe
+    (Tom held a thought)
+[  220s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 90 | calls 46
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! Fish is coming along. The start reaches everything standing so far, and I'm carrying the belly line toward the tail neck. Maya's finishing the top lobe, Tom's restocking the bin, and Leo's watchin
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  238s] 3:45 asked Maya,Tom,Leo | dominoes 93 | calls 49
+    Leo -> everyone: Change of plan on the lower lobe, Priya. I've sketched it as its own stroke on the pad. Carry the belly up to the tail neck and stop there, and I'll lay the lobe from the neck out. I'm tracing it now 
+    (Tom held a thought)
+    (Maya held a thought)
+[  254s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 97 | calls 53
+    Leo -> everyone: Sorry, Priya, scrap my last message. The separate lobe stroke didn't take on the pad, and stroke 2 already runs through the lower lobe. Just carry on along the belly and out around the lower lobe as p
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  263s] 4:15 asked Maya,Tom,Priya | dominoes 99 | calls 56
+    Priya -> everyone: Got it, Leo. No separate lobe stroke. I'm finishing the belly now and carrying on around the lower lobe myself. I'll shout when the tip is down so you can check it. Tom, the bin's good, so you can sta
+    (Maya held a thought)
+    (Tom held a thought)
+[  289s] 4:30 asked Maya,Tom,Leo | dominoes 102 | calls 60
+    Tom -> everyone: On it, Leo. The bin's at about seventy-five, and from the start everything standing falls. I'll keep clear of Priya while she does the lower lobe, then stand up anything that's down once she's through
+    (Maya held a thought)
+    (Leo held a thought)
+[  298s] 4:45 asked Maya,Priya,Leo | dominoes 102 | calls 63
+    Leo -> everyone: Top lobe looks good from here, and everything standing falls from the start. Priya, carry on round the lower lobe and shout when the tip's down. I'll check it then. Tom, restand bumps after that.
+    (Priya held a thought)
+    (Maya held a thought)
