@@ -308,3 +308,28 @@ Readings (6 games per condition, directions not measurements):
 * **Peer ratings carry almost no information** (rho 0.02, spread 1.2 points).
 * **Forced ranking** separates people (4-point spread) but barely in the right order (rho 0.16).
 * People talk about a fifth more when the manager is at the table.
+
+## 13. Debugging the first main run, and changes (v2)
+
+* **Correction.** "Managers under-rate the organiser" (§12) was an artifact of grouping by working style.
+  The person who actually drew the plan was rated 1st or 2nd by the manager in 5 of 6 games (mean 4 vs
+  3.3 for the others). Managers don't discredit the plan.
+* **Why peer ratings carry no signal.** (a) Almost everyone gets 4 or 5: ties make a 4-person rank
+  correlation mostly noise. (b) Peers rate what they hear, not what they see: in seed 403 three teammates
+  praised an arm as "built cleanly so it falls from the start" when 4 of its 34 dominoes fell. **Change:** raters
+  say how well they know each person's work (closely / somewhat / not really); "not really" ratings are
+  dropped (all ratings kept for comparison).
+* **Self-assessments were too modest.** A builder with the most sound work wrote "my own contribution was
+  modest" and got the lowest rating. **Change:** "make the case for your contribution, the way people do. Stay
+  truthful, but put your work in its best light; like most people, you remember your own part most vividly."
+* **Too little glue work.** 1-2 fixes and about 1 open break per game: incentives had nothing to act on.
+  **Change: the seam rule.** A stroke that grows from someone else's line starts a hand's width short of it;
+  joining the two is a separate job (connect or fix) that anyone can do, and a join nobody makes is a break.
+  The start is exempt. Scripted check: with nobody joining, 64 of 80 dominoes fall (tails stranded); one
+  person making the joins brings it to 97, so a third of the picture hangs on 2-3 small, invisible joins.
+* **Paired design.** Same seed and team; one player (Tom) is switched between the builder style and a
+  **glue** style ("connecting the places where people's lines meet, fixing breaks and checking others' work,
+  rather than laying long lines of your own"). Outcome: how that player's rating moves under each review
+  system, against how the oracle's measure moves.
+* Scripted check fixed: its break finder now follows the way the run actually falls (oracle's), and repairs
+  use connect, done by one person once the lines are down.

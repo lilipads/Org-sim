@@ -75,6 +75,8 @@ class LiveConfig:
     check_seconds: dict = field(default_factory=lambda: {"dry_run": 30.0, "squint": 30.0, "ask_client": 45.0})
     manager_schedule: list | None = None   # [[start, end], ...] seconds when a manager is at the table
     show_tally: bool = False         # each player sees how many of their dominoes are connected to the start
+    seams: bool = False              # a stroke that begins on another line stops a hand's width short of it;
+                                     # joining two lines is a separate job (connect / fix)
 
 
 @dataclass
@@ -827,6 +829,17 @@ class LiveGame:
                         feeds_in = lead is None and (
                             at_origin or any(math.hypot(p[-1][0] - begin[0], p[-1][1] - begin[1]) <= 1.6
                                              for kk, ps in flow.items() for p in ps if p is not pts_src))
+                        if feeds_in and self.cfg.seams and not at_origin:   # the start itself isn't a seam
+                            # the seam rule: start a hand's width in from the junction and don't wait for the run;
+                            # joining onto the other line is a separate job
+                            from .handwork import _densify
+                            dense = _densify(pts_src, 0.25)
+                            mine_near = any(x.builder == n for x in self.world.near(begin[0], begin[1], 1.4))
+                            if not mine_near and len(dense) > 8:
+                                pts_src = dense[5:]                 # about 1.2 units in
+                            notes.append(f"starting stroke {k} a hand's width short of the line it grows from; "
+                                         "the join is a separate job")
+                            feeds_in = False
                         if feeds_in and not specs and not any(
                                 x.state == "up" and x.id not in old for x in self.world.near(begin[0], begin[1], 1.4)):
                             pending = {"k": k, "pts": pts_src, "err": err, "room": max(0, room), "begin": begin,
@@ -1032,6 +1045,8 @@ class LiveGame:
     def _finish_build(self, n: str, task: dict):
         if task.get("pending"):                       # more of this stroke to come once the run arrives
             return
+        if self.cfg.seams:                            # no automatic joining: seams are someone's job
+            task["rejoined"] = task["begun"] = task["joined"] = True
         if task.get("trace_k") is not None and not task.get("rejoined"):
             task["rejoined"] = True                   # lines that grew from a re-laid stroke get fed again
             mine = [self.world.dominoes[i] for i in task["placed"] if i in self.world.dominoes]

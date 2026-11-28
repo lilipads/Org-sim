@@ -25,18 +25,14 @@ FISH = [   # nose at the left; top and belly both start at the nose; tail on the
 
 
 def find_break(world):
-    """A place where the run visibly stops short of more dominoes just ahead."""
-    import math
-    reach = world.reachable_from_start()
-    for i in reach:
-        d = world.dominoes[i]
-        if world.successors(d):
-            continue
-        r = math.radians(d.angle)
-        for b in world.near(d.x, d.y, 2.0):
-            if b.id not in reach and b.state == "up" and (b.x - d.x) * math.cos(r) + (b.y - d.y) * math.sin(r) > 0:
-                return (d.x, d.y)
-    return None
+    """A place where the run stops short of more dominoes just ahead (the oracle's break finder, which
+    follows the way the run actually falls)."""
+    from orgsim.oracle import fed_fall
+    _, brk = fed_fall(world, set(world.dominoes), [])
+    if not brk:
+        return None
+    d, t = world.dominoes[brk[0]["from"]], world.dominoes[brk[0]["to"]]
+    return (d.x, d.y, t.x, t.y)
 
 
 # Sketches copied from real AI games that failed before the junction fixes.
@@ -81,14 +77,15 @@ class Tracer(LiveAgentBase):
         if self.jobs:
             j = self.jobs.pop(0)
             return Decision(do="build", strokes=[{"type": "trace", "stroke": j}])
-        if self.repair and self.world is not None:     # free hands: fix a break in the run
+        if (self.repair and self.world is not None and self.name == "A"   # one person does the repairs,
+                and obs["remaining"] <= 300):                              # once the lines are down
             brk = find_break(self.world)
             if brk:
-                return Decision(do="build", strokes=[{"type": "fix", "at": list(brk)}])
+                return Decision(do="build", strokes=[{"type": "connect", "from": list(brk[:2]), "to": list(brk[2:])}])
         return Decision()
 
 
-def run(seed: int, repair: bool = False, sketch="fish", return_world: bool = False):
+def run(seed: int, repair: bool = False, sketch="fish", return_world: bool = False, seams: bool = False):
     rng = random.Random(seed)
     strokes = SKETCHES[sketch] if isinstance(sketch, str) else sketch
     order = list(range(1, len(strokes) + 1))
@@ -98,7 +95,7 @@ def run(seed: int, repair: bool = False, sketch="fish", return_world: bool = Fal
     agents = [Tracer(n, jobs[n], sketcher=(i == 0), repair=repair, sketch=strokes) for i, n in enumerate(names)]
     skills = {n: {"speed": rng.uniform(0.6, 1.6), "error": rng.uniform(0.5, 2.0)} for n in names}
     w = table_world("table", 30, 20, 250, Physics(pos_sigma=0.025, bump_radius=3.0))
-    cfg = LiveConfig(duration=600, seed=seed, seconds_per_domino=3.0, skills=skills, freehand_sigma=0.15,
+    cfg = LiveConfig(duration=600, seed=seed, seconds_per_domino=3.0, skills=skills, freehand_sigma=0.15, seams=seams,
                      scratchpad_until=600, announce_at=(), idle_quiet=15, max_quiet=15)
     g = LiveGame(w, agents, cfg)
     for a in agents:
@@ -113,8 +110,9 @@ def main():
     ap.add_argument("--seeds", type=int, default=30)
     ap.add_argument("--repair", action="store_true", help="free hands look for breaks and fix them")
     ap.add_argument("--sketch", choices=list(SKETCHES), default="fish")
+    ap.add_argument("--seams", action="store_true", help="joins between people's lines are a separate job")
     args = ap.parse_args()
-    comps = [run(s, args.repair, args.sketch) for s in range(args.seeds)]
+    comps = [run(s, args.repair, args.sketch, seams=args.seams) for s in range(args.seeds)]
     full = sum(c >= 0.9 for c in comps)
     print(f"{full}/{len(comps)} runs with 90%+ falling; mean {sum(comps) / len(comps):.0%}")
     print(" ".join(f"{c:.0%}" for c in comps))

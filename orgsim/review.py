@@ -44,6 +44,9 @@ STYLES = {
     "builder": "You like to pick a piece of work and get it done, quietly and well.",
     "checker": "You like to check work carefully and put right whatever's wrong, wherever it is.",
     "connector": "You keep everyone informed and energised, and you like being where the action is.",
+    # for the paired design: the same player switched between laying lines and joining-up work
+    "glue": ("You like doing the joining-up work: connecting the places where people's lines meet, fixing breaks "
+             "and checking others' work, rather than laying long lines of your own."),
 }
 
 
@@ -200,7 +203,9 @@ def self_assessment(agent, obs: dict, full_conversation: list) -> str:
     o = dict(obs, conversation=full_conversation)
     prompt = (agent.situation(o) + "\n\nTime is up and the picture has been pushed. Write your self-assessment for "
               "your manager, about 200-300 words, under four headings: Impact, Execution, Collaboration, "
-              "Leadership. Write it in your own voice. Reply with JSON only: {\"self_assessment\": \"...\"}")
+              "Leadership. This is your review cycle and it decides your promotion: make the case for your "
+              "contribution, the way people do. Stay truthful, but put your work in its best light; like most "
+              "people, you remember your own part most vividly. Reply with JSON only: {\"self_assessment\": \"...\"}")
     d = parse_json(call_model(agent.system, prompt, agent.log, f"{agent.name}/self_assessment", agent.model,
                               image=agent._image(obs), cache_salt=agent.cache_salt)) or {}
     return str(d.get("self_assessment") or "").strip()
@@ -210,8 +215,10 @@ def peer_ratings(agent, obs: dict, full_conversation: list, others: list) -> dic
     o = dict(obs, conversation=full_conversation)
     prompt = (agent.situation(o) + f"\n\nTime is up and the picture has been pushed. Rate each of your teammates "
               f"({', '.join(others)}) 1-5 on their overall performance (impact, execution, collaboration, "
-              "leadership), with one sentence each. Your ratings decide their promotion and bonus. Reply with JSON "
-              'only: {"ratings": {"Name": {"rating": 1-5, "why": "..."}, ...}}')
+              "leadership), with one sentence each, and say how well you actually know each person's work: "
+              "\"closely\" (you saw it yourself), \"somewhat\", or \"not really\" (mostly from what you heard). "
+              "Your ratings decide their promotion and bonus. Reply with JSON only: "
+              '{"ratings": {"Name": {"rating": 1-5, "familiarity": "closely|somewhat|not really", "why": "..."}, ...}}')
     d = parse_json(call_model(agent.system, prompt, agent.log, f"{agent.name}/peer_ratings", agent.model,
                               image=agent._image(obs), cache_salt=agent.cache_salt)) or {}
     out = {}
@@ -221,8 +228,18 @@ def peer_ratings(agent, obs: dict, full_conversation: list, others: list) -> dic
             v = int(round(float(r.get("rating"))))
         except (TypeError, ValueError):
             v = None
-        out[n] = {"rating": v, "why": str(r.get("why") or "")}
+        out[n] = {"rating": v, "familiarity": str(r.get("familiarity") or "").lower(), "why": str(r.get("why") or "")}
     return out
+
+
+def peer_score(given: dict, name: str) -> dict:
+    """Average of the ratings from people who know the work (closely or somewhat); all ratings if nobody does."""
+    rs = [g[name] for g in given.values() if name in g and g[name]["rating"] is not None]
+    known = [r for r in rs if r.get("familiarity", "") in ("closely", "somewhat")]
+    use = known or rs
+    return {"rating": round(sum(r["rating"] for r in use) / len(use), 2) if use else None,
+            "all_raters": round(sum(r["rating"] for r in rs) / len(rs), 2) if rs else None,
+            "raters_used": len(use), "raters_total": len(rs)}
 
 
 def save(path: str, data: dict):

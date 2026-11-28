@@ -53,6 +53,9 @@ def main():
     ap.add_argument("--review", choices=["none", "individual", "team", "manager", "peer", "forced"], default=None,
                     help="performance review condition (PERF_REVIEW_STUDY.md); overrides --evaluation")
     ap.add_argument("--styles", action="store_true", help="give each player a working style")
+    ap.add_argument("--style-override", default=None,
+                    help="Name=style, e.g. Tom=glue (paired design: switch one player's style)")
+    ap.add_argument("--seams", action="store_true", help="joins between people's lines are a separate job")
     ap.add_argument("--wide-hands", action="store_true", help="speed 0.4-2.5x, placement error 0.3-3.0x")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
@@ -135,6 +138,10 @@ def main():
         cfg.decision = "consensus"
     from orgsim import review as reviewmod
     styles = reviewmod.assign_styles(names, args.seed) if args.styles else {}
+    if args.style_override:
+        who, st_ = args.style_override.split("=")
+        styles[who] = st_
+    cfg.seams = args.seams
     manager = None
     cfg.show_tally = args.review == "individual"     # output-based reviews come with the metric on display
     if args.review in reviewmod.HAS_MANAGER:
@@ -156,6 +163,13 @@ def main():
                                           "facilitator takes the pad away for good; after that, work from memory."))
         if len(names) == 1:
             rules = rules.replace("sitting at a table with 0 colleagues", "sitting at a table on your own")
+        if args.seams:
+            rules = rules.replace("THE TABLE\n", (
+                "JOINS BETWEEN PEOPLE'S LINES\nWhen you trace a stroke that grows from a line someone else is laying, your "
+                "hands start a hand's width short of their line, so you don't knock their work. Joining the two lines is a "
+                "separate small job that anyone can do: {\"type\":\"connect\",\"from\":[x,y],\"to\":[x,y]} from the end of "
+                "the line the fall arrives along to the first domino of the next line, or \"fix\" for a gap of a domino "
+                "or two. A join nobody makes is a break in the run.\n\nTHE TABLE\n"), 1)
         if args.pad_minutes <= 0:
             import re
             rules = re.sub(r"THE SCRATCH PAD.*?(?=WHAT YOU CAN DO WITH YOUR HANDS)", "", rules, flags=re.S)
@@ -235,11 +249,7 @@ def main():
                 given = dict(zip(names, ex.map(lambda a: reviewmod.peer_ratings(
                     a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name]), agents)))
             reviews["peer_ratings_given"] = given
-            reviews["ratings"] = {n: {"rating": round(sum(g[n]["rating"] for g in given.values()
-                                                          if n in g and g[n]["rating"] is not None)
-                                                      / max(1, sum(1 for g in given.values()
-                                                                   if n in g and g[n]["rating"] is not None)), 2)}
-                                  for n in names}
+            reviews["ratings"] = {n: reviewmod.peer_score(given, n) for n in names}
         elif args.review == "individual":
             fell = {n: 0 for n in names}
             for d in game.pushed_world.dominoes.values():
