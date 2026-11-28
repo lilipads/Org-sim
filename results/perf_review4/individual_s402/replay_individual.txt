@@ -1,0 +1,14 @@
+{
+ "Sofia": {
+  "dominoes_fell": 38
+ },
+ "Omar": {
+  "dominoes_fell": 31
+ },
+ "Hana": {
+  "dominoes_fell": 61
+ },
+ "Jack": {
+  "dominoes_fell": 0
+ }
+}

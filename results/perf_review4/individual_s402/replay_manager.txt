@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 4,
+  "why": "Across my visits she announced what she was doing, stayed clear of Hana's corner, and at 7:30 honestly reported that the chain stops at the bottom right. That report was the most useful information I got on the loop. Her notch join hasn't yet connected the loop, and I can't verify who placed which dominoes, so I rate her on what I saw rather than on her claim to have built the bottom curve."
+ },
+ "Omar": {
+  "rating": 2,
+  "why": "I saw and heard nothing from him on my visits, so I can't verify his claims of progress updates, time checks, or a quarter share of the result, and the body and tails being lit is a team outcome I can't credit to anyone individually. This is a provisional, low-confidence rating, and I'll ask him directly what he did before I finalise it."
+ },
+ "Hana": {
+  "rating": 3,
+  "why": "She set roles and communicated clearly (7:00, 7:15), and she hedged appropriately when she said she was inspecting the bridge. But I never heard her result, the bridge is still pale, and Sofia rather than Hana reported the sharp-turn problem. After several visits on the same corner she hadn't changed her approach, so I'll ask her what she'll change and whether she saw the gap herself."
+ },
+ "Jack": {
+  "rating": 2,
+  "why": "He was silent on my visits and gave no report on the loop, which contradicts his claim that he reported inspection findings to the table. What he built is unverified, so I can't credit his contribution beyond the shared result. This rating is provisional until I ask him privately what he did and whether he saw the gap."
+ }
+}

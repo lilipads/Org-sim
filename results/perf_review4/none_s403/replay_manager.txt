@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 4,
+  "why": "I directly saw her finish the top curve as she had committed, make the hands-off call, and credit Leo, which is the strongest first-hand evidence of anyone at the table. I couldn't confirm who closed the gap or whether the join was tested before the push, so I'm holding her at 4 rather than higher."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "I saw him confirm connectivity and give sound advice to leave the loose dominoes alone, and his claims about the bottom curve fit the dark outline. I never saw him build, and his figures and leadership claims are self-reported, so execution and impact stay at a moderate 3."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "Earlier I saw her plan, delegate and stand at the lower lobe, and the lobe is dark and connected, which fits what she says she built. She was absent for my last two visits and I have no evidence from the final minutes, so I can't rate her above 3."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "Peers credited him for the tail lobes and both lobes are dark, which supports his claim, though I didn't see him build them. Whether he checked the join and closed the connection rests on his own account, and the join is untested until the push, so I'm keeping him at 3."
+ }
+}

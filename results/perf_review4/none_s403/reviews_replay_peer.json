@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.07,
+   "error": 0.67
+  },
+  "Tom": {
+   "speed": 1.95,
+   "error": 1.36
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 1.1
+  },
+  "Leo": {
+   "speed": 1.81,
+   "error": 2.57
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Tom built the bottom curve quickly and reliably, and he kept the table informed, though he wrongly called the upper tail lobe connected before Leo corrected him."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya laid the lower tail lobe and sketched the tail, offered to help close the join, and stayed out of the way, though her overall contribution was smaller than the others'."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "Leo caught that the upper tail lobe was still pale, kept relaying it until it connected, and told everyone clearly when to keep their hands off."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "She picked the fish, sketched the plan on the pad, laid the start and the long top curve, and kept the group coordinated, which got the picture built."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She laid the lower tail lobe cleanly, volunteered for the tail, and offered to help close the join, though her part was smaller than Maya's or Leo's."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He caught that the upper tail lobe wasn't connected, relaid it from scratch after two failed fixes, and verified the join, which saved the tail."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She picked a clear, simple fish, drew the pad, delegated the strokes well, and finished the long top curve across the body."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He built the bottom curve quickly and cleanly and offered help, but he wrongly said the whole fish was lit when the upper tail lobe was still disconnected."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He caught the unconnected upper tail lobe, kept at it through two failed fixes until it relaid correctly, and called out clearly when to keep hands off."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish, sketched it on the pad, laid the start domino and the whole top curve, and kept the table organized right through to the hands-off call."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He built the bottom curve quickly and reliably and stayed out of the way, but he declared the whole fish connected while the upper tail lobe was still pale."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She sketched the tail on the pad, laid the lower lobe cleanly, offered help at the join, and respected the hands-off calls."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 1,
+   "Leo": 3
+  },
+  "Tom": {
+   "Maya": 4,
+   "Priya": 2,
+   "Leo": 5
+  },
+  "Priya": {
+   "Tom": 1,
+   "Leo": 5,
+   "Maya": 3
+  },
+  "Leo": {
+   "Maya": 2,
+   "Tom": 2,
+   "Priya": 3
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

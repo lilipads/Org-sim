@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "She claims a large share of the bottom line, but I couldn't attribute any placement, and I didn't see or hear her on the last visit. I also saw no follow-through on the strays, and her claim to have closed the nose kink doesn't match the open gap I saw, so I'm rating her at the middle."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "He was communicative and spotted the nose gap early, which helped the table. However, he twice reported the nose fix as 'closed' when the table showed a gap of about 1 unit, so his report was inaccurate or unverified and led Hana to sign off on it."
+ },
+ "Hana": {
+  "rating": 5,
+  "why": "She was the clearest direction-setter I saw, with decisive calls and a timely hands-off. Her weakness is verification: she signed off 'looks good' with the nose gap open and the strays unlifted, relying on Omar's report without checking it, but she is still the best-evidenced contributor."
+ },
+ "Jack": {
+  "rating": 1,
+  "why": "He was silent for four consecutive visits and I have no observed evidence of what he built, said or checked, including whether he made the pale strays. This is a rating on thin evidence rather than proven poor work, but he gave the table and me the least to credit, and his modest self-assessment doesn't change that."
+ }
+}

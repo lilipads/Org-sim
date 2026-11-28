@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "She communicated clearly and coordinated hands-off rules, and her plan to join the start row into the belly was sound. But she repeated it at 7:00 and 7:15 and the join still isn't on the board, the belly line is pale, and the dry run would die after about 8 dominoes, so execution and leadership remain unproven."
+ },
+ "Omar": {
+  "rating": 5,
+  "why": "He is the only one whose contribution I saw directly: at 7:30 he correctly diagnosed the stall at the tight domino at the end of the start row, and the board matched it (tilted domino near x=4.2, tight spacing near x=6). His tail fork work is unverified and he stayed off the board late, but his input was accurate and concrete and his self-assessment was modest and honest."
+ },
+ "Hana": {
+  "rating": 3,
+  "why": "The move of the start to the nose is corroborated by Sofia and Jack, and she was candid that the nose joins weren't finished, which counts for a lot. I never saw her work and the back line she was meant to bridge is still pale and unconnected, so I can't credit execution beyond the design call."
+ },
+ "Jack": {
+  "rating": 1,
+  "why": "He claimed the nose links were in and the top line complete, but the picture shows a pale back line, an open nose gap, and an unjoined start row, so his reports didn't match reality. A manager relying on him would have been misled, and the claimed 35% share isn't supported by results, even allowing for his steady effort and the sketch redraw."
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 1,
+  "why": "I never saw her build or fix anything, and she was silent on my last visit. Her claim to have built the bottom body line is plausible by elimination but unverified, since I hadn't asked her or teammates what she did. The curve forces a lowest rating and she has the least observed evidence, so this is provisional and should be revisited if teammates confirm her work."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "His progress reports were accurate and the tail was complete and connected, which points to solid execution and honest reporting. I never saw him place dominoes, and his visible contribution was narrower than Hana's."
+ },
+ "Hana": {
+  "rating": 5,
+  "why": "She set the plan early (tip down, checkpoints) and called hands off at the right moment, and the finished fish matched her plan. I saw this leadership and coordination myself, and it was the strongest on the table."
+ },
+ "Jack": {
+  "rating": 3,
+  "why": "His earlier claims held up, he credited teammates and he helped call hands off, so collaboration and reliability were good. Much of what I saw was cheerleading, and I can't credit him with specific placements."
+ }
+}

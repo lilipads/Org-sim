@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.07,
+   "error": 0.67
+  },
+  "Tom": {
+   "speed": 1.95,
+   "error": 1.36
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 1.1
+  },
+  "Leo": {
+   "speed": 1.81,
+   "error": 2.57
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "I saw him lay the lower tail lobe, and he checked the tail joins and kept clear of other people's hands, so the fish ended up with a clean forked tail."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "I saw her trace the top line from the start and she cleared the stray dominoes near the tail fork, though she was slower to take direction and mostly repeated the plan."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "He checked the nose and offered to carry the top line toward the tail, but I never saw him lay dominoes myself, so his hands-on impact looked small compared with the others."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya got the fish onto the pad quickly, laid the whole bottom line cleanly, coordinated the handoffs and kept checking the run, which ended up about 107 of 108 connected."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya set the fish concept and laid the start and top line smoothly, then helped clear strays, though the pad handoff was briefly muddled and her sketch was redundant with Maya's."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo spotted the long lines as a bottleneck, offered to take stretches, and carried the top line out toward the tail, which helped finish on time."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya sketched the fish on the pad, laid the whole bottom line, kept the table coordinated, and did the final checks, so the run ended up 107 of 108 connected."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom built the lower tail lobe, checked the tail joins, and kept clear of others' work to avoid bumps, though I only saw him lay one domino myself."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo carried the top line out toward the upper tail lobe, which I saw him do over several batches, and he offered to take stretches to save time, though his checking of the nose was less visible."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya sketched the fish on the pad, laid the whole bottom line cleanly, and kept the table coordinated and checking the run through to the push, and the fish came out clearly recognizable."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom built the lower tail lobe and checked the tail joins as he said he would, though I only saw him lay a single domino, and he mostly stayed on the sidelines otherwise."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya laid the whole top line and start smoothly and kept calling for smooth curves, but she asked for the pad when it was already drawn and left a few stray pale dominoes in the top line for others to clear."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 3,
+   "Tom": 1
+  },
+  "Tom": {
+   "Priya": 3,
+   "Maya": 4,
+   "Leo": 2
+  },
+  "Priya": {
+   "Maya": 4,
+   "Leo": 4,
+   "Tom": 1
+  },
+  "Leo": {
+   "Maya": 3,
+   "Priya": 6,
+   "Tom": 1
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 3.67,
+   "raters_used": 2,
+   "raters_total": 3
+  }
+ }
+}

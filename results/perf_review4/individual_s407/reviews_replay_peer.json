@@ -1,0 +1,131 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.59,
+   "error": 1.56
+  },
+  "Tom": {
+   "speed": 2.13,
+   "error": 1.84
+  },
+  "Priya": {
+   "speed": 1.21,
+   "error": 1.76
+  },
+  "Leo": {
+   "speed": 0.58,
+   "error": 1.11
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "I didn't watch him lay the bottom line directly, but the finished line is clean and connected out to Leo's lobe, and he kept everyone updated and stayed out of the way afterward."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She sketched the fish on the pad, then laid the top line from the start to the nose, which I saw her do, and she gave Tom clear countdowns so the bottom line could begin."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "I watched him lay the lower tail lobe, and it joined Tom's line cleanly with the whole picture connected; he communicated well and checked the join, though his lobe waited on Tom's line to reach it first."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "Proposed the fish idea, laid the upper tail lobe cleanly off the main line, and checked the joins, though her early pad back-and-forth with Priya was a little redundant."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Sketched the fish on the pad, laid the long top line out to the nose, and gave clear progress updates so the bottom line could start right on cue."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Took the lower tail lobe, waited for the bottom line to reach it and laid it cleanly, which I saw him do near the tail, then checked the join and kept his hands off afterward."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish early, split the work clearly, and I watched her lay the upper tail lobe off the main line, then check the join and stay clear to avoid bumps."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He took the bottom line, coordinated with Leo on the handoff, and finished it cleanly. I didn't see him lay it myself, but the picture shows it standing and connected."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "I saw him lay the lower tail lobe in steady pieces once Tom's line arrived, and he checked the join afterwards and told the table the lobe was done."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya proposed the fish early, built the upper tail lobe branching off the top line, then checked the join and stayed hands-off to avoid bumps, and the whole run connected 115/115."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "Tom laid the bottom line (I saw him place a run near the lower body) and got it to my lobe's start on time, kept clear while I built, and checked the whole run at the end."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Priya sketched the fish on the pad quickly and laid the top line out to the nose, gave clear progress updates so Tom could start, and checked the joints before keeping her hands off."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 1,
+   "Leo": 2
+  },
+  "Tom": {
+   "Leo": 3
+  },
+  "Priya": {
+   "Maya": 3,
+   "Leo": 4
+  },
+  "Leo": {
+   "Tom": 1
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0,
+   "all_raters": 4.67,
+   "raters_used": 1,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 5.0,
+   "all_raters": 4.33,
+   "raters_used": 1,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 1,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

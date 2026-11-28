@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "She gave me plain, accurate status, found the sharp-turn break at the bottom right herself, and stayed off Hana's corner, so her collaboration and honesty were strong. Her notch fix is unconfirmed since the right side is still pale, and saying we were fine with the loop pale, or that everything was lit, downplays the unfinished finish."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "The upper tail is connected and his account of it is specific and consistent with that, but I didn't see or hear him on my last visit and can't confirm he built it. A solid but unverified contribution, with no evidence either way on leadership or collaboration."
+ },
+ "Hana": {
+  "rating": 5,
+  "why": "I saw her coordinate the table clearly and keep people clear of her corner. Her self-report also matches what I saw: she admits the loop never lit, and she stopped claiming it was done. Her bridge result is unconfirmed and she never told me what her inspect showed, but her leadership and collaboration clearly carried the team."
+ },
+ "Jack": {
+  "rating": 1,
+  "why": "I saw and heard no contribution from him, and his self-assessment is generic, mostly about staying hands-off and supporting others' work. The lower tail runs dark most of the way, but I can't tie that to him, and he gave no concrete detail on what he placed or whether anything blocked him."
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "Maya": {
+  "rating": 5,
+  "why": "",
+  "curve_imposed": true
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "",
+  "curve_imposed": true
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "",
+  "curve_imposed": true
+ },
+ "Leo": {
+  "rating": 1,
+  "why": "",
+  "curve_imposed": true
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 3,
+  "why": "Maya owned the belly stroke, handed off cleanly, and her earlier inspection found the unconnected dominoes at the upper tail join, which I saw her check more carefully on my previous visit. On my last visit she accepted the group's 'looks great' without flagging the two pale dominoes, and her claim of only a quarter share fits with solid but not standout impact."
+ },
+ "Tom": {
+  "rating": 1,
+  "why": "Tom's self-assessment claims extensive joint checking and fixes, but I have no evidence of what he checked or did, and my one recent observation contradicts it: he said 'looks great' and promised to shout if he saw pale dominoes, yet pale ones were visible and he stayed silent. With a quiet table presence and unverifiable claims, he has the weakest supported case, though I'd want to ask him directly in the review."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "Priya took the tail, coordinated the handoff with Maya, and showed visible leadership with clear status reports and delegation. She earlier made a wrong 'all connected' claim and again relied on Leo's word rather than checking the pale dominoes herself, so her verification lags her coordination."
+ },
+ "Leo": {
+  "rating": 5,
+  "why": "Leo set the plan, split the strokes, laid the start and top line, and caught the fall-direction problem and the pale upper tail, which were the real risks to the chain. His status report slightly overstated things (two pale dominoes remain at the joint, and he never answered my question about them), but his ownership and coordination were the strongest on the table."
+ }
+}

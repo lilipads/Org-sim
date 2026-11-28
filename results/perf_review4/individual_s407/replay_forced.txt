@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 1,
+  "why": "Maya's claims about the upper lobe and the start join were accurate, and staying hands-off protected the build. But her verifiable work was one small lobe, and she calls her contribution 'central' while claiming the concept and work split that Tom and Priya also claim. The team's strongest results came from others."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "I saw Tom give clear status updates and handoffs, ask Leo to shout when done, and correctly check the whole run, which is real coordination and leadership. His impact claim is inflated, though: four runs of about 37 dominoes is roughly 148 against 115 standing in total, and I never saw him place much himself."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "Priya was careful and supportive and credited Leo, and her nose-joint claim matches the picture. The top line she says she built is unwitnessed, and her 35% share and her claim to have set the plan overlap with what Tom and Maya say they did."
+ },
+ "Leo": {
+  "rating": 5,
+  "why": "I saw Leo deliver the lower lobe, the critical path, after a quiet start. He announced completion clearly and rechecked the join, and the picture confirms a continuous chain out to that lobe. His self-assessment was modest and matched what I saw, though I never watched him place the dominoes."
+ }
+}

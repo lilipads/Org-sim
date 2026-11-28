@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 3,
+  "why": "Her plan and status updates are plausible, but I never saw her place a domino, and I have no evidence she checked the right-side joint at (29,10-12) when Leo asked. Her self-assessment credits her with the hands-off call, which I credit to Priya, so I'm rating her at the midpoint pending her answers on the crowded stretch."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "Across five visits I saw restraint but no building or contribution, and his claim at 5:00 is unverified, so I can't credit his account of the top line. This is a cautious midpoint rather than a negative, because I lack evidence either way and will ask him and Leo directly what he did."
+ },
+ "Priya": {
+  "rating": 4,
+  "why": "She is the one person whose strong communication, ownership at the joint and discipline in calling hands off I saw myself, and her account fits what I observed. The outline stayed one connected loop, though I can't credit her for placement and the crowded right side is a risk, so I stop at a 4."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "He was named as holding the right side, and Priya's account fits his hand-off at the joint, but I saw nothing from him this visit. The right side at (29,10-12) is still crowded and overlapping, so I'll ask how he handled it, whether he held back at the end, and what Tom did before moving this higher."
+ }
+}

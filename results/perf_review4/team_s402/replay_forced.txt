@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 5,
+  "why": "She gave the sharpest diagnosis I saw (a jammed domino at the belly turn, with the line ending short of the tail), took clear ownership of the fix, and asked others to hold off so nobody collided. Her fix hadn't visibly closed the gap when I left, so this is a lead-by-evidence call rather than a result-based one, but she showed the most initiative and the clearest leadership."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "The belly stroke he describes is dark and handed off into the bottom tail, and he deferred well and offered to back Sofia up. But his earlier 'bridge is in' claim was premature, and at my last visit he was idle at the critical spot with time short."
+ },
+ "Hana": {
+  "rating": 1,
+  "why": "Her tip (connect from the bridge end into the lowest pale domino) was specific and useful, but I never saw her place anything. The top tail, the stroke she says she built, is the part still pale with a gap, so I have no evidence it contributed to closing it. Her claims of setting the plan and leading are not backed by what I saw, and Sofia claims the same concept."
+ },
+ "Jack": {
+  "rating": 3,
+  "why": "The bottom tail is dark, which fits his account of building it after the belly landed, and he passed Omar a specific fix. I didn't see him build anything, so that credit rests on his word and the outcome. His offer to take the top of the tail went unused, and he didn't push to take it."
+ }
+}

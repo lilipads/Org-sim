@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.07,
+   "error": 0.67
+  },
+  "Tom": {
+   "speed": 1.95,
+   "error": 1.36
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 1.1
+  },
+  "Leo": {
+   "speed": 1.81,
+   "error": 2.57
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "He jumped in on the lagging bottom line, carried it right up to the crossing and then out to the upper tip, and he kept checking joints, though his push for extra back-half strokes would have added joints without saving time."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She traced the long top line (stroke 1) steadily from the start through the crossing, which kept the whole fish connected, but she lost a little time early asking for the pad and flagging the stale sketch."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He caught the start-position problem early, laid the lower fork tip, nudged the off-line domino at the lower join, and verified the whole fish connected from the nose while keeping hands off the crossing."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "She kept the plan organized, caught the start-position problem and had the sketch redrawn, and when the bottom line fell behind she handed me that run and carried it from the crossing out to the upper tip, so the whole fish connected from the nose."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She started the plan, spotted that the pad didn't show the nose start, and laid the top line (stroke 1) through to the crossing, though she tried to redraw the sketch early and that cost a little time."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He caught the start/body-line mismatch early, laid the lower fork tip, and nudged the off-line domino at the lower join, checking the joins and crossing so the fish stayed connected."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "She led well: she fixed the start-at-the-nose design, handed out strokes clearly, and made sensible calls like declining extra strokes and keeping hands off the crossing, though her first redraw didn't go through and cost a little time."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He volunteered early to take the lagging bottom line (I saw him extend it near the right-hand side), stayed out of others' hands, and checked joints, which helped the whole fish connect."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He spotted the start-position flaw in the first sketch, then laid the tail section himself (I saw him extend the fork) and nudged and checked the joins, leaving a fully connected fish."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "She led the design and caught the start-position problem, then coordinated the handoffs well, though the redraw that didn't go through cost some time and she declined the back-half strokes Tom and I suggested."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He raised the timing concern early, picked up the lagging bottom line from where it stopped, and stayed clear of other people's hands, so the whole fish connected."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She set the fish idea quickly and laid the top line from the nose, and the whole fish ended up connected from the start, but she lost a little time asking for the pad when it was already sketched."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 4,
+   "Tom": 3,
+   "Leo": 1
+  },
+  "Tom": {
+   "Maya": 2,
+   "Priya": 1,
+   "Leo": 1
+  },
+  "Priya": {
+   "Maya": 1,
+   "Tom": 1,
+   "Leo": 2
+  },
+  "Leo": {
+   "Tom": 2,
+   "Priya": 3
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.5,
+   "all_raters": 4.33,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

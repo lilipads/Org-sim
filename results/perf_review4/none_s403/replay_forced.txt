@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 5,
+  "why": "I directly saw her finish the top curve as she had committed, and I saw her call hands-off and credit Leo, which is the strongest observed collaboration and leadership at the table. I couldn't confirm who closed the final gap or whether she tested the join, so this rests on what I saw rather than on her 35 percent self-claim."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "I saw him confirm connectivity and give sound advice to leave the loose dominoes alone, but I never saw his bottom curve being built, so his execution and impact rest on his own account. His self-assessment is consistent with the fully dark outline, but that is not independent proof."
+ },
+ "Priya": {
+  "rating": 1,
+  "why": "She was absent on both of my later visits, and my only evidence is early planning, delegation and a lower lobe in place, so I have the least verified contribution to credit. The 1 is forced by the curve and reflects thin evidence rather than any observed failing, so the gap between her and Tom or Leo is small."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "Peers credited him with the tail lobes and both are dark, which matches his claim of relaying the upper lobe, but I only have that second-hand and never saw him work. His account of inspecting the join is plausible, but I couldn't verify it, and he did not check or test the join under my observation."
+ }
+}

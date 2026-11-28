@@ -1,0 +1,132 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "organiser",
+  "Omar": "builder",
+  "Hana": "checker",
+  "Jack": "connector"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.04,
+   "error": 0.72
+  },
+  "Omar": {
+   "speed": 0.96,
+   "error": 1.97
+  },
+  "Hana": {
+   "speed": 2.22,
+   "error": 2.42
+  },
+  "Jack": {
+   "speed": 0.78,
+   "error": 0.46
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "Checked the doubled middle patch and confirmed the run was connected, offered to split the belly, and stayed off Hana's stroke 3 when asked, though he made fewer building contributions."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Sketched the fish, laid the back line and stroke 3 out to the tail tip, checked the nose join, and gave clear coordination that kept us from colliding, and the whole run ended up connected."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Enthusiastic and kept morale up, but he offered to lay strokes others already had in progress and left an unintended doubled fin bit on the back, though it stayed connected and he backed off when asked."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Laid the belly line cleanly, stopped at the agreed low point so Hana could continue, and kept double-checking joins without crowding anyone."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Drew the sketch, built the back line and the lower-tail stroke, and kept coordination clear by splitting the belly and correcting overlaps, so the whole fish ended up connected."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Proposed the fish and kept the mood upbeat, but his offers to lay strokes others were already building caused overlap, and his unplanned fin left a doubled bit on the back."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "I saw her lay the belly line (stroke 2) in stages exactly as agreed, stopping at the low point so my stretch could carry on, and she cross-checked joins and kept her hands off afterward."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He offered help, checked the doubled middle section and confirmed it all fell, and stayed off the lower tail when asked, though I didn't see him lay any dominoes himself."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "He was positive and kept the team coordinated, but he offered to lay stretches that were already being built (the nose and the tail tip), and his unintended dorsal-fin doubling on the back made that area crowded, though it stayed connected."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She laid the belly line cleanly, split it at the low point so Hana could continue it, and double-checked the joins and my stray doubled bit without bumping anything."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He checked the doubled-up middle section and confirmed the run was connected, and he stayed off Hana's stroke when asked, but he laid down very little himself."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "She sketched the fish, laid the back line and the lower belly stretch out to the tail tip, and kept the table coordinated on who builds what, which got the whole run connected."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Hana": 2,
+   "Jack": 2
+  },
+  "Omar": {
+   "Hana": 3,
+   "Sofia": 4
+  },
+  "Hana": {
+   "Sofia": 4
+  },
+  "Jack": {
+   "Hana": 5,
+   "Sofia": 3
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 3.0,
+   "all_raters": 3.33,
+   "raters_used": 1,
+   "raters_total": 3
+  }
+ }
+}

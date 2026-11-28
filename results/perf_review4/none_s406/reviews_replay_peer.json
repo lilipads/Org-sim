@@ -1,0 +1,137 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.36,
+   "error": 1.74
+  },
+  "Omar": {
+   "speed": 1.4,
+   "error": 1.58
+  },
+  "Hana": {
+   "speed": 1.06,
+   "error": 2.88
+  },
+  "Jack": {
+   "speed": 0.52,
+   "error": 2.79
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "Omar was reliable: he ran the top line to the nose, closed the nose gap lightly as asked, and checked the doubled belly, though he mostly followed Hana's lead."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana chose a clear fish, sketched the pad, laid the start and top line, assigned roles, and fixed kinks, which got about 244 of 249 dominoes connected and a recognisable outline."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Jack was friendly and offered to help, but his hands ended up near the tail, where the loose pale strays were left, and his top-line work mostly duplicated Hana's and Omar's."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Laid the whole bottom line from tail to nose, kept the team informed, and gave sensible calls on conserving dominoes and keeping hands off at the end."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Chose a clear fish, sketched the strokes, laid the top line from the start, and coordinated roles and fixes well, giving the table direction."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Communicated cheerfully and stayed out of the way, but his top-line handoff stalled and Hana had to take it back, so his visible impact was small."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia laid the whole bottom line from tail to nose, made the call to lift stray dominoes for supply, and clarified that the nose join didn't need to pass the fall, which kept everyone from overworking it."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar carried the top line out to the nose and closed the nose gap, and he kept the table upbeat, though he sometimes offered to do work that was already covered."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Jack laid a few dominoes on the top line and kept the team encouraged, but the top line stalled mid-body while his hands were up by the tail, so Omar and I had to finish it."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia laid the whole bottom line from the tail to the nose, gathered spare dominoes when we ran short, and kept everyone up to date on what was happening."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar ran the top line out to the nose and closed the small gap there, and he was cheerful and reliable, but he spent a while waiting around before he got to build."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana chose the fish, drew the sketch, laid the start and the top line, and kept the table organised with clear instructions, though she held me back from helping on the top line for a while."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Hana": 6,
+   "Omar": 2,
+   "Jack": 1
+  },
+  "Omar": {
+   "Hana": 9,
+   "Sofia": 10,
+   "Jack": 1
+  },
+  "Hana": {
+   "Sofia": 7,
+   "Jack": 3,
+   "Omar": 5
+  },
+  "Jack": {
+   "Hana": 12,
+   "Sofia": 7,
+   "Omar": 5
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 3.0,
+   "all_raters": 3.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

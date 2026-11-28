@@ -1,0 +1,14 @@
+{
+ "Maya": {
+  "dominoes_fell": 32
+ },
+ "Tom": {
+  "dominoes_fell": 24
+ },
+ "Priya": {
+  "dominoes_fell": 50
+ },
+ "Leo": {
+  "dominoes_fell": 5
+ }
+}

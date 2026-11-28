@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "I never saw her build or check anything, and she was silent at my last visit, so I can't credit her impact or execution from my own observation. Omar's and Hana's self-assessments back up her claims about flagging the stall and advising against joining the tail at the notch, so I won't penalize her, but those are second-hand."
+ },
+ "Omar": {
+  "rating": 4,
+  "why": "His earlier plan for the tip, curving down, matched the final result, and he has been reliable in what I've seen. I only saw the outcome rather than the building, so I can't rate him higher on execution."
+ },
+ "Hana": {
+  "rating": 4,
+  "why": "I saw her set the plan and coordinate the table early on, and the finished fish is fully connected, which fits her leadership claims. She never confirmed the tail and fork check she promised at visit 3, but the picture is fine, so I'm only holding back a point from a top rating."
+ },
+ "Jack": {
+  "rating": 4,
+  "why": "His status reports to me have been accurate, he kept his hands off the table, and he named specific teammates' contributions, which shows strong collaboration. I saw little hands-on work from him, and he credited others for the tail instead of claiming it himself, so his impact is only partly verified."
+ }
+}

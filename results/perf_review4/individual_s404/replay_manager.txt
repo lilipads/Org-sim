@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 4,
+  "why": "Her belly reports matched what I saw, and she coordinated handoffs, stayed in her lane and held the hands-off discipline, which makes her a dependable collaborator. I couldn't confirm which dominoes she placed, so impact rests partly on her own account, which keeps this at 4."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "He was candid that he did not build or design, and his verification of the middle section was accurate and helped the team keep their hands off. He stayed out of collisions and supported the plan, but his direct impact on the picture is limited and his leadership was modest by his own account."
+ },
+ "Hana": {
+  "rating": 5,
+  "why": "I saw her plan, clear roles and handoffs that others followed, and the tail tip she owned was finished and connected, so her leadership and execution are the best supported. She built the start and back line and the tail stretch by her own account, and the result was an unbroken chain with no gaps."
+ },
+ "Jack": {
+  "rating": 3,
+  "why": "He proposed the fish, called time, backed Hana's plan, and I saw him credit a teammate and step back before the push. His own concrete building was small (about a fifth of the result, by his own honest estimate) and I couldn't verify it, so impact is moderate."
+ }
+}

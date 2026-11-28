@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "She gave the table a clear plan and roles in the first minute and reassured Jack, which I value on leadership and collaboration. But she took the crossing-to-upper-tail section, where the disconnected pale cluster sits, and she called the doubled joint 'fine' without checking it, so her claim of a connected, clean build isn't supported by what I saw."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "I can't confirm which dominoes were his or whether the pale cluster is his, so I'm not rating him on guesses. His claims about the belly line, clean handoffs and time checks are plausible but unverified, and he was silent on both of my visits, so this is a middle rating that reflects low visibility rather than poor work."
+ },
+ "Hana": {
+  "rating": 3,
+  "why": "She built the crossing join, and the belly connects through it, which is real, useful work. She never raised the visible gap or the doubled stretch despite saying she inspected that area, and her leadership claim about dividing the work conflicts with the clear split I saw Sofia make."
+ },
+ "Jack": {
+  "rating": 2,
+  "why": "He placed no dominoes, so his contribution rested on inspecting the doubled joint, and that inspection was ineffective: the problem stayed in place and he cheered 'proper fish, great teamwork' while it was visible. His warmth and encouragement are genuine and count for something, but his claim that his checks confirmed the joints were sound isn't backed by the evidence."
+ }
+}

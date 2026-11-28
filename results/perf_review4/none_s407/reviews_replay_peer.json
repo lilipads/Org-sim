@@ -1,0 +1,134 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.59,
+   "error": 1.56
+  },
+  "Tom": {
+   "speed": 2.13,
+   "error": 1.84
+  },
+  "Priya": {
+   "speed": 1.21,
+   "error": 1.76
+  },
+  "Leo": {
+   "speed": 0.58,
+   "error": 1.11
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 5,
+    "why": "I saw him lay the bottom line and then the back-to-tail stretch and upper fork, which finished the fish, and he checked the whole run for gaps and kept hands off afterward."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "I saw her extend the top line past the hump toward the tail, and she offered help, stayed out of others' way and checked joins, though most of the lasting construction came from others."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He put the sketch on the pad, coordinated who took which line and reported the bottom line done, but I didn't see him lay much himself."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish, sketched it, laid the start and nose split, and kept the team coordinated, and the whole run fell from the start with 131 of 131 standing."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "I saw her extend the top line past the hump toward the tail, and she stayed out of others' way and offered help, and the top line ended up connected."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He finished the bottom line out to the tail fork early, then organized who worked where and checked the joins, which kept people from crowding each other."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish, laid the start domino and the first stretch of the top line, and kept the table coordinated, and the whole fish ended up connected from the nose."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "I watched him lay the bottom line and a large share of the back and upper tail fork, and he checked the whole run for gaps and kept everyone's hands off the table afterwards."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He put the sketch on the pad and gave clear direction on who should work where, but I didn't see him lay many dominoes myself, so his impact was mostly coordination and checking."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish, laid the start domino and the first stretch of the top line, and delegated clearly, so the whole run fell from the nose with the fish shape intact."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "I saw him lay the bottom line out to the tail and later the back and upper fork, and he checked the full run for gaps and called for hands off to avoid bumps."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She offered help early, extended the top line over the hump toward the tail and kept out of others' way, though her stretch overlapped with Maya's and left a doubled-up patch on the back."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 5,
+   "Priya": 3
+  },
+  "Tom": {
+   "Maya": 1,
+   "Priya": 2
+  },
+  "Priya": {
+   "Maya": 4,
+   "Tom": 4
+  },
+  "Leo": {
+   "Maya": 3,
+   "Tom": 3,
+   "Priya": 2
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

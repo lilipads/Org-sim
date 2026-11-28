@@ -1,0 +1,137 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "checker",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.29,
+   "error": 0.95
+  },
+  "Tom": {
+   "speed": 0.9,
+   "error": 2.52
+  },
+  "Priya": {
+   "speed": 0.82,
+   "error": 1.2
+  },
+  "Leo": {
+   "speed": 0.98,
+   "error": 0.36
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Tom carried the top line round to the nose, closed the stray belly domino, and laid the tail from the peak to the tip, and he stayed off my line so we didn't bump, though his repeated 'last gap' updates near the end were a little noisy."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Priya picked the fish, sketched it on the pad, laid the top line and the tail end of the bottom line, kept everyone coordinated, and called out the jammed domino in the tail."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo found and fixed the jammed domino just before the nose, closed the belly seam, and kept the plan clear for everyone, though he did less building than the others."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "She traced the long bottom line from the nose, handed the tail end to Priya cleanly, and checked the belly joins, though she spoke up less and the bottom line was slow to start."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She picked the fish, sketched it on the pad, laid the start and top line, and later carried the bottom line toward the tail, while keeping everyone coordinated and spotting the jammed tail domino."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He found and fixed the break just before the nose, closed the belly seam, and checked the whole run before the push, keeping the table organized without getting in anyone's way."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "I saw her lay the long bottom line from the nose along the belly and re-stand fallen dominoes near the middle, which was the biggest single stretch, and she handed the tail end over cleanly, though she was quiet and started late while the top line was still being laid."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "I watched him carry the top line round the nose, lay the tail down past the bump to the tip, and fix the stray domino and the tip gap, all while telling people where he was working so nobody bumped; he repeated himself a bit at the end."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He found and fixed the jammed domino at the nose and the one in the belly seam, and kept everyone coordinated about who was working where and who should step back, which got nearly the whole run falling from the start."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "She traced the long bottom line from the nose through the belly, kept re-standing the stubborn domino in the belly seam, and handed the tail to Priya cleanly, though she was quieter and slower than the others."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He carried the top line round the nose, closed the belly gap and the tail-tip gaps, and flagged problems early, though he lingered on the last gap past the point where hands should have been off."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She proposed the fish, sketched it on the pad and laid the opening stretch of the top line, then built the bottom line's tail end and kept the table coordinated with clear handoffs and checks."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 5,
+   "Tom": 2,
+   "Leo": 2
+  },
+  "Tom": {
+   "Priya": 6,
+   "Maya": 1,
+   "Leo": 1
+  },
+  "Priya": {
+   "Tom": 9,
+   "Maya": 5,
+   "Leo": 2
+  },
+  "Leo": {
+   "Priya": 12,
+   "Tom": 7,
+   "Maya": 6
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

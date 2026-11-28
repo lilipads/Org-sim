@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 2,
+  "why": "I saw almost nothing of Maya's work and she was absent and silent on my last visit. Her claims of owning the belly and checking its joins are unconfirmed by me, and they overlap with Leo's and Tom's claims for the belly fix. I'm rating on the little I observed and would revise if she can show what she placed."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "The tail visibly extended and he reported what he was doing, so his work at the tail looks real, but I can't tell which pieces were his. He promised hands-off twice and was still working at the crowded tail tip minutes before the push, and he hasn't explained the two pale strays beside the tail."
+ },
+ "Priya": {
+  "rating": 4,
+  "why": "She ran the clock and process well, with a two-minute call and a step-back before the push, which I saw myself, and she coordinated the table cleanly. Her execution is unverified: she described the tail as a single tight domino and missed the pale strays, and her earlier top-line contradiction at 1:45 is still open."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "His early overlap warning was verified and he reinforced hands-off and step-back at the end, which supported a clean finish. On my last visit he was more spectator than checker, saying 'looks good from here' without visibly checking the belly or the tail strays, so his claimed repairs and fix of the belly seam are unconfirmed."
+ }
+}

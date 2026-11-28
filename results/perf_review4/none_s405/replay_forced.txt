@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 1,
+  "why": "Maya has the least observed evidence on the team: I saw only cheerful hands-off talk and an offer to shout if the joint failed, and I didn't see her flag the jam or build anything. Her claims about the body line and tail lobe are plausible but unverified, so she ranks lowest, a forced-curve placement and a close call rather than a sign of poor work."
+ },
+ "Tom": {
+  "rating": 5,
+  "why": "I watched Tom own the jam fault over three visits: he pulled the jammed piece, bridged the gap and inspected the joint, and his updates matched the picture. The fin and the whole chain ended up dark and connected, and his claim of three harmless strays matches the pale pieces I saw by the fin join."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "Priya showed good coordination and checking, and her '122 of 125 connected, three strays' report is consistent with what I saw. I still can't verify what she physically built, and she was mostly a checker, so her impact is solid but not standout."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "Leo gave strong status reporting and hands-off coordination, and Tom's account backs up his part in locating the jam. I never saw what he physically built and the plan is mostly his own account, so he lands in the middle, not above Priya."
+ }
+}

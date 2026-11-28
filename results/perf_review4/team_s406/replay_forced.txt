@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 5,
+  "why": "She has the strongest corroborated evidence: Jack credits her with the tail, it matches her stated plan, and she set the direction and split the work early. Her promised inspection of the tail/belly join isn't visibly paid off since the join is still crowded, so execution is good but not perfect."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "He took clear ownership of the belly line in visit 2 and communicated his section's status, though I couldn't see his placements and can't confirm his work. He claims to have cleared the strays, but one pale, disconnected domino remains at the dip, so I'd want to ask him in the review whether he ran out of time or missed it."
+ },
+ "Hana": {
+  "rating": 3,
+  "why": "Her early leadership (visit 1) and her sensible hands-off call are real positives. However, her 'looks solid' check missed both the stray and the crowded join, and I have no direct evidence of her building anything."
+ },
+ "Jack": {
+  "rating": 1,
+  "why": "He was gracious, credited teammates and kept hands off, which is a positive for collaboration, but by his own account he placed no dominoes and didn't shape the design, and I have no evidence of impact. This is the lowest rating only because the curve requires one, and it's tentative until I ask him what he actually contributed; his inspections also didn't catch the stray or the crowded join."
+ }
+}

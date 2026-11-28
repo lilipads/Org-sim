@@ -1,0 +1,134 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.7,
+   "error": 0.36
+  },
+  "Omar": {
+   "speed": 0.49,
+   "error": 1.25
+  },
+  "Hana": {
+   "speed": 2.02,
+   "error": 2.59
+  },
+  "Jack": {
+   "speed": 0.95,
+   "error": 0.99
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "I watched Omar lay the upper tail stroke piece by piece, curving the tip softly round to the notch, and it fell with the rest; he was reliable and communicative, though a bit slow on that stretch."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana picked the fish, sketched it on the pad, assigned strokes clearly, and I saw her close the top-run joint near the nose, then she checked the notch and kept everyone coordinated, so all 118 dominoes fell from the start."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "I saw Jack lay the lower tail steadily with a soft tip, finishing early and offering to help Omar, and he stayed clear to avoid bumps, though much of his later talk was just cheering."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She finished the bottom line quickly, spotted the stall in the top run and kept checking joints, and her call that the tail needed no joining kept me from overworking it."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "She picked the fish, sketched it, assigned every stroke, fixed the top-run joint and checked the notch, so she led the table well and the whole fish fell from the nose."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He finished the lower tail early with a soft tip, checked the joins around the fork, and offered to help with my stretch while staying clear of my corner."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia finished the bottom line quickly, spotted and flagged the stall in the top run, then checked joints and kept the team coordinated, which made the fish connect fully."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar traced the upper tail steadily and kept it curved and soft, and he communicated progress clearly, though it took him most of the build time to finish."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack finished the lower tail fast with a clean soft tip, checked the fork joins, and stayed out of Omar's way, though he mostly waited once his piece was done."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Built the bottom line quickly, spotted and flagged the stall in the top run early, and gave clear, useful guidance on the tail without getting in anyone's way."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "I saw him lay the upper tail steadily around the tip and down toward the notch, keeping it soft and curved, and he kept everyone updated, though that piece was the slowest to finish."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Chose the fish, sketched it on the pad and assigned strokes clearly, then fixed the top-run joint and checked the notch and whole fall, which kept the team organized and the picture connected."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Jack": 5,
+   "Hana": 1,
+   "Omar": 13
+  },
+  "Omar": {
+   "Jack": 1
+  },
+  "Hana": {
+   "Sofia": 1,
+   "Omar": 13,
+   "Jack": 4
+  },
+  "Jack": {
+   "Sofia": 1,
+   "Omar": 8
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 1,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

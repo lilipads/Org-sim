@@ -1,0 +1,137 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.7,
+   "error": 0.36
+  },
+  "Omar": {
+   "speed": 0.49,
+   "error": 1.25
+  },
+  "Hana": {
+   "speed": 2.02,
+   "error": 2.59
+  },
+  "Jack": {
+   "speed": 0.95,
+   "error": 0.99
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "Omar laid the upper tail steadily and finished it lit up, and he kept clear of others' areas, though the loop at the tail end ended up not connecting."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Hana set the fish plan, laid the body and relaid the lower tail to get it connected, and kept everyone coordinated, though the tail loop she kept working on never caught."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Jack took the lower tail and stood a couple of dominoes back up, but he mostly deferred to Hana on the crossing and loop and added less than the others."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia finished the bottom curve early, kept inspecting the crossing and loop, stayed clear of Hana's corner to avoid bumps, and worked on the notch, so the fish body and tails ended up connected and lit."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Hana led well by choosing a clear fish, sketching it and assigning strokes, and she worked hard on the crossing and relaid the lower tail, but the loop at the tail never caught despite many attempts and she took on a lot of the fiddly fixes herself."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "Jack laid his lower tail and stood a few dominoes back up, then kept clear of other people's work and stayed hands-off, but his tail was the one that didn't catch at first and most of its repair was done by Hana."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia finished the bottom curve early and connected, then repeatedly inspected and fixed the crossing and the notch while staying clear of my corner, and her updates were clear and accurate."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar took the upper tail straight away, kept it lit and finished it, then stayed hands-off, though the loop end he built never fully connected."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack took the lower tail promptly and stood dominoes back up where it broke, and he stayed clear of my corner, but his tail was slow to catch at the crossing and he mostly watched later on."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 4,
+    "why": "Sofia finished the bottom curve early and cleanly, then spent the rest of the time diagnosing the crossing and notch and offering to fix them, while staying clear of Hana's corner; the loop at the tail still didn't catch."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar laid the upper tail steadily, kept it lit and reported progress clearly, then went hands-off before the push; he did less to help with the broken loop."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Hana set the fish plan quickly, sketched it and laid the body, and led the repairs at the crossing; she kept the team coordinated and hands-off at the end, but the tail loop never connected despite many attempts."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Omar": 12,
+   "Hana": 11,
+   "Jack": 3
+  },
+  "Omar": {
+   "Sofia": 3,
+   "Hana": 9,
+   "Jack": 4
+  },
+  "Hana": {
+   "Sofia": 5,
+   "Omar": 8,
+   "Jack": 3
+  },
+  "Jack": {
+   "Sofia": 4,
+   "Omar": 11,
+   "Hana": 11
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 3.33,
+   "all_raters": 3.33,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "organiser",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.36,
+   "error": 1.74
+  },
+  "Omar": {
+   "speed": 1.4,
+   "error": 1.58
+  },
+  "Hana": {
+   "speed": 1.06,
+   "error": 2.88
+  },
+  "Jack": {
+   "speed": 0.52,
+   "error": 2.79
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 5,
+    "why": "Omar laid the bulk of the bottom line right away, said clearly when he'd reached the belly so Hana could join on, and kept the table calm with good hands-off reminders."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana took the bottom line's tail through the crossing out to the tip, joined it cleanly onto Omar's run, and communicated clearly about who was doing what, which helped the fish fall as a single connected run."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack was agreeable and stayed out of the way, and he took on the top line's tail and checked the joint before the crossing, but I saw less of his hands-on work than the others'."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked the fish, sketched it, laid the top line and the start, finished the upper tail, and checked the crossing, which led the table to a connected picture of about 121 of 124 dominoes."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "I saw her extend the bottom line through the crossing out to the tail tip, and she communicated clearly and handed off cleanly, though the bunched, doubled-up area before the crossing was a little messy."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He was supportive and kept out of the way, offered to help, and checked the joint before the crossing, but I didn't see him lay much himself, so his impact was modest."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia picked a fish that suits dominoes, sketched it up front, laid the top line and the upper tail herself, and inspected the crossing, which ended with about 121 of 124 dominoes connected."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar built the bottom line out to the belly and handed the tail over cleanly when asked, but after that he mostly cheered and checked joints rather than taking on more."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Jack was reliable and stayed out of the way, offered to carry the top line and check the crossing, but I didn't see him lay much himself and Sofia ended up finishing the tail."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "Sofia sketched the fish, laid the top line and the upper tail tip, assigned roles clearly, and checked the crossing, so about 121 of 124 dominoes connect."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "Omar built the bottom line quickly, coordinated the handoff with Hana at the belly, and wisely left the crossing alone, though he mostly cheered during the last stretch."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "Hana took over the bottom line from the belly through the crossing to the tail tip, communicated her joins clearly, and inspected her work afterward."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Omar": 3,
+   "Hana": 3
+  },
+  "Omar": {
+   "Sofia": 1,
+   "Hana": 4
+  },
+  "Hana": {
+   "Omar": 3,
+   "Sofia": 1
+  },
+  "Jack": {
+   "Sofia": 2,
+   "Omar": 2,
+   "Hana": 2
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

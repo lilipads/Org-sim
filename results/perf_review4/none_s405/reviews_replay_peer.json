@@ -1,0 +1,133 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "checker",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.29,
+   "error": 0.95
+  },
+  "Tom": {
+   "speed": 0.9,
+   "error": 2.52
+  },
+  "Priya": {
+   "speed": 0.82,
+   "error": 1.2
+  },
+  "Leo": {
+   "speed": 0.98,
+   "error": 0.36
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "He stuck with the fin through several rounds of jams and lifts and got it catching in the end, and he left the strays alone rather than risk the fin, though the fin took a lot of the time."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She laid the start and the body early, which gave everyone a connected base to build on, and she kept the table coordinated with clear checks and a good final check."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He set the plan quickly (a big, simple fish), split the work clearly between all of us, and drew the fin and tail strokes that made the fish read; he also checked the tail joins and gave a useful close look at the fin jam."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "Finished the bottom line early and took the lower tail lobe, kept clear of others' work, and gave me a clear, accurate diagnosis of the jammed fin domino."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Laid the start and the top line, kept the table coordinated, and ran the final check so the whole fish fell connected, with clear updates throughout."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "Set the fish plan fast, drew the fin and tail on the pad, built a tail lobe, and gave clear, useful checks on my fin, which led to the fix."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She finished the bottom line fast, took the lower tail lobe, helped diagnose the jammed fin domino, and kept clear of others' work."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He took on the fin and persisted through several re-lays and a jammed domino until it caught, though it took a long time and left a few strays."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He set the fish idea quickly, drew the fin and tail strokes, split up the work clearly, and checked the connections to help the table finish with a connected picture."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She finished the bottom line fast, took the lower tail lobe, gave Tom a clear diagnosis of the fin break, and kept clear of others' work so nothing got bumped."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He took the fin and stuck with it through several relays until it caught all the way to the tip, though it took many tries and he left three stray dominoes under it."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She built the body and the top line, reassigned people so nobody crowded, and ran a careful final check, which kept the table coordinated."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 2,
+   "Tom": 6
+  },
+  "Tom": {
+   "Maya": 2,
+   "Priya": 4,
+   "Leo": 4
+  },
+  "Priya": {
+   "Maya": 1,
+   "Tom": 8
+  },
+  "Leo": {
+   "Tom": 13
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.5,
+   "all_raters": 4.67,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 1,
+   "raters_total": 3
+  }
+ }
+}

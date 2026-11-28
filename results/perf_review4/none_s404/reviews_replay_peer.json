@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "organiser",
+  "Omar": "builder",
+  "Hana": "checker",
+  "Jack": "connector"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 2.04,
+   "error": 0.72
+  },
+  "Omar": {
+   "speed": 0.96,
+   "error": 1.97
+  },
+  "Hana": {
+   "speed": 2.22,
+   "error": 2.42
+  },
+  "Jack": {
+   "speed": 0.78,
+   "error": 0.46
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "I saw Omar lay the start domino and trace the long top line across the body, then stand dominoes back up near the middle and nose, so the main run was solid, though he said little."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "Hana built the belly line, then diagnosed and bridged the stubborn nose joint with clear updates, which got about 108 of 111 dominoes connected to the start."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "I saw Jack lay the tail loop off the middle crossing and close it cleanly, and he kept the team upbeat, but his attempted fix at the nose was redundant with Hana's and added little."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 4,
+    "why": "She picked a clear fish, sketched it and split the strokes up quickly, which gave the table direction, and she stood one domino back up near the middle crossing, but after that she mostly checked and did little building."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "I saw her lay the belly line, then go back and diagnose and bridge the nose joint, which was the hardest fix and took several tries, and her updates were specific and kept the table coordinated."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "I saw him lay the tail loop and close it back toward the belly, and he kept morale up, but he posted a lot of cheering and his fix attempt at the nose nearly collided with Hana's work."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked a clear fish, sketched it quickly, split the strokes sensibly and kept the table coordinated, and the finished fish reads clearly with about 108 of 111 dominoes falling."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He laid the start domino and the top line promptly, and the nose joint on his stroke needed fixing, but he stayed out of the way and the body outline came out clean."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He delivered the tail loop on time and closed it back to the belly, though he spent a lot of time cheering and his fix near the nose briefly overlapped with my repair."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She picked the fish, sketched a clear plan with strokes assigned to each person, fixed the cramped middle crossing, and kept everyone coordinated and hands-off at the end."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He took stroke 1 from the start, kept laying the top line and re-standing dominoes that got knocked over, though the nose joint on his line needed others to repair it."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "She laid the belly line, then diagnosed and bridged the stubborn nose joint, and reported the fall coverage (about 108 of 111) clearly, which is why the fish connects."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Omar": 8,
+   "Hana": 1,
+   "Jack": 2
+  },
+  "Omar": {
+   "Hana": 3,
+   "Jack": 3,
+   "Sofia": 1
+  },
+  "Hana": {
+   "Omar": 2,
+   "Jack": 2
+  },
+  "Jack": {
+   "Hana": 2,
+   "Omar": 3,
+   "Sofia": 1
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 4.5,
+   "all_raters": 4.67,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

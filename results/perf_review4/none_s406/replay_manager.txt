@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "Her earlier communication was good and she closed the nose kink. Some of her self-assessment doesn't match what I saw: the strays she says she recycled are still there, the hands-off call was Hana's, and her claim of about 180 dominoes doesn't fit the others' shares. The bottom is also still dense and overlapping, a push-over risk."
+ },
+ "Omar": {
+  "rating": 4,
+  "why": "He was the most consistently careful and collaborative: he caught the gap at the nose, told Sofia, announced his actions and went hands-off when instructed, and his account matches my notes. The pale strand at the nose top was left unattached, a minor miss, and I never saw him place a domino either."
+ },
+ "Hana": {
+  "rating": 4,
+  "why": "She set the fish plan in the first minute, assigned the roles and called the handoff cleanly at 7:30, and her account of the design matches what I saw. I never saw her place a domino and she never confirmed her fix for the jam at the bottom, so her execution is unverified."
+ },
+ "Jack": {
+  "rating": 3,
+  "why": "I saw no output or help from him, so I can't rate him higher on evidence. His self-assessment is modest and credible (about a dozen dominoes, roles confirmed, hands-off respected), so I'm giving a provisional middle rating that I'd revisit after asking him privately what he built."
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 4,
+  "why": "I directly saw her hand over the fork and act as quality checker, and the team's own accounts back her up on direction, task split and the hands-off call, so her leadership and collaboration are the best-evidenced on the table. Her claim of 131 of 131 falling is unproven until the push, and I never saw her flag the lingering overlap."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "His hands-off rule was sensible and he said he'd shout if anything tipped, but across five visits I never saw him place a domino. His self-report of building the bottom line, back line and upper fork is large and unverified, so I'm giving a middling score pending his answer on what he built."
+ },
+ "Priya": {
+  "rating": 4,
+  "why": "I saw her check connectivity and offer to help close gaps, and her account is specific and modest (about fifteen dominoes on the top line), which fits what I saw. She was collaborative and took on the slowest stretch, though I have no evidence she raised the overlap herself."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "He showed good intent and honestly acknowledged that others laid most of the dominoes, but he said he'd check the doubled back and it was still doubled at my last visit. His sketch and coordination claims overlap with Maya's and I couldn't verify either, so I can credit only modest impact and execution."
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.59,
+   "error": 1.56
+  },
+  "Tom": {
+   "speed": 2.13,
+   "error": 1.84
+  },
+  "Priya": {
+   "speed": 1.21,
+   "error": 1.76
+  },
+  "Leo": {
+   "speed": 0.58,
+   "error": 1.11
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 5,
+    "why": "Tom laid the start domino and the whole top line cleanly and early, then checked the tail joint and stayed hands-off to avoid bumps, which kept the fish fully connected."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Priya laid the long bottom line and carried it round the lower tail, coordinated the final meeting point with Leo so nothing was laid twice, and closed the last joint to get all 126 dominoes connected."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "Leo flagged the tail pinch as a risk early, laid the tail steadily down the right side, and held back at the right moment so Priya could close the last bit without any overlap."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "She proposed the fish, sketched it clearly, tested the fall and kept joints checked, and called hands-off at the end, though she did less of the actual building than the others."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "I watched her lay the whole bottom line and carry it round the lower tail, then close the joint with Leo cleanly, and she told us when she was done so nothing was laid twice."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "I saw him lay the long tail stroke steadily down the right side, he flagged the sharp pinch early, and he held his end so Priya could close the joint without overlap."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "Maya proposed the fish, sketched it on the pad, tested the fall, and checked the joints, and the whole run fell from the nose; she did some over-coordinating, though, and I didn't see her lay much herself."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom laid the start domino and the full top line cleanly and early (I saw him at the nose), then checked the joints and stayed hands-off, which kept the table steady."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "I saw Leo trace the long tail down the right side, and he flagged the sharp pinch early; he held back so I could close the last bit and avoided doubling up on the same stretch."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She proposed the fish and sketched it on the pad, tested the fall, closed the gap between the bottom line and the lower tail piece, and called hands-off so nobody bumped the finished run."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He laid the top line quickly and cleanly (I saw him laying it near the tail end), then checked the tail joint and kept clear afterward, though he did less overall than the others."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She laid the bottom line and carried it around the lower tail, and I watched her lay the last stretch up the right side, telling me to hold so we didn't double up and then closing the joint to get the full 126 of 126."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 1,
+   "Priya": 9,
+   "Leo": 4
+  },
+  "Tom": {
+   "Priya": 6,
+   "Leo": 8
+  },
+  "Priya": {
+   "Tom": 1,
+   "Leo": 3
+  },
+  "Leo": {
+   "Tom": 1,
+   "Priya": 3
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

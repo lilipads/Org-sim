@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 5,
+  "why": "She chose the fish, sketched the plan and split the work, and I saw that she stayed calm and kept the table moving, which is the strongest and most consistent evidence of impact and leadership on the team. The gap is that I couldn't confirm her tail inspection caught the three stray dominoes, though she says she saw them and chose to leave them."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "I saw a clean handoff and steady work on the bottom line, and he was collaborative and kept the mood up. He offered to fix an off-side domino but the strays stayed and he never said anything, so his claim that he checked and judged them fine is unverified."
+ },
+ "Hana": {
+  "rating": 3,
+  "why": "Her belly and tail section looks connected and clean, so her output is solid, and she backed the group's hands-off call. I saw very little from her and she said almost nothing, so collaboration and leadership evidence is thin, but I'm not reading her quiet as disengagement."
+ },
+ "Jack": {
+  "rating": 1,
+  "why": "By his own account he placed no dominoes, and I never saw the tilt and gap checks he says he did, while the strays survived, so his execution and impact are the least supported. He was positive, credited the team and was honest about his small share, but that doesn't make up for the missing contribution."
+ }
+}
