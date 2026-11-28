@@ -207,6 +207,53 @@ def _cost(world: World, path: list, ignore: set, clearance: float = 0.42) -> flo
 
 def approach(world: World, x: float, y: float, h: float, b, max_steps: int = 160,
              extra_ignore: set = frozenset()) -> list:
+    """Plan a path by hand to knock domino b over so the fall carries on along b's line. Dominoes fall
+    whichever way they're pushed, so the side to come in from is the side away from where b's line
+    continues (not simply the way b faces); for a lone domino, or one in the middle of a line, try both."""
+    import copy as _copy
+    flipped = _copy.copy(b)
+    flipped.angle = (b.angle + 180) % 360
+    fwd, back = bool(world.successors(b)), bool(world.successors(flipped))
+    sides = [b] if fwd and not back else [flipped] if back and not fwd else [b, flipped]
+    best = []
+    for side in sides:                    # a short straight bridge first, if one fits
+        pts = _short_bridge(world, x, y, h, side)
+        if pts and (not best or len(pts) < len(best)):
+            best = pts
+    if best:
+        return best
+    for side in sides:
+        pts = _approach_core(world, x, y, h, side, max_steps, extra_ignore)
+        if pts and (not best or len(pts) < len(best)):
+            best = pts
+    return best
+
+
+def _short_bridge(world: World, x: float, y: float, h: float, b) -> list:
+    """For a short gap: a straight run of a few dominoes from (x, y) into the spot behind b, as hands would
+    lay it in a crowded junction, if no turn is sharper than 40 degrees and nothing sits in the way."""
+    rb = math.radians(b.angle)
+    ex, ey = b.x - SPACING * math.cos(rb), b.y - SPACING * math.sin(rb)
+    dist = math.hypot(ex - x, ey - y)
+    if dist > 2.0:
+        return []
+    seg = math.degrees(math.atan2(ey - y, ex - x)) if dist > 1e-6 else b.angle
+    if abs(angle_diff(seg, h)) > 40 or abs(angle_diff(b.angle, seg)) > 40:
+        return []
+    n = max(1, int(math.ceil(dist / SPACING)) + 1)
+    pts = []
+    for k in range(n):
+        f = k / max(1, n - 1)
+        px, py = x + f * (ex - x), y + f * (ey - y)
+        ang = seg if 0 < k < n - 1 else (h if k == 0 else b.angle)
+        if any(math.hypot(o.x - px, o.y - py) < world.phys.min_gap for o in world.near(px, py, 0.4)):
+            return []
+        pts.append((px, py, ang % 360))
+    return pts
+
+
+def _approach_core(world: World, x: float, y: float, h: float, b, max_steps: int = 160,
+                   extra_ignore: set = frozenset()) -> list:
     """Plan a smooth path by hand from pose (x, y, h) to squarely behind domino b,
     facing the way b falls, so the last new domino knocks b over. Tries several
     curve shapes (direct, wider, or round either side) and keeps the shortest
@@ -308,6 +355,11 @@ def anchored_specs(world: World, s: dict, max_n: int) -> tuple:
     else:
         pts = approach(world, x, y, h, b, max_steps=max_n * 3)
     note = f"connecting {describe_spot(world, a.x, a.y)} near {where(a.x, a.y)} to {describe_spot(world, b.x, b.y)} near {where(b.x, b.y)}"
+    gap = math.hypot(b.x - a.x, b.y - a.y)
+    if len(pts) > max(6, 3 * gap / SPACING):     # real hands don't build a big loop to join two close ends
+        return [], (f"joining near {where(a.x, a.y)} to {where(b.x, b.y)} would need a long detour "
+                    f"(about {len(pts)} dominoes for a {gap:.1f}-unit gap): the fall can't turn that way there. "
+                    "Join from the other end, or redo the stroke with \"redo\": true")
     if len(pts) > max_n:
         note += f" (it needs about {len(pts)} dominoes; you've got hands for {max_n} in one go)"
     return pts[:max_n], note

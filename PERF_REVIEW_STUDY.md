@@ -396,3 +396,22 @@ Tom's first join, at the crossing where the body lines meet the tail, held and c
 whole body outline; with the old tools the equivalent join never held and he spent five minutes on it. The
 tail below the crossing is still a tangle of pale leftovers (the run doesn't reach it), so the picture is
 recognisable but messy. Pictures: `results/perf_review2/manager_glue_s411*/tom_joins.png`.
+
+### 13.5 Why the layout was messy
+
+51 of the 218 dominoes in the replayed seed-411 game sat more than 1.5 units from the plan. 37 of them came
+from **connect**, not tracing: one connect laid about 25 dominoes to join two points 2.5 units apart. The
+path planner behind connect and larger fixes (`approach`) always came in behind the target *as it faces*;
+since dominoes fall either way, when the next line was laid in the other direction it looped round to the far
+side. In crowded junctions its smooth curves also collided with neighbours and it fell back to big detours.
+
+Fixed:
+* **Approach from the side away from where the target's line continues** (either side for a lone domino).
+* **Short straight bridge first:** for a gap up to 2 units, a straight run of a few dominoes if no turn
+  exceeds 40 degrees and nothing sits in the way.
+* **No roundabout joins:** if a join would need far more dominoes than the gap justifies (more than 3x the gap
+  in domino spacings, minimum 6), connect refuses and says to join from the other end or redo the stroke.
+
+Scripted check (8 seeds, seams on, one joiner): 84 of 84 fall with no leftovers in 6 of 8 (before: joins
+failed or built loops); the 2 misses are the scripted joiner pairing the wrong lines at the tail crossing.
+No seams: 11 of 12 at 90%+, unchanged.
