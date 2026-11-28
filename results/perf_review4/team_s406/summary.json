@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 346.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.333,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "tadpole or sperm-like outline",
+      "pointed leaf or seed shape",
+      "balloon or bowling-pin silhouette"
+    ],
+    [
+      "closed teardrop or gourd outline",
+      "fish or pointed bulb silhouette",
+      "loop of dominoes in a curve"
+    ],
+    [
+      "tadpole or sperm shape",
+      "fish or bean-like seed outline",
+      "balloon or teardrop with a pinched tail"
+    ]
+  ],
+  "placed": 110,
+  "fell": 110,
+  "completion": 1.0,
+  "team_score": 0.333,
+  "first_domino_at": "0:30",
+  "messages": 33,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 9,
+    "Hana": 10,
+    "Jack": 6,
+    "Omar": 5
+  },
+  "held_thoughts": 32,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 111,
+    "failed": 0,
+    "input_tokens": 234,
+    "cache_creation_tokens": 468793,
+    "cache_read_tokens": 410964,
+    "output_tokens": 48456,
+    "seconds": 831.1,
+    "api_equivalent_usd": 2.268,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

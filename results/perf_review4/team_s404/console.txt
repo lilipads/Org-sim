@@ -1,0 +1,264 @@
+[   19s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Morning team! Let's do a big fish, side view, nose on the left. Simple, readable, and it's one run splitting round the body. I'll grab the pad and start the top line. Sofia, could you take the bottom 
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[   29s] 0:15 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 8
+    Jack -> everyone: Pad's mine, fish going up now! Nose on the left, one run that splits round the body. I'm on the top line. Sofia, bottom line, Omar and Hana, one tail half each. Let's beat the other tables!
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[   50s] 0:30 asked Sofia,Omar,Hana | dominoes 4 | calls 11
+    Hana -> everyone: Jack, quick rethink before we build. Your start is down at the tail, so the tail forks would have to branch backwards off the body, and the fall won't make that turn. Can we put the start at the nose 
+    (Sofia held a thought)
+    (Omar held a thought)
+[   68s] 0:45 asked Jack | dominoes 3 | calls 12
+    Jack -> everyone: Hana, good catch, you're right. Redrawing now with the start at the nose: one line over the back, one under the belly, both flattening into the tail stem, then the tail forks open out. Omar, hold off 
+[   76s] 1:00 asked Sofia,Omar,Hana | dominoes 1 | calls 15
+    Sofia -> everyone: Hana's plan makes sense, start at the nose. Jack, I'll hold off until the new sketch is up, then I'll trace the belly line. Please keep both lines flattening gently into the tail stem, and make the st
+    (Omar held a thought)
+[   90s] 1:15 asked Omar,Hana,Jack | dominoes 0 | calls 18
+    Jack -> everyone: Okay, new sketch is up with the start at the nose. One line over the back, one under the belly, both flattening into the tail stem, then the two tail forks open out. Sofia, belly line is the second st
+    (Hana held a thought)
+    (Omar held a thought)
+[  100s] 1:30 asked Sofia,Omar,Hana | dominoes 3 | calls 21
+    Hana -> everyone: New sketch looks right, Jack. Start at the nose, both lines flatten into the tail, forks open out gently. I'll take the lower tail fork. Omar, can you take the upper one? When Jack's free, a dry run w
+    (Omar held a thought)
+    (Sofia held a thought)
+[  108s] 1:45 asked Omar,Jack | dominoes 16 | calls 23
+    Omar -> everyone: Got it, I'm on the upper tail fork, stroke 3. Hana's got the lower one.
+    (Jack held a thought)
+[  117s] 2:00 asked Hana | dominoes 30 | calls 24
+    Hana -> everyone: Thanks Omar, all good. I'm on the lower fork and it'll lay itself once the belly line gets to the tail. Once the top and belly lines are across, let's do a dry run and check the join at the tail.
+[  122s] 2:15 asked Omar | dominoes 44 | calls 25
+[  122s] 2:30 asked - | dominoes 74 | calls 25
+[  124s] 2:45 asked - | dominoes 85 | calls 25
+[  132s] 3:00 asked Sofia | dominoes 91 | calls 26
+    Sofia -> everyone: Belly line is across. I'm going to check the join at the nose, because Jack's top line still looks pale there.
+[  149s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 93 | calls 31
+    Jack -> everyone: Thanks Hana, good call on the dry run. Sofia, great work getting the belly across! I'm about two thirds along the top line, so the pale bit at the nose should light up once it's laid. Keep an eye on t
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  160s] 3:30 asked Sofia,Omar,Hana | dominoes 97 | calls 34
+    Sofia -> everyone: Found it: the top line is just short of the nose, pale right where it should join. I'm bridging that gap now. Jack, keep going along the top, it'll light up once this is joined.
+    (Hana held a thought)
+    (Omar held a thought)
+[  173s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 38
+    Sofia -> everyone: Looking closely at the nose join to see exactly where the top line misses the fall. Jack, keep going on the top.
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  183s] 4:00 asked Sofia,Omar,Hana,Jack | dominoes 107 | calls 42
+    Sofia -> everyone: Bridging the nose gap with a few dominoes now. Jack, keep going on the top line, don't redo it.
+    (Jack held a thought)
+    (Hana held a thought)
+[  193s] 4:15 asked Sofia,Omar,Hana,Jack | dominoes 109 | calls 46
+    Jack -> everyone: Thanks Sofia, nice catch! I'll close the gap at the tail end of the top line now, then we dry run and see how much falls.
+    Sofia -> everyone: Bridge is in. Checking whether the top line lights up now.
+    (Hana held a thought)
+    (Omar held a thought)
+[  202s] 4:30 asked Sofia,Omar,Hana | dominoes 110 | calls 49
+    Sofia -> everyone: Still pale at the nose, so I'm nudging the join right here. Jack, once the tail end of the top line is closed, let's dry run.
+    (Hana held a thought)
+    (Omar held a thought)
+[  214s] 4:45 asked Sofia,Omar,Hana,Jack | dominoes 111 | calls 53
+    Jack -> everyone: Tail end of the top line is closed. Only a little falls from the start though, so the break is at the nose. I'm looking at it now. Sofia, hold on a sec so we don't both nudge the same dominoes.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  225s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 105 | calls 57
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Nose is a tangle, so I'm clearing the knot right here and rejoining top and belly cleanly from the start. Sofia, please hands off that spot for a minute, then I'll shout and you can check it with me.
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  233s] 5:15 asked Sofia,Omar,Hana | dominoes 101 | calls 60
+    Sofia -> everyone: Okay Jack, hands off the nose. I'll stay clear. Shout when it's rejoined and I'll check it with you. Rebuild the first stretch of the top line from the start so it flows cleanly.
+    (Hana held a thought)
+    (Omar held a thought)
+[  243s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 104 | calls 64
+    Jack -> everyone: Nose is cleared. I'm laying two short links from the start, one up to the top line and one down to the belly. Sofia, hands off until I shout, then we check it together.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Omar held a thought)
+[  251s] 5:45 asked Sofia,Omar,Hana | dominoes 102 | calls 67
+    Hana -> everyone: Jack's got the nose, so I'll stay on the tail. I'm looking at where the top line meets the belly line at the crossing. Sofia, best to leave the nose to Jack so you two don't undo each other. Jack, sho
+    (Omar held a thought)
+    (Sofia held a thought)
+[  258s] 6:00 asked Sofia,Hana,Jack | dominoes 107 | calls 70
+    Sofia -> everyone: Staying clear, Jack. Shout the moment the links are in and I'll check that the fall runs into both lines. Under four minutes, so let's dry run right after.
+    (Jack held a thought)
+    (Hana held a thought)
+[  266s] 6:15 asked Omar,Hana,Jack | dominoes 107 | calls 73
+    Jack -> everyone: Links are in at the nose, Sofia, thanks for staying clear. I'm running a dry run now to see if both lines light up. Hana, how's the tail crossing looking?
+    (Hana held a thought)
+    (Omar held a thought)
+[  276s] 6:30 asked Sofia,Omar,Hana | dominoes 108 | calls 76
+    Hana -> everyone: Jack, I looked at the nose and only the first three dominoes fall from the start. The turn right after the start is too sharp. I'm bridging from the start into the top line now, and I won't touch your
+    (Sofia held a thought)
+    (Omar held a thought)
+[  286s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 108 | calls 80
+    Sofia -> everyone: Hana's on the top bridge, so I'll take the belly side. I'm joining the end of the start row down into the start of the belly line, just here. Jack, leave the top to Hana and the belly to me. Then dry 
+    (Jack held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  295s] 7:00 asked Sofia,Omar,Hana,Jack | dominoes 108 | calls 84
+    Sofia -> everyone: Joining the end of the start row into the belly a little further along, so the curve is gentle. Hana, you stay on the top bridge. We dry run right after.
+    (Omar held a thought)
+    (Hana held a thought)
+    (Jack held a thought)
+[  304s] 7:15 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 88
+    Sofia -> everyone: Joining the start row into the belly a bit further along so the curve is gentle. Hana, keep going on the top bridge. Dry run right after.
+    (Omar held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  314s] 7:30 asked Sofia,Omar,Hana,Jack | dominoes 112 | calls 92
+    Omar -> everyone: Quick one, Sofia: from my look, the chain stalls right at the end of the start row, where one domino sits too tight against the next. Pull that one and re-seat it as you join. I'm staying off it.
+    (Hana held a thought)
+    (Sofia held a thought)
+    (Jack held a thought)
+[  324s] 7:45 asked Sofia,Hana,Jack | dominoes 112 | calls 95
+    Sofia -> everyone: Thanks Omar, on it. I'm re-seating that tight domino at the end of the start row and joining it into the belly right now. Hana, how's the top bridge?
+    (Hana held a thought)
+    (Jack held a thought)
+[  334s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 93 | calls 99
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Going for a short join right here from the end of the row down into the belly. Hana, keep on the top bridge. Jack, check the tail crossing.
+    (Jack held a thought)
+    (Hana held a thought)
+[  344s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 102 | calls 103
+    Jack -> everyone: Sounds good: Sofia on the belly, Hana on the top bridge. I'm staying off the nose and finishing both tail fins at the crossing. Shout when both bridges are in!
+    (Sofia held a thought)
+    (Hana held a thought)
+    (Omar held a thought)
+[  353s] 8:30 asked Sofia,Omar,Hana | dominoes 106 | calls 106
+    Hana -> everyone: Sofia, you stay on the end of the row and the belly. I'm bridging the top line at the nose with a gentle link from the row into its first domino. Jack, finish the tail and then we're done.
+    (Sofia held a thought)
+[  362s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 115 | calls 110
+    Sofia -> everyone: Connecting the row end into the belly right now. Hana, stay on the top bridge. Jack, finish the tail!
+    Hana -> everyone: Bridging the top line a bit further along so the turn's gentle. Sofia, belly's yours. Jack, shout if the tail's done.
+    (Jack held a thought)
+[  368s] 9:00 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 114
+    Hana -> everyone: Top bridge is in, three dominoes up into the top line. I'm checking the nose now to see if it lights up. Sofia, belly's yours, Jack, finish the tail.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  376s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 119 | calls 118
+    Sofia -> everyone: Closing the last little gap at the belly join now. Hands off the start area, please. Hana, Jack, shout if anything's still pale!
+    (Hana held a thought)
+    (Jack held a thought)
+[  386s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 122
+    Sofia -> everyone: Last push: joining the row end into the belly further along, gently. Hands off here, everyone!
+    Hana -> everyone: Nose still stalls, so I'm doing one small fix at the start of the top line. Sofia, stay on the belly join. Jack, tail!
+    (Jack held a thought)
+[  392s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 122 | calls 126
+    Jack -> everyone: Tail's done, nice work Sofia and Hana! I'm hands off so nothing gets bumped. Finish the nose joins, then everybody step back from the table.
+    Sofia -> everyone: Join's in. Everyone hands off, let's see it fall!
+    (Omar held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 440.4,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "bird in flight, seen from the side",
+      "pair of tweezers or pliers",
+      "fallen dominoes in a bent line"
+    ],
+    [
+      "a few fallen dominoes seen from above",
+      "a bird in flight, like a simple silhouette",
+      "a stray pen stroke or scribble"
+    ],
+    [
+      "a few short dark line strokes, like fallen dominoes",
+      "a simple bird or arrow shape made of thick lines",
+      "a stray handwritten squiggle or check mark"
+    ]
+  ],
+  "placed": 122,
+  "fell": 13,
+  "completion": 0.107,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 12,
+    "Hana": 9,
+    "Sofia": 18,
+    "Omar": 2
+  },
+  "held_thoughts": 74,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 0,
+    "input_tokens": 296,
+    "cache_creation_tokens": 718668,
+    "cache_read_tokens": 508865,
+    "output_tokens": 77524,
+    "seconds": 1083.5,
+    "api_equivalent_usd": 3.5793,
+    "cached": 1
+  },
+  "review": "team",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

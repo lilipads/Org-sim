@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.07,
+      "error": 0.67
+    },
+    "Tom": {
+      "speed": 1.95,
+      "error": 1.36
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 1.1
+    },
+    "Leo": {
+      "speed": 1.81,
+      "error": 2.57
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 334.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left",
+      "fallen dominoes in a fish shape",
+      "curved line drawing of a fish"
+    ],
+    [
+      "fish outline facing left",
+      "fish with a forked tail",
+      "leaf or pointed oval shape"
+    ],
+    [
+      "fish outline facing left",
+      "ichthys-style fish symbol",
+      "leaf or almond shape with a stem"
+    ]
+  ],
+  "placed": 108,
+  "fell": 107,
+  "completion": 0.991,
+  "team_score": 0.991,
+  "first_domino_at": "0:30",
+  "messages": 39,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 9,
+    "Maya": 15,
+    "Tom": 8,
+    "Leo": 4
+  },
+  "held_thoughts": 38,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 124,
+    "failed": 0,
+    "input_tokens": 260,
+    "cache_creation_tokens": 578430,
+    "cache_read_tokens": 436783,
+    "output_tokens": 51689,
+    "seconds": 862.5,
+    "api_equivalent_usd": 2.742,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

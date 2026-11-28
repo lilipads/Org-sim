@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 463.8,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Sofia"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline with crossed tail",
+      "ichthys christian fish symbol",
+      "leaf or lemon-shaped outline"
+    ],
+    [
+      "fish outline made of fallen dominoes",
+      "ichthys-style fish symbol",
+      "almond shape with crossed tail lines"
+    ],
+    [
+      "fish with crossed tail",
+      "ichthys fish symbol",
+      "leaf or eye shape"
+    ]
+  ],
+  "placed": 124,
+  "fell": 121,
+  "completion": 0.976,
+  "team_score": 0.976,
+  "first_domino_at": "0:30",
+  "messages": 46,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Sofia": 13,
+    "Hana": 9,
+    "Omar": 13,
+    "Jack": 8
+  },
+  "held_thoughts": 32,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 129,
+    "failed": 1,
+    "input_tokens": 268,
+    "cache_creation_tokens": 542680,
+    "cache_read_tokens": 471599,
+    "output_tokens": 43099,
+    "seconds": 978.1,
+    "api_equivalent_usd": 2.512,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 65
+    },
+    "Omar": {
+      "dominoes_fell": 40
+    },
+    "Hana": {
+      "dominoes_fell": 16
+    },
+    "Jack": {
+      "dominoes_fell": 0
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

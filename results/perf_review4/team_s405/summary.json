@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 635.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline drawn with thick strokes",
+      "side view of a fish with an open mouth",
+      "hand-drawn fish silhouette in black line"
+    ],
+    [
+      "fish outline in side view",
+      "hand-drawn fish shape with an open tail",
+      "hand-drawn outline of a fish"
+    ],
+    [
+      "fish outline drawn in a single dark line",
+      "side view of a fish, body and tail",
+      "hand-drawn fish-shaped contour"
+    ]
+  ],
+  "placed": 119,
+  "fell": 116,
+  "completion": 0.975,
+  "team_score": 0.975,
+  "first_domino_at": "0:30",
+  "messages": 51,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 15,
+    "Leo": 11,
+    "Tom": 19,
+    "Maya": 3
+  },
+  "held_thoughts": 80,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 159,
+    "failed": 1,
+    "input_tokens": 328,
+    "cache_creation_tokens": 801085,
+    "cache_read_tokens": 567405,
+    "output_tokens": 85990,
+    "seconds": 1386.2,
+    "api_equivalent_usd": 3.9934,
+    "cached": 0
+  },
+  "review": "team",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

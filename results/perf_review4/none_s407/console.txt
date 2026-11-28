@@ -1,0 +1,217 @@
+[   17s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Quick idea: a big fish! Start at the nose, one line over the back and one under the belly, both ending in a forked tail. I'm sketching it now. Tom, can you take the top line once it's up, and Priya th
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[   31s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 7
+    Leo -> everyone: Fish works for me. I've got the pad, so I'll put the sketch up now. Maya, top line when it's there, Tom the bottom, and I'll check the tail.
+    (Priya held a thought)
+    (Tom held a thought)
+[   40s] 0:30 asked Maya,Tom,Priya | dominoes 11 | calls 10
+    Maya -> everyone: Sketch looks good! I'm on the top line now, which lays the start at the nose. Tom, can you take the bottom line? Leo, the tail's yours.
+    (Tom held a thought)
+    (Priya held a thought)
+[   51s] 0:45 asked Tom,Priya,Leo | dominoes 24 | calls 13
+    Priya -> everyone: Sounds good. Tom's got the bottom and Maya the top, so I'll stay off those. Leo, want me on one fork of the tail? Otherwise I'll check the joins as the lines grow.
+    (Tom held a thought)
+    (Leo held a thought)
+[   63s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 37 | calls 17
+    Leo -> everyone: Thanks Priya. The top line is the slower one, so could you stay near Maya and help it along? Check the joins there as it grows. I'll watch the nose split and move out to the tail once the lines get th
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[   80s] 1:15 asked Maya,Priya | dominoes 49 | calls 20
+    Priya -> everyone: Sure Leo, I'll stay by Maya. Maya, shout if you want me to take the far stretch of the top line.
+    (Maya held a thought)
+[  101s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 63 | calls 24
+    Priya -> Maya: Maya, the top line is the slow one. I'm free, so I can take it from the hump out to the tail while you carry on at the nose end. Does that work, or would you rather I just run alongside you?
+    Maya -> everyone: Thanks Priya, yes please. Pick up the top line from where it ends and carry it on toward the tail. I'll keep laying from my end, and we'll meet in the middle.
+    (Leo held a thought)
+    (Tom held a thought)
+[  110s] 1:45 asked Maya,Priya,Leo | dominoes 67 | calls 27
+    Maya -> Priya: Priya, the top line stops right where I'm pointing. Carry it on from there over the hump and down toward the tail. I'll keep laying behind you.
+    Priya -> everyone: Okay, I've got it from the end of the line. Maya, I'll carry it past the hump toward the tail. You could shift out to the tail fork so we don't end up on top of each other.
+    (Leo held a thought)
+[  126s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 73 | calls 31
+    Leo -> everyone: Bottom line's done, all the way out to the tail fork, and it's all connected. The top line is the slow one now. You two are right on top of each other at the nose end, so Maya, could you jump ahead an
+    (Tom held a thought)
+    (Maya held a thought)
+[  138s] 2:15 asked Maya,Tom,Priya | dominoes 80 | calls 34
+    Maya -> everyone: Sounds good Leo. Priya, keep going from where you are. I'll jump out to the middle of the back and lay on from there toward the tail, and we'll meet in between.
+    (Priya held a thought)
+    (Tom held a thought)
+[  151s] 2:30 asked Tom,Priya,Leo | dominoes 85 | calls 37
+    Leo -> everyone: Priya, you're at the end of the top line now, so keep carrying it toward the tail junction, where the lines meet the fork. Maya, the middle of the back is still good. I'll take the upper fork past tha
+    (Tom held a thought)
+    (Priya held a thought)
+[  165s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 92 | calls 41
+    Tom -> everyone: I'm free, so I'll lay the stretch from the end of the back line out to the tail junction. Priya, you can stay put or help Maya in the middle.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  174s] 3:00 asked Maya,Tom,Priya | dominoes 105 | calls 44
+    Tom -> everyone: Back line's at the tail junction. I'll carry on right into the upper fork. Leo, could you check the gaps back around the middle of the back?
+    (Maya held a thought)
+    (Priya held a thought)
+[  185s] 3:15 asked Maya,Priya,Leo | dominoes 116 | calls 47
+    Leo -> everyone: On it, Tom. I'll check the middle of the back. It looks doubled up in a couple of spots. You keep the upper fork.
+    (Maya held a thought)
+    (Priya held a thought)
+[  195s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 126 | calls 51
+    Maya -> everyone: Sounds good, Tom, you take the upper fork. I'll stay off it. Everything standing falls so far. I'll look over the whole run while you finish, and I'll shout if I spot a break.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  203s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 131 | calls 55
+    Priya -> everyone: Everything standing looks connected from the nose. Tom, the upper fork is yours and I'll stay out of your way. Shout if you want a hand closing anything before the push.
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  212s] 4:00 asked Maya,Tom,Leo | dominoes 131 | calls 58
+    Tom -> everyone: Upper fork's done, so the whole fish is laid. I'm going to look over the run once more for any gaps, especially around the tail junction and the middle of the back.
+    (Maya held a thought)
+    (Leo held a thought)
+[  220s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 131 | calls 62
+    Tom -> everyone: Good news: I looked over the whole run and everything standing falls from the nose, with nothing loose. The only open ends are the two tail tips, which is what we want. The doubled bit on the back is 
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  226s] 4:30 asked Maya,Priya,Leo | dominoes 131 | calls 65
+    Maya -> everyone: Agreed, Tom. Looks good from here, everything falls from the nose and both tail forks reach their ends. Nice work all. Let's keep hands off now so nobody bumps anything, and just shout if you see a ga
+    (Leo held a thought)
+    (Priya held a thought)
+[  232s] 4:45 asked Tom,Priya,Leo | dominoes 131 | calls 68
+    Leo -> everyone: Agreed, Maya. Upper fork looks joined from here too. Hands off now, and I'll only step in if someone sees a bump.
+    Priya -> everyone: Agreed, all looks connected from here. Hands off, and good work everyone.
+    (Tom held a thought)
+[  238s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 131 | calls 72
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Sounds good, all. Fish looks like a fish. I'll keep my hands off and just shout if anything tips.
+[  242s] 5:15 asked Maya,Priya,Leo | dominoes 131 | calls 75
+[  242s] 5:30 asked - | dominoes 131 | calls 75
+[  242s] 5:45 asked - | dominoes 131 | calls 75
+[  248s] 6:00 asked Tom | dominoes 131 | calls 76
+[  253s] 6:15 asked Maya,Priya,Leo | dominoes 131 | calls 79
+[  253s] 6:30 asked - | dominoes 131 | calls 79
+[  253s] 6:45 asked - | dominoes 131 | calls 79
+[  259s] 7:00 asked Tom | dominoes 131 | calls 80
+[  265s] 7:15 asked Maya,Priya,Leo | dominoes 131 | calls 83
+[  265s] 7:30 asked - | dominoes 131 | calls 83
+[  265s] 7:45 asked - | dominoes 131 | calls 83
+[  270s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 131 | calls 87
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Two minutes, all good. Hands off and let it fall.
+[  278s] 8:15 asked Tom,Priya,Leo | dominoes 131 | calls 90
+[  278s] 8:30 asked - | dominoes 131 | calls 90
+[  278s] 8:45 asked - | dominoes 131 | calls 90
+[  283s] 9:00 asked Maya | dominoes 131 | calls 91
+[  289s] 9:15 asked Tom,Priya,Leo | dominoes 131 | calls 94
+[  289s] 9:30 asked - | dominoes 131 | calls 94
+[  289s] 9:45 asked - | dominoes 131 | calls 94
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.56
+    },
+    "Tom": {
+      "speed": 2.13,
+      "error": 1.84
+    },
+    "Priya": {
+      "speed": 1.21,
+      "error": 1.76
+    },
+    "Leo": {
+      "speed": 0.58,
+      "error": 1.11
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 321.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "fish body with tail fin",
+      "leaping fish silhouette"
+    ],
+    [
+      "fish outline with a forked tail",
+      "line of fallen dominoes shaped like a fish",
+      "fish skeleton with fins"
+    ],
+    [
+      "fish outline",
+      "fish made of dominoes",
+      "fish with a forked tail"
+    ]
+  ],
+  "placed": 131,
+  "fell": 131,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 28,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 8,
+    "Leo": 6,
+    "Priya": 6,
+    "Tom": 5
+  },
+  "held_thoughts": 43,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 111,
+    "failed": 0,
+    "input_tokens": 220,
+    "cache_creation_tokens": 456403,
+    "cache_read_tokens": 401700,
+    "output_tokens": 49176,
+    "seconds": 786.8,
+    "api_equivalent_usd": 2.287,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

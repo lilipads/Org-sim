@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.36,
+      "error": 1.74
+    },
+    "Omar": {
+      "speed": 1.4,
+      "error": 1.58
+    },
+    "Hana": {
+      "speed": 1.06,
+      "error": 2.88
+    },
+    "Jack": {
+      "speed": 0.52,
+      "error": 2.79
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 432.7,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish with a forked tail",
+      "bird with an open beak",
+      "leaf or seed pod"
+    ],
+    [
+      "fish outline with a pointed tail on the left",
+      "tadpole or sperm-like shape with a tail",
+      "leaf or seed pod with a curled tip"
+    ],
+    [
+      "fish outline with tail",
+      "leaf or seed shape with stem",
+      "bird or creature silhouette"
+    ]
+  ],
+  "placed": 249,
+  "fell": 244,
+  "completion": 0.98,
+  "team_score": 0.98,
+  "first_domino_at": "0:45",
+  "messages": 56,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Hana": 19,
+    "Omar": 15,
+    "Jack": 7,
+    "Sofia": 12
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 154,
+    "failed": 1,
+    "input_tokens": 324,
+    "cache_creation_tokens": 752303,
+    "cache_read_tokens": 576472,
+    "output_tokens": 63811,
+    "seconds": 1062.2,
+    "api_equivalent_usd": 3.5779,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "organiser",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

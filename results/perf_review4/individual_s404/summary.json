@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 496.0,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Hana"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "fish silhouette drawn with line segments",
+      "fish with forked tail"
+    ],
+    [
+      "fish outline",
+      "fish silhouette made of dominoes",
+      "fish body with forked tail"
+    ],
+    [
+      "a fish outline with a forked tail",
+      "a side-view fish silhouette",
+      "a curved line drawing of a fish body"
+    ]
+  ],
+  "placed": 125,
+  "fell": 125,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:30",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 12,
+    "Hana": 10,
+    "Sofia": 6,
+    "Omar": 4
+  },
+  "held_thoughts": 49,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 130,
+    "failed": 1,
+    "input_tokens": 252,
+    "cache_creation_tokens": 603247,
+    "cache_read_tokens": 439983,
+    "output_tokens": 54345,
+    "seconds": 1049.9,
+    "api_equivalent_usd": 2.9256,
+    "cached": 6
+  },
+  "review": "individual",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": {
+    "Sofia": {
+      "dominoes_fell": 38
+    },
+    "Omar": {
+      "dominoes_fell": 0
+    },
+    "Hana": {
+      "dominoes_fell": 79
+    },
+    "Jack": {
+      "dominoes_fell": 8
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

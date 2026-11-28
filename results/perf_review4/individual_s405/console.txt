@@ -1,0 +1,288 @@
+[   33s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, a big one. The outline says fish all by itself. I'll sketch it now. The start is at the nose, and one line goes over the top and one under the belly, both ending in a forked tail. May
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   47s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Leo -> everyone: Fish is going up on the pad. Maya, take the belly line, the second stroke. I'm starting on the top line from the nose.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   59s] 0:30 asked Maya,Tom,Priya | dominoes 4 | calls 11
+    Priya -> everyone: Love it, fish it is! Leo's on the top line from the nose, Maya's on the belly. I'll take the tail. Leo, when you're done on the pad, pass it to me and I'll sketch the fork and build it. Also, the bell
+    (Maya held a thought)
+    (Tom held a thought)
+[   69s] 0:45 asked Maya,Tom,Leo | dominoes 9 | calls 14
+    Tom -> everyone: Fish sounds good. Priya's got the tail, so I'll back up Leo on the top line and then go over the joints for breaks. Leo, if you want me to take the far half of the top line, just say.
+    (Leo held a thought)
+    (Maya held a thought)
+[   82s] 1:00 asked Tom,Priya,Leo | dominoes 14 | calls 17
+    Tom -> Leo: Leo, you're moving nicely. Want me to pick up the top line from the far end, around the head, and work back toward you? Otherwise I'll keep an eye on the joints.
+    Priya -> everyone: Thanks Leo! The fork is already in the sketch, since the two lines spread apart at the tail end. I'm putting the pad down for anyone who needs it. Maya, I'll start on the belly line unless you already
+    (Leo held a thought)
+[   93s] 1:15 asked Maya,Tom,Priya,Leo | dominoes 19 | calls 21
+    Maya -> everyone: Priya, I've got the belly line, stroke 2. Already queued up on it and it'll start once the top line reaches the nose. Could you stay on the tail?
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  107s] 1:30 asked Tom,Priya | dominoes 24 | calls 23
+    Priya -> everyone: Got it, Maya, I'm on the tail! I'll check the joints back here while the lines get built. If the belly line's running behind, shout and I'll take the last stretch.
+    (Tom held a thought)
+[  123s] 1:45 asked Maya,Tom,Priya | dominoes 29 | calls 26
+    Tom -> everyone: Leo, the top line's holding everything up, so I'm jumping on it from where it's got to, heading round the head. Shout if we're getting in each other's way and I'll shift to checking joints.
+    (Priya held a thought)
+[  279s] 2:00 asked Tom,Priya,Leo | dominoes 31 | calls 30
+    Leo -> everyone: Thanks Tom, I'm still laying the top line and have about a dozen left to go. Please don't redo what's down. Go ahead and check the joints once it reaches the head. Priya, please keep the sketch on the
+    (Priya held a thought)
+    (Tom held a thought)
+[  289s] 2:15 asked Tom,Priya | dominoes 36 | calls 32
+    Priya -> everyone: Quick update: the tail end by the start is all connected and looks solid, and it all falls from the start as far as the head. Tom, great, you take the top line round the head. Maya, once you're partwa
+    (Tom held a thought)
+[  301s] 2:30 asked Maya,Tom | dominoes 40 | calls 34
+    Tom -> everyone: Priya, thanks. Leo's still laying the top line and asked me not to double up. Leo, once you're past the top corner, shout and I'll take the curve round the head down to the nose. Otherwise I'll stay o
+    (Maya held a thought)
+[  315s] 2:45 asked Maya,Priya,Leo | dominoes 44 | calls 37
+    Leo -> everyone: Top line's past the corner. I'll finish the last bit round the head to the nose myself, it's short. Tom, could you go help Maya on the belly, maybe from the tail end working back? Then we all check jo
+    (Priya held a thought)
+    (Maya held a thought)
+[  328s] 3:00 asked Maya,Tom,Priya | dominoes 49 | calls 40
+    Tom -> everyone: Okay Leo, I'll go help Maya on the belly. Maya, nothing's down along the bottom yet, so which stretch do you want me on? I can take the tail end of the belly line and we'll meet in the middle, or you 
+    (Priya held a thought)
+    (Maya held a thought)
+[  343s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 52 | calls 44
+    Tom -> Maya: Maya, belly's still bare. How about you start from the nose end and I'll work in from the tail end, and we meet under the belly? Shout if you'd rather I just take the whole thing.
+    Priya -> everyone: Sounds good, Leo, I'll stay off the head. Tom, nice, you take the belly from the nose side and Maya, you keep going from wherever you've got to. I'll grab the last stretch out to the tail fork once th
+    (Maya held a thought)
+    (Leo held a thought)
+[  353s] 3:30 asked Maya,Tom,Leo | dominoes 60 | calls 47
+    Leo -> everyone: Top line's done, it reaches the nose. The nose is a tight turn, so I'm adding a few dominoes to round it into the belly. Maya, Tom, start the belly just past that and it'll catch.
+    (Tom held a thought)
+    (Maya held a thought)
+[  374s] 3:45 asked Maya,Tom,Priya | dominoes 68 | calls 50
+    Tom -> everyone: Maya, the top line's reached the nose, so I'm jumping on the belly stroke now. I'll carry on from wherever it's got to. If you get ahead of me I'll just pick up behind you, and we'll meet near the tai
+    (Priya held a thought)
+    (Maya held a thought)
+[  534s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 72 | calls 55
+    Maya -> Tom: Tom, I'm already laying the belly from the nose, a dozen down. Please don't lay it from the tail, we'd get a messy joint. Go check the head and top line joints, and if I'm slow near the tail, grab the
+    Leo -> everyone: Nose is rounded. I'm checking that joint now, since everything below depends on it. Maya and Tom, keep going on the belly and I'll shout if it's broken.
+    (Tom held a thought)
+    (Priya held a thought)
+[  552s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 78 | calls 59
+    Priya -> everyone: Belly's about halfway, so I'll take the far end out to the tail. I'm adding it to the pad as a new stroke starting where the belly reaches the middle. Maya, can you carry the belly to about the middle
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  559s] 4:30 asked Maya,Tom,Leo | dominoes 85 | calls 62
+    Tom -> everyone: Okay Maya, I'll stay off the belly. Leo, I nudged the jammed domino just under the nose into line. I'm going to take a close look at that joint now. Maya, if you're slow near the tail, shout and I'll 
+    (Leo held a thought)
+    (Maya held a thought)
+[  571s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 91 | calls 66
+    Priya -> everyone: Maya, you've got the belly to about the middle, so stop there and I'll take the rest out to the tail. I'm sketching it from where your line ends and building it now. Tom, could you check the joint whe
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  580s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 97 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Sure Priya. A few more dominoes and I stop at the end of my line. Take it from there out to the tail.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  603s] 5:15 asked Tom,Priya,Leo | dominoes 109 | calls 73
+    Leo -> everyone: Heads up, the top line and belly fall toward the start, so the start only knocks over its own short stretch. I'm bridging from the end of Maya's line up into the top line, just before the dip, so the 
+    (Tom held a thought)
+    (Priya held a thought)
+[  613s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 77
+    Priya -> everyone: Leo, heads up, the tail stroke I'm laying is already running up that same spot to meet the top line, so I'll carry on and it should do the bridge for you. Can you hold off there and check the joint on
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  627s] 5:45 asked Maya,Tom,Leo | dominoes 112 | calls 80
+    Leo -> everyone: Priya, go ahead, carry on up your line. My bridge is down but the last couple of dominoes sit off to the side at the join. I'm nudging them into line right where your line ends, so just keep going and
+    (Tom held a thought)
+    (Maya held a thought)
+[  641s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 116 | calls 85
+    Maya -> everyone: Priya, you keep the bridge, I'll stay clear. I'm taking a look at where the upper tail meets the top line, since it's still pale.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  650s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 120 | calls 89
+    Leo -> everyone: Maya, I'll close the gap where the upper tail meets the dip right now. Stay on the look and shout if it's still pale after.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  658s] 6:30 asked Maya,Tom,Leo | dominoes 122 | calls 92
+    Leo -> everyone: Bridging the upper tail onto the top line now. Priya, keep going on the lower tail, and Maya, tell me if it's still pale after.
+    (Maya held a thought)
+    (Tom held a thought)
+[  668s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 96
+    Maya -> everyone: Leo, I just looked and the upper tail is still pale, about a dozen dominoes unconnected. Your bridge is going in now, so I'll keep clear. Can someone check it's dark once you're done?
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  674s] 7:00 asked Tom,Priya,Leo | dominoes 125 | calls 99
+    Leo -> everyone: Bridge into the upper tail is down. I'm checking now that it's dark. Maya, Priya, stay clear of that spot for a moment.
+    (Priya held a thought)
+    (Tom held a thought)
+[  682s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 103
+    Leo -> everyone: Still two pale ones right at the join. I'm nudging them into line now, stay clear for a moment.
+    Maya -> everyone: Got it, staying clear. From here the upper tail looks dark now. Shout if anything's still pale.
+    (Tom held a thought)
+    (Priya held a thought)
+[  689s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 107
+    Leo -> everyone: Looks like the whole fish is dark from the start now, about all of it. I'm doing one last look at the upper tail join. Everyone keep hands off the dominoes so nothing gets bumped.
+    (Priya held a thought)
+    (Tom held a thought)
+[  697s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 111
+    Leo -> everyone: Two still sit off the line right at the join. One last nudge there, then I'm hands off.
+    Maya -> everyone: Looks good to me too. Hands off, everyone, let's not bump it.
+    (Priya held a thought)
+    (Tom held a thought)
+[  703s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 115
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: It's all dark from the start, so I'm stopping here. Hands off, everyone, and let's not bump anything.
+    Tom -> everyone: Leo, go ahead, I'll stay clear of the dip. If anything's still pale after your nudge, shout and I'll fix it.
+    (Priya held a thought)
+[  710s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 119
+    Priya -> everyone: Lower tail's down and dark all the way out, so the start should take nearly everything. I'm keeping my hands off. Leo, shout if anything's still pale and I'll step in.
+    (Leo held a thought)
+[  716s] 8:30 asked Maya,Tom,Leo | dominoes 125 | calls 122
+    Leo -> everyone: Thanks Priya. It's all dark from the start, so I'm hands off now. Everyone stay clear and let the push run.
+    Tom -> everyone: Looks great, everyone. Hands off, I'll shout if I see anything pale.
+    Maya -> everyone: Looks great from here. Hands off, everyone.
+[  722s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 126
+    Priya -> everyone: Looks good to me too. Hands off, everyone, and let's watch the fish fall!
+[  727s] 9:00 asked Maya,Tom,Leo | dominoes 125 | calls 129
+    Tom -> everyone: Fingers crossed, here it comes. Hands off!
+[  733s] 9:15 asked Maya,Priya,Leo | dominoes 125 | calls 132
+    Priya -> everyone: Fingers crossed! Go fish, go!
+    Leo -> everyone: Hands off, everyone. Good luck, fish!
+[  738s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 136
+    Priya -> everyone: Not a single hand on it. Here we go!
+    Maya -> everyone: Fingers crossed, go fish!
+[  743s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 125 | calls 140
+    Priya -> everyone: Hands off, everyone. Nice work, team, that's one solid fish!
+    Tom -> everyone: Go fish, go!
+    Leo -> everyone: Here goes, hands off. Go fish!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.29,
+      "error": 0.95
+    },
+    "Tom": {
+      "speed": 0.9,
+      "error": 2.52
+    },
+    "Priya": {
+      "speed": 0.82,
+      "error": 1.2
+    },
+    "Leo": {
+      "speed": 0.98,
+      "error": 0.36
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 802.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo",
+    "Leo",
+    "Priya",
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left",
+      "leaf or teardrop shape with a forked tail",
+      "hand-drawn closed loop shaped like a fish"
+    ],
+    [
+      "fish outline",
+      "leaf with stem",
+      "bird"
+    ],
+    [
+      "fish outline",
+      "fish body with forked tail",
+      "leaf or almond shape with a tail"
+    ]
+  ],
+  "placed": 125,
+  "fell": 123,
+  "completion": 0.984,
+  "team_score": 0.984,
+  "first_domino_at": "0:30",
+  "messages": 55,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 18,
+    "Priya": 13,
+    "Tom": 12,
+    "Maya": 9
+  },
+  "held_thoughts": 71,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 157,
+    "failed": 2,
+    "input_tokens": 322,
+    "cache_creation_tokens": 800177,
+    "cache_read_tokens": 553109,
+    "output_tokens": 85187,
+    "seconds": 1507.7,
+    "api_equivalent_usd": 3.9654,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "checker",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "dominoes_fell": 40
+    },
+    "Tom": {
+      "dominoes_fell": 0
+    },
+    "Priya": {
+      "dominoes_fell": 20
+    },
+    "Leo": {
+      "dominoes_fell": 63
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

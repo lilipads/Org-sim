@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 2.04,
+      "error": 0.72
+    },
+    "Omar": {
+      "speed": 0.96,
+      "error": 1.97
+    },
+    "Hana": {
+      "speed": 2.22,
+      "error": 2.42
+    },
+    "Jack": {
+      "speed": 0.78,
+      "error": 0.46
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 440.4,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "bird in flight, seen from the side",
+      "pair of tweezers or pliers",
+      "fallen dominoes in a bent line"
+    ],
+    [
+      "a few fallen dominoes seen from above",
+      "a bird in flight, like a simple silhouette",
+      "a stray pen stroke or scribble"
+    ],
+    [
+      "a few short dark line strokes, like fallen dominoes",
+      "a simple bird or arrow shape made of thick lines",
+      "a stray handwritten squiggle or check mark"
+    ]
+  ],
+  "placed": 122,
+  "fell": 13,
+  "completion": 0.107,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 44,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 12,
+    "Hana": 9,
+    "Sofia": 18,
+    "Omar": 2
+  },
+  "held_thoughts": 74,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 143,
+    "failed": 0,
+    "input_tokens": 296,
+    "cache_creation_tokens": 718668,
+    "cache_read_tokens": 508865,
+    "output_tokens": 77524,
+    "seconds": 1083.5,
+    "api_equivalent_usd": 3.5793,
+    "cached": 1
+  },
+  "review": "team",
+  "styles": {
+    "Sofia": "organiser",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
