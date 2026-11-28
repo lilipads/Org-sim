@@ -1,0 +1,66 @@
+[
+ {
+  "game": "individual_s402",
+  "cond": "individual",
+  "seed": 402,
+  "placed": 145,
+  "fell": 130,
+  "completion": 0.897,
+  "recognition": 1.0,
+  "laid_total": 166,
+  "lifted": 21,
+  "by_kind": {
+   "trace": 166
+  },
+  "plan_dominoes_first": 129,
+  "plan_dominoes_final": 129,
+  "strokes_first": 4,
+  "strokes_final": 4,
+  "sketches_after_first_build": 0,
+  "incentive_thoughts": 4,
+  "incentive_said": 0
+ },
+ {
+  "game": "none_s402",
+  "cond": "none",
+  "seed": 402,
+  "placed": 118,
+  "fell": 118,
+  "completion": 1.0,
+  "recognition": 1.0,
+  "laid_total": 118,
+  "lifted": 0,
+  "by_kind": {
+   "trace": 118
+  },
+  "plan_dominoes_first": 132,
+  "plan_dominoes_final": 132,
+  "strokes_first": 4,
+  "strokes_final": 4,
+  "sketches_after_first_build": 0,
+  "incentive_thoughts": 0,
+  "incentive_said": 0
+ },
+ {
+  "game": "team_s402",
+  "cond": "team",
+  "seed": 402,
+  "placed": 120,
+  "fell": 105,
+  "completion": 0.875,
+  "recognition": 1.0,
+  "laid_total": 136,
+  "lifted": 0,
+  "by_kind": {
+   "trace": 132,
+   "extend": 4
+  },
+  "plan_dominoes_first": 134,
+  "plan_dominoes_final": 157,
+  "strokes_first": 4,
+  "strokes_final": 6,
+  "sketches_after_first_build": 2,
+  "incentive_thoughts": 0,
+  "incentive_said": 0
+ }
+]

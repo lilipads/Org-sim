@@ -1,0 +1,138 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 35,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0,
+   "supplied": 0
+  },
+  "Omar": {
+   "sound_work": 23,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 2,
+   "supplied": 0
+  },
+  "Hana": {
+   "sound_work": 51,
+   "fixes": 4,
+   "open_breaks_owned": 1,
+   "destroyed": 0,
+   "took_over": 21,
+   "planning": 1.0,
+   "redundant": 0,
+   "supplied": 0
+  },
+  "Jack": {
+   "sound_work": 0,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0,
+   "supplied": 0
+  }
+ },
+ "open_breaks": [
+  {
+   "from": 117,
+   "to": 154,
+   "owner": "Hana",
+   "stranded": 12,
+   "dir": 26.1,
+   "piece": [
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    154,
+    163,
+    164,
+    165
+   ],
+   "at": [
+    24.8,
+    12.5
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "clock": "1:45",
+   "who": "Hana",
+   "at": [
+    7.6,
+    7.1
+   ]
+  },
+  {
+   "clock": "2:15",
+   "who": "Hana",
+   "at": [
+    14.4,
+    5.7
+   ]
+  },
+  {
+   "clock": "4:00",
+   "who": "Hana",
+   "at": [
+    21.3,
+    9.9
+   ]
+  },
+  {
+   "clock": "5:15",
+   "who": "Hana",
+   "at": [
+    27.3,
+    10.7
+   ]
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 35.0,
+   "Omar": 23.0,
+   "Hana": 66.0,
+   "Jack": 0.0
+  },
+  "10": {
+   "Sofia": 35.0,
+   "Omar": 23.0,
+   "Hana": 81.0,
+   "Jack": 0.0
+  },
+  "20": {
+   "Sofia": 35.0,
+   "Omar": 23.0,
+   "Hana": 111.0,
+   "Jack": 0.0
+  }
+ },
+ "runners": [],
+ "contribution": {
+  "Sofia": 35.0,
+  "Omar": 23.0,
+  "Hana": 81.0,
+  "Jack": 0.0
+ },
+ "with_planning": {
+  "Sofia": 35.0,
+  "Omar": 23.0,
+  "Hana": 108.2,
+  "Jack": 0.0
+ }
+}

@@ -101,6 +101,8 @@ def main():
     print("|---|---|---|---|---|---|---|---|---|---|---|---|---|")
     for c in CONDS:
         gs = by[c]
+        if not gs:
+            continue
         m = lambda f: round(st.mean(f(g) for g in gs), 1)  # noqa: E731
         print(f"| {c} | {len(gs)} | {m(lambda g: g['laid_total'])} | " +
               " | ".join(str(m(lambda g, k=k: g['by_kind'].get(k, 0))) for k in kinds[:5]) +

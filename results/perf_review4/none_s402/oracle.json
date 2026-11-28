@@ -1,0 +1,88 @@
+{
+ "people": {
+  "Sofia": {
+   "sound_work": 29,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0,
+   "supplied": 0
+  },
+  "Omar": {
+   "sound_work": 29,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0,
+   "supplied": 0
+  },
+  "Hana": {
+   "sound_work": 27,
+   "fixes": 1,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 1.0,
+   "redundant": 0,
+   "supplied": 0
+  },
+  "Jack": {
+   "sound_work": 29,
+   "fixes": 0,
+   "open_breaks_owned": 0,
+   "destroyed": 0,
+   "took_over": 0,
+   "planning": 0.0,
+   "redundant": 0,
+   "supplied": 0
+  }
+ },
+ "open_breaks": [],
+ "fixes": [
+  {
+   "clock": "1:45",
+   "who": "Hana",
+   "at": [
+    9.8,
+    5.7
+   ]
+  }
+ ],
+ "weights": {
+  "5": {
+   "Sofia": 29.0,
+   "Omar": 29.0,
+   "Hana": 32.0,
+   "Jack": 29.0
+  },
+  "10": {
+   "Sofia": 29.0,
+   "Omar": 29.0,
+   "Hana": 37.0,
+   "Jack": 29.0
+  },
+  "20": {
+   "Sofia": 29.0,
+   "Omar": 29.0,
+   "Hana": 47.0,
+   "Jack": 29.0
+  }
+ },
+ "runners": [],
+ "contribution": {
+  "Sofia": 29.0,
+  "Omar": 29.0,
+  "Hana": 37.0,
+  "Jack": 29.0
+ },
+ "with_planning": {
+  "Sofia": 29.0,
+  "Omar": 29.0,
+  "Hana": 65.5,
+  "Jack": 29.0
+ }
+}
