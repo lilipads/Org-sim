@@ -333,3 +333,18 @@ Readings (6 games per condition, directions not measurements):
   system, against how the oracle's measure moves.
 * Scripted check fixed: its break finder now follows the way the run actually falls (oracle's), and repairs
   use connect, done by one person once the lines are down.
+
+### 13.1 Vetting pilot v2 (seed 409, 6 games: manager / peer / individual x Tom builder / glue)
+
+* **Bug:** adding the glue style put it into the style rotation, so Maya was "glue" in every game and the
+  pair differed in more than Tom. Fixed (glue is only set by hand). The pilot can't be used for the paired
+  comparison.
+* **Seams work:** every game had seam gaps, and players made 10-20 joins per game (connect and fix).
+* **Oracle missed joins:** a join takes several beats and each new domino moves where the gap starts, so the
+  same gap never went from open to closed by domino ids. Fixed: gaps are matched by place, credit goes to
+  whoever laid most at that spot in the last minute, and only if the spot falls at the push. Now 2-3 fixes
+  per person in glue games.
+* **Self-assessments still self-critical** with the "best light" prompt (Sonnet volunteers its failures).
+* **Peer familiarity unused:** all 12 ratings said "closely" or "somewhat", so the filter drops nothing.
+* **Glue manipulation weak:** glue-Tom still laid 82-135 dominoes.
+* **Individual output** again padded to the whole supply (about 250) and wasn't recognised (0 of 2).

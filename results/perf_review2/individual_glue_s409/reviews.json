@@ -1,0 +1,43 @@
+{
+ "condition": "individual",
+ "evaluation_text": "You're rated individually on how many of the dominoes you placed fall in the final picture. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "glue",
+  "Tom": "glue",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.48,
+   "error": 2.12
+  },
+  "Tom": {
+   "speed": 1.57,
+   "error": 1.65
+  },
+  "Priya": {
+   "speed": 1.49,
+   "error": 2.11
+  },
+  "Leo": {
+   "speed": 2.37,
+   "error": 1.77
+  }
+ },
+ "manager_schedule": null,
+ "ratings": {
+  "Maya": {
+   "dominoes_fell": 11
+  },
+  "Tom": {
+   "dominoes_fell": 13
+  },
+  "Priya": {
+   "dominoes_fell": 24
+  },
+  "Leo": {
+   "dominoes_fell": 43
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 772.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "tree branch with twigs",
+      "river with a tributary and a loop",
+      "thin line drawing of a fallen stick or vine"
+    ],
+    [
+      "tree branch with twigs",
+      "river with a tributary and a loop",
+      "stylized bird or fish outline"
+    ],
+    [
+      "tree branch with twigs",
+      "winding river with a loop or lake",
+      "climbing vine with tendrils"
+    ]
+  ],
+  "placed": 250,
+  "fell": 112,
+  "completion": 0.448,
+  "team_score": 0.075,
+  "first_domino_at": "0:30",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 10,
+    "Maya": 8,
+    "Priya": 11,
+    "Tom": 9
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 136,
+    "failed": 3,
+    "input_tokens": 284,
+    "cache_creation_tokens": 659710,
+    "cache_read_tokens": 439863,
+    "output_tokens": 78181,
+    "seconds": 1413.5,
+    "api_equivalent_usd": 3.3258,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "builder",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "dominoes_fell": 25
+    },
+    "Tom": {
+      "dominoes_fell": 40
+    },
+    "Priya": {
+      "dominoes_fell": 27
+    },
+    "Leo": {
+      "dominoes_fell": 20
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

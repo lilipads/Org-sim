@@ -210,33 +210,47 @@ def compute(log: dict, weights=(FIX_W,)) -> dict:
     breaks_owned = {n: sum(1 for b in open_breaks if b["owner"] == n) for n in names}
     padding = {n: sum(1 for i in redundant if final.dominoes[i].builder == n) for n in names}
 
-    # fixes: breaks present at one beat and crossed at the next, by a local test, still crossing at the push
+    # fixes, by location: a gap that existed at the previous beat is gone, and there's no gap there at the
+    # push; credit goes to whoever laid the most dominoes at that spot over the last few beats (joins take
+    # several beats, and each new domino moves where the gap starts, so gaps are matched by place, not id)
     fixes = {n: 0 for n in names}
     fix_log = []
-    prev = None
-    for k, t in enumerate(turns):
+    final_fell, final_brk = fed_fall(final, plan, bumps, redundant=redundant)
+    final_spots = [b["at"] for b in final_brk]
+    fell_xy = [(final.dominoes[i].x, final.dominoes[i].y) for i in final_fell]
+    near = lambda a, b, r=1.0: (a[0] - b[0]) ** 2 + (a[1] - b[1]) ** 2 <= r * r   # noqa: E731
+    prev_spots = None
+    recent: list = []                       # (time, builder, x, y) of recent placements
+    credited: list = []
+    for t in turns:
         cur = world_from_rows(t["snapshot"])
-        if prev is not None:
-            plan_prev = on_plan(prev, plan_pts)
-            _, brk = fed_fall(prev, plan_prev, bumps)
-            builds = [e for e in t["events"] if e["type"] == "build"]
-            for b in brk:
-                if not crosses(cur, b["from"], b["to"], b["dir"]):
+        for e in t["events"]:
+            if e["type"] == "build":
+                for i in e.get("placed", []) + [r[0] for r in e.get("restood", [])]:
+                    if i in cur.dominoes:
+                        recent.append((t["time"], e["who"], cur.dominoes[i].x, cur.dominoes[i].y))
+        recent = [r for r in recent if r[0] >= t["time"] - 60]
+        _, brk = fed_fall(cur, on_plan(cur, plan_pts), bumps)
+        spots = [b["at"] for b in brk]
+        if prev_spots is not None:
+            for sp in prev_spots:
+                if any(near(sp, q) for q in spots) or any(near(sp, q) for q in final_spots):
+                    continue                                # still open, or open again at the push
+                if any(near(sp, c, 0.8) for c in credited):
                     continue
-                if not crosses(final, b["from"], b["to"], b["dir"]):
-                    continue                       # undone before the push
-                mx, my = b["at"]
-                who, best = None, 1e9
-                for e in builds:
-                    for i in e.get("placed", []) + [r[0] for r in e.get("restood", [])]:
-                        if i in cur.dominoes:
-                            dd = math.hypot(cur.dominoes[i].x - mx, cur.dominoes[i].y - my)
-                            if dd < best:
-                                who, best = e["who"], dd
-                if who in fixes and best <= 1.5:
-                    fixes[who] += 1
-                    fix_log.append({"clock": t["clock"], "who": who, "at": b["at"], "gap_owner": b["owner"]})
-        prev = cur
+                if not any(near(sp, q, 0.8) for q in fell_xy):
+                    continue                                # the gap went away because the piece was lifted
+                count: dict = {}
+                for (_, who, x, y) in recent:
+                    if near(sp, (x, y), 1.5):
+                        count[who] = count.get(who, 0) + 1
+                if count:
+                    who = max(count, key=count.get)
+                    if who in fixes:
+                        fixes[who] += 1
+                        credited.append(sp)
+                        fix_log.append({"clock": t["clock"], "who": who, "at": sp})
+        prev_spots = spots
 
     # destruction: someone else's dominoes lifted, sound at the time, where nothing sound stands at the push
     destroyed = {n: 0 for n in names}

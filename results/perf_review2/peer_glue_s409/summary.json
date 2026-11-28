@@ -1,0 +1,131 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 503.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a fish outline drawn as a line, with a tail on the left and the crossing at the body's end",
+      "a loop of rope or ribbon with a crossed knot",
+      "a lowercase letter or stroke sketch, such as a cursive loop"
+    ],
+    [
+      "a fish outline with its body and tail",
+      "a looped ribbon or teardrop shape with a crossing line",
+      "a curved line of fallen dominoes seen from above"
+    ],
+    [
+      "fish outline with a tail and fins",
+      "looped ribbon or knot shape",
+      "curved line of fallen dominoes forming a fish"
+    ]
+  ],
+  "placed": 168,
+  "fell": 120,
+  "completion": 0.714,
+  "team_score": 0.714,
+  "first_domino_at": "0:45",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 18,
+    "Leo": 13,
+    "Tom": 11
+  },
+  "held_thoughts": 65,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 147,
+    "failed": 0,
+    "input_tokens": 306,
+    "cache_creation_tokens": 806049,
+    "cache_read_tokens": 478747,
+    "output_tokens": 88335,
+    "seconds": 1244.4,
+    "api_equivalent_usd": 4.0209,
+    "cached": 0
+  },
+  "review": "peer",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3.67,
+      "all_raters": 3.67,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Tom": {
+      "rating": 4.0,
+      "all_raters": 4.0,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Priya": {
+      "rating": 4.0,
+      "all_raters": 4.0,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Leo": {
+      "rating": 3.0,
+      "all_raters": 3.0,
+      "raters_used": 3,
+      "raters_total": 3
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

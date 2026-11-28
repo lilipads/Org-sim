@@ -1,0 +1,125 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "glue",
+  "Tom": "builder",
+  "Priya": "builder",
+  "Leo": "checker"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.48,
+   "error": 2.12
+  },
+  "Tom": {
+   "speed": 1.57,
+   "error": 1.65
+  },
+  "Priya": {
+   "speed": 1.49,
+   "error": 2.11
+  },
+  "Leo": {
+   "speed": 2.37,
+   "error": 1.77
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "Laid the start and the top line reliably, then took ownership of the tricky bottom-corner break at the tail and checked the fall carried round, though I only saw that work from across the table."
+   },
+   "Priya": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "Built the bottom line cleanly so it was ready for the join, stayed out of the crowded tail area, and asked sensible questions about the strays, though I mostly saw her work via what she reported."
+   },
+   "Leo": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "Proposed the fish and laid the tail, and was careful about not clearing live dominoes, but some of his join dominoes strayed and his flag of a jammed domino at the top of the tail turned out to be misplaced."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "Maya sketched the fish plan, took the joins at the tail and floated to help, and she checked the jammed spot before touching anything, though I mostly saw her work from across the table."
+   },
+   "Priya": {
+    "rating": 4,
+    "familiarity": "closely",
+    "why": "Priya laid the bottom line cleanly, stayed out of the crowded tail, and gave me useful advice about rounding the bottom corner, which helped the fall carry through."
+   },
+   "Leo": {
+    "rating": 4,
+    "familiarity": "closely",
+    "why": "Leo got the fish going quickly, drew the tail and cleaned up his stray dominoes carefully, but his stray join dominoes and the mistaken jammed-spot flag cost the team some time."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "Maya sketched the fish plan, took the bottom join and kept checking the top of the tail, then correctly called off the unneeded 'jammed domino' fix, though I mostly saw this from across the table."
+   },
+   "Tom": {
+    "rating": 4,
+    "familiarity": "closely",
+    "why": "Tom laid the start and the top line, did the top join, and took on the hard bottom-corner break of the tail, bridging and nudging it until it carried, communicating clearly throughout."
+   },
+   "Leo": {
+    "rating": 4,
+    "familiarity": "closely",
+    "why": "Leo suggested the fish and built the tail, and was careful and honest about cleaning up his stray join dominoes and correcting his own mistaken 'jammed' flag, though those strays and that false alarm cost some time."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "familiarity": "somewhat",
+    "why": "She sketched the fish quickly, took on the joins at the tail, and when I wrongly flagged a jammed domino she checked it and told the table plainly it was fine, which kept the tail from being disturbed."
+   },
+   "Tom": {
+    "rating": 5,
+    "familiarity": "closely",
+    "why": "He laid the start and the whole top line, did the top join himself, and found and bridged the wide gap at the bottom of the tail, reporting each step clearly."
+   },
+   "Priya": {
+    "rating": 4,
+    "familiarity": "somewhat",
+    "why": "She laid the bottom line cleanly, told us when it was ready for the join, and held off clearing the strays until they were checked, but her part was smaller than Tom's or Maya's."
+   }
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

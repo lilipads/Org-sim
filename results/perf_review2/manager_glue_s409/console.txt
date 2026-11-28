@@ -1,0 +1,283 @@
+[   30s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Let's do a fish: the body outline plus a forked tail, so it reads at a glance. I'm sketching it now. Start's at the nose on the left. I'll take the top line. Maya, can you take the bottom line, and To
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   42s] 0:15 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 8
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! We're doing a left-facing fish with a forked tail. The sketch is on the pad now. Maya, bottom line is yours. Tom, upper tail. Leo, lower tail. I'm on the top line.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  198s] 0:30 asked Maya,Tom,Leo | dominoes 19 | calls 13
+    Maya -> everyone: Fish works for me. I've got the bottom line, stroke 2. Priya, you've got the start and the top line. Mine branches off the nose, so the start feeds both. I'll check the joins at the tail once things a
+    (Leo held a thought)
+    (Tom held a thought)
+[  205s] 0:45 asked Priya | dominoes 40 | calls 14
+    Priya -> everyone: Yep, I've got the start and the top line, going now. Maya, shout if your branch at the nose needs anything.
+[  215s] 1:00 asked Maya,Leo | dominoes 54 | calls 16
+    Maya -> Priya: All good on my side, keep going. I'll check the nose join once my line's down.
+    Leo -> everyone: Lower tail's down. I'll watch the crossing where the tail meets the body and make the joins once the body lines get there. Shout if you want a hand on the body.
+[  248s] 1:15 asked Tom,Priya,Leo | dominoes 60 | calls 21
+    Priya -> Maya: Thanks Maya, still going on the top line. Once it's further along I'll check the nose join, so shout if you see it stuck first.
+    Tom -> everyone: Upper tail's down. I'm going to look at the nose, because the start only seems to reach a few dominoes and I think Priya's top line isn't joined to it yet.
+    (Leo held a thought)
+[  281s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 90 | calls 26
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Thanks Tom, good catch. Yes please, join the end of the start's run at the nose to the first domino of my top line, where you're pointing. I'll keep laying the rest of the top line and check the whole
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  292s] 1:45 asked Tom,Leo | dominoes 107 | calls 28
+    Leo -> everyone: Both tail pieces are up. I'm taking the back half of the body lines now, from the crossing coming forward. Priya, Maya, tell me where you've stopped and I'll make the joins.
+    (Tom held a thought)
+[  302s] 2:00 asked Maya,Tom,Priya | dominoes 123 | calls 31
+    Maya -> Leo: Leo, I'm just past the nose on the bottom line, heading down and right, so there's a long stretch left before the crossing. Come forward along the bottom from the tail and I'll meet you in the middle,
+    Priya -> Leo: Leo, my top line's laid out past the highest bit of the back, and I've got a few more to go down toward the tail crossing. I'll keep going and tell you when I'm there. If you can, make the join from m
+    Tom -> everyone: Join didn't take at the nose, so I'm nudging it again. I'll check that the fall really goes up into Priya's line.
+[  331s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 145 | calls 36
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> Maya: Maya, I'm coming along the bottom from the tail toward you now. Tell me when you can see my end and I'll join us up.
+    Tom -> everyone: Nudge didn't hold at the nose, so I'm bridging it properly from the end of the start run up to the second domino of Priya's top line. Priya, I'm leaving your line alone. Once it's in I'll check that t
+    (Priya held a thought)
+    (Maya held a thought)
+[  337s] 2:30 asked Maya,Priya | dominoes 156 | calls 38
+    Maya -> Leo: Leo, I can't quite see your end yet, I'm still a good stretch short of you. Keep coming forward and I'll make the join once we're a few dominoes apart. Bottom line's connected to the start, by the way
+    Priya -> everyone: Almost done with the top line, just one left. Thanks Tom for staying on the nose. Once I'm done I'll check the fall really climbs into my line, and if it doesn't take I'll lay a connect there myself.
+[  348s] 2:45 asked Tom,Priya,Leo | dominoes 177 | calls 41
+    Leo -> Maya: Maya, I can see your end now. I'm laying the join from your last domino across to mine, so you can leave that gap and carry on elsewhere.
+    Priya -> everyone: Top line's done. I'm checking the nose now to see whether the fall climbs into it. Tom, I'll leave your bridge alone unless it's still open.
+    (Tom held a thought)
+[  375s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 182 | calls 46
+    Maya -> Leo: Thanks Leo, that works. Your bump knocked a few down right by your end, so can you stand those back up before you lay the join? I'll keep going on my line.
+    Priya -> everyone: Nose is still open, the top line isn't catching. I'm laying a connect from the start run up into the first domino of the top line now. Tom, keep your hands clear of that spot for a moment so we don't 
+    (Tom held a thought)
+    (Leo held a thought)
+[  388s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 205 | calls 50
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Tom -> everyone: Nose looks live now, the top line's gone dark all the way along. Tail's still pale though, so I'm going to look at the crossing and see what's missing there. Leo, tell me if you're already on it.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  398s] 3:30 asked Tom,Leo | dominoes 226 | calls 52
+    Leo -> everyone: Tom, I'm still finishing the bottom join, so the crossing's yours. The top line's dark right up to it. It looks like the upper tail pieces just aren't joined in, so connect the end of the top line int
+    (Tom held a thought)
+[  404s] 3:45 asked Tom | dominoes 236 | calls 53
+    Tom -> everyone: Crossing join's in. I'm having a close look at the upper tail now to see if the fall climbs all the way out to the tip.
+[  414s] 4:00 asked Tom,Priya | dominoes 226 | calls 55
+    Tom -> everyone: Upper tail came out jammed in a few places, so I'm lifting it and laying it again. It's my piece, so nobody else needs to touch it. Leo, once it's down, could you check the tip where it turns back tow
+    (Priya held a thought)
+[  593s] 4:15 asked Priya,Leo | dominoes 237 | calls 59
+    Leo -> Tom: Tom, on it. I'm looking at the tail tip now and I'll tell you what I see once you've got it down. I'll leave your piece alone.
+    Priya -> everyone: Crossing connect is in, but the lower tail piece still isn't catching. I'm nudging that join now. Tom, you stay on the upper tip. Leo, shout if you're already on the lower tail.
+[  606s] 4:30 asked Tom,Priya,Leo | dominoes 245 | calls 62
+    Leo -> everyone: Priya, the lower tail's mine and it looks live already. It's dark right round to the tip, so I'd leave that join alone. The pale bits just below the crossing are a stray branch that isn't connected to
+    (Priya held a thought)
+    (Tom held a thought)
+[  619s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 245 | calls 66
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Status: the fish is up and most of it's live. The nose is connected, the top and bottom lines are dark all the way to the crossing, and the lower tail is catching. I'm laying the last couple of domino
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  634s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 246 | calls 70
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Upper tail's laid again and dark most of the way round. There's a small break near the tip where the fork turns back, so I'm fixing just that spot with my last few dominoes. Leo, tell me what you see 
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  643s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 246 | calls 74
+    Leo -> everyone: Tom, from my side the notch is the last open bit: a few dominoes jammed or off to the side, and two line ends with nothing ahead of them. Finish your fix and I'll look it over and close any small gaps
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  657s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 78
+    Tom -> everyone: Fix at the tip didn't need anything, but the little pale pair in the middle of the notch isn't joined. I'm bridging the fork into it with my last few dominoes. Leo, please look over the notch once it'
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  669s] 5:45 asked Maya,Priya,Leo | dominoes 246 | calls 81
+    Priya -> everyone: Tom, I'm clearing the little stray bit under the body, in the middle. It's not connected to anything, so that frees up a few dominoes for the notch. Shout if you need more.
+    (Leo held a thought)
+    (Maya held a thought)
+[  697s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 86
+    Maya -> everyone: Tom, I'll lay that small join from the fork into the pale pair in the notch now, so you can leave it. Stay off that spot for a few seconds so we don't bump. Then I'll check the notch again.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  710s] 6:15 asked Tom,Priya,Leo | dominoes 250 | calls 89
+    Tom -> everyone: Thanks Maya, that's yours, I'm stepping off the notch now. Leo, give it a look once her join's in. I'll keep my hands clear.
+    (Priya held a thought)
+    (Leo held a thought)
+[  717s] 6:30 asked Maya,Priya,Leo | dominoes 250 | calls 92
+    Leo -> everyone: Thanks Maya, the notch is yours and I'll keep my hands off it. Priya, clearing that stray was fine. Shout when the join's in and I'll look it over and close any small gap.
+[  725s] 6:45 asked Maya,Tom,Priya | dominoes 250 | calls 95
+    Priya -> everyone: Maya, I just looked over the notch. There are two open ends there, one in the middle pointing left and one just below it pointing down-left. Those are the ones to join. I'm staying off it. I've got fo
+    (Maya held a thought)
+[  733s] 7:00 asked Maya,Tom,Leo | dominoes 250 | calls 98
+    Maya -> everyone: Thanks Priya, that's the same join I'm laying now, a bit over a third down. Yes please, send those spare dominoes my way, I'll need them. Once it's done I'll take the lower open end next, then look it
+[  743s] 7:15 asked Tom,Priya,Leo | dominoes 250 | calls 101
+    Priya -> Maya: Maya, they're back in the shared pile now, so grab what you need. I'll keep clear of the notch. Shout when the join's in and I'll give it one more look.
+    Tom -> everyone: Crossing check turned up one domino sitting off to the side just past the middle of the crossing. It's my join, so I'm nudging that into line. Notch is still Maya's, I'm keeping clear.
+    (Leo held a thought)
+[  750s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 105
+    Leo -> everyone: Thanks Maya, I'll stay clear of the notch. Once your join's in I'll fix the jammed ones, one on the upper tail and one just below the notch. Shout when it's done.
+    (Maya held a thought)
+    (Tom held a thought)
+[  764s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 110
+    Tom -> everyone: Crossing still has one domino sitting off to the side, so I'm nudging it into line once more. Still keeping off the notch.
+    (Maya held a thought)
+[  777s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 244 | calls 114
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Maya, two minutes left. How far along is the notch join? As soon as you step off, I'll fix the jammed domino on the upper tail and the one just below the notch. If you'd rather I go now on the upper t
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  787s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 245 | calls 118
+    Maya -> everyone: Got the spares, thanks Priya. Join's nearly in, five dominoes to go, then the lower open end. Leo, stay clear of the notch for now, I'll shout when it's done. Go ahead on the upper tail jam though.
+    (Tom held a thought)
+    (Leo held a thought)
+[  795s] 8:30 asked Tom,Priya,Leo | dominoes 248 | calls 121
+    Leo -> everyone: Going on the upper tail jam now, staying well clear of the notch. Maya, shout when your join's in and I'll do the one below it.
+    (Tom held a thought)
+[  803s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 249 | calls 125
+    Tom -> everyone: Crossing's holding, the little jam there is minor and the fall should carry through. I'm out of dominoes and staying off the notch. Maya, shout if you need a hand.
+    (Leo held a thought)
+[  815s] 9:00 asked Maya,Priya,Leo | dominoes 250 | calls 128
+    Maya -> everyone: Upper notch join's in. I'm on the lower open end now but the pile's almost empty. Priya, Leo, anything stray and pale you can lift, like the bits out past the tail on the right, send those dominoes my
+    (Leo held a thought)
+[  825s] 9:15 asked Tom,Priya,Leo | dominoes 245 | calls 131
+    Leo -> everyone: Maya, I'm lifting the pale strays out past the tail on the right now, so those dominoes go back to the pile for you. The upper tail jams are done.
+    (Priya held a thought)
+    (Tom held a thought)
+[  834s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 247 | calls 135
+    Priya -> Maya: Maya, I lifted two strays out past the tail, they're back in the pile for you. I'm staying off the notch.
+    Tom -> everyone: Maya, I lifted the stray at the top right of the tail, so those dominoes are in the pile for you. I'm staying clear of the notch.
+    (Maya held a thought)
+[  839s] 9:45 asked Maya,Priya,Leo | dominoes 248 | calls 138
+    Maya -> everyone: Thanks both, got the dominoes. Last join's going in now, please keep off the notch.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 917.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish",
+      "whale or dolphin",
+      "bird"
+    ],
+    [
+      "fish",
+      "bird",
+      "lizard or other creature"
+    ],
+    [
+      "a fish with a pointed tail and fins",
+      "a bird, such as a duck or swan, in side view",
+      "a cartoon creature or animal with a looped head"
+    ]
+  ],
+  "placed": 248,
+  "fell": 199,
+  "completion": 0.802,
+  "team_score": 0.802,
+  "first_domino_at": "0:30",
+  "messages": 59,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 14,
+    "Manager": 5,
+    "Maya": 11,
+    "Leo": 13,
+    "Tom": 13
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 160,
+    "failed": 2,
+    "input_tokens": 328,
+    "cache_creation_tokens": 888663,
+    "cache_read_tokens": 493636,
+    "output_tokens": 99146,
+    "seconds": 1663.6,
+    "api_equivalent_usd": 4.4568,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Priya, Tom and Leo all name her as owner of the notch, and her bottom line matches the picture, so her claims are credible. But the notch she owned was the last open spot and was not confirmed closed. She also spent her final minutes on a small piece and raised the supply problem late."
+    },
+    "Tom": {
+      "rating": 4,
+      "why": "His upper tail loop is dark, which backs his claim to it, and his public updates were specific and self-correcting. He flagged the disconnected start early and sought Leo's checks. Against that, the pale fork-tip pieces were still unconnected, the notch bridge was unproven, and he spent his whole domino allowance before the notch."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "She set the plan (the other three describe working from it) and laid the top line. Tom's account and the picture both back her nose connect, and her 197/245 estimate is plausible. She was honest about her duplicated nudge, though she was quiet in the open channel and never tested the fall."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "His reads of the notch, body and lower tail matched the picture and kept effort off parts that already worked. Maya's account of the join in the middle backs his bottom-line work. But he clipped his own join, waited on Tom, and left pale leftovers in the lower-left and lower tail with no clear owner."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,260 @@
+[   34s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, since the outline with a tail fin is easy to read. I've sketched it on the pad. I'll take the lead-in and the top line, someone grab the bottom line, and someone the tail.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[   45s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 8
+    Maya -> everyone: Pad's still blank on my end, so I just drew the fish: lead-in, top, bottom, tail. Leo, you've got the lead-in and top, I'll do the bottom line, and Tom or Priya can grab the tail?
+    (Priya held a thought)
+    (Tom held a thought)
+[   56s] 0:30 asked Tom,Priya,Leo | dominoes 20 | calls 11
+    Priya -> everyone: Pad looks good now, thanks Maya. I don't see anyone on the lead-in yet, so I'll lay that to get the start down, then take the tail. Leo, you can jump on the top line.
+    (Tom held a thought)
+    (Leo held a thought)
+[   66s] 0:45 asked Maya,Priya,Leo | dominoes 32 | calls 14
+    Leo -> everyone: Priya, the start and lead-in are already down, I'm partway along it and carrying straight on into the top line. So you can head to the tail instead.
+    (Priya held a thought)
+    (Maya held a thought)
+[   75s] 1:00 asked Priya | dominoes 55 | calls 15
+    Priya -> everyone: Looks like Tom's already on the tail, so I'll stay off everyone's strokes. I'm going to check the joint at the back of the body where the top and bottom lines meet the tail. Leo, Maya, shout if you wa
+[   85s] 1:15 asked Maya,Tom,Priya,Leo | dominoes 77 | calls 19
+    Leo -> Priya: Priya, yes please. The end of the lead-in has a gap before where the top line and the bottom line both start. Can you connect those two joins? I'll keep going along the top.
+    Maya -> everyone: Thanks Priya, yes please. Could you join the end of the lead-in to the start of both the top and bottom lines? There's a small gap on each. I'll keep going along the bottom.
+    (Tom held a thought)
+    (Priya held a thought)
+[   89s] 1:30 asked Priya | dominoes 90 | calls 20
+    Priya -> everyone: On it, I'm closing both joins at the end of the lead-in now.
+[  100s] 1:45 asked Tom,Leo | dominoes 107 | calls 22
+    Leo -> everyone: I'm joining the end of the top line across to the tail now. Maya, the bottom line needs the same join when you get there.
+    (Tom held a thought)
+[  108s] 2:00 asked Maya,Tom,Leo | dominoes 116 | calls 25
+    Maya -> everyone: Got it, Leo. I'm still laying the bottom line, and I'll join it into the tail as soon as it reaches the back of the body.
+    (Tom held a thought)
+[  117s] 2:15 asked Tom,Leo | dominoes 124 | calls 27
+    Leo -> everyone: Top line still isn't joined to the lead-in, so I'm bridging that now. Maya, your line looks connected, nice.
+    (Tom held a thought)
+[  133s] 2:30 asked Maya,Tom,Leo | dominoes 102 | calls 31
+    Maya -> everyone: Thanks Leo. I'm still laying the bottom line, I'll join it into the tail once it reaches the back of the body.
+    (Tom held a thought)
+[  144s] 2:45 asked Tom,Priya,Leo | dominoes 130 | calls 34
+    Priya -> everyone: I'm taking a close look at the joint where the top line leaves the lead-in. It's still not catching.
+    (Leo held a thought)
+    (Tom held a thought)
+[  153s] 3:00 asked Priya,Leo | dominoes 141 | calls 36
+    Leo -> everyone: Priya, I'll look at that joint with you. The top line's still pale where it leaves the lead-in, and I think my fixes crowded it. Checking now.
+    (Priya held a thought)
+[  162s] 3:15 asked Priya,Leo | dominoes 147 | calls 38
+    Priya -> everyone: Leo, I just put a short bridge in at that joint, so hold off adding more there. I'm looking at whether it catches now.
+    (Leo held a thought)
+[  173s] 3:30 asked Priya,Leo | dominoes 153 | calls 40
+    Priya -> everyone: Leo, thanks for clearing that junk. I'll put one clean join from the end of the lead-in to the first domino of the top line, and then I'll stay off it.
+    (Leo held a thought)
+[  200s] 3:45 asked Tom,Priya,Leo | dominoes 156 | calls 44
+    Leo -> everyone: Okay Priya, I'll hold off. I cleared the strays up-left of the joint so there's room. Shout if it still doesn't catch and I'll pick it up from there.
+    (Tom held a thought)
+    (Priya held a thought)
+[  210s] 4:00 asked Tom,Priya | dominoes 153 | calls 46
+    Tom -> everyone: Maya, the bottom line's reached the back of the body, so I'm doing that join into the tail now. Priya and Leo, the top line end still needs its own join at the tail.
+    (Priya held a thought)
+[  369s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 163 | calls 51
+    Priya -> everyone: Tom, thanks. The patch at the lead-in is clear, so I'm laying one clean join into the top line now and then staying off it. Leo, are you on the join at the tail end of the top line?
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  381s] 4:30 asked Tom,Leo | dominoes 184 | calls 53
+    Leo -> everyone: Priya, yes, I'm on the tail end of the top line. One clean join into the tail now, and I'll stay off the front joint.
+    (Tom held a thought)
+[  391s] 4:45 asked Maya,Tom,Priya | dominoes 202 | calls 56
+    Tom -> everyone: Leo, the bottom join into the tail is catching. At the top line's end there's a bunch crammed too close where it meets the tail. It might want clearing rather than adding more. I'm just looking at it,
+    (Maya held a thought)
+[  406s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 212 | calls 60
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Leo, I'm clearing the crowded bit where the top line meets the tail, just the pale strays. Then I'll lay one clean join. Stay clear of that spot for a minute.
+    (Leo held a thought)
+    (Maya held a thought)
+[  417s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 215 | calls 64
+    Maya -> everyone: Priya, I just looked closely at that joint. A couple of dominoes right at the start of the top line are jammed too close, and one a bit further up sits off to the side of the line. Clearing those and 
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  427s] 5:30 asked Tom,Priya,Leo | dominoes 209 | calls 67
+    Priya -> everyone: Thanks Maya, I'll clear those strays right at the joint now, then lay one clean join. You could look at the top line further along.
+    (Tom held a thought)
+    (Leo held a thought)
+[  438s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 219 | calls 71
+    Maya -> everyone: Okay Priya, I'll look over the top line further along while you do the joint. Just looking for now, so I won't crowd you.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  598s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 227 | calls 76
+    Tom -> everyone: Priya, quick thought. The run leaving the lead-in there is heading straight right through the middle, not climbing up into the top line. The pale top line starts a bit higher and further along. I clea
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  610s] 6:15 asked Maya,Priya,Leo | dominoes 227 | calls 79
+    Priya -> everyone: Yes please, Tom, take that join. Mine drifted off to the right instead of climbing, so I'm stopping. I'll look over the joint and shout if it still doesn't catch.
+    (Leo held a thought)
+    (Maya held a thought)
+[  621s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 232 | calls 83
+    Leo -> everyone: Yes, Tom, please take that join. Run it up from where the dark line passes under the start of the top line, into that first pale domino. I'll stay clear and check the rest of the top line for breaks.
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  631s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 238 | calls 87
+    Tom -> everyone: On it. One clean join up into the top line now, so everyone please stay clear of that spot.
+    (Maya held a thought)
+    (Priya held a thought)
+[  641s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 238 | calls 91
+    Priya -> everyone: Thanks Tom, I'm off the joint. Shout if you want a second pair of hands. I'll look over the back half of the top line, and we should trace the whole run once more before the push.
+    (Maya held a thought)
+    (Tom held a thought)
+[  650s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 239 | calls 95
+    Tom -> everyone: Join's laid but it's not catching yet, so I'm running one more clean connect up into the top line. Please stay clear of that spot.
+    (Maya held a thought)
+[  662s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 239 | calls 99
+    Maya -> everyone: Tom, I'll stay clear while you do that. If it still isn't catching in the next minute, shout and I'll run a backup join from the dark run just past you up into the top line a bit further along.
+    (Tom held a thought)
+    (Priya held a thought)
+[  673s] 7:45 asked Tom,Priya,Leo | dominoes 249 | calls 102
+    Tom -> everyone: Still pale after my join, so I'm trying one from the dark run a bit further along, up into the top line. Maya, thanks for the backup offer. Hold it for now.
+    (Leo held a thought)
+    (Priya held a thought)
+[  681s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 249 | calls 106
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Tom, I looked at the middle of the top line and it's intact, no breaks from the front joint to the tail. So that front joint is the only thing holding it. I'm staying clear and just looking.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  692s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 244 | calls 110
+    Maya -> everyone: Tom, time's nearly gone, so I'm running that backup join further along now, a little past where you are. Stay clear of it for a few seconds.
+    (Tom held a thought)
+    (Priya held a thought)
+[  700s] 8:30 asked Tom,Priya,Leo | dominoes 246 | calls 113
+    Tom -> Maya: Maya, go ahead, I'm stopping my clearing so I don't pull up your join. I'll stay clear.
+    Priya -> everyone: Okay, Maya and Tom, you two have that join. Once it catches, everybody hands off that spot until the push so we don't knock anything.
+[  705s] 8:45 asked Maya,Tom,Leo | dominoes 249 | calls 116
+    Tom -> everyone: Got it, I'm hands off that spot until the push.
+[  711s] 9:00 asked Priya,Leo | dominoes 250 | calls 118
+[  711s] 9:15 asked - | dominoes 250 | calls 118
+[  711s] 9:30 asked - | dominoes 250 | calls 118
+[  715s] 9:45 asked Tom | dominoes 250 | calls 119
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 772.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.167,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "tree branch with twigs",
+      "river with a tributary and a loop",
+      "thin line drawing of a fallen stick or vine"
+    ],
+    [
+      "tree branch with twigs",
+      "river with a tributary and a loop",
+      "stylized bird or fish outline"
+    ],
+    [
+      "tree branch with twigs",
+      "winding river with a loop or lake",
+      "climbing vine with tendrils"
+    ]
+  ],
+  "placed": 250,
+  "fell": 112,
+  "completion": 0.448,
+  "team_score": 0.075,
+  "first_domino_at": "0:30",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 10,
+    "Maya": 8,
+    "Priya": 11,
+    "Tom": 9
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 136,
+    "failed": 3,
+    "input_tokens": 284,
+    "cache_creation_tokens": 659710,
+    "cache_read_tokens": 439863,
+    "output_tokens": 78181,
+    "seconds": 1413.5,
+    "api_equivalent_usd": 3.3258,
+    "cached": 0
+  },
+  "review": "individual",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "builder",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "dominoes_fell": 25
+    },
+    "Tom": {
+      "dominoes_fell": 40
+    },
+    "Priya": {
+      "dominoes_fell": 27
+    },
+    "Leo": {
+      "dominoes_fell": 20
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

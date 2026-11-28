@@ -50,8 +50,11 @@ STYLES = {
 }
 
 
+BASE_STYLES = ["organiser", "builder", "checker", "connector"]     # rotated; "glue" is only set by hand
+
+
 def assign_styles(names: list, seed: int) -> dict:
-    order = list(STYLES)
+    order = list(BASE_STYLES)
     k = seed % len(order)
     order = order[k:] + order[:k]
     return {n: order[i % len(order)] for i, n in enumerate(names)}

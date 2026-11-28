@@ -1,0 +1,293 @@
+[   25s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Let's do a fish, because the outline says it on its own. I'm sketching it on the pad now. I'll take the top line from the nose, and if someone grabs the bottom line and someone else the tail, we can g
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[   32s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 7
+    Maya -> everyone: Fish sounds good to me. I'll take the bottom line once it's on the pad, and I'll handle joining things up at the tail.
+    (Tom held a thought)
+    (Leo held a thought)
+[   42s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 10
+    Priya -> everyone: Fish is on the pad now. Maya, the bottom line is stroke 2. Tom or Leo, can one of you take the tail triangle, strokes 3 to 5?
+    (Leo held a thought)
+    (Tom held a thought)
+[   49s] 0:45 asked Maya,Tom,Leo | dominoes 14 | calls 13
+    Leo -> everyone: I've got the tail. Maya, bottom line's yours. Tom, can you cover the joins where the lines split?
+    Maya -> everyone: On the bottom line now. I'll check the tail join once both lines get there.
+    (Tom held a thought)
+[   60s] 1:00 asked Maya,Tom,Leo | dominoes 26 | calls 16
+    Tom -> Leo: Leo, heads up, I'm already a few dominoes into the tail triangle. Could you take the joins where the lines split instead? I'll check the tail junction once the body lines get there.
+    Maya -> everyone: Got it Leo, bottom line's mine. I'll check the tail joins once both lines get there.
+[   68s] 1:15 asked Leo | dominoes 44 | calls 17
+    Leo -> everyone: Okay Tom, tail's yours, I'll take the joins. I'm checking the nose split first, then the tail end once the body lines get there.
+[   79s] 1:30 asked Tom,Leo | dominoes 58 | calls 19
+    Leo -> Maya: Maya, quick check: is your line heading down and out under the belly? I only see dominoes along the top so far. If it's drifting up onto Priya's line, shout and I'll help sort it out.
+    Tom -> everyone: Yep, tail's mine, I'm about halfway through. Leo, joins at the splits are yours, and I'll check the tail junction once the body lines get there.
+[   91s] 1:45 asked Maya,Leo | dominoes 75 | calls 21
+    Maya -> Leo: Good catch, Leo. Mine did drift up next to Priya's line, nothing's going under the belly yet. I'm relaying the bottom line now, heading down and out. I'll shout if it looks off.
+    Leo -> Maya: Maya, I think your bottom line is curving up toward the top line near the nose, and nothing's going down under the belly. Can you redo stroke 2? If you'd rather, I'll clear the wrong bit and lay it my
+[  103s] 2:00 asked Maya,Priya,Leo | dominoes 75 | calls 24
+    Maya -> Leo: You're right, Leo, thanks. I'm redoing stroke 2 now from scratch, and I've got it. If it still looks off, shout.
+    Priya -> Maya: Maya, quick check: I'm seeing two lines going up from the start and nothing underneath yet. The bottom line should swing down below the start, toward where you were pointing. Can you look at it?
+    Leo -> Maya: Maya, I'm going to lay the bottom line myself right now so we don't lose time. Your hands are still up top, so you can leave it. Could you check the top line is clean near the nose and then help at th
+[  117s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 91 | calls 28
+    Maya -> Leo,Priya: Leo, thanks, but my redo's already running, so please don't lay the same line or we'll collide. Give me a little while, then look at whether it's swinging down under the belly. If it's still wrong, yo
+    Leo -> Maya: Maya, scratch what I said, you've got the bottom line, I'll stay off it. I'm doing the tail joins now.
+    Priya -> everyone: Maya, I'll lay the bottom line myself so you don't have to redo it. Can you switch to the joins at the tail end? Leo, the nose split is yours.
+    (Tom held a thought)
+[  127s] 2:30 asked Maya,Priya,Leo | dominoes 98 | calls 31
+    Maya -> everyone: Okay Priya, you take the bottom line, mine keeps curving up so I'm stopping. Use the redo on stroke 2 so it relays cleanly. I'll go check the tail joins with Leo.
+    (Priya held a thought)
+    (Leo held a thought)
+[  141s] 2:45 asked Maya,Priya,Leo | dominoes 99 | calls 34
+    Priya -> everyone: Thanks Maya, no worries about the crossed wires. I've got the bottom line and I'm relaying it now. You and Leo take the tail joins, and shout if the belly still looks off.
+    (Leo held a thought)
+    (Maya held a thought)
+[  158s] 3:00 asked Maya,Leo | dominoes 108 | calls 36
+    Maya -> everyone: Heads up, there's a stray line dropping down from the tail junction that isn't on the pad, and a pale loop beside it. It would fall and mess up the fish. I'm clearing the lower part now, below the tai
+    (Leo held a thought)
+[  169s] 3:15 asked Tom,Priya,Leo | dominoes 110 | calls 39
+    Leo -> everyone: Maya, thanks, I'll stay off the lower part while you clear it. My joins at the tail mostly didn't fit because it's crowded there, so I'm taking a close look at the junction before I add anything.
+    (Tom held a thought)
+    (Priya held a thought)
+[  182s] 3:30 asked Maya,Tom,Leo | dominoes 118 | calls 42
+    Leo -> everyone: Tom, Maya, I'm joining the top line end into the upper tail arm now. Maya, once the stray drop is gone, I'll join the lower arm too. Tom, is that low arm start by the bottom of the tail yours? It look
+    (Maya held a thought)
+    (Tom held a thought)
+[  195s] 3:45 asked Maya,Tom,Leo | dominoes 117 | calls 45
+    Tom -> everyone: Leo, yes, the low arm is mine, sorry it's jammed. That stray drop crosses it, so I'm lifting just that patch below the junction and I'll relay the arm cleanly after. I'm staying off the junction itsel
+    (Maya held a thought)
+[  206s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 137 | calls 49
+    Tom -> Maya: Maya, thanks, but I've got this patch below the junction. Can you leave it to me so we're not lifting the same dominoes? I'll relay the low arm as soon as it's clear.
+    Maya -> everyone: Stray bit's gone. Leo, upper arm is yours. I'm joining the end of the belly line up into the tail junction now, just that last gap. Tom, shout when the low arm is relaid and I'll check it connects.
+    (Priya held a thought)
+    (Leo held a thought)
+[  215s] 4:15 asked Maya,Tom,Leo | dominoes 120 | calls 52
+    Leo -> everyone: Thanks Maya, the belly end into the junction is yours, I'm dropping my fix there. I'm finishing the nose split join for the belly line and the upper arm, and I'm staying off the low arm.
+    (Maya held a thought)
+    (Tom held a thought)
+[  223s] 4:30 asked Maya,Leo | dominoes 127 | calls 54
+    Maya -> everyone: Tom, got it, I'm off your patch. Just finishing the belly join into the junction, then I'll check your low arm once it's down.
+[  235s] 4:45 asked Tom,Leo | dominoes 136 | calls 56
+    Tom -> everyone: Maya, the low arm is down now, it runs from the junction out to the bottom of the tail. Can you check it meets your belly join? I'm going to have a look at the tail end to see if the upright piece is 
+    (Leo held a thought)
+[  246s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 137 | calls 60
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> Tom: On it, Tom. Belly join is in, so I'm looking at where the low arm picks up from the junction.
+    Tom -> everyone: The upright at the back of the tail isn't down yet, so I'm laying it now, from the top tip down to the bottom tip. It's well away from the junction. Maya, Leo, can one of you check the belly join and 
+    (Leo held a thought)
+    (Priya held a thought)
+[  265s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 135 | calls 65
+    Tom -> Maya: Thanks Maya. The low arm runs from the junction down to the bottom tip of the tail. I'm still laying the upright, and once it's done I'll check it joins both arm tips.
+    Priya -> everyone: Body's all falling from the start. I'm nudging the low arm where it sits a bit off line, just below the junction. Maya, Leo, shout if you're already on it. The pale leftovers by the junction aren't co
+    (Leo held a thought)
+    (Maya held a thought)
+[  273s] 5:30 asked Maya,Priya,Leo | dominoes 139 | calls 68
+    Maya -> everyone: Tom, the low arm runs all the way out and is connected. Priya's nudging one domino on it. Your upright is yours, I'm staying off it. I'll look over the tail join now.
+    (Leo held a thought)
+    (Priya held a thought)
+[  285s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 150 | calls 72
+    Maya -> Tom: Tom, quick look at the upright: it's leaning off to the upper right, and it should drop straight down from the top tip of the tail. Also the top arm runs a little past the tip. Want me to clear that o
+    Priya -> everyone: I looked closely at the tail junction. The arms are connected, and the pale bits there are just leftovers. Tom, once your upright is down I'll join the top arm end into it, so keep going.
+    (Tom held a thought)
+    (Leo held a thought)
+[  297s] 6:00 asked Maya,Tom,Leo | dominoes 148 | calls 75
+    Tom -> everyone: Thanks Maya, good catch. Yes please, clear the overshoot on the top arm. I'm finishing this join at the top tip, then I'll relay the upright so it drops straight down from there. Priya, hold off on jo
+    (Leo held a thought)
+    (Maya held a thought)
+[  307s] 6:15 asked Maya,Tom,Priya | dominoes 148 | calls 78
+    Maya -> Tom: Okay Tom, I'm lifting just the overshoot past the tip on the top arm. Not touching your upright or the join at the top.
+    Tom -> Leo: Leo, hold on, those dominoes you're lifting below the junction are part of my low arm. Can you leave them? If they're strays from the old loop, tell me which ones. I'll patch whatever's missing once m
+    Priya -> Tom: Got it Tom, I'm holding off. Shout when the upright's straight and I'll join the top arm in right away.
+[  316s] 6:30 asked Maya,Tom,Leo | dominoes 156 | calls 81
+    Leo -> everyone: Tom, that was me, sorry. I lifted eight just below the junction thinking they were pale strays from the old loop. I'm done and won't touch anything else there. I'm looking at the low arm now to see ex
+    (Maya held a thought)
+    (Tom held a thought)
+[  329s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 161 | calls 85
+    Priya -> everyone: Leo, thanks for owning it. The low arm stops short of the bottom of the tail, so I'll extend it out from where it ends right now. Tom, stay on your upright, and Leo, no need to patch it too. I'm still
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  337s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 150 | calls 89
+    Tom -> everyone: Thanks Leo, easy mistake in a crowded spot. Priya, the low arm is yours, I'll stay off it. My join at the top tip is done, so I'm relaying the upright straight down from there now. I'll shout when it'
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  348s] 7:15 asked Maya,Priya,Leo | dominoes 154 | calls 92
+    Maya -> everyone: Overshoot on the top arm is gone. Priya, the low arm is yours, I'm staying off it. Tom, tell Priya when the upright's straight so she can join the top arm. I'll watch the tail and shout if I see a gap
+    (Leo held a thought)
+    (Priya held a thought)
+[  357s] 7:30 asked Tom,Priya,Leo | dominoes 162 | calls 95
+    Leo -> everyone: Quick one: the low arm is live out to near the bottom of the tail and just ends there. Tom, when your upright reaches the bottom tip, Priya's low arm end needs to meet it. I'm staying off both and loo
+    (Priya held a thought)
+    (Tom held a thought)
+[  369s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 162 | calls 99
+    Leo -> everyone: Priya, Tom, time's short. The top arm end at the top tip of the tail still has nothing ahead, and the upright isn't connected to it yet, so it won't fall. Tom, is the upright straight enough? Priya, i
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  380s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 162 | calls 103
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Tom, Priya, Leo, I'm joining the top arm end down to the top of the upright right now. That's the one gap left, so please keep off that bit. Tom, keep laying down to the bottom tip. Priya, the low arm
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  387s] 8:15 asked Tom,Priya,Leo | dominoes 162 | calls 106
+    Priya -> everyone: Maya, I'm already most of the way down that join, just a few left, so please keep off it or we'll knock each other. Could you eye the bottom of the tail once I'm done? Leo, Tom, it'll be down in a few
+    (Tom held a thought)
+    (Leo held a thought)
+[  397s] 8:30 asked Maya,Tom,Leo | dominoes 165 | calls 109
+    Maya -> everyone: Got it Priya, I'm stopping mine, the top join is yours. I'll eye the bottom of the tail now and shout if I see a gap.
+    (Tom held a thought)
+    (Leo held a thought)
+[  409s] 8:45 asked Maya,Tom,Priya | dominoes 168 | calls 112
+    Priya -> everyone: My join ran off the edge of the table and placed nothing, so I'm curving it down from the top arm end toward the top of the upright now. Maya, Leo, please stay off that corner for a few seconds.
+    (Maya held a thought)
+    (Tom held a thought)
+[  419s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 116
+    Priya -> everyone: Extend placed nothing, so I'm trying a direct connect from the arm end down to the top of the upright. Please stay off that corner.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[  428s] 9:15 asked Maya,Tom,Leo | dominoes 168 | calls 119
+    Tom -> everyone: Bottom of the tail looks connected to me, the low arm runs right out to the tip. I'm keeping my hands off. Priya, the top corner's all yours.
+    (Maya held a thought)
+    (Leo held a thought)
+[  437s] 9:30 asked Maya,Priya,Leo | dominoes 168 | calls 122
+    Leo -> everyone: Priya, Tom, one small thing: the low arm has a tiny kink just before the bottom tip of the tail. I'm nudging that one domino into line and nothing else. Top corner stays yours, Priya.
+    (Maya held a thought)
+[  445s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 126
+    Maya -> everyone: Bottom of the tail's live. Leo, thanks for the nudge. Hands off from me, Priya's got the top corner.
+    (Tom held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 503.9,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.667,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "a fish outline drawn as a line, with a tail on the left and the crossing at the body's end",
+      "a loop of rope or ribbon with a crossed knot",
+      "a lowercase letter or stroke sketch, such as a cursive loop"
+    ],
+    [
+      "a fish outline with its body and tail",
+      "a looped ribbon or teardrop shape with a crossing line",
+      "a curved line of fallen dominoes seen from above"
+    ],
+    [
+      "fish outline with a tail and fins",
+      "looped ribbon or knot shape",
+      "curved line of fallen dominoes forming a fish"
+    ]
+  ],
+  "placed": 168,
+  "fell": 120,
+  "completion": 0.714,
+  "team_score": 0.714,
+  "first_domino_at": "0:45",
+  "messages": 57,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 18,
+    "Leo": 13,
+    "Tom": 11
+  },
+  "held_thoughts": 65,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 147,
+    "failed": 0,
+    "input_tokens": 306,
+    "cache_creation_tokens": 806049,
+    "cache_read_tokens": 478747,
+    "output_tokens": 88335,
+    "seconds": 1244.4,
+    "api_equivalent_usd": 4.0209,
+    "cached": 0
+  },
+  "review": "peer",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3.67,
+      "all_raters": 3.67,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Tom": {
+      "rating": 4.0,
+      "all_raters": 4.0,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Priya": {
+      "rating": 4.0,
+      "all_raters": 4.0,
+      "raters_used": 3,
+      "raters_total": 3
+    },
+    "Leo": {
+      "rating": 3.0,
+      "all_raters": 3.0,
+      "raters_used": 3,
+      "raters_total": 3
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 704.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish seen from the side",
+      "bird or duck with a curled head",
+      "whale or large sea creature"
+    ],
+    [
+      "fish",
+      "bird",
+      "leaf"
+    ],
+    [
+      "fish",
+      "bird",
+      "leaf"
+    ]
+  ],
+  "placed": 120,
+  "fell": 109,
+  "completion": 0.908,
+  "team_score": 0.908,
+  "first_domino_at": "0:30",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 14,
+    "Manager": 5,
+    "Priya": 13,
+    "Maya": 10,
+    "Tom": 4
+  },
+  "held_thoughts": 68,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 156,
+    "failed": 1,
+    "input_tokens": 318,
+    "cache_creation_tokens": 839446,
+    "cache_read_tokens": 482407,
+    "output_tokens": 93349,
+    "seconds": 1468.8,
+    "api_equivalent_usd": 4.2154,
+    "cached": 2
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "builder",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She finished her bottom line, gave accurate and calm status updates that matched what I saw, and ran the final check. She corrected her one false alarm quickly, stayed off others' work and showed good self-awareness, though she did little to drive the design."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He contributed to the bottom-line join and the stray cleanup, since the off-pad curve was cleared and Maya credits him, but I couldn't confirm what he personally did and his nose check is unverified. He was assigned the tail fin and let it slip to Leo without saying so early, and he overlapped with Priya on the loop, though he owned both points honestly."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "She took the longest stroke, gave the clearest status (about 96 of 111), flagged the tail mismatch early and delegated well. The loop and jam cleanup she owned were still unresolved at my visit, and I need to ask whether the loop is load-bearing."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He proposed the fish, sketched the plan, split the roles and laid the whole top line, which was intact when I visited, and he stayed in scope on the loop and tail join. His claims ran ahead of what I saw: he said he was closing the break before the tail while his hands were about 6 units from the jam, and the fin came out rounded rather than pointed."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

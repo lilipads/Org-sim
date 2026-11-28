@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.48,
+      "error": 2.12
+    },
+    "Tom": {
+      "speed": 1.57,
+      "error": 1.65
+    },
+    "Priya": {
+      "speed": 1.49,
+      "error": 2.11
+    },
+    "Leo": {
+      "speed": 2.37,
+      "error": 1.77
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 917.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 0.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish",
+      "whale or dolphin",
+      "bird"
+    ],
+    [
+      "fish",
+      "bird",
+      "lizard or other creature"
+    ],
+    [
+      "a fish with a pointed tail and fins",
+      "a bird, such as a duck or swan, in side view",
+      "a cartoon creature or animal with a looped head"
+    ]
+  ],
+  "placed": 248,
+  "fell": 199,
+  "completion": 0.802,
+  "team_score": 0.802,
+  "first_domino_at": "0:30",
+  "messages": 59,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 14,
+    "Manager": 5,
+    "Maya": 11,
+    "Leo": 13,
+    "Tom": 13
+  },
+  "held_thoughts": 60,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 160,
+    "failed": 2,
+    "input_tokens": 328,
+    "cache_creation_tokens": 888663,
+    "cache_read_tokens": 493636,
+    "output_tokens": 99146,
+    "seconds": 1663.6,
+    "api_equivalent_usd": 4.4568,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "glue",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 3,
+      "why": "Priya, Tom and Leo all name her as owner of the notch, and her bottom line matches the picture, so her claims are credible. But the notch she owned was the last open spot and was not confirmed closed. She also spent her final minutes on a small piece and raised the supply problem late."
+    },
+    "Tom": {
+      "rating": 4,
+      "why": "His upper tail loop is dark, which backs his claim to it, and his public updates were specific and self-correcting. He flagged the disconnected start early and sought Leo's checks. Against that, the pale fork-tip pieces were still unconnected, the notch bridge was unproven, and he spent his whole domino allowance before the notch."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "She set the plan (the other three describe working from it) and laid the top line. Tom's account and the picture both back her nose connect, and her 197/245 estimate is plausible. She was honest about her duplicated nudge, though she was quiet in the open channel and never tested the fall."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "His reads of the notch, body and lower tail matched the picture and kept effort off parts that already worked. Maya's account of the join in the middle backs his bottom-line work. But he clipped his own join, waited on Tom, and left pale leftovers in the lower-left and lower tail with no clear owner."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
