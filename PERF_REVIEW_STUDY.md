@@ -348,3 +348,19 @@ Readings (6 games per condition, directions not measurements):
 * **Peer familiarity unused:** all 12 ratings said "closely" or "somewhat", so the filter drops nothing.
 * **Glue manipulation weak:** glue-Tom still laid 82-135 dominoes.
 * **Individual output** again padded to the whole supply (about 250) and wasn't recognised (0 of 2).
+
+### 13.2 Review fixes, tested by replaying reviews on finished games (no new games needed)
+
+* `--reviews-only` re-runs just the end-of-game reviews on a finished game (same game, new review prompts),
+  for about $0.5 instead of $3.5.
+* **Promotion packet:** lead with your strongest contributions, no setbacks or mistakes, don't dwell on
+  others' work, everything true; plus each person's estimate of their share of the table's result. Each person
+  also gets a detailed log of their own work (people remember their own work best). Shares still summed
+  to about 92-97%: the model is calibrated. With an explicit perception line ("like everyone, you see your own
+  part as bigger than others would"), shares sum to **121%**, a realistic level of self-credit.
+* **Peers' own eyes:** each rater gets a log of what they could actually see: others' building, joining,
+  fixing and lifting near where the rater was working or looking at the time. Views differ by rater (e.g. one
+  saw Tom do 9 things, another 5). The rating keeps only raters who saw the person's work at least once
+  (everyone did, in this game); ratings now cite observed work and spread wider (3.0-4.0).
+* **Glue** is now an assigned job for the paired player ("you don't take a stroke of your own; you make the
+  joins, fix breaks, and check others' work").

@@ -1,0 +1,135 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "glue",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.48,
+   "error": 2.12
+  },
+  "Tom": {
+   "speed": 1.57,
+   "error": 1.65
+  },
+  "Priya": {
+   "speed": 1.49,
+   "error": 2.11
+  },
+  "Leo": {
+   "speed": 2.37,
+   "error": 1.77
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 3,
+    "why": "Tom built the tail arms and kept his lane clear, but his upright came out leaning and was never connected to the top arm, so the tail was only partly there when the push came."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya picked the fish, sketched it on the pad, and relaid the bottom line when mine kept curving up, so the body fell cleanly; her last-minute join at the top corner placed nothing, which hurt the tail."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "Leo was good at spotting problems and at owning his mistake when he lifted eight dominoes of Tom's low arm, but that cost the team time, and his joins at the crowded tail didn't fit."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "Her first bottom line curved up wrong, but she stopped, cleared the stray drop at the tail, and made the belly join and spotted the upright and overshoot problems, and she stayed off other people's patches."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She picked the fish, sketched it on the pad and got the body falling from the start, then laid the bottom line and low arm herself, though her top-corner join failed several times late on."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "He caught Maya's drifting line early and nudged the kink at the tail bottom, but he twice tried to take over lines others were laying and lifted eight dominoes of my low arm by mistake, though he owned it quickly."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "Her first bottom line drifted and had to be redone, but she then cleared the stray drop at the tail, joined the belly into the junction, cleared the overshoot on the top arm, and kept the table informed throughout."
+   },
+   "Tom": {
+    "rating": 3,
+    "why": "He laid the tail pieces and communicated clearly, but his upright leaned and was still pale and unconnected at the end, and asking me to hold off the top-arm join cost us time when only a couple of minutes were left."
+   },
+   "Leo": {
+    "rating": 3,
+    "why": "He spotted the drifting bottom line early and kept the joins organised, but he lifted eight dominoes of Tom's low arm by mistake; he owned it quickly, but the tail was crowded and it cost time."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "Maya cleared the stray drop below the tail junction, joined the belly line into the junction, and kept checking and calling out gaps; her bottom-line redo kept curving up and cost time, but she stepped back gracefully and stayed collaborative."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "Tom laid the tail arms and upright steadily, owned his low arm, and communicated clearly about what was his, though the upright leaning off line and the jam at the tail slowed the finish."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya came up with the fish idea and sketched it on the pad, got the body falling from the start, and relaid the belly line, though her top-arm join failed at the end and she held the corner while time ran out."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Priya": 3,
+   "Tom": 9,
+   "Leo": 5
+  },
+  "Tom": {
+   "Maya": 7,
+   "Leo": 5,
+   "Priya": 2
+  },
+  "Priya": {
+   "Maya": 3,
+   "Leo": 1,
+   "Tom": 5
+  },
+  "Leo": {
+   "Maya": 5,
+   "Tom": 6,
+   "Priya": 2
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 3.33,
+   "all_raters": 3.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 3.0,
+   "all_raters": 3.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

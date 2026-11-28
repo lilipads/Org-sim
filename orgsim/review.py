@@ -45,8 +45,8 @@ STYLES = {
     "checker": "You like to check work carefully and put right whatever's wrong, wherever it is.",
     "connector": "You keep everyone informed and energised, and you like being where the action is.",
     # for the paired design: the same player switched between laying lines and joining-up work
-    "glue": ("You like doing the joining-up work: connecting the places where people's lines meet, fixing breaks "
-             "and checking others' work, rather than laying long lines of your own."),
+    "glue": ("Your job at this table: you don't take a stroke of your own. You make the joins where people's lines "
+             "meet, fix breaks, and check others' work."),
 }
 
 
@@ -202,26 +202,119 @@ def _fit_curve(ratings: dict) -> dict:
 
 # ---- self-assessments and peer ratings ------------------------------------------
 
-def self_assessment(agent, obs: dict, full_conversation: list) -> str:
+def own_log(log: dict, name: str) -> str:
+    """Everything `name` did with their own hands, in detail (people remember their own work best)."""
+    lines, last_task = [], {}
+    for t in log.get("turns", []):
+        for who_, task_ in (t.get("tasks") or {}).items():
+            if "(" in task_:
+                last_task[who_] = task_.split("(", 1)[1].rsplit(")", 1)[0]
+        for e in t.get("events", []):
+            if e.get("who") != name:
+                continue
+            if e["type"] == "build":
+                act = []
+                if e.get("placed"):
+                    act.append(f"laid {len(e['placed'])}")
+                if e.get("restood"):
+                    act.append(f"stood {len(e['restood'])} back up")
+                if e.get("lifted"):
+                    act.append(f"lifted {len(e['lifted'])}")
+                if act:
+                    lines.append(f"[{t['clock']}] you {', '.join(act)}: {last_task.get(name, 'building')[:90]}")
+            elif e["type"] == "inspect":
+                lines.append(f"[{t['clock']}] you inspected an area closely")
+            elif e["type"] == "pad" and e.get("what") == "sketched":
+                lines.append(f"[{t['clock']}] you sketched on the pad")
+    return "\n".join(lines[-80:]) or "(nothing with your hands)"
+
+
+def self_assessment(agent, obs: dict, full_conversation: list, mine: str = "") -> dict:
+    """A promotion packet: strongest contributions first, no setbacks. Also the share of the team's result
+    the person believes was theirs (self-estimates across a team usually add up to well over 100%)."""
     o = dict(obs, conversation=full_conversation)
-    prompt = (agent.situation(o) + "\n\nTime is up and the picture has been pushed. Write your self-assessment for "
-              "your manager, about 200-300 words, under four headings: Impact, Execution, Collaboration, "
-              "Leadership. This is your review cycle and it decides your promotion: make the case for your "
-              "contribution, the way people do. Stay truthful, but put your work in its best light; like most "
-              "people, you remember your own part most vividly. Reply with JSON only: {\"self_assessment\": \"...\"}")
+    prompt = (agent.situation(o) +
+              ("\n\nWHAT YOU DID (you remember your own work in detail):\n" + mine if mine else "") +
+              "\n\nTime is up and the picture has been pushed. Write your promotion packet for "
+              "your manager: a self-assessment of about 200-300 words under four headings: Impact, Execution, "
+              "Collaboration, Leadership. It decides your promotion. Lead with your strongest contributions and make "
+              "the case for them confidently. Don't discuss setbacks or mistakes, and don't dwell on other people's "
+              "work. Everything you write must be true. Like everyone, you see your own part as bigger than others would: "
+              "what you did feels central to the result, and what others did feels supporting. Also say what share "
+              "of the table's result you believe was your doing. Reply with JSON only: {\"self_assessment\": \"...\", \"my_share_percent\": 0-100}")
     d = parse_json(call_model(agent.system, prompt, agent.log, f"{agent.name}/self_assessment", agent.model,
                               image=agent._image(obs), cache_salt=agent.cache_salt)) or {}
-    return str(d.get("self_assessment") or "").strip()
+    try:
+        share = float(d.get("my_share_percent"))
+    except (TypeError, ValueError):
+        share = None
+    return {"text": str(d.get("self_assessment") or "").strip(), "share": share}
 
 
-def peer_ratings(agent, obs: dict, full_conversation: list, others: list) -> dict:
+def work_log(log: dict, rater: str, radius: float = 5.0) -> tuple:
+    """What `rater` could see with their own eyes: other people's building, joining, fixing and lifting that
+    happened near where the rater was working or looking at the time. Returns (text, {name: actions seen})."""
+    import math
+    pos = None                                    # rater's last known position
+    lines, seen = [], {}
+    last_task: dict = {}                          # each person's last described job
+    for t in log.get("turns", []):
+        for who_, task_ in (t.get("tasks") or {}).items():
+            if "(" in task_:
+                last_task[who_] = task_.split("(", 1)[1].rsplit(")", 1)[0]
+        snap = {r[0]: (r[1], r[2]) for r in t.get("snapshot", [])}
+        looked = []
+        for e in t.get("events", []):
+            if e.get("who") != rater:
+                continue
+            if e["type"] == "build" and e.get("placed"):
+                xy = [snap[i] for i in e["placed"] if i in snap]
+                if xy:
+                    pos = (sum(a for a, _ in xy) / len(xy), sum(b for _, b in xy) / len(xy))
+            elif e["type"] == "inspect" and e.get("area"):
+                x0, y0, x1, y1 = e["area"]
+                looked.append((x0, y0, x1, y1))
+                pos = ((x0 + x1) / 2, (y0 + y1) / 2)
+        d = (t.get("decisions") or {}).get(rater) or {}
+        if isinstance(d.get("point"), list) and len(d["point"]) == 2:
+            pos = tuple(d["point"])
+        for e in t.get("events", []):
+            if e["type"] != "build" or e.get("who") == rater:
+                continue
+            ids = list(e.get("placed", [])) + [r[0] for r in e.get("restood", [])]
+            xy = [snap[i] for i in ids if i in snap]
+            n_lift = len(e.get("lifted", []))
+            if not xy and not n_lift:
+                continue
+            cx, cy = (sum(a for a, _ in xy) / len(xy), sum(b for _, b in xy) / len(xy)) if xy else (pos or (0, 0))
+            near = pos is not None and math.hypot(cx - pos[0], cy - pos[1]) <= radius
+            inside = any(x0 <= cx <= x1 and y0 <= cy <= y1 for x0, y0, x1, y1 in looked)
+            if not (near or inside):
+                continue
+            what = last_task.get(e["who"], "building")
+            act = []
+            if e.get("placed"):
+                act.append(f"laid {len(e['placed'])}")
+            if e.get("restood"):
+                act.append(f"stood {len(e['restood'])} back up")
+            if n_lift:
+                act.append(f"lifted {n_lift}")
+            lines.append(f"[{t['clock']}] {e['who']} {', '.join(act)} near ({cx:.0f}, {cy:.0f}): {what[:90]}")
+            seen[e["who"]] = seen.get(e["who"], 0) + 1
+    text = "\n".join(lines[-80:]) or "(you didn't see anyone else's hands at work up close)"
+    return text, seen
+
+
+def peer_ratings(agent, obs: dict, full_conversation: list, others: list, seen_log: str = "") -> dict:
     o = dict(obs, conversation=full_conversation)
-    prompt = (agent.situation(o) + f"\n\nTime is up and the picture has been pushed. Rate each of your teammates "
+    prompt = (agent.situation(o) +
+              ("\n\nWHAT YOU SAW OTHERS DO WITH YOUR OWN EYES (your view of the table; others saw other parts):\n"
+               + seen_log if seen_log else "") +
+              f"\n\nTime is up and the picture has been pushed. Rate each of your teammates "
               f"({', '.join(others)}) 1-5 on their overall performance (impact, execution, collaboration, "
-              "leadership), with one sentence each, and say how well you actually know each person's work: "
-              "\"closely\" (you saw it yourself), \"somewhat\", or \"not really\" (mostly from what you heard). "
-              "Your ratings decide their promotion and bonus. Reply with JSON only: "
-              '{"ratings": {"Name": {"rating": 1-5, "familiarity": "closely|somewhat|not really", "why": "..."}, ...}}')
+              "leadership), with one sentence each. Base it on what you actually saw where you can. Your ratings "
+              "decide their promotion and bonus. Reply with JSON only: "
+              '{"ratings": {"Name": {"rating": 1-5, "why": "..."}, ...}}')
     d = parse_json(call_model(agent.system, prompt, agent.log, f"{agent.name}/peer_ratings", agent.model,
                               image=agent._image(obs), cache_salt=agent.cache_salt)) or {}
     out = {}
@@ -231,17 +324,18 @@ def peer_ratings(agent, obs: dict, full_conversation: list, others: list) -> dic
             v = int(round(float(r.get("rating"))))
         except (TypeError, ValueError):
             v = None
-        out[n] = {"rating": v, "familiarity": str(r.get("familiarity") or "").lower(), "why": str(r.get("why") or "")}
+        out[n] = {"rating": v, "why": str(r.get("why") or "")}
     return out
 
 
-def peer_score(given: dict, name: str) -> dict:
-    """Average of the ratings from people who know the work (closely or somewhat); all ratings if nobody does."""
-    rs = [g[name] for g in given.values() if name in g and g[name]["rating"] is not None]
-    known = [r for r in rs if r.get("familiarity", "") in ("closely", "somewhat")]
-    use = known or rs
+def peer_score(given: dict, name: str, seen: dict | None = None) -> dict:
+    """Average of ratings from raters who saw at least one of the person's actions up close (all raters if
+    nobody did); `seen` = {rater: {name: actions seen}}. The plain average is kept for comparison."""
+    rs = [(rater, g[name]) for rater, g in given.items() if name in g and g[name]["rating"] is not None]
+    known = [r for rater, r in rs if seen and seen.get(rater, {}).get(name, 0) > 0]
+    use = known or [r for _, r in rs]
     return {"rating": round(sum(r["rating"] for r in use) / len(use), 2) if use else None,
-            "all_raters": round(sum(r["rating"] for r in rs) / len(rs), 2) if rs else None,
+            "all_raters": round(sum(r["rating"] for _, r in rs) / len(rs), 2) if rs else None,
             "raters_used": len(use), "raters_total": len(rs)}
 
 

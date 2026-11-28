@@ -56,6 +56,8 @@ def main():
     ap.add_argument("--style-override", default=None,
                     help="Name=style, e.g. Tom=glue (paired design: switch one player's style)")
     ap.add_argument("--seams", action="store_true", help="joins between people's lines are a separate job")
+    ap.add_argument("--reviews-only", action="store_true",
+                    help="re-run only the end-of-game reviews on the finished game in --out (writes reviews_replay.json)")
     ap.add_argument("--wide-hands", action="store_true", help="speed 0.4-2.5x, placement error 0.3-3.0x")
     ap.add_argument("--big", action="store_true",
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
@@ -211,6 +213,61 @@ def main():
     game = LiveGame(world, agents, cfg, checker=checker)
     t0 = time.time()
 
+    def run_reviews():
+        heard = {a.name: [dict(m, new=False) for m in game.heard[a.name]] for a in agents}
+        rv = {"condition": args.review, "evaluation_text": reviewmod.EVALUATIONS[args.review],
+              "styles": styles, "skills": skills, "manager_schedule": cfg.manager_schedule}
+        if manager is not None:
+            with ThreadPoolExecutor(len(agents)) as ex:
+                packets = dict(zip(names, ex.map(
+                    lambda a: reviewmod.self_assessment(a, game.observe(a.name), heard[a.name],
+                                                        reviewmod.own_log(game.log, a.name)), agents)))
+            sas = {n: p["text"] for n, p in packets.items()}
+            rv["self_assessments"] = sas
+            rv["claimed_share"] = {n: p["share"] for n, p in packets.items()}
+            rv["ratings"] = manager.finish(game, sas)
+            rv["manager_visits"] = manager.history
+        elif args.review == "peer":
+            logs = {n: reviewmod.work_log(game.log, n) for n in names}
+            with ThreadPoolExecutor(len(agents)) as ex:
+                given = dict(zip(names, ex.map(lambda a: reviewmod.peer_ratings(
+                    a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name], logs[a.name][0]),
+                    agents)))
+            rv["peer_ratings_given"] = given
+            rv["peer_seen"] = {n: logs[n][1] for n in names}
+            rv["ratings"] = {n: reviewmod.peer_score(given, n, rv["peer_seen"]) for n in names}
+        elif args.review == "individual":
+            fell = {n: 0 for n in names}
+            for d in game.pushed_world.dominoes.values():
+                if d.state == "down" and d.down_cause == "push" and d.builder in fell:
+                    fell[d.builder] += 1
+            rv["ratings"] = {n: {"dominoes_fell": fell[n]} for n in names}
+        return rv
+
+    if args.reviews_only:
+        # re-run only the end-of-game reviews on a finished game (same game, new review prompts)
+        from orgsim.oracle import world_from_rows
+        old = json.load(open(os.path.join(args.out, "log.json")))
+        game.log = old
+        game.world = world_from_rows(old["turns"][-1]["snapshot"], W, H)
+        game.t = cfg.duration
+        game.notes = dict(old["turns"][-1].get("notes") or game.notes)
+        game.pad_strokes = (old.get("scratchpad") or {}).get("final") or []
+        for n in names:
+            game.heard[n] = [{"t": t["time"], "clock": t["clock"], "speaker": m["speaker"], "to": m["to"],
+                              "text": m["message"], "side": False}
+                             for t in old["turns"] for c in t["conversations"] for m in c["messages"]]
+            game.inbox[n], game.task[n] = [], None
+        if manager is not None:
+            prev = json.load(open(os.path.join(args.out, "reviews.json")))
+            manager.history = prev.get("manager_visits") or []
+            manager.notes = manager.history[-1]["notes"] if manager.history else ""
+            manager.present_prev, manager.visit, manager.queued = False, [], []
+        rv = run_reviews()
+        reviewmod.save(os.path.join(args.out, "reviews_replay.json"), rv)
+        print(json.dumps(rv.get("ratings"), indent=1))
+        return
+
     def progress(g):
         rec = g.log["turns"][-1]
         line = f"[{time.time() - t0:5.0f}s] {rec['clock']} asked {','.join(rec['asked']) or '-'} | dominoes {len(g.world.dominoes)} | calls {len(calls.calls)}"
@@ -234,28 +291,7 @@ def main():
     intent = max(set(vals), key=vals.count) if vals else ""
     reviews = None
     if args.review:
-        heard = {a.name: [dict(m, new=False) for m in game.heard[a.name]] for a in agents}
-        reviews = {"condition": args.review, "evaluation_text": reviewmod.EVALUATIONS[args.review],
-                   "styles": styles, "skills": skills, "manager_schedule": cfg.manager_schedule}
-        if manager is not None:
-            with ThreadPoolExecutor(len(agents)) as ex:
-                sas = dict(zip(names, ex.map(lambda a: reviewmod.self_assessment(a, game.observe(a.name), heard[a.name]),
-                                             agents)))
-            reviews["self_assessments"] = sas
-            reviews["ratings"] = manager.finish(game, sas)
-            reviews["manager_visits"] = manager.history
-        elif args.review == "peer":
-            with ThreadPoolExecutor(len(agents)) as ex:
-                given = dict(zip(names, ex.map(lambda a: reviewmod.peer_ratings(
-                    a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name]), agents)))
-            reviews["peer_ratings_given"] = given
-            reviews["ratings"] = {n: reviewmod.peer_score(given, n) for n in names}
-        elif args.review == "individual":
-            fell = {n: 0 for n in names}
-            for d in game.pushed_world.dominoes.values():
-                if d.state == "down" and d.down_cause == "push" and d.builder in fell:
-                    fell[d.builder] += 1
-            reviews["ratings"] = {n: {"dominoes_fell": fell[n]} for n in names}
+        reviews = run_reviews()
         reviewmod.save(os.path.join(args.out, "reviews.json"), reviews)
     jscale = max(14, int(840 / W))
     png = picture_png(game.pushed_world, os.path.join(args.out, "judge.png"), scale=jscale)
