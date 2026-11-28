@@ -1,0 +1,51 @@
+[   21s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: How about a swan? Long curvy neck and a round body, easy to recognise and nobody else will do it. I'm sketching it now, so grab a stroke once it's up.
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   27s] 0:15 asked Tom,Leo | dominoes 0 | calls 6
+    Leo -> everyone: Swan works for me. The neck makes it unmistakable. I'll take stroke 1 once it's on the pad, so the start gets laid first. Someone grab the body and the neck.
+    (Tom held a thought)
+[   43s] 0:30 asked Maya,Tom,Priya | dominoes 0 | calls 9
+    Maya -> Priya: Priya, could you pass me the pad? I've got the swan all lined up in my head, I'll sketch it fast and then Leo can start on the first stroke.
+    Priya -> everyone: Swan it is, I've got the pad and just sketched it. Leo, take stroke 1, the belly and front of the neck, so the start gets laid. Tom, take stroke 2, the back and the back of the neck. Maya, could you a
+    (Tom held a thought)
+[   58s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 9 | calls 13
+    Priya -> everyone: Maya, the pad's on the table, it's all yours if you want to add the wing. Nobody's started yet, so I'll lay stroke 1 and the start right now. Tom, stroke 2 please, and Leo, you could help on the neck 
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[   68s] 1:00 asked Maya,Tom,Leo | dominoes 21 | calls 16
+    Maya -> everyone: Thanks Priya, got the pad. Adding a wing inside the body, hooked onto the belly line. I'll build it once the belly's up.
+    (Tom held a thought)
+    (Leo held a thought)
+[   75s] 1:15 asked Priya,Leo | dominoes 33 | calls 18
+    Leo -> everyone: Okay Priya, the belly's yours. I'll keep out of your way and pick up the neck and head end once the run gets there. I'll check the head joint too.
+    (Priya held a thought)
+[   86s] 1:30 asked Maya,Priya | dominoes 45 | calls 20
+    Maya -> everyone: Sketching the wing now: it peels off the belly and curves up inside the body. I'll test it before anyone builds it.
+    (Priya held a thought)
+[   98s] 1:45 asked Leo | dominoes 57 | calls 21
+    Leo -> everyone: Priya, Tom, the run's about halfway. If either of you wants, I'll take the upper neck and head on whichever line gets there first. Just shout which one so we don't double up.
+[  107s] 2:00 asked Maya,Tom,Priya | dominoes 69 | calls 24
+    Tom -> everyone: Got it, I'm on stroke 2, the back and up the neck. Almost done, just a few left. Leo, you can take the head once it's there.
+    (Priya held a thought)
+    (Maya held a thought)
+[  121s] 2:15 asked Leo | dominoes 80 | calls 25
+    Leo -> Tom: Tom, you're right at the top of the neck, so keep going over the head. Give me a shout when you're at the beak and I'll check the joint and fill in the front of the neck.
+[  128s] 2:30 asked Tom | dominoes 96 | calls 26
+    Tom -> everyone: On it, Leo. I'll carry on over the top of the head toward the beak. Shout if the joint looks off.
+[  138s] 2:45 asked Maya,Tom,Leo | dominoes 99 | calls 29
+    Maya -> everyone: Wing's up, it hooks off the belly and the whole run still falls. I'll check the head joint up top while Priya finishes the front of the neck.
+    (Tom held a thought)
+    (Leo held a thought)
+[  148s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 101 | calls 33
+    Maya -> everyone: Front of the neck stops short, so I'm finishing it up to the beak now. Priya, shout if you're already on it.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  155s] 3:15 asked Tom,Priya,Leo | dominoes 105 | calls 36
+    Leo -> Maya: Maya, you've got the front of the neck, I'll stay clear. I'll look over the head joint at the beak and tell you if it's off.
+    Priya -> everyone: Go for it, Maya, I'm not on the neck. I'll look over the head and beak joint up top and shout if anything's off.
+    (Tom held a thought)
