@@ -4,3 +4,62 @@
     (Maya held a thought)
     (Priya held a thought)
     (Tom held a thought)
+[    8s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 7
+    Priya -> everyone: Fish works for me, Leo. I've got the pad already, so I'll sketch it right now. Maya, can you take the bottom body line? Tom, the upper tail. Leo, the tail edge and lower tail. I'll start the nose and 
+    (Maya held a thought)
+    (Tom held a thought)
+[   18s] 0:30 asked Maya,Tom,Leo | dominoes 24 | calls 10
+    Maya -> everyone: On it, I've got the bottom body line, stroke 2. Tom, can you get the top tail stroke down first? That's where the start goes. Then we all hang off it. I'll check the joint at the junction once it's up
+    (Tom held a thought)
+    (Leo held a thought)
+[   23s] 0:45 asked Tom | dominoes 56 | calls 11
+    Tom -> everyone: Yep, I'm on it. Start's down and I'm laying the upper tail now. Once it's up I'll go round and do the joins, so shout if a line ends short.
+[   23s] 1:00 asked - | dominoes 74 | calls 11
+[   48s] 1:15 asked Tom,Leo | dominoes 92 | calls 14
+    Tom -> everyone: Upper tail's down. I'm joining the junction now: top body, bottom body and lower tail all hang off it.
+    Leo -> everyone: Lower tail's down. I'm going to check the joins around the tail before we call it done.
+[   63s] 1:30 asked Maya,Leo | dominoes 115 | calls 16
+    Maya -> everyone: Bottom body's up and it's connected. The top body line is still pale, so I'm joining it to the junction now. Tom, can you take the lower tail joint there? Then we should check the whole run falls.
+    (Leo held a thought)
+[   71s] 1:45 asked Tom,Leo | dominoes 135 | calls 18
+    Leo -> everyone: Sorry, I clipped the junction and knocked a few over. I'm standing them back up now. Tom, give me a second there so we don't bump it again.
+    (Tom held a thought)
+[   80s] 2:00 asked Tom,Leo | dominoes 151 | calls 20
+    Tom -> everyone: Got it, Leo. I'll finish my last few joins and keep clear while you stand those back up. Then I'll look over the junction and check the whole run falls.
+    (Leo held a thought)
+[   91s] 2:15 asked Priya,Leo | dominoes 152 | calls 22
+    Priya -> everyone: Top body is down. It still looks pale at the junction, so I'm going to look at what's connected there. I'll stay out of your way.
+    (Leo held a thought)
+[  105s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 156 | calls 26
+    Leo -> everyone: Restand's done. I'll stay off the junction while Priya looks at it, and I'll check the nose end of the top line so we know that side is clean.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  116s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 192 | calls 30
+    Maya -> everyone: Lower tail side has about eight dominoes knocked flat, that's the red line. I'm standing them back up now, then I'll check the end of the tail edge joins into it. Priya, you've got the top body at the
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  125s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 193 | calls 34
+    Maya -> everyone: Tail's stood back up. The end of the tail edge still looks like it stops just short of the lower tail, so I'm closing that gap now. Then I'll check the whole run falls.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  137s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 193 | calls 38
+    Leo -> everyone: Nose end looked like a slightly wide gap, so I'm closing it. Does anyone know what the pale curve under the tail is? It's not on the pad, and it's not connected, so it won't show up anyway.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  150s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 200 | calls 42
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hi! Fish is nearly there. The body and upper tail fall fine. The one gap left is the bottom of the tail edge, which stops just short of the lower tail, so the lower tail is still pale. I'm bridging th
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  165s] 3:45 asked Tom,Leo | dominoes 200 | calls 44
+    Tom -> everyone: Hi! Upper tail and junction joins are done. Maya's on the last gap at the tail edge, so I'm staying clear of her. I'm going to check the nose seam on the far left so the whole run falls, then we can r
+    (Leo held a thought)
+[  175s] 4:00 asked Maya,Tom,Leo | dominoes 196 | calls 47
+    Maya -> everyone: Leo, no worries on those, they were the stray anyway. Three dominoes left on the tail join, then I'll check that the lower tail goes dark and the whole run falls.
+    (Tom held a thought)
+    (Leo held a thought)
