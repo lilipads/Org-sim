@@ -425,3 +425,8 @@ WHAT CAN ACTUALLY BE BUILT": round every corner, branches leave within about 40 
 leave together, details must touch the run, gentle meeting angles, 4-7 strokes and 100-150 dominoes,
 spacing between parallel lines), written about shapes, not animals; and in games without roles **anyone can
 dry-run the current sketch** (30 s) to learn which strokes would fall.
+Test game (seed 421, plain game, design guide, no priming): still a **fish**, built perfectly (153 of 153
+fell, all judges recognised it). One dry run was used. The sketch still had a zigzag notch in the tail
+(sharp corners the guide warns against); tracing rounded it into lobes and it still fell. So the fish is the
+model's own default (simplest recognisable outline), not only priming; the guide makes it even more
+attractive. Variety would need an assigned or excluded animal.
