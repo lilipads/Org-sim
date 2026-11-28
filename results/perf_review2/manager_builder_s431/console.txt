@@ -30,3 +30,6 @@
     (Maya held a thought)
     (Priya held a thought)
     (Tom held a thought)
+[  240s] 1:45 asked Tom,Priya | dominoes 99 | calls 28
+    Tom -> everyone: Top line's done. I'm joining it to Leo's tail piece now, so Leo, no need to hook that one up. Priya, could you look at the bottom join when Maya gets there?
+    (Priya held a thought)
