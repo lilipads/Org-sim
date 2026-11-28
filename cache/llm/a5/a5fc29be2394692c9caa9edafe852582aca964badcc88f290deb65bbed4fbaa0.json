@@ -1,0 +1,1 @@
+{"model": "sonnet", "tag": "Maya/5:00", "result": "\n<invoke name=\"bash\">\n<parameter name=\"command\">echo \"placeholder\"</parameter>\n</invoke>"}

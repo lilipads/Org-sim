@@ -63,3 +63,24 @@
     Maya -> everyone: Leo, no worries on those, they were the stray anyway. Three dominoes left on the tail join, then I'll check that the lower tail goes dark and the whole run falls.
     (Tom held a thought)
     (Leo held a thought)
+[  335s] 4:15 asked Maya,Tom,Leo | dominoes 195 | calls 51
+    Maya -> everyone: Tail join's in. I'm taking a close look at the lower tail now to make sure it falls with the rest.
+    (Tom held a thought)
+    (Leo held a thought)
+[  367s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 195 | calls 56
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Update: the fish body and upper tail fall fine, about two thirds of everything. The lower tail still isn't taking the fall. The corner at the bottom of the tail edge turns too sharply, and a few domin
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  389s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 190 | calls 60
+    Maya -> everyone: Okay, the corner at the bottom of the tail edge is the problem: it turns too hard. I'm taking out that little hook past it so I can curve the join gently into the lower tail. Tom, Leo, please stay cle
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  407s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 200 | calls 65
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Hook's out. I'm curving the join from the end of the tail edge into the lower tail now. Tom, Leo, stay clear of that corner for a minute.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
