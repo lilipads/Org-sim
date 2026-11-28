@@ -415,3 +415,13 @@ Fixed:
 Scripted check (8 seeds, seams on, one joiner): 84 of 84 fall with no leftovers in 6 of 8 (before: joins
 failed or built loops); the 2 misses are the scripted joiner pairing the wrong lines at the tail crossing.
 No seams: 11 of 12 at 90%+, unchanged.
+
+### 13.6 Why every table drew a fish, and a design guide
+
+166 of about 170 self-chosen pictures were fish. The rules primed it: "draw its telltale parts (a fish's tail
+fin, a cat's ears, a bird's beak and wings)", with the fish first; and a fish is the easiest safe outline.
+Changes: no animal examples anywhere in the rules; a **design guide** for everyone ("DRAWING WITH DOMINOES:
+WHAT CAN ACTUALLY BE BUILT": round every corner, branches leave within about 40 degrees, start where lines
+leave together, details must touch the run, gentle meeting angles, 4-7 strokes and 100-150 dominoes,
+spacing between parallel lines), written about shapes, not animals; and in games without roles **anyone can
+dry-run the current sketch** (30 s) to learn which strokes would fall.

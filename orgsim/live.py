@@ -545,7 +545,8 @@ class LiveGame:
         if kind not in self.CHECK_ROLE:
             return False
         role = self.cfg.roles.get(n)
-        if role != self.CHECK_ROLE[kind]:
+        anyone = not self.cfg.roles and kind == "dry_run"     # without roles, anyone can test a sketch
+        if not anyone and role != self.CHECK_ROLE[kind]:
             self.inbox[n].append(f"Only the {self.CHECK_ROLE[kind].upper() if kind == 'ask_client' else self.CHECK_ROLE[kind].capitalize()} "
                                  f"can do that ({kind.replace('_', ' ')}).")
             return False

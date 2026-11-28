@@ -43,7 +43,7 @@ Only you can do this. What you learn is yours until you say it out loud.
     "design": """YOUR EXPERTISE: DESIGN (how it looks)
 You know what makes a line picture read instantly and look good:
 - Every animal has one or two tell-tale features that make it unmistakable in outline; without them it reads
-  as something else (many sea creatures read as "a fish"). Make those features big and clear.
+  as something else (similar body shapes are easily confused). Make those features big and clear.
 - Proportion and balance: a big, confident shape that fills the table reads better than a small one.
 - Flowing, smooth curves look skilled; wobbly, cramped or cluttered lines look clumsy. Fewer, stronger lines
   beat many small details. Symmetry helps where the animal is symmetrical.

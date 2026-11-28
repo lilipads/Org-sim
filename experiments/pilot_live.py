@@ -102,6 +102,12 @@ def main():
     profile = clientmod.profile_for(args.seed, args.client) if args.client != "none" else None
     notes, pitches, dictator = {}, [], None
     roles, designer, checker = {}, None, None
+    if not args.roles:                        # anyone can play the fall through the sketch (a dry run)
+        from orgsim import design_check as _dc
+
+        def checker(kind, who, strokes, note):
+            return _dc.dry_run_text(strokes) if kind == "dry_run" else ""
+
     if args.roles:
         from orgsim import handwork, roles as rolesmod
         from orgsim import design_check
@@ -165,6 +171,11 @@ def main():
                                           "facilitator takes the pad away for good; after that, work from memory."))
         if len(names) == 1:
             rules = rules.replace("sitting at a table with 0 colleagues", "sitting at a table on your own")
+        if not args.roles:
+            rules = rules.replace("Sketch strokes use the table's coordinates:", (
+                "To test a sketch before anyone builds it, add \"check\": \"dry_run\": for about 30 seconds you "
+                "play the fall through the current sketch in your head, and learn which strokes would fall and which "
+                "wouldn't.\nSketch strokes use the table's coordinates:"), 1)
         if args.seams:
             rules = rules.replace("THE TABLE\n", (
                 "JOINS BETWEEN PEOPLE'S LINES\nWhen you trace a stroke that grows from a line someone else is laying, your "

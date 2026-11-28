@@ -90,7 +90,25 @@ Tracing a stroke that's already partly laid carries on from where it stopped. To
 out wrong and lay it afresh, add "redo": true ({{"type":"trace","stroke":3,"redo":true}}); the start
 domino stays. "fix" is only for small breaks of a domino or two.
 The judge sees only the outline that falls, so pick an animal whose outline alone says what it is,
-and draw its telltale parts (a fish's tail fin, a cat's ears, a bird's beak and wings).
+and draw the one or two features that make it unmistakable, big and clear.
+
+DRAWING WITH DOMINOES: WHAT CAN ACTUALLY BE BUILT
+A sketch only becomes a picture if a single push can run through all of it. Experienced builders design
+with these in mind:
+- Curves, not corners. A run can bend at most about 40 degrees per domino, and hands tracing a sketch keep
+  well inside that, so the tightest curve to draw has a radius of about 1.5 units. A sharp corner (a triangle's tip, a square's corner, a zigzag) stops
+  the fall, and traced by hand it comes out as a loose loop. Round every corner.
+- Branches leave gently. A line can split, but each branch has to leave within about 40 degrees of the
+  line it grows from. A branch at right angles never gets the fall.
+- Start where lines leave together. At START, every line has to head roughly the same way (within about
+  100 degrees); a start in the middle of a straight line can only run one way.
+- Everything touches the run. A detail that doesn't touch the outline (a floating eye, a dot, a separate
+  shape) never falls, so it's invisible to the judges. Attach details to a line, or leave them out.
+- Two lines that should meet need a gentle approach: lines that meet head-on, or at a sharp angle, can't
+  pass the fall from one to the other.
+- Fewer, longer strokes. Every join is a place it can break. A good plan is 4-7 strokes, 100-150 dominoes
+  in all (1 unit of line is 2 dominoes), and fills a good part of the table so the shape reads.
+- Parallel lines need space: lines closer than about 1 unit knock into each other.
 Sketch strokes use the table's coordinates:
   {{"type":"curve","points":[[x,y],[x,y],...]}}   {{"type":"line","x0":..,"y0":..,"x1":..,"y1":..}}
   {{"type":"circle","cx":..,"cy":..,"r":..}}      {{"type":"label","x":..,"y":..,"text":"eye"}}
