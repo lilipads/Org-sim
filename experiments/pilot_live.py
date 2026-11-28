@@ -75,7 +75,7 @@ def main():
                     help="bigger dominoes: 30x20 table in domino lengths, 130 pieces, finer relative hand error")
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
-    calls = CallLog(os.path.join(args.out, "calls.jsonl"))
+    calls = CallLog(os.path.join(args.out, f"calls_replay_{args.review}.jsonl" if args.reviews_only else "calls.jsonl"))
     open(calls.path, "w").close()
 
     from orgsim.dominoes import Physics
@@ -318,6 +318,14 @@ def main():
             manager.history = prev.get("manager_visits") or []
             manager.notes = manager.history[-1]["notes"] if manager.history else ""
             manager.present_prev, manager.visit, manager.queued = False, [], []
+            if not manager.history:
+                # the game was played with no manager: walk the manager through the recorded game on the
+                # usual visit schedule (they hear what was said and see the table as it stood at each visit)
+                final_world = game.world
+                for rec in old["turns"]:
+                    game.world = world_from_rows(rec["snapshot"], W, H)
+                    manager.observe(game, rec)
+                game.world = final_world
         rv = run_reviews()
         suffix = args.review + ("_briefed" if args.peer_briefing else "")
         reviewmod.save(os.path.join(args.out, f"reviews_replay_{suffix}.json"), rv)
