@@ -1,0 +1,68 @@
+[  166s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 6
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: How about a fish? Big body, start at the nose, and the line splits into the top and bottom of the body and meets up at a flared tail. I'm sketching it now. Tom, could you grab dominoes for the bin? Pr
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  181s] 0:15 asked Tom,Priya,Leo | dominoes 0 | calls 9
+    Priya -> everyone: Fish works for me, Maya. I've got the pad, so I'm drawing it up now. Top line is one, bottom line is two, and the tail flares off the back of each. Once it's up, Leo and Tom can each grab a stroke.
+    (Leo held a thought)
+    (Tom held a thought)
+[  196s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 13
+    Tom -> everyone: Fish works for me too. Bin's coming, I'm back in a few seconds. I'll take stroke one, the top line, since that one lays the start. Leo, can you grab the bottom?
+    (Maya held a thought)
+    (Leo held a thought)
+[  208s] 0:45 asked Priya,Leo | dominoes 0 | calls 15
+    Leo -> everyone: Sure, I'll take the bottom line. Bringing a full load for the bin, back shortly.
+    (Priya held a thought)
+[  214s] 1:00 asked Tom,Leo | dominoes 4 | calls 17
+    Leo -> everyone: Back, bin's topped up. I'm on the bottom line now. Tom, you've got the start at the nose, right?
+    Tom -> everyone: Starting the top line now. Leo, bottom line is yours.
+[  219s] 1:15 asked Tom,Leo | dominoes 9 | calls 19
+    Leo -> everyone: Got it, I'm laying the bottom line now.
+    Tom -> everyone: Yep, start's at the nose and it's laid. Keep going on the top line, I'll check the tail join once both lines get there.
+[  248s] 1:30 asked Maya | dominoes 19 | calls 21
+    Maya -> everyone: Top and bottom are both going, nice. I've got 12 in my tray and free hands, so I'll take the tail end and check it when your lines get there. The sharp bits at the back are the risky part, so shout if
+[  261s] 1:45 asked Maya,Tom,Priya,Leo | dominoes 29 | calls 25
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hi! We're making a fish. Tom's on the top line and Leo's on the bottom, both heading back toward the tail, and the start's laid at the nose. I'm covering the tail end. One thing I'd change: the pointy
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  278s] 2:00 asked Tom,Priya,Leo | dominoes 39 | calls 28
+    Priya -> everyone: Good call, Maya. I've rounded the tail on the pad. The body's the same, so Tom and Leo just keep going on one and two. The tail now flares out smoothly instead of the sharp notch. I'm dry-running it t
+    (Tom held a thought)
+    (Leo held a thought)
+[  288s] 2:15 asked Maya,Tom,Leo | dominoes 49 | calls 31
+    Maya -> everyone: Thanks Priya. The pad I'm looking at still shows the pointy tail corners, though. Can you check yours updated? The tail should be a soft flare with no sharp notch. Tom, Leo, keep going, I'll look over
+    (Tom held a thought)
+    (Leo held a thought)
+[  452s] 2:30 asked Tom,Priya,Leo | dominoes 59 | calls 35
+    Priya -> everyone: Good catch, Maya. The pad still had the old pointy tail, so my redraw hadn't stuck. I've just redrawn it with a soft flare. The body is unchanged, so Tom and Leo, keep going and the tail will pick up 
+    (Tom held a thought)
+    (Leo held a thought)
+[  465s] 2:45 asked Maya,Tom,Leo | dominoes 69 | calls 38
+    Maya -> everyone: Thanks Priya. On my side the tail still looks the same, with each line running into the notch and then doubling back up. That turn is too sharp for the fall. Could the lines just keep curving on past 
+    (Tom held a thought)
+    (Leo held a thought)
+[  491s] 3:00 asked Tom,Priya,Leo | dominoes 79 | calls 42
+    Priya -> everyone: Maya, you're right, mine still showed the notch. I've wiped it and redrawn: both lines keep curving on past the body, dip in toward the middle, then flare out to the tips with no doubling back. I'm dr
+    (Tom held a thought)
+    (Leo held a thought)
+[  501s] 3:15 asked Maya,Tom,Leo | dominoes 81 | calls 45
+    Maya -> everyone: Priya, the new tail looks good. Tom, heads up: the top line is pale, so it isn't connected at the nose. I'm closing that gap right now. Keep going on the top line.
+    (Tom held a thought)
+    (Leo held a thought)
+[  512s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 83 | calls 49
+    Priya -> everyone: Thanks Maya. The pad now has the soft tail. I'm carrying the top line on into the tail now. Leo, can you carry the bottom line on the same way? Tom, once Maya's closed the nose gap, can you give the w
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  522s] 3:45 asked Maya,Tom,Leo | dominoes 97 | calls 52
+    Tom -> everyone: Nose joint's closed, and the run looks connected from the start through both lines, only one stray domino near the nose. Priya's on the top tail. I'll carry the bottom line on into its tail now so we 
+    (Maya held a thought)
+    (Leo held a thought)
+[  532s] 4:00 asked Tom,Priya,Leo | dominoes 112 | calls 55
+    Leo -> everyone: Tom, you take the bottom tail, I'll stay off it so we don't double up. I'm going to look over the bottom line near the nose, it looked a bit bunched up there, and I'll shout if I find a break.
+    (Tom held a thought)
+    (Priya held a thought)
