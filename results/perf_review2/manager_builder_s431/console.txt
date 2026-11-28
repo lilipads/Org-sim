@@ -25,3 +25,8 @@
 [  206s] 1:15 asked Priya,Leo | dominoes 67 | calls 21
     Priya -> everyone: Sorry, I muddled that. Tom, stay on the top body line. Leo, you're on the top tail, keep going. Maya, bottom body line. I'll take the bottom tail and then check the joins.
     (Leo held a thought)
+[  217s] 1:30 asked Maya,Tom,Priya,Leo | dominoes 86 | calls 25
+    Leo -> everyone: Priya, I've already got both tail pieces going, top and bottom, so no need to start the bottom one. Could you check the start and the joins instead? Once the body lines reach the tail I'll hook them u
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)

@@ -19,3 +19,6 @@
 [  197s] 1:00 asked - | dominoes 53 | calls 14
 [  206s] 1:15 asked Priya | dominoes 72 | calls 15
     Priya -> everyone: Lower tail's down. I'm joining it to the end of Maya's line now.
+[  217s] 1:30 asked Maya,Tom | dominoes 85 | calls 17
+    Maya -> Priya: Heard you, Priya. Thanks for the tail join. Can you also bridge the end of the tail run to the top and bottom body lines right at the crossing? Nothing's connected to the start yet. I'm still laying t
+    Tom -> everyone: Upper tail's done. I'm joining it to the end of Leo's top line at the crossing now.

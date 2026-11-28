@@ -58,3 +58,13 @@
     (Tom held a thought)
     (Maya held a thought)
     (Leo held a thought)
+[  216s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 118 | calls 50
+    Tom -> everyone: Maya, I'll take the belly into the upper tail, you stay clear. Priya, I'm keeping to the belly side while you do the top into the lower tail.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  224s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 118 | calls 54
+    Leo -> everyone: Priya's right, it's an X: the top end carries on into the lower tail, the belly end into the upper tail. Tom, go ahead on the belly, Priya on the top. I'll stay clear and check the whole run once you 
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)

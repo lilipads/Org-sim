@@ -20,3 +20,6 @@
     Tom -> everyone: Sure Maya, I'll grab the lower tail, stroke 4. I'll be around the fork anyway, so I can do the joins there once the body lines arrive.
 [  208s] 1:15 asked Maya | dominoes 63 | calls 16
     Maya -> everyone: Upper tail's almost done. Once the body lines reach the fork I'll join them up.
+[  224s] 1:30 asked Maya,Tom | dominoes 77 | calls 18
+    Maya -> everyone: Upper tail's done, it's sitting at the fork waiting. The body lines have a long way to go still. Priya, Leo, want me to take the last stretch of your lines into the fork so we meet in the middle? Tell
+    (Tom held a thought)
