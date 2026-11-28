@@ -75,6 +75,11 @@ class LiveConfig:
     check_seconds: dict = field(default_factory=lambda: {"dry_run": 30.0, "squint": 30.0, "ask_client": 45.0})
     manager_schedule: list | None = None   # [[start, end], ...] seconds when a manager is at the table
     show_tally: bool = False         # each player sees how many of their dominoes are connected to the start
+    depot: bool = False              # dominoes come from boxes by the door: trays, fetching, a shared bin
+    fetch_base: float = 40.0         # seconds for a trip to the boxes and back...
+    fetch_per: float = 0.5           # ...plus this much per domino carried (bulk is cheaper per piece)
+    carry_max: int = 40              # most you can carry in one trip
+    tray_max: int = 12               # your own tray holds this many (the shared bin has no limit)
     seams: bool = False              # a stroke that begins on another line stops a hand's width short of it;
                                      # joining two lines is a separate job (connect / fix)
 
@@ -105,6 +110,7 @@ class Decision:
     lock: bool = False               # lock the design: building opens
     review: str = ""                 # design review: my review of the draft
     to_manager: str = ""             # a private message to the manager (nobody else hears it)
+    fetch: dict | None = None        # {"n": how many, "for": "me" | "bin"}: a trip to the boxes
 
     def brief(self) -> dict:
         d = {k: v for k, v in asdict(self).items() if v not in (None, "", [], False)}
@@ -156,6 +162,8 @@ class LiveGame:
         self.checker = checker                      # (kind, name, pad strokes, note) -> what they learn
         self.locked_at: float | None = None
         self.reviews: dict = {}                     # name -> review text (design review)
+        self.tray: dict = dict.fromkeys(n, 0)       # dominoes in each person's own tray (depot games)
+        self.bin: list = []                         # shared bin at the table: [[who brought them, count], ...]
         self._taken: set = set()                    # line ends someone is already carrying on
         self.traced: dict = {}                      # sketch stroke number -> domino ids laid for it
         self.t = 0.0
@@ -196,6 +204,8 @@ class LiveGame:
                 out.append(f"{o} is {verb} around {where((x0 + x1) / 2, (y0 + y1) / 2)}")
             elif t["kind"] == "check":
                 out.append(f"{o} is {t['label']}")
+            elif t["kind"] == "fetch":
+                out.append(f"{o} is away at the boxes fetching dominoes")
         return out
 
     def overlay(self, text: str, loc) -> str:
@@ -222,7 +232,7 @@ class LiveGame:
             return f"Taking down dominoes in {task['area']}: {task['removed']} removed so far."
         if task["kind"] == "inspect":
             return f"Inspecting {task['area']}."
-        if task["kind"] == "check":
+        if task["kind"] in ("check", "fetch"):
             return f"You're {task['label']}."
         return task["kind"]
 
@@ -245,6 +255,7 @@ class LiveGame:
             "start_status": self.start_status(name),
             "decision_status": self.decision_status(name),
             "manager_status": self.manager_status(name),
+            "stock_status": self.stock_status(name),
             "tally": self.tally(name),
             "pad_status": self.pad_status(name),
         }
@@ -557,7 +568,10 @@ class LiveGame:
         label = {"dry_run": "playing the fall through the sketch in their head",
                  "squint": "studying the sketch as a stranger would see it",
                  "ask_client": "away talking to the client"}[kind]
-        self.task[n] = {"kind": "check", "check": kind, "ends": self.t + secs, "result": result, "label": label}
+        cur = self.task.get(n)
+        resume = cur if cur and cur.get("kind") == "build" else None
+        self.task[n] = {"kind": "check", "check": kind, "ends": self.t + secs, "result": result, "label": label,
+                        "resume": resume}
         rec["events"].append({"type": "check_started", "who": n, "check": kind, "note": d.check_note[:300]})
         return True
 
@@ -587,6 +601,61 @@ class LiveGame:
             rec["events"].append({"type": "to_manager", "who": n, "text": text[:1200],
                                   "manager_present": self.manager_present()})
         return sent
+
+    # ---- the depot: trays, fetching, the shared bin --------------------------
+    def bin_total(self) -> int:
+        return sum(c for _, c in self.bin)
+
+    def depot_left(self) -> int:
+        return max(0, self.world.supply.get("table", 0) - sum(self.tray.values()) - self.bin_total())
+
+    def stock_status(self, name: str) -> str:
+        if not self.cfg.depot:
+            return ""
+        return (f"Dominoes: {self.tray[name]} in your tray, {self.bin_total()} in the shared bin at the table, "
+                f"{self.depot_left()} still in the boxes by the door.")
+
+    def fetch_seconds(self, k: int) -> float:
+        return self.cfg.fetch_base + self.cfg.fetch_per * k
+
+    def _start_fetch(self, n: str, d, rec: dict) -> bool:
+        if not self.cfg.depot or not isinstance(d.fetch, dict):
+            return False
+        try:
+            k = int(float(d.fetch.get("n", 0)))
+        except (TypeError, ValueError):
+            k = 0
+        k = max(1, min(self.cfg.carry_max, k))
+        dest = "bin" if str(d.fetch.get("for", "me")).lower() in ("bin", "table", "shared", "everyone") else "me"
+        if dest == "me":
+            room = self.cfg.tray_max - self.tray[n]
+            if room <= 0:
+                self.inbox[n].append(f"Your tray is full ({self.tray[n]}); fetch for the shared bin instead.")
+                return False
+            k = min(k, room)
+        secs = self.fetch_seconds(k)
+        cur = self.task.get(n)
+        resume = cur if cur and cur.get("kind") == "build" else None   # the stroke waits, it isn't dropped
+        self.task[n] = {"kind": "fetch", "n": k, "dest": dest, "ends": self.t + secs, "resume": resume,
+                        "label": f"away at the boxes fetching {k} dominoes for {'the shared bin' if dest == 'bin' else 'your tray'}"}
+        rec["events"].append({"type": "fetch_started", "who": n, "n": k, "dest": dest, "seconds": secs})
+        return True
+
+    def _take_one(self, n: str) -> str | None:
+        """Take a domino to place: from your own tray, else the shared bin. Returns where it came from
+        ("own" or the name of whoever brought it to the bin), or None if there's nothing at hand."""
+        if self.tray[n] > 0:
+            self.tray[n] -= 1
+            return "own"
+        while self.bin and self.bin[0][1] <= 0:
+            self.bin.pop(0)
+        if self.bin:
+            self.bin[0][1] -= 1
+            who = self.bin[0][0]
+            if self.bin[0][1] <= 0:
+                self.bin.pop(0)
+            return who
+        return None
 
     def _pad(self, decisions: dict, rec: dict) -> set:
         """Picking up, passing, putting down and sketching. Returns who sketched this beat
@@ -739,7 +808,14 @@ class LiveGame:
                                                    **({"pointing": msg["pointing"]} if "pointing" in msg else {})}]})
 
     def _start_task(self, n: str, d: Decision, rec: dict):
+        cur = self.task.get(n)
+        if cur and cur.get("kind") == "fetch":         # away at the boxes: nothing at the table until back
+            if d.do not in ("continue", "walk", "stop") or d.check or d.fetch:
+                self.inbox[n].append("You're still away at the boxes; that will have to wait until you're back.")
+            return
         if d.check and self._start_check(n, d, rec):   # a role check takes them away whatever "do" says
+            return
+        if d.fetch and self._start_fetch(n, d, rec):     # a trip to the boxes takes them away from the table
             return
         if d.do in ("continue", "walk") or d.do not in DOS:
             return
@@ -965,14 +1041,35 @@ class LiveGame:
                 self.credit[n] -= spent
                 batch, task["queue"] = task["queue"][:k], task["queue"][k:]
                 pts, new, restood, lifted = [], [], [], []
-                for op in batch:
+                from_bin: dict = {}
+                stalled = False
+                processed = len(batch)
+                for bi, op in enumerate(batch):
                     kind, item = op[0], op[1]
                     if kind == "remove":
                         d0 = self.world.dominoes.get(item)
                         if d0 is not None:
                             self.world.remove([item], self.pool_for_region(d0.region))
                             lifted.append([item, d0.builder])
+                            if cfg.depot:
+                                self.tray[n] += 1              # what you lift is in your hands
                         continue
+                    if kind == "place" and cfg.depot:
+                        src = self._take_one(n)
+                        if src is None:                        # nothing at hand: the stroke waits
+                            task["queue"] = batch[bi:] + task["queue"]
+                            if not task.get("told_empty"):
+                                task["told_empty"] = True
+                                self.inbox[n].append("You've run out of dominoes: your tray and the shared bin are "
+                                                     "empty. Fetch more from the boxes, or wait for someone to.")
+                                self.wake[n].append("you ran out of dominoes")
+                            stalled = True
+                            processed = bi
+                            self.credit[n] = 0.0                # idle hands don't bank time
+                            break
+                        task["told_empty"] = False
+                        if src != "own":
+                            from_bin[src] = from_bin.get(src, 0) + 1
                     if kind == "move":
                         moved = self.world.move(item, *op[2], self.rng, err=skill.get("error", 1.0))
                         if moved:
@@ -990,7 +1087,7 @@ class LiveGame:
                         task["blocked"] += res.blocked
                         if task.get("trace_k") is not None:
                             self.traced.setdefault(task["trace_k"], set()).update(x.id for x in res.placed)
-                task["done"] += len(batch)
+                task["done"] += processed
                 task["placed"] += [d.id for d in new]
                 pts = [(d.x, d.y) for d in new + restood]
                 if pts:
@@ -999,6 +1096,7 @@ class LiveGame:
                 if new or restood or lifted:
                     rec["events"].append({"type": "build", "who": n, "placed": [d.id for d in new],
                                           "restood": [[d.id, d.builder] for d in restood], "lifted": lifted,
+                                          "from_bin": from_bin,
                                           "start": any(d.start for d in new)})
                 if not task["queue"]:
                     self._finish_build(n, task)
@@ -1030,11 +1128,30 @@ class LiveGame:
                                          + (f"; {left} still there." if left else "."))
                     self.wake[n].append("you finished taking down")
                     self.task[n] = None
+            elif task["kind"] == "fetch" and self.t + cfg.beat >= task["ends"]:
+                got = min(task["n"], self.depot_left())
+                if task["dest"] == "bin":
+                    self.bin.append([n, got])
+                    where_ = "put them in the shared bin"
+                else:
+                    self.tray[n] += got
+                    where_ = "kept them in their own tray"
+                rec["events"].append({"type": "fetch", "who": n, "n": got, "dest": task["dest"]})
+                for m in self.by_name:
+                    if m == n:
+                        self.inbox[m].append(f"[{clock(self.t)}] You're back from the boxes with {got} dominoes "
+                                             f"({'in the shared bin' if task['dest'] == 'bin' else 'in your tray'}).")
+                    elif self.location[m] == self.location[n]:
+                        self.inbox[m].append(f"[{clock(self.t)}] {n} came back from the boxes with {got} dominoes and {where_}.")
+                self.wake[n].append("you're back from the boxes")
+                self.task[n] = task.get("resume")              # back to the stroke you were on, if any
+                if self.task[n]:
+                    self.task[n]["told_empty"] = False
             elif task["kind"] == "check" and self.t + cfg.beat >= task["ends"]:
                 self.inbox[n].append(task["result"])
                 self.wake[n].append("your check finished")
                 rec["events"].append({"type": "check", "who": n, "check": task["check"], "result": task["result"]})
-                self.task[n] = None
+                self.task[n] = task.get("resume")
             elif task["kind"] == "inspect" and self.t + cfg.beat >= task["ends"]:
                 report = eye_inspect(self.world, task["area"])
                 self.inbox[n].append(report)

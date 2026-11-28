@@ -214,6 +214,7 @@ class LiveLLMAgent(LiveAgentBase):
             obs.get("start_status", ""),
             obs.get("decision_status", ""),
             obs.get("manager_status", ""),
+            obs.get("stock_status", ""),
             (f"How you're evaluated: {self.eval_line}" if self.eval_line else ""),
             obs.get("tally", ""),
             obs.get("pad_status", ""),
@@ -285,6 +286,7 @@ class LiveLLMAgent(LiveAgentBase):
             lock=bool(d.get("lock")) and d.get("lock") not in ("false", "no"),
             review=str(d.get("review") or "") if isinstance(d.get("review"), str) else "",
             to_manager=str(d.get("to_manager") or "")[:1200] if isinstance(d.get("to_manager"), str) else "",
+            fetch=d.get("fetch") if isinstance(d.get("fetch"), dict) else None,
             notes=d.get("notes") if isinstance(d.get("notes"), str) else None,
             thinking=str(d.get("thinking") or "")[:600])
 

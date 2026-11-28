@@ -415,3 +415,26 @@ def test_manager_arrives_visibly_and_private_messages_are_logged():
     assert any("The manager has come over" in x for o in a.seen for x in o["inbox"])
     talk = [m for t in g.log["turns"] for c in t["conversations"] for m in c["messages"]]
     assert all(m["message"] != "I laid the whole top line" for m in talk)   # private: never said aloud
+
+
+def test_depot_fetching_trays_and_shared_bin():
+    sketch = [{"type": "curve", "points": [[4, 10], [10, 7], [18, 6]]}]
+    tr = {"type": "trace", "stroke": 1}
+    a = Fake("A", [Decision(pad="take", eagerness=9), Decision(sketch=sketch, pad="put_down"),
+                   Decision(do="build", strokes=[tr])] + [Decision(do="continue")] * 60)
+    b = Fake("B", [Decision(), Decision(), Decision(), Decision(fetch={"n": 40, "for": "bin"})] + [Decision()] * 60)
+    w = table_world(phys=EXACT)
+    g = LiveGame(w, [a, b], LiveConfig(duration=300, idle_quiet=15, max_quiet=15, pad_only=True, announce_at=(),
+                                       scratchpad_until=300, seconds_per_domino=3, depot=True,
+                                       fetch_base=20.0, fetch_per=0.5))
+    for _ in range(4):
+        g.step()
+    assert not g.world.dominoes                                   # nothing at hand yet: the stroke waits
+    assert any("run out of dominoes" in x for x in g.inbox["A"] + [y for o in a.seen for y in o["inbox"]])
+    for _ in range(12):
+        g.step()
+    evs = [e for t in g.log["turns"] for e in t["events"]]
+    assert any(e["type"] == "fetch" and e["who"] == "B" and e["n"] == 40 and e["dest"] == "bin" for e in evs)
+    used = sum(e.get("from_bin", {}).get("B", 0) for e in evs if e["type"] == "build")
+    assert used > 0 and used == len(g.world.dominoes)              # every domino A laid came from B's bin
+    assert g.fetch_seconds(40) == 40.0 and g.fetch_seconds(10) == 25.0

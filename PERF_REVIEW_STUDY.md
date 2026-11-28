@@ -478,3 +478,26 @@ Debug findings:
   dominoes, Priya 2 -> 57). One pair compares two different games, not two versions of the same game.
 * **The quiet glue player couldn't get the floor:** held back 8 beats in a row (0:00-1:45) while louder
   players spoke, and he waited with his hands still instead of working.
+
+## 14. Supply work instead of joins (in progress)
+
+**Mechanics (`depot=True`).** Dominoes start in boxes by the door. Each person has a tray (at most 12);
+there is a shared bin at the table (no limit). A trip to the boxes takes 40 s + 0.5 s per domino, at most 40
+per trip: a trayful for yourself costs about 3.8 s per domino, 40 for the bin about 1.5 s per domino. Laying
+uses your tray first, then the bin; with neither, your stroke waits. Everyone at the table hears when someone
+comes back and where the dominoes went (visible to peers). A trip pauses your stroke, which resumes when you
+return; while you're away you can't start anything at the table.
+
+**Engine fixes found on the way:** a trip (or a role check) used to replace the stroke you were on, dropping
+it; and starting a new task while away at the boxes cancelled the trip. Both fixed.
+
+**Scripted check (8 seeds, a fish of about 85 dominoes):**
+
+| Mode | Fell (median) | 90% laid at |
+|---|---|---|
+| Everyone fetches a trayful for themselves | 83 | 5.4 min |
+| Whoever runs out fetches 40 for the shared bin | 82 | **3.2 min** |
+| One runner fetches for the bin, three build | 83 | 5.1 min |
+
+Fetching in bulk for everyone is clearly the efficient, cooperative choice; fetching only your own is
+slower. A designated runner is about break-even with four selfish builders (one fewer pair of hands).
