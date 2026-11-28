@@ -1,0 +1,31 @@
+{
+ "condition": "none",
+ "evaluation_text": "No one is evaluating you individually. Just do your best.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "runner"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.91,
+   "error": 2.21
+  },
+  "Tom": {
+   "speed": 0.71,
+   "error": 2.79
+  },
+  "Priya": {
+   "speed": 1.43,
+   "error": 1.23
+  },
+  "Leo": {
+   "speed": 1.82,
+   "error": 1.61
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full"
+}
