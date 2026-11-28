@@ -146,3 +146,128 @@
     Tom -> everyone: Nothing down on my walk, so we're all set. Hands off, and let the fish swim!
 [  635s] 9:45 asked Maya,Priya,Leo | dominoes 127 | calls 133
     Priya -> everyone: Thanks Tom. All good here, hands off everyone. Let it fall!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.4,
+      "error": 0.91
+    },
+    "Tom": {
+      "speed": 1.49,
+      "error": 1.95
+    },
+    "Priya": {
+      "speed": 0.75,
+      "error": 0.57
+    },
+    "Leo": {
+      "speed": 1.22,
+      "error": 1.7
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 726.6,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo",
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "fish silhouette with forked tail",
+      "leaf or seed shape"
+    ],
+    [
+      "fish outline, side view",
+      "stylized fish with forked tail",
+      "leaf or seed shape with fins"
+    ],
+    [
+      "fish outline with a forked tail",
+      "fish drawn in a simple line style",
+      "leaf or seed shape with a split end"
+    ]
+  ],
+  "placed": 127,
+  "fell": 126,
+  "completion": 0.992,
+  "team_score": 0.992,
+  "first_domino_at": "1:15",
+  "messages": 49,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 14,
+    "Priya": 17,
+    "Maya": 4,
+    "Manager": 5,
+    "Tom": 6
+  },
+  "held_thoughts": 59,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 1,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 156,
+    "failed": 1,
+    "input_tokens": 322,
+    "cache_creation_tokens": 828740,
+    "cache_read_tokens": 565038,
+    "output_tokens": 83243,
+    "seconds": 1387.7,
+    "api_equivalent_usd": 4.0522,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "runner",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "The top lobe I checked is strong, and Priya corroborates her credit for the top line, so her output on a critical stroke was high. I never saw her hands or heard her speak at my visit, so her claims about communication and leadership are unverified and I'm not crediting them."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He was a reliable support: he kept the bin stocked, checked for bumps, and his 'nothing down' report matched the picture. His direct impact was low and he was passive in the visits I saw, though his self-assessment of about a quarter of the result is honest and modest."
+    },
+    "Priya": {
+      "rating": 5,
+      "why": "Her reports matched the picture at every visit, and the fish was complete and connected (126 of 127) with a clean fork. She claimed the belly and lower lobe consistently, credited teammates accurately, and kept the table hands-off to protect the result. The one gap is that I never saw the stray explained or removed."
+    },
+    "Leo": {
+      "rating": 2,
+      "why": "His connectivity report was accurate and the plan produced a readable fish. I saw no domino work from him, and Priya's account of who proposed and backed the design doesn't clearly match his. A claimed 40% share is inflated for someone who laid little, and Priya was the one who actually led."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

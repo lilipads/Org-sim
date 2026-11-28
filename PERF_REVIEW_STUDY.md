@@ -525,3 +525,21 @@ picture is 90% laid a median **30 s sooner** (mean 35 s, range -30 to +90); the 
 delta = 7.6 dominoes, about a quarter more than an average member (25-35). Time is the right measure: by
 dominoes fallen the difference was about 0, because both finish the fish in 10 minutes and that measure mixes
 in laying quality. Non-runners who fetch for the bin keep the per-domino supply credit.
+
+### 14.1 Runner pilot (seed 441, manager review, Tom assigned runner)
+
+Fish recognised (1.0), 126 of 127 fell. Tom made three 40-domino trips to the bin (1:00, 2:00, 4:00);
+Priya also fetched 40 for the bin unprompted; Maya and Leo fetched 12 for themselves. Builders laid 75 of
+Tom's dominoes and never stalled.
+
+| | Oracle | Manager | Peer (replay) | Individual (replay) |
+|---|---|---|---|---|
+| Priya (builder, also fetched for bin) | 65 | 5 | 4.67 | 64 |
+| Maya (builder) | 57 | 4 | 4.0 | 62 |
+| **Tom (runner)** | **43** (table avg 35 + 7.6) | **3** | **3.0** (lowest) | **0** |
+| Leo (drew plan, laid nothing) | 0 (29 with planning) | 2 | 4.0 | 0 |
+
+Runner vs the rest: oracle +2 (an average member); manager -0.7 points (right rank); peers -1.2 points
+(rated lowest, below the planner who laid nothing); individual output 0 vs 42. Peers saw and named every
+delivery but discounted it ("he laid very little himself, and the bin was already well supplied"): working
+glue makes its own value invisible. Tom claimed the lowest share (25%). One game: an illustration, not a result.

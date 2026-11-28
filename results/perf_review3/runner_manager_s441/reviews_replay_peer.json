@@ -1,0 +1,135 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "runner",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 1.4,
+   "error": 0.91
+  },
+  "Tom": {
+   "speed": 1.49,
+   "error": 1.95
+  },
+  "Priya": {
+   "speed": 0.75,
+   "error": 0.57
+  },
+  "Leo": {
+   "speed": 1.22,
+   "error": 1.7
+  }
+ },
+ "manager_schedule": null,
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 3,
+    "why": "He kept the shared bin stocked with several 40-domino runs and did a final walk for bumps, but he laid very little of the picture himself, and the bin was already well supplied."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "I saw her fetch a full load and start the bottom line early, and she then laid the whole belly and lower lobe herself, kept the tail neck clear of collisions, and checked her own work."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He picked the fish, sketched a clear plan with stroke 1 on top and stroke 2 on the bottom, and ran the dry-runs and joins checks, though his lobe-stroke reversal caused some confusion and I never saw him lay dominoes."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "She laid the start domino and traced the whole top line and top tail lobe cleanly, checked it afterwards, and stayed clear of the neck to avoid bumps."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She fetched a full load early, then laid the entire belly and lower lobe, kept the table coordinated, and checked the tail carefully before the push."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He picked the fish, sketched a clear plan and ran the dry-runs and joint checks, though he laid little himself and his lobe-stroke change of plan caused some brief confusion."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 4,
+    "why": "She laid the start and the whole top line and tail lobe cleanly and early, kept clear of the neck to avoid bumps, and checked her line without being asked."
+   },
+   "Tom": {
+    "rating": 3,
+    "why": "He kept the shared bin stocked with big loads and walked the line for bumps, which helped, but he laid little of the picture himself and mostly stood by."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He chose the fish, sketched a buildable plan, dry-ran it and checked the joins, so the whole outline fell from one start, though his lobe-stroke change and retraction briefly muddied things."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "I saw her lay the start and trace the whole top line and top tail lobe cleanly, and she kept clear of the neck so nothing got bumped."
+   },
+   "Tom": {
+    "rating": 3,
+    "why": "He kept the bin well stocked and spotted the crowded dominoes at the lower lobe, but he laid no dominoes himself and stayed on the edges for most of the build."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "I saw her lay the belly and the whole lower lobe, which carried the most work, and she communicated clearly, though the lobe left a stray domino and she pushed back on the plan a couple of times."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 3,
+   "Priya": 3,
+   "Leo": 1
+  },
+  "Tom": {
+   "Maya": 3,
+   "Priya": 9,
+   "Leo": 2
+  },
+  "Priya": {
+   "Maya": 3,
+   "Tom": 3,
+   "Leo": 2
+  },
+  "Leo": {
+   "Maya": 5,
+   "Tom": 3,
+   "Priya": 8
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 3.0,
+   "all_raters": 3.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}
