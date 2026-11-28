@@ -64,6 +64,8 @@ def main():
                     help="Name=share,Name=selfish: how those players fetch (both still build)")
     ap.add_argument("--manager-visibility", choices=["full", "low"], default="full",
                     help="low: visits a fifth of the time and no close look at the table")
+    ap.add_argument("--peer-briefing", action="store_true",
+                    help="peers read data on the value of fetching for the shared bin before rating")
     ap.add_argument("--ambition", action="store_true",
                     help="score = recognition x ambition x uniqueness against the other tables in the round")
     ap.add_argument("--reviews-only", action="store_true",
@@ -277,7 +279,8 @@ def main():
             logs = {n: reviewmod.work_log(game.log, n) for n in names}
             with ThreadPoolExecutor(len(agents)) as ex:
                 given = dict(zip(names, ex.map(lambda a: reviewmod.peer_ratings(
-                    a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name], logs[a.name][0]),
+                    a, game.observe(a.name), heard[a.name], [o for o in names if o != a.name], logs[a.name][0],
+                    reviewmod.FETCH_BRIEFING if args.peer_briefing else ""),
                     agents)))
             rv["peer_ratings_given"] = given
             rv["peer_seen"] = {n: logs[n][1] for n in names}
@@ -316,7 +319,8 @@ def main():
             manager.notes = manager.history[-1]["notes"] if manager.history else ""
             manager.present_prev, manager.visit, manager.queued = False, [], []
         rv = run_reviews()
-        reviewmod.save(os.path.join(args.out, f"reviews_replay_{args.review}.json"), rv)
+        suffix = args.review + ("_briefed" if args.peer_briefing else "")
+        reviewmod.save(os.path.join(args.out, f"reviews_replay_{suffix}.json"), rv)
         print(json.dumps(rv.get("ratings"), indent=1))
         return
 

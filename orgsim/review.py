@@ -335,9 +335,17 @@ def work_log(log: dict, rater: str, radius: float = 5.0) -> tuple:
     return text, seen
 
 
-def peer_ratings(agent, obs: dict, full_conversation: list, others: list, seen_log: str = "") -> dict:
+FETCH_BRIEFING = ("WHAT THE DATA SAYS ABOUT FETCHING (from many tables): a full load (40) brought to the shared bin is "
+                  "three times cheaper per domino than a trayful for yourself (60 s for 40, vs 46 s for 12). Tables where "
+                  "someone kept the bin stocked finished their picture about 30 seconds sooner, out of about five minutes. "
+                  "Every domino a teammate laid from the bin was time they didn't spend walking to the boxes. This work "
+                  "doesn't show in the picture, so weigh it on purpose.")
+
+
+def peer_ratings(agent, obs: dict, full_conversation: list, others: list, seen_log: str = "",
+                 briefing: str = "") -> dict:
     o = dict(obs, conversation=full_conversation)
-    prompt = (agent.situation(o) +
+    prompt = (agent.situation(o) + ("\n\n" + briefing if briefing else "") +
               ("\n\nWHAT YOU SAW OTHERS DO WITH YOUR OWN EYES (your view of the table; others saw other parts):\n"
                + seen_log if seen_log else "") +
               f"\n\nTime is up and the picture has been pushed. Rate each of your teammates "
