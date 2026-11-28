@@ -8,3 +8,290 @@
     Priya -> everyone: Fish works for me, Leo. I've got the pad already, so I'll sketch it right now. Maya, can you take the bottom body line? Tom, the upper tail. Leo, the tail edge and lower tail. I'll start the nose and 
     (Maya held a thought)
     (Tom held a thought)
+[  193s] 0:30 asked Maya,Tom,Leo | dominoes 24 | calls 12
+    Maya -> everyone: Fish, love it. I've got the bottom body line, starting now. Once the tail is down I'll check the joint where it meets the body and patch any gap.
+    (Tom held a thought)
+    (Leo held a thought)
+[  205s] 0:45 asked Leo | dominoes 45 | calls 13
+    Leo -> everyone: Lower tail's down. I'm going to look over the joint where the tail meets the body and the start line, and I'll patch whatever's open.
+[  217s] 1:00 asked Tom,Leo | dominoes 68 | calls 15
+    Leo -> everyone: The start line stops just short of the junction, so I'm joining the top body, bottom body and lower tail onto it now. Priya, is the straight edge at the back of the tail on the pad as its own stroke? 
+    (Tom held a thought)
+[  228s] 1:15 asked Tom,Priya | dominoes 94 | calls 17
+    Tom -> everyone: Upper tail's down from the start. The top body and lower tail still look pale, so I'm joining both to the end of my line now. Leo, shout if you've already done one of them.
+    (Priya held a thought)
+[  383s] 1:30 asked Maya,Leo | dominoes 123 | calls 20
+    Leo -> everyone: Tom, I'm already partway through all three joins at the junction, so you can skip them. Could you lay the straight edge at the back of the tail instead? Nobody's on that yet.
+    (Maya held a thought)
+[  392s] 1:45 asked Tom | dominoes 139 | calls 21
+    Tom -> everyone: Got it, Leo, leaving the joins to you. I'm laying the straight back edge of the tail now.
+[  401s] 2:00 asked Maya,Tom,Leo | dominoes 143 | calls 24
+    Maya -> everyone: Tom, hold up. I've already laid the straight back edge of the tail, so you can skip it. Can you check the nose end where the top and bottom lines meet instead? I'm going to look over the tail joints n
+    (Tom held a thought)
+[  413s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 153 | calls 28
+    Maya -> everyone: Top body is still pale, so nothing up there falls yet. Leo, I'm joining it to the junction now, so shout if you've already got it. Tom, can you check the nose where top and bottom meet?
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  431s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 154 | calls 32
+    Priya -> everyone: Maya, you've got the top body join, so I'll leave that to you. There's a stray line hanging down below the tail that isn't fish, so I'm clearing it. The back edge of the tail should be the straight on
+    (Tom held a thought)
+    (Leo held a thought)
+    (Maya held a thought)
+[  440s] 2:45 asked Maya,Leo | dominoes 156 | calls 34
+    Maya -> everyone: Top body's still pale, so I'm joining it to the junction now. Priya, thanks for clearing the stray line. Tom, how's the nose looking?
+    (Leo held a thought)
+[  453s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 169 | calls 38
+    Leo -> everyone: Maya, the top body join is yours, I'll stay off it. I can't see the straight back edge of the tail standing, so I'm laying it now from the start down to the end of the lower tail. Priya, please hold o
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  464s] 3:15 asked Maya,Priya,Leo | dominoes 174 | calls 41
+    Priya -> Leo: Leo, I'm already on the straight back edge, about half of it is standing down from the start. I'll finish it, so you can skip it. And I'm not clearing anything else near the tail. Could you check wher
+    Maya -> everyone: Top body's still pale, so my one domino didn't catch it. I'm running a proper join from the junction up into it now. Leo, go ahead with the back edge, I'll stay off that. Tom, the nose is where the to
+    (Leo held a thought)
+[  476s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 45
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hi! Fish is mostly up: bottom body's connected, tail's in. The top body line still isn't catching at the junction. It's crowded there, so I'm looking at it closely before I add more dominoes. Leo's on
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  488s] 3:45 asked Maya,Tom,Leo | dominoes 174 | calls 48
+    Maya -> everyone: Tried a closer look at the junction. Top body just needs one clean join, so I'm running it from the dark line up into the pale top line. Leo, Tom, stay clear of that corner for a minute please.
+    (Tom held a thought)
+    (Leo held a thought)
+[  500s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 158 | calls 52
+    Maya -> everyone: My join didn't fit because it's too packed at the corner. I'm re-laying the whole top body line from the pad so it flows out of the junction. Leo, Tom, please stay off that corner until it's down. The
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  509s] 4:15 asked Tom,Priya,Leo | dominoes 188 | calls 55
+    Leo -> everyone: Back edge looks down, Priya. I'm joining its bottom end into the end of the lower tail now. Maya, I'm staying off your corner.
+    (Tom held a thought)
+    (Priya held a thought)
+[  535s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 214 | calls 60
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Top body line only got partway down, so I'm carrying it on from the stub now. Leo, Tom, still staying clear of that corner. Once it's laid I'll close the little gap at the junction and check how much 
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  542s] 4:45 asked Tom,Leo | dominoes 232 | calls 62
+    Tom -> everyone: Hi! Nose is nearly closed. I patched the kink at the bottom-left and one off-line domino higher up, and I'm finishing the last join now. I'm staying off Maya's corner. Once I'm done I'll check the run
+    (Leo held a thought)
+[  549s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 240 | calls 66
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Five minutes left. Top body's nearly laid, just a few more dominoes. As soon as it's down I'll close the gap at the junction and check that the fall gets through. Leo, Tom, thanks for staying clear of
+    (Leo held a thought)
+    (Priya held a thought)
+[  717s] 5:15 asked Tom,Leo | dominoes 236 | calls 69
+    Leo -> everyone: Back edge is joined into the lower tail. I'm staying off Maya's corner. There's a loop of stray dominoes above the head that isn't part of the fish, so I'm pulling those up to get dominoes back. Tom, 
+    (Tom held a thought)
+[  742s] 5:30 asked Maya,Tom | dominoes 230 | calls 72
+    Tom -> everyone: Nose end of the top line is still pale, so I'm joining the bottom line's end into it now, up at the left. Leo, that stray loop above the head is all yours. Maya, I'm nowhere near your corner.
+    (Maya held a thought)
+[  773s] 5:45 asked Maya,Tom,Leo | dominoes 226 | calls 76
+    Maya -> everyone: Top body's down but still not catching at the junction. I'm putting in one clean join from the dark line into it now. Leo, Tom, stay clear of that corner a bit longer, then I'll check how much falls.
+    (Tom held a thought)
+    (Leo held a thought)
+[  784s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 226 | calls 80
+    Maya -> everyone: One join domino went in at the junction. I'm taking a close look to see if the top body catches now. Leo, Tom, keep clear of that corner for a bit.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  799s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 226 | calls 84
+    Leo -> everyone: Tom, I've had a close look at the top left. The fall stops at the end of the line just above the head, where it points up and right with nothing ahead of it. The pale top line out to the nose is just 
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  813s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 233 | calls 88
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hi! Honest status: the fish shape is all there, but the top body still isn't catching at the junction. That's why only about half falls. I'm bridging in from the dark line a bit further up where it's 
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  828s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 241 | calls 93
+    Priya -> everyone: Tom, I've looked at the nose: the fall stops at the little stub just above the head, pointing up and right. The pale top line starts just past it. I'm putting a join in from that stub into the pale li
+    (Leo held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  836s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 241 | calls 97
+    Maya -> everyone: Thanks Priya, nose join is yours. I'm inspecting the junction now to see exactly where the top body stops. Leo, Tom, keep clear of that corner please.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  847s] 7:15 asked Maya,Tom,Priya,Leo | dominoes 243 | calls 101
+    Leo -> everyone: Tom, Priya, I looked at the far left. The nose still has a sharp kink where the top and bottom lines meet. I'm putting a quick fix in there now. Priya, the stub join stays yours.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  876s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 243 | calls 106
+    Maya -> everyone: Bridge is in from the dark line, and there's just a tiny gap left before the top body. I'm closing it now. Leo, Tom, stay clear of that corner for one more minute, then I'll check how much falls.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  890s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 244 | calls 110
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hi! Straight status: the fish is all there, but the top body still isn't catching, so only about half falls. I've been fixing the wrong spot, so I'm inspecting a wider patch around the junction to fin
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  903s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 114
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Last stretch: I'm bridging from the top edge of the dark cluster straight into the pale top line. Leo, Tom, Priya, please stay off this corner and keep the nose side solid.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  912s] 8:15 asked Tom,Priya,Leo | dominoes 250 | calls 117
+    Priya -> everyone: Maya, found it from the nose side. The fall stops just above the head, where the next domino sits a bit off the line. I'm nudging that into line now, so the top line should get fed from the nose.
+    (Leo held a thought)
+    (Tom held a thought)
+[  936s] 8:30 asked Maya,Tom,Priya | dominoes 250 | calls 121
+    Maya -> everyone: Straight talk: I'm out of dominoes, and my last bridge ran off toward the upper right instead of into the top line, so that one's on me. I'm inspecting the junction one more time. Priya, Leo, Tom, if 
+    (Tom held a thought)
+    (Priya held a thought)
+[  947s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 244 | calls 125
+    Leo -> everyone: Maya, I'm pulling up the stray bit in the middle of the body for dominoes. Then I'll make the short join at the top of your corner into the pale top line.
+    (Priya held a thought)
+    (Maya held a thought)
+    (Tom held a thought)
+[  956s] 9:00 asked Maya,Priya,Leo | dominoes 250 | calls 128
+    Leo -> everyone: Maya, I've got dominoes. Putting the short join in from the top of your corner into the pale top line now.
+    (Maya held a thought)
+    (Priya held a thought)
+[  968s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 249 | calls 132
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Thanks Leo, that join is the one that matters. My last bridge ran off toward the upper right, so ignore it. Everyone stay off that corner until the push.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  978s] 9:30 asked Tom,Priya,Leo | dominoes 250 | calls 135
+    Leo -> everyone: Straight status: my join got only part way, 5 dominoes in, then we ran out. It ends right at the pale top line, so it might catch. I'm using the last domino to close the final gap there, then I'm hand
+    (Priya held a thought)
+[  985s] 9:45 asked Maya,Tom,Priya,Leo | dominoes 250 | calls 139
+    Leo -> everyone: Last fix placed nothing, we're out of dominoes. I'm hands off now. Everyone stay clear of the corner for the push.
+    Maya -> everyone: Hands off everyone, let it fall. Nice work, team.
+    (Priya held a thought)
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 2.01,
+      "error": 2.01
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 0.77
+    },
+    "Priya": {
+      "speed": 0.94,
+      "error": 0.5
+    },
+    "Leo": {
+      "speed": 2.28,
+      "error": 0.6
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1081.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "rope or string with a loop and frayed end",
+      "winding road or river with a bend",
+      "fallen domino chain bending into a splayed pile"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "hand-drawn rope or fishing line",
+      "looping river or road sketch"
+    ],
+    [
+      "a loose rope or cable lying in a curve",
+      "a winding river or road with a loop",
+      "a hand-drawn plant stem with branches"
+    ]
+  ],
+  "placed": 250,
+  "fell": 139,
+  "completion": 0.556,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 13,
+    "Priya": 5,
+    "Maya": 20,
+    "Tom": 4,
+    "Manager": 5
+  },
+  "held_thoughts": 83,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 162,
+    "failed": 4,
+    "input_tokens": 328,
+    "cache_creation_tokens": 869133,
+    "cache_read_tokens": 498023,
+    "output_tokens": 115737,
+    "seconds": 2018.3,
+    "api_equivalent_usd": 4.5136,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 2,
+      "why": "She took on the hardest corner and was candid about her failed bridges, but she spent her whole allowance there without success, delegated the key join only after supplies ran out, and wrongly told me the fish was complete and that Priya had fixed the nose. Her self-assessment overstates her impact and leadership relative to what I observed."
+    },
+    "Tom": {
+      "rating": 2,
+      "why": "His claims of work (the nose join, Priya fixing the stub) were contradicted by the visible result and by Priya on two visits, and his self-assessment's 'about 139 connected' figure and 'final join' do not match what I saw (about half falling, nose and top line still pale). His status on overall outcome was accurate, but low reliability and weak collaboration pull him down."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She created the pad sketch and stroke split that organized the team, reversed her earlier claim honestly, and correctly named the top junction as the real open risk. Execution is unproven since the nose join was never placed, and she ran out of dominoes, which shows poor budgeting despite her self-described care."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "His account was the most accurate and matched the outcome: he placed about five dominoes, said the join might not catch, and it didn't fully reach the pale top line. I can't verify his placements and he stayed silent until late, but his reclaiming of strays and ownership of the final link is credible and counts in his favor."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

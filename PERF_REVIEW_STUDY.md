@@ -364,3 +364,18 @@ Readings (6 games per condition, directions not measurements):
   (everyone did, in this game); ratings now cite observed work and spread wider (3.0-4.0).
 * **Glue** is now an assigned job for the paired player ("you don't take a stroke of your own; you make the
   joins, fix breaks, and check others' work").
+
+### 13.3 One-game pilot (seed 411, manager review, Tom as glue)
+
+* Tom did take the glue job: 15 join or fix attempts, only 2 strokes of his own. But almost none held
+  ("my connect placed nothing", "my last nudge placed nothing"), and failed attempts left 28 stray dominoes.
+  The table used all 250 dominoes, 139 fell, and the fish wasn't recognised; the manager rated everyone 2-3.
+* **Engine bug (since dominoes fall either way):** fix and connect found line ends, and the heading to build
+  in, from the way a domino *faces*. Where the run enters a line from the other end, the break was invisible
+  to them, or they built the wrong way. Fixed: for anything the start can reach, both tools now use the
+  direction the run actually travels (`run_dirs`). Re-tested on this game's breaks: fixes and joins now add
+  dominoes to the fall (up to +12 for one join) where before they did nothing.
+* Scripted check (8 seeds, dominoes that fall; a full fish is about 83): no seams 83; seams with nobody
+  joining 64; seams with one person joining 119 (above 83 because the scripted joiner over-builds). With the
+  wider hands: 64 unjoined, 88 joined, with more spread (one seed at 11). Joined seams can complete the fish
+  either way.

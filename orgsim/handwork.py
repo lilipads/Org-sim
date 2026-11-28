@@ -58,10 +58,33 @@ def _has_pred(world: World, d) -> bool:
     return any(p.id != d.id and p.state == "up" and world.hit(p, d)[0] for p in world.near(d.x, d.y, 1.0))
 
 
+def run_dirs(world: World) -> dict:
+    """{domino id: the direction the run travels through it} for every domino the start can reach.
+    (Dominoes fall whichever way they're pushed, so the way a domino faces isn't always the way the run goes.)"""
+    import copy as _copy
+    starts = [d for d in world.dominoes.values() if d.start and d.state == "up"]
+    if not starts:
+        return {}
+    w = _copy.deepcopy(world)
+    times = w.topple([starts[0].id])
+    return {i: w.dominoes[i].angle for i in times}     # topple leaves each one lying the way it fell
+
+
+def oriented(d, dirs: dict):
+    """d itself, or a stand-in pointing the way the run travels through it."""
+    if d is None or d.id not in dirs or abs(angle_diff(dirs[d.id], d.angle)) < 1:
+        return d
+    import copy as _copy
+    o = _copy.copy(d)
+    o.angle = dirs[d.id]
+    return o
+
+
 def pick(world: World, x: float, y: float, prefer: str) -> object | None:
     """The domino someone means by pointing near (x, y): a line end (prefer="end")
     or a line beginning (prefer="begin") if one is close, else the nearest."""
-    cands = [d for d in world.near(x, y, 1.5) if d.state == "up"]
+    dirs = run_dirs(world)
+    cands = [oriented(d, dirs) for d in world.near(x, y, 1.5) if d.state == "up"]
     if not cands:
         return None
     if prefer == "end":
@@ -324,10 +347,13 @@ def fix_specs(world: World, s: dict, max_n: int) -> tuple:
     at = _xy(s.get("at"))
     if not at:
         return [], "fix needs \"at\": [x, y] near the break"
-    ends = [d for d in world.near(at[0], at[1], 2.0) if d.state == "up" and not world.successors(d)]
+    dirs = run_dirs(world)
+    ends = [o for o in (oriented(d, dirs) for d in world.near(at[0], at[1], 2.0) if d.state == "up")
+            if not world.successors(o)]
     if not ends:
         return [], f"you don't see a broken spot near {where(*at)}"
-    ends.sort(key=lambda d: (d.x - at[0]) ** 2 + (d.y - at[1]) ** 2)
+    # ends the run actually reaches come first, then nearest
+    ends.sort(key=lambda d: (0 if d.id in dirs else 1, (d.x - at[0]) ** 2 + (d.y - at[1]) ** 2))
     for d in ends:                       # 1. nudge
         r = math.radians(d.angle)
         ahead = sorted((b for b in world.near(d.x, d.y, 1.3) if b.id != d.id and b.state == "up"

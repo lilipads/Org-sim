@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 2.01,
+      "error": 2.01
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 0.77
+    },
+    "Priya": {
+      "speed": 0.94,
+      "error": 0.5
+    },
+    "Leo": {
+      "speed": 2.28,
+      "error": 0.6
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 1081.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "rope or string with a loop and frayed end",
+      "winding road or river with a bend",
+      "fallen domino chain bending into a splayed pile"
+    ],
+    [
+      "curved chain of fallen dominoes",
+      "hand-drawn rope or fishing line",
+      "looping river or road sketch"
+    ],
+    [
+      "a loose rope or cable lying in a curve",
+      "a winding river or road with a loop",
+      "a hand-drawn plant stem with branches"
+    ]
+  ],
+  "placed": 250,
+  "fell": 139,
+  "completion": 0.556,
+  "team_score": 0.0,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 13,
+    "Priya": 5,
+    "Maya": 20,
+    "Tom": 4,
+    "Manager": 5
+  },
+  "held_thoughts": 83,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 162,
+    "failed": 4,
+    "input_tokens": 328,
+    "cache_creation_tokens": 869133,
+    "cache_read_tokens": 498023,
+    "output_tokens": 115737,
+    "seconds": 2018.3,
+    "api_equivalent_usd": 4.5136,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 2,
+      "why": "She took on the hardest corner and was candid about her failed bridges, but she spent her whole allowance there without success, delegated the key join only after supplies ran out, and wrongly told me the fish was complete and that Priya had fixed the nose. Her self-assessment overstates her impact and leadership relative to what I observed."
+    },
+    "Tom": {
+      "rating": 2,
+      "why": "His claims of work (the nose join, Priya fixing the stub) were contradicted by the visible result and by Priya on two visits, and his self-assessment's 'about 139 connected' figure and 'final join' do not match what I saw (about half falling, nose and top line still pale). His status on overall outcome was accurate, but low reliability and weak collaboration pull him down."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She created the pad sketch and stroke split that organized the team, reversed her earlier claim honestly, and correctly named the top junction as the real open risk. Execution is unproven since the nose join was never placed, and she ran out of dominoes, which shows poor budgeting despite her self-described care."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "His account was the most accurate and matched the outcome: he placed about five dominoes, said the join might not catch, and it didn't fully reach the pale top line. I can't verify his placements and he stayed silent until late, but his reclaiming of strays and ownership of the final link is credible and counts in his favor."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}
