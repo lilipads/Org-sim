@@ -1,0 +1,48 @@
+[   27s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: Let's do a fish, big and side-on with a forked tail. I'm sketching it now. Tom, Priya, can you each grab a full load of dominoes for the shared bin? Maya, stay free and I'll hand you a stroke to trace
+    (Priya held a thought)
+    (Maya held a thought)
+[   36s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 8
+    Priya -> everyone: Fish works for me! I'm off to the boxes for a full load for the bin. Maya, you could take the top line first since it lays the start. Back in about a minute.
+    (Maya held a thought)
+    (Tom held a thought)
+[   51s] 0:30 asked Maya,Leo | dominoes 0 | calls 10
+    Leo -> everyone: Fish is on the pad. Stroke 1 is the top line and the top tail lobe, stroke 2 is the bottom. Maya, once you're back, trace stroke 1, since it lays the start. I'll take stroke 2 once I have dominoes.
+    (Maya held a thought)
+[   56s] 0:45 asked Maya | dominoes 0 | calls 11
+    Maya -> everyone: Fish works for me. I'll take stroke 1 and lay the start as soon as I'm back with my tray.
+[   64s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 15
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Hi! We're building a big side-on fish with a forked tail. The plan's on the pad. Maya lays the start and traces the top line, I take the bottom line, and Tom and Priya are stocking the bin. I'm headin
+    (Priya held a thought)
+    (Tom held a thought)
+    (Maya held a thought)
+[   74s] 1:15 asked Maya,Tom,Priya | dominoes 8 | calls 18
+    Priya -> everyone: Leo, my hands are free and the bin's stocked with a good pile, so I'll start on the bottom line now. It'll wait for Maya's start to go down. You can save your tray for the tail or fixes, and do the dr
+    (Tom held a thought)
+    (Maya held a thought)
+[   82s] 1:30 asked Maya,Leo | dominoes 19 | calls 20
+    Leo -> everyone: Sounds good, Priya, you take the bottom line. I'll bring my tray back and then dry-run it and check the joins. Maya and Priya, you're both close at the nose, so give each other a little room to avoid 
+    (Maya held a thought)
+[   89s] 1:45 asked Maya,Priya | dominoes 26 | calls 22
+    Maya -> everyone: Start's down and I'm laying the top line now. Priya, we're both close at the nose, so start the bottom line a bit further along and we won't bump.
+    (Priya held a thought)
+[  108s] 2:00 asked Priya,Leo | dominoes 35 | calls 24
+    Priya -> everyone: Got it, Maya! You're out along the top and I'm down the bottom, so we're well apart. Start's down and the run reaches my line, so I'm carrying on. Leo, dry-run whenever you're ready.
+    (Leo held a thought)
+[  129s] 2:15 asked Maya,Tom,Leo | dominoes 46 | calls 28
+    Leo -> everyone: Thanks Priya. I'm dry-running the whole fish now, mainly where the top and bottom lines squeeze together at the tail neck. Keep going, you two. Tom, you've got the bin stocked, so stand by to help wit
+    (Tom held a thought)
+    (Maya held a thought)
+[  142s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 54 | calls 32
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Quick update: the fish is on track. My dry run says both lines fall all the way through, and Maya and Priya are laying the top and bottom lines now. I'm going to look closely at the tail end, where th
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  161s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 60 | calls 36
+    Tom -> everyone: Hi! The bin's still at about eighty-five, so we're well stocked and I'm not running to the boxes. I'm free for the tail, Leo. Want me to take the lower lobe once Priya's line gets there, and Maya keep
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
