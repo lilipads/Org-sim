@@ -37,3 +37,220 @@
     Maya -> everyone: Bottom body line's done. I'm joining it to the bottom tail piece now, so Priya, you don't need to. Tom, nice work on the top one.
     (Priya held a thought)
     (Leo held a thought)
+[  258s] 2:15 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 36
+    Priya -> everyone: Tom, the top tail still looks pale to me, so I'm bridging that gap with a short extend now. Shout if you've already got it.
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  268s] 2:30 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 40
+    Tom -> everyone: Priya, I put two dominoes on that end just now, so don't double up. I'm checking whether the tail's connected.
+    (Leo held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  278s] 2:45 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 44
+    Priya -> everyone: Tom, I just looked closely. There's still a tiny gap right where your two dominoes meet the tail, because the next one sits a bit off to the side. I'll nudge it into line with a quick fix, so give me 
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  286s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 48
+    Priya -> everyone: Tom, my nudge didn't take, so I'm bridging that last bit into the tail with a connect. Give me a few seconds there.
+    (Maya held a thought)
+    (Tom held a thought)
+[  298s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 52
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Tom -> everyone: Hi! Fish is nearly there. Both body lines are down and the start works. Priya, it's yours, I'll stay off that join. I'll look at the tail again after your connect and shout if it's still pale.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  307s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 110 | calls 56
+    Maya -> everyone: Hi! Fish is nearly done. Both body lines and the bottom tail fall from the nose. I just looked closely at the top tail and it's still pale. The body line ends a bit below where the tail starts, and th
+    (Priya held a thought)
+    (Leo held a thought)
+[  319s] 3:45 asked Tom,Priya,Leo | dominoes 110 | calls 59
+    Priya -> everyone: Maya, yes please, redo the top tail from the pad. My connect can't make that turn, so it's all yours. I'll stay off that end. Shout when it's down and I'll check the whole run from the nose.
+    (Tom held a thought)
+    (Leo held a thought)
+[  328s] 4:00 asked Maya,Tom,Leo | dominoes 116 | calls 62
+    Maya -> everyone: On it, redoing the top tail from the pad now. Priya, I'll shout when it's down so you can check the run.
+    (Leo held a thought)
+    (Tom held a thought)
+[  355s] 4:15 asked Tom,Priya,Leo | dominoes 123 | calls 67
+    Leo -> everyone: Maya, go ahead with the redo. I'm dropping my connect so we don't collide. Shout when it's down and I'll look over the tail and the bottom end.
+    (Tom held a thought)
+[  365s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 127 | calls 71
+    Tom -> everyone: Sounds good, Maya, it's all yours. I'll keep my hands off that end and take a look once it's down.
+    Maya -> everyone: Thanks Leo. Six more to go on the top tail, then I'll shout.
+[  372s] 4:45 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 75
+    Maya -> everyone: Thanks Tom. Two left on the top tail, then I'll shout and we can check the run.
+[  381s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 79
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Top tail's down. Give me a few seconds to inspect it before I call it good. Priya, Leo, hold off on that end until I shout.
+[  394s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 83
+    Maya -> everyone: Top tail's connected. The run carries through the whole body and both tail pieces. The only dominoes not connected are some old pale leftovers up by the tail, and they just won't show. The tip's a bit
+    (Leo held a thought)
+    (Priya held a thought)
+[  399s] 5:30 asked Tom,Priya,Leo | dominoes 129 | calls 86
+    Priya -> everyone: Maya, I looked it over from the nose and it reads dark all the way through to the tail tip. Nice work. The only pale bits are the old leftovers just below the tail, and they won't show. I'm leaving it
+    (Leo held a thought)
+    (Tom held a thought)
+[  406s] 5:45 asked Maya,Tom,Leo | dominoes 129 | calls 89
+    Leo -> everyone: Maya, Priya, I looked it over too and it agrees with you. The start carries through the body and both tail pieces. I'm keeping my hands off.
+    (Maya held a thought)
+[  411s] 6:00 asked Maya,Tom,Priya | dominoes 129 | calls 92
+    Maya -> everyone: Thanks Priya, thanks Leo. Looks good to me too. Everyone hands off and let the clock run out.
+    Priya -> everyone: All good from me. Hands off and let's see it fall.
+[  417s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 96
+[  417s] 6:30 asked - | dominoes 129 | calls 96
+[  417s] 6:45 asked - | dominoes 129 | calls 96
+[  426s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 100
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Tom -> everyone: Hi! We're done, just letting the clock run out. It's a fish. Maya did the top tail redo, Priya and Leo checked the run from the nose, and it all reads connected. I built the top body line and checked 
+    (Priya held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  431s] 7:15 asked Maya,Priya,Leo | dominoes 129 | calls 103
+[  431s] 7:30 asked - | dominoes 129 | calls 103
+[  431s] 7:45 asked - | dominoes 129 | calls 103
+[  449s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 108
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Two minutes, we're good. Hands off and enjoy the fall.
+    Priya -> everyone: Two minutes, hands off everyone. Fingers crossed for the fish!
+[  455s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 112
+    Priya -> everyone: Ha, I'm just going to sit on my hands now. Good fish, everyone.
+[  461s] 8:30 asked Maya,Tom,Leo | dominoes 129 | calls 115
+    Maya -> everyone: Ha, same here, sitting on my hands. Great teamwork, everyone. Let's watch the fish fall!
+[  468s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 129 | calls 119
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Hey! We built a fish: nose at the start on the left, big body, and a forked tail on the right. The run is connected from the nose through the body and both tail pieces, and Priya and Leo both checked 
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  474s] 9:00 asked Tom,Priya,Leo | dominoes 129 | calls 122
+[  474s] 9:15 asked - | dominoes 129 | calls 122
+[  474s] 9:30 asked - | dominoes 129 | calls 122
+[  479s] 9:45 asked Maya | dominoes 129 | calls 123
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.51,
+      "error": 1.2
+    },
+    "Tom": {
+      "speed": 2.21,
+      "error": 2.0
+    },
+    "Priya": {
+      "speed": 1.7,
+      "error": 0.3
+    },
+    "Leo": {
+      "speed": 1.22,
+      "error": 1.93
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 581.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline, side view",
+      "tadpole or seed-shaped outline",
+      "bird body with curled tail"
+    ],
+    [
+      "fish shape made of dominoes",
+      "tadpole or sperm outline",
+      "leaf or seed outline"
+    ],
+    [
+      "fish outline",
+      "tadpole or sperm shape",
+      "bean or seed outline"
+    ]
+  ],
+  "placed": 129,
+  "fell": 121,
+  "completion": 0.938,
+  "team_score": 0.938,
+  "first_domino_at": "0:45",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 12,
+    "Manager": 4,
+    "Tom": 6,
+    "Leo": 3
+  },
+  "held_thoughts": 51,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 146,
+    "failed": 1,
+    "input_tokens": 300,
+    "cache_creation_tokens": 690100,
+    "cache_read_tokens": 527340,
+    "output_tokens": 72167,
+    "seconds": 1243.8,
+    "api_equivalent_usd": 3.3923,
+    "cached": 1
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "builder",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 5,
+      "why": "I saw her diagnose the top-tail join, redo it, and give clear, honest status updates, including the pale leftovers, the hands-off call, and the remaining wait. She was the strongest contributor I observed, though the scruffy tail tip is still a risk at the push, and her leadership is emerging rather than fully established."
+    },
+    "Tom": {
+      "rating": 4,
+      "why": "His private report was consistent with what I saw (121 of 129 connected, pale leftovers), and he showed good judgment in checking the tail and holding back so Maya could finish cleanly. Most of his account of building the top body line is self-report and I can't tell which dominoes were his, so I'm rating his solid execution and collaboration without crediting a larger share."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "Teammates say she delegated well, followed through, and checked the run independently, and her leadership is improving, but I haven't seen this myself. I'm giving a moderate rating based on that second-hand evidence, and it could rise if I observe or confirm her contribution directly."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "I have no direct evidence of his work. The only support is Maya's second-hand note that he checked the run independently, and I haven't yet heard from him about what he did or what he'd flag about the tail tip. This is a cautious middle rating that doesn't penalize his silence as poor work, and I'll revisit it once I've asked him directly."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

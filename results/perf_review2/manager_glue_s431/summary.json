@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.51,
+      "error": 1.2
+    },
+    "Tom": {
+      "speed": 2.21,
+      "error": 2.0
+    },
+    "Priya": {
+      "speed": 1.7,
+      "error": 0.3
+    },
+    "Leo": {
+      "speed": 1.22,
+      "error": 1.93
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 536.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "fish side view",
+      "bird or wing shape"
+    ],
+    [
+      "fish outline (side view)",
+      "fish with forked tail",
+      "dolphin or whale silhouette"
+    ],
+    [
+      "fish seen from the side",
+      "tadpole or sperm-like shape",
+      "boat hull in profile"
+    ]
+  ],
+  "placed": 119,
+  "fell": 117,
+  "completion": 0.983,
+  "team_score": 0.983,
+  "first_domino_at": "0:30",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 8,
+    "Maya": 9,
+    "Leo": 7,
+    "Manager": 4,
+    "Tom": 4
+  },
+  "held_thoughts": 51,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 135,
+    "failed": 0,
+    "input_tokens": 282,
+    "cache_creation_tokens": 634273,
+    "cache_read_tokens": 481318,
+    "output_tokens": 81430,
+    "seconds": 1133.2,
+    "api_equivalent_usd": 3.2657,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She built the tail fork, did the end-to-end check, and showed quiet but real ownership, and the picture is connected through both tail tips as she said. She was slightly complacent about the overlap and the strays, and her claim to have called hands-off is one I only partly saw."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He did the nose joins, which were essential and which the connected nose confirms, and his reports were honest and accurate. His contribution was narrow and lower-profile, and his updates echoed Priya's wording, so I saw little independent judgment or initiative beyond his one piece."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "I saw her top line was clean, her delegation of the nose join and her fall checks were good, and her report matched the picture. I couldn't confirm she personally made the hands-off call, and her claim to have proposed the fish overlaps with Maya's, so I discounted both. She also missed the redundant double run."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He built the whole bottom line, checked the nose, kept calm, and I saw him call hands-off, so his execution and collaboration are well supported. He, like the others, never flagged the double run on the lower left, which keeps him from a higher mark."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -48,3 +48,203 @@
     Leo -> everyone: Maya, I'm at the turn now. My last few dominoes carry just past it, so start your fork from wherever mine stops. I'll shout when I'm done. After that I'll close the gap at the nose with Priya.
     (Maya held a thought)
     (Tom held a thought)
+[  271s] 2:45 asked Maya,Tom,Priya | dominoes 100 | calls 46
+    Maya -> everyone: Leo, you keep going out at the tail, I'll stay clear. I'm closing the gap at the nose now so the fall can get round to your line. Priya, shout if you see it stall there.
+    (Tom held a thought)
+    (Priya held a thought)
+[  281s] 3:00 asked Maya,Tom,Priya,Leo | dominoes 108 | calls 50
+    Tom -> everyone: Maya, Priya, I've already curved a few dominoes round the nose into Leo's line, so Maya, you can leave that gap. I'm checking now that the fall gets through.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  292s] 3:15 asked Maya,Tom,Priya,Leo | dominoes 117 | calls 54
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Quick update: nearly the whole run is connected, just two stray dominoes at the nose and Tom's on those. Leo's line is done out at the tail, so I'm carrying it on to the lower tip now. Tom, shout if t
+    (Priya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  301s] 3:30 asked Tom,Priya,Leo | dominoes 119 | calls 57
+    Leo -> everyone: Maya, I'm about to build over the same stretch you're on at the lower tip, so you keep it and I'll step off. I'm going to look over the nose join now. Tom, thanks for curving that in.
+    (Priya held a thought)
+    (Tom held a thought)
+[  311s] 3:45 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 61
+    Maya -> everyone: Lower tip's done, so the tail's finished. Leo, Tom, how's the nose looking? I'm going to check the whole run end to end.
+    (Priya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  323s] 4:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 65
+    Priya -> everyone: Nice work, Maya. From the start the fall carries nearly the whole fish. Tom, how's the nose? Once that's solid, let's all keep our hands off so nobody bumps anything.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  348s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 70
+    Maya -> everyone: Thanks Priya. I went over the whole run and the fall carries from the start all the way round the fish, both tail tips included. Only two stray dominoes near the nose aren't connected, and they're off
+    (Tom held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  355s] 4:30 asked Tom,Priya,Leo | dominoes 119 | calls 73
+    Leo -> everyone: I've been over the nose closely. The fall gets round it into the bottom line fine. The two strays just sit beside the line and won't show, so I'm leaving them. Hands off from here, everyone.
+    (Tom held a thought)
+    (Priya held a thought)
+[  362s] 4:45 asked Maya,Tom,Priya | dominoes 119 | calls 76
+    Tom -> everyone: Nose looks good from here. Just two loose ones left, off the outline, so they won't matter. I'm hands off now.
+    Priya -> everyone: Thanks Leo, sounds good. Hands off from here, everyone. Nice work on the fish!
+[  368s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 80
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+[  368s] 5:15 asked - | dominoes 119 | calls 80
+[  368s] 5:30 asked - | dominoes 119 | calls 80
+[  368s] 5:45 asked - | dominoes 119 | calls 80
+[  374s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 84
+[  374s] 6:15 asked - | dominoes 119 | calls 84
+[  374s] 6:30 asked - | dominoes 119 | calls 84
+[  374s] 6:45 asked - | dominoes 119 | calls 84
+[  382s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 88
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: Hi. The fish is built and the fall carries from the start through nearly all of it, both tail tips included. I checked the nose closely. Only two stray dominoes sit beside the line, and they won't sho
+    (Tom held a thought)
+    (Maya held a thought)
+    (Priya held a thought)
+[  388s] 7:15 asked Maya,Tom,Priya | dominoes 119 | calls 91
+[  388s] 7:30 asked - | dominoes 119 | calls 91
+[  388s] 7:45 asked - | dominoes 119 | calls 91
+[  409s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 96
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Two minutes, we're good. Hands off, nice work everyone.
+[  415s] 8:15 asked Tom,Priya,Leo | dominoes 119 | calls 99
+    Priya -> everyone: Agreed, we're good. Hands off and let it fall.
+[  421s] 8:30 asked Maya,Tom,Leo | dominoes 119 | calls 102
+[  429s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 119 | calls 106
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! The fish is built and the fall carries from the start round the whole outline, both tail tips included. Only two loose dominoes by the nose are off the line, so they won't show. We're hands off no
+    (Tom held a thought)
+    (Maya held a thought)
+    (Leo held a thought)
+[  435s] 9:00 asked Maya,Tom,Leo | dominoes 119 | calls 109
+    Tom -> everyone: Hi! We built a fish, and the fall carries from the start round the whole outline. I did the joins around the nose. Just two loose ones beside the line that won't show. Hands off now.
+[  441s] 9:15 asked Maya,Priya,Leo | dominoes 119 | calls 112
+[  441s] 9:30 asked - | dominoes 119 | calls 112
+[  441s] 9:45 asked - | dominoes 119 | calls 112
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.51,
+      "error": 1.2
+    },
+    "Tom": {
+      "speed": 2.21,
+      "error": 2.0
+    },
+    "Priya": {
+      "speed": 1.7,
+      "error": 0.3
+    },
+    "Leo": {
+      "speed": 1.22,
+      "error": 1.93
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 536.5,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline",
+      "fish side view",
+      "bird or wing shape"
+    ],
+    [
+      "fish outline (side view)",
+      "fish with forked tail",
+      "dolphin or whale silhouette"
+    ],
+    [
+      "fish seen from the side",
+      "tadpole or sperm-like shape",
+      "boat hull in profile"
+    ]
+  ],
+  "placed": 119,
+  "fell": 117,
+  "completion": 0.983,
+  "team_score": 0.983,
+  "first_domino_at": "0:30",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 8,
+    "Maya": 9,
+    "Leo": 7,
+    "Manager": 4,
+    "Tom": 4
+  },
+  "held_thoughts": 51,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 135,
+    "failed": 0,
+    "input_tokens": 282,
+    "cache_creation_tokens": 634273,
+    "cache_read_tokens": 481318,
+    "output_tokens": 81430,
+    "seconds": 1133.2,
+    "api_equivalent_usd": 3.2657,
+    "cached": 0
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She built the tail fork, did the end-to-end check, and showed quiet but real ownership, and the picture is connected through both tail tips as she said. She was slightly complacent about the overlap and the strays, and her claim to have called hands-off is one I only partly saw."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He did the nose joins, which were essential and which the connected nose confirms, and his reports were honest and accurate. His contribution was narrow and lower-profile, and his updates echoed Priya's wording, so I saw little independent judgment or initiative beyond his one piece."
+    },
+    "Priya": {
+      "rating": 4,
+      "why": "I saw her top line was clean, her delegation of the nose join and her fall checks were good, and her report matched the picture. I couldn't confirm she personally made the hands-off call, and her claim to have proposed the fish overlaps with Maya's, so I discounted both. She also missed the redundant double run."
+    },
+    "Leo": {
+      "rating": 4,
+      "why": "He built the whole bottom line, checked the nose, kept calm, and I saw him call hands-off, so his execution and collaboration are well supported. He, like the others, never flagged the double run on the lower left, which keeps him from a higher mark."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

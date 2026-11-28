@@ -1,0 +1,125 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 1.51,
+      "error": 1.2
+    },
+    "Tom": {
+      "speed": 2.21,
+      "error": 2.0
+    },
+    "Priya": {
+      "speed": 1.7,
+      "error": 0.3
+    },
+    "Leo": {
+      "speed": 1.22,
+      "error": 1.93
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 581.1,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Maya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline, side view",
+      "tadpole or seed-shaped outline",
+      "bird body with curled tail"
+    ],
+    [
+      "fish shape made of dominoes",
+      "tadpole or sperm outline",
+      "leaf or seed outline"
+    ],
+    [
+      "fish outline",
+      "tadpole or sperm shape",
+      "bean or seed outline"
+    ]
+  ],
+  "placed": 129,
+  "fell": 121,
+  "completion": 0.938,
+  "team_score": 0.938,
+  "first_domino_at": "0:45",
+  "messages": 40,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 12,
+    "Maya": 12,
+    "Manager": 4,
+    "Tom": 6,
+    "Leo": 3
+  },
+  "held_thoughts": 51,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 146,
+    "failed": 1,
+    "input_tokens": 300,
+    "cache_creation_tokens": 690100,
+    "cache_read_tokens": 527340,
+    "output_tokens": 72167,
+    "seconds": 1243.8,
+    "api_equivalent_usd": 3.3923,
+    "cached": 1
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "builder",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 5,
+      "why": "I saw her diagnose the top-tail join, redo it, and give clear, honest status updates, including the pale leftovers, the hands-off call, and the remaining wait. She was the strongest contributor I observed, though the scruffy tail tip is still a risk at the push, and her leadership is emerging rather than fully established."
+    },
+    "Tom": {
+      "rating": 4,
+      "why": "His private report was consistent with what I saw (121 of 129 connected, pale leftovers), and he showed good judgment in checking the tail and holding back so Maya could finish cleanly. Most of his account of building the top body line is self-report and I can't tell which dominoes were his, so I'm rating his solid execution and collaboration without crediting a larger share."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "Teammates say she delegated well, followed through, and checked the run independently, and her leadership is improving, but I haven't seen this myself. I'm giving a moderate rating based on that second-hand evidence, and it could rise if I observe or confirm her contribution directly."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "I have no direct evidence of his work. The only support is Maya's second-hand note that he checked the run independently, and I haven't yet heard from him about what he did or what he'd flag about the tail tip. This is a cautious middle rating that doesn't penalize his silence as poor work, and I'll revisit it once I've asked him directly."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

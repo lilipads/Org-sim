@@ -459,3 +459,22 @@ before). Game test (seed 422): the table chose a **swan** "because nobody else w
 single-outline shape with no shading or fill", which every domino picture is; the prompt now judges against
 other domino pictures (1 = a plain oval or simple fish, 10 = an ambitious subject with several distinctive
 features, cleanly done). Re-scored: swan 3.7, the seed-421 fish 3.0.
+
+### 13.9 First real pair (seed 431, manager review, Tom builder vs glue)
+
+| | Tom builder | Tom glue |
+|---|---|---|
+| Fish recognised, fell | 1.0, 121/129 | 1.0, 117/119 |
+| Tom: laid, credited fixes, oracle | 37, 0, 26 | 3, 0, 3 |
+| Tom: manager rating | 4 | 3 |
+| Maya laid / Priya laid | 58 / 2 | 5 / 57 |
+
+Debug findings:
+* **Too little glue work to do.** Only one player's strokes got seam gaps (strokes from START are exempt,
+  and this plan had only about two seams). Others closed some joins themselves; the oracle credits no
+  fixes in the glue game. The glue player had almost nothing to contribute, so his rating and his oracle
+  score both dropped: no evidence about review bias either way.
+* **The pair diverged completely.** Changing only Tom's instructions reshuffled the whole table (Maya 58 -> 5
+  dominoes, Priya 2 -> 57). One pair compares two different games, not two versions of the same game.
+* **The quiet glue player couldn't get the floor:** held back 8 beats in a row (0:00-1:45) while louder
+  players spoke, and he waited with his hands still instead of working.
