@@ -1,0 +1,27 @@
+[  151s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Let's keep it simple: a big fish. I'll sketch it now. Body is a fat oval, forked tail on the right. Give me a few seconds and then we can split up the lines.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[  158s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 8
+    Maya -> everyone: Big fish, love it. Priya, the pad's yours. Sketch it with the start at the nose so every line leaves from there, and I'll take the bottom line when it's up.
+    (Leo held a thought)
+    (Tom held a thought)
+[  180s] 0:30 asked Tom,Priya,Leo | dominoes 0 | calls 11
+    Priya -> everyone: Sketch is up. Tom, can you take the top line? Maya, the bottom one like you said. Leo, the two tail pieces once the body lines reach them. I'll check the joins.
+    (Tom held a thought)
+[  190s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 24 | calls 15
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Hi! We're doing a big fish, forked tail on the right. Nothing's down yet, so I'm laying the start and the top line myself right now. Tom, could you take the top tail piece instead? Leo, you take the b
+    (Maya held a thought)
+    (Tom held a thought)
+    (Leo held a thought)
+[  199s] 1:00 asked Maya,Tom,Priya,Leo | dominoes 43 | calls 19
+    Tom -> everyone: Priya, I'm already about a third of the way along the top line from the nose, and the start's down. I'll stay on it so we don't double up. Could you take the joins, or the bottom tail piece? Leo's alr
+    (Maya held a thought)
+    (Leo held a thought)
+    (Priya held a thought)
+[  206s] 1:15 asked Priya,Leo | dominoes 67 | calls 21
+    Priya -> everyone: Sorry, I muddled that. Tom, stay on the top body line. Leo, you're on the top tail, keep going. Maya, bottom body line. I'll take the bottom tail and then check the joins.
+    (Leo held a thought)

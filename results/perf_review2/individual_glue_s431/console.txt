@@ -1,0 +1,22 @@
+[  163s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Leo -> everyone: How about a fish? Big body, forked tail, easy to recognise. I'll sketch it on the pad now, and then we can split the strokes.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  169s] 0:15 asked Maya,Tom,Priya | dominoes 0 | calls 8
+    Priya -> everyone: Fish sounds good, Leo, go for it. Sketch it big, and I'll trace the first stroke off the start once it's on the pad.
+    (Maya held a thought)
+    (Tom held a thought)
+[  185s] 0:30 asked Maya,Tom,Leo | dominoes 0 | calls 11
+    Leo -> everyone: Fish is on the pad. Priya, can you take the first stroke, the top of the body from the nose? I'll do the belly line. Tom and Maya, could one of you take the upper tail fin and the other the lower?
+    (Maya held a thought)
+    (Tom held a thought)
+[  192s] 0:45 asked Maya,Tom,Priya | dominoes 9 | calls 14
+    Maya -> everyone: Fish works for me. I'll take the upper tail, stroke 3. Tom, can you grab the lower one? I'll check the join where the tail meets the body once the lines get there.
+    (Tom held a thought)
+    (Priya held a thought)
+[  203s] 1:00 asked Tom | dominoes 35 | calls 15
+    Tom -> everyone: Sure Maya, I'll grab the lower tail, stroke 4. I'll be around the fork anyway, so I can do the joins there once the body lines arrive.
+[  208s] 1:15 asked Maya | dominoes 63 | calls 16
+    Maya -> everyone: Upper tail's almost done. Once the body lines reach the fork I'll join them up.

@@ -449,3 +449,13 @@ The larger model treats the fish as the *correct* answer to "an animal whose out
 built from a chain of dominoes", and its reasons cite the constraints ("one smooth closed outline… easy to
 chain from a single start… no sharp corners"). Personas don't shift it, and the feasibility guide reinforces
 it. Variety needs an explicit lever (an assigned or excluded animal), not more sampling.
+
+### 13.8 Ambition and uniqueness rewards (opt-in `--ambition`)
+
+Probe (16 samples, larger model): with judges scoring recognition x ambition x uniqueness (different from the
+other tables), the first proposal was giraffe 9, snail 4, seahorse 2, swan 1: no fish at all (16/16 fish
+before). Game test (seed 422): the table chose a **swan** "because nobody else will do it", built it cleanly
+(112 of 112 fell) and judges recognised it (0.83). The first ambition judges rated it 2/10 for being "a simple
+single-outline shape with no shading or fill", which every domino picture is; the prompt now judges against
+other domino pictures (1 = a plain oval or simple fish, 10 = an ambitious subject with several distinctive
+features, cleanly done). Re-scored: swan 3.7, the seed-421 fish 3.0.

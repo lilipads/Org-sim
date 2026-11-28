@@ -49,3 +49,182 @@
     Leo -> Maya: Maya, you've got the front of the neck, I'll stay clear. I'll look over the head joint at the beak and tell you if it's off.
     Priya -> everyone: Go for it, Maya, I'm not on the neck. I'll look over the head and beak joint up top and shout if anything's off.
     (Tom held a thought)
+[  167s] 3:30 asked Maya,Tom,Priya,Leo | dominoes 109 | calls 40
+    Leo -> Maya: Maya, one thing on the neck: the head line up top runs to the right, so curve the front neck gently toward the beak as it climbs. If it goes straight up into the head, the fall won't carry. I'll stay 
+    Priya -> everyone: Looks good so far, the whole run still falls. Maya, once the neck meets the beak I'll give the head one more look.
+    (Tom held a thought)
+    (Maya held a thought)
+[  176s] 3:45 asked Maya,Tom,Leo | dominoes 111 | calls 43
+    Maya -> everyone: Thanks both, good call Leo. The front neck's curving in toward the beak, 4 dominoes left. Then I'll check the joint.
+    (Tom held a thought)
+[  183s] 4:00 asked Tom,Priya,Leo | dominoes 112 | calls 46
+    Tom -> everyone: Maya, I'm staying out of your way up there. Shout when the front of the neck meets the beak and I'll look over the joint.
+    Priya -> everyone: I'll take a close look at the head and beak joint while you finish, Maya.
+[  192s] 4:15 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 50
+    Maya -> everyone: Front neck's done, it meets the beak and the whole run still falls from the start by my eye. I'm taking one close look at the beak joint now. Please nobody stand anything up near the head, so we don't
+    (Priya held a thought)
+    (Tom held a thought)
+[  199s] 4:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 54
+    Maya -> everyone: Beak joint looks solid, the whole run still falls from the start. I think we're done. Let's all keep hands off the head and the neck so nobody bumps it before the push.
+    (Priya held a thought)
+    (Tom held a thought)
+[  207s] 4:45 asked Tom,Priya,Leo | dominoes 112 | calls 57
+    Priya -> everyone: Body and wing look good to me too, and the whole run still falls from the start. I'm keeping my hands off everything so nobody bumps it. Let's just wait for the push.
+    (Leo held a thought)
+    (Tom held a thought)
+[  213s] 5:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 61
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Tom -> everyone: Looks great, Maya. Whole run falls by my eye too. I'll keep my hands off and just watch for any bumped dominoes.
+    Leo -> everyone: Looks good to me too. I'll keep my hands off and let it be.
+[  219s] 5:15 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 65
+    Priya -> everyone: Sounds good, everyone. Hands off, and we just enjoy the swan going down.
+    Maya -> everyone: Thanks all, nice teamwork. Hands off, let's watch it go.
+[  225s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 69
+    Priya -> everyone: Ha, fingers crossed. Go, swan, go!
+    Tom -> everyone: Fingers crossed, nice swan, everyone.
+[  231s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 73
+    Priya -> everyone: Okay, hands off, let's watch the swan go.
+    Maya -> everyone: Here goes. Great work, all.
+[  236s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 77
+[  236s] 6:15 asked - | dominoes 112 | calls 77
+[  236s] 6:30 asked - | dominoes 112 | calls 77
+[  236s] 6:45 asked - | dominoes 112 | calls 77
+[  242s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 81
+    Priya -> everyone: Fingers crossed, here it goes!
+[  248s] 7:15 asked Maya,Tom,Leo | dominoes 112 | calls 84
+    Tom -> everyone: Fingers crossed! Go, swan.
+    Maya -> everyone: Fingers crossed, go swan!
+[  255s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 88
+[  255s] 7:45 asked - | dominoes 112 | calls 88
+[  261s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 92
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: Two minutes, we're all set. Hands off, and let's enjoy the swan.
+[  267s] 8:15 asked Maya,Tom,Leo | dominoes 112 | calls 95
+    Maya -> everyone: Yep, all set. Hands off, enjoy the swan.
+    Tom -> everyone: Yep, all set. Hands off, watching it go.
+[  273s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 112 | calls 99
+    Priya -> everyone: All good here. Hands off, and enjoy the show.
+[  279s] 8:45 asked Maya,Tom,Leo | dominoes 112 | calls 102
+[  279s] 9:00 asked - | dominoes 112 | calls 102
+[  279s] 9:15 asked - | dominoes 112 | calls 102
+[  285s] 9:30 asked Priya | dominoes 112 | calls 103
+    Priya -> everyone: Thirty seconds, everyone. Hands off, here comes the swan!
+[  291s] 9:45 asked Maya,Tom,Leo | dominoes 112 | calls 106
+    Tom -> everyone: Here we go, good luck swan!
+    Maya -> everyone: Here we go, swan time!
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.81,
+      "error": 1.16
+    },
+    "Tom": {
+      "speed": 1.4,
+      "error": 0.52
+    },
+    "Priya": {
+      "speed": 0.99,
+      "error": 1.93
+    },
+    "Leo": {
+      "speed": 0.61,
+      "error": 1.02
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 329.5,
+  "intents": {
+    "Maya": "swan",
+    "Tom": "swan",
+    "Priya": "swan",
+    "Leo": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Priya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "bird in side profile, body with long neck",
+      "swan or duck outline",
+      "boat or ship hull"
+    ],
+    [
+      "swan or duck in side view",
+      "bird with a long neck and beak",
+      "leaf or sail shape"
+    ],
+    [
+      "swan or duck in profile",
+      "bird body with raised neck",
+      "boat or canoe with raised bow"
+    ]
+  ],
+  "placed": 112,
+  "fell": 112,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "0:45",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Leo": 7,
+    "Priya": 13,
+    "Tom": 8
+  },
+  "held_thoughts": 29,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 123,
+    "failed": 0,
+    "input_tokens": 240,
+    "cache_creation_tokens": 544941,
+    "cache_read_tokens": 415610,
+    "output_tokens": 41450,
+    "seconds": 762.6,
+    "api_equivalent_usd": 2.5309,
+    "cached": 6
+  },
+  "ambition": 0.2,
+  "ambition_ratings": [
+    {
+      "score": 2.0,
+      "why": "It is a simple single-outline shape, roughly a bird or swan head, with no interior detail, shading, or complex structure, so it reads as an easy, roughly done picture."
+    },
+    {
+      "score": 2.0,
+      "why": "It is a simple single-outline silhouette of a bird-like shape with no interior detail, so it is an easy, roughly done picture."
+    },
+    {
+      "score": 2.0,
+      "why": "It's a simple single-outline sketch of a bird-like shape with no detail, shading, or fill, so it reads as an ordinary, easy picture."
+    }
+  ],
+  "score_without_uniqueness": 0.167,
+  "uniqueness": "computed across the round's tables (experiments/uniqueness.py)",
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

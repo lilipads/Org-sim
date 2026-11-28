@@ -1,0 +1,41 @@
+[   33s] 0:00 asked Maya,Tom,Priya,Leo | dominoes 0 | calls 5
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Priya -> everyone: How about a fish? Big body, forked tail, easy for a judge to read. I'll sketch it on the pad now. Then someone can take the top of the body, someone the bottom, and someone the tail.
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   47s] 0:15 asked Maya,Tom,Leo | dominoes 0 | calls 8
+    Maya -> everyone: Fish, yes! I've got the pad, so I'll sketch it right now. Two big arcs from the nose, with the tail forking out at the end. Priya, can you take the top line? I'll do the bottom.
+    (Leo held a thought)
+    (Tom held a thought)
+[   60s] 0:30 asked Tom,Priya,Leo | dominoes 8 | calls 11
+    Leo -> everyone: Sketch looks good, Maya. I'll lay the first stroke along the top, which sets the start. Can someone take the bottom line? I'll check the joint at the nose once it's down.
+    (Tom held a thought)
+    (Priya held a thought)
+[   88s] 0:45 asked Maya,Tom,Priya,Leo | dominoes 18 | calls 15
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Priya -> everyone: Going well! Fish is on the pad, and I'm already laying the top line and the start, about a fifth of the way along. Leo, I've got that one, so could you help Maya with the bottom line? Between you two 
+    (Maya held a thought)
+    (Leo held a thought)
+    (Tom held a thought)
+[   99s] 1:00 asked Maya,Tom,Leo | dominoes 30 | calls 18
+    Maya -> everyone: Quick update: the nose is rounded on the pad now, so the top line just carries on a bit further round it. Priya, keep going on the top. I'm laying the bottom line and tail now. Leo, what are you layin
+    (Tom held a thought)
+    (Leo held a thought)
+[  113s] 1:15 asked Maya,Tom,Priya,Leo | dominoes 41 | calls 22
+    Leo -> everyone: That's me, Maya, I'm on the bottom line starting from the nose end. Priya has the top and the start. To avoid doubling up, how about I keep the whole bottom line and you take the tail, including the f
+    (Tom held a thought)
+    (Priya held a thought)
+    (Maya held a thought)
+[  134s] 1:30 asked Maya,Tom,Priya | dominoes 56 | calls 25
+    Maya -> everyone: Works for me, Leo. You keep the whole bottom line, I'll take the tail fork. When your line gets near where the tail starts to turn up, give me a shout so I don't build over you. Priya, how's the top g
+    (Tom held a thought)
+    (Priya held a thought)
+[  158s] 1:45 asked Tom,Priya,Leo | dominoes 64 | calls 29
+    Priya -> everyone: Sounds good, Leo keeps the bottom and Maya has the tail fork. The top line is nearly at the nose, so I'll carry it round and check the join with Leo's line when they meet. Maya, go ahead with the tail
+    (Tom held a thought)
+    (Leo held a thought)
+[  213s] 2:00 asked Maya,Tom,Priya,Leo | dominoes 78 | calls 34
+    Leo -> everyone: Will do, Maya. I'm past halfway on the bottom line. I'll shout when I get to where it curves up toward the tail. Then I'll check the nose join with Priya.
+    (Maya held a thought)
+    (Priya held a thought)

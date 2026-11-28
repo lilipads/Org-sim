@@ -1,0 +1,117 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.81,
+      "error": 1.16
+    },
+    "Tom": {
+      "speed": 1.4,
+      "error": 0.52
+    },
+    "Priya": {
+      "speed": 0.99,
+      "error": 1.93
+    },
+    "Leo": {
+      "speed": 0.61,
+      "error": 1.02
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 329.5,
+  "intents": {
+    "Maya": "swan",
+    "Tom": "swan",
+    "Priya": "swan",
+    "Leo": "swan"
+  },
+  "team_intent": "swan",
+  "recognition": 0.833,
+  "recognition_if_all_fell": 0.833,
+  "pad_holders": [
+    "Priya",
+    "Maya"
+  ],
+  "judge_guesses": [
+    [
+      "bird in side profile, body with long neck",
+      "swan or duck outline",
+      "boat or ship hull"
+    ],
+    [
+      "swan or duck in side view",
+      "bird with a long neck and beak",
+      "leaf or sail shape"
+    ],
+    [
+      "swan or duck in profile",
+      "bird body with raised neck",
+      "boat or canoe with raised bow"
+    ]
+  ],
+  "placed": 112,
+  "fell": 112,
+  "completion": 1.0,
+  "team_score": 0.833,
+  "first_domino_at": "0:45",
+  "messages": 45,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Maya": 14,
+    "Leo": 7,
+    "Priya": 13,
+    "Tom": 8
+  },
+  "held_thoughts": 29,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 123,
+    "failed": 0,
+    "input_tokens": 240,
+    "cache_creation_tokens": 544941,
+    "cache_read_tokens": 415610,
+    "output_tokens": 41450,
+    "seconds": 762.6,
+    "api_equivalent_usd": 2.5309,
+    "cached": 6
+  },
+  "ambition": 0.2,
+  "ambition_ratings": [
+    {
+      "score": 2.0,
+      "why": "It is a simple single-outline shape, roughly a bird or swan head, with no interior detail, shading, or complex structure, so it reads as an easy, roughly done picture."
+    },
+    {
+      "score": 2.0,
+      "why": "It is a simple single-outline silhouette of a bird-like shape with no interior detail, so it is an easy, roughly done picture."
+    },
+    {
+      "score": 2.0,
+      "why": "It's a simple single-outline sketch of a bird-like shape with no detail, shading, or fill, so it reads as an ordinary, easy picture."
+    }
+  ],
+  "score_without_uniqueness": 0.167,
+  "uniqueness": 1.0,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null,
+  "final_ambition_score": 0.167
+}
