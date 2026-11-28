@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "connector",
+  "Tom": "organiser",
+  "Priya": "builder",
+  "Leo": "runner"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.59,
+   "error": 1.47
+  },
+  "Tom": {
+   "speed": 0.56,
+   "error": 1.74
+  },
+  "Priya": {
+   "speed": 1.18,
+   "error": 1.45
+  },
+  "Leo": {
+   "speed": 0.51,
+   "error": 0.66
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Fetched a full bin load early, laid the upper tail, and bridged the broken nose join so the run caught, though the nose was a bit messy and took a few tries."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Led well by proposing the fish, sketching it and assigning strokes clearly, then diagnosed and cleared the nose problem and checked the full run until nearly all of it fell."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Hauled a couple of full loads to the bin, finished the lower tail to the end, and stayed clear of the nose as asked, with steady reliable communication."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 5,
+    "why": "Maya fetched a full bin load early, finished the bottom line cleanly, and ran the final checks that confirmed the whole fish falls, while keeping clear of the nose."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "Priya picked the fish, sketched it, assigned each person a stroke, and stayed with the nose joint until the run caught, which is why nearly all of it falls from the start."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "Leo hauled two full loads to the bin and finished the lower tail all the way to the end, though he did less on the joint problems that held up the run."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She traced the bottom line early and finished it dark, kept her hands off the nose to avoid bumping, and her final whole-run check confirmed nearly everything falls."
+   },
+   "Tom": {
+    "rating": 5,
+    "why": "He fetched a full bin load, laid the upper tail, and when the nose joint wouldn't catch he bridged it by carrying the start line on from its live end, which is what got the run connected."
+   },
+   "Leo": {
+    "rating": 4,
+    "why": "He kept the bin stocked and finished the lower tail reliably while staying clear of the nose, though his role was narrower and he had less hand in the critical nose fix."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 4,
+    "why": "I saw her haul a full 40 into the bin and lay the bottom line, which came out clean and dark, and her final whole-run check kept everyone honest."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He brought a full bin load and laid the upper tail, then rescued the stubborn nose joint by carrying the start line on from its live end, which was what got the run catching."
+   },
+   "Priya": {
+    "rating": 5,
+    "why": "She picked the fish, sketched it and assigned roles clearly, then laid the top line and worked through the nose problem methodically until about the whole run fell."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Leo": 4,
+   "Tom": 2,
+   "Priya": 3
+  },
+  "Tom": {
+   "Leo": 3,
+   "Maya": 1,
+   "Priya": 1
+  },
+  "Priya": {
+   "Leo": 3,
+   "Maya": 4,
+   "Tom": 4
+  },
+  "Leo": {
+   "Maya": 2,
+   "Tom": 1
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 2,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

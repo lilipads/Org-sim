@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 4,
+  "why": "I saw that her bottom line is complete and connected out to about (27, 15), so her execution is reliably verified. I didn't observe her communicating or her inspections, but Leo's account of confirming assignments with her matches her own, so I'm giving the benefit of the doubt on collaboration."
+ },
+ "Tom": {
+  "rating": 4,
+  "why": "He was honest at 3:45 about the pale tail and offered to help with the joint, and his account of the supply run, upper tail and nose bridge is plausible and fits what I saw. I'm holding at 4 because I never saw what he laid on the top line and the bridge claim overlaps with Priya's, so it is unverified."
+ },
+ "Priya": {
+  "rating": 4,
+  "why": "She set the design and direction, and the top line, the longest run, is dark and connected, so her leadership and ownership are clearly supported. Her 3:30 claim that the nose was hooked was premature, and her account of re-laying the joint conflicts with Tom's account of bridging it, so I can't credit her with the fix without confirmation."
+ },
+ "Leo": {
+  "rating": 3,
+  "why": "I saw nothing from him in five visits apart from Maya's thanks at 2:00, which fits his supply claim, and Maya's account of telling him the bottom line was ready matches his lower tail claim. His self-assessment is modest and consistent with the others, but supply was shared (Maya and Tom also fetched) and I never saw the lower tail built, so I'm rating him at solid-but-unverified."
+ }
+}

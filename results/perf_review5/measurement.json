@@ -1,0 +1,407 @@
+{
+ "games": [
+  {
+   "game": "runner_s442",
+   "names": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+   ],
+   "oracle": {
+    "Sofia": 36.0,
+    "Omar": 18.8,
+    "Hana": 45.0,
+    "Jack": 86.5
+   },
+   "oracle_planning": {
+    "Sofia": 59.2,
+    "Omar": 18.8,
+    "Hana": 45.0,
+    "Jack": 86.5
+   },
+   "words": {
+    "Sofia": 586,
+    "Omar": 364,
+    "Hana": 114,
+    "Jack": 439
+   },
+   "ratings": {
+    "individual": {
+     "Sofia": 38,
+     "Omar": 8,
+     "Hana": 0,
+     "Jack": 55
+    },
+    "peer": {
+     "Sofia": 4.67,
+     "Omar": 4.0,
+     "Hana": 3.67,
+     "Jack": 3.67
+    },
+    "manager": {
+     "Sofia": 4,
+     "Omar": 3,
+     "Hana": 4,
+     "Jack": 2
+    },
+    "forced": {
+     "Sofia": 3,
+     "Omar": 5,
+     "Hana": 3,
+     "Jack": 1
+    }
+   },
+   "claimed": {
+    "Sofia": 35.0,
+    "Omar": 22.0,
+    "Hana": 20.0,
+    "Jack": 30.0
+   }
+  },
+  {
+   "game": "runner_s443",
+   "names": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+   ],
+   "oracle": {
+    "Maya": 67.0,
+    "Tom": 43.4,
+    "Priya": 27.0,
+    "Leo": 49.0
+   },
+   "oracle_planning": {
+    "Maya": 67.0,
+    "Tom": 43.4,
+    "Priya": 56.5,
+    "Leo": 49.0
+   },
+   "words": {
+    "Maya": 333,
+    "Tom": 319,
+    "Priya": 391,
+    "Leo": 94
+   },
+   "ratings": {
+    "individual": {
+     "Maya": 61,
+     "Tom": 33,
+     "Priya": 44,
+     "Leo": 5
+    },
+    "peer": {
+     "Maya": 5.0,
+     "Tom": 4.33,
+     "Priya": 4.67,
+     "Leo": 4.0
+    },
+    "manager": {
+     "Maya": 3,
+     "Tom": 4,
+     "Priya": 4,
+     "Leo": 3
+    },
+    "forced": {
+     "Maya": 3,
+     "Tom": 3,
+     "Priya": 5,
+     "Leo": 1
+    }
+   },
+   "claimed": {
+    "Maya": 35.0,
+    "Tom": 30.0,
+    "Priya": 30.0,
+    "Leo": 30.0
+   }
+  },
+  {
+   "game": "runner_s444",
+   "names": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+   ],
+   "oracle": {
+    "Sofia": 35.5,
+    "Omar": 46.0,
+    "Hana": 19.0,
+    "Jack": 35.3
+   },
+   "oracle_planning": {
+    "Sofia": 35.5,
+    "Omar": 46.0,
+    "Hana": 19.0,
+    "Jack": 57.0
+   },
+   "words": {
+    "Sofia": 117,
+    "Omar": 8,
+    "Hana": 420,
+    "Jack": 603
+   },
+   "ratings": {
+    "individual": {
+     "Sofia": 0,
+     "Omar": 47,
+     "Hana": 14,
+     "Jack": 52
+    },
+    "peer": {
+     "Sofia": 3.33,
+     "Omar": 4.0,
+     "Hana": 4.33,
+     "Jack": 4.67
+    },
+    "manager": {
+     "Sofia": 3,
+     "Omar": 4,
+     "Hana": 3,
+     "Jack": 4
+    },
+    "forced": {
+     "Sofia": 1,
+     "Omar": 3,
+     "Hana": 3,
+     "Jack": 5
+    }
+   },
+   "claimed": {
+    "Sofia": 25.0,
+    "Omar": 30.0,
+    "Hana": 20.0,
+    "Jack": 40.0
+   }
+  },
+  {
+   "game": "runner_s445",
+   "names": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+   ],
+   "oracle": {
+    "Maya": 11.0,
+    "Tom": 37.5,
+    "Priya": 49.4,
+    "Leo": 53.0
+   },
+   "oracle_planning": {
+    "Maya": 11.0,
+    "Tom": 37.5,
+    "Priya": 49.4,
+    "Leo": 79.2
+   },
+   "words": {
+    "Maya": 188,
+    "Tom": 42,
+    "Priya": 220,
+    "Leo": 429
+   },
+   "ratings": {
+    "individual": {
+     "Maya": 11,
+     "Tom": 0,
+     "Priya": 47,
+     "Leo": 54
+    },
+    "peer": {
+     "Maya": 4.67,
+     "Tom": 4.0,
+     "Priya": 4.0,
+     "Leo": 5.0
+    },
+    "manager": {
+     "Maya": 4,
+     "Tom": 3,
+     "Priya": 3,
+     "Leo": 4
+    },
+    "forced": {
+     "Maya": 3,
+     "Tom": 1,
+     "Priya": 3,
+     "Leo": 5
+    }
+   },
+   "claimed": {
+    "Maya": 20.0,
+    "Tom": 15.0,
+    "Priya": 30.0,
+    "Leo": 35.0
+   }
+  },
+  {
+   "game": "runner_s446",
+   "names": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+   ],
+   "oracle": {
+    "Sofia": 42.0,
+    "Omar": 11.2,
+    "Hana": 34.1,
+    "Jack": 47.0
+   },
+   "oracle_planning": {
+    "Sofia": 42.0,
+    "Omar": 11.2,
+    "Hana": 34.1,
+    "Jack": 70.0
+   },
+   "words": {
+    "Sofia": 255,
+    "Omar": 391,
+    "Hana": 84,
+    "Jack": 282
+   },
+   "ratings": {
+    "individual": {
+     "Sofia": 44,
+     "Omar": 9,
+     "Hana": 0,
+     "Jack": 48
+    },
+    "peer": {
+     "Sofia": 4.67,
+     "Omar": 4.0,
+     "Hana": 4.0,
+     "Jack": 4.0
+    },
+    "manager": {
+     "Sofia": 4,
+     "Omar": 4,
+     "Hana": 3,
+     "Jack": 3
+    },
+    "forced": {
+     "Sofia": 3,
+     "Omar": 5,
+     "Hana": 1,
+     "Jack": 3
+    }
+   },
+   "claimed": {
+    "Sofia": 30.0,
+    "Omar": 20.0,
+    "Hana": 20.0,
+    "Jack": 35.0
+   }
+  },
+  {
+   "game": "runner_s447",
+   "names": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+   ],
+   "oracle": {
+    "Maya": 32.0,
+    "Tom": 14.1,
+    "Priya": 16.0,
+    "Leo": 28.1
+   },
+   "oracle_planning": {
+    "Maya": 32.0,
+    "Tom": 14.1,
+    "Priya": 36.2,
+    "Leo": 28.1
+   },
+   "words": {
+    "Maya": 165,
+    "Tom": 168,
+    "Priya": 299,
+    "Leo": 95
+   },
+   "ratings": {
+    "individual": {
+     "Maya": 29,
+     "Tom": 16,
+     "Priya": 29,
+     "Leo": 14
+    },
+    "peer": {
+     "Maya": 4.67,
+     "Tom": 4.33,
+     "Priya": 5.0,
+     "Leo": 4.0
+    },
+    "manager": {
+     "Maya": 4,
+     "Tom": 4,
+     "Priya": 4,
+     "Leo": 3
+    },
+    "forced": {
+     "Maya": 3,
+     "Tom": 5,
+     "Priya": 3,
+     "Leo": 1
+    }
+   },
+   "claimed": {
+    "Maya": 30.0,
+    "Tom": 30.0,
+    "Priya": 35.0,
+    "Leo": 30.0
+   }
+  }
+ ],
+ "summary": {
+  "individual": {
+   "n": 6,
+   "rho_oracle": 0.4,
+   "rho_oracle_planning": 0.79,
+   "rho_words": 0.67,
+   "top_hit": 0.92,
+   "bottom_hit": 0.0,
+   "flat": 0
+  },
+  "peer": {
+   "n": 6,
+   "rho_oracle": -0.09,
+   "rho_oracle_planning": 0.4,
+   "rho_words": 0.57,
+   "top_hit": 0.67,
+   "bottom_hit": 0.06,
+   "flat": 0
+  },
+  "manager": {
+   "n": 6,
+   "rho_oracle": -0.24,
+   "rho_oracle_planning": -0.01,
+   "rho_words": 0.34,
+   "top_hit": 0.22,
+   "bottom_hit": 0.08,
+   "flat": 0
+  },
+  "forced": {
+   "n": 6,
+   "rho_oracle": -0.37,
+   "rho_oracle_planning": -0.0,
+   "rho_words": 0.63,
+   "top_hit": 0.33,
+   "bottom_hit": 0.0,
+   "flat": 0
+  },
+  "self": {
+   "n": 6,
+   "claimed_total_mean": 112.83,
+   "rho_oracle_planning": 0.81
+  },
+  "individual~peer": 0.62,
+  "individual~manager": 0.26,
+  "individual~forced": 0.42,
+  "peer~manager": 0.52,
+  "peer~forced": 0.54,
+  "manager~forced": 0.66
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 3,
+  "why": "I saw her clear three nose strays without breaking the joint and hand the tail over cleanly, and her claimed bottom line is consistent with the connected result. She is solid with no concerns, but I never saw her inspect the whole fish, her later input only echoed Omar, and I still need to ask her what Jack's 'sounds good, Sofia' referred to."
+ },
+ "Omar": {
+  "rating": 5,
+  "why": "I saw him warn about the nose joint, and I verified that he extended the bottom line to close the tail shortfall, which was the catch that made the fish complete and fully connected. He was solid on execution, collaboration and impact, and his leadership was limited to calling the hands-off, which I did not inflate."
+ },
+ "Hana": {
+  "rating": 1,
+  "why": "She was silent in all five visits, so I saw no work, communication or leadership from her. Her only claim is supply fetching, which is basic work I could not verify, and her claims about speaking up on sequencing and bin status contradict what I observed."
+ },
+ "Jack": {
+  "rating": 3,
+  "why": "In five visits I saw only cheerleading and no work, which I do not rate. His claims to have proposed the fish and built the top line are corroborated by Omar, Sofia and Hana and match the unbroken top chain, so I credit him with the concept and backbone but not with leadership or checking that I could not see."
+ }
+}

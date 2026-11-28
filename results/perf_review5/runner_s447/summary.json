@@ -1,0 +1,107 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.59,
+      "error": 1.47
+    },
+    "Tom": {
+      "speed": 0.56,
+      "error": 1.74
+    },
+    "Priya": {
+      "speed": 1.18,
+      "error": 1.45
+    },
+    "Leo": {
+      "speed": 0.51,
+      "error": 0.66
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 469.7,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Tom",
+    "Tom"
+  ],
+  "judge_guesses": [
+    [
+      "a fish outline seen from the side",
+      "fallen dominoes arranged in a fish shape",
+      "a simple bird or fish-like curve"
+    ],
+    [
+      "a fish in side view, with a forked tail on the right",
+      "a fish-shaped outline or sketch of a fish",
+      "a curved bird or wing shape with a long tail feather"
+    ],
+    [
+      "fish outline",
+      "fish swimming to the right",
+      "curved line of dominoes forming a fish"
+    ]
+  ],
+  "placed": 93,
+  "fell": 88,
+  "completion": 0.946,
+  "team_score": 0.946,
+  "first_domino_at": "1:00",
+  "messages": 38,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Priya": 13,
+    "Tom": 9,
+    "Maya": 9,
+    "Leo": 4
+  },
+  "held_thoughts": 26,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 106,
+    "failed": 1,
+    "input_tokens": 222,
+    "cache_creation_tokens": 442611,
+    "cache_read_tokens": 407778,
+    "output_tokens": 38411,
+    "seconds": 835.0,
+    "api_equivalent_usd": 2.0727,
+    "cached": 0
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "organiser",
+    "Priya": "builder",
+    "Leo": "runner"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

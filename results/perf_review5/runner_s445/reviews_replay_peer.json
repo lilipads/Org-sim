@@ -1,0 +1,136 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Maya": "builder",
+  "Tom": "runner",
+  "Priya": "connector",
+  "Leo": "organiser"
+ },
+ "skills": {
+  "Maya": {
+   "speed": 0.92,
+   "error": 0.78
+  },
+  "Tom": {
+   "speed": 0.44,
+   "error": 1.29
+  },
+  "Priya": {
+   "speed": 1.05,
+   "error": 2.37
+  },
+  "Leo": {
+   "speed": 1.65,
+   "error": 0.38
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Maya": {
+   "Tom": {
+    "rating": 4,
+    "why": "Tom kept the shared bin stocked with big 40-domino batches all the way through, which let the builders work without stopping, though I saw less of his work on the picture itself."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "Priya hauled a full load early and laid most of the top line, but her line ran behind the belly and the join at the crossing came out too sharp, so I took over the last stretch to the tail tip."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "Leo picked a simple, readable fish, sketched it and split the work clearly, finished the belly first, and spotted the sharp join at the crossing, which kept the whole run connected from nose to both tail tips."
+   }
+  },
+  "Tom": {
+   "Maya": {
+    "rating": 4,
+    "why": "She brought a full 40 to the bin, checked the nose split and the crossing, and finished the lower tail when Priya's top line lagged, so the run ended fully connected."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She hauled a full load to the bin early and laid the back line cleanly and communicated well, though that line lagged the belly and needed Maya to finish the tail."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He chose a simple fish that reads clearly, sketched it fast, split the work sensibly, and caught the sharp join at the crossing, which kept the team on track and the whole run connected."
+   }
+  },
+  "Priya": {
+   "Maya": {
+    "rating": 5,
+    "why": "She stocked the bin early, then stayed free to check the nose split and the crossing, carried the top line from the crossing down to the lower tail tip, and kept the table informed throughout."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He kept the bin well stocked with repeated 40-domino runs and confirmed the status, though his contribution was supply work rather than laying any part of the picture."
+   },
+   "Leo": {
+    "rating": 5,
+    "why": "He proposed a clear fish plan, sketched it on the pad, assigned the strokes, finished the belly line first, and spotted the sharp turn at the crossing before it caused a break."
+   }
+  },
+  "Leo": {
+   "Maya": {
+    "rating": 5,
+    "why": "She stocked the bin early, then stepped in to lay the lower tail stretch from the crossing, nudged a stray domino back, and checked the crossing, which was the riskiest spot."
+   },
+   "Tom": {
+    "rating": 4,
+    "why": "He ran repeated 40-domino loads to the bin so nobody ran short and kept the table updated on stock, but he didn't lay any of the picture himself."
+   },
+   "Priya": {
+    "rating": 4,
+    "why": "She laid the top stroke over the back and kept the table updated, though she ran behind the belly line and the crossing needed Maya's help to finish cleanly."
+   }
+  }
+ },
+ "peer_seen": {
+  "Maya": {
+   "Tom": 2,
+   "Priya": 6,
+   "Leo": 1
+  },
+  "Tom": {
+   "Maya": 1,
+   "Priya": 1
+  },
+  "Priya": {
+   "Maya": 2,
+   "Tom": 2,
+   "Leo": 1
+  },
+  "Leo": {
+   "Maya": 5,
+   "Tom": 2,
+   "Priya": 5
+  }
+ },
+ "ratings": {
+  "Maya": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Tom": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Priya": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Leo": {
+   "rating": 5.0,
+   "all_raters": 5.0,
+   "raters_used": 2,
+   "raters_total": 3
+  }
+ }
+}

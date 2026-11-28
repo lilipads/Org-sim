@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 4,
+  "why": "I saw her proactively and honestly report the nudge, and the tail stayed intact, which supports her account of careful handling and good collaboration. Her self-assessment claims the hands-off call, but I heard Priya make it, and I can't verify who built what, so I'm crediting her observed conduct rather than the build."
+ },
+ "Tom": {
+  "rating": 3,
+  "why": "I never saw or heard him on any of my four visits, so I have no observed evidence for or against him, and I'm not penalizing quiet. His supply-run claims are plausible and consistent with a well-stocked, intact build, but they are uncorroborated, so I'm holding at a neutral rating pending a private check-in."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "Her 9:15 time call and hands-off reminder was a real coordination act, the table's hands-off state matched it, and her tone was positive and collaborative. Beyond that I saw little to support impact or leadership, and her claim to have laid the start domino overlaps with Leo's, so I'm not crediting the build."
+ },
+ "Leo": {
+  "rating": 4,
+  "why": "On my first visit he set clear process norms (stop touching, keep clear of the tail, call out and fix knocks), and the clean, disciplined table by the end suggests they held. I can't separate his influence from the team's own discipline, and his build claims are unverified, so I'm giving moderate rather than top credit."
+ }
+}

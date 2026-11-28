@@ -1,0 +1,26 @@
+{
+ "Sofia": {
+  "rating": 4.67,
+  "all_raters": 4.67,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Omar": {
+  "rating": 4.0,
+  "all_raters": 4.0,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Hana": {
+  "rating": 3.67,
+  "all_raters": 3.67,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Jack": {
+  "rating": 3.67,
+  "all_raters": 3.67,
+  "raters_used": 3,
+  "raters_total": 3
+ }
+}

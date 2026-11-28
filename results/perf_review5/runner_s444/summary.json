@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.84,
+      "error": 2.71
+    },
+    "Omar": {
+      "speed": 1.83,
+      "error": 1.84
+    },
+    "Hana": {
+      "speed": 1.85,
+      "error": 1.77
+    },
+    "Jack": {
+      "speed": 1.93,
+      "error": 2.56
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 639.1,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Jack"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left, with a forked tail on the right",
+      "leaf or almond shape with a stem and a curled tip",
+      "boat or canoe hull seen from the side"
+    ],
+    [
+      "fish seen from the side",
+      "leaf or seed outline",
+      "open-ended curved line drawing"
+    ],
+    [
+      "fish outline facing left",
+      "leaf or seed shape",
+      "boat hull on its side"
+    ]
+  ],
+  "placed": 113,
+  "fell": 113,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "0:45",
+  "messages": 41,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 20,
+    "Sofia": 6,
+    "Hana": 11,
+    "Omar": 1
+  },
+  "held_thoughts": 41,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 1,
+    "Hana": 1,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 133,
+    "failed": 3,
+    "input_tokens": 254,
+    "cache_creation_tokens": 602636,
+    "cache_read_tokens": 477380,
+    "output_tokens": 54423,
+    "seconds": 1319.9,
+    "api_equivalent_usd": 2.9131,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "runner",
+    "Omar": "builder",
+    "Hana": "checker",
+    "Jack": "connector"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -1,0 +1,134 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "runner",
+  "Omar": "builder",
+  "Hana": "checker",
+  "Jack": "connector"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.84,
+   "error": 2.71
+  },
+  "Omar": {
+   "speed": 1.83,
+   "error": 1.84
+  },
+  "Hana": {
+   "speed": 1.85,
+   "error": 1.77
+  },
+  "Jack": {
+   "speed": 1.93,
+   "error": 2.56
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "He built the bottom line quietly and reliably, and it carried through with no breaks, though I saw and heard little from him beyond that."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She laid the top line to the bend, spotted the sharp corner at the tail, and checked the whole run from the start, though she spent a fair amount of time checking rather than building."
+   },
+   "Jack": {
+    "rating": 5,
+    "why": "He set the fish plan and stroke assignments, fetched dominoes, built most of the top line, and re-laid and joined the tricky tail so the whole run carried from the start."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 3,
+    "why": "She kept the shared bin stocked with several 40-domino trips, which kept everyone building, but she declined to build or take a line herself and the table ended up with no dominoes left."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She took the start and top line, coordinated clearly, gave Jack sound advice on the sharp tail corner, and checked the whole run from the start, though I saw her do little building herself."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He proposed the fish, sketched it, and assigned the lines, then did the hard work of re-laying and joining the tail tip until it connected, though his updates were repetitive."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 3,
+    "why": "She kept the bin well stocked and was reliable and friendly, but she declined to build and kept fetching batches long after the bin was full, so her hands could have helped more on the lines."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He built the whole bottom line cleanly and on his own, and it connected smoothly from the start, but he said little and didn't take on any extra work once it was done."
+   },
+   "Jack": {
+    "rating": 5,
+    "why": "He came up with the fish idea and the sketch, split the roles, laid most of the top line, and then rebuilt the sharp tail corner as a smooth curve, so the whole run carried (113 of 113)."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 4,
+    "why": "She kept the shared bin stocked with several 40-domino runs so nobody ran short, though she skipped building and left the top-line assignment to others."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He built the whole bottom line steadily and without fuss, and it joined cleanly to the run, but I saw little of him and he said little."
+   },
+   "Hana": {
+    "rating": 5,
+    "why": "She laid a large share of the top line, spotted the sharp tail corner, and checked the whole run from the start, with clear and considerate coordination throughout."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Jack": 2,
+   "Hana": 1
+  },
+  "Omar": {
+   "Sofia": 3,
+   "Jack": 4,
+   "Hana": 1
+  },
+  "Hana": {
+   "Sofia": 3,
+   "Jack": 5
+  },
+  "Jack": {
+   "Sofia": 3,
+   "Hana": 4
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 3.33,
+   "all_raters": 3.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 4.33,
+   "all_raters": 4.33,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "runner",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.11,
+   "error": 1.77
+  },
+  "Omar": {
+   "speed": 0.77,
+   "error": 2.3
+  },
+  "Hana": {
+   "speed": 1.65,
+   "error": 0.97
+  },
+  "Jack": {
+   "speed": 2.42,
+   "error": 1.13
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "He hauled a 40-domino load to the bin, finished the tail tip, and kept clear of my hands, but he mostly watched and cheered from the middle of the round, and his offer to take my bottom line overlapped with work I'd already queued."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "I saw her bring two 40-domino loads to the bin and keep it stocked, so nobody ran short, and she correctly pointed out that the bottom line had to wait for the top to reach the nose, though she stayed on supply and never laid a line herself."
+   },
+   "Jack": {
+    "rating": 5,
+    "why": "He proposed the fish, sketched it on the pad, split the work clearly, laid the top line fast enough that the bottom could start, and checked the nose joint, so the whole fish traced as connected."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 5,
+    "why": "I saw her lay the bottom line from the nose joint and carry on down it, then she cleared the stray dominoes and checked that the whole fish traced as connected, which is what made the picture work."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She brought 40 dominoes to the bin twice and kept supply stocked, which kept the building going, but I didn't see her lay any of the picture itself."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He proposed the fish, sketched the pad and laid the start and top line, and kept everyone informed, though he mostly watched once the top line was done."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 4,
+    "why": "She laid the bottom line, cleared the stray dominoes at the nose, and checked that the whole fish traced as connected, though I only saw her bring a bin load of 40 early on."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He brought a big load to the bin, finished the tail tip when the bottom line stopped short, and offered to patch, but he sent a lot of repeated cheering messages."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He chose a simple fish, sketched the plan on the pad, assigned roles clearly and traced the top line so the fall could start, though the tail ended up open and there is no eye detail."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She traced the whole bottom line, cleared the stray dominoes at the nose, and checked that the fish was connected from the start, which was the key to the picture working."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He hauled a load to the bin, finished the tail tip on the bottom line, and kept checking for breaks, though he did over-announce 'hands off' a lot."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She kept the bin stocked with several 40-domino loads and flagged how the fall would run from the tail round the nose, but I didn't see her lay any dominoes."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Hana": 2,
+   "Omar": 1
+  },
+  "Omar": {
+   "Sofia": 4,
+   "Hana": 2,
+   "Jack": 1
+  },
+  "Hana": {
+   "Sofia": 1,
+   "Omar": 1
+  },
+  "Jack": {
+   "Sofia": 6,
+   "Hana": 2,
+   "Omar": 1
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 4.0,
+   "all_raters": 4.33,
+   "raters_used": 1,
+   "raters_total": 3
+  }
+ }
+}

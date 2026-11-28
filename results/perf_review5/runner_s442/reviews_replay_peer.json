@@ -1,0 +1,137 @@
+{
+ "condition": "peer",
+ "evaluation_text": "Each of your teammates rates you 1-5 on impact, execution, collaboration and leadership, and your rating is the average. Your rating decides your promotion and bonus this cycle. You care about your career.",
+ "styles": {
+  "Sofia": "checker",
+  "Omar": "connector",
+  "Hana": "runner",
+  "Jack": "builder"
+ },
+ "skills": {
+  "Sofia": {
+   "speed": 1.91,
+   "error": 2.72
+  },
+  "Omar": {
+   "speed": 1.51,
+   "error": 2.37
+  },
+  "Hana": {
+   "speed": 1.03,
+   "error": 0.89
+  },
+  "Jack": {
+   "speed": 1.8,
+   "error": 0.63
+  }
+ },
+ "manager_schedule": null,
+ "fetch_policy": {},
+ "manager_visibility": "full",
+ "peer_ratings_given": {
+  "Sofia": {
+   "Omar": {
+    "rating": 4,
+    "why": "Fetched a full load for the bin early, fixed the nose split and carried the top tail into the flare, though he doubled up with Jack on the join and then stayed clear."
+   },
+   "Hana": {
+    "rating": 3,
+    "why": "Kept the bin stocked with several 40-domino loads and gave a correct diagnosis of the flare join and a sensible call to avoid doubling up, but she didn't lay much of the picture herself."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "Laid the start and top line quickly and did the bottom flare, then kept retrying the stubborn join through several attempts and communicated clearly throughout, though the flare join stayed loose and the picture's bottom tail looks partly disconnected."
+   }
+  },
+  "Omar": {
+   "Sofia": {
+    "rating": 4,
+    "why": "She proposed the fish, drew a clear sketch on the pad, and built the bottom line, then closed the stubborn tail join in the last minutes, though her many repeated status updates were a bit noisy."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She kept the bin stocked with several 40-domino runs and gave an accurate diagnosis of the flare join and a sensible call to avoid doubling up, though her hands-on building was limited."
+   },
+   "Jack": {
+    "rating": 4,
+    "why": "He laid the start and the top line, built the tail flare and kept working at the stubborn join for minutes, but the repeated re-bridging cost time and crowded the spot."
+   }
+  },
+  "Hana": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She proposed the fish and sketched it on the pad, built the bottom line, and kept the table coordinated. She also stepped in to close the flare join late, so the fish ended up mostly connected."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He brought a full 40 to the bin early, fixed the jam at the nose split and carried the top line into the tail, and was generally responsive. His one lapse was doubling up with Jack at the flare join."
+   },
+   "Jack": {
+    "rating": 3,
+    "why": "He fetched a full 40 for the bin and built the top line, but then spent several minutes on repeated bridges at the bottom flare join. They added crowding and strays, and the join was still pale until Sofia took it over."
+   }
+  },
+  "Jack": {
+   "Sofia": {
+    "rating": 5,
+    "why": "She proposed the fish and sketched it on the pad, built the bottom line, and kept trying to close the flare join with a bend, connect and fix until the last minute, all while keeping everyone coordinated."
+   },
+   "Omar": {
+    "rating": 4,
+    "why": "He fetched a full load for the bin, fixed the nose split and carried the top tail into the flare, though he doubled up with me on the join and was mostly watching late on."
+   },
+   "Hana": {
+    "rating": 4,
+    "why": "She kept the bin stocked with several 40-domino loads and gave a clear diagnosis of the flare join, and told Omar and me to stop doubling up, but she didn't lay much herself."
+   }
+  }
+ },
+ "peer_seen": {
+  "Sofia": {
+   "Hana": 3,
+   "Jack": 8,
+   "Omar": 1
+  },
+  "Omar": {
+   "Hana": 3,
+   "Jack": 10,
+   "Sofia": 2
+  },
+  "Hana": {
+   "Jack": 8,
+   "Sofia": 2,
+   "Omar": 2
+  },
+  "Jack": {
+   "Hana": 3,
+   "Sofia": 3,
+   "Omar": 3
+  }
+ },
+ "ratings": {
+  "Sofia": {
+   "rating": 4.67,
+   "all_raters": 4.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Omar": {
+   "rating": 4.0,
+   "all_raters": 4.0,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Hana": {
+   "rating": 3.67,
+   "all_raters": 3.67,
+   "raters_used": 3,
+   "raters_total": 3
+  },
+  "Jack": {
+   "rating": 3.67,
+   "all_raters": 3.67,
+   "raters_used": 3,
+   "raters_total": 3
+  }
+ }
+}

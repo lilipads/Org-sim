@@ -561,3 +561,64 @@ The selfish fetcher topped peers and manager for visible design catches (sharp t
 her fetching was never mentioned. Peers credited the sharer's stocking as a footnote. The data briefing changed
 nothing (ratings bunched at 4-5). The low-visibility manager missed the top contributor (Tom: 3). The oracle
 doesn't credit verbal catches. Next: make supply matter more, script the selfish player, or credit catches.
+
+## 15. Audit, fixed-engine rerun and crossed review replays
+
+### 15.1 Audit of the main run (`experiments/audit_perf.py`, `results/perf_review/audit.json`)
+
+The main run (§11, seeds 402-407) was played before the connect, fix and trace tools were repaired. Classifying
+every placed domino by the job that placed it shows the "overbuilding" under none / individual was connect-tool
+dominoes (85 and 77 per game against 22-36 elsewhere), not bigger plans (plan size 122-136 everywhere) and not
+count-seeking (the incentive appears in under 1% of private reasoning in every condition). Connect dominoes
+correlate -0.86 with the share that fell. The main run's motivation results should not be cited.
+
+### 15.2 Rerun on the fixed engine (`results/perf_review4`, 18 games)
+
+Same seeds and settings, conditions none / individual / team.
+
+| | Recognised | Standing | Mean share fell | Connect dominoes |
+|---|---|---|---|---|
+| none | 6/6 | 139 | 98% | 0 |
+| individual | 6/6 | 124 | 98% | 0 |
+| team | 4/6 (+1 at 1 of 3 judges) | 118 | 82% | 1.7 |
+
+No paired contrast is significant (sign test p >= 0.22). The team-vs-individual effect in §11 was the broken
+tool. **Telling these players how they will be reviewed does not change how they play.**
+
+### 15.3 Every review system on the same games (`experiments/analyze_measurement.py`)
+
+Each of the 18 games was replayed through all four review systems (`replay_reviews.sh`); a manager who was not
+in the original game is walked through the recording on the usual visit schedule. Behaviour is fixed; only the
+reviewer changes.
+
+| System | Rank agreement with oracle incl. planning | ... with words spoken | Names the oracle's top person |
+|---|---|---|---|
+| Individual count | 0.66 | 0.15 | 75% |
+| Forced ranking | 0.58 | 0.40 | 72% |
+| Manager | 0.40 | 0.48 | 56% |
+| Peer | 0.40 | 0.35 | 57% |
+
+Count beats manager in 14/18 games (p = 0.031) and peer in 16/18 (p = 0.001). Forced vs free manager rating:
+9/18, no reliable difference. Managers give 3s and 4s (64 of 72 ratings), peers 4s and 5s (65 of 72). Claimed
+shares sum to 114% and rank-agree with the oracle at 0.68. Caveat: these games have almost no fixes, breaks or
+hidden work (11 of 18 games have none at all), so the oracle is close to sound dominoes plus planning credit and
+the count wins partly by construction.
+
+### 15.4 Runner games (`results/perf_review5`, 6 games, no review during play, then all four systems)
+
+All six recognised. The assigned runner supplied 40-87 dominoes to the shared bin and laid almost nothing.
+
+| | Mean rank of the runner (1 = best of 4) | Games ranked last or tied last |
+|---|---|---|
+| Oracle (table average + time saved) | 2.3 | 0/6 |
+| Individual count | 4.0 | 6/6 |
+| Peer | 3.7 | 5/6 |
+| Manager | 3.3 | 5/6 |
+| Forced ranking | 3.8 | 5/6 (rated 1 in five games) |
+
+Every system puts the runner at the bottom. Peers name the deliveries and still mark the runner down for not
+building; the manager's forced 1s say "thinnest evidence" rather than poor work. Caveats: the oracle's value
+for a runner is a modelling choice (§14), the scripted check found a dedicated runner at a table of four no
+faster than everyone fetching for themselves, and in three of the six games the runner made a single trip.
+So "the systems under-rate the runner" is supported only as "the systems rank whoever does the unbuilt work
+last, whatever its value"; the games do not establish that the value was high.

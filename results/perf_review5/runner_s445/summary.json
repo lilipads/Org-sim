@@ -1,0 +1,106 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 0.92,
+      "error": 0.78
+    },
+    "Tom": {
+      "speed": 0.44,
+      "error": 1.29
+    },
+    "Priya": {
+      "speed": 1.05,
+      "error": 2.37
+    },
+    "Leo": {
+      "speed": 1.65,
+      "error": 0.38
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 466.0,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Leo"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline (ichthys-style fish symbol)",
+      "fish with a forked tail, drawn as a single line",
+      "leaf or almond shape with a crossing stroke"
+    ],
+    [
+      "fish outline with a crossed tail",
+      "ichthys (christian fish) symbol",
+      "leaf or almond shape with a crossing stroke"
+    ],
+    [
+      "fish outline, side view",
+      "ichthys christian fish symbol",
+      "leaf or almond shape with a crossing stroke"
+    ]
+  ],
+  "placed": 112,
+  "fell": 112,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 35,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 12,
+    "Priya": 10,
+    "Tom": 3,
+    "Maya": 7
+  },
+  "held_thoughts": 29,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 1,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 113,
+    "failed": 1,
+    "input_tokens": 218,
+    "cache_creation_tokens": 490126,
+    "cache_read_tokens": 397592,
+    "output_tokens": 40213,
+    "seconds": 865.8,
+    "api_equivalent_usd": 2.3225,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Maya": "builder",
+    "Tom": "runner",
+    "Priya": "connector",
+    "Leo": "organiser"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

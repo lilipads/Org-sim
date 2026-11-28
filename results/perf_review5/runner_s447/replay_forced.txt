@@ -1,0 +1,18 @@
+{
+ "Maya": {
+  "rating": 3,
+  "why": "The bottom line she was assigned is finished and connected, so she probably delivered on pace, though I can't confirm she built it. She was silent whenever I visited, which doesn't match her claims of constant updates and leading the hands-off call, so I'm giving only tentative credit."
+ },
+ "Tom": {
+  "rating": 5,
+  "why": "He was the only one whose behavior I saw match his account: accurate and honest at the table, and he offered help on the nose joint that was later fixed. His claimed role in the fix is plausible but unconfirmed, and his upper tail and collaboration fit the plan Priya described, so he has the strongest evidence for both execution and collaboration."
+ },
+ "Priya": {
+  "rating": 3,
+  "why": "She set the plan and tested the nose, which was good instinct, but her earlier claim that the nose was hooked in was premature and she doesn't claim the eventual fix. Her direction-setting is plausible but I can't verify it, so she lands mid-pack."
+ },
+ "Leo": {
+  "rating": 1,
+  "why": "Across five visits I saw and heard nothing from him, so I have no direct evidence of impact, execution, collaboration or leadership. His self-report of frequent progress updates doesn't match that, and on the forced curve the person with the least verifiable contribution gets the lowest rating, though this reflects a lack of evidence rather than proven poor work."
+ }
+}

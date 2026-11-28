@@ -1,0 +1,107 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.11,
+      "error": 1.77
+    },
+    "Omar": {
+      "speed": 0.77,
+      "error": 2.3
+    },
+    "Hana": {
+      "speed": 1.65,
+      "error": 0.97
+    },
+    "Jack": {
+      "speed": 2.42,
+      "error": 1.13
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 431.2,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Omar",
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left",
+      "simple fish body silhouette",
+      "curved line drawing of a fish"
+    ],
+    [
+      "fish outline facing left",
+      "fish body with forked tail",
+      "open-mouthed fish sketch"
+    ],
+    [
+      "fish outline facing left",
+      "fish side view with forked tail",
+      "open-mouthed fish or bird-like shape"
+    ]
+  ],
+  "placed": 101,
+  "fell": 101,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 12,
+    "Omar": 20,
+    "Hana": 2,
+    "Sofia": 13
+  },
+  "held_thoughts": 37,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 147,
+    "failed": 1,
+    "input_tokens": 292,
+    "cache_creation_tokens": 649740,
+    "cache_read_tokens": 571945,
+    "output_tokens": 64158,
+    "seconds": 1005.8,
+    "api_equivalent_usd": 3.2103,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "runner",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

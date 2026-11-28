@@ -1,0 +1,26 @@
+{
+ "Maya": {
+  "rating": 5.0,
+  "all_raters": 5.0,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Tom": {
+  "rating": 4.33,
+  "all_raters": 4.33,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Priya": {
+  "rating": 4.67,
+  "all_raters": 4.67,
+  "raters_used": 3,
+  "raters_total": 3
+ },
+ "Leo": {
+  "rating": 4.0,
+  "all_raters": 4.0,
+  "raters_used": 3,
+  "raters_total": 3
+ }
+}

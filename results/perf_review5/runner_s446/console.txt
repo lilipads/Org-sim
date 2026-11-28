@@ -1,0 +1,234 @@
+[   21s] 0:00 asked Sofia,Omar,Hana,Jack | dominoes 0 | calls 4
+    Facilitator -> everyone: 10 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Jack -> everyone: Let's do a fish, big and simple: start at the nose, split into a top and bottom line, and flare out into a tail. I've got the pad and I'm sketching it now. Sofia and Omar, could you grab a big load of
+    (Sofia held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[   28s] 0:15 asked Sofia,Omar,Hana | dominoes 0 | calls 7
+    Omar -> everyone: Fish it is, love it. Jack, pad's all yours. I'm off to grab a big load for the bin.
+    (Hana held a thought)
+    (Sofia held a thought)
+[   54s] 0:30 asked Jack | dominoes 0 | calls 9
+    Jack -> everyone: Thanks Omar, got the pad. Fish is going down now: two lines leave the nose together, round the body, pinch at the tail and flare out. I'll trace the top line once it's up, Hana, you take the bottom on
+[   65s] 0:45 asked Omar,Hana | dominoes 0 | calls 11
+    Hana -> everyone: Fish sounds good, Jack. I'm bringing forty to the bin now and I'll keep it topped up, so I'm staying on supply. Omar or Sofia, can one of you take the bottom line? Jack, the pad has the start at the t
+    (Omar held a thought)
+[  150s] 1:00 asked Sofia,Omar,Hana,Jack | dominoes 12 | calls 17
+    Omar -> everyone: Almost back with a load. I'll take the bottom line, Hana, stroke 2. Jack, get the top going so the start domino goes down.
+    (Sofia held a thought)
+    (Jack held a thought)
+    (Hana held a thought)
+[  156s] 1:15 asked Omar,Hana,Jack | dominoes 18 | calls 20
+    Jack -> everyone: Top line's going down now, Omar, thanks for taking the bottom one. Hana, thanks for keeping the bin stocked, that's a big help.
+    Hana -> everyone: Thanks Omar, bottom line's yours. Bin's well stocked after this load, I'll stay on supply.
+    (Omar held a thought)
+[  164s] 1:30 asked Omar,Hana | dominoes 30 | calls 22
+    Omar -> everyone: Back, and the bin looks well stocked. Sofia, looks like you've got the bottom line, so I'll leave it with you. I'll check the top line for breaks and patch whatever I find.
+[  173s] 1:45 asked Sofia,Omar | dominoes 40 | calls 24
+    Omar -> everyone: Sofia, I can't see your hands on the bottom line, so I'll grab it now. It'll wait at the nose until Jack's top line gets there. If you've already started, shout and I'll switch to patching.
+    (Sofia held a thought)
+[  181s] 2:00 asked Sofia,Omar,Hana,Jack | dominoes 48 | calls 28
+    Sofia -> everyone: Omar, I'm already queued on the bottom line, it'll kick in as soon as the top reaches the nose. Stay on patching the top. Jack, shout if the top stalls and I'll help finish it.
+    (Jack held a thought)
+    (Omar held a thought)
+    (Hana held a thought)
+[  190s] 2:15 asked Omar,Hana,Jack | dominoes 53 | calls 31
+    Jack -> everyone: Top line's reached the nose now, Sofia, go ahead with the bottom. I'll check the joint there in case it needs a nudge.
+    (Omar held a thought)
+    (Hana held a thought)
+[  196s] 2:30 asked Sofia,Omar,Hana,Jack | dominoes 59 | calls 35
+    Omar -> everyone: Got it Sofia, bottom line's all yours. The top looks solid from the tail round to the nose, so I'll hang back and watch for breaks. Shout if you want a hand.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  206s] 2:45 asked Sofia,Omar,Hana,Jack | dominoes 64 | calls 39
+    Jack -> everyone: Joint at the nose looks good, Sofia's already rolling down the bottom. Nice work, everyone. I'll keep an eye on the bottom line for gaps as it goes.
+    (Omar held a thought)
+    (Sofia held a thought)
+[  216s] 3:00 asked Sofia,Omar,Hana,Jack | dominoes 67 | calls 43
+    Omar -> everyone: Bottom line's looking smooth, Sofia. Fish is taking shape! I'll check the nose joint and then the tail end once you get there.
+    Sofia -> everyone: On it, bottom line's going down now. Joint at the nose looks fine from here.
+    (Jack held a thought)
+[  224s] 3:15 asked Sofia,Omar,Hana,Jack | dominoes 70 | calls 47
+    Omar -> everyone: Looking good, Sofia. I'll stay clear so we don't bump each other, and check the tail once you get there.
+    Sofia -> everyone: Thanks Omar. Bottom line's about halfway, bin looks fine. I'll inspect the whole fish once it reaches the tail.
+    (Jack held a thought)
+[  233s] 3:30 asked Sofia,Omar,Hana,Jack | dominoes 75 | calls 51
+    Omar -> everyone: All good, Sofia, you're flying. I'll look over the tail end of the top while you finish the bottom, and keep out of your way.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  242s] 3:45 asked Sofia,Omar,Hana,Jack | dominoes 81 | calls 55
+    Jack -> everyone: Sofia's got the bottom line moving, so I'll stay out of her way. Shout if anything stalls near the tail and I'll jump in.
+    (Sofia held a thought)
+    (Omar held a thought)
+[  249s] 4:00 asked Sofia,Omar,Hana | dominoes 84 | calls 58
+    Sofia -> everyone: Thanks Omar. Just a few dominoes left to the tail. I'll inspect the whole fish once it's done.
+    (Omar held a thought)
+[  258s] 4:15 asked Omar,Hana,Jack | dominoes 88 | calls 61
+    Omar -> everyone: Sounds good Sofia, I'll stay clear. Shout when the tail's done and I'll check the whole bottom run.
+    Jack -> everyone: Nice, Sofia, almost there. I'll look over the top line and the nose for hidden gaps while you finish the tail.
+[  267s] 4:30 asked Sofia,Omar,Hana,Jack | dominoes 96 | calls 65
+    Omar -> everyone: Sofia, the bottom line stops short of the tail, so I'm carrying it on down to the tail tip now. Shout if you're already on it.
+    (Sofia held a thought)
+[  275s] 4:45 asked Sofia,Hana,Jack | dominoes 100 | calls 68
+    Sofia -> everyone: Thanks Omar, you take the tail tip, I'll stay clear. I'm checking the nose, there are a few pale strays there that don't look connected.
+    (Jack held a thought)
+[  285s] 5:00 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 72
+    Facilitator -> everyone: 5 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Clearing the three loose strays at the nose, they're not part of the run. Omar, tail tip is yours. Once they're gone I'll check the whole fish.
+    (Omar held a thought)
+    (Jack held a thought)
+[  293s] 5:15 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 76
+    Omar -> everyone: Tail tip's done, the fish is closed up. Sofia, careful at the nose, the joint dominoes sit right next to those strays. I'm taking a look there now.
+    (Jack held a thought)
+    (Sofia held a thought)
+[  302s] 5:30 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 80
+    Sofia -> everyone: Strays are cleared, and the whole fish traces as connected from the start, nose joint included. Omar, you can have a look, but let's keep our hands off the nose now so we don't knock anything. I'm sto
+    (Omar held a thought)
+    (Jack held a thought)
+[  308s] 5:45 asked Omar,Hana,Jack | dominoes 101 | calls 83
+    Jack -> everyone: Sounds good, Sofia. Tail tip looks done, Omar, nice. I'll keep my hands off and just watch for anything that falls over.
+    (Omar held a thought)
+[  315s] 6:00 asked Sofia,Omar,Hana | dominoes 101 | calls 86
+    Omar -> everyone: Nice one, Sofia. Fish traces all the way through, so I'm keeping my hands off the nose. Just let it sit and let the clock run out.
+    (Sofia held a thought)
+[  321s] 6:15 asked Sofia,Hana,Jack | dominoes 101 | calls 89
+    Sofia -> everyone: Thanks Jack, Omar. Yep, hands off now, everything's connected. Just shout if anything falls over before the push.
+[  327s] 6:30 asked Omar,Hana,Jack | dominoes 101 | calls 92
+    Omar -> everyone: Fish looks great, team. Hands off and let the clock run out.
+    Jack -> everyone: Sounds good, Sofia. Great teamwork, everyone, that's a proper fish. Fingers crossed for the push!
+[  333s] 6:45 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 96
+    Omar -> everyone: Fish looks great. Fingers crossed for the push!
+[  339s] 7:00 asked Sofia,Hana,Jack | dominoes 101 | calls 99
+[  339s] 7:15 asked - | dominoes 101 | calls 99
+[  339s] 7:30 asked - | dominoes 101 | calls 99
+[  343s] 7:45 asked Omar | dominoes 101 | calls 100
+[  351s] 8:00 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 104
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Sofia -> everyone: Two minutes left. Everything's connected, so hands off and let it sit. Shout if anything topples.
+    Omar -> everyone: Two minutes to go, fish is all connected. Hands off, everyone, and may the push be kind to us!
+[  357s] 8:15 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 108
+    Jack -> everyone: Yep, all good from here. Hands off, nice work everyone, especially Sofia on that fish.
+[  363s] 8:30 asked Sofia,Omar,Hana | dominoes 101 | calls 111
+    Sofia -> everyone: Thanks Jack, and thanks both, great teamwork. Hands off now, let's see it fall.
+    Omar -> everyone: Fish is looking great, team. Hands off and enjoy the push!
+[  369s] 8:45 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 115
+    Sofia -> everyone: Hands off, everyone. Looking good, let's watch it fall!
+[  374s] 9:00 asked Omar,Hana,Jack | dominoes 101 | calls 118
+    Omar -> everyone: Fingers crossed, here it comes!
+    Jack -> everyone: Looking good, Sofia, great fish. Fingers crossed!
+[  381s] 9:15 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 122
+    Omar -> everyone: Here we go, fish team. Three, two, one...
+    Sofia -> everyone: Here we go, hands off and watch the fish!
+[  387s] 9:30 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 126
+    Jack -> everyone: Go, little fish, go! Great work, Sofia and Omar.
+    Omar -> everyone: Hands off, everyone. Let's watch the fish swim!
+[  393s] 9:45 asked Sofia,Omar,Hana,Jack | dominoes 101 | calls 130
+    Omar -> everyone: Hands off, nobody breathe on it. Go, fish, go!
+    Sofia -> everyone: Go fish go! Hands off, everyone.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Sofia",
+    "Omar",
+    "Hana",
+    "Jack"
+  ],
+  "skills": {
+    "Sofia": {
+      "speed": 1.11,
+      "error": 1.77
+    },
+    "Omar": {
+      "speed": 0.77,
+      "error": 2.3
+    },
+    "Hana": {
+      "speed": 1.65,
+      "error": 0.97
+    },
+    "Jack": {
+      "speed": 2.42,
+      "error": 1.13
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 431.2,
+  "intents": {
+    "Sofia": "fish",
+    "Omar": "fish",
+    "Hana": "fish",
+    "Jack": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 1.0,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Omar",
+    "Omar"
+  ],
+  "judge_guesses": [
+    [
+      "fish outline facing left",
+      "simple fish body silhouette",
+      "curved line drawing of a fish"
+    ],
+    [
+      "fish outline facing left",
+      "fish body with forked tail",
+      "open-mouthed fish sketch"
+    ],
+    [
+      "fish outline facing left",
+      "fish side view with forked tail",
+      "open-mouthed fish or bird-like shape"
+    ]
+  ],
+  "placed": 101,
+  "fell": 101,
+  "completion": 1.0,
+  "team_score": 1.0,
+  "first_domino_at": "1:00",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Jack": 12,
+    "Omar": 20,
+    "Hana": 2,
+    "Sofia": 13
+  },
+  "held_thoughts": 37,
+  "parse_failures": {
+    "Sofia": 0,
+    "Omar": 0,
+    "Hana": 0,
+    "Jack": 0
+  },
+  "usage": {
+    "calls": 147,
+    "failed": 1,
+    "input_tokens": 292,
+    "cache_creation_tokens": 649740,
+    "cache_read_tokens": 571945,
+    "output_tokens": 64158,
+    "seconds": 1005.8,
+    "api_equivalent_usd": 3.2103,
+    "cached": 6
+  },
+  "review": "none",
+  "styles": {
+    "Sofia": "checker",
+    "Omar": "connector",
+    "Hana": "runner",
+    "Jack": "builder"
+  },
+  "review_ratings": null,
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

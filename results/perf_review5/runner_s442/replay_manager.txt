@@ -1,0 +1,18 @@
+{
+ "Sofia": {
+  "rating": 4,
+  "why": "She owned the bottom join, kept her stated 1:30 redo point, told people what she was doing and asked Jack to stay clear. At 8:45 the flare was still pale and the gap open after she twice announced the same closing step, so her claim of a finished join and about 101 of 108 falling is unproven."
+ },
+ "Omar": {
+  "rating": 3,
+  "why": "He offered to close the join if it was still open at 1:30 left, which was a useful commitment. That point passed with the gap still open and I didn't hear from him, so I can't tell whether he acted or deferred to Sofia, and his claims about supply and the nose fix are unverified."
+ },
+ "Hana": {
+  "rating": 4,
+  "why": "She showed good collaboration and leadership when I was at the table, including asking for one person to own the join, which fits how Sofia ended up owning it. I never saw what she placed, and her 101-of-108 estimate doesn't match the open flare gap, so her credit rests mostly on supply, inspection and coordination she describes but I couldn't verify."
+ },
+ "Jack": {
+  "rating": 2,
+  "why": "He reported 'Bridge is down' three times (5:15, 5:45, 7:45) when the flare was still pale, and told people to hang tight rather than check the table. That is a repeated reliability and execution problem, and the bottom flare he claims to have carried through is the part still not connected, so I give no credit for it."
+ }
+}
