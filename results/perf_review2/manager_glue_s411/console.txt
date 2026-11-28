@@ -84,3 +84,217 @@
     (Leo held a thought)
     (Tom held a thought)
     (Priya held a thought)
+[  418s] 5:15 asked Tom,Priya,Leo | dominoes 204 | calls 68
+    Leo -> everyone: Staying clear of the tail corner, Maya. I'm easing the jammed spot on the upper tail just before the junction. Shout if you want a hand once your join is in.
+    (Tom held a thought)
+[  430s] 5:30 asked Maya,Tom,Priya,Leo | dominoes 204 | calls 72
+    Priya -> Maya: Maya, the stray pale dominoes under the tail look like they're crowding your join. Want me to clear them out, away from your corner? I'll stay clear until you say.
+    Maya -> everyone: Join's in, curved into the lower tail. I'm checking now that it goes dark. Leo, Tom, stay off that corner until I say.
+    (Tom held a thought)
+    (Leo held a thought)
+[  458s] 5:45 asked Maya,Tom,Priya,Leo | dominoes 204 | calls 77
+    Maya -> everyone: Update: it's not dark yet. The inspection still shows the corner at the bottom of the tail edge turning too hard, and one domino in the join sits off to the side. I'm nudging both now. Priya, yes plea
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  472s] 6:00 asked Maya,Tom,Priya,Leo | dominoes 178 | calls 81
+    Maya -> everyone: Nudging isn't cutting it, so I'm relaying the whole lower tail stroke fresh. Priya, keep clearing the strays. Tom, Leo, stay off that corner for a minute, then we check it goes dark.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  483s] 6:15 asked Maya,Tom,Priya,Leo | dominoes 179 | calls 85
+    Tom -> everyone: Got it, Maya, staying well clear of that corner. Shout when the tail's laid and I'll close any off-line domino and check it all goes dark.
+    (Maya held a thought)
+    (Priya held a thought)
+[  492s] 6:30 asked Maya,Tom,Priya,Leo | dominoes 173 | calls 89
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Maya -> everyone: Lower tail's relaid, but a few dominoes didn't fit, so I'm inspecting to see if it goes dark. Priya, thanks, the strays under the tail are fine to clear. Tom, Leo, stay off that corner until I say.
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  506s] 6:45 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 93
+    Maya -> everyone: Okay, lower tail's relaid but a couple of dominoes still sit off the line. I'm fixing those small breaks now, no more relaying. Tom, Leo, stay off that corner. Priya, keep clearing the strays. At abou
+    (Leo held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  516s] 7:00 asked Maya,Tom,Priya,Leo | dominoes 168 | calls 97
+    Leo -> everyone: Maya, I looked at the lower tail and it's still broken in a few places. The middle of the tail has a spread-out stretch, a couple of dominoes sit off the line just left of it, and one line ends pointi
+    (Maya held a thought)
+    (Tom held a thought)
+    (Priya held a thought)
+[  528s] 7:15 asked Maya,Tom,Priya | dominoes 177 | calls 100
+    Maya -> everyone: Yes please, Leo, close the left part of the lower tail. I'll do one gentle join from the end of that line into the lower tail. Priya, Tom, keep off the body. Last whole-run check at about a minute lef
+    (Priya held a thought)
+    (Tom held a thought)
+[  544s] 7:30 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 105
+    Tom -> everyone: Got it, Maya, I'm keeping off the body and the corner. I'll watch the whole tail from a distance and call out anything still pale before the last check.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  554s] 7:45 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 109
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Leo -> everyone: On it, Maya. I'm looking at the left part of the lower tail now and closing what I find. I'm keeping off the corner and the body.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  567s] 8:00 asked Maya,Tom,Priya,Leo | dominoes 177 | calls 113
+    Facilitator -> everyone: 2 minutes left! When time's up I'll push your start domino; only what's connected to it will fall.
+    Maya -> everyone: Quick status: the fish body and upper tail fall fine, so it reads as a fish already. The lower tail is the only piece still pale. Leo, keep closing the left part. Nobody touch the body. I'm taking one
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  578s] 8:15 asked Maya,Tom,Priya,Leo | dominoes 200 | calls 117
+    Maya -> everyone: Last try on the corner, one small fix and no more relaying. Leo, keep closing the left part. Everyone else hands off the body. Final check in about a minute.
+    (Leo held a thought)
+    (Priya held a thought)
+[  603s] 8:30 asked Maya,Tom,Priya,Leo | dominoes 212 | calls 122
+    Maya -> everyone: Change of plan, I'm branching a straight run down from the start line to the top of the tail edge. Tom, as soon as it lands, can you join its end into the pale lower tail? Everyone else, hands off the
+    (Leo held a thought)
+    (Priya held a thought)
+[  611s] 8:45 asked Maya,Tom,Priya,Leo | dominoes 218 | calls 126
+    Tom -> everyone: On it, Maya, joining the end of that run into the lower tail now.
+    Leo -> everyone: Left part of the lower tail is joined in, Maya. I'm just looking at it now, not touching anything. Staying off the corner and the body.
+    (Maya held a thought)
+    (Priya held a thought)
+[  621s] 9:00 asked Maya,Tom,Priya,Leo | dominoes 218 | calls 130
+    Maya -> everyone: Run's landed all the way down to the tail edge. Tom, go ahead and join its end into the lower tail. I'm checking the run for gaps. Everyone else, hands off the body.
+    (Leo held a thought)
+    (Priya held a thought)
+    (Tom held a thought)
+[  632s] 9:15 asked Maya,Tom,Priya,Leo | dominoes 218 | calls 134
+    Manager -> everyone: Hi all, just checking in. How's it going? What's everyone working on?
+    Tom -> everyone: Join's in, Maya. The end of the run feeds into the lower tail. I'm closing one small off-line spot at the corner now and touching nothing else.
+    (Maya held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  643s] 9:30 asked Maya,Tom,Priya,Leo | dominoes 218 | calls 138
+    Maya -> everyone: Nice, thanks Tom. Everyone hands off now, no more touching. Whatever's dark when the push comes is what we get, and the fish already reads.
+    (Tom held a thought)
+    (Priya held a thought)
+    (Leo held a thought)
+[  649s] 9:45 asked Tom,Priya,Leo | dominoes 218 | calls 141
+    Tom -> everyone: Maya, the run's joined into the lower tail and I nudged the last off-line domino at the corner. I'm hands off now.
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 2.01,
+      "error": 2.01
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 0.77
+    },
+    "Priya": {
+      "speed": 0.94,
+      "error": 0.5
+    },
+    "Leo": {
+      "speed": 2.28,
+      "error": 0.6
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 742.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish with tail",
+      "leaf on a stem",
+      "boat with mast"
+    ],
+    [
+      "fish with forked tail",
+      "leaf on a stem",
+      "canoe or boat"
+    ],
+    [
+      "fish",
+      "leaf",
+      "boat"
+    ]
+  ],
+  "placed": 218,
+  "fell": 117,
+  "completion": 0.537,
+  "team_score": 0.358,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 9,
+    "Priya": 3,
+    "Maya": 21,
+    "Tom": 9,
+    "Manager": 5
+  },
+  "held_thoughts": 86,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 164,
+    "failed": 1,
+    "input_tokens": 324,
+    "cache_creation_tokens": 872211,
+    "cache_read_tokens": 484193,
+    "output_tokens": 108579,
+    "seconds": 1518.5,
+    "api_equivalent_usd": 4.4576,
+    "cached": 7
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She set the plan and checkpoints, communicated clearly, delegated well, and made the hands-off call that protected the result, and her private status was candid and matched the table. Execution was weaker: she spent too long on the lower tail, the fix came too late, and the tail still isn't fully connected."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He took on the key lower-tail join, inspected carefully, and was responsive to Maya, so his contribution and collaboration are real. But he reported 'Join's in' when the table still showed the lower tail pale, so his claim was overstated or unverified, which weakens his execution and reliability."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She claims the blueprint, the nose and top body, and the junction joins, and the body outline does fall and read as a fish, but I never saw her work and her earlier status was slightly generous. Her collaboration claims (splitting strokes, staying clear, offering to clear strays) are plausible, but the pale strays she offered to clear are still there, and I need to ask her directly what she placed."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "He proposed the fish concept, which the table adopted and which made the build read clearly, and he collaborated well, including offering help and taking the left lower tail. However, the chain near x=21.7, y=15 is still open, and I haven't seen evidence of his roughly 80-domino claim, so impact is only partly confirmed."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

@@ -129,7 +129,7 @@ def main():
     import statistics as st
     by = defaultdict(list)
     for g in games:
-        if int(g["game"].rsplit("_s", 1)[1]) >= 402:
+        if int(g["game"].rsplit("_s", 1)[1].split("_")[0]) >= 402:
             by[g["condition"]].append(g)
     order = ["none", "individual", "team", "manager", "peer", "forced"]
     head = ["| condition | games | recognised | share fell | dominoes placed | plan size | redundant | words | private msgs | rho(rating, oracle) | rho(rating, +planning) | rho(rating, words) | rating spread |",

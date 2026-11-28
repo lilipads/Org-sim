@@ -1,0 +1,124 @@
+{
+  "size": 4,
+  "minutes": 10,
+  "view": "image",
+  "pad_minutes": 10,
+  "big_dominoes": true,
+  "personas": [
+    "Maya",
+    "Tom",
+    "Priya",
+    "Leo"
+  ],
+  "skills": {
+    "Maya": {
+      "speed": 2.01,
+      "error": 2.01
+    },
+    "Tom": {
+      "speed": 1.38,
+      "error": 0.77
+    },
+    "Priya": {
+      "speed": 0.94,
+      "error": 0.5
+    },
+    "Leo": {
+      "speed": 2.28,
+      "error": 0.6
+    }
+  },
+  "seconds_per_domino": 3.0,
+  "agent_model": "sonnet",
+  "wall_seconds": 742.8,
+  "intents": {
+    "Maya": "fish",
+    "Tom": "fish",
+    "Priya": "fish",
+    "Leo": "fish"
+  },
+  "team_intent": "fish",
+  "recognition": 0.667,
+  "recognition_if_all_fell": 1.0,
+  "pad_holders": [
+    "Priya"
+  ],
+  "judge_guesses": [
+    [
+      "fish with tail",
+      "leaf on a stem",
+      "boat with mast"
+    ],
+    [
+      "fish with forked tail",
+      "leaf on a stem",
+      "canoe or boat"
+    ],
+    [
+      "fish",
+      "leaf",
+      "boat"
+    ]
+  ],
+  "placed": 218,
+  "fell": 117,
+  "completion": 0.537,
+  "team_score": 0.358,
+  "first_domino_at": "0:30",
+  "messages": 50,
+  "messages_by_speaker": {
+    "Facilitator": 3,
+    "Leo": 9,
+    "Priya": 3,
+    "Maya": 21,
+    "Tom": 9,
+    "Manager": 5
+  },
+  "held_thoughts": 86,
+  "parse_failures": {
+    "Maya": 0,
+    "Tom": 0,
+    "Priya": 0,
+    "Leo": 0
+  },
+  "usage": {
+    "calls": 164,
+    "failed": 1,
+    "input_tokens": 324,
+    "cache_creation_tokens": 872211,
+    "cache_read_tokens": 484193,
+    "output_tokens": 108579,
+    "seconds": 1518.5,
+    "api_equivalent_usd": 4.4576,
+    "cached": 7
+  },
+  "review": "manager",
+  "styles": {
+    "Maya": "connector",
+    "Tom": "glue",
+    "Priya": "builder",
+    "Leo": "checker"
+  },
+  "review_ratings": {
+    "Maya": {
+      "rating": 4,
+      "why": "She set the plan and checkpoints, communicated clearly, delegated well, and made the hands-off call that protected the result, and her private status was candid and matched the table. Execution was weaker: she spent too long on the lower tail, the fix came too late, and the tail still isn't fully connected."
+    },
+    "Tom": {
+      "rating": 3,
+      "why": "He took on the key lower-tail join, inspected carefully, and was responsive to Maya, so his contribution and collaboration are real. But he reported 'Join's in' when the table still showed the lower tail pale, so his claim was overstated or unverified, which weakens his execution and reliability."
+    },
+    "Priya": {
+      "rating": 3,
+      "why": "She claims the blueprint, the nose and top body, and the junction joins, and the body outline does fall and read as a fish, but I never saw her work and her earlier status was slightly generous. Her collaboration claims (splitting strokes, staying clear, offering to clear strays) are plausible, but the pale strays she offered to clear are still there, and I need to ask her directly what she placed."
+    },
+    "Leo": {
+      "rating": 3,
+      "why": "He proposed the fish concept, which the table adopted and which made the build read clearly, and he collaborated well, including offering help and taking the left lower tail. However, the chain near x=21.7, y=15 is still open, and I haven't seen evidence of his roughly 80-domino claim, so impact is only partly confirmed."
+    }
+  },
+  "decision": "free",
+  "dictator": null,
+  "decided": null,
+  "decision_open_at": null
+}

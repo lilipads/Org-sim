@@ -379,3 +379,20 @@ Readings (6 games per condition, directions not measurements):
   joining 64; seams with one person joining 119 (above 83 because the scripted joiner over-builds). With the
   wider hands: 64 unjoined, 88 joined, with more spread (one seed at 11). Joined seams can complete the fish
   either way.
+
+### 13.4 Same game replayed on the fixed tools (seed 411)
+
+| | Old tools | Fixed tools |
+|---|---|---|
+| Recognised | 0.0 | **0.67** |
+| Fell / placed | 139 / 250 | 117 / 218 |
+| Open breaks | 8 | **0** |
+| Tom: join/fix attempts | 17 | 7 |
+| Tom: dominoes laid, stray | 94, 28 | 39, 0 |
+| Joins that held (oracle) | 0 | 2 (Tom at the body-tail crossing at 1:15, Leo at the tail at 1:30) |
+| Manager rating for Tom | 2 | 3 |
+
+Tom's first join, at the crossing where the body lines meet the tail, held and carried the run into the
+whole body outline; with the old tools the equivalent join never held and he spent five minutes on it. The
+tail below the crossing is still a tangle of pale leftovers (the run doesn't reach it), so the picture is
+recognisable but messy. Pictures: `results/perf_review2/manager_glue_s411*/tom_joins.png`.
